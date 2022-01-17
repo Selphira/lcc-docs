@@ -10,3 +10,6 @@
 
 # 
 
+[![Created Badge](https://badges.pufler.dev/created/LaCouronnedeCuivre/lcc-docs?style=plastic)](https://badges.pufler.dev)
+![GitHub repo size](https://img.shields.io/github/repo-size/LaCouronnedeCuivre/lcc-docs?style=plastic)
+[![Visits Badge](https://badges.pufler.dev/visits/LaCouronnedeCuivre/lcc-docs?color=cyan&style=plastic)](https://badges.pufler.dev) 
