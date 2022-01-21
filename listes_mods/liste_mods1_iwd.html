@@ -116,13 +116,21 @@
 
 		<hr>
 
-		<p>
-			<label for="countriesDropdown" style="font-weight: bold;">Choisissez votre jeu :
-			<select class= "tri" id="countriesDropdown" oninput="filterByGame()">
+		<p><a name="filtre" id="filtre"></a>
+			<label for="gamesDropdown" style="font-weight: bold;">Choisissez votre jeu :
+			<select class= "tri" id="gamesDropdown" oninput="filterByGame()">
 			<option>Tous</option>
-			<option>IWD</option>
-			<option>IWDEE</option>
-			<option>IWD2EE</option>
+			<optgroup label="Jeux">
+				<option>IWD</option>
+				<option>IWDEE</option>
+				<option>IWD2EE</option>
+			</optgroup>
+			<optgroup label="Traductions">
+				<option>Non traduits</option>
+				<option style="color:lime;">Traduction en cours</option>
+				<option style="color:red;">Mise à jour nécessaire</option>
+				<option style="color:DeepSkyBlue;">Traduits</option>
+			</optgroup>
 		</select></label>
 		</p>
 
@@ -142,7 +150,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -283,7 +291,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -347,7 +355,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -1142,7 +1150,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -1294,7 +1302,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -1593,7 +1601,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -1637,7 +1645,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -1706,7 +1714,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -1929,7 +1937,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -2322,16 +2330,18 @@
 
 		<table class="tableau" style="margin-left: 80px;line-height: 170%;" summary="Liste des mods override ajoutant ou modifiant des sorts et/ou des objets">
 			<colgroup>
-				<col style="border-right: 3px double #aaa;" WIDTH=320 /><col WIDTH=40 /><col WIDTH=56 /><col WIDTH=44 /><col style="border-right: 3px double #aaa;" WIDTH=60" /><col WIDTH=180 /><col WIDTH=64 /><col class="col8" />
+				<col WIDTH=24 /><col style="border-right: 3px double #aaa;" WIDTH=320 /><col WIDTH=40 /><col WIDTH=56 /><col WIDTH=44 /><col style="border-right: 3px double #aaa;" WIDTH=60" /><col WIDTH=180 /><col WIDTH=64 /><col class="col8" />
 			</colgroup>
 			<tr style= "line-height: 300%;">
+				<th></th>
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
+				<td>O</td>
 				<td class="mod">Add Morningstar of Action +4 to random treasure list</td>
 				<td></td>
 				<td class="jeu">IWDEE</td>
@@ -2350,6 +2360,7 @@
 				  </form></td>
 			</tr>
 			<tr>
+				<td></td>
 				<td class="mod">&#10062; IWD2 Unofficial Item/Spell Patch</td>
 				<td></td>
 				<td></td>
@@ -2367,6 +2378,7 @@
 				  </form></td>
 			</tr>
 			<tr>
+				<td>S</td>
 				<td class="mod">&#10060; &#10062; Level 8 & 9 Mage Spells by TeamBG</td>
 				<td></td>
 				<td></td>
@@ -2408,7 +2420,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -3647,7 +3659,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -3708,7 +3720,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -3852,7 +3864,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -5232,7 +5244,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>

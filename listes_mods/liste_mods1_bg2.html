@@ -116,13 +116,21 @@
 		<hr>
 
 		<p><a name="filtre" id="filtre"></a>
-			<label for="countriesDropdown" style="font-weight: bold;">Choisissez votre jeu :
-			<select class= "tri" id="countriesDropdown" oninput="filterByGame()">
+			<label for="gamesDropdown" style="font-weight: bold;">Choisissez votre jeu :
+			<select class= "tri" id="gamesDropdown" oninput="filterByGame()">
 			<option>Tous</option>
+			<optgroup label="Jeux">
 			<option>BG2</option>
 			<option>BGT</option>
 			<option>BG2EE</option>
 			<option>EET</option>
+			</optgroup>
+			<optgroup label="Traductions">
+				<option>Non traduits</option>
+				<option style="color:lime;">Traduction en cours</option>
+				<option style="color:red;">Mise à jour nécessaire</option>
+				<option style="color:DeepSkyBlue;">Traduits</option>
+			</optgroup>
 		</select></label>
 		</p>
 
@@ -142,7 +150,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -287,7 +295,7 @@
 					<label for="trad-0024"><img width=24 height=14 src="images/fr-flag-32.png" title="Mod français" />&#160;<strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span></strong> Équipe</label>
 					<input type="checkbox" name="trad-0024" id="trad-0024"/>
 					<div class="contenu">
-					  <p style="width:100%; text-align:center;padding=0">Lefreut et Jasira, plus une foule de contributeurs à découvrir sur la page GitHub du mod !</p>
+					  <p style="width:100%; text-align:center;padding=0">Lefreut et Jazira, plus une foule de contributeurs à découvrir sur la page GitHub du mod !</p>
 					</div>
 				  </form></td>
 				<td><a href="https://www.baldursgateworld.fr/lacouronne/correction-de-la-traduction-de-baldur-s-gate-ii-enhanced-edition/33428-presentation-du-mod.html"><img width=24 height=24 src="images/logocc.png" title="La Couronne de Cuivre" /></a> <a href="https://github.com/r-e-d/correctfrBG2EE/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
@@ -297,7 +305,7 @@
 					<input type="checkbox" name="desc-0024" id="desc-0024"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod a pour objectif de corriger la traduction française de Baldur's Gate II : Enhanced Edition, ainsi que de proposer une version française complète digne de ce nom, aussi bien au niveau des textes que du doublage audio.<br>
-					  Il mod reprend les textes, les vidéos et le doublage audio de Baldur's Gate 2 et du Mod semi-officiel de traduction partielle de BG2EE comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB).<br>
+					  Il reprend les textes, les vidéos et le doublage audio de Baldur's Gate 2 et du Mod semi-officiel de traduction partielle de BG2EE comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB).<br>
 					  À cela s'ajoutent des dizaines de milliers de correctifs supplémentaires des textes, du doublage audio et des bogues. Ainsi que quelques ajouts comme les ensembles de voix de BG1 en français, des répliques doublées supplémentaires, etc.<br>
 					  Ce mod vous offre également 3 options au sujet du doublage vidéo et audio (VF / VF + VO / VO). Pour plus de précisions, consultez le <a href="https://r-e-d.github.io/correctfrBG2EE/correctfrbg2ee/readme/readme-correctfrbg2ee.html">readme</a>.</p>
 					</div>
@@ -381,7 +389,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -534,7 +542,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -723,7 +731,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -2270,7 +2278,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -2447,7 +2455,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -4095,7 +4103,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -4668,7 +4676,7 @@
 					<div class="contenu">
 					  <p style="width:100%;">Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est un des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romance et quêtes personnelle étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.<br>
 					  <span style="color: red;">Nécessite une mise à jour de la traduction, v5+.</span><br>
-					 &#9888;&#65039; Note : depuis la version v4, déjà compatible BG2EE et avec la partie TOB, le mod a perdu sa traduction française. Vous trouverez <a href="http://www.mediafire.com/file/f73zx1hpibwcrng/Fade_v3_EE.zip/file">ici</a> la version 3 sans la partie ToB, mais avec la traduction française.</p>
+					 &#9888;&#65039; Note : depuis la version v4, déjà compatible BG2:EE et avec la partie ToB, le mod a perdu sa traduction française. Vous trouverez <a href="http://www.mediafire.com/file/f73zx1hpibwcrng/Fade_v3_EE.zip/file">ici</a> la version 3 sans la partie ToB, mais avec la traduction française.</p>
 					</div>
 				  </form></td>
 			</tr>
@@ -4686,8 +4694,8 @@
 					<input type="checkbox" name="desc-0543" id="desc-0543"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod vous permet de recruter Faldorn, la druidesse de l'ombre de BG:EE, dans BG2:EE. Cependant, vous devez vous rappeler qu'elle est sauvage et qu'elle ne sera pas aussi paisible que la plupart des druides. Au contraire, elle est l'étincelle sauvage qui peut déclencher un grand feu.<br>
-					  Faldorn peut rejoindre votre groupe après son intrigue originale dans SoA. Une fois que vous aurez terminé les quêtes de Francmarché et que vous serez devenu le héros de la ville, attendez un jour ou deux, et un druide vous approchera et vous demandera de retourner au bosquet, car quelque chose d'étrange s'est produit.<br>
-					  Ce mod ajoute 3 petites quêtes liées à Faldorn dans SoA et 1 autre dans ToB. Elle peut être romancée par des hommes et des femmes de n'importe quel alignement chaotique ayant une force de 13 ou plus et une constitution de 11 ou plus. Cependant, gardez à l'esprit qu'elle n'est pas exactement un personnage chaleureux et gentil, et cela se reflète dans tous ses dialogues.<br>
+					  Faldorn peut rejoindre votre groupe après son intrigue originale dans SoA. Une fois que vous aurez terminé les quêtes de Franc-Marché et que vous serez devenu le héros de la ville, attendez un jour ou deux, et un druide vous approchera et vous demandera de retourner au bosquet, car quelque chose d'étrange s'est produit.<br>
+					  Ce mod ajoute trois petites quêtes liées à Faldorn dans SoA et une autre dans ToB. Elle peut être romancée par des hommes et des femmes de n'importe quel alignement chaotique ayant une force de 13 ou plus et une constitution de 11 ou plus. Cependant, gardez à l'esprit qu'elle n'est pas exactement un personnage chaleureux et gentil, et cela se reflète dans tous ses dialogues.<br>
 					  Pour la rendre encore plus utile, son profil comprend une capacité spéciale qui lui permet de se transformer en centipède. Sous cette forme, elle peut utiliser des capacités de voleur, mais ne peut pas lancer de sorts et devient assez faible en combat.</p>
 					</div>
 				  </form></td>
@@ -6303,7 +6311,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -6876,7 +6884,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -8010,7 +8018,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -8876,7 +8884,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -10578,7 +10586,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -10899,7 +10907,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -13296,7 +13304,7 @@
 				<td><a href="https://forums.beamdog.com/discussion/63481/war-hulk-kit-for-fighters-v1-1/p1"><img width=22 height=22 src="images/beamdog.png" title="Beamdog" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1338"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span>Description</strong></label>
+					<label for="desc-1338"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1338" id="desc-1338"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod ajoute un profil pour guerrier. C'est un combattant indiscipliné, sauvage, et féroce. Alors que la plupart des guerriers développent leurs compétences dans les arts martiaux, le War Hulk ne recherche que la force brute. Il évite la stratégie et les tactiques, préférant concentrer toute son énergie dans un seul coup massif.<br>
@@ -13585,7 +13593,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -13860,7 +13868,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -14355,7 +14363,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -15107,7 +15115,7 @@
 					<label for="desc-1653"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1653" id="desc-1653"/>
 					<div class="contenu">
-					  <p style="width:100%;">Selon l'auteur, dans le premier Baldur's Gate, nous sommes clairement au début de l'automne, mais le jeu commence le 2 Myrtul (l'équivalent du mois de mai). La suite se déroule à une saison indéterminée mais verdoyante, très probablement au printemps ou à l'été de l'année suivante. La campagne Siège of Dragonspear doit donc se dérouler pendant l'hiver dans le Nord. Techniquement, le deuxième jeu commence aussi le 2 de Myrtul, mais c'est clairement un oubli, simplement une date non corrigée.<br>
+					  <p style="width:100%;">Selon l'auteur, dans le premier Baldur's Gate, nous sommes clairement au début de l'automne, mais le jeu commence le 2 Myrtul (l'équivalent du mois de mai). La suite se déroule à une saison indéterminée mais verdoyante, très probablement au printemps ou à l'été de l'année suivante. La campagne SoD doit donc se dérouler pendant l'hiver dans le Nord. Techniquement, le deuxième jeu commence aussi le 2 de Myrtul, mais c'est clairement un oubli, simplement une date non corrigée.<br>
 					  Ce mod modifie donc le calendrier des deux jeux pour mieux rendre compte de la cohérence de l'enchaînement des événements. CHARNAME quittera Château-Suif le 10 de Marpenoth (septembre) et se retrouvera dans le donjon d'Irenicus le 25 de Flamerule (juillet) l'année suivante.<br>
 					  &#9888;&#65039; Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faut... À installer à vos risques et périls.</p>
 					</div>
@@ -17830,7 +17838,7 @@
 				<th>Mod</th>
 				<th colspan="4" class="double">Jeux</td>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>

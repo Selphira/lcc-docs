@@ -116,16 +116,24 @@
 
 		<hr>
 
-		<p>
-			<label for="countriesDropdown" style="font-weight: bold;">Choisissez votre jeu :
-			<select class= "tri" id="countriesDropdown" oninput="filterByGame()">
+		<p><a name="filtre" id="filtre"></a>
+			<label for="gamesDropdown" style="font-weight: bold;">Choisissez votre jeu :
+			<select class= "tri" id="gamesDropdown" oninput="filterByGame()">
 			<option>Tous</option>
-			<option>BG</option>
-			<option>BGT</option>
-			<option>Tutu</option>
-			<option>BGEE</option>
-			<option>SoD</option>
-			<option>EET</option>
+			<optgroup label="Jeux">
+				<option>BG</option>
+				<option>BGT</option>
+				<option>Tutu</option>
+				<option>BGEE</option>
+				<option>SoD</option>
+				<option>EET</option>
+			</optgroup>
+			<optgroup label="Traductions">
+				<option>Non traduits</option>
+				<option style="color:lime;">Traduction en cours</option>
+				<option style="color:red;">Mise à jour nécessaire</option>
+				<option style="color:DeepSkyBlue;">Traduits</option>
+			</optgroup>
 		</select></label>
 		</p>
 
@@ -145,7 +153,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -432,7 +440,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -678,7 +686,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -723,7 +731,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -2612,7 +2620,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -2663,7 +2671,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -3371,7 +3379,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -3741,7 +3749,7 @@
 				  </form></td>
  			</tr>
 			<tr>
-				<td class="mod">&#9989; Huple NPC</td>
+				<td class="modblue">&#9989; Huple NPC</td>
 				<td></td>
 				<td></td>
 				<td class="jeu">BGT</td>
@@ -4327,7 +4335,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -4339,7 +4347,7 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td><a href="http://www.shsforums.net/files/file/704-brages-penance/"></a><img width=24 height=24 src="images/shs_reskit.png" title="Spellhold Studios" /></td>
+				<td><a href="http://www.shsforums.net/files/file/704-brages-penance/"><img width=24 height=24 src="images/shs_reskit.png" title="Spellhold Studios" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
 					<label for="desc-0706"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
@@ -4348,7 +4356,7 @@
 					  <p style="width:100%;">L'auteur de ce mod se vante de l'avoir écrit en 3h47m pour fêter l'anniversaire de BG...<br>
 					  Vous pouvez recruter Brage et accomplir une petite quête.<br>
 					  &#9888;&#65039; Attention : il n'a pas été testé !<br>
-					  Il est intégré dans le mod <a href="#icendoan"></a>Archive of Icendoan</a>.</p>
+					  Il est intégré dans le mod <a href="#icendoan">Archive of Icendoan</a>.</p>
 					</div>
 				  </form></td>
 			</tr>
@@ -4394,7 +4402,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -4950,7 +4958,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -5322,7 +5330,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -6223,7 +6231,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -6330,7 +6338,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -8301,7 +8309,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -8385,7 +8393,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -8870,7 +8878,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -9667,7 +9675,7 @@
 					<label for="desc-1653"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1653" id="desc-1653"/>
 					<div class="contenu">
-					  <p style="width:100%;">Selon l'auteur, dans le premier Baldur's Gate, nous sommes clairement au début de l'automne, mais le jeu commence le 2 Myrtul (l'équivalent du mois de mai). La suite se déroule à une saison indéterminée mais verdoyante, très probablement au printemps ou à l'été de l'année suivante. La campagne Siège of Dragonspear doit donc se dérouler pendant l'hiver dans le Nord. Techniquement, le deuxième jeu commence aussi le 2 de Myrtul, mais c'est clairement un oubli, simplement une date non corrigée.<br>
+					  <p style="width:100%;">Selon l'auteur, dans le premier Baldur's Gate, nous sommes clairement au début de l'automne, mais le jeu commence le 2 Myrtul (l'équivalent du mois de mai). La suite se déroule à une saison indéterminée mais verdoyante, très probablement au printemps ou à l'été de l'année suivante. La campagne SoD doit donc se dérouler pendant l'hiver dans le Nord. Techniquement, le deuxième jeu commence aussi le 2 de Myrtul, mais c'est clairement un oubli, simplement une date non corrigée.<br>
 					  Ce mod modifie donc le calendrier des deux jeux pour mieux rendre compte de la cohérence de l'enchaînement des événements. CHARNAME quittera Château-Suif le 10 de Marpenoth (septembre) et se retrouvera dans le donjon d'Irenicus le 25 de Flamerule (juillet) l'année suivante.<br>
 					  &#9888;&#65039; Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faut... À installer à vos risques et périls.</p>
 					</div>
@@ -10449,7 +10457,7 @@
 				  </form></td>
 			</tr>
 			<tr>
-				<td class="modlime"><img width=16 height=16 src="images/progress.png" /> Jastey's SoD Tweak Pack</td>
+				<td class="modblue">&#10062; Jastey's SoD Tweak Pack</td>
 				<td></td>
 				<td></td>
 				<td class="jeu">BGT</td>
@@ -12047,7 +12055,7 @@
 				<th>Mod</th>
 				<th colspan="6" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>

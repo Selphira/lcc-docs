@@ -116,13 +116,21 @@
 
 		<hr>
 
-		<p>
-			<label for="countriesDropdown" style="font-weight: bold;">Choisissez votre jeu :
-			<select class= "tri" id="countriesDropdown" oninput="filterByGame()">
+		<p><a name="filtre" id="filtre"></a>
+			<label for="gamesDropdown" style="font-weight: bold;">Choisissez votre jeu :
+			<select class= "tri" id="gamesDropdown" oninput="filterByGame()">
 			<option>Tous</option>
-			<option>PST</option>
-			<option>PSTEE</option>
-		</select></label>
+			<optgroup label="Jeux">
+				<option>PST</option>
+				<option>PSTEE</option>
+			</optgroup>
+			<optgroup label="Traductions">
+				<option>Non traduits</option>
+				<option style="color:lime;">Traduction en cours</option>
+				<option style="color:red;">Mise à jour nécessaire</option>
+				<option style="color:DeepSkyBlue;">Traduits</option>
+			</optgroup>
+			</select></label>
 		</p>
 
 		<hr>
@@ -141,7 +149,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -152,7 +160,7 @@
 				<td><a href="http://www.shsforums.net/files/file/647-PST-ultimate-weidu-fixpack-v413/"><img width=24 height=24 src="images/shs_reskit.png" title="Spellhold Studios" /></a> <a href="https://mirandir.baldursgateworld.fr/pst-guide-installation/files/pstfixpack_v413_correctfr.7z"><img width=24 height=24 src="images/logocc.png" title="La Couronne de Cuivre" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0011"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0011"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0011" id="desc-0011"/>
 					<div class="contenu">
 					  <p style="width:100%;">Créé par Paul Escalona (alias Qwinn), ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: "<a href="https://sorcerers.net/Games/Torment/Platter/index.php">Platter's Fixpack 1.37</a>", dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses ; "<a href="https://sorcerers.net/Games/Torment/index_mods.php">Restoration Pack</a>", par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST) et "SKARDAVNELNATE'S All-Inclusive Fixpack", par SKARDAVNELNATE.<br>
@@ -170,7 +178,7 @@
 				<td><a href="https://sorcerers.net/Games/Torment/Platter/mods/readmeplost.htm"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0012"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0012"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0012" id="desc-0012"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod permet de débloquer certaines situations où il est impossible de parler avec ses compagnons.<br>
@@ -187,7 +195,7 @@
 				<td><a href="https://mirandir.baldursgateworld.fr/pst-correcfr/"><img width=24 height=24 src="images/logocc.png" title="La Couronne de Cuivre" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0027"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0027"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0027" id="desc-0027"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod a pour vocation de corriger les différentes erreurs présentes dans la version française de Planescape: Torment et Planescape: Torment: Enhanced Edition, notamment en traduisant les entrées oubliées par les traducteurs, en corrigeant les erreurs de français, de cohérence, les non-sens, qui apparaissent parfois dans les différents dialogues.</p>
@@ -202,7 +210,7 @@
 				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/english.zip"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0028"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0028"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0028" id="desc-0028"/>
 					<div class="contenu">
 					  <p style="width:100%;">Pour ceux et celles qui souhaitent passer les textes du jeu en anglais.</p>
@@ -233,7 +241,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -244,7 +252,7 @@
 				<td><a href="https://sorcerers.net/Games/Torment/Platter/index.php?page=mods"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a> <a href="https://forums.beamdog.com/discussion/64430/mod-change-tno-animation-to-dustman-disguise"><img width=22 height=22 src="images/beamdog.png" title="Beamdog" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0134"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0134"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0134" id="desc-0134"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod attribue à Sans Nom l'apparence des Hommes poussière. Il s'agit d'une modification esthétique qui n'affectera en rien le jeu.<br>
@@ -261,7 +269,7 @@
 				<td><a href="https://sorcerers.net/Games/Torment/Platter/index.php?page=mods"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0136"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0136"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0136" id="desc-0136"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod supprime le brouillard de guerre dans les principales zones urbaines en extérieur, comme dans Baldur's Gate 2.<br>
@@ -277,7 +285,7 @@
 				<td><a href="https://sorcerers.net/Games/Torment/index_mods.php"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0149"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0149"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0149" id="desc-0149"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod modifie la couleur de fond de l'interface ainsi que la police de caractère pour faciliter la lecture des textes affichés :<br>
@@ -295,7 +303,7 @@
 				<td><a href="http://www.shsforums.net/files/file/1221-freely-resizeable-combat-log-for-PSTee/"><img width=24 height=24 src="images/shs_reskit.png" title="Spellhold Studios" /></a> <a href="https://github.com/Argent77/A7-ResizeableCombatLog/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0150"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0150"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0150" id="desc-0150"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod permet de redimensionner dans toutes les directions le journal de combat de PST:EE qui ne pouvait l"être que sur l'axe vertical.</p>
@@ -310,7 +318,7 @@
 				<td><a href="http://www.shsforums.net/files/file/683-ghostdogs-PST-ui-mod-v22/"><img width=24 height=24 src="images/shs_reskit.png" title="Spellhold Studios" /></a> <a href="https://mirandir.baldursgateworld.fr/pst-guide-installation/files/Ghostdogs_PST_UI_mod_v2.2_fr.7z"><img width=24 height=24 src="images/logocc.png" title="La Couronne de Cuivre" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0152"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0152"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0152" id="desc-0152"/>
 					<div class="contenu">
 					  <p style="width:100%;">Combiné avec Widescreen, ce mod permet de jouer à PST dans une résolution de l'interface supérieure à 640x480. Pour ce faire, il corrige de nombreux écrans de jeu, notamment le menu Démarrer, les écrans de création de personnage, le journal, l'inventaire, les sorts et les magasins, entre autres, ainsi qu'un certain nombre d'autres composants, comme la barre inférieure de l'interface utilisateur qui a été optimisée, les infobulles et les messages en jeu (qui s'affichent désormais correctement), la boîte de dialogue et la carte du monde. De plus, il permet d'augmenter la taille des polices du jeu.<br>
@@ -326,7 +334,7 @@
 				<td><a href="https://forums.beamdog.com/discussion/64382/mod-journal-portrait-conversations-for-PSTee"><img width=22 height=22 src="images/beamdog.png" title="Beamdog" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0169"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0169"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0169" id="desc-0169"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod affiche un portrait correspondant aux interlocuteurs dans les fenêtres de dialogue.<br>
@@ -342,7 +350,7 @@
 				<td><a href="https://forums.beamdog.com/discussion/64259/mod-level-up-icon-tweaks"><img width=22 height=22 src="images/beamdog.png" title="Beamdog" /></a> <a href="https://github.com/Argent77/A7-LevelUpTweaks/releases "><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0177"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0177"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0177" id="desc-0177"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mini mod apporte une modification cosmétique de confort à l'interface de PST:EE. Vous pouvez configurer l'affichage ou non de l'icône de passage au niveau supérieur et choisir de la déplacer sur le portrait du personnage.<br>
@@ -358,7 +366,7 @@
 				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/bmusic.zip"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0187"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0187"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0187" id="desc-0187"/>
 					<div class="contenu">
 					  <p style="width:100%;">Créé par Platter, ce petit mod supprime les musiques de combat dans le jeu, sauf celles du combat final.<br>
@@ -374,7 +382,7 @@
 				<td><a href="http://www.shsforums.net/files/file/1008-1pp-high-quality-music-for-pst/"><img width=24 height=24 src="images/shs_reskit.png" title="Spellhold Studios" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0194"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0194"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0194" id="desc-0194"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod remplace les musiques du jeu par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.</p>
@@ -389,7 +397,7 @@
 				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/annah_patty.zip"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0207"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0207"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0207" id="desc-0207"/>
 					<div class="contenu">
 					  <p style="width:100%;">Il s'agit de fichiers modifiant l'apparence d'Annah : elle porte désormais une armure de cuir verte, un chapeau de lutin, et est armées de trèfles au lieu de poignards.<br>
@@ -405,7 +413,7 @@
 				<td><a href="https://github.com/Argent77/A7-LightingPackEE/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-217"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-217"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-217" id="desc-0217"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod vise à corriger l'absence de réglage de la luminosité dans BGEE et BG2EE. Il propose une vingtaine de pré-réglages parmi lesquels il faudra en choisir un. Il suffit de réinstaller le mod pour en choisir un autre. Le <a href="https://argent77.github.io/A7-LightingPackEE/index.html">readme du mod</a> indique aussi quels fichiers modifier pour ajuster le réglage à sa guise après installation.</p>
@@ -420,7 +428,7 @@
 				<td><a href="http://tchosgames.blogspot.com/2011/04/planescape-torment-portrait-mod.html">site</a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0221"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0221"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0221" id="desc-0221"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod remplace les portraits de personnages en 3D dans le jeu par des portraits de haute qualité peints à la main, comme ceux des autres jeux du moteur Infinity Engine, comme Baldur's Gate et Icewind Dale. Ces remplacements se font là où ils apparaissent dans la section PC/PNC du journal, dans les écrans de statistiques et dans les paperdolls d'inventaire. Idéalement, les futures versions de ce mod incluront des remplacements pour les portraits en bas de l'écran de jeu, ainsi que des remplacements pour le reste des membres du groupe recrutables, et peut-être des PNJ plus généraux.</p>
@@ -435,7 +443,7 @@
 				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/morte_egghead.zip"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0224"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0224"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0224" id="desc-0224"/>
 					<div class="contenu">
 					  <p style="width:100%;">Il s'agit de fichiers modifiant l'apparence de morte : je vous laisse le découvrir !<br>
@@ -451,7 +459,7 @@
 				<td><a href="https://www.gibberlings3.net/files/file/896-widescreen-mod/"><img width=24 height=24 src="images/g3icon.ico" title="Gibberlings3" /></a> <a href="https://github.com/Gibberlings3/widescreen/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0228"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0228"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0228" id="desc-0228"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod est une combinaison de patchs et de modifications d'interface graphique de jeu permettant de jouer à BG (avec son extension TotSC), BG2 (avec ou sans ToB), Icewind Dale (avec ses extensions HoW et TotLM) et Icewind Dale 2 et Planescape:Torment dans des résolutions autres que celles imposées (pour BG et PsT) ou celles proposées par les jeux (pour BG2, Icewind Dale avec son extension HoW et Icewind Dale 2).<br>
@@ -483,7 +491,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -494,7 +502,7 @@
 				<td><a href="https://github.com/Argent77/PST-UB-reloaded/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a> <a href="https://mirandir.baldursgateworld.fr/pst-guide-installation/files/pstfixpack_v413_correctfr.7z"><img width=24 height=24 src="images/logocc.png" title="La Couronne de Cuivre" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0365"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0365"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0365" id="desc-0365"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod reprend le mod de Qwinn PS:T Unfinished Business (PST-UB), version 4.12. Complètement remanié, il est compatible aussi bien avec PST:EE qu'avec la version classique de Planescape: Torment (PST). Il restaure le contenu "presque-mais-pas-complètement-terminé" (par manque de temps des développeurs) du jeu, le complète et l'améliore, ce qui vous permet de profiter de ces nouveautés dans vos parties. Consultez le <a href="https://argent77.github.io/PST-UB-reloaded/index-fr.html">readme</a> pour en apprendre plus sur sa vingtaine de composants.<br>
@@ -510,7 +518,7 @@
 				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/candle.zip"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0390"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0390"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0390" id="desc-0390"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod restaure l'une des quêtes que les développeurs n'ont pas intégrées dans le jeu, celle du Village enseveli.<br>
@@ -542,7 +550,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 
@@ -569,7 +577,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -580,7 +588,7 @@
 				<td><a href="https://github.com/Argent77/A7-BanterAccelerator/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0804"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0804"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0804" id="desc-0804"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod vous permet de définir le rythme des bavardages entre les personnages de votre équipe. Vous pouvez le choisir dans une liste pré-établie ou le définir vous-même. Il est compatible avec tous les jeux Enhanced Edition.</p>
@@ -595,7 +603,7 @@
 				<td><a href="https://forums.beamdog.com/discussion/65205/mod-undivided-keeping-npcs-around/p1"><img width=22 height=22 src="images/beamdog.png" title="Beamdog" /></a> <a href="https://github.com/aquadrizzt/Undivided/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0874"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0874"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0874" id="desc-0874"/>
 					<div class="contenu">
 					  <p style="width:100%;">Constamment en cours de développement, ce mod transforme Vhailor et Ignus en compagnons plutôt qu'en membres du groupe. Il permet ainsi aux joueurs d'avoir les sept compagnons présents au fur et à mesure de leur progression dans le jeu. Ils suivront le groupe, interviendront toujours et seront identifiés comme membres du groupe par les scripts et dialogues, et progresseront en niveaux en même temps que Sans Nom.<br>
@@ -609,7 +617,7 @@
 		<hr>
 
 <!-- ============== S a g a   P s T   -   I t e m s ============== -->
-		<a name="bg2items" id="bg2items"></a>
+		<a name="pstitems" id="pstitems"></a>
 		<h2 class = "background" style="margin-top: 2%;"><span class="com">PsT</span>Les ajouts de sorts, de magasins et d'objets</h2><br>
 
 		<p><span style="color: Goldenrod;">&#10173;</span> Ces mods se classent en trois catégories :
@@ -635,7 +643,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -647,7 +655,7 @@
 				<td><a href="http://america.iegmc.net/ardanis/">iegmc</a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-0948"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-0948"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0948" id="desc-0948"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mini mod permet de changer les prix d'achat et de vente des magasins. En jouant avec plusieurs mods différents dans Baldur's Gate, vous aurez probablement remarqué une chose déplaisante : pratiquement tous les mods ajoutent des ennemis qui possèdent des butins très onéreux et/ou ses zones parsemées de coffres plein de trésors. En jouant une combinaison de mega-mods, vous pouvez posséder environ 600 000 pièces d'or au chapitre 6 ! Dans le jeu original, on a du mal à dépasser les 100 000 à ce niveau du jeu.<br>
@@ -672,7 +680,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -684,7 +692,7 @@
 				<td><a href="https://forum.sigil.cz/viewtopic.php?t=1950"></a><img width=24 height=14 src="images/cz-flag-32.png" title="Sigil forums" /></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1007"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1007"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1007" id="desc-1007"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod ajoute quelques armures et robes dans le jeu, que vous pourrez trouver dans des magasins ou dans l'inventaire d'ennemis : armures de cuir, besantines, cottes de mailles, feuilletée, robes de résistance au feu, au froid, à l'électricité, de filou et du voyageur.<br>
@@ -701,7 +709,7 @@
 				<td><a href="http://www.shsforums.net/files/file/1224-bags-of-torment/"><img width=24 height=24 src="images/shs_reskit.png" title="Spellhold Studios" /></a> <a href="https://github.com/Argent77/A7-BagsOfTorment/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1009"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1009"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-01009" id="desc-1009"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mini mod ajoute quelques conteneurs au jeu, qui peuvent être achetés dans différents magasins : le sac en cuir de diablotin, le cristal de stockage modrone et la singularité de poche. L'un d'eux pourrait même déclencher une petite quête.<br>
@@ -718,7 +726,7 @@
 				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/items.zip"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1056"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1056"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1056" id="desc-1056"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce petit mod restaure le Charme de rat et l'Œil de Vecna dans le jeu. Vous pouvez les obtenir respectivement chez Aboyant-Plusauvage et Vrischika.</p>
@@ -734,7 +742,7 @@
 				<td><a href="https://forums.beamdog.com/discussion/69700/mod-items-of-the-planes/p1"><img width=22 height=22 src="images/beamdog.png" title="Beamdog" /></a> <a href="https://github.com/aquadrizzt/PlanarItems/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1066"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1066"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1066" id="desc-1066"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod modifie de nombreux objets various (armes et équipement) dans PST:EE à la manière d'Item Revisions, dans le but de rendre le choix de l'équipement et la gestion des combats beaucoup plus intéressants. Il uniformise les dégâts infligés par type d'armes, rend certaines armes conformes à leur description, et rééquilibre la puissance des objets selon les classes (par exemple, dans PST, les mages avaient plus de chances d'obtenir une bonne CA qu'un guerrier !).</p>
@@ -750,24 +758,26 @@
 
 		<table class="tableau" style="margin-left: 80px;line-height: 170%;" summary="Liste des mods override ajoutant ou modifiant des sorts et/ou des objets">
 			<colgroup>
-				<col style="border-right: 3px double #aaa;" WIDTH=320 /><col WIDTH=38 /><col style="border-right: 3px double #aaa;" WIDTH=52" /><col WIDTH=180 /><col WIDTH=64 /><col class="col8" />
+				<col WIDTH=24 /><col style="border-right: 3px double #aaa;" WIDTH=320 /><col WIDTH=38 /><col style="border-right: 3px double #aaa;" WIDTH=52" /><col WIDTH=180 /><col WIDTH=64 /><col class="col8" />
 			</colgroup>
 			<tr style= "line-height: 300%;">
+				<th></th>
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
+				<td>O</td>
 				<td class="mod">Platter's Armours</td>
 				<td class="jeu">PST</td>
 				<td></td>
 				<td></td>
-				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/armor.zip"></a></td>
+				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/armor.zip"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1167"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> TODO Description</strong></label>
+					<label for="desc-1167"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1167" id="desc-1167"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod ajoute cinq armures que Sans Nom, Dak'kon, Annah et Ignus peuvent porter.</p>
@@ -798,7 +808,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 
@@ -825,7 +835,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -836,7 +846,7 @@
 				<td><a href="https://forums.beamdog.com/discussion/19928/release-difficulty-and-tweak-mod-ver-7/p1"><img width=22 height=22 src="images/beamdog.png" title="Beamdog" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1513"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1513"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1513" id="desc-1513"/>
 					<div class="contenu">
 					  <p style="width:100%;">Anciennement <a href="#mixmod">Mix Mod</a>, ce mod réunit une petite collection d'ajustements permettant soit de faciliter le jeu, soit de rendre les ennemis plus coriaces.<br>
@@ -872,7 +882,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -883,7 +893,7 @@
 				<td><a href="https://www.gibberlings3.net/forums/topic/33035-achievements-for-everyone/"><img width=24 height=24 src="images/g3icon.ico" title="Gibberlings3" /></a> <a href="https://github.com/Argent77/A7-Achievements/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1608"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1608"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1608" id="desc-1608"/>
 					<div class="contenu">
 					  <p style="width:100%;">Encore une création du génial Argent77, ce mod permet de débloquer les succès des jeux EE disponibles seulement via le client Steam. Il détecte les succès déverrouillés et les affiche dans le journal pour tout joueur sans avoir besoin d'utiliser le client Steam. De plus, il est possible d'acheter un trophée des succès qui suit l'état de succès débloqués. En plus des succès officiels de Steam, le mod débloque également un petit nombre de succès inutilisés pour SoD qui sont implémentés dans le jeu mais non enregistrés par Steam.<br>
@@ -899,7 +909,7 @@
 				<td><a href="https://mirandir.baldursgateworld.fr/detect_traps_for_pstee/"><img width=24 height=24 src="images/logocc.png" title="La Couronne de Cuivre" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1618"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1618"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1618" id="desc-1618"/>
 					<div class="contenu">
 					  <p style="width:100%;">Créé par mirandir, ce petit mod français permet à Annah et Sans-Nom de rechercher automatiquement les pièges.</p>
@@ -914,7 +924,7 @@
 				<td><a href="https://github.com/BGforgeNet/bg2-tweaks-and-tricks/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1630"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1630"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1630" id="desc-1630"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod permet de faire mille et un petits ajustements au jeu, et s'avère être le parfait complément de <a href="#anthology">Tweaks Anthology</a>. Vous pouvez rendre les familiers plus intelligents, détecter les pièges plus rapidement et permettre à vos PNJ de "sentir" leur présence, modifier les effets de certains objets et sorts pour les rendre plus cohérents, faire des changements aux règles, vendre vos objets sans dépréciation de prix dans les magasins, désactiver les sauvegardes automatiques dans certaines transitions, diminuer le temps de chargement des zones dans les jeux originaux (d'environ 10 à 30 % selon l'auteur), et bien d'autres choses.<br>
@@ -930,7 +940,7 @@
 				<td><a href="https://www.gibberlings3.net/files/file/892-cirerreks-ai-scripts-tseries/"><img width=24 height=24 src="images/g3icon.ico" title="Gibberlings3" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1647"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1647"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1647" id="desc-1647"/>
 					<div class="contenu">
 					  <p style="width:100%;">Comme les eSeries pour BG2, tSeries est une collection de scripts d'IA pour Planescape: Torment, inspirés par la documentation "<i>Planescape: Torment Player AI Scripts</i>" de Gebhard Blucher's.<br>
@@ -947,7 +957,7 @@
 				<td><a href="https://forum.sigil.cz/viewtopic.php?t=894"><img width=24 height=14 src="images/cz-flag-32.png" title="Sigil forums" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1668"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1668"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1668" id="desc-1668"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod tchèque permettait d'obtenir un maximum de PV par niveau et aucun échec dans l'apprentissage des sorts dans tous les jeux IE (BG, BG2, IWD, IWD2 et PsT).<br>
@@ -963,7 +973,7 @@
 				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/PSTnBG1_MaxHP.zip"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1750"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1750"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1750" id="desc-1750"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod permet à vos personnages d'obtenir le maximum de points de vie à chaque passage de niveau.<br>
@@ -979,7 +989,7 @@
 				<td><a href="http://america.iegmc.net/borsook/">iegmc</a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1755"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1755"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1755" id="desc-1755"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod propose une collection d'ajustements pour la plupart des jeux IE. Comme la plupart de ses pairs, il permet d'empiler munitions, pierres précieuses, bijoux, potions et parchemins, rendre les ennemis plus costauds, désactiver des cinématiques d'introduction...<br>
@@ -995,7 +1005,7 @@
 				<td><a href="https://www.gibberlings3.net/forums/topic/32809-multiplayer-tweaks-fixes-for-multiplayer-sessions/"><img width=24 height=24 src="images/g3icon.ico" title="Gibberlings3" /></a> <a href="https://github.com/lzenner/mptweaks/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1759"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1759"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1759" id="desc-1759"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod corrige quelques problèmes dans des sessions multi-joueurs. Lors d'un combat, jusqu'à 5 adversaires peuvent suivre un membre du groupe qui emprunte une porte (s'applique uniquement aux zones intérieures dont les entrées sont utilisables par les PNJ). Le jeu se met en pause lorsque les PNJ deviennent hostiles pendant le dialogue.<br>
@@ -1011,7 +1021,7 @@
 				<td><a href="https://forums.beamdog.com/discussion/74322/mod-olvyntweaks-version-1-4/p1"><img width=22 height=22 src="images/beamdog.png" title="Beamdog" /></a> <a href="https://github.com/OlvynChuru/Olvyn-Tweaks"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1770"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1770"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1770" id="desc-1770"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod propose une collection de 24 ajustements pour la plupart des jeux EE : diviser le montant total des XP de quêtes par nombre de membres du groupe, supprimer la limite de deux points de compétences martiales à la création du personnage, permettre aux guerriers d'acquérir plus rapidement des points de compétence martiale, permettre aux chamanes de se déplacer quand ils dansent, clercs et moines atteignent le niveau 9 avec seulement 160000 XP, les paladins et les rôdeurs lancent des sorts à leur niveau, utiliser les parchemins maudits contre les ennemis, augmenter la vitesse de déplacement de toutes les créatures, possibilité d'accéder à certaines zones par des passages auparavant interdits, possibilité d'attribuer 5 points dans certains types de combat...</p>
@@ -1026,7 +1036,7 @@
 				<td><a href="https://forums.beamdog.com/discussion/64577/mod-the-power-of-belief/p1"><img width=22 height=22 src="images/beamdog.png" title="Beamdog" /></a> <a href="https://github.com/aquadrizzt/PowerOfBelief/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1783"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1783"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1783" id="desc-1783"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod permet à Sans-Nom de devenir un prêtre tout en conservant ses niveaux de guerrier, mage et voleur.</p>
@@ -1041,7 +1051,7 @@
 				<td><a href="http://www.shsforums.net/files/file/649-qwinns-pst-tweak-pack-v412/"><img width=24 height=24 src="images/shs_reskit.png" title="Spellhold Studios" /></a> <a href="https://mirandir.baldursgateworld.fr/pst-guide-installation/files/psttweak_v412_correctfr.7z"><img width=24 height=24 src="images/logocc.png" title="La Couronne de Cuivre" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1787"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1787"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1787" id="desc-1787"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, Power Action Leprechaun Annah, Easter Egg Morte, repos quelle que soit la zone (non recommandé), grimoire de triche (non recommandé) et les robes des Hommes-Poussière.<br>
@@ -1058,7 +1068,7 @@
 				<td><a href="https://sorcerers.net/Games/Torment/index_mods.php"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a> <a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/restoration.rar"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1793"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1793"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1793" id="desc-1793"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod réintroduit des éléments supprimés lors de la sortie de PsT : sorts, objets, entrées de bestiaire...<br>
@@ -1074,7 +1084,7 @@
 				<td><a href="https://forums.beamdog.com/discussion/64524/mod-reveal-hidden-gameplay-options-for-all-ee-games-patched-to-v2-0-or-higher/p1"><img width=22 height=22 src="images/beamdog.png" title="Beamdog" /></a> <a href="https://github.com/Argent77/A7-HiddenGameplayOptions/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1795"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1795"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1795" id="desc-1795"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod permet de modifier la nouvelle interface de jeu de BGEE et BG2EE apparue avec la version 2.0 et Siege of Dragonspear. Il ajoute dans l'interface du jeu la possibilité de modifier des réglages déjà présents dans le fichier Baldur.lua mais qu'il fallait régler à la main, comme le "célèbre" panneau de débogage (ce qui vous dispensera de la manip indiquée dans le manuel d'installation du jeu), plusieurs paramétrages graphiques et de feedback, et d'autres encore.</p>
@@ -1089,7 +1099,7 @@
 				<td><a href="https://github.com/badungu/PST-SaveNordomTweak"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1801"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1801"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1801" id="desc-1801"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod n'est rien d'autre que le composant "Sauvez Nordom !" du Qwinn's Tweak Pack adapté pour PsT:EE.<br>
@@ -1105,7 +1115,7 @@
 				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/cheats.zip "><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1834"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1834"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1834" id="desc-1834"/>
 					<div class="contenu">
 					  <p style="width:100%;">Il s'agit d'un livre avec lequel vous pouvez dialoguer pour modifier vos caractéristiques, alignement, classe, argent, expérience, points de vie... Il peut aussi vous donner de nombreux objets utiles, dont certains n'étaient pas inclus dans le jeu, ainsi que tous les parchemins de sorts de niveau 5 à 9. Bien, évidemment, c'est de la triche !<br>
@@ -1119,7 +1129,7 @@
 				<td class="jeu">PSTEE</td>
 				<td>
 				  <form id="formulaire">
-					<label for="trad-1842"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span></strong> Traducteurs</label>
+					<label for="trad-1842"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span></strong> Traducteurs</label>
 					<input type="checkbox" name="trad-1842" id="trad-1842"/>
 					<div class="contenu">
 					  <p style="width:100%; text-align:center;padding=0">Graoumf, Elgaern, elminster, Isaya, Anomaly</p>
@@ -1128,7 +1138,7 @@
 				<td><a href="https://www.gibberlings3.net/files/file/973-the-tweaks-anthology/"><img width=24 height=24 src="images/g3icon.ico" title="Gibberlings3" /></a> <a href="https://github.com/Gibberlings3/Tweaks-Anthology/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1842"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
+					<label for="desc-1842"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1842" id="desc-1842"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod permet de faire mille et un petits ajustements au jeu. Vous pouvez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale, ...), faire des changements aux règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances, ...).<br>

@@ -116,12 +116,20 @@
 
 		<hr>
 
-		<p>
-			<label for="countriesDropdown" style="font-weight: bold;">Choisissez votre jeu :
-			<select class= "tri" id="countriesDropdown" oninput="filterByGame()">
+		<p><a name="filtre" id="filtre"></a>
+			<label for="gamesDropdown" style="font-weight: bold;">Choisissez votre jeu :
+			<select class= "tri" id="gamesDropdown" oninput="filterByGame()">
 			<option>Tous</option>
-			<option>PST</option>
-			<option>PSTEE</option>
+			<optgroup label="Jeux">
+				<option>PST</option>
+				<option>PSTEE</option>
+			</optgroup>
+			<optgroup label="Traductions">
+				<option>Non traduits</option>
+				<option style="color:lime;">Traduction en cours</option>
+				<option style="color:red;">Mise à jour nécessaire</option>
+				<option style="color:DeepSkyBlue;">Traduits</option>
+			</optgroup>
 		</select></label>
 		</p>
 
@@ -141,7 +149,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -233,7 +241,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -483,7 +491,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -542,7 +550,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 
@@ -569,7 +577,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -635,7 +643,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -672,7 +680,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -750,24 +758,26 @@
 
 		<table class="tableau" style="margin-left: 80px;line-height: 170%;" summary="Liste des mods override ajoutant ou modifiant des sorts et/ou des objets">
 			<colgroup>
-				<col style="border-right: 3px double #aaa;" WIDTH=320 /><col WIDTH=38 /><col style="border-right: 3px double #aaa;" WIDTH=52" /><col WIDTH=180 /><col WIDTH=64 /><col class="col8" />
+				<col WIDTH=24 /><col style="border-right: 3px double #aaa;" WIDTH=320 /><col WIDTH=38 /><col style="border-right: 3px double #aaa;" WIDTH=52" /><col WIDTH=180 /><col WIDTH=64 /><col class="col8" />
 			</colgroup>
 			<tr style= "line-height: 300%;">
+				<th></th>
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
+				<td>O</td>
 				<td class="mod">Platter's Armours</td>
 				<td class="jeu">PST</td>
 				<td></td>
 				<td></td>
-				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/armor.zip"></a></td>
+				<td><a href="https://sorcerers.net/Games/dl.php?s=PST&f=Torment/armor.zip"><img width=20 height=20 src="images/sorcerer.jpg" title="Sorcerer's Place" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
-					<label for="desc-1167"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> TODO Description</strong></label>
+					<label for="desc-1167"><strong>&nbsp;&nbsp;<span style="color: #FFCC33;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-1167" id="desc-1167"/>
 					<div class="contenu">
 					  <p style="width:100%;">Ce mod ajoute cinq armures que Sans Nom, Dak'kon, Annah et Ignus peuvent porter.</p>
@@ -798,7 +808,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 
@@ -825,7 +835,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
@@ -872,7 +882,7 @@
 				<th>Mod</th>
 				<th colspan="2" class="double">Jeux</th>
 				<th>Traducteurs</th>
-				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" /></th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
 				<th>Description</th>
 			</tr>
 			<tr>
