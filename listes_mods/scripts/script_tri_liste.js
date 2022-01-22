@@ -48,7 +48,46 @@ function filtredByGame(filter, row) {
 
 function filteredByTranslation(filter, row) {
 
-	let notrads, miseajr, encours, trads, cell, entete, special, docname;
+	let notrads, miseajr, encours, trads, celltrad;
+            
+	if (filter === "all" || row.getElementsByTagName('th').length > 0) {
+		return false;
+	}
+
+	notrads = row.getElementsByClassName("mod");
+	trads   = row.getElementsByClassName("modblue");
+	encours = row.getElementsByClassName("modlime");
+	miseajr = row.getElementsByClassName("modred");
+
+
+	if ((filter === "in-progress"   && encours.length > 0)
+		|| (filter === "to-update"  && miseajr.length > 0)
+		|| (filter === "translated" && trads.length > 0)
+	) {
+		return false;
+	}
+
+
+    // La colonne des traductions est toujours la 3ème en partant de la fin
+	celltrad = row.cells.item(row.cells.length - 3);
+
+	if (celltrad
+		&& ((filter === "not-translated" && notrads.length > 0 && celltrad.innerHTML !== "pas besoin de traduction") 
+		|| (filter === "translated" && celltrad.innerHTML === "pas besoin de traduction"))
+	) {
+		return false;
+	}
+
+
+	return true;
+}
+
+/* Code fourni par Selphira et modifié par Freddy_Gwendo
+   =====================================================
+
+function filteredByTranslation(filter, row) {
+
+	let notrads, miseajr, encours, trads, entete, special, docname;
             
 	if (filter === "all") {
 		return false;
@@ -91,9 +130,6 @@ function filteredByTranslation(filter, row) {
 
 	return true;
 }
-
-/* Code fourni par Selphira et modifié par Freddy_Gwendo
-   =====================================================
 
 function filterByGame() {
 
