@@ -118,21 +118,25 @@
 		<p><a name="filtre" id="filtre"></a>
 			<label for="gamesDropdown" style="font-weight: bold;">Choisissez votre jeu :
 			<select class= "tri" id="gamesDropdown" oninput="filterByGame()">
-			<option>Tous</option>
 			<optgroup label="Jeux">
-			<option>BG2</option>
-			<option>BGT</option>
-			<option>BG2EE</option>
-			<option>EET</option>
+				<option>Tous</option>
+				<option>BG2</option>
+				<option>BGT</option>
+				<option>BG2EE</option>
+				<option>EET</option>
 			</optgroup>
-			<optgroup label="Traductions">
-				<option>Non traduits</option>
-				<option style="color:lime;">Traduction en cours</option>
-				<option style="color:red;">Mise à jour nécessaire</option>
-				<option style="color:DeepSkyBlue;">Traduits</option>
-			</optgroup>
-		</select></label>
-		</p>
+			</select>
+			&#160;&#160;&#160;&#160;&#160;et l'état des traductions :
+            <select class="tri" id="translationsDropdown" oninput="filterByGame()">
+            <optgroup label="Traductions">
+                <option value="all">Tous</option>
+                <option value="not-translated">Non traduits</option>
+                <option value="in-progress" style="color:lime;">Traduction en cours</option>
+                <option value="to-update" style="color:red;">Mise à jour nécessaire</option>
+                <option value="translated" style="color:DeepSkyBlue;">Traduits</option>
+            </optgroup>
+            </select></label>
+        </p>
 
 		<hr>
 

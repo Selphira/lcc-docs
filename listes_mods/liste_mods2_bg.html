@@ -119,8 +119,8 @@
 		<p><a name="filtre" id="filtre"></a>
 			<label for="gamesDropdown" style="font-weight: bold;">Choisissez votre jeu :
 			<select class= "tri" id="gamesDropdown" oninput="filterByGame()">
-			<option>Tous</option>
 			<optgroup label="Jeux">
+				<option>Tous</option>
 				<option>BG</option>
 				<option>BGT</option>
 				<option>Tutu</option>
@@ -128,13 +128,17 @@
 				<option>SoD</option>
 				<option>EET</option>
 			</optgroup>
-			<optgroup label="Traductions">
-				<option>Non traduits</option>
-				<option style="color:lime;">Traduction en cours</option>
-				<option style="color:red;">Mise à jour nécessaire</option>
-				<option style="color:DeepSkyBlue;">Traduits</option>
-			</optgroup>
-			</select></label>
+			</select>
+			&#160;&#160;&#160;&#160;&#160;et l'état des traductions :
+            <select class="tri" id="translationsDropdown" oninput="filterByGame()">
+            <optgroup label="Traductions">
+                <option value="all">Tous</option>
+                <option value="not-translated">Non traduits</option>
+                <option value="in-progress" style="color:lime;">Traduction en cours</option>
+                <option value="to-update" style="color:red;">Mise à jour nécessaire</option>
+                <option value="translated" style="color:DeepSkyBlue;">Traduits</option>
+            </optgroup>
+            </select></label>
 		</p>
 
 		<hr>
@@ -530,7 +534,7 @@
 				<td></td>
 				<td></td>
 				<td></td>
-				<td>pas de traduction</td>
+				<td>pas besoin de traduction</td>
 				<td><a href="http://www.shsforums.net/files/file/934-jondalar-fix-for-bgt/"><img width=24 height=24 src="images/shs_reskit.png" title="Spellhold Studios" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
