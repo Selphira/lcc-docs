@@ -18,7 +18,7 @@ Vous pouvez aussi proposer des Pull requests sur ce compte GitHub.
 
 ## Récapitulatif des mods listés
 
-Pour l'instant, 1316 mods ont été recensés, répartis comme suit :
+Pour l'instant, 1318 mods ont été recensés, répartis comme suit :
 
 
 <div align="center">
@@ -155,11 +155,11 @@ Pour l'instant, 1316 mods ont été recensés, répartis comme suit :
 </tr>
 
 <tr>
-<td>258</td>
+<td>260</td>
 <td>Gameplay</td>
 <td>1601</td>
 <td>1800</td>
-<td>1858 = Zyraen's Miscellany</td>
+<td>1860 = Skills and Abilities</td>
 </tr>
 
 <tr>

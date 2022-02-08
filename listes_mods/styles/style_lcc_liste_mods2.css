@@ -6,6 +6,7 @@ body {
 	text-align: center;
 	color: #D1D1D1;
 	background: #000 url('../images/bg_lcc2.png');
+/*	width: 100%;*/
 }
 
 
@@ -390,6 +391,7 @@ img.image_left {
 	float: left;
 	padding:0px 5px 0px 70px;
 	overflow: auto;
+/*max-width:100%;height:auto;*/
 }
 
 
