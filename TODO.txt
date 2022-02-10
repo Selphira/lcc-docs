@@ -23,7 +23,7 @@
 *  PATCHES  *
 * ========= *
 
-Ajouter 0024 Patch correctif pour BG2:EE et 0026 Patch correctif pour BG:EE.
+Ajouter 0024 Patch correctif pour BG2:EE [FAIT] et 0026 Patch correctif pour BG:EE.
 
 
 * ============ *
