@@ -500,6 +500,103 @@ hr {
 }
 
 
+/* -------------- *
+ *  Bouton animé  *
+ * -------------- */
+
+a.button {
+	cursor: pointer;
+    position: relative;
+	display: flex;
+/*    padding: 25px 30px;*/
+	width:275px; height:120px;
+/*    margin: 40px 0;*/
+	color: Goldenrod;
+    text-decoration: none;
+    transition: 2s all;
+    overflow: hidden;
+/*	margin-right: 50px;*/
+}
+
+a.button:hover{
+    background: rgba(218,165,32,0.5);
+}
+
+a.button span{
+    position: absolute;
+    display: block;
+}
+
+a.button span:nth-child(1){
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg,transparent,Goldenrod);
+    animation: animate1 2s linear infinite;
+}
+
+@keyframes animate1{
+    0%{
+        left: -100%;
+    }
+    50%,100%{
+        left: 100%;
+    }
+}
+
+a.button span:nth-child(2){
+    top: -100%; right: 0;
+    width: 2px; height: 100%;
+    background: linear-gradient(180deg,transparent,Goldenrod);
+    animation: animate2 2s linear infinite;
+    animation-delay: 0.50s;
+}
+
+@keyframes animate2{
+    0%{ top: -100%; }
+    50%,100%{ top: 100%; }
+}
+
+a.button span:nth-child(3){
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg,transparent,Goldenrod);
+    animation: animate3 2s linear infinite;
+    animation-delay: 1s;
+}
+
+@keyframes animate3{
+    0%{
+        right: -100%;
+    }
+    50%,100%{
+        right: 100%;
+    }
+}
+
+a.button span:nth-child(4){
+    bottom: -100%;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(360deg,transparent,Goldenrod);
+    animation: animate4 2s linear infinite;
+    animation-delay: 1.5s;
+}
+
+@keyframes animate4{
+    0%{
+        bottom: -100%;
+    }
+    50%,100%{
+        bottom: 100%;
+    }
+}
+
+
 /* ------------ *
  *  Info-bulle  *
  * ------------ */ 
