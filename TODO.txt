@@ -4,7 +4,7 @@
 
 0. Mettre à jour le lien de la discussion du forum lorsqu'elle sera créée.
 
-1. Remplir toutes les descriptions manquantes ("TODO Description" dans les listes).
+[1. Remplir toutes les descriptions manquantes ("TODO Description" dans les listes).]
 
 2. Vérifier les mods manquants et/ou les liens de téléchargement manquants.
 
@@ -68,12 +68,12 @@ Facing the Shade Lord again", both igi's & k?aeloree's versions?  ==> http://www
 
 Alanya NPC-Mod jamais publié : https://www.baldurs-gate.de/index.php?threads/bg2-alanya-npc-mod.37583/ http://www.shsforums.net/topic/36493-bg2-alanya-npc-mod/
 
-slot libre : manque desc-0635 entre Summon Bhaalspawn et Taim NPC
-
-
 One day NPC : Ajouter ou pas les liens pour 
 Jason Comptons Bruce http://mods.pocketplane.net/bruce-Compton.rar
 Willie Bruce http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=downfile&id=15
+
+
+[slot libre : manque desc-0635 entre Summon Bhaalspawn et Taim NPC]		==> 15.02.22 : utilisé par le mod Khalid for BG2:EE
 
 
 * ================== *
