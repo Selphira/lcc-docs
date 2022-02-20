@@ -81,7 +81,8 @@
 			Voici la liste des mods pour Icewind Dale et Icewind Dale 2 disponibles au téléchargement. Afin qu'elle soit la plus précise possible, n'hésitez pas à indiquer sur <a href="https://www.baldursgateworld.fr/lacouronne/forum.php">le forum</a> si de nouvelles traductions sont en cours, sont nouvellement achevées ou sont provisoirement mises de côté (avec la possibilité ou non pour un autre traducteur de les reprendre à son compte). N'hésitez pas également à signaler tout problème, tout lien mort ou plus récent, confirmer de nouvelle compatibilité, ou tout simplement la sortie de nouveaux mods.
 		</p>
 		<p>
-			Quiconque le souhaite peut apporter des modifications et des améliorations à ces listes sur ce compte <a href="https://github.com/LaCouronnedeCuivre/lcc-docs">GitHub</a>.
+			Quiconque le souhaite peut apporter des modifications et des améliorations à cette liste sur ce <a href="https://github.com/LaCouronnedeCuivre/lcc-docs">dépôt GitHub</a>. Il vous suffit soit d'ouvrir une "issue" et de nous informer d'une erreur, d'un lien manquant ou erroné, d'une information manquante ; soit de le "forker" et de proposer une "Pull Request".<br>
+			N'oubliez-pas de consulter ce <a href="https://github.com/LaCouronnedeCuivre/lcc-docs/blob/main/Comment_contribuer.md">mode d'emploi</a> avant de contribuer.
 		</p><br>
 
 		<p>
@@ -277,6 +278,33 @@
 				  </form></td>
 			</tr>
 
+		</table><br><br>
+
+		<table class="tableau" style="margin-left: 80px;line-height: 170%;" summary="Liste des patchs non officiels traduits">
+			<colgroup>
+				<col style="border-right: 3px double #aaa;" WIDTH=320 /><col WIDTH=40 /><col WIDTH=56 /><col WIDTH=44 /><col style="border-right: 3px double #aaa;" WIDTH=60" /><col WIDTH=180 /><col WIDTH=64 /><col class="col8" />
+			</colgroup>
+			<tr>
+				<td class="modblue"><a name="tobex" id="tobex"></a>&#9989; Generalized Biffing</td>
+				<td class="jeu">IWD</td>
+				<td class="jeu">IWDEE</td>
+				<td class="jeu">IWD2</td>
+				<td></td>
+				<td>Isaya</td>
+				<td><a href="http://www.shsforums.net/files/file/741-generalized-biffing/"><img width=24 height=24 src="images/shs_reskit.png" title="Spellhold Studios" /></a> <a href="https://github.com/SpellholdStudios/generalized_biffing/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
+				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
+				  <form id="formulaire">
+					<label for="desc-0000"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
+					<input type="checkbox" name="desc-0000" id="desc-0000"/>
+					<div class="contenu">
+					  <p style="width:100%;">Generalized Biffing (mise en bif généralisée) n'est pas un mod, mais un outil écrit avec WeiDU et s'installant comme un mod. Son principe est de créer des fichiers BIF à partir des fichiers de mods ou modifiés par des mods et présents dans le répertoire Override du jeu.<br>
+					  La technique du "Biffing" a un objectif principal : réduire les ralentissements dans le jeu. En particulier, ceux observés lors du chargement d'une partie, de l'accès à une zone, ... En effet, la présence d'un très grand nombre de fichiers dans le répertoire Override provoque des ralentissements plus ou moins importants (selon le nombre de fichiers, les performances de l'ordinateur et en particulier du disque dur). À chaque fichier cherché par le jeu, il doit d'abord vérifier s'il est dans le répertoire Override puis, en cas d'échec, aller le chercher dans les fichiers BIF existants (du jeu original ou de certains méga-mods). Ces fichiers BIF ressemblent à des archives zip : ils contiennent un ensemble de fichiers auquel le jeu sait accéder grâce à un sommaire qui lui permet de les retrouver. Cette méthode est plus performante car le nombre de fichiers BIF est très réduit et le jeu passe bien moins de temps à les trouver sur le disque dur. C'est d'ailleurs ainsi que le jeu exploite les fichiers du jeu de base : ils sont tous inclus dans les fichiers BIF des répertoires Data, Movies, et des répertoires CD2, CD3, ...<br>
+					  De fait, le biffing est plutôt réservé à ceux qui effectuent des méga-installations ou qui installent un grand nombre de mods qui modifient énormément de fichiers du jeu, tels que les mods de "Tweak".<br>
+					  Même si Generalized Biffing laisse possible la déinstallation ultérieure de mods installés avant lui, il faut bien être conscient que cette désinstallation pourra bien durer très très longtemps, voire des heures entières ! Vous avez donc tout intérêt à n'employer Generalized Biffing que lorsque vous êtes à peu-près certains de ne pas avoir à retoucher votre installation.<br>
+					  &#9888;&#65039; Attention : De par sa nature, il s'installera généralement en dernier, mais je vous invite fortement à lire <a href="https://www.baldursgateworld.fr/lacouronne/le-bazar-de-l-aventurier/23052-sortie-de-generalized-biffing-en-francais.html">ce sujet</a> avant de songer à l'utiliser.</p>
+					</div>
+				  </form></td>
+			</tr>
 		</table><br>
 		<p style="font-size:90%;text-align: right;"><a href="#iwd">RETOUR À LA LISTE DES MODS POUR IWD</a></p>
 
@@ -731,7 +759,7 @@
 				  </form></td>
 			</tr>
 			<tr>
-				<td class="mod">&#10062; Lefreut's enhanced UI for IWDEE</td>
+				<td class="mod">&#10062; Lefreut's enhanced UI for IWD:EE</td>
 				<td class="jeu">IWD</td>
 				<td class="jeu">IWDEE</td>
 				<td></td>
@@ -783,7 +811,7 @@
 				  </form></td>
 			</tr>
 			<tr>
-				<td class="mod">&#10060; &#10062; Minor NPC Portraits for IWDEE</td>
+				<td class="mod">&#10060; &#10062; Minor NPC Portraits for IWD:EE</td>
 				<td></td>
 				<td class="jeu">IWDEE</td>
 				<td></td>
@@ -1365,7 +1393,7 @@
 				  </form></td>
 			</tr>
 			<tr>
-				<td class="mod">Hommet IWDEE NPC</td>
+				<td class="mod">Hommet IWD:EE NPC</td>
 				<td></td>
 				<td class="jeu">IWDEE</td>
 				<td></td>
@@ -2431,7 +2459,7 @@
 				<th>Description</th>
 			</tr>
 			<tr>
-				<td class="modlime"><img width=16 height=16 src="images/progress.png" /> A Frosty Journey: The IWDEE Kitpack</td>
+				<td class="modlime"><img width=16 height=16 src="images/progress.png" /> A Frosty Journey: The IWD:EE Kitpack</td>
 				<td></td>
 				<td class="jeu">IWDEE</td>
 				<td></td>
@@ -4468,7 +4496,7 @@
 				  </form></td>
 			</tr>
 			<tr>
-				<td class="mod">&#9888;&#65039; House Rules for IWDEE (IWD:EE Tweak Pack)</td>
+				<td class="mod">&#9888;&#65039; House Rules for IWD:EE (IWD:EE Tweak Pack)</td>
 				<td></td>
 				<td class="jeu">IWDEE</td>
 				<td></td>
@@ -4697,12 +4725,12 @@
 				  </form></td>
 			</tr>
 			<tr>
-				<td class="mod">Magic Battles Revised</td>
+				<td class="modlime"><img width=16 height=16 src="images/progress.png" /> Magic Battles Revised</td>
 				<td></td>
 				<td class="jeu">IWDEE</td>
 				<td></td>
 				<td></td>
-				<td></td>
+				<td>Mickaël Leduque</td>
 				<td><a href="https://www.gibberlings3.net/forums/topic/33351-magic-battles-revised-streamlined-rules-for-mage-duels/"><img width=24 height=24 src="images/g3icon.ico" title="Gibberlings3" /></a> <a href="https://github.com/UnearthedArcana/magic_battles_revised/releases"><img width=24 height=24 src="images/github.png" title="GitHub" /></a></td>
 				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
 				  <form id="formulaire">
@@ -5131,7 +5159,7 @@
 				  </form></td>
 			</tr>
 			<tr>
-				<td class="mod">&#10060; &#10062; Thieving Mod for IWDEE</td>
+				<td class="mod">&#10060; &#10062; Thieving Mod for IWD:EE</td>
 				<td></td>
 				<td class="jeu">IWDEE</td>
 				<td></td>
@@ -5481,12 +5509,24 @@
 		</h2><br>
 
 		<p class="version">
-			Version Alpha 0.6.0 &nbsp;(15 Février 2022)
+			Version Alpha 0.7.0 &nbsp;(20 Février 2022)
+		</p>
+
+		<ul style="text-align:justify;">
+			<li>Ajout de précisions sur le mode de contribution.</li>
+			<li>Ajout du mod Generalized Biffing (Patches).</li>
+			<li>Ajout de la traduction en cours du mod Magic Battles Revised.</li>
+		</ul><br>
+
+
+		<p class="version">
+			Version Alpha 0.6.0 &nbsp;(16 Février 2022)
 		</p>
 
 		<ul style="text-align:justify;">
 			<li>Ajout du nouveau mod Khalid for BG2:EE (PNJ).</li>
 			<li>Ajout du nom du traducteur de SubtleDoctor's Random Tweak.</li>
+			<li>Harmonisation de l'orthographe des jeux EE.</li>
 		</ul><br>
 
 

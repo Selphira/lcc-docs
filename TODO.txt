@@ -14,7 +14,7 @@
 
 5. Barbarian Companion: Overpowered Edition 1.0 : http://www.shsforums.net/files/file/1277-barbarian-companion-overpowered-edition/
 
-6. Ajouter Generalized Biffing quelque part : http://www.shsforums.net/files/file/741-generalized-biffing/ https://github.com/SpellholdStudios/generalized_biffing/releases
+[6. Ajouter Generalized Biffing quelque part : http://www.shsforums.net/files/file/741-generalized-biffing/ https://github.com/SpellholdStudios/generalized_biffing/releases ] as of v0.7.0
 
 7. Remplacer la colonne traduction par une liste des langues disponibles (drapeaux) ?
 

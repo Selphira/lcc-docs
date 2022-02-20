@@ -18,7 +18,7 @@ Vous pouvez aussi proposer des Pull requests sur ce compte GitHub.
 
 ## Récapitulatif des mods listés
 
-Pour l'instant, 1318 mods ont été recensés, répartis comme suit :
+Pour l'instant, 1319 mods ont été recensés, répartis comme suit :
 
 
 <div align="center">
@@ -31,9 +31,9 @@ Pour l'instant, 1318 mods ont été recensés, répartis comme suit :
 <th>Dernier mod listé</th>
 </tr>
 <tr>
-<td>12</td>
+<td>13</td>
 <td>Patches</td>
-<td>0001</td>
+<td>0000</td>
 <td>0020</td>
 <td>0011 = Lost Party Members Fix</td>
 </tr>
@@ -174,4 +174,6 @@ Pour l'instant, 1318 mods ont été recensés, répartis comme suit :
 </div>
 
 Pour ajouter un mod, il suffit de le saisir avec une balise spoiler desc-nnnn, avec nnnn étant égal au numéro du dernier mod saisi +1. Par exemple, dans la catégorie Nouveaux PNJ, ce serait desc-0673 (le dernier mod saisi étant 0672 = Zelink).
+
+Et n'oubliez-pas de mettre à jour ce tableau, pour éviter les doublons. :wink:
 
