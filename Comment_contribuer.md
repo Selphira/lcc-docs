@@ -18,7 +18,7 @@ Vous pouvez aussi proposer des Pull requests sur ce compte GitHub.
 
 ## Récapitulatif des mods listés
 
-Pour l'instant, 1319 mods ont été recensés, répartis comme suit :
+Pour l'instant, 1321 mods ont été recensés, répartis comme suit :
 
 
 <div align="center">
@@ -35,7 +35,7 @@ Pour l'instant, 1319 mods ont été recensés, répartis comme suit :
 <td>Patches</td>
 <td>0000</td>
 <td>0020</td>
-<td>0011 = Lost Party Members Fix</td>
+<td>0012 = Lost Party Members Fix</td>
 </tr>
 <tr>
 <td>8</td>
@@ -83,7 +83,7 @@ Pour l'instant, 1319 mods ont été recensés, répartis comme suit :
 </tr>
 
 <tr>
-<td>171</td>
+<td>172</td>
 <td>Nouveaux PNJ</td>
 <td>0501</td>
 <td>0700</td>
@@ -163,17 +163,17 @@ Pour l'instant, 1319 mods ont été recensés, répartis comme suit :
 </tr>
 
 <tr>
-<td>18</td>
+<td>19</td>
 <td>Personnalisation du personnage principal et de l'équipe</td>
 <td>2001</td>
 <td>2100</td>
-<td>2014 = Whispering Wind Party + Installer & Portrait by drowling</td>
+<td>2019 = Portrait Gender Separator</td>
 </tr>
 
 </table>
 </div>
 
-Pour ajouter un mod, il suffit de le saisir avec une balise spoiler desc-nnnn, avec nnnn étant égal au numéro du dernier mod saisi +1. Par exemple, dans la catégorie Nouveaux PNJ, ce serait desc-0673 (le dernier mod saisi étant 0672 = Zelink).
+Pour ajouter un mod, il suffit de le saisir avec une balise spoiler desc-nnnn, avec nnnn étant égal au numéro du dernier mod saisi +1. Par exemple, dans la catégorie Nouveaux PNJ, ce serait desc-0673 (le dernier mod saisi étant 0672 = Zelink). N'oubliez surtout pas de mentionner ce label car il permet d'ouvrir et de ferme les balises spoiler.
 
 Et n'oubliez-pas de mettre à jour ce tableau, pour éviter les doublons. :wink:
 
