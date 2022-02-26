@@ -18,7 +18,7 @@ Vous pouvez aussi proposer des Pull requests sur ce compte GitHub.
 
 ## Récapitulatif des mods listés
 
-Pour l'instant, 1321 mods ont été recensés, répartis comme suit :
+Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 
 
 <div align="center">
@@ -83,11 +83,11 @@ Pour l'instant, 1321 mods ont été recensés, répartis comme suit :
 </tr>
 
 <tr>
-<td>172</td>
+<td>173</td>
 <td>Nouveaux PNJ</td>
 <td>0501</td>
 <td>0700</td>
-<td>0672 = Zelink (Zelda & Link)</td>
+<td>0673 = Barbarian Companion: Overpowered Edition</td>
 </tr>
 
 <tr>
@@ -115,11 +115,11 @@ Pour l'instant, 1321 mods ont été recensés, répartis comme suit :
 </tr>
 
 <tr>
-<td>105</td>
+<td>106</td>
 <td>Mods d'objets et de sorts</td>
 <td>1001</td>
 <td>1150</td>
-<td>1105 = Forgotten Armament</td>
+<td>1106 = Dimension Gate: Or How TV Bunny searched TV Remote Control</td>
 </tr>
 
 <tr>

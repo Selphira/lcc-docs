@@ -4,19 +4,19 @@
 
 0. Mettre à jour le lien de la discussion du forum lorsqu'elle sera créée.
 
-[1. Remplir toutes les descriptions manquantes ("TODO Description" dans les listes).]
-
 2. Vérifier les mods manquants et/ou les liens de téléchargement manquants.
 
-3. Vérifier tous les liens de LCC comme https://akadis.baldursgateworld.fr depuis que Fossy les a fait passer de http à https.
+7. Remplacer la colonne traduction par une liste des langues disponibles (drapeaux) ?
 
-4. Dimension Gate: Or How TV Bunny searched TV Remote Control [BGEE] http://www.shsforums.net/files/file/1272-dimension-gate-or-how-tv-bunny-searched-tv-remote-control/ + http://www.shsforums.net/files/file/1271-spellfix-visual-effects/
+[1. Remplir toutes les descriptions manquantes ("TODO Description" dans les listes).]
 
-5. Barbarian Companion: Overpowered Edition 1.0 : http://www.shsforums.net/files/file/1277-barbarian-companion-overpowered-edition/
+[3. Vérifier tous les liens de LCC comme https://akadis.baldursgateworld.fr depuis que Fossy les a fait passer de http à https.] as of v0.9.1
+
+[4. Dimension Gate: Or How TV Bunny searched TV Remote Control [BGEE] http://www.shsforums.net/files/file/1272-dimension-gate-or-how-tv-bunny-searched-tv-remote-control/ + http://www.shsforums.net/files/file/1271-spellfix-visual-effects/] as of v0.9.1
+
+[5. Barbarian Companion: Overpowered Edition 1.0 : http://www.shsforums.net/files/file/1277-barbarian-companion-overpowered-edition/] as of v0.9.1
 
 [6. Ajouter Generalized Biffing quelque part : http://www.shsforums.net/files/file/741-generalized-biffing/ https://github.com/SpellholdStudios/generalized_biffing/releases ] as of v0.7.0
-
-7. Remplacer la colonne traduction par une liste des langues disponibles (drapeaux) ?
 
 
 * ========= *
