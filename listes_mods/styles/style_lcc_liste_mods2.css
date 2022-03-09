@@ -425,17 +425,17 @@ hr {
 /* ------------ *
  *  Info-bulle  *
  * ------------ */ 
-a.infobulle {
+.infobulle {
 	position: relative;  /*les .infobulles deviennent référentes*/
 	cursor: help;
 	text-decoration: none;
 	color: #deded9;
-	border-bottom: 1px #deded9 dotted; /* On souligne le texte. */
+ /*	border-bottom: 1px #deded9 dotted; On souligne le texte. */
 }
 
 /* on génère un élément :after lors du survol et du focus :*/
-a.infobulle:hover::after,
-a.infobulle:focus::after {
+.infobulle:hover::after,
+.infobulle:focus::after {
 	content: attr(aria-label);  /* on affiche aria-label */
 	font-size: 80%;
 	position: absolute;
