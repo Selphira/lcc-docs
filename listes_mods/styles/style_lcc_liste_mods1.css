@@ -406,6 +406,54 @@ hr {
 }
 
 
+/* ------------ *
+ *  Info-bulle  *
+ * ------------ */ 
+.infobulle {
+	position: relative;  /*les .infobulles deviennent référentes*/
+	cursor: help;
+	text-decoration: none;
+	color: #deded9;
+ /*	border-bottom: 1px #deded9 dotted; On souligne le texte. */
+}
+
+/* on génère un élément :after lors du survol et du focus :*/
+.infobulle:hover::after,
+.infobulle:focus::after {
+	content: attr(aria-label);  /* on affiche aria-label */
+	font-size: 80%;
+	position: absolute;
+	top: -3.2em;
+	left: 50%;
+	transform: translateX(-50%); /* on centre horizontalement */
+	z-index: 1; /* pour s'afficher au dessus des éléments en position relative */
+	white-space: nowrap;  /* on interdit le retour à la ligne */
+	padding: 3px 8px;
+	background: rgba(48, 48, 48, 0.8);
+	border: 1px solid #FFCC33;
+	border-radius: 4px;
+}
+
+/* on génère un second élément en :before pour la flèche */
+[aria-label]:hover::before,
+[aria-label]:focus::before {
+	content: "";
+	position: absolute;
+	top: -0.55em;
+	left: 50%;
+	transform: translateX(-50%); /* on centre horizontalement  */
+	border-top: 8px solid #FFCC33;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+/*	color: #413219;*/
+}
+
+/* pas de contour durant le :focus */
+[aria-label]:focus {
+	outline: none;
+}
+
+
 /* --------------------- *
  *  Tableaux génériques  *
  * --------------------- */
