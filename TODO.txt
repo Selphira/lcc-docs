@@ -133,3 +133,245 @@ Wedges BGT Adventure Pack
 
 Disparu : https://forums.beamdog.com/discussion/16668/mod-beta-subraces-for-bgee-0-77/p1
 
+
+
+* ================================ *
+*  NOTES de DERATISEUR A DISCUTER  *
+* ================================ *
+
+1. BG2 : il manque les mods de ProfErrata.
+------------------------------------------
+https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/32088-personnage-non-joueur-kaya-marchande-de-sorts-voici-mon-premier-mod.html
+https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/33352-details-pour-mon-mod-emerson.html
+
+R : ils ont été "commentés" à sa demandde. Ils figurent toujours dans le fichier HTML, mais sont donc masqués à la lecture.
+
+
+2. IWD2 : il manque Faster Boots of Speed, Extended XP for Less Challenging Monsters by packrat, Tweaked Experience Tables, IWD2 Modified Scripts by Link, Feats & Skills Mod by Michael J. Lee : https://sorcerers.net/Games/IWD2/index_mods.php
+Bref sur Sorcerers.net, plein de "vieux"" trucs pour PST, BG1, BG2 et IWD, non listés.
+
+Et sur Nexus,tout un tas de Soundsets, améliorations graphiques et autres pour BG2EE et BG1 : https://www.nexusmods.com/baldursgate2ee/mods/trendingalltime/?BH=0
+et https://www.nexusmods.com/baldursgate/mods/categories/4/
+
+Et encore si tu veux lister tous les vieux mods avec leur nom, l'adjectif "disparu" et la description "introuvable" (ça s'appelle du perfectionnisme ^^)
+https://modlist.pocketplane.net/index.php?ax=list&sub=97&cat_id=97
+
+
+RÉPONSE COMMUNE : ouaip. Le problème, c'est qu'il y en a des tonnes.
+Comme la plupart des mods sur Sorcerers sont soit des mods override, soit ne sont plus maintenus, je ne les ai pas tous listés. Mais si vous jugez que certains sont indispensables, ne vous gênez pas pour les signaler, je les ajouterai avec plaisir.
+Quant à ceux de Nexus, j'ai listé ceux qui semblent être maintenus.
+
+
+3. BG : Parangon Mode.
+----------------------
+Maintenant compatible avec oBG
+R : Certes. Maix comme une partie des fichiers .tra est toujours codé en UTF-8 ne n'ai pas pris le risque de l'annoncer compatible oBG. ;)
+
+
+4. BG2 :  Menace sur le Royaume de Diamant Éternel (WIP).
+---------------------------------------------------------
+Q : Mal placé ? Ne devrait-il pas être placé dans "Les conversions totales et partielles" ?
+R : Non. C'est un mod proposant une énorme quête qui ne remplace pas la trame du jeu et n'en modifie pas les ressources.
+
+
+5. BG2 : BG2 Character Portrait Mod (BG2CPM).
+---------------------------------------------
+Q : Pas de flèche pour ouvrir la description, à la place "[0123]" -> devrait avoir comme lien "retiré" ou "disparu" et une description, non ?
+R : Parce que je n'ai pas réussi à le retrouver et ne dispose donc pas de description précise. Ce code me permet de savoir que c'est en attente.
+
+
+6. BG2 : Colours of infinity. Lien renvoyant sur The Deep garden. Le vrai lien est https://downloads.weaselmods.net/tag/colours-of-infinity/
+-----------------------------
+R : Non, non. Le lien est bon. ;)
+
+
+7. BG2 : Buckler reversion.
+---------------------------
+Il y a un composant similaire dans Tweak Anthology
+R : Tu en es certain ? Je ne vois pas lequel...
+
+
+8. BG2 : Valorious' Manual for the Incompetent and the Mundane Adventurer.
+--------------------------------------------------------------------------
+Le commentaire cite "iiLearn-Through-Use d'igi". Il manque le lien vers le mod dans la liste.
+R : Effectivement. La description reprend celle des premières versions. Mais comme ce mod a été depuis mis à jour par d'autres auteurs (notamment The Imp), il est possible que ce ne soit plus valable. D'autant plus qu'à l'époque, iiLearn-Through-Use était un mod Tutu ONLY ! Il va falloir vérifier ça sérieusement.
+
+
+
+* ============================================== *
+*  MODS AFFECTÉS DANS DE MAUVAISES CATÉGORIES ?  *
+* ============================================== *
+
+Je regroupe ici de nombreuses interrogations. Certains mods sont difficiles à classer. Il va falloir faire un choix.
+
+
+1. BG2 : Skooter the NPC.
+-------------------------
+S'il ne rajoute pas un npc recrutable, il n'a rien à faire dans la section "Les PNJ recrutables supplémentaires".
+R : Exact. Mais comme je ne savais pas où le mettre... Je suis prêt à le déplacer dans la catégorie qui vous convient le mieux.
+
+
+2. BG2 : Summon Bhaalspawn (Sandra NPC).
+----------------------------------------
+A si peu de dialogues que mérite nettement sa place dans les "One-Day NPCs".
+R : Je te rejoins sur le fond. Mais comme les mods One-Day NPC correspondent à un cahier des charges précis, je l'ai laissé dans les ajouts de PNJ.
+
+
+3. BG2 : NMR-HAPPY Patch.
+-------------------------
+Mal placé, à mettre dans Les améliorations (ou modifications) des PNJ recrutables (ou non) existants" ou "modification des règles".
+R : D'accord. Mais dans quelle catégorie ?
+
+
+4. BG2 : Imoen Can Die in Spellhold.
+------------------------------------
+Doublon : aussi placé dans "Les améliorations des PNJ recrutables (ou non) existants" (où ce mod est mieux placé).
+R : Ça fait un moment que j'ai repéré ce doublon. Mais j'attendais de régler son classement pour le supprimer. Même problématique que le suivant
+
+
+5. BG2 : Imoen Is Stone.
+------------------------
+Ce n'est pas une quête -> pas de catégorie pour ça, ou alors dans "Les améliorations des PNJ recrutables (ou non) existants".
+R : Le problème de ces mods qui modifient la trame du jeu, c'est qu'ils n'entrent dans aucune catégorie identifiable. C'est pourquoi je les ai mis dans les quêtes (ajout ET modification de quêtes existantes).
+
+
+6. BG2 : Redemption.
+--------------------
+A placer dans "Les améliorations des PNJ recrutables (ou non) existants" -> c'est du même acabi que "The longer road".
+R : Certes. Mais il est considéré comme un mod de quête par tous les sites de modding, ainsi que par tous les utilitaires d'installation de mods...
+
+
+7. BG2 : Tortured Souls-BP.
+---------------------------
+Toutes les quêtes annoncées sont dépendantes d'avoir le pnj x dans l'équipe -> donc ce ne sont pas des quêtes génériques mais des quêtes de pnjs, donc mod à placer dans "Les PNJ recrutables supplémentaires".
+R : idem.
+
+
+8. BG2 : Archive of Icendoan.
+-----------------------------
+Q : N'augmente pas du tout la difficulté, bien au contraire, donc mal placé. Éventuellement à mettre dans "modification des règles".
+R : Oui et Non. Puisque les adversaires en bénéficient aussi. Ceci dit, pourquoi ne pas le déplacer ?
+
+
+9. BG2 : Store Prices et BG2 : PnP Potions.
+-------------------------------------------
+Q : OK, mis dans "...ou modifient les caractéristiques de certains d'entre eux." Mais ne seraient-ils pas mieux dans "Les modifications du gameplay ou des règles de jeu" ?
+R : Comme ils modifient des magasins et/ou des objets, il m'a semblé plus opportun de les mettre dans cette catégorie qui regroupe tout ce qui concerne les boutiques, forgerons, objets et sorts, plutôt que de disperser ces mods dans plusieurs catégories.
+
+
+10. BG2 : Biddekelorak et BG2 : Taim NPC.
+-----------------------------------------
+One-day npc ?
+R : même réponse que pour 2. Summon Bhaalspawn
+
+
+11. BG1 : Will of the Wisps.
+----------------------------
+Will (le pnj) n'est disponible que pour BG2. il n'a donc pas a être référencé dans BG1. Les changement sur la classe de chaman peuvent faire que le mod soit référencé dans "Les ajouts et modifications de profils (kits)"
+R : c'est le problème avec les mods qui ajoutent un nouveau PNJ dans un jeu particulier et permettent d'installer son profil sur tous les jeux. Je l'ai indiqué dans la description, mais ce n'est peut-être pas assez explicite.
+
+
+12. BG2 : Touchstone NPC.
+-------------------------
+One-day NPC (confirmé dans le premier post du lien).
+R : Pas vraiment : "I would call him a One-day NPC if I had done this in a day but with RL commitments it has taken 2 years."
+
+
+13. BG2 : Magic Store of Vergadain.
+-----------------------------------
+Ce n'est pas un magasin, il est dans la mauvaise catégorie.
+R : idem réponse 9.
+
+
+14. BG2 : Ribald's Genie.
+-------------------------
+Ce n'est pas un marchand (Ribald donne une flûte). À mettre dans la catégorie qui contient tous les trucs de téléportation (Teleport spell, Planar sphere teleporter, rod of Refuge, Dimension Gate: Or How TV Bunny searched TV Remote Control) : "Les mods suivants ajoutent des nouveaux objets et/ou sorts disséminés dans le jeu, ou modifient les caractéristiques de certains d'entre eux"
+R : idem réponse 9.
+
+
+15. BG2 : Magic Store of Vergadain.
+-----------------------------------
+Ce n'est pas un magasin, il est dans la mauvaise catégorie.
+R : idem réponse 9.
+
+
+16. BG2 : Shed's Mods.
+----------------------
+Lien mort : http://www.shedplant.net/#bg2mods http://www.shedplant.net/assets/bg2mods/Shed's+Mods+1.03.exe
+R : Je sais. Je l'ai récupéré et vais mettre à jour le lien dans le DL Center de SHS.
+
+
+17. BG2 : BOO one day npc.
+--------------------------
+https://sorcerers.net/Games/BG2/boonpc.php ??
+R : Comme je ne suis pas certain que c'est le bon lien, j'ai préféré ne pas indiqué le lien. Mais si quelqu'un peut le confirmer, pas de souci pour l'indiquer.
+
+
+18. BG2 : Jan's Alchemy.
+------------------------
+Pas O -> F
+R : Pourquoi pas...
+
+
+
+* ================ *
+*  MODS MANQUANTS  *
+* ================ *
+
+Pour info, j'ai déjà envoyé un message aux auteurs des mods pour versions EE publiés sur SHS et non maintenus depuis un bail. Comme il n'ont pas daigné répondre à un administrateur du site, j'ai considéré qu'ils n'étaient plus maintenus. Comme, de plus, ils sot sortis pour les versions 1.6, ils ne sont plus compatibles avec les versions 2.0 + et crasheront le jeu. C'est pourquoi je ne les ai pas référencés.
+Cependant, je suis ouvert à toute proposition de référencement. Mais je vous préviens : je n'écrirai pas leur description...
+
+1. BG1 : http://www.shsforums.net/topic/59181-mod-sod-banter-restoration-for-eet/
+---------------------------------------------------------------------------------
+Q : Fâché avec Roxanne ?
+R : Non, c'est juste que je ne sais pas où le mettre !
+
+
+2. BG2 : Sub-Zero Companion 1.3 - http://www.shsforums.net/files/file/1276-sub-zero-companion/
+-------------------------------
+R : id.
+
+
+3. BG2 : Ashar - http://www.shsforums.net/files/file/1203-ashar-npc/
+--------------
+R : Déjà référencé !
+
+
+4. BG1 : Barbed Club of Pain 1.6 - http://www.shsforums.net/files/file/1105-barbed-club-of-pain/
+--------------------------------
+
+
+5. BG2 : [Baldur's ''Great''] 0.1a - http://www.shsforums.net/files/file/1078-bg2ee-baldurs-great/
+----------------------------------
+Mod override, écrase le Dialog.TLK
+R : Raison pour laquelle je ne l'ai pas référencé.
+
+
+6. ALL : Hide In Shadows without sound effects - http://www.shsforums.net/files/file/1144-hide-in-shadows-without-sound-effects-ee/
+----------------------------------------------
+
+7. ALL : Initiative - http://www.shsforums.net/files/file/1156-initiative/
+-------------------
+R : Il est masqué dans la liste car il ne dispose d'aucun lien de téléchargement.
+
+
+8. BG1 : NPC Opine Again - http://www.shsforums.net/files/file/1178-npc-opine-again/
+------------------------
+ 
+ 
+9. BG1 : One-handed crossbows for BGEE and SoD - http://www.shsforums./files/file/1158-one-handed-crossbows-for-bgee-and-sod/
+----------------------------------------------
+Mod override
+R : Raison pour laquelle je ne l'ai pas référencé.
+
+
+10. ALL (pas EET) : Quick Save Slots Tweaks 1.5 - http://www.shsforums.net/files/file/1141-quick-save-slots-tweaks/
+-----------------------------------------------
+y'a pareil dans le tweak anthology
+R : Par ailleurs, je l'ai traduit pour Elminster. Il est sur mon compte GitHub. Mais comme ce mod est inutile depuis cdtweaks, je ne l'ai pas inclus...
+
+
+
+
+
+

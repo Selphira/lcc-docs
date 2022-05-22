@@ -22,7 +22,7 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 
 
 <div align="center">
-<table class="tableau" style="margin-left: 80px;line-height: 170%;">
+<table class="tableau" style="margin-left: 80px; line-height: 170%;">
 <tr style= "line-height: 300%;">
 <th>Nb</th>
 <th>Description</th>
@@ -35,43 +35,43 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 <td>Patches</td>
 <td>0000</td>
 <td>0020</td>
-<td>0012 = Lost Party Members Fix</td>
+<td><div align="left">0012 = Lost Party Members Fix</div></td>
 </tr>
 <tr>
 <td>8</td>
 <td>Correctifs</td>
 <td>0021</td>
 <td>0040</td>
-<td>0028 = Convert Torment to English</td>
+<td><div align="left">0028 = Convert Torment to English</div></td>
 </tr>
 <tr>
 <td>3</td>
 <td>Modifications du moteur</td>
 <td>0041</td>
 <td>0050</td>
-<td>0043 = EEEx</td>
+<td><div align="left">0043 = EEEx</div></td>
 </tr>
 <tr>
 <td>13</td>
 <td>Conversions : Trilogie</td>
 <td>0051</td>
 <td>0080</td>
-<td>0074 = EasyTutu Degreenifier</td>
+<td><div align="left">0074 = EasyTutu Degreenifier</div></td>
 </tr>
 <tr>
 <td>9</td>
 <td>Conversions totales</td>
 <td>0081</td>
 <td>0100</td>
-<td>0089 = Xando</td>
+<td><div align="left">0089 = Xand</div>o</td>
 </tr>
 
 <tr>
-<td>133</td>
+<td>135</td>
 <td>Mods graphiques et sonores</td>
 <td>0101</td>
 <td>0300</td>
-<td>0233 = Portraits from IWD2</td>
+<td><div align="left">0235 = Nouvelles voix de compagnons pour IWD et IWD2</div></td>
 </tr>
 
 <tr>
@@ -79,15 +79,16 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 <td>Quêtes</td>
 <td>0301</td>
 <td>0500</td>
-<td>0422 = Zalnoya and the Shadow Thieves</td>
+<td><div align="left">0422 = Zalnoya and the Shadow Thieves</div></td>
 </tr>
+<!-- 19.04.2022 : Aerie in BG:EE (desc-0503) transféré depuis la catégorie Les PNJ recrutables supplémentaires dans la catégorie Les quêtes, nouvelles aventures et les modifications des quêtes existantes -->
 
 <tr>
 <td>173</td>
 <td>Nouveaux PNJ</td>
 <td>0501</td>
 <td>0700</td>
-<td>0673 = Barbarian Companion: Overpowered Edition</td>
+<td><div align="left">0673 = Barbarian Companion: Overpowered Edition</div></td>
 </tr>
 
 <tr>
@@ -95,7 +96,7 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 <td>PNJ d'un jour</td>
 <td>0701</td>
 <td>0800</td>
-<td>0734 = Yikari (One-Day NPC)</td>
+<td><div align="left">0734 = Yikari (One-Day NPC)</div></td>
 </tr>
 
 <tr>
@@ -103,15 +104,17 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 <td>Extensions de PNJ</td>
 <td>0801</td>
 <td>0900</td>
-<td>0883 = Yoshimo's Remorse</td>
+<td><div align="left">0883 = Yoshimo's Remorse</div></td>
 </tr>
+<!-- 19.04.2022 : Mod NPC (desc-0594) transféré depuis la catégorie Les PNJ recrutables supplémentaires dans la catégorie Les améliorations des PNJ recrutables (ou non) existants
+19.04.2022 : BG:EE NPC Tweaks (desc-1631), Classkits for NPCs (desc-1649), Level One NPCs (desc-1736), NPC Enhanced for Everyone (desc-1766), NPC KitPack (desc-1767) transférés depuis la catégorie Les modifications du gameplay ou des règles de jeu dans la catégorie Les améliorations des PNJ recrutables (ou non) existants -->
 
 <tr>
-<td>63</td>
+<td>64</td>
 <td>Mods forgerons et marchands</td>
 <td>0901</td>
 <td>1000</td>
-<td>0963 = YLItems pack Final</td>
+<td><div align="left">0964 = Of Heirlooms and Classes (ajouté le 16/05/22)</div></td>
 </tr>
 
 <tr>
@@ -119,7 +122,7 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 <td>Mods d'objets et de sorts</td>
 <td>1001</td>
 <td>1150</td>
-<td>1106 = Dimension Gate: Or How TV Bunny searched TV Remote Control</td>
+<td><div align="left">1106 = Dimension Gate: Or How TV Bunny searched TV Remote Control</div></td>
 </tr>
 
 <tr>
@@ -127,7 +130,7 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 <td>Objets et sorts : mods override</td>
 <td>1151</td>
 <td>1200</td>
-<td>1171 = Use Any NPC Item - Add-on for Use Any Item HLA</td>
+<td><div align="left">1171 = Use Any NPC Item - Add-on for Use Any Item HLA</div></td>
 </tr>
 
 <tr>
@@ -135,7 +138,7 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 <td>Profils</td>
 <td>1201</td>
 <td>1400</td>
-<td>1357 = Druid Kit Enhancements (ajouté le 07/01/21)</td>
+<td><div align="left">1357 = Druid Kit Enhancements (ajouté le 07/01/21)</div></td>
 </tr>
 
 <tr>
@@ -143,7 +146,7 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 <td>Profils : mods override</td>
 <td>1401</td>
 <td>1500</td>
-<td>1414 = Wizard Slayer Overhaul</td>
+<td><div align="left">1414 = Wizard Slayer Overhaul</div></td>
 </tr>
 
 <tr>
@@ -151,15 +154,16 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 <td>Difficulté et tactique</td>
 <td>1501</td>
 <td>1600</td>
-<td>1542 = Xyx's Beholder Stuff</td>
+<td><div align="left">1542 = Xyx's Beholder Stuff</div></td>
 </tr>
+<!-- 22.05.2022 :  (desc-1735) transféré depuis la catégorie Les modifications du gameplay ou des règles de jeu dans la catégorie Les mods d'augmentation de difficulté -->
 
 <tr>
-<td>260</td>
+<td>261</td>
 <td>Gameplay</td>
 <td>1601</td>
 <td>1800</td>
-<td>1860 = Skills and Abilities</td>
+<td><div align="left">1861 = The Boareskyr Bridge Scene (ajouté le 16/05/22</div></td>
 </tr>
 
 <tr>
@@ -167,13 +171,13 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 <td>Personnalisation du personnage principal et de l'équipe</td>
 <td>2001</td>
 <td>2100</td>
-<td>2019 = Portrait Gender Separator</td>
+<td><div align="left">2019 = Portrait Gender Separator</div></td>
 </tr>
 
 </table>
 </div>
 
-Pour ajouter un mod, il suffit de le saisir avec une balise spoiler desc-nnnn, avec nnnn étant égal au numéro du dernier mod saisi +1. Par exemple, dans la catégorie Nouveaux PNJ, ce serait desc-0673 (le dernier mod saisi étant 0672 = Zelink). N'oubliez surtout pas de mentionner ce label car il permet d'ouvrir et de ferme les balises spoiler.
+Pour ajouter un mod, il suffit de le saisir avec une balise spoiler desc-nnnn, avec nnnn étant égal au numéro du dernier mod saisi +1. Par exemple, dans la catégorie Nouveaux PNJ, ce serait desc-0674 (le dernier mod saisi étant 0673 = Barbarian Companion: Overpowered Edition). N'oubliez surtout pas de mentionner ce label car il permet d'ouvrir et de ferme les balises spoiler.
 
 Et n'oubliez-pas de mettre à jour ce tableau, pour éviter les doublons. :wink:
 
