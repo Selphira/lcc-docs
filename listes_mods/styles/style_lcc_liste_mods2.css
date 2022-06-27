@@ -163,6 +163,29 @@ body {
 	line-height: 160%;
 }
 
+#maindiv .warning {
+	font-size: 110%;
+	text-align: justify;
+	border-style: solid;
+	border-width: 2px;
+	border-color: Goldenrod;
+	margin-top: 32px;
+	background: rgba(218,165,32,0.5);
+	padding: 10px;
+	margin: 10px auto;
+	width: 80%;
+	line-height: 160%;
+}
+#maindiv .warning p {
+	width: 90%;
+}
+#maindiv .warning p.titre {
+	font-weight: bold;
+	width: 100%;
+	text-align: center;
+	letter-spacing: .2rem;
+}
+
 #maindiv address {
 	font-size: 95%;
 	font-style: normal;
@@ -215,6 +238,7 @@ body {
 	margin-top: 32px;
 	padding: 6px;
 }
+
 
 /* -------- *
  *  Listes  *
