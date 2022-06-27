@@ -18,7 +18,7 @@ Vous pouvez aussi proposer des Pull requests sur ce compte GitHub.
 
 ## Récapitulatif des mods listés
 
-Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
+Pour l'instant, 1324 mods ont été recensés, répartis comme suit :
 
 
 <div align="center">
@@ -84,11 +84,11 @@ Pour l'instant, 1323 mods ont été recensés, répartis comme suit :
 <!-- 19.04.2022 : Aerie in BG:EE (desc-0503) transféré depuis la catégorie Les PNJ recrutables supplémentaires dans la catégorie Les quêtes, nouvelles aventures et les modifications des quêtes existantes -->
 
 <tr>
-<td>173</td>
+<td>174</td>
 <td>Nouveaux PNJ</td>
 <td>0501</td>
 <td>0700</td>
-<td><div align="left">0673 = Barbarian Companion: Overpowered Edition</div></td>
+<td><div align="left">0674 = Navarra (ajouté le 27/06/22</div></td>
 </tr>
 
 <tr>
