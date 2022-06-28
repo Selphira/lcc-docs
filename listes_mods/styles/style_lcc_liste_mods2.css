@@ -418,6 +418,72 @@ img.image_left {
 /*max-width:100%;height:auto;*/
 }
 
+/* Logo LCC */
+img.image_lcc4 {
+	width: 24px;
+	height: 24px;
+	margin-bottom: -4px;
+}
+img.image_lcc6 {
+	width: 24px;
+	height: 24px;
+	margin-bottom: -6px;
+}
+
+img.image_24px4 {
+	width: 24px;
+	height: 24px;
+	margin-bottom: -4px;
+}
+
+img.image_24px6 {
+	width: 24px;
+	height: 24px;
+	margin-bottom: -6px;
+}
+
+img.image_24px8 {
+	width: 24px;
+	height: 24px;
+	margin-bottom: -8px;
+}
+
+
+img.image_26px6 {
+	width: 26px;
+	height: 26px;
+	margin-bottom: -6px;
+}
+
+
+img.image_22px4 {
+	width: 22px;
+	height: 22px;
+	margin-bottom: -4px;
+}
+
+
+img.image_github4 {
+	width: 21px;
+	height: 21px;
+	margin-bottom: -4px;
+}
+
+img.image_github {
+	width: 21px;
+	height: 21px;
+}
+
+img.image_g3 {
+	width: 21px;
+	height: 21px;
+	margin-bottom: -6px;
+}
+
+img.image_g3b {
+	width: 21px;
+	height: 21px;
+}
 
 /* ------------------ *
  *  Captures d'écran  *
