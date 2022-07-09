@@ -18,7 +18,7 @@ Vous pouvez aussi proposer des Pull requests sur ce compte GitHub.
 
 ## Récapitulatif des mods listés
 
-Pour l'instant, 1324 mods ont été recensés, répartis comme suit :
+Pour l'instant, 1325 mods ont été recensés, répartis comme suit :
 
 
 <div align="center">
@@ -75,11 +75,11 @@ Pour l'instant, 1324 mods ont été recensés, répartis comme suit :
 </tr>
 
 <tr>
-<td>122</td>
+<td>123</td>
 <td>Quêtes</td>
 <td>0301</td>
 <td>0500</td>
-<td><div align="left">0422 = Zalnoya and the Shadow Thieves</div></td>
+<td><div align="left">0423 = Snowytoes Halmet (ajouté le 30/06/22)</div></td>
 </tr>
 <!-- 19.04.2022 : Aerie in BG:EE (desc-0503) transféré depuis la catégorie Les PNJ recrutables supplémentaires dans la catégorie Les quêtes, nouvelles aventures et les modifications des quêtes existantes -->
 
