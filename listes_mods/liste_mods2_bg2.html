@@ -155,6 +155,52 @@
 			</label></center>
         </p>
 
+		<hr><br>
+
+<!-- ============== S a g a   B G 2   -   S p e c i a l ============== -->
+
+		<table class="tableau" style="margin-left: 80px;line-height: 170%;" summary="Liste des patchs non officiels traduits">
+			<colgroup>
+				<col style="border-right: 3px double #aaa;" WIDTH=320 /><col WIDTH=36 /><col WIDTH=36 /><col WIDTH=52 /><col style="border-right: 3px double #aaa;" WIDTH=36" /><col WIDTH=180 /><col WIDTH=64 /><col class="col8" />
+			</colgroup>
+			<tr style= "line-height: 300%;">
+				<th>Mod</th>
+				<th colspan="4" class="double">Jeux</th>
+				<th>Traducteurs</th>
+				<th WIDTH=64><img width=32 height=32 src="images/download.png" title="Téléchargement" style="margin-top:5px; margin-bottom:-5px;" /></th>
+				<th>Description</th>
+			</tr>
+			<tr>
+				<td class="modblue">&#9989; Big World Setup FR (BWS-FR)</td>
+				<td></td>
+				<td class="jeu">BGT</td>
+				<td></td>
+				<td></td>
+				<td><img width=24 height=14 src="images/fr-flag-32.png" title="Mod français" />&#160;&#160;&#160;(Selphira)</td>
+				<td><a href="https://www.baldursgateworld.fr/lacouronne/mega-mods-big-picture-darkest-day-shadow-over-soubar-tortured-souls-check-bodies/33140-bwp-fr-big-world-setup-fr.html"><img class="image_26px6" src="images/logocc26.png" title="La Couronne de Cuivre" /></a> <a href="https://github.com/Selphira/BigWorldSetupFR"><img class="image_24px4" src="images/github.png" title="GitHub" /></a></td>
+				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">
+				  <form id="formulaire">
+					<label for="desc-9999"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
+					<input type="checkbox" name="desc-9999" id="desc-9999"/>
+					<div class="contenu">
+					  <p style="width:100%;">Développé par Selphira sur votre forum préféré, BWS-FR est un fork du défunt <a href="https://github.com/BigWorldSetup/BigWorldSetup">Big World Setup</a> spécialisé dans l'installation des mods traduits en Français et compatibles avec BGT (il installe aussi certains mods anglais qui n'ajoutent pas de texte dans le jeu).<br>
+					  Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative fonctionnelle à l'outil Project Infinity, toujours en phase de développement, dont l'utilisation est pour le moins peu intuitive et qui est encore très loin d'être au point.<br>
+					  <u>Ses fonctions principales :</u><br>
+					  - Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.<br>
+					  - Il supporte les présélections de mods.<br>
+					  - Il télécharge automatiquement la plupart des mods.<br>
+					  - Il extrait automatiquement la plupart des mods.<br>
+					  - Il se charge de gérer l'ordre d'installation.<br>
+					  - Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.<br>
+					  - Il applique des corrections sur certains mods.<br>
+					  &#9888;&#65039; Attention : Cette version ne gère pas les jeux BG:EE, BG2:EE et EET. Cependant, si une personne désire le faire, libre à elle de créer une pré-sélection et les fichiers ini associés. L'auteure se fera un plaisir de l'intégrer au projet.
+					  </p>
+					</div>
+				  </form></td>
+			</tr>
+
+		</table><br><br>
+
 		<hr>
 
 <!-- ============== S a g a   B G 2   -   P a t c h ============== -->
@@ -406,7 +452,8 @@
 					<label for="desc-0000"><strong>&nbsp;&nbsp;<span style="color: Goldenrod;">&#x25BA;</span> Description</strong></label>
 					<input type="checkbox" name="desc-0000" id="desc-0000"/>
 					<div class="contenu">
-					  <p style="width:100%;">Generalized Biffing (mise en bif généralisée) n'est pas un mod, mais un outil écrit avec WeiDU et s'installant comme un mod. Son principe est de créer des fichiers BIF à partir des fichiers de mods ou modifiés par des mods et présents dans le répertoire Override du jeu.<br>
+					  <p style="width:100%;"><span style="color: Goldenrod;">Generalized Biffing (mise en bif généralisée) est extrêmement important pour éviter des ralentissements en jeu si votre installation contient beaucoup de mods.</span><br>
+					  Ce n'est pas vraiment un mod, mais un outil écrit avec WeiDU et s'installant comme un mod. Son principe est de créer des fichiers BIF à partir des fichiers de mods ou modifiés par des mods et présents dans le répertoire Override du jeu.<br>
 					  La technique du "Biffing" a un objectif principal : réduire les ralentissements dans le jeu. En particulier, ceux observés lors du chargement d'une partie, de l'accès à une zone, ... En effet, la présence d'un très grand nombre de fichiers dans le répertoire Override provoque des ralentissements plus ou moins importants (selon le nombre de fichiers, les performances de l'ordinateur et en particulier du disque dur). À chaque fichier cherché par le jeu, il doit d'abord vérifier s'il est dans le répertoire Override puis, en cas d'échec, aller le chercher dans les fichiers BIF existants (du jeu original ou de certains méga-mods). Ces fichiers BIF ressemblent à des archives zip : ils contiennent un ensemble de fichiers auquel le jeu sait accéder grâce à un sommaire qui lui permet de les retrouver. Cette méthode est plus performante car le nombre de fichiers BIF est très réduit et le jeu passe bien moins de temps à les trouver sur le disque dur. C'est d'ailleurs ainsi que le jeu exploite les fichiers du jeu de base : ils sont tous inclus dans les fichiers BIF des répertoires Data, Movies, et des répertoires CD2, CD3, ...<br>
 					  De fait, le biffing est plutôt réservé à ceux qui effectuent des méga-installations ou qui installent un grand nombre de mods qui modifient énormément de fichiers du jeu, tels que les mods de "Tweak".<br>
 					  Même si Generalized Biffing laisse possible la déinstallation ultérieure de mods installés avant lui, il faut bien être conscient que cette désinstallation pourra bien durer très très longtemps, voire des heures entières ! Vous avez donc tout intérêt à n'employer Generalized Biffing que lorsque vous êtes à peu-près certains de ne pas avoir à retoucher votre installation.<br>
@@ -3599,14 +3646,14 @@
 				  </form></td>
 			</tr>
 			<tr>
-				<td class="mod">The Athkatlan Grounds</td>
+				<td class="modblue" style="text-align: center;">&#9989; The Athkatlan Grounds</td>
 				<td class="jeu">BG2</td>
 				<td class="jeu">BGT</td>
 				<td class="jeu">BG2EE</td>
 				<td class="jeu">EET</td>
 				<td></td>
 				<td><a href="https://www.weaselmods.net/forumdisplay.php?fid=5"><img width=24 height=24 src="images/weasel.png" title="Weasel Mods" /></a></td>
-				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">Développés par Lava Del'Vortel, ces mods s'inscrivent dans une série basée sur l'ajout de nouveaux quartiers dans Athkatla. Pour l'heure, 4 nouveaux quartiers sont disponibles.</td>
+				<td style="padding-left:10px;padding-right:10px;text-align: justify;line-height: 160%">Développés par Lava Del'Vortel, ces mods s'inscrivent dans une série basée sur l'ajout de nouveaux quartiers dans Athkatla. Pour l'heure, 4 nouveaux quartiers sont disponibles. Et ils sont tous traduits. &#128521;</td>
 			</tr>
 			<tr>
 				<td class="modblue">&#9989; Ooze's Lounge</td>
@@ -18157,7 +18204,7 @@
 
 		<table class="tableau" style="margin-left: 80px;line-height: 170%;" summary="Liste des mods personnalisant le groupe">
 			<colgroup>
-				<col style="border-right: 3px double #aaa;" WIDTH=320 /><col WIDTH=36 /><col WIDTH=36 /><col WIDTH=52 /><col style="border-right: 3px double #aaa;" WIDTH=36" /><col WIDTH=180 /><col WIDTH=64 /><col class="col8" />
+				<col style="border-right: 3px double #aaa;" WIDTH=320 /><col WIDTH=36 /><col WIDTH=36 /><col WIDTH=52 /><col style="border-right: 3px double #aaa;" WIDTH=36" /><col WIDTH=180 /><col WIDTH=88 /><col class="col8" />
 			</colgroup>
 			<tr style= "line-height: 300%;">
 				<th>Mod</th>

@@ -661,4 +661,4 @@ input[type="checkbox"] {display:none;}
 .contenu {height:auto; max-height:0; overflow:hidden; transition:max-height ease-in 0.5s;} /* margin-left: -5%; margin-right: -5%;*/
 
 /* Montrer/Cacher */
-#formulaire input[type="checkbox"]:checked + .contenu {max-height:34em;}
+#formulaire input[type="checkbox"]:checked + .contenu {max-height:40em;}
