@@ -18,7 +18,7 @@ Vous pouvez aussi proposer des Pull requests sur ce compte GitHub.
 
 ## Récapitulatif des mods listés
 
-Pour l'instant, 1325 mods ont été recensés, répartis comme suit :
+Pour l'instant, 1326 mods ont été recensés, répartis comme suit :
 
 
 <div align="center">

@@ -252,9 +252,10 @@ body {
  *  Faux tableaux  *
  * --------------- */
 .t1 {
-	width: 5%;
+/*	width: 5%; dernier valable */
+	width: 6%;
 	text-align: left;
-	clear: right;
+	clear: left;
 	float: left;
 	line-height: 22px;
 }
@@ -262,7 +263,8 @@ body {
 .t2 {
 	text-align: left;
 /*	width: 35%;*/
-	width: 30%;
+/*	width: 30%; dernier valable */
+	width: 25%;
 	float: left;
 	line-height: 22px;
 }
@@ -276,14 +278,14 @@ body {
 
 .t4 {
 	text-align: left;
-/*	width: 58%; */
 	width: 5%;
 	float: left;
 	line-height: 22px;
 }
 
 .t5 {
-	width: 5%;
+/*	width: 5%; dernier valable */
+	width: 6%;
 	text-align: left;
 	clear: right;
 	float: left;
@@ -292,7 +294,8 @@ body {
 
 .t6 {
 	text-align: left;
-	width: 35%;
+/*	width: 35%; */
+	width: 32%;
 	float: left;
 	line-height: 22px;
 }
@@ -306,8 +309,9 @@ body {
 
 .t8 {
 	text-align: left;
-	width: 16%;
-	float: right;
+/*	width: 16%; */
+	width: 5%;
+	float: left;
 	line-height: 22px;
 }
 
