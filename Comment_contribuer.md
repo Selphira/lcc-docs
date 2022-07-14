@@ -18,7 +18,7 @@ Vous pouvez aussi proposer des Pull requests sur ce compte GitHub.
 
 ## Récapitulatif des mods listés
 
-Pour l'instant, 1326 mods ont été recensés, répartis comme suit :
+Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 
 
 <div align="center">
@@ -67,12 +67,14 @@ Pour l'instant, 1326 mods ont été recensés, répartis comme suit :
 </tr>
 
 <tr>
-<td>135</td>
+<td>137</td>
 <td>Mods graphiques et sonores</td>
 <td>0101</td>
 <td>0300</td>
-<td><div align="left">0235 = Nouvelles voix de compagnons pour IWD et IWD2</div></td>
+<td><div align="left">0237 = BG2:EE AI Denoised Areas (ajouté le 14/07/22) </div></td>
 </tr>
+<!-- Ajout d umod Nouvelles voix de compagnons pour IWD et IWD2
+14.07.22 : Ajout du mod BG:EE AI Denoised Areas -->
 
 <tr>
 <td>123</td>
@@ -118,11 +120,11 @@ Pour l'instant, 1326 mods ont été recensés, répartis comme suit :
 </tr>
 
 <tr>
-<td>106</td>
+<td>107</td>
 <td>Mods d'objets et de sorts</td>
 <td>1001</td>
 <td>1150</td>
-<td><div align="left">1106 = Dimension Gate: Or How TV Bunny searched TV Remote Control</div></td>
+<td><div align="left">1107 = Remove Equipment Colors (ajouté le 14/07/22)</div></td>
 </tr>
 
 <tr>
@@ -134,20 +136,23 @@ Pour l'instant, 1326 mods ont été recensés, répartis comme suit :
 </tr>
 
 <tr>
-<td>157</td>
+<td>158</td>
 <td>Profils</td>
 <td>1201</td>
 <td>1400</td>
-<td><div align="left">1357 = Druid Kit Enhancements (ajouté le 07/01/21)</div></td>
+<td><div align="left">1358 = Improved Beastmaster Kit (ajouté le 14/07/22)</div></td>
 </tr>
+<!-- 14.07.2022 : Improved Beastmaster Kit (desc-1408) transféré depuis la catégorie Profils : mods override dans la catégorie Profils (desc-1358)
+07.01.22 : Ajout du mod Druid Kit Enhancements -->
 
 <tr>
-<td>14</td>
+<td>13</td>
 <td>Profils : mods override</td>
 <td>1401</td>
 <td>1500</td>
-<td><div align="left">1414 = Wizard Slayer Overhaul</div></td>
+<td><div align="left">1413 = Wizard Slayer Overhaul</div></td>
 </tr>
+<!-- 14.07.2022 : Improved Beastmaster Kit (desc-1408) transféré depuis la catégorie Profils : mods override dans la catégorie Profils (desc-1358) -->
 
 <tr>
 <td>42</td>
@@ -156,7 +161,7 @@ Pour l'instant, 1326 mods ont été recensés, répartis comme suit :
 <td>1600</td>
 <td><div align="left">1542 = Xyx's Beholder Stuff</div></td>
 </tr>
-<!-- 22.05.2022 :  (desc-1735) transféré depuis la catégorie Les modifications du gameplay ou des règles de jeu dans la catégorie Les mods d'augmentation de difficulté -->
+<!-- 22.05.2022 : Level adder (desc-1735) transféré depuis la catégorie Les modifications du gameplay ou des règles de jeu dans la catégorie Les mods d'augmentation de difficulté -->
 
 <tr>
 <td>261</td>
