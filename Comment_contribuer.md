@@ -68,7 +68,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 
 <tr>
 <td>137</td>
-<td>Mods graphiques et sonores</td>
+<td>Améliorations cosmétiques</td>
 <td>0101</td>
 <td>0300</td>
 <td><div align="left">0237 = BG2:EE AI Denoised Areas (ajouté le 14/07/22) </div></td>
