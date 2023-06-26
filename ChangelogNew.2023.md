@@ -111,9 +111,6 @@
 - TRADUCTION Random Graion Tweaks IWDEE / BGEE / BG2EE / EET : desc-1865
 - TRADUCTION Protagonist-Be-Gone Tutu / BGT / BG2 / BGEE / BG2EE / EET : desc-1866
 
-Todo :
-
-- SHS github news link
 
 En attente :
 
