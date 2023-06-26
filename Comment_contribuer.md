@@ -35,7 +35,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Patches</td>
 <td>0000</td>
 <td>0020</td>
-<td><div align="left">0012 = Lost Party Members Fix</div></td>
+<td><div align="left">0013 = IWD:EE compatibility fixer (ajouté le 25/06/23)</div></td>
 </tr>
 <tr>
 <td>8</td>
@@ -81,7 +81,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Quêtes</td>
 <td>0301</td>
 <td>0500</td>
-<td><div align="left">0423 = Snowytoes Halmet (ajouté le 30/06/22)</div></td>
+<td><div align="left">0429 = Black Pits in BGEE (ajouté le 26/06/23)</div></td>
 </tr>
 <!-- 19.04.2022 : Aerie in BG:EE (desc-0503) transféré depuis la catégorie Les PNJ recrutables supplémentaires dans la catégorie Les quêtes, nouvelles aventures et les modifications des quêtes existantes -->
 
@@ -90,7 +90,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Nouveaux PNJ</td>
 <td>0501</td>
 <td>0700</td>
-<td><div align="left">0674 = Navarra (ajouté le 27/06/22</div></td>
+<td><div align="left">0680 = Cassia-NPC (ajouté le 25/06/23)</div></td>
 </tr>
 
 <tr>
@@ -106,7 +106,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Extensions de PNJ</td>
 <td>0801</td>
 <td>0900</td>
-<td><div align="left">0883 = Yoshimo's Remorse</div></td>
+<td><div align="left">0884 = Dorn-Friendship (ajouté le 26/06/23)</div></td>
 </tr>
 <!-- 19.04.2022 : Mod NPC (desc-0594) transféré depuis la catégorie Les PNJ recrutables supplémentaires dans la catégorie Les améliorations des PNJ recrutables (ou non) existants
 19.04.2022 : BG:EE NPC Tweaks (desc-1631), Classkits for NPCs (desc-1649), Level One NPCs (desc-1736), NPC Enhanced for Everyone (desc-1766), NPC KitPack (desc-1767) transférés depuis la catégorie Les modifications du gameplay ou des règles de jeu dans la catégorie Les améliorations des PNJ recrutables (ou non) existants -->
@@ -116,7 +116,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Mods forgerons et marchands</td>
 <td>0901</td>
 <td>1000</td>
-<td><div align="left">0964 = Of Heirlooms and Classes (ajouté le 16/05/22)</div></td>
+<td><div align="left">0966 = Sword Coast Customs (ajouté le 25/06/23)</div></td>
 </tr>
 
 <tr>
@@ -124,7 +124,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Mods d'objets et de sorts</td>
 <td>1001</td>
 <td>1150</td>
-<td><div align="left">1107 = Remove Equipment Colors (ajouté le 14/07/22)</div></td>
+<td><div align="left">1108 = Akuns-Gear (ajouté le 25/06/23)</div></td>
 </tr>
 
 <tr>
@@ -140,7 +140,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Profils</td>
 <td>1201</td>
 <td>1400</td>
-<td><div align="left">1358 = Improved Beastmaster Kit (ajouté le 14/07/22)</div></td>
+<td><div align="left">1364 = Kit Mule (ajouté le 26/06/23)</div></td>
 </tr>
 <!-- 14.07.2022 : Improved Beastmaster Kit (desc-1408) transféré depuis la catégorie Profils : mods override dans la catégorie Profils (desc-1358)
 07.01.22 : Ajout du mod Druid Kit Enhancements -->
@@ -159,7 +159,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Difficulté et tactique</td>
 <td>1501</td>
 <td>1600</td>
-<td><div align="left">1542 = Xyx's Beholder Stuff</div></td>
+<td><div align="left">1543 = Tactics-Remix (ajouté le 26/06/23)</div></td>
 </tr>
 <!-- 22.05.2022 : Level adder (desc-1735) transféré depuis la catégorie Les modifications du gameplay ou des règles de jeu dans la catégorie Les mods d'augmentation de difficulté -->
 
@@ -168,7 +168,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Gameplay</td>
 <td>1601</td>
 <td>1800</td>
-<td><div align="left">1861 = The Boareskyr Bridge Scene (ajouté le 16/05/22</div></td>
+<td><div align="left">1866 = Protagonist-Be-Gone (ajouté le 26/06/23)</div></td>
 </tr>
 
 <tr>
