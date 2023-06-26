@@ -133,3 +133,4 @@ En attente :
 - GUI-Switcher https://github.com/SpellholdStudios/GUI-Switcher
 - BGT Spawn Tweak https://github.com/SpellholdStudios/BGT-Spawn-Tweak
 - BG1 NPCs for SoA&ToB https://github.com/SpellholdStudios/BG1_NPCs_for_SoA_-_ToB
+- Hexxat-Friendship https://github.com/SpellholdStudios/Hexxat-Friendship
