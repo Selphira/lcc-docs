@@ -2,9 +2,9 @@
 
 ### Update
 
-**Spécial**
+**SpÃ©cial**
 
-- BWS-FR mise à jour de la description
+- BWS-FR mise Ã  jour de la description
 - Nouveaux lien SHS github	
 	- Almateria's Restauration Project
 	- Smiling Imp's Cross Banter Mod
@@ -16,43 +16,43 @@
 **UI** :
 
 - TRADUCTION Bubbs Spell Menu Extended
-- TRADUCTION Dragonspear UI++ par Shodead BGEE / BG2EE / EET (deux versions sont disponible, à vous de décider !!!)
+- TRADUCTION Dragonspear UI++ par Shodead BGEE / BG2EE / EET (deux versions sont disponible, Ã  vous de dÃ©cider !!!)
 - TRADUCTION Dragonspear UI++ par Shodead IWDEE (Une seule version !!!)
 
 **Npc** :
 
-- Walahnan compatibilité EET
-- Faldorn BG2EE compatibilité EET
-- TRADUCTION Vampire Tales mise à jour de la traduction pour les versions EE
+- Walahnan compatibilitÃ© EET
+- Faldorn BG2EE compatibilitÃ© EET
+- TRADUCTION Vampire Tales mise Ã  jour de la traduction pour les versions EE
 
 **Translation** :
 
-- TRADUCTION Dark Horizons BGEE mise à jour de la traduction pour les version BGT / EET
+- TRADUCTION Dark Horizons BGEE mise Ã  jour de la traduction pour les version BGT / EET
 - TRADUCTION Aerie in BGEE traduit par Spartan117
 
 **Magasin** :
 
-- Jamella's Diablo2 Item Store compatibilité BGEE / BGT / SoD / BG2EE / EET
+- Jamella's Diablo2 Item Store compatibilitÃ© BGEE / BGT / SoD / BG2EE / EET
 - TRADUCTION The Improved Volcano! Pack for ToB  BG2 / BGT / BG2EE / EET
 
-**Quêtes** :
+**QuÃªtes** :
 
-- TRADUCTION Ascension mise à jour de la traduction (par Selphira, Machiavélique et jazira)
+- TRADUCTION Ascension mise Ã  jour de la traduction (par Selphira, MachiavÃ©lique et jazira)
 
 **Kits / Profiles** :
 
 - TRADUCTION Warsling Sniper Kit
-- Diablo2 Kit Pack Series BG1 / Tutu / BGEE / BGT / SoD / BG2 / BG2EE / EET ajout d'un lien de téléchargement github
+- Diablo2 Kit Pack Series BG1 / Tutu / BGEE / BGT / SoD / BG2 / BG2EE / EET ajout d'un lien de tÃ©lÃ©chargement github
 
 **Tweaks / Gameplay** :
 
-- TRADUCTION IWDification mise à jour de la traduction par Mickabouille
+- TRADUCTION IWDification mise Ã  jour de la traduction par Mickabouille
 - TRADUCTION Themed Tweaks
 - TRADUCTION 5E-style spellcasting traduit par Mickabouille
 - TRADUCTION Olvyn Tweaks traduit par deratiseur
                                             
 											
-### Nouveautés : 
+### NouveautÃ©s : 
 
 **Patchs non officiels** :
 
@@ -67,7 +67,7 @@
 - Dusk BG2EE / EET : desc-0679
 - Cassia-NPC IWDEE : desc-0680
 
-**Amélioration Npc existant** :
+**AmÃ©lioration Npc existant** :
 
 - Dorn-Friendship BG2EE / EET : desc-0884
 
@@ -99,7 +99,7 @@
 - TRADUCTION Kit Mule kit BGEE / BG2EE / EET / IWDEE : desc-1364
 
 
-**Augmentation de difficulté** :
+**Augmentation de difficultÃ©** :
 
 - TRADUCTION Tactics Remix BG2EE / EET : desc-1543
 
@@ -123,7 +123,7 @@ En attente :
 - InfinityUi https://github.com/Renegade0/InfinityUI
 - IWD_EET_Integration https://github.com/subtledoctor/IWD_EET_Integration et autres IWD-EET mods
 - Tipun_Gui https://github.com/tipun81/tipun_gui_mod
-- Love Conquers All – Corwin Romance Mod for EET https://github.com/LCA-EET?tab=repositories
+- Love Conquers All â€“ Corwin Romance Mod for EET https://github.com/LCA-EET?tab=repositories
 - CompassOfWomanhood https://github.com/WitchesOfThePlanes/CompassOfWomanhood
 - Husam_NPC https://github.com/Gitjas/Husam_NPC
 - Biff_the_Understudy_TutorialNPC_for_SoD https://github.com/Gitjas/Biff_the_Understudy_TutorialNPC_for_SoD 
