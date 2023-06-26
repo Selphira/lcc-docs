@@ -113,11 +113,10 @@
 
 Todo :
 
-- SHS github news link
-
 En attente :
 
  
+- Certainess traductions de deratiseur https://www.baldursgateworld.fr/viewtopic.php?t=33510
 - The gate project new link
 - Kensai Kit Revision et compagnie https://www.baldursgateworld.fr/viewtopic.php?t=33510 voir avec deratiseur
 - InfinityUi https://github.com/Renegade0/InfinityUI
