@@ -38,6 +38,7 @@
 **Quêtes** :
 
 - TRADUCTION Ascension mise à jour de la traduction (par Selphira, Machiavélique et jazira)
+- (Mini Seconde update) The Journey to the Whin Hill Compatibilité EET ajouté : desc-0428
 
 **Kits / Profiles** :
 
@@ -57,6 +58,9 @@
 **Patchs non officiels** :
 
 - IWD:EE compatibility fixer : desc-0013                                  
+- (Mini Seconde update) Correction de la traduction de BG:EE et SoD desc-0029
+- (Mini Seconde update) Autodescription BG2, BGT, BGEE, BG2EE et EET desc-0030
+
 
 **Npc** :
 
@@ -70,6 +74,7 @@
 **Amélioration Npc existant** :
 
 - Dorn-Friendship BG2EE / EET : desc-0884
+- (Mini Seconde update) Hexxat-Friendship BG2EE / EET : desc-0885 
 
 **Quest** :
 
@@ -114,7 +119,6 @@
 
 En attente :
 
- 
 - The gate project new link
 - Kensai Kit Revision et compagnie https://www.baldursgateworld.fr/viewtopic.php?t=33510 voir avec deratiseur
 - InfinityUi https://github.com/Renegade0/InfinityUI
@@ -130,4 +134,3 @@ En attente :
 - GUI-Switcher https://github.com/SpellholdStudios/GUI-Switcher
 - BGT Spawn Tweak https://github.com/SpellholdStudios/BGT-Spawn-Tweak
 - BG1 NPCs for SoA&ToB https://github.com/SpellholdStudios/BG1_NPCs_for_SoA_-_ToB
-- Hexxat-Friendship https://github.com/SpellholdStudios/Hexxat-Friendship

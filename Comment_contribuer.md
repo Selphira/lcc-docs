@@ -42,7 +42,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Correctifs</td>
 <td>0021</td>
 <td>0040</td>
-<td><div align="left">0028 = Convert Torment to English</div></td>
+<td><div align="left">0030 = AutoDescription (ajouté le 05/07/23)</div></td>
 </tr>
 <tr>
 <td>3</td>
@@ -106,7 +106,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Extensions de PNJ</td>
 <td>0801</td>
 <td>0900</td>
-<td><div align="left">0884 = Dorn-Friendship (ajouté le 26/06/23)</div></td>
+<td><div align="left">0885 = Hexxat-Friendship (ajouté le 05/07/23)</div></td>
 </tr>
 <!-- 19.04.2022 : Mod NPC (desc-0594) transféré depuis la catégorie Les PNJ recrutables supplémentaires dans la catégorie Les améliorations des PNJ recrutables (ou non) existants
 19.04.2022 : BG:EE NPC Tweaks (desc-1631), Classkits for NPCs (desc-1649), Level One NPCs (desc-1736), NPC Enhanced for Everyone (desc-1766), NPC KitPack (desc-1767) transférés depuis la catégorie Les modifications du gameplay ou des règles de jeu dans la catégorie Les améliorations des PNJ recrutables (ou non) existants -->
