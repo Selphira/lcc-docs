@@ -63,7 +63,7 @@ Pour l'instant, 1329 mods ont été recensés, répartis comme suit :
 <td>Conversions totales</td>
 <td>0081</td>
 <td>0100</td>
-<td><div align="left">0089 = Xand</div>o</td>
+<td><div align="left">0089 = Xando</div></td>
 </tr>
 
 <tr>
