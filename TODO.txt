@@ -72,6 +72,7 @@ One day NPC : Ajouter ou pas les liens pour
 Jason Comptons Bruce http://mods.pocketplane.net/bruce-Compton.rar
 Willie Bruce http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=downfile&id=15
 
+Drake NPC, a human priest of Tyr : Version BG2EE/EET en attente ⇒ https://artisans-corner.com/drake-bg2-2/
 
 [slot libre : manque desc-0635 entre Summon Bhaalspawn et Taim NPC]		==> 15.02.22 : utilisé par le mod Khalid for BG2:EE
 
