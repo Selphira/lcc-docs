@@ -39,6 +39,7 @@
 
 - TRADUCTION Ascension mise à jour de la traduction (par Selphira, Machiavélique et jazira)
 - (Mini Seconde update) The Journey to the Whin Hill Compatibilité EET ajouté : desc-0428
+- Domains of Dread, EE update et ajout de la traduction française
 
 **Kits / Profiles** :
 
@@ -79,7 +80,7 @@
 **Quest** :
 
 - In love, Undeath BG2EE / EET : desc-0424
-- Dark Tidings BG2 / BGT / BG2EE / EET : desc-0425 ...En cours de traduction
+- Dark Tidings BG2 / BGT / BG2EE / EET : desc-0425 ...Traduit
 - The Gorgon's Eye BGEE / EET : desc-0426
 - Alabaster sands BG2 / BG2EE / EET : desc-0427
 - The Journey to the Whin Hill BG2EE : desc-0428
@@ -134,3 +135,7 @@ En attente :
 - GUI-Switcher https://github.com/SpellholdStudios/GUI-Switcher
 - BGT Spawn Tweak https://github.com/SpellholdStudios/BGT-Spawn-Tweak
 - BG1 NPCs for SoA&ToB https://github.com/SpellholdStudios/BG1_NPCs_for_SoA_-_ToB
+
+**Erreurs et Typos** :
+
+Nombre de corrections conséquentes, merci à Rivvers.
