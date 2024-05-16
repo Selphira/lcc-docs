@@ -7,7 +7,7 @@
         <p>Description</p>
         <p>Note</p>
         <p>
-            <img src="static/img/download.png" title="Téléchargement" width="42" height="42">
+            <img src="{{ static }}img/download.png" title="Téléchargement" width="42" height="42">
         </p>
     </div>
     {% for mod in category.mods %}
@@ -43,7 +43,7 @@
                 {% for url in mod.urls_instance %}
                     <a href="{{ url.url }}" target="{% if url.is_external %}_blank{% else %}_self{% endif %}">
                         {% if url.img %}
-                            <img src='{{ url.img.src }}' alt='{{ url.img.alt }}' width='{{ url.img.width }}' height='{{ url.img.height }}' title='{{ url.img.title }}'>
+                            <img src='{{ static }}{{ url.img.src }}' alt='{{ url.img.alt }}' width='{{ url.img.width }}' height='{{ url.img.height }}' title='{{ url.img.title }}'>
                         {% else %}
                             Lien
                         {% endif %}

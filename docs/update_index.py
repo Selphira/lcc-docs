@@ -1,10 +1,9 @@
 #!/usr/bin/env python3
-
 import json
+import os
 
 # import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
-
 from list_import import category_map
 from models import Category, Mod
 from models_import import games
@@ -25,7 +24,10 @@ def main(env):
                 continue
             category.mods.append(mod)
 
-    page_html = env.get_template("base.html").render(games=games, categories=categories)
+    # FIXME: pour le poc: static="static{os.sep}"
+    page_html = env.get_template("base.html").render(
+        games=games, categories=categories, static=f"mod_list{os.sep}static{os.sep}"
+    )
 
     with open("index.html", "w") as f:
         f.write(page_html)

@@ -105,7 +105,7 @@ class Category:
         return self.name.lower().replace(" ", "-")
 
 
-IMG_ROOT = os.path.join("static", "img")
+IMG_ROOT = os.path.join("mod_list", "static", "img")
 
 domain_to_image = {
     "artisans-corner.com": "artisans700.png",
@@ -181,7 +181,7 @@ class Url:
                     img, dict(title="titre de l'image", width=32, height=32)
                 )
 
-            img_dir = os.path.join(IMG_ROOT, img)
+            img_dir = os.path.join("img", img)
             self.img = Image(src=img_dir, **img_data)
 
     def get_image_special(self) -> str:
