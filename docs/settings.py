@@ -1,3 +1,4 @@
+import enum
 import os
 
 STATIC_ROOT = os.path.join("mod_list", "static")
@@ -14,23 +15,39 @@ icon_to_label = {
     "😡": "Mod override, à vos risques et périls",
 }
 
+
 # TODO: ordre à définir
-games = [
-    "BG",
-    "BG2",
-    "BGT",
-    "Tutu",
-    "BGEE",
-    "SoD",
-    "BG2EE",
-    "EET",
-    "IWD",
-    "IWD2",
-    "IWDEE",
-    "IWD2EE",
-    "PST",
-    "PSTEE",
-]
+class Games(enum.StrEnum):
+    BG = "BG"
+    BG2 = "BG2"
+    TUTU = "Tutu"
+    BGT = "BGT"
+    BGEE = "BGEE"
+    BG2EE = "BG2EE"
+    SOD = "SoD"
+    EET = "EET"
+    IWD = "IWD"
+    IWD2 = "IWD2"
+    IWDEE = "IWDEE"
+    IWD2EE = "IWD2EE"
+    PST = "PST"
+    PSTEE = "PSTEE"
+
+    @classmethod
+    def pst(cls) -> list:
+        return [cls.PST, cls.PSTEE]
+
+    @classmethod
+    def iwd(cls) -> list:
+        return [cls.IWD, cls.IWD2, cls.IWDEE, cls.IWD2EE]
+
+    @classmethod
+    def bg2(cls) -> list:
+        return [cls.BG2, cls.BGT, cls.BG2EE, cls.EET]
+
+    @classmethod
+    def bg1(cls) -> list:
+        return [cls.BG, cls.TUTU, cls.BGT, cls.BGEE, cls.SOD, cls.EET]
 
 
 # TODO: réduire/convertir les static/img
