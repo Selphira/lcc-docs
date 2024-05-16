@@ -1798,8 +1798,8 @@
    "https://www.pocketplane.net/ashes-of-embers/"
   ],
   "categories": [
-   "Gameplay",
-   "Kit"
+   "Kit",
+   "Gameplay"
   ],
   "games": [
    "BG2",
@@ -2905,8 +2905,8 @@
    "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=22"
   ],
   "categories": [
-   "Gameplay",
-   "Kit"
+   "Kit",
+   "Gameplay"
   ],
   "games": [
    "BG2",
@@ -5990,8 +5990,8 @@
   ],
   "team": [],
   "warnings": [
-   "Dans BG2:EE, il est sensé ajouter ces objets dans le Donjon d'Irenicus et chez le marchand de flèches sur la Promenade de Waukyne, mais le code n'a pas été écrit...",
-   "Dans BG2:EE, il est sensé ajouter ses objets dans le Donjon d'Irenicus et chez le marchand de flèches sur la Promenade de Waukyne, mais le code n'a pas été écrit..."
+   "Dans BG2:EE, il est sensé ajouter ses objets dans le Donjon d'Irenicus et chez le marchand de flèches sur la Promenade de Waukyne, mais le code n'a pas été écrit...",
+   "Dans BG2:EE, il est sensé ajouter ces objets dans le Donjon d'Irenicus et chez le marchand de flèches sur la Promenade de Waukyne, mais le code n'a pas été écrit..."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -7053,8 +7053,8 @@
   ],
   "team": [],
   "warnings": [
-   "DoF n'est pas compatible avec les mods Faiths and Powers et Spell Revisions.",
-   "DoF n'est pas compatible avec les mods Faiths and Powers et <a href=\"#spellrev\">Spell Revisions</a>."
+   "DoF n'est pas compatible avec les mods Faiths and Powers et <a href=\"#spellrev\">Spell Revisions</a>.",
+   "DoF n'est pas compatible avec les mods Faiths and Powers et Spell Revisions."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -7703,8 +7703,8 @@
    "Shodead"
   ],
   "warnings": [
-   "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour. <strong>Pour télécharger le mod, utilisez soit :</strong>",
-   "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour. <strong>Pour télécharger le mod, utilisez :</strong>"
+   "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour. <strong>Pour télécharger le mod, utilisez :</strong>",
+   "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour. <strong>Pour télécharger le mod, utilisez soit :</strong>"
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -8773,8 +8773,8 @@
    "http://baldur.cob-bg.pl/download/bg2/multi/enhanced_bg2_v1.1.rar"
   ],
   "categories": [
-   "Gameplay",
-   "Kit"
+   "Kit",
+   "Gameplay"
   ],
   "games": [
    "BG2",
@@ -11863,8 +11863,8 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : Il s'agit d'un mod override qui écrase les fichier du heu et ne peut pas être désinstallé.",
-   "Attention : Il s'agit d'un mod override qui écrase les fichiers du jeu et ne peut pas être désinstallé."
+   "Attention : Il s'agit d'un mod override qui écrase les fichiers du jeu et ne peut pas être désinstallé.",
+   "Attention : Il s'agit d'un mod override qui écrase les fichier du heu et ne peut pas être désinstallé."
   ],
   "is_weidu": false,
   "translation_state": null,
@@ -12375,8 +12375,8 @@
    "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=54"
   ],
   "categories": [
-   "Gameplay",
-   "Quête"
+   "Quête",
+   "Gameplay"
   ],
   "games": [
    "BG2",
@@ -12385,8 +12385,8 @@
   ],
   "team": [],
   "warnings": [
-   "Non compatible avec le BG2 FixPack, la version pour jeu original est disponible dans le premier lien. Le second renvoie à la version pour jeux EE.",
-   "Non compatible avec le BG2 FixPack, la version pour le jeu original est disponible dans le premier lien. Le second renvoie à la version pour les jeux EE."
+   "Non compatible avec le BG2 FixPack, la version pour le jeu original est disponible dans le premier lien. Le second renvoie à la version pour les jeux EE.",
+   "Non compatible avec le BG2 FixPack, la version pour jeu original est disponible dans le premier lien. Le second renvoie à la version pour jeux EE."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -15935,8 +15935,8 @@
    "https://github.com/unearthedarcana/might_and_guile/releases"
   ],
   "categories": [
-   "Gameplay",
-   "Kit"
+   "Kit",
+   "Gameplay"
   ],
   "games": [
    "BG2",
@@ -17172,8 +17172,8 @@
    "http://baldur.cob-bg.pl/download/bg2/items/najebawszy,_wersja_1.exe"
   ],
   "categories": [
-   "Sort et objet",
-   "Kit"
+   "Kit",
+   "Sort et objet"
   ],
   "games": [
    "BG2",
@@ -17670,8 +17670,8 @@
   ],
   "team": [],
   "warnings": [
-   "Malheureusement, la qualité de ce mod laisse à désirer. De son propre aveu, il n'en est pas fier. Préférez-lui d'autres mods.",
-   "Malheureusement, la qualité de ce mod laisse à désirer. De son propre aveu, il n'en est pas fier. Préférez-lui d'autres mods, ou tout simplement les composants de <a href=\"#anthology\">Tweaks Anthology</a> qui suppriment les restrictions raciales."
+   "Malheureusement, la qualité de ce mod laisse à désirer. De son propre aveu, il n'en est pas fier. Préférez-lui d'autres mods, ou tout simplement les composants de <a href=\"#anthology\">Tweaks Anthology</a> qui suppriment les restrictions raciales.",
+   "Malheureusement, la qualité de ce mod laisse à désirer. De son propre aveu, il n'en est pas fier. Préférez-lui d'autres mods."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -28330,8 +28330,8 @@
    "https://downloads.weaselmods.net/download/will-of-the-wisps/"
   ],
   "categories": [
-   "PNJ recrutable",
-   "Kit"
+   "Kit",
+   "PNJ recrutable"
   ],
   "games": [
    "BGEE",
