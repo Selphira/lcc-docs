@@ -64,14 +64,12 @@ class Mod:
         icons.append(Icon(icon))
 
         match self.translation_state:
-            case True | None:
-                icon = "🇨🇵"
-            case "wip":
-                icon = "❎"
-            case False:
-                icon = "❌"
-            case "todo":
+            case True | None:  # traduit ou pas besoin de traduction
                 icon = "✅"
+            case "todo":
+                icon = "❎"  # traduction à remettre à jour
+            case False | "wip":
+                icon = "❌"  # non traduit ou en cours
             case _:
                 raise ValueError
         icons.append(Icon(icon))
