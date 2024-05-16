@@ -31,10 +31,10 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -53,10 +53,10 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -77,10 +77,10 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -102,11 +102,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -126,11 +126,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "Mickabouille"
@@ -244,12 +244,12 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -290,17 +290,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -320,12 +320,12 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "PSTEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "PSTEE",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -436,11 +436,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -508,10 +508,10 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
    "BG",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -553,11 +553,11 @@
    "PNJ recrutable"
   ],
   "games": [
-   "BG2",
-   "BGT",
    "EET",
-   "IWDEE",
-   "BG2EE"
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -580,13 +580,13 @@
    "Cosmétique"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -745,9 +745,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -1024,17 +1024,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -1053,17 +1053,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -1192,14 +1192,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -1220,9 +1220,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -1289,13 +1289,13 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
+   "BG2EE",
    "BG",
-   "SoD"
+   "BG2"
   ],
   "team": [
    "Anomaly"
@@ -1429,11 +1429,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -1475,11 +1475,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "BGT",
-   "EET",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -1645,12 +1645,12 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -1672,11 +1672,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -1696,13 +1696,13 @@
    "PNJ recrutable"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -1722,13 +1722,13 @@
    "Quête"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "deratiseur",
@@ -1802,9 +1802,9 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Thot",
@@ -2098,9 +2098,9 @@
    "Forgeron et marchand"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Aldiemus"
@@ -2121,9 +2121,9 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Le Marquis"
@@ -2166,12 +2166,12 @@
    "Patch non officiel"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Selphira"
@@ -2193,15 +2193,15 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "IWD",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -2743,11 +2743,11 @@
    "Patch non officiel"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "Tutu",
    "BGT",
-   "EET"
+   "EET",
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Anomaly"
@@ -2811,8 +2811,8 @@
    "Interface"
   ],
   "games": [
-   "BG2",
-   "BGT"
+   "BGT",
+   "BG2"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -2854,10 +2854,10 @@
   ],
   "games": [
    "BGEE",
-   "BG2",
-   "BGT",
+   "Tutu",
    "BG2EE",
-   "Tutu"
+   "BGT",
+   "BG2"
   ],
   "team": [
    "Anomaly",
@@ -2882,14 +2882,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "PSTEE",
-   "IWDEE",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "PSTEE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -2909,9 +2909,9 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Corran001"
@@ -3079,9 +3079,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -3127,9 +3127,9 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -3243,9 +3243,9 @@
   ],
   "games": [
    "BGEE",
-   "BG2",
+   "BG2EE",
    "BGT",
-   "BG2EE"
+   "BG2"
   ],
   "team": [
    "Isaya",
@@ -3391,9 +3391,9 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [],
@@ -3588,9 +3588,9 @@
    "Conversion partielle"
   ],
   "games": [
+   "BGT",
    "BG",
-   "BG2",
-   "BGT"
+   "BG2"
   ],
   "team": [
    "Anomaly"
@@ -3699,9 +3699,9 @@
    "Patch non officiel"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -3746,12 +3746,12 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGEE",
-   "PSTEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "PSTEE",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -3839,13 +3839,13 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Graoumf"
@@ -3867,17 +3867,17 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -3897,11 +3897,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -3962,14 +3962,14 @@
    "Cosmétique"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -4053,16 +4053,16 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "IWD",
    "BGEE",
    "IWD2",
-   "EET",
-   "BG",
+   "IWD2EE",
    "SoD",
-   "IWD2EE"
+   "EET",
+   "BG2EE",
+   "IWD",
+   "BG",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -4081,9 +4081,9 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -4105,11 +4105,11 @@
    "Cosmétique"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -4173,9 +4173,9 @@
    "Patch non officiel"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -4242,9 +4242,9 @@
    "Interface"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -4306,11 +4306,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -4351,9 +4351,9 @@
    "Kit"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -4372,9 +4372,9 @@
    "Kit"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -4393,17 +4393,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -4530,9 +4530,9 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -4672,13 +4672,13 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -4841,11 +4841,11 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -4867,11 +4867,11 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -4978,9 +4978,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -5060,10 +5060,10 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
    "BG",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -5150,9 +5150,9 @@
    "Cosmétique"
   ],
   "games": [
-   "BGEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -5174,14 +5174,14 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Misdrha'al Hymmet"
@@ -5202,13 +5202,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "IWDEE",
    "SoD",
+   "BGEE",
+   "Tutu",
    "BG2EE",
-   "Tutu"
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -5229,11 +5229,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -5254,11 +5254,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -5301,15 +5301,15 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
+   "BGEE",
+   "IWD2",
+   "BGT",
+   "SoD",
+   "EET",
    "BG2EE",
    "IWD",
-   "BGEE",
-   "BGT",
-   "IWD2",
-   "EET",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -5451,15 +5451,15 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "IWD",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -5478,13 +5478,13 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -5503,13 +5503,13 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Sir Alexander"
@@ -5530,14 +5530,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -5864,11 +5864,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -5889,10 +5889,10 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [],
@@ -5933,14 +5933,14 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
    "BG",
-   "SoD"
+   "BG2"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -5961,9 +5961,9 @@
    "Portrait et son"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -5983,15 +5983,15 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
-   "Dans BG2:EE, il est sensé ajouter ses objets dans le Donjon d'Irenicus et chez le marchand de flèches sur la Promenade de Waukyne, mais le code n'a pas été écrit...",
-   "Dans BG2:EE, il est sensé ajouter ces objets dans le Donjon d'Irenicus et chez le marchand de flèches sur la Promenade de Waukyne, mais le code n'a pas été écrit..."
+   "Dans BG2:EE, il est sensé ajouter ces objets dans le Donjon d'Irenicus et chez le marchand de flèches sur la Promenade de Waukyne, mais le code n'a pas été écrit...",
+   "Dans BG2:EE, il est sensé ajouter ses objets dans le Donjon d'Irenicus et chez le marchand de flèches sur la Promenade de Waukyne, mais le code n'a pas été écrit..."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -6009,9 +6009,9 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [
@@ -6120,12 +6120,12 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -6262,11 +6262,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -6306,11 +6306,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -6478,9 +6478,9 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Le Marquis"
@@ -6501,14 +6501,14 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -6597,11 +6597,11 @@
    "Sort et objet"
   ],
   "games": [
+   "SoD",
+   "EET",
    "BGEE",
    "IWD2",
-   "EET",
-   "IWDEE",
-   "SoD"
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -6621,11 +6621,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -6897,9 +6897,9 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -7045,11 +7045,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -7134,13 +7134,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -7161,11 +7161,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -7211,11 +7211,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -7236,10 +7236,10 @@
    "Cosmétique"
   ],
   "games": [
-   "BGEE",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -7261,13 +7261,13 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -7286,18 +7286,18 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "PSTEE",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
    "IWD2",
+   "Tutu",
+   "BGT",
    "PST",
+   "SoD",
    "BG",
-   "SoD"
+   "BG2EE",
+   "PSTEE",
+   "IWD",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -7318,9 +7318,9 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -7364,9 +7364,9 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Matt",
@@ -7388,14 +7388,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -7456,14 +7456,14 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "La Voix 2 la Sagesse",
@@ -7486,11 +7486,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -7534,9 +7534,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [],
@@ -7618,17 +7618,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -7669,11 +7669,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -7693,18 +7693,18 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "Shodead"
   ],
   "warnings": [
-   "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour. <strong>Pour télécharger le mod, utilisez :</strong>",
-   "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour. <strong>Pour télécharger le mod, utilisez soit :</strong>"
+   "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour. <strong>Pour télécharger le mod, utilisez soit :</strong>",
+   "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour. <strong>Pour télécharger le mod, utilisez :</strong>"
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -7744,11 +7744,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -8048,11 +8048,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -8112,11 +8112,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -8135,10 +8135,10 @@
    "Personnalisation du groupe"
   ],
   "games": [
-   "BGEE",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -8157,11 +8157,11 @@
    "Personnalisation du groupe"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "Isaya"
@@ -8204,17 +8204,17 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -8236,12 +8236,12 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE",
-   "IWD"
+   "IWD",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -8261,9 +8261,9 @@
    "Patch non officiel"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -8351,13 +8351,13 @@
    "Gameplay"
   ],
   "games": [
+   "IWD2",
+   "Tutu",
    "BG2",
    "BGT",
-   "IWD2",
+   "IWD",
    "PST",
-   "BG",
-   "Tutu",
-   "IWD"
+   "BG"
   ],
   "team": [],
   "warnings": [
@@ -8438,9 +8438,9 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -8554,11 +8554,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -8599,17 +8599,17 @@
    "Cosmétique"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -8674,9 +8674,9 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Isaya"
@@ -8699,11 +8699,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -8750,14 +8750,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
    "BG",
-   "SoD"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -8819,9 +8819,9 @@
    "Conversion partielle"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [
@@ -8845,11 +8845,11 @@
    "Cosmétique"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -8869,11 +8869,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -8937,16 +8937,16 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -9074,14 +9074,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
    "BG",
-   "SoD"
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -9143,11 +9143,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -9281,11 +9281,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -9304,11 +9304,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -9382,11 +9382,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -9623,9 +9623,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -9666,11 +9666,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -9713,13 +9713,13 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -9738,11 +9738,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -9867,9 +9867,9 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [
@@ -10001,10 +10001,10 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BGT",
    "Tutu",
-   "IWD"
+   "BGT",
+   "IWD",
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -10110,9 +10110,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -10132,9 +10132,9 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Galathée"
@@ -10298,19 +10298,19 @@
    "Utilitaire"
   ],
   "games": [
-   "BG2",
-   "PSTEE",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
    "IWD2",
-   "EET",
+   "Tutu",
+   "BGT",
    "PST",
+   "SoD",
+   "EET",
+   "BG2EE",
+   "PSTEE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Isaya"
@@ -10440,14 +10440,14 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Zooloo"
@@ -10701,11 +10701,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -10877,12 +10877,12 @@
    "PNJ One Day"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
-   "EET"
+   "EET",
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Xicloing"
@@ -10953,17 +10953,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -11086,12 +11086,12 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -11175,9 +11175,9 @@
    "PNJ recrutable"
   ],
   "games": [
-   "BGEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -11499,9 +11499,9 @@
    "Portrait et son"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -11521,11 +11521,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -11760,11 +11760,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -11834,9 +11834,9 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -11858,13 +11858,13 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
-   "Attention : Il s'agit d'un mod override qui écrase les fichier du heu et ne peut pas être désinstallé.",
-   "Attention : Il s'agit d'un mod override qui écrase les fichiers du jeu et ne peut pas être désinstallé."
+   "Attention : Il s'agit d'un mod override qui écrase les fichiers du jeu et ne peut pas être désinstallé.",
+   "Attention : Il s'agit d'un mod override qui écrase les fichier du heu et ne peut pas être désinstallé."
   ],
   "is_weidu": false,
   "translation_state": null,
@@ -12170,13 +12170,13 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Freddy_Gwendo",
@@ -12264,10 +12264,10 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
    "BG",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -12352,11 +12352,11 @@
    "Cosmétique"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -12404,13 +12404,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -12456,8 +12456,8 @@
    "Cosmétique"
   ],
   "games": [
-   "BG",
-   "IWD"
+   "IWD",
+   "BG"
   ],
   "team": [],
   "warnings": [],
@@ -12498,11 +12498,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -12521,9 +12521,9 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -12654,14 +12654,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -12683,11 +12683,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -12797,9 +12797,9 @@
    "Cosmétique"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Freddy Gwendo"
@@ -12823,17 +12823,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -12874,9 +12874,9 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -13001,9 +13001,9 @@
    "PNJ recrutable"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -13023,14 +13023,14 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
    "BG",
-   "SoD"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -13117,14 +13117,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
    "BG",
-   "SoD"
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -13146,13 +13146,13 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Syntax",
@@ -13177,13 +13177,13 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -13291,16 +13291,16 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -13319,11 +13319,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -13366,12 +13366,12 @@
    "Forgeron et marchand"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -13520,11 +13520,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -13589,12 +13589,12 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -13636,9 +13636,9 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [
    "Isaya"
@@ -13683,9 +13683,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -13917,9 +13917,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [
@@ -14165,13 +14165,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "EET",
-   "IWDEE",
    "SoD",
+   "EET",
+   "BGEE",
+   "Tutu",
    "BG2EE",
-   "Tutu"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -14283,14 +14283,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -14372,11 +14372,11 @@
    "Forgeron et marchand"
   ],
   "games": [
-   "BG2",
-   "BGT",
    "EET",
-   "IWDEE",
-   "BG2EE"
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -14440,9 +14440,9 @@
    "Interface"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -14525,9 +14525,9 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -14550,9 +14550,9 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -14575,9 +14575,9 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -14876,13 +14876,13 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -14922,9 +14922,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -14968,14 +14968,14 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -15079,13 +15079,13 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -15104,11 +15104,11 @@
    "Portrait et son"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -15147,13 +15147,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -15216,13 +15216,13 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
+   "EET",
+   "BGEE",
+   "Tutu",
    "BG2EE",
-   "Tutu"
+   "BGT",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -15387,8 +15387,8 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BGT"
+   "BGT",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -15427,12 +15427,12 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "deratiseur"
@@ -15453,12 +15453,12 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -15477,12 +15477,12 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -15502,12 +15502,12 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "deratiseur"
@@ -15529,11 +15529,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "Mickaël Leduque"
@@ -15555,14 +15555,14 @@
    "Forgeron et marchand"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -15707,13 +15707,13 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -15816,10 +15816,10 @@
    "Quête"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGT",
-   "EET"
+   "EET",
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -15840,11 +15840,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -15865,15 +15865,15 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
+   "BGEE",
+   "IWD2",
+   "BGT",
+   "SoD",
+   "EET",
    "BG2EE",
    "IWD",
-   "BGEE",
-   "BGT",
-   "IWD2",
-   "EET",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -15939,14 +15939,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -15967,11 +15967,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -16031,13 +16031,13 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -16125,11 +16125,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -16148,13 +16148,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "EET",
-   "IWDEE",
    "SoD",
+   "EET",
+   "BGEE",
+   "Tutu",
    "BG2EE",
-   "Tutu"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -16175,12 +16175,12 @@
    "Gameplay"
   ],
   "games": [
+   "IWD2",
+   "Tutu",
    "BG2",
    "BGT",
-   "IWD2",
-   "PST",
-   "Tutu",
-   "IWD"
+   "IWD",
+   "PST"
   ],
   "team": [],
   "warnings": [
@@ -16366,8 +16366,8 @@
    "Interface"
   ],
   "games": [
-   "EET",
    "SoD",
+   "EET",
    "BG2EE"
   ],
   "team": [],
@@ -16387,9 +16387,9 @@
    "Cosmétique"
   ],
   "games": [
-   "BG2",
    "BGT",
-   "IWD2"
+   "IWD2",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -16409,10 +16409,10 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
+   "SoD",
    "EET",
-   "IWDEE",
-   "SoD"
+   "BGEE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -16457,13 +16457,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Mornagest",
@@ -16510,11 +16510,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -16578,11 +16578,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -16602,13 +16602,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -16631,11 +16631,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -16765,11 +16765,11 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -16789,13 +16789,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -16817,17 +16817,17 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "PSTEE",
-   "IWDEE",
-   "BG2EE",
-   "IWD",
    "BGEE",
    "BGT",
-   "EET",
    "PST",
+   "SoD",
+   "EET",
+   "BG2EE",
    "BG",
-   "SoD"
+   "PSTEE",
+   "IWD",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -16913,11 +16913,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -16984,9 +16984,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -17048,14 +17048,14 @@
    "PNJ recrutable"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -17076,13 +17076,13 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Thot"
@@ -17457,16 +17457,16 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -17551,10 +17551,10 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -17575,11 +17575,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -17639,11 +17639,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -17664,9 +17664,9 @@
    "Gameplay"
   ],
   "games": [
+   "BG2EE",
    "BGEE",
-   "IWDEE",
-   "BG2EE"
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -17733,10 +17733,10 @@
    "Cosmétique"
   ],
   "games": [
-   "BGEE",
+   "SoD",
    "EET",
-   "IWDEE",
-   "SoD"
+   "BGEE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -17858,11 +17858,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -17882,19 +17882,19 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "PSTEE",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
    "IWD2",
-   "EET",
+   "Tutu",
+   "BGT",
    "PST",
+   "SoD",
+   "EET",
+   "BG2EE",
+   "PSTEE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -17916,11 +17916,11 @@
    "Cosmétique"
   ],
   "games": [
-   "BG2",
-   "BGT",
    "IWD2",
    "Tutu",
-   "IWD"
+   "BGT",
+   "IWD",
+   "BG2"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -18083,9 +18083,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -18165,9 +18165,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -18253,10 +18253,10 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
    "BG",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -18340,12 +18340,12 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
-   "BG"
+   "BG2EE",
+   "BG",
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -18367,9 +18367,9 @@
    "Portrait et son"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [
@@ -18435,11 +18435,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -18480,9 +18480,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [
@@ -18549,9 +18549,9 @@
    "Patch non officiel"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Mornagest",
@@ -18597,10 +18597,10 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -18621,14 +18621,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
    "BG",
-   "SoD"
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -18782,12 +18782,12 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Huxaltec"
@@ -18969,17 +18969,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Anomaly"
@@ -19001,17 +19001,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -19033,17 +19033,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -19128,10 +19128,10 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
    "BG",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -19173,11 +19173,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -19237,11 +19237,11 @@
    "Personnalisation du groupe"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -19260,10 +19260,10 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
    "BG",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -19307,11 +19307,11 @@
    "Portrait et son"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "DaftHunk"
@@ -19333,11 +19333,11 @@
    "Portrait et son"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -19417,14 +19417,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
    "BG",
-   "SoD"
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -19445,10 +19445,10 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -19469,13 +19469,13 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "JohnBob"
@@ -19496,12 +19496,12 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "esprit"
@@ -19566,10 +19566,10 @@
   ],
   "games": [
    "BGEE",
-   "BG2",
-   "BGT",
+   "Tutu",
    "BG2EE",
-   "Tutu"
+   "BGT",
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -19795,11 +19795,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -19818,9 +19818,9 @@
    "Personnalisation du groupe"
   ],
   "games": [
-   "BGEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -19841,11 +19841,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -19866,14 +19866,14 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
    "BG",
-   "SoD"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -19954,9 +19954,9 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
    "EET",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [],
@@ -20022,11 +20022,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -20092,11 +20092,11 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "Tutu",
    "BGT",
-   "EET"
+   "EET",
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Sir Crapoilleau",
@@ -20168,11 +20168,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -20193,16 +20193,16 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -20247,14 +20247,14 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
    "BG",
-   "SoD"
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -20297,11 +20297,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -20365,9 +20365,9 @@
    "Conversion partielle"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -20523,12 +20523,12 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "PSTEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "PSTEE",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -20612,9 +20612,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -20771,14 +20771,14 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Mornagest",
@@ -20829,17 +20829,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -20901,9 +20901,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -21013,13 +21013,13 @@
    "Forgeron et marchand"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -21083,13 +21083,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "esprit"
@@ -21110,9 +21110,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -21132,9 +21132,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -21202,12 +21202,12 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -21298,12 +21298,12 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -21441,13 +21441,13 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -21531,11 +21531,11 @@
    "Forgeron et marchand"
   ],
   "games": [
-   "BG2",
-   "BGT",
    "EET",
-   "IWDEE",
-   "BG2EE"
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Egrevyn"
@@ -21558,16 +21558,16 @@
    "Cosmétique"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "IWD",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -21586,10 +21586,10 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [],
@@ -21636,12 +21636,12 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "PSTEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "PSTEE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -21705,11 +21705,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -21793,10 +21793,10 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [],
@@ -22084,14 +22084,14 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Aalkaor",
@@ -22181,10 +22181,10 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
    "BG",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -22203,9 +22203,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -22372,11 +22372,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -22464,8 +22464,8 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [],
@@ -22485,10 +22485,10 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -22550,9 +22550,9 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -22655,8 +22655,8 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -22678,14 +22678,14 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Zayn",
@@ -22708,14 +22708,14 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Saiko"
@@ -22831,14 +22831,14 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Lefreut",
@@ -22860,14 +22860,14 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -22888,11 +22888,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -22911,9 +22911,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -22934,9 +22934,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -22978,11 +22978,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -23002,9 +23002,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [
@@ -23027,11 +23027,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -23070,11 +23070,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -23116,18 +23116,18 @@
    "Forgeron et marchand"
   ],
   "games": [
+   "IWD2",
+   "Tutu",
    "BG2",
    "BGT",
-   "IWD2",
-   "PST",
-   "Tutu",
-   "IWD"
+   "IWD",
+   "PST"
   ],
   "team": [],
   "warnings": [
    "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod <a href=\"#aurora\">Aurora's Shoes and Boots</a>.",
-   "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod <a href=\"liste_mods1_bg2.html#aurora\">Aurora's Shoes and Boots</a>.",
-   "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod <a href=\"liste_mods2_bg2.html#aurora\">Aurora's Shoes and Boots</a>."
+   "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod <a href=\"liste_mods2_bg2.html#aurora\">Aurora's Shoes and Boots</a>.",
+   "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod <a href=\"liste_mods1_bg2.html#aurora\">Aurora's Shoes and Boots</a>."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -23251,11 +23251,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -23296,13 +23296,13 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Mickaël Leduque"
@@ -23393,9 +23393,9 @@
    "Portrait et son"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -23415,11 +23415,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -23440,11 +23440,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -23530,13 +23530,13 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Mornagest",
@@ -23581,14 +23581,14 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "La Voix 2 la Sagesse"
@@ -24244,8 +24244,8 @@
    "PNJ recrutable"
   ],
   "games": [
-   "BGEE",
-   "BGT"
+   "BGT",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -24383,11 +24383,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -24429,13 +24429,13 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -24479,9 +24479,9 @@
   ],
   "games": [
    "BGEE",
-   "BG2",
+   "BG2EE",
    "BGT",
-   "BG2EE"
+   "BG2"
   ],
   "team": [
    "Graoumf",
@@ -24941,12 +24941,12 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
    "BGEE",
+   "SoD",
    "EET",
+   "BG2EE",
    "BG",
-   "SoD"
+   "BG2"
   ],
   "team": [],
   "warnings": [
@@ -25172,9 +25172,9 @@
    "Portrait et son"
   ],
   "games": [
-   "BGEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -25558,11 +25558,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -25604,9 +25604,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [
@@ -25650,11 +25650,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -25703,17 +25703,17 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Le Marquis"
@@ -25890,9 +25890,9 @@
    "Patch non officiel"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Isaya"
@@ -25914,9 +25914,9 @@
    "Patch non officiel"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -25935,13 +25935,13 @@
    "Forgeron et marchand"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "deratiseur"
@@ -25963,11 +25963,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -26140,9 +26140,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -26222,9 +26222,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -26268,8 +26268,8 @@
    "Quête"
   ],
   "games": [
-   "EET",
    "SoD",
+   "EET",
    "BG2EE",
    "IWD"
   ],
@@ -26532,19 +26532,19 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "PSTEE",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
    "IWD2",
-   "EET",
+   "Tutu",
+   "BGT",
    "PST",
+   "SoD",
+   "EET",
+   "BG2EE",
+   "PSTEE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Graoumf",
@@ -26592,9 +26592,9 @@
    "Quête"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -26640,11 +26640,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -26726,10 +26726,10 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
    "BG",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -26748,11 +26748,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -26835,11 +26835,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -26987,8 +26987,8 @@
    "Interface"
   ],
   "games": [
-   "BGEE",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -27009,13 +27009,13 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -27058,11 +27058,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -27103,9 +27103,9 @@
    "Gameplay"
   ],
   "games": [
+   "BG2EE",
    "BGEE",
-   "IWDEE",
-   "BG2EE"
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -27124,11 +27124,11 @@
    "Cosmétique"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -27655,13 +27655,13 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -27682,9 +27682,9 @@
    "Interface"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Isaya",
@@ -27707,10 +27707,10 @@
   ],
   "games": [
    "BGEE",
-   "BG2",
-   "BGT",
+   "Tutu",
    "BG2EE",
-   "Tutu"
+   "BGT",
+   "BG2"
   ],
   "team": [
    "Galathée"
@@ -27772,13 +27772,13 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -27797,11 +27797,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -27822,11 +27822,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -27848,11 +27848,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -27932,13 +27932,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -27979,11 +27979,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -28003,9 +28003,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -28025,11 +28025,11 @@
    "Sort et objet"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [
    "JohnBob"
@@ -28233,13 +28233,13 @@
    "Interface"
   ],
   "games": [
+   "IWD2",
+   "Tutu",
    "BG2",
    "BGT",
-   "IWD2",
+   "IWD",
    "PST",
-   "BG",
-   "Tutu",
-   "IWD"
+   "BG"
   ],
   "team": [
    "Isaya"
@@ -28281,13 +28281,13 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "BG2",
-   "BGT",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "BGT",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Darien"
@@ -28310,9 +28310,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
    "SoD",
-   "BG2EE"
+   "BG2EE",
+   "BGEE"
   ],
   "team": [],
   "warnings": [
@@ -28330,15 +28330,15 @@
    "https://downloads.weaselmods.net/download/will-of-the-wisps/"
   ],
   "categories": [
-   "PNJ recrutable",
-   "Kit"
+   "Kit",
+   "PNJ recrutable"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -28358,11 +28358,11 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
-   "IWDEE",
    "SoD",
-   "BG2EE"
+   "EET",
+   "BGEE",
+   "BG2EE",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -28381,9 +28381,9 @@
    "Kit"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -28424,14 +28424,14 @@
    "Kit"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Sanctifer"
@@ -28532,17 +28532,17 @@
    "https://github.com/spellholdstudios/bp-bgt-worldmap/releases"
   ],
   "categories": [
-   "Patch non officiel",
-   "Conversion partielle"
+   "Conversion partielle",
+   "Patch non officiel"
   ],
   "games": [
-   "BG2",
-   "BG2EE",
-   "Tutu",
    "BGEE",
+   "Tutu",
    "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "BG2"
   ],
   "team": [
    "Isaya"
@@ -28585,9 +28585,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -28921,16 +28921,16 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
-   "SoD"
+   "BG2EE",
+   "IWD",
+   "BG2",
+   "IWDEE"
   ],
   "team": [
    "Mornagest"
@@ -28972,9 +28972,9 @@
    "Sort et objet"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
@@ -29013,9 +29013,9 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -29038,9 +29038,9 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
-   "Tutu"
+   "BG2"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -29085,12 +29085,12 @@
    "Gameplay"
   ],
   "games": [
-   "BG2",
-   "BGT",
    "IWD2",
-   "BG",
    "Tutu",
-   "IWD"
+   "BGT",
+   "IWD",
+   "BG2",
+   "BG"
   ],
   "team": [],
   "warnings": [
@@ -29112,9 +29112,9 @@
    "Gameplay"
   ],
   "games": [
-   "BGEE",
-   "EET",
    "SoD",
+   "EET",
+   "BGEE",
    "BG2EE"
   ],
   "team": [],
@@ -29172,17 +29172,17 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
-   "IWDEE",
-   "BG2EE",
-   "Tutu",
-   "IWD",
    "BGEE",
-   "BGT",
+   "Tutu",
    "IWD2",
+   "BGT",
+   "SoD",
    "EET",
+   "BG2EE",
+   "IWD",
    "BG",
-   "SoD"
+   "BG2",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [],
@@ -29201,10 +29201,10 @@
    "Portrait et son"
   ],
   "games": [
-   "BG2",
+   "Tutu",
    "BGT",
    "BG",
-   "Tutu"
+   "BG2"
   ],
   "team": [],
   "warnings": [],
