@@ -4,13 +4,33 @@ import os
 
 # import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
-from list_import import category_map
 from models import Category, Mod
-from models_import import games
+from settings import games
+
+categorie_names = [
+    "Patch non officiel",
+    "Utilitaire",
+    "Installation",
+    "Conversion",
+    "Conversion partielle",
+    "Conversion totale",
+    "Interface",
+    "Cosmétique",
+    "Portrait et son",
+    "Quête",
+    "PNJ recrutable",
+    "PNJ One Day",
+    "PNJ (autre)",
+    "Forgeron et marchand",
+    "Sort et objet",
+    "Kit",
+    "Gameplay",
+    "Personnalisation du groupe",
+]
 
 
 def main(env):
-    categories = [Category(k) for k in dict.fromkeys(category_map.values())]
+    categories = [Category(k) for k in categorie_names]
     with open("mods.json", "r") as f:
         mods = json.load(f)
     # with open("mods.yaml", "r") as f:
@@ -24,7 +44,6 @@ def main(env):
                 continue
             category.mods.append(mod)
 
-    # FIXME: pour le poc: static="static{os.sep}"
     page_html = env.get_template("base.html").render(
         games=games, categories=categories, static=f"mod_list{os.sep}static{os.sep}"
     )
