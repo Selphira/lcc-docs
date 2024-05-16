@@ -105,7 +105,7 @@ class Category:
         return self.name.lower().replace(" ", "-")
 
 
-IMG_ROOT = os.path.join("mod_list", "static", "img")
+IMG_ROOT = os.path.join("static", "img")
 
 domain_to_image = {
     "artisans-corner.com": "artisans700.png",
