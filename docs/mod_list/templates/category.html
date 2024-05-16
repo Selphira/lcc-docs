@@ -37,7 +37,6 @@
                 <label for="{{ mod.name }}·desc">Description</label>
                 <p class="read-more-target">{{ mod.description|safe }}</p>
             </div>
-            <!-- class:warning : Ne pas sauter d'espace, todo: faire un équivalent de spaceless -->
             <div class="warning">{% for warning in mod.warnings %}{{ warning|safe }}<br>{% endfor %}</div>
             <div class="url">
                 {% for url in mod.urls_instance %}
