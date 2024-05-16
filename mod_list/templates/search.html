@@ -1,0 +1,43 @@
+<div class="searchs">
+    <div class="search_game">
+        <p class="by">Par jeu :</p>
+        <div class="search_game_items">
+            {% for game in games %}
+                <p class="search_item game">
+                    <input type="checkbox" id="{{ game }}" oninput="filterMod()">
+                    <label for="{{ game }}">{{ game }}</label>
+                </p>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="search_icon">
+        <fieldset id="translation-select">
+            <legend>Par état de la traduction</legend>
+            <div>
+                <input type="radio" id="translation-all" name="trans" value="" oninput="filterMod()" checked/>
+                <label for="translation-all">Tous</label>
+            </div>
+            <div>
+                <input type="radio" id="translation-0" name="trans" value="🇨🇵" oninput="filterMod()" />
+                <label for="translation-0">🇨🇵 Traduit</label>
+            </div>
+            <div>
+                <input type="radio" id="translation-1" name="trans" value="✅" oninput="filterMod()" />
+                <label for="translation-1">✅ Traduit, à relire</label>
+            </div>
+            <div>
+                <input type="radio" id="translation-2" name="trans" value="❎" oninput="filterMod()" />
+                <label for="translation-2">❎ VO, traduction en cours</label>
+            </div>
+            <div>
+                <input type="radio" id="translation-3" name="trans" value="❌" oninput="filterMod()" />
+                <label for="translation-3">❌ VO, non traduit</label>
+            </div>
+        </fieldset>
+    </div>
+</div>
+
+<div class="search_text_container">
+    <p>Par nom :</p>
+    <input id="search-text" type="text" placeholder="Nom du mod" oninput="filterMod()">
+</div>

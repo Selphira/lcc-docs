@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport"
+              content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>Liste des mods pour BG - La Couronne de Cuivre</title>
+        <link rel="stylesheet" href="mod_list/static/css/list.css" type="text/css">
+    </head>
+
+    <body>
+        <script src="mod_list/static/js/main.js"></script>
+        <a id="gotothetop" href="#top" title="Revenir en haut"></a>
+
+        <div id="cartouche">
+            <span name="top" id="top"></span>
+            <div id="header">
+                <div class="nav-1">
+                    <h1>Liste des mods (WIP)</h1>
+                </div>
+                <hr>
+                <div class="nav-2">
+                    <img class="main"
+                         src="mod_list/static/img/logo_lcc.png"
+                         title="La Couronne de Cuivre"
+                         alt="La Couronne de Cuivre"
+                         height="215"
+                         width="885" />
+                    <div class="credits">
+                        <p>
+                            <strong>Auteur :</strong> <a href="https://www.baldursgateworld.fr/lacouronne/members/freddy_gwendo.html">Freddy_Gwendo (aka Gwendolyne)</a>
+                        </p>
+                        <p>
+                            <strong>Version :</strong><span id="versionnb1">#TODO</span>
+                        </p>
+                        <p>
+                            <a href="https://www.baldursgateworld.fr/lacouronne/content/">Site internet</a> &#8226; <a href="https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/33406-projet-de-mise-jour-des-listes-de-mods-ie.html">Forum</a> &#8226; <a href="https://github.com/LaCouronnedeCuivre/lcc-docs">GitHub</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+ 
+            <section id="maindiv">
+                <!-- ================== I n t r o d u c t i o n ================== -->
+                <a name="intro" id="intro"></a>
+                <div class="content">
+                    <h2 class="background">Introduction</h2>
+                    <div class="text">
+                        <div class="warning">
+                            <p class="titre">AVERTISSEMENT !</p>
+                            <p>
+                                &#9888;&#65039; Le site Team BG semble hors de service pour le moment. Les liens de téléchargement des mods
+                                <img
+                                     width="28"
+                                     height="28"
+                                     src="mod_list/static/img/teambg.png"
+                                     title="TeamBG" />
+                                sont donc temporairement cassés. Heureusement, ils sont toujours disponibles via un autre serveur dont vous trouverez l'adresse <a href="https://www.baldursgateworld.fr/lacouronne/dernieres-nouvelles-du-modding/33551-liens-alternatifs-pour-telecharger-les-mods-teambg.html#post502427">ici</a>.
+                            </p>
+                        </div>
+                        <div class="intro">
+                            <p>
+                                Voici la liste des mods de la saga Baldur's Gate disponibles au téléchargement. Afin qu'elle soit la plus précise possible, n'hésitez pas à indiquer sur <a href="https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/33406-projet-de-mise-jour-des-listes-de-mods-ie.html">le forum</a> si de nouvelles traductions sont en cours, sont nouvellement achevées ou sont provisoirement mises de côté (avec la possibilité ou non pour un autre traducteur de les reprendre à son compte). N'hésitez pas également à signaler tout problème, tout lien mort ou plus récent, confirmer de nouvelle compatibilité, ou tout simplement la sortie de nouveaux mods.
+                            </p>
+        
+                            <p>
+                                Quiconque le souhaite peut apporter des modifications et des améliorations à cette liste sur ce <a href="https://github.com/LaCouronnedeCuivre/lcc-docs">dépôt GitHub</a>. Il vous suffit soit d'ouvrir une "issue" et de nous informer d'une erreur, d'un lien manquant ou erroné, d'une information manquante ; soit de le "forker" et de proposer une "Pull Request".
+                            </p>
+                            <p>
+                                N'oubliez-pas de consulter ce <a href="https://github.com/LaCouronnedeCuivre/lcc-docs/blob/main/Comment_contribuer.md">mode d'emploi</a> avant de contribuer.
+                            </p>
+                        </div>
+    
+                        <div class="legend">
+                            <p class="title">Légende :</p>
+        
+                            <p><strong>Qualité générale du mod</strong></p>
+                            <ul>
+                                <li>🟢 RAS</li>
+                                <li>🟡 Peut poser problème</li>
+                                <li>🔴 À éviter ou obsolète</li>
+                            </ul>
+        
+                            <p><strong>Traduction française</strong></p>
+                            <ul>
+                                <li>🇫🇷 Mod français, entièrement traduit ou ne nécessitant pas de traduction</li>
+                                <li>✅ Traduit mais traduction à mettre à jour</li>
+                                <li>❎ Non traduit mais traduction en cours</li>
+                                <li>❌ Non traduit</li>
+                            </ul>
+        
+                            <p><strong>Mod Weidu</strong></p>
+                            <ul>
+                                <li>😀 Installation/Désinstallation Weidu</li>
+                                <li>😡 Mod modifiant le répertoire override, non désinstalable</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+            </section>
+            <section class="table">
+                <h2 class="background" id="search-bar">Recherche avancée</h2>
+                <div id="search">
+                    {% include 'search.html' %}
+                </div>
+            </section>
+
+            {% include 'category_menu.html' %}
+
+            <section class="table">
+                {% for category in categories %}
+                    {% include 'category.html' %}
+                {% endfor %}
+            </section>
+        </div>
+    </body>
+</html>

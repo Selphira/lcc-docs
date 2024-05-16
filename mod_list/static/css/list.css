@@ -1,0 +1,583 @@
+:root {
+    --color-primary: Goldenrod;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    background: #000 url('../img/bg_lcc2.png');
+    color: #D1D1D1;
+    padding-inline: 70px;
+}
+
+@media screen and (max-width: 900px) {
+    body {
+        padding-inline: 16px;
+    }
+}
+
+/* Ainsi on peut colorer le texte de la couleur principale de façon maintenable */
+/* TODO: les liens ont la même couleur… */
+.row.mod .warning .color-primary,
+.row.mod .description .color-primary {
+    color: var(--color-primary);
+}
+
+#gotothetop {
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    font-size: 20px;
+    border: 1px solid var(--color-primary);
+    border-radius: 10px;
+    padding: 10px;
+    z-index: 10;
+    text-decoration: none;
+    background-color: #000;
+}
+
+@media screen and (max-width: 900px) {
+    #gotothetop {
+        bottom: 10px;
+        right: 10px;
+    }
+}
+
+#gotothetop::before {
+    content: "↥";
+}
+
+/* ---------------- *
+ *  Base  *
+ * ---------------- */
+a:link,
+a:visited {
+    color: var(--color-primary);
+    /*font-weight: bold; */
+    text-decoration: none;
+}
+
+a:focus,
+a:hover {
+    text-decoration: underline;
+    /*color: #deded9;*/
+}
+
+
+h1 {
+    line-height: 170%;
+    font-size: 40px;
+    color: var(--color-primary);
+    width: 100%;
+}
+
+/*  Titres de section (160 %)  */
+h2 {
+    line-height: 32px;
+    display: block;
+    font-family: Verdana, Trebuchet MS, Arial, serif;
+    text-align: left;
+    text-indent: 30px;
+    padding: 0px;
+    margin-top: 20px;
+    border-block: dotted 2px #96846e;
+    font-size: 28px;
+}
+
+h2::first-letter {
+    color: var(--color-primary);
+    background-color: transparent;
+}
+
+h3,
+h4,
+h5,
+h6 {
+    line-height: 170%;
+    margin: 10px auto;
+    padding: 0;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+h4 {
+    font-size: 18px;
+}
+
+h5 {
+    /*margin: 10px auto;*/
+    font-size: 16px;
+}
+
+h6 {
+    font-size: 14px;
+    font-style: italic;
+}
+
+hr {
+    margin-block: 20px;
+    height: 1px;
+    border: 0;
+    background-color: var(--color-primary);
+}
+
+.background {
+    background-repeat: repeat-x;
+    background: url("../img/fond_entete_forum.jpg");
+}
+
+.backgroundcomp {
+    line-height: 150%;
+    background-repeat: repeat-x;
+    background: url("../img/fond_compon.jpg");
+}
+
+label {
+    display: block;
+    padding: 4px;
+    color: #deded9;
+    cursor: pointer;
+}
+
+#header {
+    font-family: Verdana, Tahoma, Arial, sans-serif;
+    background-image: linear-gradient(#666666, #040404);
+    border-inline: 1px solid var(--color-primary);
+    border-block: 5px solid var(--color-primary);
+    padding: 5px 60px 13px 60px;
+    border-radius: 3px 4px 3px 3px;
+    box-shadow: 8px 8px 15px black;
+}
+
+@media screen and (max-width: 900px) {
+    #header {
+        padding-inline: 30px;
+    }
+}
+
+#header .nav-1 {
+    display: flex;
+}
+
+#header h1 {
+    text-align: center;
+    text-shadow: 0.1rem 0.1rem 0.25rem black;
+}
+
+#header .nav-2 {
+    display: flex;
+}
+
+@media screen and (max-width: 900px) {
+    #header .nav-2 {
+        display: block;
+        text-align: center;
+    }
+}
+
+#header .credits {
+    justify-self: center;
+    align-self: center;
+    width: 100%;
+}
+
+.category_menu {
+    margin-top: 16px;
+    background-image: linear-gradient(#666666, #040404);
+    border-radius: 3px;
+    padding: 24px 12px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 32px 12px;
+}
+
+.category_menu .item a {
+    color: #deded9;
+    font-weight: bold;
+    padding: 12px 18px;
+    border: 1px solid var(--color-primary);
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.category_menu a:hover {
+    color: var(--color-primary);
+    text-decoration: none;
+    background-color: #473f34;
+}
+
+.intro {
+    font-size: large;
+}
+
+#search {
+    display: grid;
+    justify-content: center;
+}
+
+#search .searchs {
+    display: flex;
+    margin: 2rem;
+}
+
+#search .search_game .by,
+#search .search_icon legend {
+    font-size: 18px;
+}
+
+#search .search_game_items {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    max-width: 750px;
+    list-style-type: none;
+    gap: 0 12px;
+    font-size: large;
+}
+
+#search .search_icon {
+    min-width: 30%;
+    max-width: fit-content;
+}
+
+#search .search_game_items label {
+    padding: 6px 12px;
+    border: 1px solid black;
+    background-color: #655949;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+#search .search_game_items label:hover {
+    border: 1px solid var(--color-primary);
+}
+
+#search .search_game_items input:checked~label,
+#search .search_icon input:checked~label {
+    border: 1px solid var(--color-primary);
+    background-color: #000;
+}
+
+#search .search_game_items input,
+#search .search_icon input {
+    display: none;
+}
+
+.search_text_container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0 6px;
+    margin-left: 48px;
+    margin-top: 6px;
+    margin-bottom: 24px;
+}
+
+.search_text_container p {
+    font-size: 18px;
+}
+
+.search_text_container input {
+    padding: 0.25em 0.5em;
+    border: 2px solid #000;
+    border-radius: 4px;
+}
+
+#search-text {
+    width: 300px;
+    height: 50px;
+    font-size: large;
+}
+
+#maindiv .content {
+    color: #deded9;
+    background-color: #5F5F5F;
+    background: url("../img/fond_descr_forum.jpg");
+    padding: 0 0 25px 0;
+    margin: 50px auto;
+    border-width: 2px 2px 4px 10px;
+    border-style: solid;
+    border-color: #655949;
+    /*#96846e;*/
+    position: relative;
+    /*border-image-source: url("../img/fond_entete_forum.jpg");
+	border-image-slice: 4;
+	border-image-repeat: repeat;*/
+    border-radius: 4px 4px 4px 5px;
+    box-shadow: 8px 8px 15px black;
+    display: block;
+}
+
+#maindiv .content .text {
+    padding: 25px 5%;
+}
+
+#maindiv .warning {
+    text-align: justify;
+    border: 2px solid var(--color-primary);
+    background: rgba(218, 165, 32, 0.5);
+    padding: 16px 5%;
+    margin: 10px 5%;
+    line-height: 160%;
+}
+
+#maindiv .warning p.titre {
+    font-weight: bold;
+    width: 100%;
+    padding: 16px;
+    text-align: center;
+    letter-spacing: .2rem;
+}
+
+.legend {
+    font-size: large;
+    border: 1px solid var(--color-primary);
+    padding-inline: 32px;
+}
+
+.legend .title {
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.legend ul {
+    list-style-type: none;
+}
+
+.table {
+    background: url("../img/fond_descr_forum.jpg");
+    border-width: 2px 2px 4px 10px;
+    border-style: solid;
+    border-color: #655949;
+    border-radius: 4px 4px 4px 5px;
+    box-shadow: 8px 8px 15px black;
+}
+
+
+.table .category {
+    padding: 24px;
+}
+
+.table .row {
+    display: grid;
+    grid-template-columns: minmax(15%, 250px) minmax(5%, 180px) minmax(10%, 120px) minmax(320px, 1fr) minmax(20%, 320px) minmax(3%, 60px);
+    line-height: 150%;
+    gap: 2px 6px;
+    align-items: center;
+    border: 1px solid blanchedalmond;
+    margin-bottom: 2px;
+    padding: 6px;
+}
+
+@media screen and (max-width: 900px) {
+    .table .row {
+        grid-template-columns: auto;
+        gap: 2px;
+    }
+}
+
+.table .row:first-child {
+    background-color: #303030;
+    font-weight: bold;
+    font-size: 18px;
+    justify-items: center;
+}
+
+@media screen and (max-width: 900px) {
+    .table .row:first-child {
+        display: none;
+    }
+}
+
+.table .row p {
+    text-align: justify;
+}
+
+.table .row .title {
+    padding-inline: 10px;
+    font-size: large;
+}
+
+.table .row.mod {
+    display: "";
+}
+
+.table .row.mod.hidden {
+    display: none;
+}
+
+.table .row .name,
+.table .row .icons {
+    text-align: unset;
+}
+
+.table .jeu {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(6%, 80px));
+    gap: 2px 1px;
+}
+
+@media screen and (max-width: 900px) {
+    .table .row .title {
+        display: flex;
+        gap: 10px;
+    }
+
+    .table .jeu {
+        display: flex;
+        justify-self: center;
+    }
+}
+
+.table .jeu p {
+    border: 1px solid blanchedalmond;
+    background-color: #655949;
+    border-radius: 2px;
+    margin: 0;
+    padding-block: 6px;
+    padding-inline: 12px;
+    font-size: 14px;
+}
+
+.table .team {
+    display: grid;
+    gap: 2px 1px;
+    justify-items: center;
+    text-align: center;
+}
+
+@media screen and (max-width: 900px) {
+    .table .team {
+        display: grid;
+        grid-auto-flow: column;
+        grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
+        justify-self: center;
+        margin-block: 8px;
+    }
+
+    .table .team p {
+        padding-inline: 4px;
+    }
+
+    .table .jeu p {
+        width: fit-content;
+        padding-inline: 4px;
+    }
+}
+
+.table .team p {
+    text-align: unset;
+    border: 1px solid #655949;
+    background-color: #303030;
+    margin: 0;
+    padding-block: 6px;
+    padding-inline: 12px;
+    width: fit-content;
+    font-size: 14px;
+}
+
+.table .row .desc {
+    background-color: #655949;
+    border: 1px solid blanchedalmond;
+    padding: 12px;
+    font-size: 14px;
+}
+
+.table .row .warning {
+    border: 1px solid var(--color-primary);
+    padding: 12px;
+    font-size: 14px;
+}
+
+.table .row .warning:empty {
+    border: none;
+}
+
+.table .row .url {
+    display: grid;
+    gap: 4px;
+    justify-self: center;
+    justify-items: center;
+    align-items: center;
+    font-size: large;
+}
+
+@media screen and (max-width: 900px) {
+    .table .row .url {
+        display: flex;
+    }
+}
+
+.read-more-state {
+    display: none;
+}
+
+.read-more-target {
+    opacity: 0;
+    max-height: 0;
+    font-size: 0;
+    transition: .5s ease;
+}
+
+.read-more-state:checked~.read-more-target {
+    opacity: 1;
+    font-size: inherit;
+    max-height: 999em;
+}
+
+.read-more-state~label {
+    color: var(--color-primary);
+    cursor: pointer;
+    font-weight: bold;
+}
+
+.read-more-state~label:hover {
+    background-color: #473f34;
+}
+
+.read-more-state~label::before {
+    content: '▶';
+}
+
+.read-more-state:checked~label::before {
+    content: '▼';
+}
+
+/* ------------ *
+ *  Info-bulle  *
+ * ------------ */
+.infobulle {
+    /*les .infobulles deviennent référentes*/
+    position: relative;
+    cursor: help;
+    text-decoration: none;
+    color: var(--color-primary);
+}
+
+.infobulle:hover::after,
+.infobulle:focus::after {
+    /* on affiche aria-label */
+    content: attr(aria-label);
+    font-size: 14px;
+    position: absolute;
+    top: -3rem;
+    /* on centre horizontalement */
+    transform: translateX(-50%);
+    z-index: 1;
+    /* on interdit le retour à la ligne */
+    white-space: nowrap;
+    padding: 6px 12px;
+    background: #000;
+    border: 1px solid var(--color-primary);
+    border-radius: 4px;
+}
+
+[aria-label]:focus {
+    outline: none;
+}

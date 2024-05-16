@@ -1,0 +1,55 @@
+<h2 class="background" id="{{ category.id }}">{{ category.name }}</h2>
+<div class="category">
+    <div class="row game">
+        <p>Mod</p>
+        <p>Jeux</p>
+        <p>Traducteurs</p>
+        <p>Description</p>
+        <p>Note</p>
+        <p>
+            <img src="mod_list/static/img/download.png" title="Téléchargement" width="42" height="42">
+        </p>
+    </div>
+    {% for mod in category.mods %}
+        <div class="row mod">
+            <div class="title">
+                <p class="name">{{ mod.name }}</p>
+                <p class="icons">
+                    {% for icon in mod.icons %}
+                        <span class='infobulle' aria-label='{{ icon.label }}'>
+                            {{ icon.icon }}
+                        </span>
+                    {% endfor %}
+                </p>
+            </div>
+            <div class="jeu">
+                {% for game in mod.games %}
+                    <p>{{ game }}</p>
+                {% endfor %}
+            </div>
+            <div class="team">
+                {% for user in mod.team %}
+                    <p>{{ user }}</p>
+                {% endfor %}
+            </div>
+            <div class="desc">
+                <input type="checkbox" id="{{ mod.name }}·desc" class="read-more-state">
+                <label for="{{ mod.name }}·desc">Description</label>
+                <p class="read-more-target">{{ mod.description|safe }}</p>
+            </div>
+            <!-- class:warning : Ne pas sauter d'espace, todo: faire un équivalent de spaceless -->
+            <div class="warning">{% for warning in mod.warnings %}{{ warning|safe }}<br>{% endfor %}</div>
+            <div class="url">
+                {% for url in mod.urls_instance %}
+                    <a href="{{ url.url }}" target="{% if url.is_external %}_blank{% else %}_self{% endif %}">
+                        {% if url.img %}
+                            <img src='{{ url.img.src }}' alt='{{ url.img.alt }}' width='{{ url.img.width }}' height='{{ url.img.height }}' title='{{ url.img.title }}'>
+                        {% else %}
+                            Lien
+                        {% endif %}
+                    </a>
+                {% endfor %}
+            </div>
+        </div>
+    {% endfor %}
+</div>
