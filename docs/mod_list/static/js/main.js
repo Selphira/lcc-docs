@@ -1,9 +1,9 @@
 // reset des filtres et selects
 document.addEventListener("DOMContentLoaded", () => {
-  const checkedGames = document.querySelectorAll(".search_item.game input[type='checkbox']:checked")
-  checkedGames.forEach(input => input.checked = false)
   document.querySelector("#search-text").value = ""
   document.querySelector("#translation-all").checked = true
+  document.querySelector("#game-all").checked = true
+  document.querySelector("#category-all").checked = true
 })
 
 function filterMod() {
@@ -27,18 +27,18 @@ function filterMod() {
   modsFiltered.forEach(mod => mod.classList.remove("hidden"))
 
   // check des catégories (les enlèvent si aucun résultat n'est trouvé)
-  let categories = document.querySelectorAll(".table .category")
+  let categories = document.querySelectorAll(".table .category_container .category")
   categories.forEach(category => category.style.display = category.querySelector(".row.mod:not(.hidden)") ? "" : "none")
 }
 
 function filterByGame(mods) {
-  const checkedGames = Array.from(document.querySelectorAll(".search_item.game input[type='checkbox']:checked")).map(input => input.id)
+  const checkedGame = document.querySelector(".search_item.game input[type='radio']:checked")
   let modsFiltered = null
-  if (checkedGames.length > 0) {
+  if (checkedGame.value !== "") {
     modsFiltered = Array()
     mods.forEach(mod => {
       for (let modGame of mod.querySelectorAll(".jeu *")) {
-        if (checkedGames.includes(modGame.textContent)) {
+        if (checkedGame.value == modGame.textContent) {
           modsFiltered.push(mod)
           break
         }
@@ -64,4 +64,17 @@ function filterByTranslation(mods) {
     return null
   }
   return Array.from(mods).filter(mod => mod.querySelector(".icons").textContent.includes(currentTranslation))
+}
+
+function filterByCategory() {
+  const categoryChecked = document.querySelector(".search_item.category input[type='radio']:checked")
+  const categories = Array.from(document.querySelectorAll(".category_container"))
+  if (categoryChecked && categoryChecked.value !== "") {
+    categories.forEach(category => {
+      let categoryName = category.getAttribute("x-name")
+      category.style.display = categoryChecked.value == categoryName ? "" : "none"
+    })
+  } else {
+    categories.forEach(category => category.style.display = "")
+  }
 }
