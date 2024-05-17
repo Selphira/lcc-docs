@@ -32,8 +32,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "IWDEE"
   ],
   "team": [],
@@ -54,8 +54,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "IWDEE"
   ],
   "team": [],
@@ -78,8 +78,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "IWDEE"
   ],
   "team": [],
@@ -103,8 +103,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -127,8 +127,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -248,8 +248,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -293,11 +293,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -322,8 +322,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE",
    "PSTEE"
@@ -441,8 +441,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -516,8 +516,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -591,8 +591,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -617,8 +617,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -758,8 +758,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -1043,11 +1043,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -1072,11 +1072,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -1214,11 +1214,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -1242,8 +1242,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -1312,11 +1312,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [
    "Anomaly"
@@ -1456,8 +1456,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -1503,8 +1503,8 @@
   "games": [
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -1678,8 +1678,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -1703,8 +1703,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -1728,11 +1728,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -1755,11 +1755,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -1837,8 +1837,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Thot",
@@ -2143,8 +2143,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Aldiemus"
@@ -2166,8 +2166,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Le Marquis"
@@ -2214,8 +2214,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -2239,11 +2239,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWDEE"
@@ -2378,8 +2378,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -2400,8 +2400,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -2493,8 +2493,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -2519,8 +2519,8 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -2553,8 +2553,8 @@
    "Portrait et son"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -2685,8 +2685,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -2796,8 +2796,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BG2EE",
    "EET"
   ],
@@ -2886,8 +2886,8 @@
    "Gameplay"
   ],
   "games": [
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Corran001"
@@ -2907,8 +2907,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "BG2EE"
   ],
@@ -2938,8 +2938,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE",
    "PSTEE"
@@ -2963,8 +2963,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Corran001"
@@ -3136,8 +3136,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -3184,8 +3184,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -3255,8 +3255,8 @@
    "Conversion partielle"
   ],
   "games": [
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -3451,8 +3451,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [],
@@ -3578,8 +3578,8 @@
    "Cosmétique"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "EET"
   ],
   "team": [],
@@ -3623,8 +3623,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -3738,8 +3738,8 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -3765,8 +3765,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [
@@ -3812,8 +3812,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE",
    "PSTEE"
@@ -3907,11 +3907,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -3937,11 +3937,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -3967,8 +3967,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -4032,11 +4032,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -4125,8 +4125,8 @@
    "BG",
    "BG2",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -4152,8 +4152,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -4176,8 +4176,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -4246,8 +4246,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -4317,8 +4317,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -4384,8 +4384,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -4431,8 +4431,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -4453,8 +4453,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -4475,11 +4475,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -4612,8 +4612,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -4756,11 +4756,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -4927,8 +4927,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -4954,8 +4954,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -5068,8 +5068,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -5151,8 +5151,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -5240,8 +5240,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [
@@ -5265,11 +5265,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -5294,11 +5294,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "IWDEE"
   ],
   "team": [
@@ -5322,8 +5322,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -5348,8 +5348,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -5397,8 +5397,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -5445,8 +5445,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "EET"
   ],
@@ -5548,11 +5548,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWDEE"
@@ -5575,11 +5575,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -5600,11 +5600,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -5627,11 +5627,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -5967,8 +5967,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -5992,8 +5992,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -6015,8 +6015,8 @@
    "Cosmétique"
   ],
   "games": [
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [],
@@ -6038,11 +6038,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -6065,8 +6065,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -6087,8 +6087,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -6113,8 +6113,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -6202,8 +6202,8 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "EET"
   ],
@@ -6227,8 +6227,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -6368,8 +6368,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -6413,8 +6413,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -6587,8 +6587,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Le Marquis"
@@ -6611,11 +6611,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -6731,8 +6731,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -6862,8 +6862,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "EET"
   ],
@@ -6913,8 +6913,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "EET"
   ],
@@ -7012,8 +7012,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -7162,8 +7162,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -7255,8 +7255,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -7281,8 +7281,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -7331,8 +7331,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -7356,8 +7356,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "IWDEE"
   ],
   "team": [],
@@ -7382,11 +7382,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -7408,11 +7408,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "IWD",
    "IWD2",
    "IWDEE",
@@ -7439,8 +7439,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -7485,8 +7485,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Matt",
@@ -7509,11 +7509,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -7578,11 +7578,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -7608,8 +7608,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -7657,8 +7657,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [],
@@ -7742,11 +7742,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -7793,8 +7793,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -7818,8 +7818,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -7871,8 +7871,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -7957,8 +7957,8 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [
@@ -8181,8 +8181,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -8247,8 +8247,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -8270,8 +8270,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "IWDEE"
   ],
   "team": [],
@@ -8292,8 +8292,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -8340,11 +8340,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -8372,8 +8372,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWDEE"
@@ -8398,8 +8398,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -8489,8 +8489,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "IWD",
    "IWD2",
    "PST"
@@ -8575,8 +8575,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -8693,8 +8693,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -8739,11 +8739,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -8815,8 +8815,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Isaya"
@@ -8840,8 +8840,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -8893,11 +8893,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -8961,8 +8961,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -8987,8 +8987,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -9011,8 +9011,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -9080,11 +9080,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWDEE"
@@ -9220,11 +9220,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -9291,8 +9291,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -9342,8 +9342,8 @@
    "Gameplay"
   ],
   "games": [
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Isaya"
@@ -9432,8 +9432,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -9456,8 +9456,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -9537,8 +9537,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -9711,8 +9711,8 @@
    "Kit"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -9784,8 +9784,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -9827,8 +9827,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -9877,8 +9877,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -9900,8 +9900,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -10030,8 +10030,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -10167,8 +10167,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "IWD"
   ],
   "team": [],
@@ -10279,8 +10279,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -10301,8 +10301,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Galathée"
@@ -10348,8 +10348,8 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -10394,8 +10394,8 @@
    "Kit"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -10470,11 +10470,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -10612,11 +10612,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -10789,8 +10789,8 @@
    "Kit"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -10877,8 +10877,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -11057,8 +11057,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "BG2EE",
    "EET"
@@ -11135,11 +11135,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -11270,8 +11270,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -11360,8 +11360,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [
@@ -11447,8 +11447,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Tannerhell"
@@ -11691,8 +11691,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -11713,8 +11713,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -11957,8 +11957,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -12032,8 +12032,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -12370,11 +12370,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -12465,8 +12465,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -12554,8 +12554,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -12609,8 +12609,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -12702,8 +12702,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -12725,8 +12725,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -12861,11 +12861,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -12891,8 +12891,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -12981,8 +12981,8 @@
    "Kit"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "EET"
   ],
@@ -13007,8 +13007,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Freddy Gwendo"
@@ -13034,11 +13034,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -13085,8 +13085,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -13216,8 +13216,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -13239,11 +13239,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -13286,8 +13286,8 @@
    "Kit"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -13336,11 +13336,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -13364,11 +13364,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -13395,11 +13395,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -13512,11 +13512,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWDEE"
@@ -13539,8 +13539,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -13588,8 +13588,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -13743,8 +13743,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -13816,8 +13816,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -13862,8 +13862,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [
    "Isaya"
@@ -13909,8 +13909,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [
@@ -14149,8 +14149,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -14408,8 +14408,8 @@
    "BG2",
    "Tutu",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -14458,8 +14458,8 @@
    "Gameplay"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD"
   ],
@@ -14528,11 +14528,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -14688,8 +14688,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [
@@ -14777,8 +14777,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -14803,8 +14803,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -14829,8 +14829,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -15087,8 +15087,8 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE"
   ],
   "team": [
@@ -15136,8 +15136,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -15181,8 +15181,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -15228,11 +15228,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -15342,11 +15342,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -15367,8 +15367,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -15414,8 +15414,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -15480,11 +15480,11 @@
    "Gameplay"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -15697,8 +15697,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -15723,8 +15723,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -15747,8 +15747,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -15772,8 +15772,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -15797,8 +15797,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -15823,11 +15823,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -15979,8 +15979,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -16115,8 +16115,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -16142,8 +16142,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -16214,11 +16214,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -16243,8 +16243,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -16309,8 +16309,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -16402,8 +16402,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -16428,8 +16428,8 @@
    "BG2",
    "Tutu",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -16453,8 +16453,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "IWD",
    "IWD2",
    "PST"
@@ -16645,8 +16645,8 @@
    "Cosmétique"
   ],
   "games": [
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -16742,8 +16742,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -16794,8 +16794,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -16863,8 +16863,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -16890,8 +16890,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -16918,8 +16918,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -17033,8 +17033,8 @@
    "Kit"
   ],
   "games": [
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -17055,8 +17055,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -17082,8 +17082,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -17111,8 +17111,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWDEE",
@@ -17158,8 +17158,8 @@
    "Kit"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -17207,8 +17207,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -17278,8 +17278,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -17343,11 +17343,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -17372,11 +17372,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -17734,8 +17734,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -17759,11 +17759,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWDEE"
@@ -17855,8 +17855,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -17880,8 +17880,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -17944,8 +17944,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -18166,8 +18166,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -18191,11 +18191,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -18224,8 +18224,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "IWD",
    "IWD2"
   ],
@@ -18393,8 +18393,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -18476,8 +18476,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -18565,8 +18565,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -18653,8 +18653,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "BG2EE"
   ],
@@ -18679,8 +18679,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -18749,8 +18749,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -18795,8 +18795,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -18818,8 +18818,8 @@
    "Gameplay"
   ],
   "games": [
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -18840,8 +18840,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Mornagest",
@@ -18866,8 +18866,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Mornagest",
@@ -18914,8 +18914,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "IWDEE"
   ],
   "team": [],
@@ -18939,11 +18939,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -19105,8 +19105,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "IWDEE"
   ],
   "team": [
@@ -19294,11 +19294,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -19326,11 +19326,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -19358,11 +19358,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -19454,8 +19454,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -19498,8 +19498,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -19562,8 +19562,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -19586,8 +19586,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -19607,8 +19607,8 @@
    "Cosmétique"
   ],
   "games": [
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [
    "Isaya"
@@ -19633,8 +19633,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -19659,8 +19659,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -19745,11 +19745,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -19772,8 +19772,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -19796,11 +19796,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -19826,8 +19826,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "IWDEE"
   ],
   "team": [
@@ -19895,8 +19895,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "BG2EE"
   ],
@@ -20132,8 +20132,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -20155,8 +20155,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [
@@ -20178,8 +20178,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -20204,11 +20204,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -20364,8 +20364,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -20435,8 +20435,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BG2EE",
    "EET"
   ],
@@ -20513,8 +20513,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -20539,11 +20539,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWDEE"
@@ -20569,8 +20569,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Le Marquis"
@@ -20593,11 +20593,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -20642,8 +20642,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -20710,8 +20710,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -20757,8 +20757,8 @@
    "Conversion partielle"
   ],
   "games": [
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "SkipCool"
@@ -20871,8 +20871,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE",
    "PSTEE"
@@ -20962,8 +20962,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -21124,11 +21124,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -21183,11 +21183,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -21255,8 +21255,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -21369,11 +21369,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -21444,8 +21444,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -21470,8 +21470,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -21493,8 +21493,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -21568,8 +21568,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -21666,8 +21666,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -21736,8 +21736,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -21810,8 +21810,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -21927,11 +21927,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -21956,8 +21956,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -22007,8 +22007,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE",
    "PSTEE"
@@ -22078,8 +22078,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -22168,8 +22168,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -22465,11 +22465,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -22516,8 +22516,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD"
   ],
@@ -22565,8 +22565,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -22586,8 +22586,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -22760,8 +22760,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -22875,8 +22875,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "IWDEE"
   ],
   "team": [],
@@ -22941,8 +22941,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -23071,11 +23071,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23102,11 +23102,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23228,11 +23228,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23257,11 +23257,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23285,8 +23285,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23308,8 +23308,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [
@@ -23331,8 +23331,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -23377,8 +23377,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23402,8 +23402,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -23427,8 +23427,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23470,8 +23470,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23517,8 +23517,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "IWD",
    "IWD2",
    "PST"
@@ -23655,8 +23655,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23702,8 +23702,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23799,8 +23799,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -23821,8 +23821,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23846,8 +23846,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -23912,8 +23912,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Mornagest"
@@ -23936,11 +23936,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -23989,11 +23989,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -24778,8 +24778,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -24808,8 +24808,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -24856,11 +24856,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -25090,8 +25090,8 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -25235,8 +25235,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD"
   ],
@@ -25285,8 +25285,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE"
   ],
   "team": [],
@@ -25332,8 +25332,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -25384,8 +25384,8 @@
    "BG",
    "BG2",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -25479,8 +25479,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -25619,8 +25619,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [
@@ -25705,8 +25705,8 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Lothringen"
@@ -25806,8 +25806,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD"
   ],
@@ -25965,8 +25965,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -26018,8 +26018,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -26065,8 +26065,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -26111,8 +26111,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -26165,11 +26165,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -26354,8 +26354,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Isaya"
@@ -26379,8 +26379,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -26402,8 +26402,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -26429,8 +26429,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -26560,8 +26560,8 @@
    "Gameplay"
   ],
   "games": [
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [
@@ -26611,8 +26611,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -26693,8 +26693,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [
@@ -26739,8 +26739,8 @@
    "PNJ (autre)"
   ],
   "games": [
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD"
   ],
@@ -27009,11 +27009,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -27069,8 +27069,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -27119,8 +27119,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -27209,8 +27209,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -27230,8 +27230,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -27320,8 +27320,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -27496,11 +27496,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -27547,8 +27547,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -27613,8 +27613,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -27778,8 +27778,8 @@
    "Kit"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -27937,8 +27937,8 @@
    "Sort et objet"
   ],
   "games": [
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -28000,8 +28000,8 @@
    "PNJ (autre)"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "SoD",
    "EET"
@@ -28132,8 +28132,8 @@
    "Kit"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE"
   ],
   "team": [],
@@ -28159,8 +28159,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -28185,8 +28185,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Isaya",
@@ -28209,8 +28209,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "BG2EE"
   ],
@@ -28277,11 +28277,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -28303,8 +28303,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -28329,8 +28329,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -28356,8 +28356,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -28446,8 +28446,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -28492,8 +28492,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -28517,8 +28517,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -28539,8 +28539,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -28728,8 +28728,8 @@
    "Kit"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE"
   ],
   "team": [],
@@ -28753,8 +28753,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "IWD",
    "IWD2",
    "PST"
@@ -28803,8 +28803,8 @@
    "BG2",
    "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -28831,8 +28831,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
-   "BG2EE"
+   "BG2EE",
+   "SoD"
   ],
   "team": [],
   "warnings": [
@@ -28855,8 +28855,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -28880,8 +28880,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -28904,8 +28904,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -28948,11 +28948,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWDEE"
   ],
@@ -29063,11 +29063,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [
@@ -29113,8 +29113,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -29138,8 +29138,8 @@
   ],
   "games": [
    "BG",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
    "EET"
   ],
@@ -29371,8 +29371,8 @@
    "Kit"
   ],
   "games": [
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE"
   ],
   "team": [],
@@ -29457,11 +29457,11 @@
   ],
   "games": [
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -29508,8 +29508,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
@@ -29549,8 +29549,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -29574,8 +29574,8 @@
   ],
   "games": [
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [
    "Freddy_Gwendo"
@@ -29622,8 +29622,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "IWD",
    "IWD2"
   ],
@@ -29648,8 +29648,8 @@
   ],
   "games": [
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET"
   ],
   "team": [],
@@ -29709,11 +29709,11 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
    "Tutu",
+   "BGT",
    "BGEE",
-   "SoD",
    "BG2EE",
+   "SoD",
    "EET",
    "IWD",
    "IWD2",
@@ -29738,8 +29738,8 @@
   "games": [
    "BG",
    "BG2",
-   "BGT",
-   "Tutu"
+   "Tutu",
+   "BGT"
   ],
   "team": [],
   "warnings": [],
