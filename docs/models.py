@@ -2,7 +2,14 @@ import os
 import re
 from typing import List
 
-from settings import IMG_ROOT, domain_to_image, icon_to_label, image_data
+from settings import (
+    FLAG_DIR,
+    IMG_ROOT,
+    SITE_DIR,
+    domain_to_image,
+    icon_to_label,
+    image_data,
+)
 
 
 class Icon:
@@ -111,12 +118,14 @@ class Url:
                 img_data["title"] = img_data["title"] % img.removesuffix(
                     self.country_image_suffix
                 )
+                dir = FLAG_DIR
             else:
                 img_data = image_data.get(
                     img, dict(title="titre de l'image", width=32, height=32)
                 )
+                dir = SITE_DIR
 
-            img_dir = os.path.join("img", img)
+            img_dir = os.path.join("img", dir, img)
             self.img = Image(src=img_dir, **img_data)
 
     def get_image_special(self) -> str:
@@ -131,15 +140,13 @@ class Url:
         return img
 
     def get_tld(self) -> str:
-        country = self.get_domain().rpartition(".")[-1]
-        if country == "de":
-            country = "ge"
-        return country
+        return self.get_domain().rpartition(".")[-1]
 
     def get_image_country(self) -> str:
         country_img = f"{self.get_tld()}-flag-32.png"
         img = ""
-        if os.path.exists(os.path.join(IMG_ROOT, country_img)):
+        # auto-select
+        if os.path.exists(os.path.join(IMG_ROOT, FLAG_DIR, country_img)):
             img = country_img
 
         return img

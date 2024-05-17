@@ -50,6 +50,9 @@ class Games(enum.StrEnum):
         return [cls.BG, cls.TUTU, cls.BGT, cls.BGEE, cls.SOD, cls.EET]
 
 
+FLAG_DIR = "flags"
+SITE_DIR = "sites"
+
 # TODO: réduire/convertir les static/img
 domain_to_image = {
     "artisans-corner.com": "artisans700.png",
@@ -74,31 +77,30 @@ domain_to_image = {
     "weaselmods.net": "weasel.png",
     "weidu.org": "weidu.ico",
     # les cas particuliers récupérés de la version de freddy
-    "clandlan.net": "sp-flag-32.png",
-    "trow.cc": "ch-flag-32.png",
+    "clandlan.net": "flags/sp-flag-32.png",
+    "trow.cc": "flags/ch-flag-32.png",
 }
 
 image_data = {
-    "artisans700.png": {"title": "The Artisan Corner", "width": 32, "height": 32},
-    "logocc.png": {"title": "La Courrone de Cuivre", "width": 32, "height": 32},
-    # TODO: recentrer cet icône
-    "teambg.png": {"title": "TeamBG", "width": 32, "height": 32},
-    "beamdog.png": {"title": "Beamdog", "width": 32, "height": 32},
-    "bwl.gif": {"title": "The Black Wyrm's Lair", "width": 32, "height": 32},
-    "g3icon.ico": {"title": "Gibberlings3", "width": 32, "height": 32},
-    "github.png": {"title": "GitHub", "width": 32, "height": 32},
+    "artisans700.png": {"title": "The Artisan Corner", "width": 32},
+    "logocc.png": {"title": "La Courrone de Cuivre", "width": 32},
+    "teambg.png": {"title": "TeamBG", "width": 32},
+    "beamdog.png": {"title": "Beamdog", "width": 32},
+    "bwl.gif": {"title": "The Black Wyrm's Lair", "width": 32},
+    "g3icon.ico": {"title": "Gibberlings3", "width": 32},
+    "github.png": {"title": "GitHub", "width": 32},
     # TODO: raccourcir cet icône
     "luren.jpg": {"title": "Retour à Havredest", "width": 78},
-    "ppg.jpg": {"title": "Pocket Plane Group", "width": 32, "height": 32},
-    "mediafire.png": {"title": "Mediafire", "width": 32, "height": 32},
-    "nexus-230x230.png": {"title": "Nexus Mods", "width": 32, "height": 32},
-    "reddit_76.png": {"title": "Reddit", "width": 32, "height": 32},
-    "ab-logo.jpg": {"title": "AB aka Sasha al'Therin", "width": 32, "height": 32},
-    "sentrizeal.ico": {"title": "Sentrizeal", "width": 32, "height": 32},
-    "shs_reskit.png": {"title": "Spellhold Studios", "width": 32, "height": 32},
-    "sorcerer.jpg": {"title": "Sorcerer's Place", "width": 32, "height": 32},
-    "sf.png": {"title": "SourceForge", "width": 32, "height": 32},
-    "weasel.png": {"title": "Weasel Mods", "width": 32, "height": 32},
+    "ppg.jpg": {"title": "Pocket Plane Group", "width": 32},
+    "mediafire.png": {"title": "Mediafire", "width": 32},
+    "nexus-230x230.png": {"title": "Nexus Mods", "width": 32},
+    "reddit_76.png": {"title": "Reddit", "width": 32},
+    "ab-logo.jpg": {"title": "AB aka Sasha al'Therin", "width": 32},
+    "sentrizeal.ico": {"title": "Sentrizeal", "width": 32},
+    "shs_reskit.png": {"title": "Spellhold Studios", "width": 32},
+    "sorcerer.jpg": {"title": "Sorcerer's Place", "width": 32},
+    "sf.png": {"title": "SourceForge", "width": 32},
+    "weasel.png": {"title": "Weasel Mods", "width": 32},
     "weidu.ico": {"title": "WeiDU", "width": 16, "height": 16},
     "-flag-32.png": {"title": "Mod %s", "width": 32},
 }
