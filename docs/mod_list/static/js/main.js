@@ -4,7 +4,18 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelector("#translation-all").checked = true
   document.querySelector("#game-all").checked = true
   document.querySelector("#category-all").checked = true
+  updateCategoryCount()
 })
+
+function updateCategoryCount() {
+  // ajout du count
+  let containerCategories = document.querySelectorAll(".table .category_container")
+  containerCategories.forEach(category => {
+    let catMods = category.querySelectorAll(".row.mod:not(.hidden)")
+    let catCount = catMods ? catMods.length : 0
+    category.querySelector(".category_name").setAttribute("data-count", catCount)
+  })
+}
 
 function filterMod() {
   const mods = Array.from(document.querySelectorAll(".table .row.mod"))
@@ -29,6 +40,8 @@ function filterMod() {
   // check des catégories (les enlèvent si aucun résultat n'est trouvé)
   let categories = document.querySelectorAll(".table .category_container .category")
   categories.forEach(category => category.style.display = category.querySelector(".row.mod:not(.hidden)") ? "" : "none")
+
+  updateCategoryCount()
 }
 
 function filterByGame(mods) {
