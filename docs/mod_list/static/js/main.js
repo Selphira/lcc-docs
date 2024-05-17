@@ -84,7 +84,7 @@ function filterByCategory() {
   const categories = Array.from(document.querySelectorAll(".category_container"))
   if (categoryChecked && categoryChecked.value !== "") {
     categories.forEach(category => {
-      let categoryName = category.getAttribute("x-name")
+      let categoryName = category.getAttribute("data-name")
       category.style.display = categoryChecked.value == categoryName ? "" : "none"
     })
   } else {
