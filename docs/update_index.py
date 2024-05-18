@@ -47,7 +47,7 @@ def main(env):
     page_html = env.get_template("base.html").render(
         games=Games,
         categories=categories,
-        static=f"mod_list{os.sep}static{os.sep}",
+        static=f"src{os.sep}static{os.sep}",
         attrs_icon_data=attrs_icon_data,
     )
 
@@ -57,7 +57,7 @@ def main(env):
 
 if __name__ == "__main__":
     env = Environment(
-        loader=PackageLoader("mod_list", "templates"),
+        loader=PackageLoader("src", "templates"),
         autoescape=select_autoescape(["html"]),
     )
     main(env)

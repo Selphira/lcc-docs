@@ -2,7 +2,7 @@ import enum
 import os
 from typing import Dict
 
-STATIC_ROOT = os.path.join("mod_list", "static")
+STATIC_ROOT = os.path.join("src", "static")
 IMG_ROOT = os.path.join(STATIC_ROOT, "img")
 
 attrs_icon_data: Dict[str, Dict[tuple, Dict[str, str]]] = {
