@@ -29,9 +29,9 @@
                 </div>
                 <div class="desc">
                     <input type="checkbox"
-                           id="{{ mod.name }}·{{ category }}·desc"
+                           id="{{ mod.name }}·{{ category.name }}·desc"
                            class="read-more-state">
-                    <label for="{{ mod.name }}·{{ category }}·desc">Description</label>
+                    <label for="{{ mod.name }}·{{ category.name }}·desc">Description</label>
                     <p class="read-more-target">{{ mod.description|safe }}</p>
                 </div>
                 <div class="warning">{% for warning in mod.warnings %}{{ warning|safe }}<br>{% endfor %}</div>
