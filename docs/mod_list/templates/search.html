@@ -28,30 +28,16 @@
                        checked />
                 <label for="translation-all">Tous</label>
             </div>
-            <div>
-                <input type="radio"
-                       id="translation-1"
-                       name="trans"
-                       value="✅"
-                       oninput="filterMod()" />
-                <label for="translation-1">✅ Traduit</label>
-            </div>
-            <div>
-                <input type="radio"
-                       id="translation-2"
-                       name="trans"
-                       value="❎"
-                       oninput="filterMod()" />
-                <label for="translation-2">❎ Partiellement traduit</label>
-            </div>
-            <div>
-                <input type="radio"
-                       id="translation-3"
-                       name="trans"
-                       value="❌"
-                       oninput="filterMod()" />
-                <label for="translation-3">❌ Non traduit</label>
-            </div>
+            {% for icon_data in attrs_icon_data.translation_state.values() %}
+                <div>
+                    <input type="radio"
+                           id="translation-{{ loop.index }}"
+                           name="trans"
+                           value="{{ icon_data.icon }}"
+                           oninput="filterMod()" />
+                    <label for="translation-{{ loop.index }}">{{ icon_data.icon }} {{ icon_data.label }}</label>
+                </div>
+            {% endfor %}
         </fieldset>
     </div>
     <div id="search_category">

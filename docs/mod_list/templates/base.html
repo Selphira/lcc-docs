@@ -74,26 +74,27 @@
                                 <strong>Qualité générale du mod</strong>
                             </p>
                             <ul>
-                                <li>🟢 RAS</li>
-                                <li>🟡 Peut poser problème</li>
-                                <li>🔴 À éviter ou obsolète</li>
+                                {% for icon_data in attrs_icon_data.safe.values() %}
+                                    <li>{{ icon_data.icon }} {{ icon_data.label }}</li>
+                                {% endfor %}
                             </ul>
  
                             <p>
                                 <strong>Traduction française</strong>
                             </p>
                             <ul>
-                                <li>✅ Mod français, entièrement traduit ou ne nécessitant pas de traduction</li>
-                                <li>❎ Partiellement traduit</li>
-                                <li>❌ Non traduit</li>
+                                {% for icon_data in attrs_icon_data.translation_state.values() %}
+                                    <li>{{ icon_data.icon }} {{ icon_data.label }}</li>
+                                {% endfor %}
                             </ul>
  
                             <p>
                                 <strong>Mod Weidu</strong>
                             </p>
                             <ul>
-                                <li>😀 Installation/Désinstallation Weidu</li>
-                                <li>😡 Mod modifiant le répertoire override, non désinstalable</li>
+                                {% for icon_data in attrs_icon_data.is_weidu.values() %}
+                                    <li>{{ icon_data.icon }} {{ icon_data.label }}</li>
+                                {% endfor %}
                             </ul>
                         </div>
                     </div>

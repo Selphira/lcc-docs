@@ -12,8 +12,7 @@ function updateCategoryCount() {
   let containerCategories = document.querySelectorAll(".table .category_container")
   containerCategories.forEach(category => {
     let catMods = category.querySelectorAll(".row.mod:not(.hidden)")
-    let catCount = catMods ? catMods.length : 0
-    category.querySelector(".category_name").setAttribute("data-count", catCount)
+    category.querySelector(".category_name").setAttribute("data-count", catMods.length)
   })
 }
 

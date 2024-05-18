@@ -5,7 +5,7 @@ import os
 # import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
 from models import Category, Mod
-from settings import Games
+from settings import Games, attrs_icon_data
 
 categorie_names = [
     "Patch non officiel",
@@ -45,7 +45,10 @@ def main(env):
             category.mods.append(mod)
 
     page_html = env.get_template("base.html").render(
-        games=Games, categories=categories, static=f"mod_list{os.sep}static{os.sep}"
+        games=Games,
+        categories=categories,
+        static=f"mod_list{os.sep}static{os.sep}",
+        attrs_icon_data=attrs_icon_data,
     )
 
     with open("index.html", "w") as f:

@@ -6,19 +6,16 @@ from settings import (
     FLAG_DIR,
     IMG_ROOT,
     SITE_DIR,
+    attrs_icon_data,
     domain_to_image,
-    icon_to_label,
     image_data,
 )
 
 
 class Icon:
-    def __init__(self, icon: str):
+    def __init__(self, icon: str, label: str):
         self.icon = icon
-
-    @property
-    def label(self) -> str:
-        return icon_to_label.get(self.icon, "")
+        self.label = label
 
 
 class Mod:
@@ -59,33 +56,15 @@ class Mod:
     @property
     def icons(self) -> List[Icon]:
         icons = list()
-        match self.safe:
-            case None:
-                icon = "🟡"
-            case True:
-                icon = "🟢"
-            case False:
-                icon = "🔴"
-            case _:
-                raise ValueError
-        icons.append(Icon(icon))
-
-        match self.translation_state:
-            case True | None:  # traduit ou pas besoin de traduction
-                icon = "✅"
-            case "todo":
-                icon = "❎"  # traduction à remettre à jour
-            case False | "wip":
-                icon = "❌"  # non traduit ou en cours
-            case _:
-                raise ValueError
-        icons.append(Icon(icon))
-
-        if self.is_weidu is False:
-            icon = "😡"
-        else:
-            icon = "😀"
-        icons.append(Icon(icon))
+        for attr, data_icons in attrs_icon_data.items():
+            value = getattr(self, attr)
+            for k, v in data_icons.items():
+                if value in k:
+                    data_icon = v
+                    break
+            else:
+                raise ValueError(f"icon not found for {self.name}")
+            icons.append(Icon(**data_icon))
 
         return icons
 

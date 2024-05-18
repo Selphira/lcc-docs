@@ -1,18 +1,49 @@
 import enum
 import os
+from typing import Dict
 
 STATIC_ROOT = os.path.join("mod_list", "static")
 IMG_ROOT = os.path.join(STATIC_ROOT, "img")
 
-icon_to_label = {
-    "🟢": "Mod de qualité",
-    "🟡": "Mod pouvant poser des problèmes",
-    "🔴": "Mod à éviter ou obsolète",
-    "✅": "Traduction à jour",
-    "❎": "Traduction française non à jour",
-    "❌": "Non traduit",
-    "😀": "Mod Weidu",
-    "😡": "Mod override, à vos risques et périls",
+attrs_icon_data: Dict[str, Dict[tuple, Dict[str, str]]] = {
+    "safe": {
+        (True,): {
+            "icon": "🟢",
+            "label": "Mod de qualité",
+        },
+        (None,): {
+            "icon": "🟡",
+            "label": "Mod pouvant poser des problèmes",
+        },
+        (False,): {
+            "icon": "🔴",
+            "label": "Mod à éviter ou obsolète",
+        },
+    },
+    "translation_state": {
+        (True, None): {
+            "icon": "✅",
+            "label": "Mod traduit",
+        },
+        ("todo",): {
+            "icon": "❎",
+            "label": "Mod partiellement traduit",
+        },
+        (False, "wip"): {
+            "icon": "❌",
+            "label": "Mod non traduit",
+        },
+    },
+    "is_weidu": {
+        (True, None): {
+            "icon": "😀",
+            "label": "Mod Weidu",
+        },
+        (False,): {
+            "icon": "😡",
+            "label": "Mod override, non désinstalable",
+        },
+    },
 }
 
 
