@@ -1,5 +1,6 @@
 import os
 import re
+import unicodedata
 from typing import List
 
 from settings import (
@@ -10,6 +11,19 @@ from settings import (
     domain_to_image,
     image_data,
 )
+
+
+def slugify(value: str) -> str:
+    """
+    Convert spaces to hyphens.
+    Remove characters that aren't alphanumerics, underscores, or hyphens.
+    Convert to lowercase. Also strip leading and trailing whitespace.
+    """
+    value = (
+        unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
+    )
+    value = re.sub(r"[^\w\s-]", "", value).strip().lower()
+    return re.sub(r"[-\s]+", "-", value)
 
 
 class Icon:
@@ -46,6 +60,10 @@ class Mod:
         self.language = language
 
     @property
+    def id(self) -> str:
+        return slugify(self.name)
+
+    @property
     def urls_instance(self) -> list:
         return [Url(url) for url in self.urls]
 
@@ -76,7 +94,7 @@ class Category:
 
     @property
     def id(self) -> str:
-        return self.name.lower().replace(" ", "-")
+        return slugify(self.name)
 
 
 domain_regex = re.compile(r"https?://(www\.)?(?P<domain>[^/]*).*")

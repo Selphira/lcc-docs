@@ -16,7 +16,7 @@
             </p>
         </div>
         {% for mod in category.mods %}
-            <div class="row mod">
+            <div class="row mod" id="{{ mod.id }}">
                 <div class="title">
                     <p class="name">{{ mod.name }}</p>
                     <p class="icons">{% for icon in mod.icons %}<span class='infobulle' aria-label='{{ icon.label }}'>{{ icon.icon }} </span>{% endfor %}</p>
@@ -29,9 +29,9 @@
                 </div>
                 <div class="desc">
                     <input type="checkbox"
-                           id="{{ mod.name }}·{{ category.name }}·desc"
+                           id="{{ mod.id }}·{{ category.id }}·desc"
                            class="read-more-state">
-                    <label for="{{ mod.name }}·{{ category.name }}·desc">Description</label>
+                    <label for="{{ mod.id }}·{{ category.id }}·desc">Description</label>
                     <p class="read-more-target">{{ mod.description|safe }}</p>
                 </div>
                 <div class="warning">{% for warning in mod.warnings %}{{ warning|safe }}<br>{% endfor %}</div>
