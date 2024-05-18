@@ -263,7 +263,7 @@
  },
  {
   "name": "APR on Spec",
-  "description": "Ce mod est obsolète. Comme de plus, il s'agit d'un mod override, préférez-lui le composant \"Tout le monde obtient le bonus d'attaque par round de spécialisation\" de <a href=\"#anthology\">Tweaks Anthology</a>.",
+  "description": "Ce mod est obsolète. Comme de plus, il s'agit d'un mod override, préférez-lui le composant \"Tout le monde obtient le bonus d'attaque par round de spécialisation\" de <a href=\"#tweaks-anthology\">Tweaks Anthology</a>.",
   "urls": [
    "https://forums.beamdog.com/discussion/36197/mod-release-apr-on-spec/p1"
   ],
@@ -764,7 +764,7 @@
   ],
   "team": [],
   "warnings": [
-   "Ce mod est devenu obsolète depuis son intégration dans le mod <a href=\"#expclasseskits\">Expanded Classes and Kits</a>."
+   "Ce mod est devenu obsolète depuis son intégration dans le mod <a href=\"#expanded-classes-and-kits\">Expanded Classes and Kits</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -1463,7 +1463,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#artisankits\">The Artisan's kitpack</a> du même auteur."
+   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#the-artisans-kitpack\">The Artisan's kitpack</a> du même auteur."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -1537,7 +1537,7 @@
  },
  {
   "name": "Archive of Icendoan",
-  "description": "Ce mod regroupe 3 petits mods créés par Icendoen :<br/>\n- <a href=\"http://www.shsforums.net/files/file/725-elemental-damage-only-stoneskin/\">#!Stoneskin</a> (Elemental Damage Only) : applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles.<br/>\n- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...<br/>\n- <a href=\"liste_mods1_bg.html#bragepenance\">#!Brage (Brage's Penance)</a> : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1.",
+  "description": "Ce mod regroupe 3 petits mods créés par Icendoen :<br/>\n- <a href=\"http://www.shsforums.net/files/file/725-elemental-damage-only-stoneskin/\">#!Stoneskin</a> (Elemental Damage Only) : applique une peau de pierre permanente à chaque personnage du jeu, rendant le gameplay assez étrange et... intéressant puisqu'il rend la plupart des armes et une grande quantité de sorts inutiles.<br/>\n- #!Lightening : un composant délire qui installe une baguette se comportant comme un sac de contenance... ET oui, les fautes d'orthographe, ça craint...<br/>\n- #!Brage (<a href=\"#brages-penance\">Brage's Penance</a>) : ajoute Brage comme PNJ recrutable dans BG. Il est complètement silencieux, mais a une petite quête. Ce mod a été créé en 40 minutes pour fêter le 10e anniversaire de BG1.",
   "urls": [
    "http://www.shsforums.net/files/file/726-archive-of-icendoan/"
   ],
@@ -2014,7 +2014,7 @@
  },
  {
   "name": "Auramaster Druid Kit",
-  "description": "Ce mod ajoute un profil de druide assez puissant qui peut utiliser l'énergie magique flottant dans la nature pour lancer des sorts plus rapidement et plus fréquemment. Il peut aussi lancer des sorts profanes et divins non disponibles pour les autres druides.<br/>\nCe profil a été inclus dans les dernières versions du mod <a href=\"#improvedanvil\">Improved Anvil</a>.",
+  "description": "Ce mod ajoute un profil de druide assez puissant qui peut utiliser l'énergie magique flottant dans la nature pour lancer des sorts plus rapidement et plus fréquemment. Il peut aussi lancer des sorts profanes et divins non disponibles pour les autres druides.<br/>\nCe profil a été inclus dans les dernières versions du mod <a href=\"#improved-anvil\">Improved Anvil</a>.",
   "urls": [
    "http://baldur.cob-bg.pl/download/bg2/kits/auramaster_druid_kit.zip"
   ],
@@ -2455,7 +2455,7 @@
    "Mathrim Cauthon"
   ],
   "warnings": [
-   "Ce mod n'est plus disponible car il a été intégré dans le mod <a href=\"#darkhorizon\">Dark Horizon</a>."
+   "Ce mod n'est plus disponible car il a été intégré dans le mod <a href=\"#dark-horizons\">Dark Horizons</a>."
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -2510,7 +2510,7 @@
  },
  {
   "name": "BG1 NPC Project",
-  "description": "Ce mod apporte une interaction des personnages tout à fait comparable à celle de Baldur's Gate II. En raison des différences de capacités techniques de Baldur's Gate et de son petit frère, le mod ne peut fonctionner qu'avec Baldur's Gate II, ce qui rend obligatoire l'installation de BG1Tutu ou de Baldur's Gate Trilogy afin d'en profiter, ou d'un jeu EE.<br/>\nIl développe les relations entre le personnage principal et ses équipiers ou entre membres du groupe pour tous les personnages recrutables de Baldur's Gate, ainsi que des romances pour Ajantis, Branwen, Coran, Dynahéir, Shar-Teel et Xan. Certains personnages ont aussi une quête personnelle à accomplir, et tous ajoutent aussi leur grain de sel dans les discussions avec les personnages que le groupe rencontre.<br/>\nPour en bénéficier pleinement, il vous faudra également télécharger et installer le mod <a href=\"#bg1npcpmp\">BG1 NPC Project Music Pack</a> (à installer après BG1 NPC Project).",
+  "description": "Ce mod apporte une interaction des personnages tout à fait comparable à celle de Baldur's Gate II. En raison des différences de capacités techniques de Baldur's Gate et de son petit frère, le mod ne peut fonctionner qu'avec Baldur's Gate II, ce qui rend obligatoire l'installation de BG1Tutu ou de Baldur's Gate Trilogy afin d'en profiter, ou d'un jeu EE.<br/>\nIl développe les relations entre le personnage principal et ses équipiers ou entre membres du groupe pour tous les personnages recrutables de Baldur's Gate, ainsi que des romances pour Ajantis, Branwen, Coran, Dynahéir, Shar-Teel et Xan. Certains personnages ont aussi une quête personnelle à accomplir, et tous ajoutent aussi leur grain de sel dans les discussions avec les personnages que le groupe rencontre.<br/>\nPour en bénéficier pleinement, il vous faudra également télécharger et installer le mod <a href=\"#bg1-npc-project-music-pack\">BG1 NPC Project Music Pack</a> (à installer après BG1 NPC Project).",
   "urls": [
    "https://www.gibberlings3.net/files/file/908-bg1-npc-project/",
    "https://github.com/gibberlings3/bg1npc/releases"
@@ -2568,7 +2568,7 @@
  },
  {
   "name": "BG1 NPCs at Beginning",
-  "description": "Ce mod français rapproche 11 PNJ éloignés de la route directe vers Nashkel (Ajantis, Alora, Coran, Eldoth, Faldorn, Kivan, Quayle, Safana, Shar-Teel, Tiax, Viconia) pour faciliter leur recrutement au début du jeu afin de pouvoir davantage varier les équipes. Vous trouverez plus de détails <a href=\"http://www.anomaly-studios.fr/mods/bg1npcbeg/lisezmoi.html\">ici</a>.<br/>\nSi vous souhaitez installer BG1 NPC Project, <a href=\"#stratagems\">Stratagems</a> et/ou <a href=\"#anthology\">Tweaks Anthology</a>, veuillez installer ces modules avant BG1 NPCs at Beginning. Cela évitera à ce dernier de vous proposer de déplacer des PNJ qui ont déjà été déplacés par un de ces 3 mods avant lui, si vous avez choisi de le faire.",
+  "description": "Ce mod français rapproche 11 PNJ éloignés de la route directe vers Nashkel (Ajantis, Alora, Coran, Eldoth, Faldorn, Kivan, Quayle, Safana, Shar-Teel, Tiax, Viconia) pour faciliter leur recrutement au début du jeu afin de pouvoir davantage varier les équipes. Vous trouverez plus de détails <a href=\"http://www.anomaly-studios.fr/mods/bg1npcbeg/lisezmoi.html\">ici</a>.<br/>\nSi vous souhaitez installer BG1 NPC Project, <a href=\"#sword-coast-stratagems\">Sword Coast Stratagems</a> et/ou <a href=\"#tweaks-anthology\">Tweaks Anthology</a>, veuillez installer ces modules avant BG1 NPCs at Beginning. Cela évitera à ce dernier de vous proposer de déplacer des PNJ qui ont déjà été déplacés par un de ces 3 mods avant lui, si vous avez choisi de le faire.",
   "urls": [
    "https://www.baldursgateworld.fr/lacouronne/baldur-s-gate-reloaded-les-mods-tutu-et-baldur-s-gate-trilogy/25115-baldur-s-gate-trilogy-baldur-s-gate-1-npcs-beginning-v3-0-compatible-baldur-s-gate-1-baldur-s-gate-trilogy-et-baldur-s-gate-ee.html"
   ],
@@ -2655,7 +2655,7 @@
  },
  {
   "name": "BG1 Tweaks Pack",
-  "description": "Ce mod permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions...).<br/>\nIl est désormais obsolète et a été remplacé par <a href=\"#anthology\">Tweaks Anthology</a>.",
+  "description": "Ce mod permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions...).<br/>\nIl est désormais obsolète et a été remplacé par <a href=\"#tweaks-anthology\">Tweaks Anthology</a>.",
   "urls": [
    "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=9"
   ],
@@ -2900,7 +2900,7 @@
  },
  {
   "name": "BG2 Tweaks Pack",
-  "description": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, Tutu Tweak Pack et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...).<br/>\nIl est désormais obsolète et a été remplacé par <a href=\"#anthology\">Tweaks Anthology</a>.",
+  "description": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, Tutu Tweak Pack et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...).<br/>\nIl est désormais obsolète et a été remplacé par <a href=\"#tweaks-anthology\">Tweaks Anthology</a>.",
   "urls": [],
   "categories": [
    "Gameplay"
@@ -2927,7 +2927,7 @@
  },
  {
   "name": "BG2 Tweaks and Tricks",
-  "description": "Ce mod permet de faire mille et un petits ajustements au jeu, et s'avère être le parfait complément de <a href=\"#anthology\">Tweaks Anthology</a>. Vous pouvez rendre les familiers plus intelligents, détecter les pièges plus rapidement et permettre à vos PNJ de \"sentir\" leur présence, modifier les effets de certains objets et sorts pour les rendre plus cohérents, faire des changements aux règles, vendre vos objets sans dépréciation de prix dans les magasins, désactiver les sauvegardes automatiques dans certaines transitions, diminuer le temps de chargement des zones dans les jeux originaux (d'environ 10 à 30 % selon l'auteur), et bien d'autres choses dont vous trouverez la description <a href=\"https://github.com/BGforgeNet/bg2-tweaks-and-tricks\">ici</a>.<br/>\nIl fonctionne avec n'importe quel jeu IE, mais tous ses composants ne sont pas applicables à tous les jeux.",
+  "description": "Ce mod permet de faire mille et un petits ajustements au jeu, et s'avère être le parfait complément de <a href=\"#tweaks-anthology\">Tweaks Anthology</a>. Vous pouvez rendre les familiers plus intelligents, détecter les pièges plus rapidement et permettre à vos PNJ de \"sentir\" leur présence, modifier les effets de certains objets et sorts pour les rendre plus cohérents, faire des changements aux règles, vendre vos objets sans dépréciation de prix dans les magasins, désactiver les sauvegardes automatiques dans certaines transitions, diminuer le temps de chargement des zones dans les jeux originaux (d'environ 10 à 30 % selon l'auteur), et bien d'autres choses dont vous trouverez la description <a href=\"https://github.com/BGforgeNet/bg2-tweaks-and-tricks\">ici</a>.<br/>\nIl fonctionne avec n'importe quel jeu IE, mais tous ses composants ne sont pas applicables à tous les jeux.",
   "urls": [
    "https://github.com/bgforgenet/bg2-tweaks-and-tricks/releases"
   ],
@@ -4625,7 +4625,7 @@
  },
  {
   "name": "Brage's Penance",
-  "description": "L'auteur de ce mod se vante de l'avoir écrit en 3h47m pour fêter l'anniversaire de BG...<br/>\nVous pouvez recruter Brage et accomplir une petite quête.<br/>\nIl est intégré dans le mod <a href=\"#icendoan\">Archive of Icendoan</a>.",
+  "description": "L'auteur de ce mod se vante de l'avoir écrit en 3h47m pour fêter l'anniversaire de BG...<br/>\nVous pouvez recruter Brage et accomplir une petite quête.<br/>\nIl est intégré dans le mod <a href=\"#archive-of-icendoan\">Archive of Icendoan</a>.",
   "urls": [
    "http://www.shsforums.net/files/file/704-brages-penance/"
   ],
@@ -5058,7 +5058,7 @@
  },
  {
   "name": "Card kit",
-  "description": "Ce mod ajoute un nouveau profil de voleur inspiré du Maître des cartes de AD&amp;D 3.5e, et dont de nombreuses capacités ont été reprises du Tisseur de sorts du mod <a href=\"#wildmageadd\">Wild Mage Additions</a>.",
+  "description": "Ce mod ajoute un nouveau profil de voleur inspiré du Maître des cartes de AD&amp;D 3.5e, et dont de nombreuses capacités ont été reprises du Tisseur de sorts du mod <a href=\"#wild-mage-additions\">Wild Mage Additions</a>.",
   "urls": [
    "https://forums.beamdog.com/discussion/36342/bg-ee-bg-ee-2-mod-card-kit-0-3v-wip-eng-pl/p1"
   ],
@@ -5789,7 +5789,7 @@
  },
  {
   "name": "Clear Fog of War",
-  "description": "Ce mod semble avoir disparu. Mais ce n'est pas bien bien grave car <a href=\"#ucfow\">Universal Clear Fog of War</a> était plus performant.",
+  "description": "Ce mod semble avoir disparu. Mais ce n'est pas bien bien grave car <a href=\"#universal-clear-fog-of-war\">Universal Clear Fog of War</a> était plus performant.",
   "urls": [
    "http://www.3ddownloads.com/telefragged/fwstudios/hlid"
   ],
@@ -5822,7 +5822,7 @@
   ],
   "team": [],
   "warnings": [
-   "Préférez-lui l'un des composants de <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Préférez-lui l'un des composants de <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": false,
   "translation_state": null,
@@ -5974,7 +5974,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il est obsolète depuis qu'il a été inclus dans le mod <a href=\"#eldrichtmagic\">Eldricht Magic</a>."
+   "Il est obsolète depuis qu'il a été inclus dans le mod <a href=\"#eldricht-magic\">Eldricht Magic</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -5983,7 +5983,7 @@
  },
  {
   "name": "Constitution bonuses for everyone above 16",
-  "description": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires.<br/>\nCe mod écrase les fichiers HPCLASS.2da et HPCONBON.2da, et ne peut pas être désinstallé. De plus, comme un composant de <a href=\"#scalesofbalance\">Scales of Balance</a> fait la même chose, privilégiez ce dernier.",
+  "description": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires.<br/>\nCe mod écrase les fichiers HPCLASS.2da et HPCONBON.2da, et ne peut pas être désinstallé. De plus, comme un composant de <a href=\"#scales-of-balance\">Scales of Balance</a> fait la même chose, privilégiez ce dernier.",
   "urls": [
    "https://forums.beamdog.com/discussion/47856/mod-constitution-bonuses-for-everyone-above-16/p1"
   ],
@@ -6429,7 +6429,7 @@
  },
  {
   "name": "Creslyn's BG2 Custom Items",
-  "description": "Ce mod ajoute de nombreux objets dans le jeu. Certains, un peu trop puissants, seront cependant difficile à obtenir (comme le bâton de la Gorgone dans la Cité illithild) ou hors de prix.<br/>\nCependant, il a été inclus comme composant du mod <a href=\"#spcollection\">Sorcerer's Place Collection</a>.",
+  "description": "Ce mod ajoute de nombreux objets dans le jeu. Certains, un peu trop puissants, seront cependant difficile à obtenir (comme le bâton de la Gorgone dans la Cité illithild) ou hors de prix.<br/>\nCependant, il a été inclus comme composant du mod <a href=\"#sorcerers-place-collection\">Sorcerer's Place Collection</a>.",
   "urls": [
    "https://sorcerers.net/games/bg2/index_mods_hosted_items_spells2.php"
   ],
@@ -6880,7 +6880,7 @@
  },
  {
   "name": "Dark Ritual",
-  "description": "Désormais inclus dans <a href=\"#vampiretales\">Vampire Tales</a>, ce mini mod ajoutait le marchand Asgrim dans le Temple de Talos, avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2. De plus, il améliorait le Culte de l'Œil Aveugle et le bâtiment des Ménestrels. Ses 26 nouveaux objets étaient principalement répartis dans le magasin d'Asgrim et sur le corps de Lilith.",
+  "description": "Désormais inclus dans <a href=\"#vampire-tales\">Vampire Tales</a>, ce mini mod ajoutait le marchand Asgrim dans le Temple de Talos, avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2. De plus, il améliorait le Culte de l'Œil Aveugle et le bâtiment des Ménestrels. Ses 26 nouveaux objets étaient principalement répartis dans le magasin d'Asgrim et sur le corps de Lilith.",
   "urls": [
    "http://baldur.cob-bg.pl/download/bg2/items/dark_ritual_v1.01.zip"
   ],
@@ -7169,7 +7169,7 @@
   ],
   "team": [],
   "warnings": [
-   "DoF n'est pas compatible avec les mods Faiths and Powers et <a href=\"#spellrev\">Spell Revisions</a>.",
+   "DoF n'est pas compatible avec les mods Faiths and Powers et <a href=\"#spell-revisions\">Spell Revisions</a>.",
    "DoF n'est pas compatible avec les mods Faiths and Powers et Spell Revisions."
   ],
   "is_weidu": null,
@@ -7313,7 +7313,7 @@
    "La Voix 2 La Sagesse"
   ],
   "warnings": [
-   "Note : auparavant hébergé sur Chosen of Mystra, ce mod n'est plus soutenu par son concepteur, car il fait désormais partie du mod <a href=\"#theundying\">The Undying</a>, disponible sur le même site. Nous avons cependant reçu l'accord de l'administrateur du site pour en garder une copie ici."
+   "Note : auparavant hébergé sur Chosen of Mystra, ce mod n'est plus soutenu par son concepteur, car il fait désormais partie du mod <a href=\"#the-undying\">The Undying</a>, disponible sur le même site. Nous avons cependant reçu l'accord de l'administrateur du site pour en garder une copie ici."
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -7398,7 +7398,7 @@
  },
  {
   "name": "Difficulty and Tweaks mod",
-  "description": "Anciennement <a href=\"#mixmod\">Mix Mod</a>, ce mod réunit une petite collection d'ajustements permettant soit de faciliter le jeu, soit de rendre les ennemis plus coriaces.<br/>\n- Des composants permettent d'augmenter ou de réduire l'empilage des munitions, des gemmes, des bijoux, des potions et des parchemins.<br/>\n- Une série de composants permet de booster les ennemis en leur accordant un bonus à la CA, au TAC0 et aux jets de sauvegarde (de 1 à 6).<br/>\n- Une série de composants permet d'augmenter de 25 à 300 % les points de vie des ennemis.<br/>\n- Un composant permet d'interdire le port des casques aux métamorphes.<br/>",
+  "description": "Anciennement <a href=\"#mix-mod\">Mix Mod</a>, ce mod réunit une petite collection d'ajustements permettant soit de faciliter le jeu, soit de rendre les ennemis plus coriaces.<br/>\n- Des composants permettent d'augmenter ou de réduire l'empilage des munitions, des gemmes, des bijoux, des potions et des parchemins.<br/>\n- Une série de composants permet de booster les ennemis en leur accordant un bonus à la CA, au TAC0 et aux jets de sauvegarde (de 1 à 6).<br/>\n- Une série de composants permet d'augmenter de 25 à 300 % les points de vie des ennemis.<br/>\n- Un composant permet d'interdire le port des casques aux métamorphes.<br/>",
   "urls": [
    "https://forums.beamdog.com/discussion/19928/release-difficulty-and-tweak-mod-ver-7/p1"
   ],
@@ -8141,7 +8141,7 @@
    "Thot"
   ],
   "warnings": [
-   "Préférez-lui le mod <a href=\"#skipchateauirenicus\">Skip Chateau Irenicus</a> qui est beaucoup plus souple et compatible avec les autres mods."
+   "Préférez-lui le mod <a href=\"#skip-chateau-irenicus\">Skip Chateau Irenicus</a> qui est beaucoup plus souple et compatible avec les autres mods."
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -8309,25 +8309,6 @@
   "language": null
  },
  {
-  "name": "EEEx",
-  "description": "EEex est un extenseur d'exécutable pour l'édition améliorée du moteur Infinity de Beamdog. Son but est d'externaliser certaines parties du moteur afin d'accorder aux moddeurs un plus grand degré de contrôle sur des mécanismes autrement codés en dur. EEex ne modifie pas le gameplay lui-même, il permet simplement à d'autres mods de le faire.",
-  "urls": [
-   "https://github.com/bubb13/eeex/releases"
-  ],
-  "categories": [
-   "Patch non officiel"
-  ],
-  "games": [
-   "IWDEE"
-  ],
-  "team": [],
-  "warnings": [],
-  "is_weidu": null,
-  "translation_state": null,
-  "safe": true,
-  "language": null
- },
- {
   "name": "EET Tweaks",
   "description": "Ce mod propose une collection d'ajustements pour les jeux IE. Bien que conçus à l'origine pour EET, certains de ces composants sont universels et peuvent fonctionner avec BG1, BG2, IWD, IWD2, Tutu, BGT, CA, IWD-in-BG2, BG:EE, BG2:EE et IWD:EE.<br/>\nIl permet entre autres d'harmoniser l\"apparence des PNJ recrutables pendant la trilogie ou de modifier la limitation d'XP. Lisez bien le <a href=\"http://htmlpreview.github.io/?https://github.com/K4thos/EET_Tweaks/blob/master/EET_Tweaks/readme-EET_Tweaks.html\">readme</a> pour plus de détails.<br/>",
   "urls": [
@@ -8400,7 +8381,8 @@
    "BGEE",
    "BG2EE",
    "SoD",
-   "EET"
+   "EET",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -8428,7 +8410,7 @@
    "Thot"
   ],
   "warnings": [
-   "Il est désormais obsolète après avoir été remplacé par le BG2 Tweaks Pack, lui-même intégré dans le <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il est désormais obsolète après avoir été remplacé par le BG2 Tweaks Pack, lui-même intégré dans le <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -8449,7 +8431,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il est désormais obsolète après avoir été remplacé par le mod <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il est désormais obsolète après avoir été remplacé par le mod <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -8470,7 +8452,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il est désormais obsolète après avoir été remplacé par le mod <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il est désormais obsolète après avoir été remplacé par le mod <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -8497,7 +8479,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il est désormais obsolète et a été remplacé par <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il est désormais obsolète et a été remplacé par <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -9112,7 +9094,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : ce mod n'est pas compatible avec le composant \"Cinématiques et rêves des chapitres 1 et 2 accélérés\" de <a href=\"#anthology\">Tweaks Anthology</a> à cause de l'usage intensif qu'il fait des cinématiques."
+   "Attention : ce mod n'est pas compatible avec le composant \"Cinématiques et rêves des chapitres 1 et 2 accélérés\" de <a href=\"#tweaks-anthology\">Tweaks Anthology</a> à cause de l'usage intensif qu'il fait des cinématiques."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -9692,7 +9674,7 @@
    "Filipe_FR"
   ],
   "warnings": [
-   "Le mod dispose d'un programme d'installation spécifique. De plus, comme il déplaçait l'essentiel des PNJ au Bras amical, nous vous conseillons de lui privilégier l'excellent mod d\"Anomaly, <a href=\"#bg1npcbeg\">BG1 NPCs at Beginning</a>, plus flexible et, qui plus est, compatible avec BGT et BG:EE."
+   "Le mod dispose d'un programme d'installation spécifique. De plus, comme il déplaçait l'essentiel des PNJ au Bras amical, nous vous conseillons de lui privilégier l'excellent mod d\"Anomaly, <a href=\"#bg1-npcs-at-beginning\">BG1 NPCs at Beginning</a>, plus flexible et, qui plus est, compatible avec BGT et BG:EE."
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -10592,7 +10574,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : Ce mod n'est pas compatible avec les composants \"Envoyer les PNJ de BioWare dans une auberge\" de <a href=\"#anthology\">Tweaks Anthology</a> et \"Possibilité d'envoyer les PNJ attendre dans une auberge\" du <a href=\"#bg1npc\">BG1 NPC Project</a>."
+   "Attention : Ce mod n'est pas compatible avec les composants \"Envoyer les PNJ de BioWare dans une auberge\" de <a href=\"#tweaks-anthology\">Tweaks Anthology</a> et \"Possibilité d'envoyer les PNJ attendre dans une auberge\" du <a href=\"#bg1-npc-project\">BG1 NPC Project</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -10893,7 +10875,7 @@
  },
  {
   "name": "Goo the Disembodied Floating Eyeball (One-Day NPC)",
-  "description": "Le seul PNJ à être un œil flottant ! Gozaloth (Goo pour ses amis) est le compagnon idéal pour Jan, si vous voulez le voir répliquer de manière encore plus savoureuse ! Vous le trouverez dans la Sphère planaire.<br/>\nNotez que le mod <a href=\"#altgoo\">Alternate Goo Portrait</a> permet de modifier son portrait.",
+  "description": "Le seul PNJ à être un œil flottant ! Gozaloth (Goo pour ses amis) est le compagnon idéal pour Jan, si vous voulez le voir répliquer de manière encore plus savoureuse ! Vous le trouverez dans la Sphère planaire.<br/>\nNotez que le mod <a href=\"#alternate-goo-portrait\">Alternate Goo Portrait</a> permet de modifier son portrait.",
   "urls": [
    "https://www.pocketplane.net/diversions-and-soundsets/"
   ],
@@ -11189,7 +11171,7 @@
    "Isaya"
   ],
   "warnings": [
-   "Attention : ce mod est incompatible avec un des composants de <a href=\"#stratagems\">Stratagems</a> qui ajuste les ruines d'Ulcaster, avec certains dialogues du <a href=\"#bg1npc\">BG1 NPC Project</a> qui perdent leur sens, De plus, il introduit paradoxalement des incohérences majeures dans BGT en utilisant les mêmes prix d'objets dans la partie BG2, pas affectée par la crise du fer. Par exemple, Ribald propose une baguette de feu (20 charges maximum) pour 61000 po alors que la robe de Vecna (pas affectée) coûte 25000 po ! Compte tenu des impacts de ce mod sur la partie BG2, il perd donc beaucoup de son intérêt."
+   "Attention : ce mod est incompatible avec un des composants de <a href=\"#sword-coast-stratagems\">Sword Coast Stratagems</a> qui ajuste les ruines d'Ulcaster, avec certains dialogues du <a href=\"#bg1-npc-project\">BG1 NPC Project</a> qui perdent leur sens, De plus, il introduit paradoxalement des incohérences majeures dans BGT en utilisant les mêmes prix d'objets dans la partie BG2, pas affectée par la crise du fer. Par exemple, Ribald propose une baguette de feu (20 charges maximum) pour 61000 po alors que la robe de Vecna (pas affectée) coûte 25000 po ! Compte tenu des impacts de ce mod sur la partie BG2, il perd donc beaucoup de son intérêt."
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -11227,7 +11209,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il dispose d'un programme d'installation spécifique. Préférez-lui des mods plus récents comme <a href=\"#stratagems\">Strategems</a>."
+   "Il dispose d'un programme d'installation spécifique. Préférez-lui des mods plus récents comme <a href=\"#sword-coast-stratagems\">Sword Coast Stratagems</a>."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -11608,7 +11590,7 @@
   ],
   "team": [],
   "warnings": [
-   "Comme il est très ancien, préférez-lui le composant de <a href=\"#stratagems\">Stratagems</a> qui fait la même chose."
+   "Comme il est très ancien, préférez-lui le composant de <a href=\"#sword-coast-stratagems\">Sword Coast Stratagems</a> qui fait la même chose."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -12038,7 +12020,7 @@
   ],
   "team": [],
   "warnings": [
-   "À moins d'avoir une bonne raison d'installer ce mod, préférez-lui le composant de <a href=\"#stratagems\">Stratagems</a> ou le mod <a href=\"#iwdification\">IWDification</a> qui sont activement maintenus et traduits en français !"
+   "À moins d'avoir une bonne raison d'installer ce mod, préférez-lui le composant de <a href=\"#sword-coast-stratagems\">Sword Coast Stratagems</a> ou le mod <a href=\"#iwdification\">IWDification</a> qui sont activement maintenus et traduits en français !"
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -12129,7 +12111,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il est désormais obsolète et a été remplacé par <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il est désormais obsolète et a été remplacé par <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -12293,7 +12275,7 @@
    "Elgaern the Dragon Slayer"
   ],
   "warnings": [
-   "Il est désormais obsolète et a été remplacé par <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il est désormais obsolète et a été remplacé par <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -12360,7 +12342,7 @@
  },
  {
   "name": "IWDification",
-  "description": "Ce mod importe certains éléments de Icewind Dale dans la série de jeux Baldur's Gate, dont environ 70 sortilèges profanes et divins, les chanson du barde, les haches à deux mains... N'hésitez pas à lire son readme pour plus de détails.<br/>\nNotez que ce mod est inutile si vous décider d'installer <a href=\"#stratagems\">Stratagems</a>.<br/>\nPar ailleurs, <span style=\"color: red;\">la dernière version nécessite une mise à jour de sa traduction.</span>",
+  "description": "Ce mod importe certains éléments de Icewind Dale dans la série de jeux Baldur's Gate, dont environ 70 sortilèges profanes et divins, les chanson du barde, les haches à deux mains... N'hésitez pas à lire son readme pour plus de détails.<br/>\nNotez que ce mod est inutile si vous décider d'installer <a href=\"#sword-coast-stratagems\">Sword Coast Stratagems</a>.<br/>\nPar ailleurs, <span style=\"color: red;\">la dernière version nécessite une mise à jour de sa traduction.</span>",
   "urls": [
    "https://www.gibberlings3.net/files/file/948-iwdification/",
    "https://github.com/gibberlings3/iwdification/releases"
@@ -12759,7 +12741,7 @@
  },
  {
   "name": "Improved GUI for BG:EE",
-  "description": "Ce mod améliore l'interface graphique du mod <a href=\"#bg2eeguiinbgee\">BG2:EE GUI In BG:EE</a> et est compatible avec les versions du jeu 2.0.<br/>",
+  "description": "Ce mod améliore l'interface graphique du mod <a href=\"#bg2ee-gui-in-bgee\">BG2:EE GUI In BG:EE</a> et est compatible avec les versions du jeu 2.0.<br/>",
   "urls": [
    "https://forums.beamdog.com/discussion/40001/gui-mod-updated-improved-gui-for-baldurs-gate-enhanced-edition-v2-0/p1"
   ],
@@ -12871,7 +12853,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il est désormais obsolète et a été intégré comme composant \"Augmenter la vitesse de déplacement du groupe en dehors des combats\" du mod <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il est désormais obsolète et a été intégré comme composant \"Augmenter la vitesse de déplacement du groupe en dehors des combats\" du mod <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -12922,7 +12904,7 @@
    "Galathée"
   ],
   "warnings": [
-   "Attention : Ce mod est incompatible avec la plupart des mods modifiant les sorts, notamment <a href=\"#spellrev\">Spell Revisions</a> et <a href=\"#stratagems\">Stratagems</a>."
+   "Attention : Ce mod est incompatible avec la plupart des mods modifiant les sorts, notamment <a href=\"#spell-revisions\">Spell Revisions</a> et <a href=\"#sword-coast-stratagems\">Sword Coast Stratagems</a>."
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -13229,7 +13211,7 @@
  },
  {
   "name": "Isandir's Portrait Pack",
-  "description": "Ce mod vous permet d'utiliser cette collection de portraits d'Isandir pour vos personnages. Un composant optionnel dote la plupart des PNJ de portraits de Drows à Ust Natha.<br/>\nCe mod est inclus dans <a href=\"#ppe\">Portraits Portraits Everywhere</a>.",
+  "description": "Ce mod vous permet d'utiliser cette collection de portraits d'Isandir pour vos personnages. Un composant optionnel dote la plupart des PNJ de portraits de Drows à Ust Natha.<br/>\nCe mod est inclus dans <a href=\"#portraits-portraits-everywhere-ppe\">Portraits Portraits Everywhere (PPE)</a>.",
   "urls": [
    "http://www.shsforums.net/files/file/1091-isandirs-portrait-pack/"
   ],
@@ -13773,7 +13755,7 @@
   ],
   "team": [],
   "warnings": [
-   "Les dernières mises à jours de <a href=\"#stratagems\">Stratagems</a> et d'Ascension l'ont rendu obsolète."
+   "Les dernières mises à jours de <a href=\"#sword-coast-stratagems\">Sword Coast Stratagems</a> et d'Ascension l'ont rendu obsolète."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -13782,7 +13764,7 @@
  },
  {
   "name": "Jini NPC Romance",
-  "description": "Il s'agit d'une préquelle d'un autre mod du même auteur, <a href=\"liste_mods1_bg2.html#rjali\">Rjali Romance pour BG2:EE</a>, qui plante le décor de ce qui suivra dans BG2:EE.<br/>\nJini est une djinn emprisonnée dans la lampe qui vous donne la jeune Rjali si vous êtes de sexe masculin et non-mauvais. Elle vous fournit les services habituels d'un djinn de lampe et, si vous êtes gentil avec elle, une romance peut naître. Elle peut fournir de l'équipement aux membres de votre groupe, mais ne le fera que si vous le lui demandez gentiment. Elle ne se joindra jamais à votre groupe, mais elle et sa lampe vous accompagneront sur votre chemin. Elle a soif de liberté, et vous avez la possibilité de la lui accorder.<br/>\nLe mod ajoute également Fay, un feu follet qui vous suivra comme une sorte de familier. Fay vous fera la cour du mieux qu'elle pourra, étant si petite. Ni elle ni Jini n'ont de problème avec cet arrangement.",
+  "description": "Il s'agit d'une préquelle d'un autre mod du même auteur, <a href=\"#rjali-romance\">Rjali Romance</a> pour BG2:EE, qui plante le décor de ce qui suivra dans BG2:EE.<br/>\nJini est une djinn emprisonnée dans la lampe qui vous donne la jeune Rjali si vous êtes de sexe masculin et non-mauvais. Elle vous fournit les services habituels d'un djinn de lampe et, si vous êtes gentil avec elle, une romance peut naître. Elle peut fournir de l'équipement aux membres de votre groupe, mais ne le fera que si vous le lui demandez gentiment. Elle ne se joindra jamais à votre groupe, mais elle et sa lampe vous accompagneront sur votre chemin. Elle a soif de liberté, et vous avez la possibilité de la lui accorder.<br/>\nLe mod ajoute également Fay, un feu follet qui vous suivra comme une sorte de familier. Fay vous fera la cour du mieux qu'elle pourra, étant si petite. Ni elle ni Jini n'ont de problème avec cet arrangement.",
   "urls": [
    "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=393"
   ],
@@ -13843,7 +13825,7 @@
   ],
   "team": [],
   "warnings": [
-   "Ce mod n'est pas nécessaire si vous avez l'intention d'installer le mod <a href=\"#jarlsbgtadventurepack\">Jarl’s BGT Adventure Pack</a>."
+   "Ce mod n'est pas nécessaire si vous avez l'intention d'installer le mod <a href=\"#jarls-bgt-adventure-pack\">Jarl’s BGT Adventure Pack</a>."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -13914,7 +13896,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il s'agit d'un mod override qui écrase le fichier DUALCLAS.2da et ne peut pas être désinstallé. Préférez-lui le composant \"Options de jumelage étendues\" de <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il s'agit d'un mod override qui écrase le fichier DUALCLAS.2da et ne peut pas être désinstallé. Préférez-lui le composant \"Options de jumelage étendues\" de <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": false,
   "translation_state": null,
@@ -14179,7 +14161,7 @@
    "Raphaël Mizrahi"
   ],
   "warnings": [
-   "Ce mod est obsolète depuis qu'il a été intégré dans le <a href=\"#questpack\">Quest Pack</a> de PPG."
+   "Ce mod est obsolète depuis qu'il a été intégré dans le <a href=\"#quest-pack\">Quest Pack</a> de PPG."
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -16338,7 +16320,7 @@
   ],
   "team": [],
   "warnings": [
-   "Ce mod est devenu obsolète depuis son intégration dans <a href=\"#ppe\">Portraits Portraits Everywhere (PPE)</a>."
+   "Ce mod est devenu obsolète depuis son intégration dans <a href=\"#portraits-portraits-everywhere-ppe\">Portraits Portraits Everywhere (PPE)</a>."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -16361,7 +16343,7 @@
   ],
   "team": [],
   "warnings": [
-   "Ce mod est devenu obsolète depuis son intégration dans <a href=\"#ppe\">Portraits Portraits Everywhere (PPE)</a>."
+   "Ce mod est devenu obsolète depuis son intégration dans <a href=\"#portraits-portraits-everywhere-ppe\">Portraits Portraits Everywhere (PPE)</a>."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -16383,7 +16365,7 @@
   ],
   "team": [],
   "warnings": [
-   "Ce mod est devenu obsolète depuis son intégration dans <a href=\"#ppe\">Portraits Portraits Everywhere (PPE)</a>."
+   "Ce mod est devenu obsolète depuis son intégration dans <a href=\"#portraits-portraits-everywhere-ppe\">Portraits Portraits Everywhere (PPE)</a>."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -16461,7 +16443,7 @@
   ],
   "team": [],
   "warnings": [
-   "Cependant, comme ce mod est très ancien, préférez-lui d'autres plus récents et plus performants comme le mod <a href=\"#difficultyandtweaks\">Difficulty and Tweaks</a>, sa version révisée et compatible avec les jeux EE, ou <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Cependant, comme ce mod est très ancien, préférez-lui d'autres plus récents et plus performants comme le <a href=\"#difficulty-and-tweaks-mod\">Difficulty and Tweaks mod</a>, sa version révisée et compatible avec les jeux EE, ou <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -16546,7 +16528,7 @@
   ],
   "team": [],
   "warnings": [
-   "Ce mod est en espagnol et il écrase de nombreux fichiers du jeu. Comme de plus, il est très vieux et plus maintenu depuis des lustres, utilisez plutôt des mods plus récents comme <a href=\"#stratagems\">Stratagems</a>."
+   "Ce mod est en espagnol et il écrase de nombreux fichiers du jeu. Comme de plus, il est très vieux et plus maintenu depuis des lustres, utilisez plutôt des mods plus récents comme <a href=\"#sword-coast-stratagems\">Sword Coast Stratagems</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -16678,32 +16660,6 @@
   "language": null
  },
  {
-  "name": "Monastic Orders of Faerun",
-  "description": "Ce mod rééquilibre la progression des moines afin d'assurer leur viabilité à la fois aux niveaux bas et élevés. Il révise les trois moines existants pour les équilibrer à tous les niveaux de jeu. Il ajoute également quatre nouveaux profils de moine, inspirés de divers ordres monastiques à travers les royaumes.<br/>",
-  "urls": [
-   "https://forums.beamdog.com/discussion/18620/mod-beta-monastic-orders-of-faerun/p1",
-   "https://github.com/aquadrizzt/monasticorders/releases"
-  ],
-  "categories": [
-   "Kit",
-   "Gameplay"
-  ],
-  "games": [
-   "BGEE",
-   "SoD",
-   "EET",
-   "IWDEE"
-  ],
-  "team": [],
-  "warnings": [
-   "Mis à jour pour la dernière fois il y a 4 ans pour le patch IWD:EE 1.4, il y a de fortes chances qu'il ne soit plus compatible avec les versions récentes du jeu. À installer à vos risques et périls."
-  ],
-  "is_weidu": null,
-  "translation_state": false,
-  "safe": null,
-  "language": null
- },
- {
   "name": "Monastic Orders of Faerûn",
   "description": "Ce mod rééquilibre la progression des moines afin d'assurer leur viabilité à la fois aux niveaux bas et élevés. Il révise les trois moines existants pour les équilibrer à tous les niveaux de jeu. Il ajoute également quatre nouveaux profils de moine, inspirés de divers ordres monastiques à travers les royaumes.<br/>",
   "urls": [
@@ -16715,8 +16671,11 @@
    "Gameplay"
   ],
   "games": [
+   "BGEE",
    "BG2EE",
-   "EET"
+   "SoD",
+   "EET",
+   "IWDEE"
   ],
   "team": [],
   "warnings": [
@@ -17214,7 +17173,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#artisankits\">The Artisan's kitpack</a> du même auteur."
+   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#the-artisans-kitpack\">The Artisan's kitpack</a> du même auteur."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -17259,7 +17218,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : Il est désormais obsolète et a été remplacé par le composant \"<em>Les PNJs du groupe ne se battent pas</em>\" de <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Attention : Il est désormais obsolète et a été remplacé par le composant \"<em>Les PNJs du groupe ne se battent pas</em>\" de <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -17974,7 +17933,7 @@
   ],
   "team": [],
   "warnings": [
-   "Malheureusement, la qualité de ce mod laisse à désirer. De son propre aveu, il n'en est pas fier. Préférez-lui d'autres mods, ou tout simplement les composants de <a href=\"#anthology\">Tweaks Anthology</a> qui suppriment les restrictions raciales.",
+   "Malheureusement, la qualité de ce mod laisse à désirer. De son propre aveu, il n'en est pas fier. Préférez-lui d'autres mods, ou tout simplement les composants de <a href=\"#tweaks-anthology\">Tweaks Anthology</a> qui suppriment les restrictions raciales.",
    "Malheureusement, la qualité de ce mod laisse à désirer. De son propre aveu, il n'en est pas fier. Préférez-lui d'autres mods."
   ],
   "is_weidu": null,
@@ -17997,7 +17956,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il s'agit d'un mod override. À éviter autant que possible. Lui préférer des mods plus sophistiqués comme <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il s'agit d'un mod override. À éviter autant que possible. Lui préférer des mods plus sophistiqués comme <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": false,
   "translation_state": null,
@@ -18756,7 +18715,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#artisankits\">The Artisan's kitpack</a> du même auteur."
+   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#the-artisans-kitpack\">The Artisan's kitpack</a> du même auteur."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -18905,7 +18864,7 @@
  },
  {
   "name": "Pathfinder Hit Dice",
-  "description": "Ce mini mod modifie les dés de vie des mages, sorciers, voleurs et bardes pour utiliser les valeurs de Pathfinder : 1d6 pour les mages et les sorciers, 1d8 pour les voleurs, les bardes et les disciples de dragon. Les tables de multi-classés ont ont aussi été ajustées. Nouvelles tables <a href=\"http://www.shsforums.net/index.php?app=core&amp;module=attach§ion=attach&amp;attach_id=29470\">ici</a>.<br/>\nÀ l'installation, vous avez quatre options : \"Normal Rolls\" pour les jeux non moddés, \"Average Rolls\" si vous avez installé le composant \"Higher HP on Level Up: Average Rolls\" de <a href=\"#anthology\">Tweaks Anthology</a> (résultat moyen des dés de vie modifiés), \"Maximum Rolls\" si vous avez installé le composant \"Higher HP on Level Up: Maximum Rolls\" de <a href=\"#anthology\">Tweaks Anthology</a> (jet maximum des dés de vie modifiés) et \"Ideal Average Rolls\", une option préférée par l'auteur du mod (jets de dés moyens +1).<br/>",
+  "description": "Ce mini mod modifie les dés de vie des mages, sorciers, voleurs et bardes pour utiliser les valeurs de Pathfinder : 1d6 pour les mages et les sorciers, 1d8 pour les voleurs, les bardes et les disciples de dragon. Les tables de multi-classés ont ont aussi été ajustées. Nouvelles tables <a href=\"http://www.shsforums.net/index.php?app=core&amp;module=attach§ion=attach&amp;attach_id=29470\">ici</a>.<br/>\nÀ l'installation, vous avez quatre options : \"Normal Rolls\" pour les jeux non moddés, \"Average Rolls\" si vous avez installé le composant \"Higher HP on Level Up: Average Rolls\" de <a href=\"#tweaks-anthology\">Tweaks Anthology</a> (résultat moyen des dés de vie modifiés), \"Maximum Rolls\" si vous avez installé le composant \"Higher HP on Level Up: Maximum Rolls\" de <a href=\"#tweaks-anthology\">Tweaks Anthology</a> (jet maximum des dés de vie modifiés) et \"Ideal Average Rolls\", une option préférée par l'auteur du mod (jets de dés moyens +1).<br/>",
   "urls": [
    "http://www.shsforums.net/files/file/1176-pathfinder-hit-dice/"
   ],
@@ -19139,8 +19098,8 @@
   "language": null
  },
  {
-  "name": "Planar Sphere Mod",
-  "description": "Ce mod augmente la durée de la quête de classe liée à la sphère et, donc l'intérêt de jouer un mage. Une grande quête supplémentaire ainsi que plusieurs petites et une sphère peuplée d'apprentis. À noter aussi la présence de 39 nouveaux sorts.<br/>\nN'hésitez pas à aussi installer le mini mod complémentaire <a href=\"#psreturn\">Planar Sphere Return</a> (aussi appelé Planar Sphere Teleporter) qui vous permettra de vous téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".<br/>",
+  "name": "PlanarSphere Mod",
+  "description": "Ce mod augmente la durée de la quête de classe liée à la sphère et, donc l'intérêt de jouer un mage. Une grande quête supplémentaire ainsi que plusieurs petites et une sphère peuplée d'apprentis. À noter aussi la présence de 39 nouveaux sorts.<br/>\nN'hésitez pas à aussi installer le mini mod complémentaire <a href=\"#planarsphere-return\">PlanarSphere Return</a> (aussi appelé PlanarSphere Teleporter) qui vous permettra de vous téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".<br/>",
   "urls": [
    "http://www.shsforums.net/topic/24405-planar-sphere-mod-v26a/page-5#entry514257"
   ],
@@ -19162,8 +19121,8 @@
   "language": null
  },
  {
-  "name": "Planar Sphere Teleporter",
-  "description": "Publié à l'origine sur <a href=\"http://mods.jo-ge.net/bg/index.htm\">ce site</a>, ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la <a href=\"#planarshere\">Sphère planaire</a> (et de revenir là où vous étiez), comme la capacité \"Antichambre\".<br/>",
+  "name": "PlanarSphere Return",
+  "description": "Publié à l'origine sur <a href=\"http://mods.jo-ge.net/bg/index.htm\">ce site</a>, ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la <a href=\"#sphere-planaire\">Sphère planaire</a> (et de revenir là où vous étiez), comme la capacité \"Antichambre\".<br/>",
   "urls": [
    "http://www.shsforums.net/files/file/130-planarsphere-return/",
    "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html"
@@ -20021,7 +19980,7 @@
   ],
   "warnings": [
    "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS.",
-   "Il est désormais obsolète et a été intégré dans <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il est désormais obsolète et a été intégré dans <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -20371,7 +20330,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#expclasseskits\">Expanded Classes and Kits</a> du même auteur."
+   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#expanded-classes-and-kits\">Expanded Classes and Kits</a> du même auteur."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -20520,7 +20479,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : Relieve Wizard Slayer doit être installé après <a href=\"#wsrebalance\">Wizard Slayer Rebalancing</a> !"
+   "Attention : Relieve Wizard Slayer doit être installé après <a href=\"#wizard-slayer-rebalancing\">Wizard Slayer Rebalancing</a> !"
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -20624,7 +20583,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il est désormais obsolète et a été remplacé par le composant \"<em>Repos possible partout</em>\" de <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il est désormais obsolète et a été remplacé par le composant \"<em>Repos possible partout</em>\" de <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -20888,7 +20847,7 @@
  },
  {
   "name": "Revised Battles",
-  "description": "Remix d'Improved Battles, ce mod augmente la difficulté d'un certain nombres de combats (Drizzt, Firkraag, etc...). Il ajoute par ailleurs quatre nouveaux profils de guerrier (Bâtard, Chevalier Démon, Maître d'armes et Vengeur des arcanes).<br/>\nLe composant Firkraag amélioré est incompatible avec le mod <a href=\"#superfirkraag\">Super Firkraag</a>, le composant Donjon amélioré est incompatible avec le composant Illych amélioré de <a href=\"#tactics\">Weimer's Tactics</a>.",
+  "description": "Remix d'Improved Battles, ce mod augmente la difficulté d'un certain nombres de combats (Drizzt, Firkraag, etc...). Il ajoute par ailleurs quatre nouveaux profils de guerrier (Bâtard, Chevalier Démon, Maître d'armes et Vengeur des arcanes).<br/>\nLe composant Firkraag amélioré est incompatible avec le mod <a href=\"#super-firkraag\">Super Firkraag</a>, le composant Donjon amélioré est incompatible avec le composant Illych amélioré de Weimer <a href=\"#tactics\">Tactics</a>.",
   "urls": [
    "http://www.shsforums.net/files/file/655-revised-battles-v63/"
   ],
@@ -21104,7 +21063,7 @@
   ],
   "team": [],
   "warnings": [
-   "Ce mod est obsolète depuis qu'il a été intégré dans le pack <a href=\"#kontweaks\">Konalan's Tweaks</a>."
+   "Ce mod est obsolète depuis qu'il a été intégré dans le pack <a href=\"#konalans-tweaks\">Konalan's Tweaks</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -22180,8 +22139,8 @@
   "language": null
  },
  {
-  "name": "Shar-Teel NPC (allemand)",
-  "description": "À ne pas confondre avec <a href=\"liste_mods1_bg.html#sharteelnpcsod\">Shar-Teel NPC for SoD</a>, ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG. Il ne dispose pas de beaucoup de contenu.<br/>",
+  "name": "Shar-Teel NPC",
+  "description": "À ne pas confondre avec <a href=\"#shar-teel-npc-for-sod\">Shar-Teel NPC for SoD</a>, ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG. Il ne dispose pas de beaucoup de contenu.<br/>",
   "urls": [],
   "categories": [
    "PNJ recrutable",
@@ -22202,7 +22161,7 @@
  },
  {
   "name": "Shar-Teel NPC for SoD",
-  "description": "À ne pas confondre avec <a href=\"liste_mods1_bg2.html#sharteelnpc\">Shar-Teel NPC</a>, ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.<br/>\nElle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ.<br/>\nGardez à l'esprit que ce mod est encore en développement.",
+  "description": "À ne pas confondre avec <a href=\"#shar-teel-npc\">Shar-Teel NPC</a>, ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.<br/>\nElle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ.<br/>\nGardez à l'esprit que ce mod est encore en développement.",
   "urls": [
    "http://www.shsforums.net/files/file/1164-sharteel-npc-mod-for-sod/"
   ],
@@ -22888,7 +22847,7 @@
  },
  {
   "name": "Slightly Improved Ilyich",
-  "description": "Lassé(e) de combattre ce groupe de duergars décidément trop facile pour vos gros bras ou vos sortilèges destructeurs - malgré le fait que vous n'en ayez qu'assez peu au début du jeu ? Mais le composant Illych amélioré de <a href=\"#tactics\">Weimer's Tactics</a> vous a déjà fait arracher tous les cheveux qu'il vous restait - ayant déjà arraché la première moitié en essayant d'installer correctement votre interminable liste de mods ? Alors, ce mod vous plaira probablement ! Il améliore les duergars de la prison d'Irenicus, sans toutefois les rendre invincibles... Notez qu'il ajoute également quelques autres petites choses ; elles sont listées dans le readme comme d'habitude.",
+  "description": "Lassé(e) de combattre ce groupe de duergars décidément trop facile pour vos gros bras ou vos sortilèges destructeurs - malgré le fait que vous n'en ayez qu'assez peu au début du jeu ? Mais le composant Illych amélioré de Weimer <a href=\"#tactics\">Tactics</a> vous a déjà fait arracher tous les cheveux qu'il vous restait - ayant déjà arraché la première moitié en essayant d'installer correctement votre interminable liste de mods ? Alors, ce mod vous plaira probablement ! Il améliore les duergars de la prison d'Irenicus, sans toutefois les rendre invincibles... Notez qu'il ajoute également quelques autres petites choses ; elles sont listées dans le readme comme d'habitude.",
   "urls": [
    "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=178"
   ],
@@ -23091,7 +23050,7 @@
  },
  {
   "name": "Sorcerer's Place Collection",
-  "description": "Ce mod ajoute six nouveaux profils (Mystique sylvain, Maître-Lame, Chevalier de la mort, Ninja Wushi, Archer de Sylvanus, Poing des arcanes), ainsi que de nouveaux objets (<a href=\"liste_mods1_bg2.html#creslynitems\">Creslyn's BG2 Item Pack</a>) dans des magasins déjà existants. Tous ces éléments proviennent de packs d'objets et de profils publiés sur le site Sorcerer's Place convertis au format WeiDU pour faciliter leur installation.<br/>",
+  "description": "Ce mod ajoute six nouveaux profils (Mystique sylvain, Maître-Lame, Chevalier de la mort, Ninja Wushi, Archer de Sylvanus, Poing des arcanes), ainsi que de nouveaux objets (<a href=\"#creslyns-bg2-custom-items\">Creslyn's BG2 Custom Items</a>) dans des magasins déjà existants. Tous ces éléments proviennent de packs d'objets et de profils publiés sur le site Sorcerer's Place convertis au format WeiDU pour faciliter leur installation.<br/>",
   "urls": [
    "https://www.gibberlings3.net/files/file/887-sp-collection/",
    "https://github.com/gibberlings3/sp_collection/releases"
@@ -23337,7 +23296,7 @@
   ],
   "team": [],
   "warnings": [
-   "Ce mod override est désormais obsolète. Préférez-lui le composant \"Autoriser le lancement des sorts profanes en armure\" du mod <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Ce mod override est désormais obsolète. Préférez-lui le composant \"Autoriser le lancement des sorts profanes en armure\" du mod <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": false,
   "translation_state": null,
@@ -23367,7 +23326,7 @@
  },
  {
   "name": "Spirit Hunter Kit",
-  "description": "Ce mod ajoute un nouveau profil de chaman. À parts égales chaman et chasseur, c'est un tireur d'élite hors pair qui peut utiliser sa danse chamanique pour invoquer un esprit chien pour l'aider à chasser. À terme, il devrait faire partie du projet plus ambitieux <a href=\"#ulbshamanpack\">Ulb's Shaman Package</a>.",
+  "description": "Ce mod ajoute un nouveau profil de chaman. À parts égales chaman et chasseur, c'est un tireur d'élite hors pair qui peut utiliser sa danse chamanique pour invoquer un esprit chien pour l'aider à chasser. À terme, il devrait faire partie du projet plus ambitieux <a href=\"#ulbs-shaman-package\">Ulb's Shaman Package</a>.",
   "urls": [
    "https://github.com/thisisulb/spirithuntershamankit"
   ],
@@ -23525,9 +23484,7 @@
   ],
   "team": [],
   "warnings": [
-   "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod <a href=\"#aurora\">Aurora's Shoes and Boots</a>.",
-   "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod <a href=\"liste_mods1_bg2.html#aurora\">Aurora's Shoes and Boots</a>.",
-   "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod <a href=\"liste_mods2_bg2.html#aurora\">Aurora's Shoes and Boots</a>."
+   "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod <a href=\"#auroras-shoes-and-boots\">Aurora's Shoes and Boots</a>."
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -23555,7 +23512,7 @@
  },
  {
   "name": "Storm Caller",
-  "description": "Ce mod permet de jouer un nouveau profil de personnage, un chaman maîtrisant le pouvoir de la tempête. Avec leur capacité à évoquer de terribles tempêtes et à invoquer des éclairs sur leurs adversaires, ces chamanes sont de puissants ennemis et alliés, même s'ils connaissent moins les voies du monde des esprits que les autres de leur espèce. Leur danse chamanique ne convoque pas d'esprits, mais des éclairs du plan élémentaire de l'air qu'ils lancent sur leurs ennemis.<br/>\nÀ terme, il devrait faire partie du projet plus ambitieux <a href=\"#ulbshamanpack\">Ulb's Shaman Package</a>.",
+  "description": "Ce mod permet de jouer un nouveau profil de personnage, un chaman maîtrisant le pouvoir de la tempête. Avec leur capacité à évoquer de terribles tempêtes et à invoquer des éclairs sur leurs adversaires, ces chamanes sont de puissants ennemis et alliés, même s'ils connaissent moins les voies du monde des esprits que les autres de leur espèce. Leur danse chamanique ne convoque pas d'esprits, mais des éclairs du plan élémentaire de l'air qu'ils lancent sur leurs ennemis.<br/>\nÀ terme, il devrait faire partie du projet plus ambitieux <a href=\"#ulbs-shaman-package\">Ulb's Shaman Package</a>.",
   "urls": [
    "https://forums.beamdog.com/discussion/55695/ulbs-shaman-package-new-kits-new-items-and-more-wip-updated-08-02-2017/p1",
    "https://github.com/thisisulb/stormcallerkit"
@@ -23578,7 +23535,7 @@
  },
  {
   "name": "Storm Caller Kit",
-  "description": "Ce mod permet de jouer un nouveau profil de personnage, un chaman maîtrisant le pouvoir de la tempête. Avec leur capacité à évoquer de terribles tempêtes et à invoquer des éclairs sur leurs adversaires, ces chamanes sont de puissants ennemis et alliés, même s'ils connaissent moins les voies du monde des esprits que les autres de leur espèce. Leur danse chamanique ne convoque pas d'esprits, mais des éclairs du plan élémentaire de l'air qu'ils lancent sur leurs ennemis.<br/>\nÀ terme, il devrait faire partie du projet plus ambitieux <a href=\"#ulbshamanpack\">Ulb's Shaman Package</a>.",
+  "description": "Ce mod permet de jouer un nouveau profil de personnage, un chaman maîtrisant le pouvoir de la tempête. Avec leur capacité à évoquer de terribles tempêtes et à invoquer des éclairs sur leurs adversaires, ces chamanes sont de puissants ennemis et alliés, même s'ils connaissent moins les voies du monde des esprits que les autres de leur espèce. Leur danse chamanique ne convoque pas d'esprits, mais des éclairs du plan élémentaire de l'air qu'ils lancent sur leurs ennemis.<br/>\nÀ terme, il devrait faire partie du projet plus ambitieux <a href=\"#ulbs-shaman-package\">Ulb's Shaman Package</a>.",
   "urls": [
    "https://forums.beamdog.com/discussion/55695/ulbs-shaman-package-new-kits-new-items-and-more-wip-updated-08-02-2017/p1",
    "https://github.com/thisisulb/stormcallerkit"
@@ -23925,7 +23882,7 @@
   "language": null
  },
  {
-  "name": "Sword Coast Stratagems(ou Stratagems tout court)",
+  "name": "Sword Coast Stratagems",
   "description": "Ce mod ajoute de nombreuses difficultés dans le jeu en rendant les adversaires plus intelligents, aussi bien les boss de fin de chapitre que le simple grouilleux, notamment par la gestion de l'intelligence de groupe. Il modifie également le comportement de certains sortilèges et comprend quelques ajustements cosmétiques ou de confort. Ce mod rend le jeu réellement plus difficile, soyez donc prêts... Ses environ 130 composants sont tous optionnels.<br/>\nDepuis la version 22, les mods SCS et SCSII sont regroupés au sein du même mod, compatible avec BGII, BGT, BG1Tutu, ainsi que BG:EE et BG2:EE.",
   "urls": [
    "https://www.gibberlings3.net/files/file/914-sword-coast-stratagems/",
@@ -25071,7 +25028,7 @@
   ],
   "team": [],
   "warnings": [
-   "Ce mod est désormais obsolète et a été intégré dans le pack <a href=\"#kontweaks\">Konalan's Tweaks</a>."
+   "Ce mod est désormais obsolète et a été intégré dans le pack <a href=\"#konalans-tweaks\">Konalan's Tweaks</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -26290,7 +26247,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : Ce mod nécessite l'installation du mod <a href=\"#geomantic\">Geomantic Sorcerer kit</a>."
+   "Attention : Ce mod nécessite l'installation du mod <a href=\"#geomantic-sorcerer-kit\">Geomantic Sorcerer kit</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -26368,7 +26325,7 @@
  },
  {
   "name": "TobEx Afterlife",
-  "description": "Il s'agit d'une version personnalisée de TobEx v26/v28 tirée du mod <a href=\"#improvedgui\">BG2 Improved GUI</a> d'Insomniator, mais qui n'active que les corrections et ajustements de TobEx.<br/>\nMême s'il n'est pas incompatible avec ToBEx puisqu'il s'installe parfaitement après TobEX, préférez-lui le mod BG2 Improved GUI qui installe une version complète de ce patch.",
+  "description": "Il s'agit d'une version personnalisée de TobEx v26/v28 tirée du mod <a href=\"#bg2-improved-gui\">BG2 Improved GUI</a> d'Insomniator, mais qui n'active que les corrections et ajustements de TobEx.<br/>\nMême s'il n'est pas incompatible avec ToBEx puisqu'il s'installe parfaitement après TobEX, préférez-lui le mod BG2 Improved GUI qui installe une version complète de ce patch.",
   "urls": [
    "http://www.shsforums.net/files/file/1274-tobex-afterlife/",
    "https://github.com/spellholdstudios/tobex_afterlife/releases"
@@ -26811,7 +26768,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#artisankits\">The Artisan's kitpack</a> du même auteur."
+   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#the-artisans-kitpack\">The Artisan's kitpack</a> du même auteur."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -26970,7 +26927,7 @@
   ],
   "team": [],
   "warnings": [
-   "Ce mod a été rendu complètement obsolète par <a href=\"#stratagems\">Stratagems</a>"
+   "Ce mod a été rendu complètement obsolète par <a href=\"#sword-coast-stratagems\">Sword Coast Stratagems</a>"
   ],
   "is_weidu": null,
   "translation_state": null,
@@ -26989,7 +26946,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il est désormais obsolète, car il a été inclus dans le BG2 Tweaks pack, lui-même remplacé par <a href=\"#anthology\">Tweaks Anthology</a>."
+   "Il est désormais obsolète, car il a été inclus dans le BG2 Tweaks pack, lui-même remplacé par <a href=\"#tweaks-anthology\">Tweaks Anthology</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -27049,7 +27006,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il est désormais obsolète car il a été inclus dans le mod <a href=\"#morrowgate\">Morrow Gate</a>."
+   "Il est désormais obsolète car il a été inclus dans le mod <a href=\"#morrow-gate\">Morrow Gate</a>."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -27108,7 +27065,7 @@
   "language": null
  },
  {
-  "name": "Ulb's Shaman Package (WIP)",
+  "name": "Ulb's Shaman Package",
   "description": "Il s'agit d'un projet ambitieux mené par Ulb qui prévoit de regrouper tous ses mods de profils de chamanes dans un seul module. Il est toujours en cours d'écriture.",
   "urls": [
    "https://forums.beamdog.com/discussion/55695/ulbs-shaman-package-new-kits-new-items-and-more-wip-updated-08-02-2017/p1"
@@ -27128,7 +27085,7 @@
   "warnings": [],
   "is_weidu": null,
   "translation_state": false,
-  "safe": true,
+  "safe": null,
   "language": null
  },
  {
@@ -27327,7 +27284,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il est obsolète depuis qu'il a été inclus dans le mod <a href=\"#ihateundead\">I Hate Undead</a> du même auteur."
+   "Il est obsolète depuis qu'il a été inclus dans le mod <a href=\"#i-hate-undead\">I Hate Undead</a> du même auteur."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -27528,7 +27485,7 @@
    "Graoumf"
   ],
   "warnings": [
-   "Ce mod est désormais obsolète. Préférez-lui le composant \"Récipients uniques\" du mod <a href=\"#anthology\">Tweaks Anthology</a>, qui, de plus, est compatible avec les jeux EE !"
+   "Ce mod est désormais obsolète. Préférez-lui le composant \"Récipients uniques\" du mod <a href=\"#tweaks-anthology\">Tweaks Anthology</a>, qui, de plus, est compatible avec les jeux EE !"
   ],
   "is_weidu": null,
   "translation_state": true,
@@ -27554,7 +27511,7 @@
   ],
   "team": [],
   "warnings": [
-   "Il a été rendu obsolète par la sortie de <a href=\"#imparcher\">Improved Archer</a> d'Argent77."
+   "Il a été rendu obsolète par la sortie de <a href=\"#improved-archer\">Improved Archer</a> d'Argent77."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -28310,7 +28267,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#expclasseskits\">Expanded Classes and Kits</a> du même auteur."
+   "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod <a href=\"#expanded-classes-and-kits\">Expanded Classes and Kits</a> du même auteur."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -28336,7 +28293,7 @@
   ],
   "team": [],
   "warnings": [
-   "Attention : il est obsolète depuis qu'il a été inclus dans le mod <a href=\"#artisankits\">The Artisan's kitpack</a> du même auteur."
+   "Attention : il est obsolète depuis qu'il a été inclus dans le mod <a href=\"#the-artisans-kitpack\">The Artisan's kitpack</a> du même auteur."
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -28836,7 +28793,7 @@
   ],
   "team": [],
   "warnings": [
-   "Mis à jour pour la dernière fois en 2015, il n'est certainement plus compatible avec les versions récentes du jeu. À installer à vos risques et périls. Heureusement pour vous, il existe une alternative beaucoup plus récente et plus complète : le mod <a href=\"#chaossorcerer\">Chaos Sorcerer Kit</a>"
+   "Mis à jour pour la dernière fois en 2015, il n'est certainement plus compatible avec les versions récentes du jeu. À installer à vos risques et périls. Heureusement pour vous, il existe une alternative beaucoup plus récente et plus complète : le mod <a href=\"#chaos-sorcerer-kit\">Chaos Sorcerer Kit</a>"
   ],
   "is_weidu": null,
   "translation_state": false,
@@ -29638,7 +29595,7 @@
  },
  {
   "name": "jmerry's Tweak Collection",
-  "description": "Il s'agit d'une compilation de corrections et d'ajustements des règles du jeu. Ce mod modifie aussi légèrement une petite partie du contenu (comme le composant Noober's Game qui propose un dialogue avec Neeber dans Les Fosses sombres 2. Attention ce dialogue est un des plus longs et des plus complexes du jeu, vous êtes prévenu !).<br/>\nL'auteur du mod s'est efforcé de ne peux interférer avec les composants de <a href=\"#anthology\">Tweaks Anthology</a>.",
+  "description": "Il s'agit d'une compilation de corrections et d'ajustements des règles du jeu. Ce mod modifie aussi légèrement une petite partie du contenu (comme le composant Noober's Game qui propose un dialogue avec Neeber dans Les Fosses sombres 2. Attention ce dialogue est un des plus longs et des plus complexes du jeu, vous êtes prévenu !).<br/>\nL'auteur du mod s'est efforcé de ne peux interférer avec les composants de <a href=\"#tweaks-anthology\">Tweaks Anthology</a>.",
   "urls": [
    "https://www.gibberlings3.net/forums/topic/34110-jmerrys-tweak-collection",
    "https://forums.beamdog.com/discussion/83360/mod-jmerrys-tweak-collection/p1"
