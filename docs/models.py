@@ -68,10 +68,6 @@ class Mod:
         return [Url(url) for url in self.urls]
 
     @property
-    def ordered_games(self) -> list:
-        return sorted(self.games)
-
-    @property
     def icons(self) -> List[Icon]:
         icons = list()
         for attr, data_icons in attrs_icon_data.items():
