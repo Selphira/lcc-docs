@@ -238,7 +238,7 @@
         "name": "AC's Miscellaneous Tweaks",
         "description": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si 1PP est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur.<br/>",
         "urls": [
-            "http://www.shsforums.net/topic/61094-acs-miscellaneous-tweaks/",
+            "http://www.shsforums.net/topic/61629-acs-miscellaneous-tweaks/",
             "https://github.com/SpellholdStudios/AC-Miscellaneous-Tweaks/releases"
         ],
         "categories": [
@@ -3154,7 +3154,7 @@
         "description": "Basé sur le composant \"Créer des ennemis aléatoires en fonction du niveau (style Tutu)\" du mod BGT Tweak, ce mod modifie le système par défaut de l'apparition aléatoire des créatures dans les zones de la Côté des Épées en en faisant évoluer la difficulté en fonction du niveau moyen du groupe. Chaque point d'apparition engendrera des groupes de 1 à 6 créatures, selon le niveau du groupe et la force des créatures. L'utilisateur peut sélectionner l'intervalle de temps entre les apparitions (de 4 heures à 1000 jours) ainsi que la probabilité qu'un déclenchement d'un point de rencontre aléatoire entraîne le peuplement de ce point.<br/>",
         "urls": [
             "https://forums.beamdog.com/discussion/34840/bgee-leveled-spawns-mod-v0-3-updated-2014-12-27/p1",
-            "https://github.com/AstroBryGuy/BGEESpawn/releases"
+            "https://github.com/GraionDilach/BGEESpawn/releases"
         ],
         "categories": [
             "Gameplay"
@@ -5257,7 +5257,7 @@
         "description": "Créé par Misdrhaal, ce mod ajoute un nouveau profil de guerrier destiné aux elfes, une sorte de guerrier/mage/clerc spécial... Deratiseur l'a converti au format WeiDU, ce qui le rend largement plus compatible avec la plupart des mods récents, et il n'écrase plus le dialog.tlk à l'installation.<br/>\nNote : ce profil porte le nom de Bladesinger en anglais.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24080-mods-crees-kit-chantelame-v6.html",
-            "https://www.mediafire.com/file/tdc9m8bb732h3fo/Chantelame_v7.zip/file"
+            "https://www.mediafire.com/file/ak5k1s7ty5hj3av/Chantelame_v7.1.zip/file"
         ],
         "categories": [
             "Kit",
@@ -5438,7 +5438,7 @@
         "description": "Imoen a été ajoutée tardivement dans le Baldur's Gate originel. Malheureusement, cela signifie qu'elle n'a pas de dialogue ou d'interaction avec les autres personnages. Ses répliques audio sont également limitées. Ce mod ajoute à Imoen des répliques audio en piochant dans les fichiers de BG1 et de BG2, ainsi que des dialogues avec les autres personnages recrutables. Il possède également un composant permettant de changer le portrait d'Imoen pour celui de BG1, de SoD ou de BG2.",
         "urls": [
             "https://forums.beamdog.com/discussion/51443/chatty-imoen-v1-3/p1",
-            "https://github.com/AstroBryGuy/ChattyImoen/releases"
+            "https://github.com/The-Gate-Project/ChattyImoen/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -13580,7 +13580,7 @@
         "description": "Comme Heidi Shannon (la voix originale de Jaheira) n'était pas joignable pour Siege of Dragonspear, Beamdog avait initialement choisi une nouvelle actrice pour le rôle. Finalement, ils ont décidé que la voix de la nouvelle actrice ne fonctionnait pas et ont laissé les lignes de Jaheira sans voix et avec son soundset original de BG1. Cependant, la plupart des lignes vocales de Jaheira et la quasi-totalité de son soundset sont inclus dans les fichiers SoD. Ce mod reconnecte donc ces fichiers aux lignes de dialogue et met à jour le soundset de Jaheira. Il comprend quatre composants :<br/>\n- Restauration du nouveau soundset de SoD.<br/>\n- Utilisation des soundsets de BG1 et de BG2 : ce composant conserve le soundset original de BG1 original, mais le complète avec des sons de BG2 pour les sons manquant dans le soundset de BG1 (par exemple, le son \"SPELL_FAILED\").<br/>\n- Voix des dialogues : ce composant ajoute les lignes vocales disponibles dans les dialogues de Jaheira (environ 100 lignes de dialogues/banter).<br/>\n- Donner à Jaheira son portrait de BG2 pour BG:EE et SoD.",
         "urls": [
             "https://forums.beamdog.com/discussion/52633/jaheira-recast-v3-0/p1",
-            "https://github.com/AstroBryGuy/JaheiraRecast/releases"
+            "https://github.com/The-Gate-Project/JaheiraRecast/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -17270,7 +17270,7 @@
         "description": "",
         "urls": [
             "https://forums.beamdog.com/discussion/68547/npc-bodies-a-death-and-resurrection-overhaul-for-eet",
-            "https://github.com/Transflux24/NPC-Bodies"
+            "https://www.gibberlings3.net/forums/topic/28385-npc-bodies/"
         ],
         "categories": [
             "Gameplay"
@@ -17554,7 +17554,7 @@
         "name": "Neera Banters",
         "description": "Souhaitez-vous que Neera interagisse davantage avec ses compagnons dans BG:EE ? Alors ce module est fait pour vous ! Il ajoute des interactions entre Neera et les autres PNJ recrutables ou non de BG:EE.<br/>\nAucun contenu n'a été ajouté pour la campagne SoD, mais le mod est compatible avec SoD.",
         "urls": [
-            "https://github.com/AstroBryGuy/NeeraBanters/releases"
+            "https://github.com/The-Gate-Project/NeeraBanters/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -18030,7 +18030,8 @@
         "name": "Nostalgia Pack",
         "description": "Ce mod est l'équivalent du mod 1PP pour les versions EE. Il restaure le graphisme du Baldur's Gate original dans les jeux EE :<br/>\n- les animations de personnage, ainsi que leurs silhouettes dans les écrans de personnage et d'inventaire.<br/>\n- les icônes des objets.<br/>\n- et bien d'autres détails pour les nostalgiques de BG1.",
         "urls": [
-            "http://www.shsforums.net/topic/61095-nostalgia-pack-putting-the-bg-back-in-bgee/",
+            "http://www.shsforums.net/files/file/1283-nostalgia-pack/",
+            "https://forums.beamdog.com/discussion/82532/bg-ee-bgii-ee-nostalgia-pack-putting-the-bg-back-in-bg-ee",
             "https://github.com/SpellholdStudios/Nostalgia-Pack/releases"
         ],
         "categories": [
@@ -21971,7 +21972,7 @@
         "description": "Anciennement connu sous le nom des Chroniques de Severian, Severian de Demerya est un mod PNJ français conçu et développé par Coyote. Il vous propose d'enrôler Severian Stark, un Hors-la-loi (kit de rôdeur) de race Halfshade pour vos parties de BG2 : SoA et ToB. Il existe à Féérune des hommes qui ne défendent aucune cause si ce n'est la leur, rançonnant et pillant les marchands et voyageurs osant traverser leurs forêts. Severian est un de ces hors-la-loi. La rumeur court que cette fine lame réputée serait récemment arrivée à Athkatla et séjournerait parfois à l'auberge du Bon repos, sur la Promenade de Waukyne...<br/>\nD'alignement chaotique neutre, Severian s'est fait une spécialité du maniement des armes blanches, peut se rendre invisible, et apprécie particulièrement la gente féminine. Des banters, des interjections et des items à foison, un flirtpack, une quête agrémentée de nombreux combats, une romance très tendre et plus de 6000 lignes de texte : c'est ce que vous propose Severian de Demerya depuis les tréfonds de l'Amn jusqu'au sommet du Trône de Bhaal. Attention, bien lire le Readme !<br/>",
         "urls": [
             "https://www.baldursgateworld.fr/filesmods/ModsBG/severiandedemeryav02a.rar",
-            "http://www.mediafire.com/file/cg5bopo6bzcvazu/Severian_de_Demerya_v0.3.1.zip/file"
+            "https://github.com/The-Gate-Project/Severian-de-Demerya/"
         ],
         "categories": [
             "PNJ recrutable",
@@ -22976,7 +22977,7 @@
         "name": "SoD Dialogue Banters",
         "description": "Ce mod modifie les banters (interactions) des PNJ de Siege of Dragonspear du style \"à la volée\" utilisé dans SoD au format de dialogue avec pause utilisé dans BG1 et BG2.<br/>",
         "urls": [
-            "https://github.com/AstroBryGuy/SoD-Dialog-Banters/releases"
+            "https://github.com/The-Gate-Project/SoD-Dialog-Banters"
         ],
         "categories": [
             "Gameplay"
@@ -23124,6 +23125,7 @@
         "name": "Sorcerer's Place Item Collection",
         "description": "Ce vieux mod ajoute de nombreux objets dans l'inventaire de Joluv.<br/>",
         "urls": [
+            "https://github.com/Gibberlings3/SP_Collection",
             "http://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=28057"
         ],
         "categories": [
