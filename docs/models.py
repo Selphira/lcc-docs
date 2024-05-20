@@ -33,6 +33,7 @@ class Icon:
 
 
 link_regex = re.compile(r"\[\[[^].]+\]\]")
+quote_regex = re.compile(r"`[^`]+`")
 
 
 class Mod:
@@ -85,31 +86,38 @@ class Mod:
 
         return icons
 
+    def _convert_quote(self, txt: str) -> str:
+        quoted_txt = txt
+        for quote in quote_regex.findall(quoted_txt):
+            quoted_txt = quoted_txt.replace(
+                quote, f'<span class="quote">{quote.strip("`")}</span>'
+            )
+
+        return quoted_txt
+
+    def _convert_link(self, txt: str) -> str:
+        linked_txt = txt
+        for link in link_regex.findall(txt):
+            mod_name = link.strip("[] ")
+            linked_txt = linked_txt.replace(
+                link, f'<a href="#{slugify(mod_name)}">{mod_name}</a>'
+            )
+
+        return linked_txt
+
     @property
     def description(self) -> str:
-        description = self._description
-
-        for link in link_regex.finditer(description):
-            mod_name = link.group(0).strip("[] ")
-            description = description.replace(
-                link.group(0), f'<a href="#{slugify(mod_name)}">{mod_name}</a>'
-            )
-        return description
+        description = self._convert_link(self._description)
+        return self._convert_quote(description)
 
     @property
     def warnings(self) -> list:
-        warnings = self._warnings
-
-        ret = list()
-        for warning in warnings:
-            new_warning = warning
-            for link in link_regex.findall(warning):
-                mod_name = link.strip("[] ")
-                new_warning = new_warning.replace(
-                    link, f'<a href="#{slugify(mod_name)}">{mod_name}</a>'
-                )
-            ret.append(new_warning)
-        return ret
+        warnings = list()
+        for warning in self._warnings:
+            new_warning = self._convert_link(warning)
+            new_warning = self._convert_quote(new_warning)
+            warnings.append(new_warning)
+        return warnings
 
 
 class Category:

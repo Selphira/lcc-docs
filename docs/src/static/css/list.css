@@ -21,6 +21,20 @@ body {
     }
 }
 
+.warning span.quote {
+    background-color: #252222;
+    padding: 2px;
+    border: 1px solid #252222;
+    border-radius: 3px;
+}
+
+.desc span.quote {
+    background-color: #473f34;
+    padding: 2px;
+    border: 1px solid #473f34;
+    border-radius: 3px;
+}
+
 /* Ainsi on peut colorer le texte de la couleur principale de façon maintenable */
 /* TODO: les liens ont la même couleur… */
 .row.mod .warning .color-primary,
