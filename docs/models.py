@@ -32,6 +32,9 @@ class Icon:
         self.label = label
 
 
+link_regex = re.compile(r"\[\[[^].]+\]\]")
+
+
 class Mod:
     def __init__(
         self,
@@ -50,9 +53,9 @@ class Mod:
         self.name = name
         self.categories = categories
         self.urls = urls
-        self.warnings = warnings
+        self._warnings = warnings
         self.safe = safe
-        self.description = description
+        self._description = description
         self.team = team
         self.games = games
         self.translation_state = translation_state
@@ -81,6 +84,32 @@ class Mod:
             icons.append(Icon(**data_icon))
 
         return icons
+
+    @property
+    def description(self) -> str:
+        description = self._description
+
+        for link in link_regex.finditer(description):
+            mod_name = link.group(0).strip("[] ")
+            description = description.replace(
+                link.group(0), f'<a href="#{slugify(mod_name)}">{mod_name}</a>'
+            )
+        return description
+
+    @property
+    def warnings(self) -> list:
+        warnings = self._warnings
+
+        ret = list()
+        for warning in warnings:
+            new_warning = warning
+            for link in link_regex.findall(warning):
+                mod_name = link.strip("[] ")
+                new_warning = new_warning.replace(
+                    link, f'<a href="#{slugify(mod_name)}">{mod_name}</a>'
+                )
+            ret.append(new_warning)
+        return ret
 
 
 class Category:
