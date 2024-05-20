@@ -5,6 +5,13 @@ from typing import Dict
 STATIC_ROOT = os.path.join("src", "static")
 IMG_ROOT = os.path.join(STATIC_ROOT, "img")
 
+"""
+    safe: les paramètres qui font baisser la note :
+    - incompatibilités avec d'autres mods ou avec la dernière version du jeu (notamment pour les EE) ⇒ les mods override sont toujours concernés
+    - autre version plus avancée existante (présence dans un mod plus conséquent, plus maintenu ou avec une meilleure compatibilité)
+    - installation difficile
+    - mod en version bêta ou wip
+"""
 attrs_icon_data: Dict[str, Dict[tuple, Dict[str, str]]] = {
     "safe": {
         (True,): {

@@ -384,6 +384,16 @@ label {
     display: none;
 }
 
+a.discret {
+    display: block;
+    width: fit-content;
+}
+
+a.discret:visited,
+a.discret:link {
+    color: unset;
+}
+
 .table .row .name,
 .table .row .icons {
     text-align: unset;
