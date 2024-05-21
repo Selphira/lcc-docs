@@ -49,7 +49,7 @@ class Mod:
         safe,
         translation_state,
         is_weidu,
-        language,
+        languages,
     ):
         self.name = name
         self.categories = categories
@@ -61,7 +61,7 @@ class Mod:
         self.games = games
         self.translation_state = translation_state
         self.is_weidu = is_weidu
-        self.language = language
+        self.languages = languages
 
     @property
     def id(self) -> str:
