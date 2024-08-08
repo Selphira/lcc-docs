@@ -1,6 +1,8 @@
 :root {
     --color-primary: Goldenrod;
     --color-secondary: #655949;
+    --font-size-medium: 12px;
+    --font-size-large: 16px;
 }
 
 *,
@@ -190,7 +192,7 @@ label {
 }
 
 .intro {
-    font-size: large;
+    font-size: var(--font-size-large);
 }
 
 #search {
@@ -212,15 +214,18 @@ label {
     }
 }
 
+#search .search_game_items {
+    max-width: 700px;
+}
+
 #search .search_game_items,
 #search .search_category_items {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    max-width: 750px;
     list-style-type: none;
-    gap: 12px;
-    font-size: large;
+    gap: 8px;
+    font-size: var(--font-size-large);
 }
 
 #search_tranlate {
@@ -305,7 +310,7 @@ label {
 }
 
 .legend {
-    font-size: large;
+    font-size: var(--font-size-large);
     border: 1px solid var(--color-primary);
     padding-inline: 32px;
 }
@@ -329,7 +334,7 @@ label {
 }
 
 .table .category_container .category {
-    padding: 24px;
+    padding: 12px;
 }
 
 .table .category_container .category_name::after {
@@ -338,13 +343,13 @@ label {
 
 .table .row {
     display: grid;
-    grid-template-columns: minmax(15%, 250px) minmax(5%, 180px) minmax(10%, 120px) minmax(320px, 1fr) minmax(20%, 320px) minmax(3%, 60px);
+    grid-template-columns: minmax(15%, 290px) minmax(5%, 140px) minmax(10%, 120px) minmax(320px, 1fr) minmax(20%, 320px) minmax(3%, 60px);
     line-height: 150%;
     gap: 2px 6px;
     align-items: center;
     border: 1px solid blanchedalmond;
     margin-bottom: 2px;
-    padding: 6px;
+    padding: 4px;
 }
 
 @media screen and (max-width: 900px) {
@@ -357,7 +362,7 @@ label {
 .table .row:first-child {
     background-color: #303030;
     font-weight: bold;
-    font-size: 18px;
+    font-size: var(--font-size-large);
     justify-items: center;
 }
 
@@ -372,8 +377,8 @@ label {
 }
 
 .table .row .title {
-    padding-inline: 10px;
-    font-size: large;
+    padding-inline: 8px;
+    font-size: var(--font-size-large);
 }
 
 .table .row.mod {
@@ -397,11 +402,12 @@ a.discret:link {
 .table .row .name,
 .table .row .icons {
     text-align: unset;
+    margin-block: 2px;
 }
 
 .table .jeu {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(6%, 80px));
+    grid-template-columns: repeat(auto-fill, minmax(6%, 60px));
     gap: 2px 1px;
 }
 
@@ -422,16 +428,21 @@ a.discret:link {
     background-color: var(--color-secondary);
     border-radius: 2px;
     margin: 0;
-    padding-block: 6px;
-    padding-inline: 12px;
-    font-size: 14px;
+    padding-block: 2px;
+    padding-inline: 4px;
+    font-size: var(--font-size-medium);
 }
 
-.table .team {
+.table .team,
+.table .team .read-more-target {
     display: grid;
     gap: 2px 1px;
     justify-items: center;
     text-align: center;
+}
+
+.table .team label {
+    font-size: var(--font-size-medium);
 }
 
 @media screen and (max-width: 900px) {
@@ -461,20 +472,20 @@ a.discret:link {
     padding-block: 6px;
     padding-inline: 12px;
     width: fit-content;
-    font-size: 14px;
+    font-size: var(--font-size-medium);
 }
 
 .table .row .desc {
     background-color: var(--color-secondary);
     border: 1px solid blanchedalmond;
     padding: 12px;
-    font-size: 14px;
+    font-size: var(--font-size-medium);
 }
 
 .table .row .warning {
     border: 1px solid var(--color-primary);
-    padding: 12px;
-    font-size: 14px;
+    padding: 8px;
+    font-size: var(--font-size-medium);
 }
 
 .table .row .warning:empty {
@@ -487,7 +498,7 @@ a.discret:link {
     justify-self: center;
     justify-items: center;
     align-items: center;
-    font-size: large;
+    font-size: var(--font-size-medium);
 }
 
 @media screen and (max-width: 900px) {
@@ -524,11 +535,11 @@ a.discret:link {
 }
 
 .read-more-state~label::before {
-    content: '▶';
+    content: '▶ ';
 }
 
 .read-more-state:checked~label::before {
-    content: '▼';
+    content: '▼ ';
 }
 
 /* ------------ *
@@ -546,7 +557,7 @@ a.discret:link {
 .infobulle:focus::after {
     /* on affiche aria-label */
     content: attr(aria-label);
-    font-size: 14px;
+    font-size: var(--font-size-medium);
     position: absolute;
     top: -3rem;
     /* on centre horizontalement */
