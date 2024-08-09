@@ -343,7 +343,7 @@ label {
 
 .table .row {
     display: grid;
-    grid-template-columns: minmax(20%, 320px) minmax(5%, 122px) minmax(5%, 120px) minmax(320px, 1fr) minmax(20%, 320px) minmax(3%, 60px);
+    grid-template-columns: minmax(20%, 320px) 122px minmax(5%, 120px) minmax(320px, 1fr) minmax(20%, 320px) minmax(3%, 60px);
     line-height: 150%;
     column-gap: 4px;
     align-items: center;
