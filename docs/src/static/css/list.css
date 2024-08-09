@@ -484,7 +484,7 @@ a.discret:link {
 
 .table .row .warning {
     border: 1px solid var(--color-primary);
-    padding: 8px;
+    padding: 4px;
     font-size: var(--font-size-medium);
 }
 
