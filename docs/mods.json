@@ -9065,8 +9065,7 @@
         "name": "Enhanced Powergaming Scripts",
         "description": "Ce mod est une collection de scripts d'IA de joueur conçus pour être utilisés dans BG:EE, BG2:EE, EET et IWD:EE. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche (\"B\"), un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[IWDification]], [[Stratagems]], [[Dark Side of the Sword Coast]], [[Song and Silence]], [[Tome & Blood]], Faith &amp; Powers, ainsi que les modifications effectuées par [[Spell Revisions Revised]] et [[Item Revisions Revised]].",
         "urls": [
-            "https://www.gibberlings3.net/mods/other/enhanced-powergaming-scripts/",
-            "https://github.com/Gibberlings3/Enhanced-Powergaming-Scripts/releases"
+            "https://www.morpheus-mart.com/enhanced-powergaming-scripts"
         ],
         "categories": [
             "Gameplay"
@@ -9082,10 +9081,17 @@
             "JohnBob"
         ],
         "warnings": [],
-        "is_weidu": null,
-        "translation_state": true,
-        "safe": true,
-        "languages": []
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en",
+            "de",
+            "po",
+            "ru",
+            "ch",
+            "sp"
+        ]
     },
     {
         "name": "Enkida's Portrait Pack",
@@ -10078,11 +10084,10 @@
         "languages": []
     },
     {
-        "name": "Forgotten Armament BETA",
-        "description": "Ce mod ajoute dans le jeu plus de 100 nouveaux objets de niveau intermédiaire, inspirés de IWD et de NWN2. Il s'efforce de s'assurer que toutes les armes, armures et objets sont représentés de manière égale et qu'il existe des choix d'utilisation adaptés pour les joueurs tout au long de la série. De plus, comme tout au long des jeux, de nombreux ennemis de niveau moyen sont mal équipés avec des armes et des armures non magiques ou magiques +1, alors que les joueurs de même niveau ont des armes et des équipements +2/+3, ce mod fournit à bon nombre de ces ennemis un équipement unique (+1/+2/+3), ce qui permettra d'améliorer les rencontres avec des ennemis correctement équipés.<br/>Plus d'infos dans le <a href=\"https://github.com/Gibberlings3/Forgotten-Armament/blob/main/README.French.md\">readme en français</a>.",
+        "name": "Forgotten Armament",
+        "description": "Ce mod ajoute dans le jeu plus de 100 nouveaux objets de niveau intermédiaire, inspirés de IWD et de NWN2. Il s'efforce de s'assurer que toutes les armes, armures et objets sont représentés de manière égale et qu'il existe des choix d'utilisation adaptés pour les joueurs tout au long de la série. De plus, comme tout au long des jeux, de nombreux ennemis de niveau moyen sont mal équipés avec des armes et des armures non magiques ou magiques +1, alors que les joueurs de même niveau ont des armes et des équipements +2/+3, ce mod fournit à bon nombre de ces ennemis un équipement unique (+1/+2/+3), ce qui permettra d'améliorer les rencontres avec des ennemis correctement équipés.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/33923-forgotten-armament-beta/",
-            "https://github.com/Gibberlings3/Forgotten-Armament/releases"
+            "https://www.morpheus-mart.com/forgotten-armament"
         ],
         "categories": [
             "Sort et objet"
@@ -10097,10 +10102,13 @@
             "JohnBob"
         ],
         "warnings": [],
-        "is_weidu": null,
-        "translation_state": true,
-        "safe": true,
-        "languages": []
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en",
+            "ch"
+        ]
     },
     {
         "name": "Foundling: Between the Shades",
@@ -16946,9 +16954,9 @@
     },
     {
         "name": "Morpheus562's Kitpack",
-        "description": "Ces kits ont des inspirations multiples afin d'inclure les sous-classes de la 5e edition ainsi que les classes de prestige de NWN2. Je voudrais souligner le travail phénoménal que Kaedrin a fait en introduisant de nombreuses classes de prestige dans NWN2 et j'emprunte à ses idées pour les intégrer dans le moteur Infinity Engine. Les kits mentionnés ci-dessous sont entièrement fonctionnels et de nouveaux kits sont actuellement en cours de développement.<br/><br/><a href=\"https://github.com/Gibberlings3/Morpheus562-s-Kitpack/blob/main/README.French.md\">Voir le readme pour le détail des kits !</a>",
+        "description": "Ces kits ont des inspirations multiples afin d'inclure les sous-classes de la 5e edition ainsi que les classes de prestige de NWN2. Je voudrais souligner le travail phénoménal que Kaedrin a fait en introduisant de nombreuses classes de prestige dans NWN2 et j'emprunte à ses idées pour les intégrer dans le moteur Infinity Engine. Les kits mentionnés ci-dessous sont entièrement fonctionnels et de nouveaux kits sont actuellement en cours de développement.",
         "urls": [
-            "https://github.com/Gibberlings3/Morpheus562-s-Kitpack/releases"
+            "https://www.morpheus-mart.com/morpheus562s-kitpack"
         ],
         "categories": [
             "Kit"
@@ -16964,10 +16972,14 @@
             "JohnBob"
         ],
         "warnings": [],
-        "is_weidu": null,
-        "translation_state": true,
+        "is_weidu": true,
+        "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "ru",
+            "ch"
+        ]
     },
     {
         "name": "Morrow Gate",
@@ -22798,10 +22810,9 @@
     },
     {
         "name": "Skills and Abilities",
-        "description": "Ce mod propose une collection de modifications des capacités, des compétences martiales et des caractéristiques des classes. Certains composants nécessitent l'installation de [[EEex]] pour fonctionner. Par exemple, les bardes pourront crocheter les serrures, trouver et désarmer les pièges ; les moines crocheter les serrures, trouver et désarmer les pièges, détecter les illusions et gagner de nouvelles capacités... Un composant permet de modifier le système de compétences martiales et d'en ajouter d'autres, etc.<br/>Plus d'infos dans le <a href=\"https://github.com/Gibberlings3/Skills-and-Abilities/blob/main/README.French.md\">readme en français</a>.",
+        "description": "Ce mod propose une collection de modifications des capacités, des compétences martiales et des caractéristiques des classes. Certains composants nécessitent l'installation de [[EEex]] pour fonctionner. Par exemple, les bardes pourront crocheter les serrures, trouver et désarmer les pièges ; les moines crocheter les serrures, trouver et désarmer les pièges, détecter les illusions et gagner de nouvelles capacités... Un composant permet de modifier le système de compétences martiales et d'en ajouter d'autres, etc.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/34217-skills-and-abilities-mod-alpha-release/",
-            "https://github.com/Gibberlings3/Skills-and-Abilities/releases"
+            "https://www.morpheus-mart.com/skills-and-abilities"
         ],
         "categories": [
             "Gameplay"
@@ -22817,9 +22828,9 @@
             "JohnBob"
         ],
         "warnings": [],
-        "is_weidu": null,
-        "translation_state": true,
-        "safe": true,
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
         "languages": []
     },
     {
@@ -24202,10 +24213,10 @@
         "languages": []
     },
     {
-        "name": "Tactics-Remix",
-        "description": "Ce mod est un remix de son prédécesseur adapté pour BG2EE et EET.<br/><br/><a href=\"https://github.com/Gibberlings3/Tactics-Remix/blob/main/README.French.md\"> Voir le readme pour tout les détails...</a>",
+        "name": "Tactics Remix",
+        "description": "Ce mod est un remix de son prédécesseur [[Tactics]] adapté pour BG2EE et EET.",
         "urls": [
-            "https://github.com/Gibberlings3/Tactics-Remix/releases"
+            "https://www.morpheus-mart.com/tactics-remix"
         ],
         "categories": [
             "Gameplay"
@@ -24222,10 +24233,14 @@
             "Cocobard"
         ],
         "warnings": [],
-        "is_weidu": null,
-        "translation_state": true,
+        "is_weidu": true,
+        "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "ch",
+            "sp"
+        ]
     },
     {
         "name": "Tactics4IWD2 par Wu Min",
