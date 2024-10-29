@@ -2031,27 +2031,33 @@
         "name": "Auramaster Druid",
         "description": "Ce mod ajoute un profil de druide assez puissant qui peut utiliser l'énergie magique flottant dans la nature pour lancer des sorts plus rapidement et plus fréquemment. Il peut aussi lancer des sorts profanes et divins non disponibles pour les autres druides.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/kits/Auramaster_druid_kit.zip"
+            "http://baldur.cob-bg.pl/download/bg2/kits/Auramaster_druid_kit.zip",
+            "https://github.com/Plutonium-X/KIT_Auramaster"
         ],
         "categories": [
             "Kit"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET"
         ],
         "team": [],
         "warnings": [
-            "Ce profil a été inclus dans les dernières versions du mod [[Improved Anvil]]."
+            "Ce profil a été inclus dans les dernières versions du mod [[Improved Anvil]].",
+            "La version EE est disponible via le second lien."
         ],
         "is_weidu": true,
-        "translation_state": false,
+        "translation_state": true,
         "safe": false,
         "languages": [
             "es",
             "po",
             "en",
-            "cz"
+            "cz",
+            "fr"
         ]
     },
     {
@@ -2108,10 +2114,10 @@
     },
     {
         "name": "Auror kit for the Ranger Class",
-        "description": "Ce mod ajoute une archère unique avec une habilité exceptionnelle de contrôle de la glace et de l'hiver.<br/><span style=\"color: red;\">Nécessite une mise à jour de la traduction, v4+ qui ne contient pas la traduction française.</span><br/>En résumé, vous avez le choix : jouer la version traduite (lien GitHub) non compatible EE, ou jouer la version EE en anglais (lien SHS).",
+        "description": "Ce mod ajoute une archère unique avec une habilité exceptionnelle de contrôle de la glace et de l'hiver.",
         "urls": [
             "http://www.shsforums.net/files/file/687-auror-kit-for-the-ranger-class/",
-            "https://github.com/Jazira33/Auror-Kit/releases"
+            "https://github.com/Plutonium-X/KIT_Aurore/"
         ],
         "categories": [
             "Kit",
@@ -2128,10 +2134,11 @@
         ],
         "warnings": [],
         "is_weidu": true,
-        "translation_state": "todo",
+        "translation_state": true,
         "safe": true,
         "languages": [
-            "en"
+            "en",
+            "fr"
         ]
     },
     {
@@ -2185,7 +2192,8 @@
         "name": "Authentic Mischievous Fairy Dragon",
         "description": "Ce mod vous propose de prendre comme familier un dragon fée, un peu renforcé et surtout plus proche dans l'esprit de l'original d'AD&amp;D : il dispose d'un potentiel de farces et mauvais tours assez important. Vous allez certainement vous amuser, vos adversaires beaucoup moins... Ce familier n'apparaitra que pour un magicien chaotique bon, si bien sûr il ne possède pas encore de familier.",
         "urls": [
-            "http://www.shsforums.net/files/file/141-authentic-mischievous-fairy-dragon/"
+            "http://www.shsforums.net/files/file/141-authentic-mischievous-fairy-dragon/",
+            "https://github.com/Plutonium-X/MISC_Fairy"
         ],
         "categories": [
             "Gameplay"
@@ -2193,13 +2201,18 @@
         "games": [
             "BG2",
             "Tutu",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "team": [
-            "Le Marquis"
+            "Le Marquis",
+            "deratiseur"
         ],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "Utilisez le lien shs pour la version BG2/BGT/TuTu et le lien github pour la version BG2EE/EET."
+        ],
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -2945,7 +2958,8 @@
         "name": "BG2 Tweaks and Tricks",
         "description": "Ce mod permet de faire mille et un petits ajustements au jeu, et s'avère être le parfait complément de [[Tweaks Anthology]]. Vous pouvez rendre les familiers plus intelligents, détecter les pièges plus rapidement et permettre à vos PNJ de \"sentir\" leur présence, modifier les effets de certains objets et sorts pour les rendre plus cohérents, faire des changements aux règles, vendre vos objets sans dépréciation de prix dans les magasins, désactiver les sauvegardes automatiques dans certaines transitions, diminuer le temps de chargement des zones dans les jeux originaux (d'environ 10 à 30 % selon l'auteur), et bien d'autres choses dont vous trouverez la description <a href=\"https://github.com/BGforgeNet/bg2-tweaks-and-tricks\">ici</a>.<br/>Il fonctionne avec n'importe quel jeu IE, mais tous ses composants ne sont pas applicables à tous les jeux.",
         "urls": [
-            "https://github.com/BGforgeNet/bg2-tweaks-and-tricks/releases"
+            "https://github.com/BGforgeNet/bg2-tweaks-and-tricks/releases",
+            "https://github.com/Plutonium-X/bg2-tweaks-and-tricks"
         ],
         "categories": [
             "Gameplay"
@@ -2961,9 +2975,11 @@
             "PSTEE"
         ],
         "team": [],
-        "warnings": [],
-        "is_weidu": null,
-        "translation_state": false,
+        "warnings": [
+            "La version française est disponible via le second lien."
+        ],
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
         "languages": []
     },
@@ -5289,7 +5305,7 @@
         "description": "Créé par Misdrhaal, ce mod ajoute un nouveau profil de guerrier destiné aux elfes, une sorte de guerrier/mage/clerc spécial... Deratiseur l'a converti au format WeiDU, ce qui le rend largement plus compatible avec la plupart des mods récents, et il n'écrase plus le dialog.tlk à l'installation.<br/>Note : ce profil porte le nom de Bladesinger en anglais.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24080-mods-crees-kit-chantelame-v6.html",
-            "https://www.mediafire.com/file/ak5k1s7ty5hj3av/Chantelame_v7.1.zip/file"
+            "https://github.com/Plutonium-X/KIT_Chantelame"
         ],
         "categories": [
             "Kit"
@@ -11834,7 +11850,8 @@
         "description": "Ce mod permet de renvoyer vos compagnons chez eux ou de les faire revenir dans l'Antichambre de Throne of Bhaal, et d'avoir accès à l'épilogue de tous vos compagnons, même ceux qui ne font plus partie de votre groupe... Il permet aussi de les renvoyer sur le continent à partir de l'île de Brynnlaw, juste avant ou après l'étape de Spellhold. Un magasin est inclus (à Brynnlaw).",
         "urls": [
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=23",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html"
+            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "https://github.com/Plutonium-X/MISC_Homeward"
         ],
         "categories": [
             "Gameplay"
@@ -11846,10 +11863,13 @@
             "EET"
         ],
         "team": [
-            "La Voix 2 la Sagesse"
+            "La Voix 2 la Sagesse",
+            "deratiseur"
         ],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "Utilisez le lien pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
+        ],
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -14188,7 +14208,8 @@
         "name": "Kensai Kit Revision Mod",
         "description": "Ce mod modifie le profil de Kensaï, selon les règles du manuel des Aventures orientales (AD&amp;D 1ère édition).",
         "urls": [
-            "https://forums.beamdog.com/discussion/41836/kensai-kit-revision-mod-new-version-v2-0/p1"
+            "https://forums.beamdog.com/discussion/41836/kensai-kit-revision-mod-new-version-v2-0/p1",
+            "https://github.com/Plutonium-X/KIT_Kensai_Rev"
         ],
         "categories": [
             "Kit"
@@ -14202,11 +14223,16 @@
         "team": [
             "deratiseur"
         ],
-        "warnings": [],
-        "is_weidu": null,
-        "translation_state": "wip",
+        "warnings": [
+            "La version française est disponible via le second lien."
+        ],
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr"
+        ]
     },
     {
         "name": "Kensai Ryu's Restored Drow Innates Abilities",
@@ -16240,7 +16266,8 @@
         "name": "Mersetek le joaillier",
         "description": "Vous trouverez ce marchand d'un genre particulier dans votre Antichambre. Il vous permettra de pallier le manque de gemmes nécessaires pour la réalisation d'objets du mod Item Upgrade (de Weimer). Création originale de Kay'est.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/23998-mods-crees-mag-mersetek-le-joaillier-v1-3-1-a.html"
+            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/23998-mods-crees-mag-mersetek-le-joaillier-v1-3-1-a.html",
+            "https://github.com/Plutonium-X/SHOP_Mersetek"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -16254,7 +16281,7 @@
             "Archfiend"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -16796,7 +16823,7 @@
         "description": "Vous avez aimé le composant <em>Capacités de haut niveau du moine</em> du mod [[Oversight]] ? Alors, ce mod est pour vous.<br/>Il reprend son contenu et le rend compatible avec les jeux EE. Il remplace la table des capacités de haut niveau des moines (qui était celle des guerriers) par une autre inspirée de celles utilisées par Balthazar dans ToB : Coup d'ombre, Frappe du tigre, Poing draconique, Plus vite que la lumière, Échanger les résistances, Position solaire, Position lunaire, Position d'ombre, Pieds du vent et Second souffle.",
         "urls": [
             "https://forums.beamdog.com/discussion/33618/mod-monk-overhaul/p1",
-            "https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/33506-le-mod-monk-overhaul-est-en-francais.html"
+            "https://github.com/Plutonium-X/KIT_Moine_Rev"
         ],
         "categories": [
             "Kit",
@@ -16819,9 +16846,9 @@
             "Le composant <em>Révision du poing du moine</em>, qui modifie la table de progression de leur puissance, ne fonctionne que sur EE.",
             "Seul le second lien de téléchargement, fourni par deratiseur, contient la traduction française. Sa version est par ailleurs aussi compatible avec le jeu BG2 original."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": []
     },
     {
@@ -19170,7 +19197,8 @@
         "name": "Pirate Kit",
         "description": "Création originale d'Huxaltec, ce profil de voleur (très bien documenté et inspiré) est exclusivement réservé au personnage principal et permet d'incarner un pirate de la Côte des Épées. Un don régional, selon l'origine géographique du pirate (choisie à l'installation du kit), lui octroie certains avantages. Comme tout pirate qui se respecte, il a son propre perroquet (capable d'aller chercher des trésors aléatoires une fois par jour) et stocke son trésor dans un coffre qu'il emporte partout.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html"
+            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "https://github.com/Plutonium-X/KIT_Pirate"
         ],
         "categories": [
             "Kit",
@@ -19185,7 +19213,8 @@
             "IWDEE"
         ],
         "team": [
-            "Huxaltec"
+            "Huxaltec",
+            "deratiseur"
         ],
         "warnings": [],
         "is_weidu": null,
@@ -19243,7 +19272,8 @@
         "description": "Publié à l'origine sur <a href=\"http://mods.jo-ge.net/bg/index.htm\">ce site</a>, ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
         "urls": [
             "http://www.shsforums.net/files/file/130-planarsphere-return/",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html"
+            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "https://github.com/Plutonium-X/MISC_Planar-teleport"
         ],
         "categories": [
             "Sort et objet"
@@ -19254,12 +19284,13 @@
             "BG2EE"
         ],
         "team": [
-            "Darien"
+            "Darien",
+            "deratiseur"
         ],
         "warnings": [
             "Pour un jeu EE, utilisez la version de deratiseur (lien EE)."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -19892,7 +19923,8 @@
         "name": "Prêtre de Bhaal",
         "description": "Ce mod français créé sur <a href=\"https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12344-kit-pretre-de-bhaal-clerc.html\">LCC</a> ajoute un profil de clerc mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs, et est immunisé au poison. Il a des HLA personnalisées.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html"
+            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "https://github.com/Plutonium-X/KIT_Bhaal"
         ],
         "categories": [
             "Kit"
@@ -19909,7 +19941,7 @@
             "esprit"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -21982,7 +22014,8 @@
         "description": "Ce mod ajoute une marchande, la Dame des Mystères, adoratrice de Mystra, qui vend un manuel de magie donnant accès à une trentaine de sorts divins, dont un inédit. Seuls les lanceurs de sorts profanes peuvent en bénéficier au prix de -2 en Force et Constitution. En d'autres termes, grâce à ce mod, à vous les multi-classes sorcier/prêtre, barde/prêtre, guerrier/mage/prêtre (classe de base guerrier/mage et lecture du livre d'où un gain d'XP conséquent), kensaï/mage (clerc), ensorceleur (clerc) ou scalde (clerc), par exemple... et le très fameux guerrier/mage/voleur/prêtre. Attention cependant, il y a des restrictions : toutes les infos sont dans le readme. Vous la trouverez au nord du Marché de l'Aventurier sur la Promenade de Waukyne, et dans l'Antichambre.",
         "urls": [
             "http://www.shsforums.net/files/category/33-smm-rm/",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html"
+            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "https://github.com/Plutonium-X/KIT_Semi_Multi"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -21995,12 +22028,13 @@
             "IWDEE"
         ],
         "team": [
-            "Egrevyn"
+            "Egrevyn",
+            "deratiseur"
         ],
         "warnings": [
             "Le second lien de téléchargement, fourni par deratiseur, est compatible EE (deratiseur a en outre inclus une compatibilité avec IWD:EE et EET)."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -29844,6 +29878,33 @@
         "translation_state": true,
         "safe": true,
         "languages": [
+            "fr"
+        ]
+    },
+    {
+        "name": "Passive Warrior HLAs",
+        "description": "Ce mod vise à réduire la complexité des HLA des guerriers en les transformant en bonus passifs.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37193-passive-warrior-hlas/",
+            "https://github.com/Plutonium-X/Passive-Warrior-HLAs"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "team": [
+            "deratiseur"
+        ],
+        "warnings": [
+            "Utilisez le second lien pour la version française."
+        ],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
             "fr"
         ]
     }
