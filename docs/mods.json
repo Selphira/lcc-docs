@@ -5548,7 +5548,8 @@
         "name": "Chloe Romance",
         "description": "Ce mod ajoute une kensaï demi-déesse, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble. Un petit regard à cette demi-déesse : FOR 13, DEX 25, CON 16, INT 12, SAG 12 et CHA 14.",
         "urls": [
-            "http://www.shsforums.net/files/file/848-chloe-v15/"
+            "http://www.shsforums.net/files/file/848-chloe-v15/",
+            "https://github.com/Plutonium-X/PNJ_Chloe"
         ],
         "categories": [
             "PNJ recrutable",
@@ -5556,17 +5557,20 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "team": [
             "Miry Wolfwood",
             "Le Marquis",
-            "Magière"
+            "Magière",
+            "deratiseur"
         ],
         "warnings": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+            "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -15972,19 +15976,25 @@
         "name": "Malthis (One-Day NPC)",
         "description": "Malthis est un bretteur chaotique bon que vous pouvez trouver près de Cromwell. Il n'est pas comme les autres et porte un lourd secret. Ses caractéristiques et son alignement vont dépendre de vous. Saurez-vous l'adopter et l'aider dans sa guerre contre une sombre organisation ?<br/>Comme le site hébergeant le mod a disparu (rosenranken.org), le lien renvoie à un compte GitHub d'hébergement temporaire.",
         "urls": [
-            "https://github.com/Jazira33/Malthis-NPC/releases"
+            "https://github.com/Jazira33/Malthis-NPC/releases",
+            "https://github.com/Plutonium-X/NPC_Malthis"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BG2EE",
+            "EET"
         ],
         "team": [
-            "Garfield"
+            "Garfield",
+            "deratiseur"
         ],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "Utilisez le premier lien github pour la version BG2 et le second pour la version BG2EE/EET."
+        ],
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -20140,7 +20150,7 @@
     },
     {
         "name": "RTT Item Pack",
-        "description": "Ce mod propose 51 nouveaux objets provenant du mod Return to Trademeet, regroupés chez un seul vendeur : Ribald, au Marché de l'Aventurier. Certains objets étant assez puissants pour renvoyer l'anneau de Gaxx aux oubliettes vous seront proposés à la sortie de l'Ombreterre, dans le stock \"amélioré\" que Ribald propose moyennant un droit d'entrée.",
+        "description": "Ce mod propose 51 nouveaux objets provenant du mod [[Return to Trademeet]], regroupés chez un seul vendeur : Ribald, au Marché de l'Aventurier. Certains objets étant assez puissants pour renvoyer l'anneau de Gaxx aux oubliettes vous seront proposés à la sortie de l'Ombreterre, dans le stock \"amélioré\" que Ribald propose moyennant un droit d'entrée.",
         "urls": [
             "http://www.shsforums.net/files/file/50-return-to-trademeet-item-pack/",
             "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html"
@@ -20165,22 +20175,29 @@
     },
     {
         "name": "RTT Kit Pack",
-        "description": "Ce mod rend disponibles les 33 profils du module de conversion Return To Trademeet (module italien traduit en anglais). Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
+        "description": "Ce mod rend disponibles les 33 profils du module de conversion [[Return To Trademeet]] (module italien traduit en anglais). Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
         "urls": [
-            "http://www.shsforums.net/files/file/51-return-to-trademeet-kit-pack/"
+            "http://www.shsforums.net/files/file/51-return-to-trademeet-kit-pack/",
+            "https://github.com/Plutonium-X/KIT_RTT"
         ],
         "categories": [
             "Kit"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "team": [
-            "SkipCool"
+            "SkipCool",
+            "deratiseur"
         ],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "Quelque soit les kits que vous installez, vous DEVEZ installer le composant final.",
+            "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
+        ],
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -21043,10 +21060,11 @@
     },
     {
         "name": "Ribald's Genie",
-        "description": "Fatigués de devoir se taper la moitié de la carte aventure et de mettre une heure pour retourner au Marché de l'Aventurier pour dépenser vos deniers chèrement gagnés ? Désormais, une fois que vous lui aurez parlé cinq fois, Ribald vous donnera une flute qui vous permettra de convoquer un génie. Celui-ci pourra vous téléporter directement au Marché de l'Aventurier (ou convoquer Ribald) pour commercer, et vous ramener à votre destination d'origine si vous le souhaitez. Si vous le lui demandez, il pourra aussi faire venir d'autres marchands.<br/>Le génie ne peut malheureusement pas être invoqué durant le chapitre 5 (ni à Suldanessalar ou en Enfer). Il ne peut pas non plus être invoqué dans la prison planaire d'Haer'Dalis ou dans le plan démoniaque vers lequel la Sphère planaire vous mène.",
+        "description": "Fatigués de devoir se taper la moitié de la carte aventure et de mettre une heure pour retourner au Marché de l'Aventurier pour dépenser vos deniers chèrement gagnés ? Désormais, une fois que vous lui aurez parlé cinq fois, Ribald vous donnera une flûte qui vous permettra de convoquer un génie. Celui-ci pourra vous téléporter directement au Marché de l'Aventurier (ou convoquer Ribald) pour commercer, et vous ramener à votre destination d'origine si vous le souhaitez. Si vous le lui demandez, il pourra aussi faire venir d'autres marchands.<br/>Le génie ne peut malheureusement pas être invoqué durant le chapitre 5 (ni à Suldanessalar ou en Enfer). Il ne peut pas non plus être invoqué dans la prison planaire d'Haer'Dalis ou dans le plan démoniaque vers lequel la Sphère planaire vous mène.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/download/RGenie/Ribalds%20Genie%20V2.7.exe",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html"
+            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "https://github.com/Plutonium-X/MISC_Genie"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -21058,12 +21076,14 @@
             "EET"
         ],
         "team": [
-            "La Voix 2 la Sagesse"
+            "La Voix 2 la Sagesse",
+            "deratiseur"
         ],
         "warnings": [
-            "Pour un jeu EE, utilisez le second lien de téléchargement fourni par deratiseur."
+            "Pour un jeu EE, utilisez le second ou le troisième lien de téléchargement fourni par deratiseur.",
+            "Attention, une fois le portail ouvert vous DEVEZ l'emprunter dans le sens inverse pour le désactiver. Si vous ne le faite pas et sortez de la zone en marchant, le portail reste en place et vous ne pouvez pas en créer d'autre."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -24452,7 +24472,7 @@
         "description": "Ce mod ajoute un nouveau PNJ, une elfe sorcière issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue. ToB est indispensable pour ce mod. Rapide coup d'œil aux caractéristiques : FOR 11, DEX 19, CON 15, INT 16, SAG 14 et CHA 12.<br/>Et la nouvelle version \"Remix\", non disponible en français, mais maintenue; compatible EE, et ajoutant beaucoup de dialogues donc de contenu (près du triple par rapport à l'ancienne version 2,05g). Fourni par deratiseur, c'est le second lien qui permet de jouer l'ancienne version 2.05g en français dans BG2:EE.",
         "urls": [
             "http://america.iegmc.net/tashia/",
-            "http://www.mediafire.com/file/9oq0gimzuik3sck/Tashia_2.05g_EE.zip/file"
+            "https://github.com/Plutonium-X/NPC_Tashia"
         ],
         "categories": [
             "PNJ recrutable",
@@ -24465,15 +24485,15 @@
             "EET"
         ],
         "team": [
-            "Yoho"
+            "Yoho",
+            "deratiseur"
         ],
         "warnings": [
-            "Il existe deux versions du mod : celle-ci, la version originelle 2.05g, traduite, mais qui n'est plus maintenue depuis 2006 et suscitera probablement des incompatibilités avec d'autres mods à vos risques et périls.",
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+            "Il existe deux versions du mod : celle-ci, la version originelle 2.05g, traduite, mais qui n'est plus maintenue depuis 2006 et suscitera probablement des incompatibilités avec d'autres mods à vos risques et périls."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": []
     },
     {
