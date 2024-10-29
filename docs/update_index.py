@@ -36,6 +36,8 @@ def main(env):
     # with open("mods.yaml", "r") as f:
     #     mods = yaml.safe_load(f)
 
+    mods.sort(key=lambda x: x["name"])
+
     for category in categories:
         for mod_json in mods:
             # for mod_json in mods.values():
