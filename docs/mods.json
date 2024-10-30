@@ -1438,8 +1438,7 @@
             "http://www.shsforums.net/files/file/994-arcane-archer/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -1459,8 +1458,7 @@
             "https://forums.beamdog.com/discussion/52606/v2-0-arcane-archer-a-ranged-fighter-and-fighter-mage-kit/p1"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -3369,7 +3367,7 @@
     },
     {
         "name": "Back to Baldur's Gate",
-        "description": "Ce mod avait pour vocation de rendre les adversaires beaucoup plus forts dans Baldur's Gate (il modifiait plus de 130 créatures). Il nécessitait TotSC et le mod Dark Side of the Sword Coast.<br/>Son lien de téléchargement a disparu, et ce n'est pas forcément une mauvaise nouvelle puisque ce mod écrasait les fichiers du jeu.",
+        "description": "Ce mod avait pour vocation de rendre les adversaires beaucoup plus forts dans Baldur's Gate (il modifiait plus de 130 créatures). Il nécessitait TotSC et le mod [[Dark Side of the Sword Coast]].<br/>Son lien de téléchargement a disparu.",
         "urls": [
             "http://www.baldursgatemods.com/forums/index.php?topic=4678.0"
         ],
@@ -3380,8 +3378,10 @@
             "BG"
         ],
         "team": [],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "Ce mod écrase les fichiers du jeu."
+        ],
+        "is_weidu": false,
         "translation_state": false,
         "safe": false,
         "languages": []
@@ -5109,8 +5109,7 @@
             "https://forums.beamdog.com/discussion/36342/bg-ee-bg-ee-2-mod-card-kit-0-3v-wip-eng-pl/p1"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -5338,8 +5337,7 @@
             "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -5539,7 +5537,7 @@
     },
     {
         "name": "Chiara NPC",
-        "description": "Ce mod allemand ajoutait une guerrière dotée de capacités spéciales. Si vous l'aidez, elle peut être un atout extraordinaire pour le groupe. Si vous la laissez tomber, elle devient un ennemi imprévisible ! Vous la trouverez dans les égouts sous le quartier des temples. Contenu pour SoA et ToB.",
+        "description": "Ce mod allemand ajoute une guerrière dotée de capacités spéciales. Si vous l'aidez, elle peut être un atout extraordinaire pour le groupe. Si vous la laissez tomber, elle devient un ennemi imprévisible ! Vous la trouverez dans les égouts sous le quartier des temples. Contenu pour SoA et ToB.",
         "urls": [],
         "categories": [
             "PNJ recrutable",
@@ -8760,7 +8758,7 @@
         "languages": []
     },
     {
-        "name": "Eldricht Magic",
+        "name": "Eldritch Magic",
         "description": "Inspiré par le Manuel complet des elfes, les elfes d'Éternelle rencontre et d'autres manuels de AD&amp;D2, ce mod ajoute 15 profils dans les jeux EE : Abyssal Warrior (guerrier), Bladesinger (guerrier/mage ou barde), Collector (guerrier/mage/voleur), Eldritch Knight (guerrier/mage), Elven Minstrel (mage/voleur), Herbalist (clerc), Huntsman (guerrier/voleur), Infiltrator (guerrier/mage/voleur), Priest of Mystra (clerc/mage), Priestess of Lolth (clerc), Spellfilcher (mage/voleur), Undead Hunter (paladin), War Wizard (guerrier/mage), Wilderness Runner (rôdeur) et Windrider (guerrier).<br/>Un composant optionnel permet de porter plusieurs pierres ioniques en même temps.",
         "urls": [
             "https://forums.beamdog.com/discussion/49591/mod-eldritch-magic-bgee-bg2ee-iwdee/p1",
@@ -10239,7 +10237,7 @@
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [
             "de"
         ]
@@ -11337,7 +11335,7 @@
         ],
         "categories": [
             "Kit",
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -12039,8 +12037,7 @@
             "https://github.com/Raduziel/I-Hate-Undead-Kitpack/releases"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -12959,7 +12956,6 @@
             "https://github.com/Argent77/A7-ImprovedShamanicDance/releases"
         ],
         "categories": [
-            "Kit",
             "Gameplay"
         ],
         "games": [
@@ -13875,8 +13871,7 @@
             "https://forums.beamdog.com/discussion/18607/jkits-v6-kenshei-undead-eliminator-amazon-1-26-16/p1"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -14102,8 +14097,7 @@
             "http://www.shsforums.net/topic/31873-keenmarker-ranger-kit-for-bg2tob/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -14637,7 +14631,7 @@
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": null,
+        "safe": false,
         "languages": [
             "de"
         ]
@@ -16826,7 +16820,6 @@
             "https://github.com/Plutonium-X/KIT_Moine_Rev"
         ],
         "categories": [
-            "Kit",
             "Gameplay"
         ],
         "games": [
@@ -16858,7 +16851,6 @@
             "http://www.shsforums.net/files/file/155-monk-tweak/"
         ],
         "categories": [
-            "Kit",
             "Gameplay"
         ],
         "games": [
@@ -16867,7 +16859,7 @@
         ],
         "team": [],
         "warnings": [
-            "Malheureusement, le code n\"est pas optimisé et présente quelques bugs. À éviter tant que ce ne sera pas corrigé."
+            "Malheureusement, le code n'est pas optimisé et présente quelques bugs."
         ],
         "is_weidu": null,
         "translation_state": null,
@@ -19201,8 +19193,7 @@
             "https://github.com/Plutonium-X/KIT_Pirate"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -19217,7 +19208,7 @@
             "deratiseur"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -20622,7 +20613,6 @@
             "https://github.com/Raduziel/Relieve-Wizard-Slayer/releases"
         ],
         "categories": [
-            "Kit",
             "Gameplay"
         ],
         "games": [
@@ -20916,8 +20906,7 @@
             "http://www.shsforums.net/files/file/900-retaliator-fighter-kit-v13/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -21238,7 +21227,6 @@
             "https://github.com/FredrikLindgren/rr/archive/v4.92.zip"
         ],
         "categories": [
-            "Kit",
             "Gameplay"
         ],
         "games": [
@@ -21958,7 +21946,7 @@
         ],
         "team": [],
         "warnings": [
-            "Mis à jour pour la dernière fois en 2012, ce mod n'est plus compatible avec les versions récentes du jeu. Ne l'installez pas avant qu'il ne soit mis à jour."
+            "Mis à jour pour la dernière fois en 2012, ce mod n'est plus compatible avec les versions récentes du jeu."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -24056,8 +24044,7 @@
             "https://forums.beamdog.com/discussion/73207/mod-sword-saint/p1"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2EE",
@@ -25356,8 +25343,7 @@
             "http://iegmc.shphockey.com/racialpacks/elven_pack.rar"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -26324,8 +26310,7 @@
             "https://forums.beamdog.com/discussion/14940/mod-tiger-style-monk-kit-1-3-staff-style-release-w-descriptions-moved-from-fighter-to-monk/p1"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2EE",
@@ -27402,7 +27387,6 @@
             "https://forums.beamdog.com/discussion/65617/kit-mod-undead-hunter-revision-paladin-kit-for-iwdee-eet-bgee-and-bg2ee/p1"
         ],
         "categories": [
-            "Kit",
             "Gameplay"
         ],
         "games": [
@@ -27842,7 +27826,7 @@
         ],
         "team": [],
         "warnings": [
-            "Ce mod a disparu après avoir été été intégré comme composant du mod <a href=\"artemiustweaks\">ArtemiusI's House Rule Tweaks</a>."
+            "Ce mod a disparu après avoir été été intégré comme composant du mod [[ArtemiusI's House Rule Tweaks]]."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -28469,7 +28453,6 @@
             "https://forums.beamdog.com/discussion/62614/warrior-monk-mod-version-1-06-for-bg1-ee-final-version-i-hope/p1"
         ],
         "categories": [
-            "Kit",
             "Gameplay"
         ],
         "games": [
@@ -28626,7 +28609,7 @@
     },
     {
         "name": "Weavescale Sorcerer and Alarin NPC (WIP)",
-        "description": "Ce mod est toujours en phase de développement.",
+        "description": "",
         "urls": [
             "https://forums.beamdog.com/discussion/66640/wip-weavescale-sorcerer-kit-available-for-testing-and-alarin-npc/p1"
         ],
@@ -28638,10 +28621,12 @@
             "BGEE"
         ],
         "team": [],
-        "warnings": [],
+        "warnings": [
+            "Ce mod est toujours en phase de développement."
+        ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": []
     },
     {
@@ -28712,8 +28697,7 @@
             "http://www.shsforums.net/files/file/838-werewarrior-a-fighter-kit-for-bg2/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -28956,7 +28940,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -29007,7 +28991,7 @@
     },
     {
         "name": "Wizard Slayer Rebalancing",
-        "description": "Ce mod est largement inspiré par d'autres mods antérieurs de rééquilibrage du Tueur de magiciens, tout particulièrement \"Gray Acumen's Kit Improvements\", \"Konalan's Tweaks\", \"Ashes of Embers\" et \"Kitanya's fixes\" (par SixOfSpades). Cette version est un peu plus classique et essaie de ne pas trop s'éloigner du concept d'origine du profil. En bref, elle tente d'insister sur les points forts du Tueur de magiciens tout en ajoutant quelques uns des meilleurs traits des mods cités plus haut. Au final, le profil devrait être un peu plus équilibré et amusant à jouer, tout en restant pour l'essentiel fidèle au concept original de Bioware.<br/>Ce mod revisite donc le profil de Tueur de magiciens avec l'ajout de nouvelles capacités anti-mages, de deux nouvelles HLA (Réflexion de sorts et Fléau des Arcanes remplacent Résistance à la magie et Cri de guerre) et la possibilité de laisser votre Tueur de magiciens utiliser plus d'objets magiques que d'ordinaire.",
+        "description": "Ce mod est largement inspiré par d'autres mods antérieurs de rééquilibrage du Tueur de magiciens, tout particulièrement [[Grey Acumen's Kit Improvements]], [[Konalan's Tweaks]], [[Ashes of Embers]] et \"Kitanya's fixes\" (par SixOfSpades). Cette version est un peu plus classique et essaie de ne pas trop s'éloigner du concept d'origine du profil. En bref, elle tente d'insister sur les points forts du Tueur de magiciens tout en ajoutant quelques uns des meilleurs traits des mods cités plus haut. Au final, le profil devrait être un peu plus équilibré et amusant à jouer, tout en restant pour l'essentiel fidèle au concept original de Bioware.<br/>Ce mod revisite donc le profil de Tueur de magiciens avec l'ajout de nouvelles capacités anti-mages, de deux nouvelles HLA (Réflexion de sorts et Fléau des Arcanes remplacent Résistance à la magie et Cri de guerre) et la possibilité de laisser votre Tueur de magiciens utiliser plus d'objets magiques que d'ordinaire.",
         "urls": [
             "http://www.shsforums.net/files/file/960-wizard-slayer-rebalancing-v112-windows-version/"
         ],
@@ -29064,7 +29048,6 @@
             "http://www.mediafire.com/file/mv1nc146l23uguq/WolfLordV2.rar/file"
         ],
         "categories": [
-            "Kit",
             "Gameplay"
         ],
         "games": [
