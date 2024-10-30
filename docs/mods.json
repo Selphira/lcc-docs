@@ -612,7 +612,7 @@
     },
     {
         "name": "Ajantis BG Expansion",
-        "description": "Ce mod ajoute une romance et une voie de l'amitié avec le célèbre paladin de BG.<br/>Suivant votre type d'installation, le contenu ajouté sera différent : avec BG original, le mod ajoute la romance du BG1 NPC Project et la voie de l'amitié ; avec BGT, Tutu, BG:EE et EET, le mod ajoute la voie de l'amitié et plus de contenu pour la romance du BG1 NPC Project. Ce mod est en effet considéré comme une extension du BG1 NPC Project, mais peut être installé et joué sans lui. Dans ce cas, la voie de l'amitié est immédiatement disponible.<br/>Il existe un <a href=\"https://www.gibberlings3.net/files/file/994-ajantis-portrait-pack/\">mod complémentaire</a> proposant un certain nombre de portraits alternatifs pour Ajantis, réalisés par des membres de la communauté.",
+        "description": "Ce mod ajoute une romance et une voie de l'amitié avec le célèbre paladin de BG.<br/>Suivant votre type d'installation, le contenu ajouté sera différent : avec BG original, le mod ajoute la romance du [[BG1 NPC Project]] et la voie de l'amitié ; avec BGT, Tutu, BG:EE et EET, le mod ajoute la voie de l'amitié et plus de contenu pour la romance du [[BG1 NPC Project]]. Ce mod est en effet considéré comme une extension du [[BG1 NPC Project]], mais peut être installé et joué sans lui. Dans ce cas, la voie de l'amitié est immédiatement disponible.<br/>Il existe un <a href=\"https://www.gibberlings3.net/files/file/994-ajantis-portrait-pack/\">mod complémentaire</a> proposant un certain nombre de portraits alternatifs pour Ajantis, réalisés par des membres de la communauté.",
         "urls": [
             "https://www.gibberlings3.net/files/file/996-ajantis-bg-expansion/",
             "https://github.com/Gibberlings3/Ajantis_BG1_Expansion/releases"
@@ -639,7 +639,7 @@
     },
     {
         "name": "Ajantis NPC for BG2",
-        "description": "Avec ce mod, Ajantis, le paladin de l'Ordre du Cœur Radieux dans BG1, peut intégrer le groupe après le combat dans les Collines de Lancevent. Il comporte une romance qui poursuit celle du BG1 NPC Project (en cas de trilogie), ou toute une nouvelle, ainsi que la possibilité de développer une profonde amitié avec lui. Le mod suppose qu'Ajantis a voyagé avec le PC dans BG1 pendant un certain temps. C'est là qu'Ajantis a gagné suffisamment d'honneur pour être fait chevalier.<br/>Il existe un <a href=\"https://www.gibberlings3.net/files/file/994-ajantis-portrait-pack/\">mod complémentaire</a> proposant un certain nombre de portraits alternatifs pour Ajantis, réalisés par des membres de la communauté.",
+        "description": "Avec ce mod, Ajantis, le paladin de l'Ordre du Cœur Radieux dans BG1, peut intégrer le groupe après le combat dans les Collines de Lancevent. Il comporte une romance qui poursuit celle du [[BG1 NPC Project]] (en cas de trilogie), ou toute une nouvelle, ainsi que la possibilité de développer une profonde amitié avec lui. Le mod suppose qu'Ajantis a voyagé avec le PC dans BG1 pendant un certain temps. C'est là qu'Ajantis a gagné suffisamment d'honneur pour être fait chevalier.<br/>Il existe un <a href=\"https://www.gibberlings3.net/files/file/994-ajantis-portrait-pack/\">mod complémentaire</a> proposant un certain nombre de portraits alternatifs pour Ajantis, réalisés par des membres de la communauté.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jasteys-sir-ajantis-f%C3%BCr-bgii-npc.9/",
             "https://www.gibberlings3.net/files/file/989-ajantis-npc-for-bgii/"
@@ -911,7 +911,7 @@
     },
     {
         "name": "Almateria's Restauration Project",
-        "description": "Pouvant être également installé indépendamment d'[[Unfinished Business]], ce mod a toutefois pour vocation de restaurer du contenu non exploité par ce dernier ; dans ce sens il est donc intéressant de le coupler à Unfinished Business.",
+        "description": "Pouvant être également installé indépendamment d'[[Unfinished Business]], ce mod a toutefois pour vocation de restaurer du contenu non exploité par ce dernier ; dans ce sens il est donc intéressant de le coupler à [[Unfinished Business]].",
         "urls": [
             "http://www.shsforums.net/files/file/1053-almaterias-restoration-project/",
             "https://github.com/SpellholdStudios/Almaterias_Restoration_Project/releases"
@@ -1363,7 +1363,7 @@
     },
     {
         "name": "Apprentice",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), Arcane Fist (par Drizzt1180), Crusader (par Hansoo), Dragon Dancer (par Ripper123), Elementalist (par Daemon), Ethereal Blademaster (par Medivh), Gambler (par Gafgarion) et Undead Warrior (par Gafgarion).<br/>Celui-ci installe un profil d'expert en épées.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil d'expert en épées.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -1478,7 +1478,7 @@
     },
     {
         "name": "Arcane Fist",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), Arcane Fist (par Drizzt1180), Crusader (par Hansoo), Dragon Dancer (par Ripper123), Elementalist (par Daemon), Ethereal Blademaster (par Medivh), Gambler (par Gafgarion) et Undead Warrior (par Gafgarion).<br/>Celui-ci installe un profil de moine/mage.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), Arcane Fist (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de moine/mage.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -1670,7 +1670,7 @@
     },
     {
         "name": "Artaport",
-        "description": "Version de PaintBG pour les jeux EE, ce mod modifie certains portraits de PNJ, attribue des portraits de Artrastrophe à des PNJ qui n'en avaient pas, etc...",
+        "description": "Version de [[PaintBG]] pour les jeux EE, ce mod modifie certains portraits de PNJ, attribue des portraits de Artrastrophe à des PNJ qui n'en avaient pas, etc...",
         "urls": [
             "https://forums.beamdog.com/discussion/51904/mod-artaport-4-0/p1",
             "https://github.com/Eltamin/artaport"
@@ -2086,7 +2086,7 @@
     },
     {
         "name": "Auril's Bane (version TotL)",
-        "description": "Cet énorme mod combine les deux anciens mods Project Auril et Winter's Bane. Il ajoute un tas d'objets, de sorts et de créatures, quelques quêtes et de nouvelles fonctionnalités et correctifs.<br/>Évitez son composant \"Correction d'IWD par Grog\" en faveur de l'IWD Fixpack. Par ailleurs, le composant principal possède également sa propre version de la quête \"la Voix de Durdel Anatha\", ce qui le rend incompatible avec le composant du même nom du mod [[Unfinished Business for IWD]].<br/>Enfin, ce mod existe en deux versions, l'un pour Heart of Winter, l'autre pour [[Trials of the Luremaster]]. Seule la seconde est traduite en français.",
+        "description": "Cet énorme mod combine les deux anciens mods Project Auril et Winter's Bane. Il ajoute un tas d'objets, de sorts et de créatures, quelques quêtes et de nouvelles fonctionnalités et correctifs.<br/>Évitez son composant `Correction d'IWD par Grog` en faveur de [[Icewind Dale Fixpack]]. Par ailleurs, le composant principal possède également sa propre version de la quête \"la Voix de Durdel Anatha\", ce qui le rend incompatible avec le composant du même nom du mod [[Unfinished Business for IWD]].<br/>Enfin, ce mod existe en deux versions, l'un pour Heart of Winter, l'autre pour [[Trials of the Luremaster]]. Seule la seconde est traduite en français.",
         "urls": [
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=21",
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=20"
@@ -2434,7 +2434,7 @@
     },
     {
         "name": "BG Romantic Encounters",
-        "description": "Si vous êtes peu satisfait par les interactions disponibles dans BG1, si le BG1 NPC Project vous laisse parfois sur votre faim, ce mod devrait vous combler. C'est le pendant de son homonyme sur BG2 (Romantic Encounters).<br/>Il ajoute de nombreuses possibilités de romance passagère ou plus intense avec des personnages non recrutables du jeu, aussi bien pour les hommes que pour les femmes, avec parfois des mini-quêtes à la clé. Attention : une partie de ce mod est à contenu \"adulte\".",
+        "description": "Si vous êtes peu satisfait par les interactions disponibles dans BG1, si le [[BG1 NPC Project]] vous laisse parfois sur votre faim, ce mod devrait vous combler. C'est le pendant de son homonyme sur BG2 (Romantic Encounters).<br/>Il ajoute de nombreuses possibilités de romance passagère ou plus intense avec des personnages non recrutables du jeu, aussi bien pour les hommes que pour les femmes, avec parfois des mini-quêtes à la clé. Attention : une partie de ce mod est à contenu \"adulte\".",
         "urls": [
             "https://www.gibberlings3.net/files/file/956-romantic-encounters-bg/",
             "https://github.com/Gibberlings3/BG1_Romantic_Encounters/releases"
@@ -2588,7 +2588,7 @@
     },
     {
         "name": "BG1 NPC Project Music pack",
-        "description": "Ce mod ajoute des musiques associées aux échanges et aux romances avec les personnages du BG1 NPC Project. La version 6 est désormais officiellement compatible avec BG:EE et fonctionne toujours avec BGT et BG1Tutu. Elle propose un choix entre des versions longues (originales) ou courtes (nouvelles en v6) des musiques.",
+        "description": "Ce mod ajoute des musiques associées aux échanges et aux romances avec les personnages du [[BG1 NPC Project]]. La version 6 est désormais officiellement compatible avec BG:EE et fonctionne toujours avec BGT et BG1Tutu. Elle propose un choix entre des versions longues (originales) ou courtes (nouvelles en v6) des musiques.",
         "urls": [
             "https://www.gibberlings3.net/files/file/692-bg1-npc-project-music-pack/",
             "https://github.com/Gibberlings3/bg1npcmusic/releases"
@@ -2612,7 +2612,7 @@
     },
     {
         "name": "BG1 NPCs at Beginning",
-        "description": "Ce mod français rapproche 11 PNJ éloignés de la route directe vers Nashkel (Ajantis, Alora, Coran, Eldoth, Faldorn, Kivan, Quayle, Safana, Shar-Teel, Tiax, Viconia) pour faciliter leur recrutement au début du jeu afin de pouvoir davantage varier les équipes. Vous trouverez plus de détails <a href=\"http://www.anomaly-studios.fr/mods/bg1npcbeg/lisezmoi.html\">ici</a>.<br/>Si vous souhaitez installer BG1 NPC Project, [[Sword Coast Stratagems]] et/ou [[Tweaks Anthology]], veuillez installer ces modules avant BG1 NPCs at Beginning. Cela évitera à ce dernier de vous proposer de déplacer des PNJ qui ont déjà été déplacés par un de ces 3 mods avant lui, si vous avez choisi de le faire.",
+        "description": "Ce mod français rapproche 11 PNJ éloignés de la route directe vers Nashkel (Ajantis, Alora, Coran, Eldoth, Faldorn, Kivan, Quayle, Safana, Shar-Teel, Tiax, Viconia) pour faciliter leur recrutement au début du jeu afin de pouvoir davantage varier les équipes. Vous trouverez plus de détails <a href=\"http://www.anomaly-studios.fr/mods/bg1npcbeg/lisezmoi.html\">ici</a>.<br/>Si vous souhaitez installer [[BG1 NPC Project]], [[Sword Coast Stratagems]] et/ou [[Tweaks Anthology]], veuillez installer ces modules avant BG1 NPCs at Beginning. Cela évitera à ce dernier de vous proposer de déplacer des PNJ qui ont déjà été déplacés par un de ces 3 mods avant lui, si vous avez choisi de le faire.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/baldur-s-gate-reloaded-les-mods-tutu-et-baldur-s-gate-trilogy/25115-baldur-s-gate-trilogy-baldur-s-gate-1-npcs-begInning-v3-0-compatible-baldur-s-gate-1-baldur-s-gate-trilogy-et-baldur-s-gate-ee.html"
         ],
@@ -2927,7 +2927,7 @@
     },
     {
         "name": "BG2 Tweaks Pack",
-        "description": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, Tutu Tweak Pack et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...).<br/>Il est désormais obsolète et a été remplacé par [[Tweaks Anthology]].",
+        "description": "Ce mod compilait plusieurs autres mods : les G3 Tweak Pack, [[Tutu Tweak Pack]] et Wes Weimer's Ease of Use. Il permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances...).<br/>Il est désormais obsolète et a été remplacé par [[Tweaks Anthology]].",
         "urls": [],
         "categories": [
             "Gameplay"
@@ -3252,7 +3252,7 @@
     },
     {
         "name": "BGSpawn",
-        "description": "Ce mod propose une gestion alternative de l'apparition aléatoire des créatures dans les zones de la Côté des Épées. Il remplace les créatures aléatoires (mais figées zone par zone) par un système complètement nouveau basé sur le niveau et le nombre de membres du groupe. Vous pouvez choisir l'intervalle entre les apparitions de créatures. En option, vous pouvez aussi installer une nouvelle créature, le Seigneur Loup vampirique (repris du Loup d’Ulcaster de Sword Coast Stratagems), parmi ces créatures aléatoires.<br/><span style=\"color: red;\">Nécessite une mise à jour de la traduction.</span>",
+        "description": "Ce mod propose une gestion alternative de l'apparition aléatoire des créatures dans les zones de la Côté des Épées. Il remplace les créatures aléatoires (mais figées zone par zone) par un système complètement nouveau basé sur le niveau et le nombre de membres du groupe. Vous pouvez choisir l'intervalle entre les apparitions de créatures. En option, vous pouvez aussi installer une nouvelle créature, le Seigneur Loup vampirique (repris du Loup d’Ulcaster de [[Sword Coast Stratagems]]), parmi ces créatures aléatoires.<br/><span style=\"color: red;\">Nécessite une mise à jour de la traduction.</span>",
         "urls": [
             "http://www.shsforums.net/files/file/740-bgspawn/",
             "https://github.com/SpellholdStudios/BGSpawn/releases"
@@ -3268,7 +3268,7 @@
             "Isaya"
         ],
         "warnings": [
-            "Attention : Certains joueurs ont signalé que la combinaison de ce mod et de Sword Coast Stratagems (monstres plus intelligents) pourrait s'avérer un redoutable défi !",
+            "Attention : Certains joueurs ont signalé que la combinaison de ce mod et de [[Sword Coast Stratagems]] (monstres plus intelligents) pourrait s'avérer un redoutable défi !",
             "Si vous envisagez d'installer BGSpawn, n'installez pas le composant \"Modifier la création d'ennemis aléatoires\" de [[BGT Tweak Pack]], ni le [[BG:EE Leveled Spawns Mod]], puisque tous modifient la même chose.",
             "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
         ],
@@ -3644,7 +3644,7 @@
     },
     {
         "name": "Baldur's Gate Mini Quests and Encounters",
-        "description": "Créé par l'auteure de BG1 Slime Quest, ce mini-mod ajoute 17 petites quêtes dans le jeu pour pimenter l'aventure. Elles vous feront découvrir des à-côtés de la vie d'aventuriers, notamment du baby-sitting ! Une version révisée de Slime Quest, qui offre un petite quête à Bérégost, est intégrée à ce mod. D'après l'auteure, ces quêtes ajoutent de 30 à 60 minutes de jeu.<br/>Installez-le avant le BG1 NPC Project pour bénéficier de toutes ses options.",
+        "description": "Créé par l'auteure de BG1 Slime Quest, ce mini-mod ajoute 17 petites quêtes dans le jeu pour pimenter l'aventure. Elles vous feront découvrir des à-côtés de la vie d'aventuriers, notamment du baby-sitting ! Une version révisée de Slime Quest, qui offre un petite quête à Bérégost, est intégrée à ce mod. D'après l'auteure, ces quêtes ajoutent de 30 à 60 minutes de jeu.<br/>Installez-le avant le [[BG1 NPC Project]] pour bénéficier de toutes ses options.",
         "urls": [
             "https://www.gibberlings3.net/files/file/698-baldurs-gate-mini-quests-and-encounters/",
             "https://github.com/Gibberlings3/BG_Quests_And_Encounters/releases"
@@ -4244,7 +4244,7 @@
     },
     {
         "name": "Beyond the law",
-        "description": "Ce mod propose deux PNJ recrutables, Kiyone (rôdeuse demi-elfe loyal bon) et Kova (mage/voleuse demi-elfe chaotique bon), non-séparables (comme Kiara-Zaiya) qui ont une romance potentielle (entre eux), des banters avec tout le monde, et une très intéressante quête sur les liens entre les Cagoulés, les Voleurs de l'Ombre et le Conseil des Six, sans parler d'un tas de combats tout au long de SoA (et désormais des interjections dans la Tour de Garde et plusieurs épilogues de romance dans ToB).",
+        "description": "Ce mod propose deux PNJ recrutables, Kiyone (rôdeuse demi-elfe loyal bon) et Kova (mage/voleuse demi-elfe chaotique bon), non-séparables (comme [[Kiara-Zaiya]]) qui ont une romance potentielle (entre eux), des banters avec tout le monde, et une très intéressante quête sur les liens entre les Cagoulés, les Voleurs de l'Ombre et le Conseil des Six, sans parler d'un tas de combats tout au long de SoA (et désormais des interjections dans la Tour de Garde et plusieurs épilogues de romance dans ToB).",
         "urls": [
             "http://www.shsforums.net/files/file/26-beyond-the-law/",
             "https://github.com/SpellholdStudios/Beyond_the_Law/releases"
@@ -6244,7 +6244,7 @@
     },
     {
         "name": "Coran's BG Extended Friendship Talks",
-        "description": "Ce mod développe les échanges amicaux avec Coran, lorsque la romance n'est pas active, au travers de 18 conversations. En présence de BG1 NPC Project, ces nouvelles conversations n'auront lieu qu'après les autres.<br/>Il est compatible avec BG1 NPC Project mais fonctionne également sans.",
+        "description": "Ce mod développe les échanges amicaux avec Coran, lorsque la romance n'est pas active, au travers de 18 conversations. En présence de [[BG1 NPC Project]], ces nouvelles conversations n'auront lieu qu'après les autres.<br/>Il est compatible avec [[BG1 NPC Project]] mais fonctionne également sans.",
         "urls": [
             "https://www.gibberlings3.net/files/file/703-corans-bg-extended-friendship-talks/",
             "https://github.com/Gibberlings3/CoranBGFriend/releases"
@@ -6316,7 +6316,7 @@
     },
     {
         "name": "Correction de la traduction de BG2:EE",
-        "description": "Ce mod a pour objectif de corriger la traduction française de Baldur's Gate II : Enhanced Edition, ainsi que de proposer une version française complète digne de ce nom, aussi bien au niveau des textes que du doublage audio.<br/>Il reprend les textes, les vidéos et le doublage audio de Baldur's Gate 2 et du Mod semi-officiel de traduction partielle de BG2:EE comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB).<br/>À cela s'ajoutent des dizaines de milliers de correctifs supplémentaires des textes, du doublage audio et des bogues. Ainsi que quelques ajouts comme les ensembles de voix de BG1 en français, des répliques doublées supplémentaires, etc.<br/>Ce mod vous offre également 3 options au sujet du doublage vidéo et audio (VF / VF + VO / VO). Pour plus de précisions, consultez le <a href=\"https://r-e-d.github.io/correctfrBG2EE/correctfrbg2ee/readme/readme-correctfrbg2ee.html\">readme</a>.",
+        "description": "Ce mod a pour objectif de corriger la traduction française de Baldur's Gate II : Enhanced Edition, ainsi que de proposer une version française complète digne de ce nom, aussi bien au niveau des textes que du doublage audio.<br/>Il reprend les textes, les vidéos et le doublage audio de Baldur's Gate 2 et du [[Mod semi-officiel de traduction partielle de BG2:EE]] comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB).<br/>À cela s'ajoutent des dizaines de milliers de correctifs supplémentaires des textes, du doublage audio et des bogues. Ainsi que quelques ajouts comme les ensembles de voix de BG1 en français, des répliques doublées supplémentaires, etc.<br/>Ce mod vous offre également 3 options au sujet du doublage vidéo et audio (VF / VF + VO / VO). Pour plus de précisions, consultez le <a href=\"https://r-e-d.github.io/correctfrBG2EE/correctfrbg2ee/readme/readme-correctfrbg2ee.html\">readme</a>.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/correction-de-la-traduction-de-baldur-s-gate-ii-enhanced-edition/33428-presentation-du-mod.html",
             "https://github.com/r-e-d/correctfrBG2EE/releases"
@@ -6344,7 +6344,7 @@
     },
     {
         "name": "Correction de la traduction de BG:EE et SoD",
-        "description": "Ce mod a pour objectif de corriger la traduction française de Baldur's Gate : Enhanced Edition et extension Siege of Dragonspear, afin que de proposer une version française complète digne de ce nom, aussi bien au niveau des textes que du doublage audio.<br/>Il reprend les textes, les vidéos et le doublage audio de Baldur's Gate 1 et du Mod semi-officiel de traduction partielle de BG2:EE comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB) et le Patch correctif des erreurs de texte pour BG (et ToSC).<br/>À cela s'ajoutent des dizaines de milliers de correctifs supplémentaires des textes, du doublage audio et des bogues. Ainsi que quelques ajouts comme les ensembles de voix de BG2 en français, des répliques doublées supplémentaires, etc.<br/>Ce mod vous offre également 3 options au sujet du doublage vidéo et audio (VF / VF + VO / VO). Pour plus de précisions, consultez le <a href=\"https://github.com/r-e-d/correctfrBG1EE#readme\">readme</a>.",
+        "description": "Ce mod a pour objectif de corriger la traduction française de Baldur's Gate : Enhanced Edition et extension Siege of Dragonspear, afin que de proposer une version française complète digne de ce nom, aussi bien au niveau des textes que du doublage audio.<br/>Il reprend les textes, les vidéos et le doublage audio de Baldur's Gate 1 et du [[Mod semi-officiel de traduction partielle de BG2:EE]] comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB) et le [[Patch correctif des erreurs de texte pour BG (et ToSC)]].<br/>À cela s'ajoutent des dizaines de milliers de correctifs supplémentaires des textes, du doublage audio et des bogues. Ainsi que quelques ajouts comme les ensembles de voix de BG2 en français, des répliques doublées supplémentaires, etc.<br/>Ce mod vous offre également 3 options au sujet du doublage vidéo et audio (VF / VF + VO / VO). Pour plus de précisions, consultez le <a href=\"https://github.com/r-e-d/correctfrBG1EE#readme\">readme</a>.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33797",
             "https://github.com/r-e-d/correctfrBG1EE/releases"
@@ -6575,7 +6575,7 @@
     },
     {
         "name": "Crossmod Banter Pack for IWD",
-        "description": "Comme dans son homologue pour BG2, ce mod ajoute des dialogues entre les PNJ ajoutés par des mods (Holvir, Korin, Nella, Severn et Teri de Kulyok ; Minerva et Karihi de AionZ ; Dendjelion, Dusky, Ina, Oak-Maw, Orra, Tipps, T'viy, Urchin, L'anna et Hommet de Lava Del'Vortel), ainsi que des querelles dues à des conflits d'intérêt et de romance. L'occasion d'en apprendre un peu plus sur leur caractère, mais aussi, de voir leur réaction en cas de conflit de romance !",
+        "description": "Comme dans son homologue pour BG2, ce mod ajoute des dialogues entre les PNJ ajoutés par des mods (Holvir, Korin, Nella, Severn et Teri de Kulyok ; Minerva et Karihi de AionZ ; [[Dendjelion]], Dusky, Ina, Oak-Maw, Orra, Tipps, T'viy, Urchin, L'anna et Hommet de Lava Del'Vortel), ainsi que des querelles dues à des conflits d'intérêt et de romance. L'occasion d'en apprendre un peu plus sur leur caractère, mais aussi, de voir leur réaction en cas de conflit de romance !",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/crossmod_iwd/"
         ],
@@ -6594,7 +6594,7 @@
     },
     {
         "name": "Crusader",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), Arcane Fist (par Drizzt1180), Crusader (par Hansoo), Dragon Dancer (par Ripper123), Elementalist (par Daemon), Ethereal Blademaster (par Medivh), Gambler (par Gafgarion) et Undead Warrior (par Gafgarion).<br/>Celui-ci installe un profil de paladin.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), Crusader (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de paladin.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -7514,7 +7514,7 @@
     },
     {
         "name": "Ding0 Experience Fixer - DEF JAM",
-        "description": "Vous trouvez Baldur's Gate II trop facile, vous souhaitez plus de difficulté mais vous n'êtes pas satisfait(e) du curseur de difficulté ou des mods style Tactics ? Essayez le DEF JAM ! Ce mod vous permet de réduire la quantité d'XP initiale à la création de votre personnage, de réduire l'XP reçue pour le crochetage des serrures et désamorçage des pièges, de réduire voire annuler l'XP reçue pour l'apprentissage des sorts, de réduire l'XP de quête et enfin de réduire l'XP reçue pour les créatures tuées. Chaque réglage est indépendant et vous pouvez choisir de 100% (inchangé) à 10 %, ou une division par 6 pour un jeu en solo. À vous de choisir vos réglages préférés !",
+        "description": "Vous trouvez Baldur's Gate II trop facile, vous souhaitez plus de difficulté mais vous n'êtes pas satisfait(e) du curseur de difficulté ou des mods style [[Tactics]] ? Essayez le DEF JAM ! Ce mod vous permet de réduire la quantité d'XP initiale à la création de votre personnage, de réduire l'XP reçue pour le crochetage des serrures et désamorçage des pièges, de réduire voire annuler l'XP reçue pour l'apprentissage des sorts, de réduire l'XP de quête et enfin de réduire l'XP reçue pour les créatures tuées. Chaque réglage est indépendant et vous pouvez choisir de 100% (inchangé) à 10 %, ou une division par 6 pour un jeu en solo. À vous de choisir vos réglages préférés !",
         "urls": [
             "https://www.pocketplane.net/house-of-sim/",
             "https://github.com/Pocket-Plane-Group/D0XPmod/releases"
@@ -7826,7 +7826,7 @@
     },
     {
         "name": "Dragon Dancer",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), Arcane Fist (par Drizzt1180), Crusader (par Hansoo), Dragon Dancer (par Ripper123), Elementalist (par Daemon), Ethereal Blademaster (par Medivh), Gambler (par Gafgarion) et Undead Warrior (par Gafgarion).<br/>Celui-ci installe un profil de guerrier.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), Dragon Dancer (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de guerrier.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -8691,7 +8691,7 @@
     },
     {
         "name": "Ehlastra",
-        "description": "Ceux qui ont déjà joué à ToB se souviendront d'elle. Cette femme berserker est venue du nord pour rejoindre Yaga Shura mais a fini par être asservie et est devenue sa concubine. Vous avez peut-être souhaité l'intégrer à votre groupe pour en savoir plus sur son passé et l'histoire des Cinq. Donnez-lui une chance et elle fera tout pour être du côté des gagnants dans la guerre des descendants de Baal - de votre côté. Aidez-la à récupérer son arme puissante dans le repaire de Yaga Shura et regardez-la prendre sa revanche sur son ravisseur. Ehlastra connaît les Cinq et Mélissane.<br/>Ce mod n'est pas recommandé si vous jouez à ToB pour la première fois. Certaines de ses connaissances privilégiées sur les Cinq peuvent être considérées comme des spoilers pour les nouveaux joueurs.<br/>L'installation de Wheels of Prophecy n'est pas obligatoire, mais fortement recommandée. Son histoire gagne en profondeur si vous l'avez installé (ou Ascension) : si vous convainquez Balthazar de s'allier à vous, cela aura un impact profond sur elle, et la fera reconsidérer ses propres objectifs.",
+        "description": "Ceux qui ont déjà joué à ToB se souviendront d'elle. Cette femme berserker est venue du nord pour rejoindre Yaga Shura mais a fini par être asservie et est devenue sa concubine. Vous avez peut-être souhaité l'intégrer à votre groupe pour en savoir plus sur son passé et l'histoire des Cinq. Donnez-lui une chance et elle fera tout pour être du côté des gagnants dans la guerre des descendants de Baal - de votre côté. Aidez-la à récupérer son arme puissante dans le repaire de Yaga Shura et regardez-la prendre sa revanche sur son ravisseur. Ehlastra connaît les Cinq et Mélissane.<br/>Ce mod n'est pas recommandé si vous jouez à ToB pour la première fois. Certaines de ses connaissances privilégiées sur les Cinq peuvent être considérées comme des spoilers pour les nouveaux joueurs.<br/>L'installation de [[Wheels of Prophecy]] n'est pas obligatoire, mais fortement recommandée. Son histoire gagne en profondeur si vous l'avez installé (ou Ascension) : si vous convainquez Balthazar de s'allier à vous, cela aura un impact profond sur elle, et la fera reconsidérer ses propres objectifs.",
         "urls": [
             "https://baldursextendedworld.com/Ehlastra/",
             "https://github.com/RoxanneSHS/Ehlastra"
@@ -8786,7 +8786,7 @@
     },
     {
         "name": "Elementalist Kit",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), Arcane Fist (par Drizzt1180), Crusader (par Hansoo), Dragon Dancer (par Ripper123), Elementalist (par Daemon), Ethereal Blademaster (par Medivh), Gambler (par Gafgarion) et Undead Warrior (par Gafgarion).<br/>Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -8883,7 +8883,7 @@
     },
     {
         "name": "Enable conversations with charmed / dominated creatures",
-        "description": "Ascension64, l'auteur de Baldur's Gate Trilogy-WeiDU, a réalisé deux corrections de défauts du moteur de jeu de Baldur's Gate II. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières. Celle-ci concerne l'aptitude à parler aux personnages sous l'effet d'un charme, qui était possible dans BG, mais avait été supprimée par les développeurs dans le second opus.",
+        "description": "Ascension64, l'auteur de [[Baldur's Gate Trilogy-WeiDU]], a réalisé deux corrections de défauts du moteur de jeu de Baldur's Gate II. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières. Celle-ci concerne l'aptitude à parler aux personnages sous l'effet d'un charme, qui était possible dans BG, mais avait été supprimée par les développeurs dans le second opus.",
         "urls": [
             "http://www.shsforums.net/files/file/506-bg2-enable-conversations-with-charmeddominated-creatures-4/"
         ],
@@ -9230,7 +9230,7 @@
     },
     {
         "name": "Ethereal Blademaster",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), Arcane Fist (par Drizzt1180), Crusader (par Hansoo), Dragon Dancer (par Ripper123), Elementalist (par Daemon), Ethereal Blademaster (par Medivh), Gambler (par Gafgarion) et Undead Warrior (par Gafgarion).<br/>Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), Ethereal Blademaster (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -9420,7 +9420,7 @@
     },
     {
         "name": "Experience Corrections",
-        "description": "Ascension64, l'auteur de Baldur's Gate Trilogy-WeiDU, a réalisé deux corrections de défauts du moteur de jeu de Baldur's Gate II. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières. Celle-ci concerne l'attribution correcte des points d'expérience.",
+        "description": "Ascension64, l'auteur de [[Baldur's Gate Trilogy-WeiDU]], a réalisé deux corrections de défauts du moteur de jeu de Baldur's Gate II. Elles ont nécessité de modifier l'exécutable du jeu, ce qui les rend très particulières. Celle-ci concerne l'attribution correcte des points d'expérience.",
         "urls": [
             "http://www.shsforums.net/files/file/518-bg2-experience-corrections-3/"
         ],
@@ -9701,7 +9701,7 @@
     },
     {
         "name": "Faster Baldur's Gate (Firewalker Lite)",
-        "description": "Version allégée du mod Firewalker, ce mod est destiné à ceux qui veulent jouer à Baldur's Gate sans souffrir de la faible vitesse de déplacement des personnages en modifiant la vitesse de déplacement des personnages équipés de bottes. Il reprend aussi une partie des capacités de l'original (notamment les portraits, le niveau de recrutement des PNJ, les limites de stockage...).",
+        "description": "Version allégée du mod [[Firewalker]], ce mod est destiné à ceux qui veulent jouer à Baldur's Gate sans souffrir de la faible vitesse de déplacement des personnages en modifiant la vitesse de déplacement des personnages équipés de bottes. Il reprend aussi une partie des capacités de l'original (notamment les portraits, le niveau de recrutement des PNJ, les limites de stockage...).",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=BG&f=BG/Faster_BG.rar"
         ],
@@ -9763,7 +9763,7 @@
     },
     {
         "name": "Filipe_FR's All NPCs at the Beginning",
-        "description": "Ce mod français change l'emplacement de certains personnages recrutables de façon à ce qu'on puisse les rencontrer (et donc les embaucher) dès les premiers chapitres du jeu. Fonctionne avec Baldur's Gate et Tales of the Sword Coast. Il existe une <a href=\"http://www.baldursgateworld.fr/lacouronne/attachments/le-festival-de-nashkel-les-modules-bg1/6405d1330340547-mod-all-npcs-beginning-anpcatb_dsotsc_v1.0.zip\">version compatible avec Dark Side of the Sword Coast</a>.",
+        "description": "Ce mod français change l'emplacement de certains personnages recrutables de façon à ce qu'on puisse les rencontrer (et donc les embaucher) dès les premiers chapitres du jeu. Fonctionne avec Baldur's Gate et Tales of the Sword Coast. Il existe une <a href=\"http://www.baldursgateworld.fr/lacouronne/attachments/le-festival-de-nashkel-les-modules-bg1/6405d1330340547-mod-all-npcs-beginning-anpcatb_dsotsc_v1.0.zip\">version compatible avec [[Dark Side of the Sword Coast]]</a>.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/le-festival-de-nashkel-les-modules-bg1/9349-mod-All-npcs-beginning.html"
         ],
@@ -10130,7 +10130,7 @@
     },
     {
         "name": "Foundling: Between the Shades",
-        "description": "Ce mod fait partie de la série Colours of Infinity, développée par Lava Del'Vortel. Froid et calculateur, Foundling est un esclave de Thaxll'ssillvia, le dragon d'ombre, qui veut se libérer de son influence. il ne peut pas s'opposer seul à son maître, mais l'arrivée de l'enfant de Bhaal pourrait peut-être changer sa situation. C'est un adepte de la magie de l'ombre qui ne peut pas lancer les sorts de mage traditionnel, mais dispose de toute une gamme alternative. Le mod apporte des quêtes, des lieux, des rencontres. Sa quête commence dès la mort de son maître.",
+        "description": "Ce mod fait partie de la série [[Colours of Infinity]], développée par Lava Del'Vortel. Froid et calculateur, Foundling est un esclave de Thaxll'ssillvia, le dragon d'ombre, qui veut se libérer de son influence. il ne peut pas s'opposer seul à son maître, mais l'arrivée de l'enfant de Bhaal pourrait peut-être changer sa situation. C'est un adepte de la magie de l'ombre qui ne peut pas lancer les sorts de mage traditionnel, mais dispose de toute une gamme alternative. Le mod apporte des quêtes, des lieux, des rencontres. Sa quête commence dès la mort de son maître.",
         "urls": [
             "https://downloads.weaselmods.net/download/foundling-between-the-shades/"
         ],
@@ -10335,7 +10335,7 @@
     },
     {
         "name": "Gambler",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), Arcane Fist (par Drizzt1180), Crusader (par Hansoo), Dragon Dancer (par Ripper123), Elementalist (par Daemon), Ethereal Blademaster (par Medivh), Gambler (par Gafgarion) et Undead Warrior (par Gafgarion).<br/>Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), Gambler (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -10401,7 +10401,7 @@
     },
     {
         "name": "Garrick : les contes d'un troubadour",
-        "description": "Ce mod français, conçu par mirandir, vise à rendre le personnage de Garrick plus intéressant à jouer, en ajoutant de nouveaux dialogues, de nouvelles situations et rencontres ainsi que des chants supplémentaires propres au barde de Bérégost. Il s’appuie pour cela sur le contenu introduit par le BG1 NPC Project et le complète. Il faut impérativement que BG1 NPC Project soit installé avant.",
+        "description": "Ce mod français, conçu par mirandir, vise à rendre le personnage de Garrick plus intéressant à jouer, en ajoutant de nouveaux dialogues, de nouvelles situations et rencontres ainsi que des chants supplémentaires propres au barde de Bérégost. Il s’appuie pour cela sur le contenu introduit par le [[BG1 NPC Project]] et le complète. Il faut impérativement que [[BG1 NPC Project]] soit installé avant.",
         "urls": [
             "https://mirandir.baldursgateworld.fr/garrick-tt/fr.html"
         ],
@@ -10427,7 +10427,7 @@
     },
     {
         "name": "Garrick's Infatuation",
-        "description": "Ce mod permet à la fille adoptive de Gorion d'avoir des relations plus proches avec son tout premier biographe au travers de 25 conversations. Les flirts sont accessibles à toute race, classe et alignement.<br/>Il est compatible avec le BG1 NPC Project, mais fonctionne également sans.",
+        "description": "Ce mod permet à la fille adoptive de Gorion d'avoir des relations plus proches avec son tout premier biographe au travers de 25 conversations. Les flirts sont accessibles à toute race, classe et alignement.<br/>Il est compatible avec le [[BG1 NPC Project]], mais fonctionne également sans.",
         "urls": [
             "https://www.gibberlings3.net/files/file/899-garricks-infatuation/",
             "https://github.com/Gibberlings3/Garricks_Infatuation/releases"
@@ -10722,7 +10722,7 @@
     },
     {
         "name": "Gerri's NPC Portraits Pack",
-        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : Ascalon's Questpack, Assassinations, BG1 Mini-Quests and Encounters, Big Picture, [[Dark Side of the Sword Coast]], Dungeon Crawl, Jan's Quest, Northern Tales of the Sword Coast, Region of Terror, Romantic Encounters 1 &amp; 2, Secret of Bone Hill, Stone of Askavar, Tales of Anegh, Tales of the Deep Gardens, [[The Darkest Day]], et bien d'autres.",
+        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : Ascalon's Questpack, [[Assassinations]], BG1 Mini-Quests and Encounters, [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], Romantic Encounters 1 &amp; 2, Secret of Bone Hill, Stone of Askavar, [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
         "urls": [
             "https://github.com/gboeck/NSC-Portraits"
         ],
@@ -12057,7 +12057,7 @@
     },
     {
         "name": "I Shall Never Forget",
-        "description": "4ème opus de la série Colours of Infinity, ISNF vous donne la possibilité d'aider un mage d'Athkatla, Orion, qui a sombré dans le désespoir après la mort de sa femme. A vous de voir si vous l'aiderez jusqu'au bout ou l'abandonnerez en route... Ce mod est aussi un moyen alternatif de réunir la somme pour Gaelan Bayle.",
+        "description": "4ème opus de la série [[Colours of Infinity]], ISNF vous donne la possibilité d'aider un mage d'Athkatla, Orion, qui a sombré dans le désespoir après la mort de sa femme. A vous de voir si vous l'aiderez jusqu'au bout ou l'abandonnerez en route... Ce mod est aussi un moyen alternatif de réunir la somme pour Gaelan Bayle.",
         "urls": [
             "https://downloads.weaselmods.net/download/i-shall-never-forget/"
         ],
@@ -13165,7 +13165,7 @@
     },
     {
         "name": "Innershade",
-        "description": "Après TotDG, Lava récidive avec un nouvel opus de la série \"Colours of Infinity\". Suivez un chemin au milieu des arbres pour découvrir un tout nouveau village à visiter : Innershade. Il a eu quelques problèmes récemment : des gens ont disparu, et l'attaquant n'a jamais été vu. Vous devez arrêter les responsables, si vous le pouvez.",
+        "description": "Après TotDG, Lava récidive avec un nouvel opus de la série [[Colours of Infinity]]. Suivez un chemin au milieu des arbres pour découvrir un tout nouveau village à visiter : Innershade. Il a eu quelques problèmes récemment : des gens ont disparu, et l'attaquant n'a jamais été vu. Vous devez arrêter les responsables, si vous le pouvez.",
         "urls": [
             "https://downloads.weaselmods.net/download/innershade/"
         ],
@@ -13711,7 +13711,7 @@
     },
     {
         "name": "Jarl's BGT Adventure Pack",
-        "description": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit donc dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[BG1 Unfinished Business]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer.<br/>Ce mod nécessite l'installation de [[TobEx]], du composant principal d'[[Infinity Animations]] et des composants \"Restitutions mineures de dialogues\" et \"Réparations et restitutions de magasins, tavernes et auberges\" de [[BG1 Unfinished Business]].",
+        "description": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit donc dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[BG1 Unfinished Business]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer.<br/>Ce mod nécessite l'installation de [[TobEx]], du composant principal d'[[Infinity Animations]] et des composants `Restitutions mineures de dialogues` et `Réparations et restitutions de magasins, tavernes et auberges` de [[BG1 Unfinished Business]].",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jarls-bgt-adventure-pack.8/"
         ],
@@ -13820,7 +13820,7 @@
     },
     {
         "name": "Jim Fixes and tweaks (Jimfix)",
-        "description": "Ce petit mod intégrait les modification d'IA de Stratagems dans Ascension.",
+        "description": "Ce petit mod intégrait les modification d'IA de Stratagems dans [[Ascension]].",
         "urls": [
             "https://forums.beamdog.com/discussion/66358/mod-jimfix-ascension-scs-fixes-general-tweaks/p1",
             "https://github.com/Banananaut/Jimfix/releases"
@@ -14254,7 +14254,7 @@
     },
     {
         "name": "Keto NPC",
-        "description": "Keto est une barde neutre bonne humaine, avec un penchant certain pour la bouteille et les histoires, que vous trouverez aux Cinq Chopes. Très bavarde, elle dispose de nombreux dialogues avec les PNJ recrutables, avec une myriade de PNJ de passage, et commente plus d’une aventure quand elle ne se fend pas d'un conte. Considéré comme un des meilleurs modules de PNJ (deux ans et demi d'élaboration), Keto dispose également de sa quête personnelle et possède son propre set de voix plus des sets de plusieurs intervenants (400). Elle n’est cependant pas romançable et n’est probablement pas le personnage rêvé pour les fêlés d'optimisation.<br/>Qu'elle n'ait pas de contenu pour ToB est un atout, car elle peut sans scrupule être remplacée dans ToB par Sarevok ou Irenicus (mods Redemption ou The longer Road).",
+        "description": "Keto est une barde neutre bonne humaine, avec un penchant certain pour la bouteille et les histoires, que vous trouverez aux Cinq Chopes. Très bavarde, elle dispose de nombreux dialogues avec les PNJ recrutables, avec une myriade de PNJ de passage, et commente plus d’une aventure quand elle ne se fend pas d'un conte. Considéré comme un des meilleurs modules de PNJ (deux ans et demi d'élaboration), Keto dispose également de sa quête personnelle et possède son propre set de voix plus des sets de plusieurs intervenants (400). Elle n’est cependant pas romançable et n’est probablement pas le personnage rêvé pour les fêlés d'optimisation.<br/>Qu'elle n'ait pas de contenu pour ToB est un atout, car elle peut sans scrupule être remplacée dans ToB par Sarevok ou Irenicus (mods [[Redemption]] ou The longer Road).",
         "urls": [
             "https://www.pocketplane.net/keto-npc/",
             "https://github.com/Pocket-Plane-Group/Keto/releases"
@@ -14322,7 +14322,7 @@
     },
     {
         "name": "Kiara-Zaiya",
-        "description": "Ce mod d'Alan MC ajoute 2 nouveaux personnages féminins, une mage chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de Tactics ou d'Ascension pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd).",
+        "description": "Ce mod d'Alan MC ajoute 2 nouveaux personnages féminins, une mage chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de [[Tactics]] ou d'[[Ascension]] pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd).",
         "urls": [
             "https://www.baldursgateworld.fr/filesmods/ModsBGtraduits/kiara-zaiya-v2.0.1.zip",
             "https://github.com/SpellholdStudios/Kiara-Zaiya/releases"
@@ -15670,7 +15670,7 @@
     },
     {
         "name": "Macholy's Living-Mod (NML)",
-        "description": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Celui-ci fournit un système de règles permettant aux personages de se nourrir et de boire. Sans cela, leur constitution diminuera avec le temps. Il nécessite l'installation du composant \"Cuisine\" du mod Macholy's Tweak Pack.",
+        "description": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Celui-ci fournit un système de règles permettant aux personages de se nourrir et de boire. Sans cela, leur constitution diminuera avec le temps. Il nécessite l'installation du composant `Cuisine` du mod [[Macholy's Tweak Pack]].",
         "urls": [
             "https://trow.cc/board/showtopic=20348&hl=Macholy"
         ],
@@ -15874,7 +15874,7 @@
     },
     {
         "name": "Magic Battles Revised",
-        "description": "Révision du très vieux mod \"<a href=\"http://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php\">Mage Duel</a>\", ce mod s'efforce d'écourter les batailles magiques et de les rendre plus agréables et sensibles. Il s'adresse donc à la fois à tous ceux qui trouvent les combats de Stratagems bien trop longues et compliquées, et à ceux qui trouvent les combats non moddés trop faciles ou un peu incohérents. Il s'efforce donc de rendre utiles les défenses contre les sorts, préserver l'idée que les utilisateurs de magie peuvent être très puissants, voire temporairement invincibles, tout en donnant aux mages adverses des outils efficaces pour surmonter cette invincibilité et permettre aux batailles de magie d'être résolues de manière assez rapide, décisive et satisfaisante.<br/>Rassurez-vous, l'objectif ne change pas : il faut attaquer les défenses des sorts jusqu'à ce qu'elles disparaissent, puis attaquer le mage.<br/>Ce mod doit être installé après les mods de sorts comme [[Spell Revisions]], IWDification et Stratagems.",
+        "description": "Révision du très vieux mod \"<a href=\"http://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php\">Mage Duel</a>\", ce mod s'efforce d'écourter les batailles magiques et de les rendre plus agréables et sensibles. Il s'adresse donc à la fois à tous ceux qui trouvent les combats de Stratagems bien trop longues et compliquées, et à ceux qui trouvent les combats non moddés trop faciles ou un peu incohérents. Il s'efforce donc de rendre utiles les défenses contre les sorts, préserver l'idée que les utilisateurs de magie peuvent être très puissants, voire temporairement invincibles, tout en donnant aux mages adverses des outils efficaces pour surmonter cette invincibilité et permettre aux batailles de magie d'être résolues de manière assez rapide, décisive et satisfaisante.<br/>Rassurez-vous, l'objectif ne change pas : il faut attaquer les défenses des sorts jusqu'à ce qu'elles disparaissent, puis attaquer le mage.<br/>Ce mod doit être installé après les mods de sorts comme [[Spell Revisions]], [[IWDification]] et Stratagems.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/33351-magic-battles-revised-streamlined-rules-for-mage-duels/",
             "https://github.com/UnearthedArcana/magic_battles_revised/releases"
@@ -16427,7 +16427,7 @@
     },
     {
         "name": "Minor NPC Portraits for BG2:EE",
-        "description": "À l'instar des mods Gerri's BGT NPC Portraits et BG1 NPC Project, ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG2:EE.",
+        "description": "À l'instar des mods Gerri's BGT NPC Portraits et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG2:EE.",
         "urls": [
             "https://github.com/smeagolheart/MinorNPCPortraitsforBGEE2"
         ],
@@ -16449,7 +16449,7 @@
     },
     {
         "name": "Minor NPC Portraits for BG:EE",
-        "description": "À l'instar des mods Gerri's BGT NPC Portraits et BG1 NPC Project, ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG:EE et Sod.",
+        "description": "À l'instar des mods Gerri's BGT NPC Portraits et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG:EE et Sod.",
         "urls": [
             "https://github.com/smeagolheart/MinorNPCPortraitsforBGEE/releases"
         ],
@@ -16472,7 +16472,7 @@
     },
     {
         "name": "Minor NPC Portraits for IWD:EE",
-        "description": "À l'instar des mods Gerri's BGT NPC Portraits et BG1 NPC Project, ce mod donne un portrait à chaque NPC concerné par un dialogue dans IWD:EE.",
+        "description": "À l'instar des mods Gerri's BGT NPC Portraits et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans IWD:EE.",
         "urls": [
             "https://forums.beamdog.com/discussion/37001/mod-minor-npc-portraits-for-iwdee/p1",
             "https://github.com/smeagolheart/MinorNPCPortraitsforIWDEE"
@@ -16517,7 +16517,7 @@
     },
     {
         "name": "Misc kits",
-        "description": "Quelques kits que j'ai réalisés pour m'entraîner, tout en prévoyant un kitpack plus important -&gt;<a href=\"https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md\">The Workshop Kitpack.</a><br/><br/>Kensaizerker (Kit de guerrier) - Enhanced Editions et BG2 original<br/><br/>Adepte de l'épée (Kit de moine) - Enhanced Editions uniquement<br/><br/>Bouffon cinglant (Kit de barde) - Enhanced Editions et BG2 original<br/><br/>Fichier \"config.ini\" présent dans le répertoire du mod :<br/>Mettez la valeur d'un kit à = 0 pour ne pas l'installer<br/><br/><a href=\"https://github.com/D2-mods/Misc-kits/blob/main/README.French.md\">Voir le readme pour le détail des kits en spoiler !</a>",
+        "description": "Quelques kits que j'ai réalisés pour m'entraîner, tout en prévoyant un kitpack plus important -&gt;<a href=\"https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md\">[[The Workshop Kitpack]].</a><br/><br/>Kensaizerker (Kit de guerrier) - Enhanced Editions et BG2 original<br/><br/>Adepte de l'épée (Kit de moine) - Enhanced Editions uniquement<br/><br/>Bouffon cinglant (Kit de barde) - Enhanced Editions et BG2 original<br/><br/>Fichier \"config.ini\" présent dans le répertoire du mod :<br/>Mettez la valeur d'un kit à = 0 pour ne pas l'installer<br/><br/><a href=\"https://github.com/D2-mods/Misc-kits/blob/main/README.French.md\">Voir le readme pour le détail des kits en spoiler !</a>",
         "urls": [
             "https://github.com/D2-mods/Misc-kits/releases"
         ],
@@ -16635,7 +16635,7 @@
     },
     {
         "name": "Mod Popurrí",
-        "description": "Inspiré du mod Tactics, ce \"Pot-pourri\" de corrections de règles AD&amp;D propose toute une série de modifications et améliorations pour BG2 et ToB : nouveaux scripts, rencontres plus difficiles, deux nouveaux profils (Gardien de la Forêt pour les elfes druides et Nain protecteur), boss et quêtes plus coriaces...",
+        "description": "Inspiré du mod [[Tactics]], ce \"Pot-pourri\" de corrections de règles AD&amp;D propose toute une série de modifications et améliorations pour BG2 et ToB : nouveaux scripts, rencontres plus difficiles, deux nouveaux profils (Gardien de la Forêt pour les elfes druides et Nain protecteur), boss et quêtes plus coriaces...",
         "urls": [
             "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/Popurri"
         ],
@@ -17019,7 +17019,7 @@
     },
     {
         "name": "Morrow Gate",
-        "description": "Il s'agit d'une compilation de profils et de modifications de profils existants, basée largement sur les classes de prêtres (rôdeurs, druides). Il intègre Natural Selection qui modifie les profils de druides et en ajoute un également, le Sombrelien. Les profils Archer arcanique et guerrier Hellion sont également contenus dans ce mod.<br/>Enfin, des changements pour les paladins et clercs déchus, les druides et une quête concernant la tour fortifiée de Kalah pour les personnages mauvais. Cette liste n'est pas exhaustive, car ce mod inclue également les ajustements de l'ancien mod Twist Pack.<br/>Lisez bien le readme pour vous familiariser avec tous ses composants.",
+        "description": "Il s'agit d'une compilation de profils et de modifications de profils existants, basée largement sur les classes de prêtres (rôdeurs, druides). Il intègre Natural Selection qui modifie les profils de druides et en ajoute un également, le Sombrelien. Les profils Archer arcanique et guerrier Hellion sont également contenus dans ce mod.<br/>Enfin, des changements pour les paladins et clercs déchus, les druides et une quête concernant la tour fortifiée de Kalah pour les personnages mauvais. Cette liste n'est pas exhaustive, car ce mod inclue également les ajustements de l'ancien mod [[Twist Pack]].<br/>Lisez bien le readme pour vous familiariser avec tous ses composants.",
         "urls": [
             "http://www.shsforums.net/topic/57823-morrowgate-v09e-a-mod-from-woundedlion/"
         ],
@@ -17867,7 +17867,7 @@
     },
     {
         "name": "Night of the Blinking Dead",
-        "description": "Vous recherchez de nouveaux endroits effrayants à explorer ? Vous aimez les aventures glaçantes regorgeant de créatures mortes-vivantes qui vous fixent de leurs yeux vides ? Écoutez Seer et laissez-le vous montrer le chemin vers Eyeblinker... un marchand familier à ceux qui ont joué à Ooze's Lounge (mod pour BG2) et qui vient d'arriver dans le Val de bise. Êtes-vous prêt à affronter un tout nouveau type de morts-vivants ? Êtes-vous prêt à regarder le danger droit dans son énorme œil mort ? Si oui, alors ce mod est pour vous !",
+        "description": "Vous recherchez de nouveaux endroits effrayants à explorer ? Vous aimez les aventures glaçantes regorgeant de créatures mortes-vivantes qui vous fixent de leurs yeux vides ? Écoutez Seer et laissez-le vous montrer le chemin vers Eyeblinker... un marchand familier à ceux qui ont joué à [[Ooze's Lounge]] (mod pour BG2) et qui vient d'arriver dans le Val de bise. Êtes-vous prêt à affronter un tout nouveau type de morts-vivants ? Êtes-vous prêt à regarder le danger droit dans son énorme œil mort ? Si oui, alors ce mod est pour vous !",
         "urls": [
             "https://downloads.weaselmods.net/download/night-of-the-blinking-dead/"
         ],
@@ -19610,7 +19610,7 @@
     },
     {
         "name": "Polymorph (and other) fixes",
-        "description": "Components:<br/>- Polymorph fixes for IWD:EE<br/>- Polymorph fixes for IWD:EE<br/>- Patch for nymph.BCS (fixes crash with EEex)<br/>- Should shapeshift movement bonuses bypass Free Action?<br/>- Increase movement speed of Winter Wolf and Polar Bear forms<br/>- Uncap Crippling Strike (capped at -7 in v2.5 and v2.6.6)<br/>- Patch shortbows to use shortbow visuals (as in classic IWD)<br/>- Object.ids - Add identifiers if missing (for scripting)<br/>- Minor AI tweak (enemies and invisible PCs)<br/><br/>Install info:<br/>- All components can be installed independently and in any order.<br/>- Component 1 assumes you are using vanilla Shapechange forms. Install before mods that change creature stats (ex. Improved HoF)<br/>- Components 3-6 will not conflict with similar components in the mod Better IWD Pregen.<br/><br/><a href=\"https://github.com/D2-mods/Polymorph-fixes-for-IWDEE/blob/main/README.md#additional-info\">See additional info...</a>",
+        "description": "Components:<br/>- Polymorph fixes for IWD:EE<br/>- Polymorph fixes for IWD:EE<br/>- Patch for nymph.BCS (fixes crash with [[EEex]])<br/>- Should shapeshift movement bonuses bypass Free Action?<br/>- Increase movement speed of Winter Wolf and Polar Bear forms<br/>- Uncap Crippling Strike (capped at -7 in v2.5 and v2.6.6)<br/>- Patch shortbows to use shortbow visuals (as in classic IWD)<br/>- Object.ids - Add identifiers if missing (for scripting)<br/>- Minor AI tweak (enemies and invisible PCs)<br/><br/>Install info:<br/>- All components can be installed independently and in any order.<br/>- Component 1 assumes you are using vanilla Shapechange forms. Install before mods that change creature stats (ex. Improved HoF)<br/>- Components 3-6 will not conflict with similar components in the mod [[Better IWD Pregen]].<br/><br/><a href=\"https://github.com/D2-mods/Polymorph-fixes-for-IWDEE/blob/main/README.md#additional-info\">See additional info...</a>",
         "urls": [
             "https://github.com/D2-mods/Polymorph-fixes-for-IWDEE/releases"
         ],
@@ -19721,7 +19721,7 @@
     },
     {
         "name": "Portraits Portraits Everywhere (PPE)",
-        "description": "À l'instar des mods Gerri's BGT NPC Portraits et BG1 NPC Project, ce mod donne un portrait à chaque NPC concerné par un dialogue dans les jeux EE (4617 au total !).<br/>Un composant optionnel permet  d'attribuer des portraits issus d'un pool de portraits aléatoires aux acteurs auxquels le composant principal n'a pas attribué de portraits spécifiques, essentiellement des créatures ayant un nom générique. Par exemple, les personnages humains nommés \"Voleur\" obtiendront des portraits à partir du pool masculin ou féminin des Voleurs. Il y a plus de quatre-vingt-dix pools de portraits aléatoires qui vont de quelques portraits à plus de 20.<br/>Note : ce mod regroupe la série des mods \"Minor NPC Portraits\" pour chaque jeu.",
+        "description": "À l'instar des mods Gerri's BGT NPC Portraits et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans les jeux EE (4617 au total !).<br/>Un composant optionnel permet  d'attribuer des portraits issus d'un pool de portraits aléatoires aux acteurs auxquels le composant principal n'a pas attribué de portraits spécifiques, essentiellement des créatures ayant un nom générique. Par exemple, les personnages humains nommés \"Voleur\" obtiendront des portraits à partir du pool masculin ou féminin des Voleurs. Il y a plus de quatre-vingt-dix pools de portraits aléatoires qui vont de quelques portraits à plus de 20.<br/>Note : ce mod regroupe la série des mods \"Minor NPC Portraits\" pour chaque jeu.",
         "urls": [
             "http://forums.beamdog.com/discussion/61015/mod-portraits-portraits-everywhere-for-bg1ee-sod-bg2ee-iwdee-eet/p1",
             "https://github.com/DaftHunk/Portraits-Portraits-Everywhere"
@@ -20055,7 +20055,7 @@
     },
     {
         "name": "Quest Pack",
-        "description": "Ce mod de SimDing0 ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls.<br/>Note : les dernières versions incluent l'ancien mod Kensai Ryu's Restored Drow Innates Abilities.",
+        "description": "Ce mod de SimDing0 ajoute une multitude de petites quêtes, mais modifie également l'IA de certains monstres, leur rajoutant également certaines capacités (par exemple, les momies peuvent désormais lancer une sorte de souffle étourdissant sur vous... gnark). Vous aurez également la possibilité d'effectuer d'autres choix lors de quêtes déjà existantes, comme trahir Edwin, voire Renal Bloodscalp lui-même... à vos risques et périls.<br/>Note : les dernières versions incluent l'ancien mod [[Kensai Ryu's Restored Drow Innates Abilities]].",
         "urls": [
             "https://www.pocketplane.net/quest-pack/"
         ],
@@ -20104,7 +20104,7 @@
     },
     {
         "name": "Qwinn's Planescape: Torment Tweak Pack",
-        "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, Power Action Leprechaun Annah, Easter Egg Morte, repos quelle que soit la zone (non recommandé), grimoire de triche (non recommandé) et les robes des Hommes-Poussière.",
+        "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[Power Action Leprechaun Annah]], Easter Egg Morte, repos quelle que soit la zone (non recommandé), grimoire de triche (non recommandé) et les robes des Hommes-Poussière.",
         "urls": [
             "http://www.shsforums.net/files/file/649-qwinns-pst-tweak-pack-v412/",
             "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/psttweak_v412_correctfr.7z"
@@ -20805,7 +20805,7 @@
     },
     {
         "name": "Restored BG1 Casting Sounds",
-        "description": "Ce mod restaure les sons d'incantation dans BG2 par ceux utilisés dans BG1. Un composant permet aussi de restaurer les sons des coups de combat. Si vous choisissez de restaurer à la fois les sons d'incantation et les effets spéciaux, les sorts comme Cantique bénéficieront de sons spéciaux, comme dans BG1, plutôt que les sons d'incantation conventionnels pour leur école. Si vous ne sélectionnez que les sons d'incantation, cette restauration n'aura pas lieu.<br/>Bien qu'il ait été conçu pour être installé sur Tutu, ce mod fonctionne en fait avec n'importe quelle version de BG2. Cependant, préférez-lui l'excellent <a href=\"infsounds\">Infinity Sounds</a>.",
+        "description": "Ce mod restaure les sons d'incantation dans BG2 par ceux utilisés dans BG1. Un composant permet aussi de restaurer les sons des coups de combat. Si vous choisissez de restaurer à la fois les sons d'incantation et les effets spéciaux, les sorts comme Cantique bénéficieront de sons spéciaux, comme dans BG1, plutôt que les sons d'incantation conventionnels pour leur école. Si vous ne sélectionnez que les sons d'incantation, cette restauration n'aura pas lieu.<br/>Bien qu'il ait été conçu pour être installé sur Tutu, ce mod fonctionne en fait avec n'importe quelle version de BG2. Cependant, préférez-lui l'excellent [[Infinity Sounds]].",
         "urls": [
             "https://www.pocketplane.net/bg1Tutu/"
         ],
@@ -22749,7 +22749,7 @@
     },
     {
         "name": "Sirene NPC for BG2:EE",
-        "description": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr qu'il est possible de rencontrer au quartier général du Cœur Radieux. Elle ne s'entend pas avec Dorn et Hexxat, et ne suivra pas un personnage d'alignement mauvais. Le mod propose des dialogues d'amitié et de romance (c'est au joueur de montrer de l'intérêt) et offre une continuité avec BG:EE si on avait déjà recruté le personnage. Il comporte du contenu en rapport certains PNJ d'autres mods ainsi qu'avec les mods Colours of Infinity.",
+        "description": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr qu'il est possible de rencontrer au quartier général du Cœur Radieux. Elle ne s'entend pas avec Dorn et Hexxat, et ne suivra pas un personnage d'alignement mauvais. Le mod propose des dialogues d'amitié et de romance (c'est au joueur de montrer de l'intérêt) et offre une continuité avec BG:EE si on avait déjà recruté le personnage. Il comporte du contenu en rapport certains PNJ d'autres mods ainsi qu'avec les mods [[Colours of Infinity]].",
         "urls": [
             "https://artisans-corner.com/sirene-npc-for-bg2ee/",
             "https://github.com/ArtemiusI/Sirene-NPC-for-BG2-EE/releases"
@@ -23965,7 +23965,7 @@
     },
     {
         "name": "Sword Coast Keeper",
-        "description": "Développé par Isaya, de LCC, cet utilitaire vous permet d'éditer vos sauvegardes de BG et Tales of the Sword Coast, beaucoup plus puissant que GateKeeper.",
+        "description": "Développé par Isaya, de LCC, cet utilitaire vous permet d'éditer vos sauvegardes de BG et Tales of the Sword Coast, beaucoup plus puissant que [[GateKeeper]].",
         "urls": [
             "http://swordcoastkeeper.chez-alice.fr/PageSCKeeperEng.htm"
         ],
@@ -24471,7 +24471,7 @@
     },
     {
         "name": "Targos-Be-Gone by DreamingxAshley",
-        "description": "Pour ceux qui sont fatigués de parcourir le tutorial complet de IWD 2, voici une sauvegarde de jeu qui vous permet de commencer avec un groupe niveau 3, en dehors de la Palissade, avec le maximum d'or et d'expérience possible. Le groupe proposé, La Fraternité des Lames Errantes, n'est composé que de personnages féminins, bien équilibrés. Comme il ne s'agit en réalité que d'une sauvegarde de jeu, cela n'ajoute en revanche aucun banter. Il est toujours possible de modifier les personnages avec Dale Keeper.",
+        "description": "Pour ceux qui sont fatigués de parcourir le tutorial complet de IWD 2, voici une sauvegarde de jeu qui vous permet de commencer avec un groupe niveau 3, en dehors de la Palissade, avec le maximum d'or et d'expérience possible. Le groupe proposé, La Fraternité des Lames Errantes, n'est composé que de personnages féminins, bien équilibrés. Comme il ne s'agit en réalité que d'une sauvegarde de jeu, cela n'ajoute en revanche aucun banter. Il est toujours possible de modifier les personnages avec [[Dale Keeper]].",
         "urls": [
             "https://sorcerers.net/Games/IWD2/index_mods.php"
         ],
@@ -24886,7 +24886,7 @@
     },
     {
         "name": "The Artisan's kitpack",
-        "description": "Ce mod ajoute plusieurs profils dans le jeu et en modifie certains :<br/>- Guerriers : Arcane Archer, Barbare, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (pour Khalid).<br/>- Rôdeurs : Dark Hunter, Rashemi Berserker Ranger (pour Minsc).<br/>- Paladins : Divine Champion (Keldorn, Ajantis, Sirene), Knight of the Mystic Fire, Way of the Anti-Paladin (Chevalier noir).<br/>- Druides : Elementalist, Hivemaster.<br/>- Voleurs : Way of the Assassin (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).<br/>- Ensorceleurs : Dragon Disciple, Pale Master.<br/>- Shaman : Warhorn Shaman.",
+        "description": "Ce mod ajoute plusieurs profils dans le jeu et en modifie certains :<br/>- Guerriers : Arcane Archer, Barbare, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (pour Khalid).<br/>- Rôdeurs : Dark Hunter, Rashemi Berserker Ranger (pour Minsc).<br/>- Paladins : Divine Champion (Keldorn, Ajantis, Sirene), Knight of the Mystic Fire, Way of the Anti-Paladin (Chevalier noir).<br/>- Druides : Elementalist, Hivemaster.<br/>- Voleurs : [[Way of the Assassin]] (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).<br/>- Ensorceleurs : Dragon Disciple, Pale Master.<br/>- Shaman : Warhorn Shaman.",
         "urls": [
             "https://artisans-corner.com/the-artisans-kitpack/",
             "https://github.com/ArtemiusI/The-Artisan-s-Kitpack/releases"
@@ -24985,7 +24985,7 @@
     },
     {
         "name": "The Big Picture",
-        "description": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[The Darkest Day]], [[Shadows over Soubar]] et [[Tortured Souls]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous trouverez le détail de tous les composants du mod sur la <a href=\"https://www.baldursgateworld.fr/lacouronne/content/big-picture-1509/\">page CMS</a> qui lui est réservée. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de Tactics et la restauration d'Ascension dans la version de David Gaider.",
+        "description": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[The Darkest Day]], [[Shadows over Soubar]] et [[Tortured Souls]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous trouverez le détail de tous les composants du mod sur la <a href=\"https://www.baldursgateworld.fr/lacouronne/content/big-picture-1509/\">page CMS</a> qui lui est réservée. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de [[Tactics]] et la restauration d'[[Ascension]] dans la version de David Gaider.",
         "urls": [
             "http://www.shsforums.net/files/file/546-the-big-picture-v181/"
         ],
@@ -25689,7 +25689,7 @@
     },
     {
         "name": "The Picture Standard for BG:EE 1 & 2",
-        "description": "Ce mod installe plus de 500 portraits en haute résolution pour les PNJ recrutables ou non de BG:EE et BG2:EE, dont certains pour des personnages de mods comme BG1 NPC Project, Rogue Rebalancing, [[The White Queen]], [[Tales of the Deep Gardens]], [[Innershade]]... Parce que certains portraits ne sont pas fidèles à l'histoire, une collection de portraits alternatifs peut les remplacer.",
+        "description": "Ce mod installe plus de 500 portraits en haute résolution pour les PNJ recrutables ou non de BG:EE et BG2:EE, dont certains pour des personnages de mods comme [[BG1 NPC Project]], [[Rogue Rebalancing]], [[The White Queen]], [[Tales of the Deep Gardens]], [[Innershade]]... Parce que certains portraits ne sont pas fidèles à l'histoire, une collection de portraits alternatifs peut les remplacer.",
         "urls": [
             "http://www.shsforums.net/topic/57927-mod-the-picture-standard-for-bgee-1-2/",
             "https://www.nexusmods.com/baldursgate2ee/mods/9/?"
@@ -25962,7 +25962,7 @@
     },
     {
         "name": "The Undying",
-        "description": "Ce mod ajoute deux PNJ, Callisto T'sarran (elfe femme berserker neutre mauvaise) et Ninafer (elfe guerrière/mage loyale neutre). De nouvelles rencontres en rapport avec la quête de Callisto (anciennement \"Desecration of Souls\"), sept nouveaux magasins, trois nouvelles quêtes, banters et interjections sont également au programme.",
+        "description": "Ce mod ajoute deux PNJ, Callisto T'sarran (elfe femme berserker neutre mauvaise) et Ninafer (elfe guerrière/mage loyale neutre). De nouvelles rencontres en rapport avec la quête de Callisto (anciennement [[Desecration of Souls]]), sept nouveaux magasins, trois nouvelles quêtes, banters et interjections sont également au programme.",
         "urls": [
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=8"
         ],
@@ -26028,7 +26028,7 @@
     },
     {
         "name": "The Vault",
-        "description": "À l'origine, ce mod était surtout centré sur des nouveaux objets répartis un peu partout dans le jeu (monstres, magasins). Avec le temps il s'est agrémenté de plusieurs quêtes accessibles à des groupes de différents niveaux, afin d'accommoder les objets du mod à l'univers BG. Les quêtes restent ardues, tant dans leur résolution que dans les combats qui les peuplent. L'auteur annonce environ deux heures de jeu pour les quatre quêtes, mais vous passerez peut-être plus de temps à vous triturer les méninges pour les résoudre.<br/>\"Retour à Nashkel\" commence lorsque le duc Eltan téléporte le groupe à Château Suif. Elle vous conduit à retourner dans les mines de Nashkel investies de pièges, d'araignées et d'elfes noirs. \"Le Vestibule\" : rendez-vous dans le petit bâtiment attenant au temple de Lathandre et parlez (plusieurs fois) aux prêtres qui s'y trouvent. La quête est constituée de deux combats particulièrement ardus (niveau 8-9 minimum), il faut renvoyer dans les abysses le démon Lestraubimat qui n'apparaîtra que si c'est la première fois que vous pénétrez sur un certain lieu (vous pouvez toutefois visiter la carte sous réserve de ne pas explorer la zone où le démon doit apparaître). \"Les Ogres de Gullykin, le village halfelin\" : une invasion et de gros combats... \"Le Caveau\", ou quête cachée : lisez attentivement les descriptifs des objets trouvés, et rassemblez l'idole de Kozah et l'armure du chevalier maudit du labyrinthe avant de les présenter au fantôme d'Ulcaster, qui vous donne l'épée de la Revanche du vampire en échange. Recherchez une personne qui pourrait vous aider à vous narrer l'histoire de cette épée.<br/>Combiné à Sword Coast Stratagems, ce mod peut rapidement relever de l'impossible, notamment lors de la quête \"Retour à Nashkel\" dans laquelle vous combattrez des hordes d'araignées.<br/>Le lien concerne la version BGT et BG:EE. La <a href=\"http://www.angelfire.com/rpg2/azenmod/#Vault\">version BG1-Tutu</a> ne possède pas de traduction française.",
+        "description": "À l'origine, ce mod était surtout centré sur des nouveaux objets répartis un peu partout dans le jeu (monstres, magasins). Avec le temps il s'est agrémenté de plusieurs quêtes accessibles à des groupes de différents niveaux, afin d'accommoder les objets du mod à l'univers BG. Les quêtes restent ardues, tant dans leur résolution que dans les combats qui les peuplent. L'auteur annonce environ deux heures de jeu pour les quatre quêtes, mais vous passerez peut-être plus de temps à vous triturer les méninges pour les résoudre.<br/>\"Retour à Nashkel\" commence lorsque le duc Eltan téléporte le groupe à Château Suif. Elle vous conduit à retourner dans les mines de Nashkel investies de pièges, d'araignées et d'elfes noirs. \"Le Vestibule\" : rendez-vous dans le petit bâtiment attenant au temple de Lathandre et parlez (plusieurs fois) aux prêtres qui s'y trouvent. La quête est constituée de deux combats particulièrement ardus (niveau 8-9 minimum), il faut renvoyer dans les abysses le démon Lestraubimat qui n'apparaîtra que si c'est la première fois que vous pénétrez sur un certain lieu (vous pouvez toutefois visiter la carte sous réserve de ne pas explorer la zone où le démon doit apparaître). \"Les Ogres de Gullykin, le village halfelin\" : une invasion et de gros combats... \"Le Caveau\", ou quête cachée : lisez attentivement les descriptifs des objets trouvés, et rassemblez l'idole de Kozah et l'armure du chevalier maudit du labyrinthe avant de les présenter au fantôme d'Ulcaster, qui vous donne l'épée de la Revanche du vampire en échange. Recherchez une personne qui pourrait vous aider à vous narrer l'histoire de cette épée.<br/>Combiné à [[Sword Coast Stratagems]], ce mod peut rapidement relever de l'impossible, notamment lors de la quête \"Retour à Nashkel\" dans laquelle vous combattrez des hordes d'araignées.<br/>Le lien concerne la version BGT et BG:EE. La <a href=\"http://www.angelfire.com/rpg2/azenmod/#Vault\">version BG1-Tutu</a> ne possède pas de traduction française.",
         "urls": [
             "http://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=29175"
         ],
@@ -26056,7 +26056,7 @@
     },
     {
         "name": "The White Queen",
-        "description": "Ce mod est le 3ème opus de la série Colours of Infinity, après TotDG et [[Innershade]]. Tout commence par un livre acheté auprès d'un marchand de la Promenade de Waukyne. Il vous guidera peut-être dans un des marais étranges où des évènements terribles ont eu lieu un peu plus tôt : un lieu de mystères et de tragédies. Explorez les ruines d'un village oublié, découvrez ce qui se cache sous la boue en allant à la rencontre de la Reine Blanche et de ses adeptes... Pourrez-vous résoudre les conflits enfouis de ce lieu ?<br/>Le mod inclut 8 nouveaux lieux, des dialogues, de nouvelles musiques, des objets, etc. Il est plus orienté vers le combat que les précédents mods de CoI.",
+        "description": "Ce mod est le 3ème opus de la série [[Colours of Infinity]], après TotDG et [[Innershade]]. Tout commence par un livre acheté auprès d'un marchand de la Promenade de Waukyne. Il vous guidera peut-être dans un des marais étranges où des évènements terribles ont eu lieu un peu plus tôt : un lieu de mystères et de tragédies. Explorez les ruines d'un village oublié, découvrez ce qui se cache sous la boue en allant à la rencontre de la Reine Blanche et de ses adeptes... Pourrez-vous résoudre les conflits enfouis de ce lieu ?<br/>Le mod inclut 8 nouveaux lieux, des dialogues, de nouvelles musiques, des objets, etc. Il est plus orienté vers le combat que les précédents mods de CoI.",
         "urls": [
             "https://downloads.weaselmods.net/download/the-white-queen/"
         ],
@@ -26585,7 +26585,7 @@
     },
     {
         "name": "Tortured Souls-BP",
-        "description": "« Les Âmes Torturées » est un terme générique pour englober tous les PNJ qui sont troublés. Ce mod ajoute de nombreux banters, 4 nouvelles romances dont une entre Yoshimo et Kachiko, et une énorme nouvelle quête. Plus précisément :<br/>- 5 nouveaux PNJ recrutables dont Sime (la fille d’Aran Linvail, aux côtés de son père si vous avez travaillé pour sa guilde au chapitre 3), Kachiko (dans le donjon d'Irenicus), Dynahéir (Sime et Minsc doivent être dans le groupe), Coran (disponible dans la forêt du Téthyr) et Bodhi (si vous avez choisi de travailler pour sa guilde au chapitre 3).<br/>Une romance avec Valygar pour un PJ féminin, qui débute dans SoA et se poursuit dans ToB.<br/>- Une nouvelle quête assez vaste sur la route de Spellhold, dont les protagonistes seront Yoshimo et Kachiko.<br/>- Une romance avec Sime pour les PJ des 2 sexes.<br/>- Plusieurs quêtes spécifiques à Sime, dont l'une vous amènera à affronter par 2 fois un ennemi (indestructible dans la 1ère rencontre) lors de la quête principale du mod.<br/>- Le composant \"Quêtes de classe multiples\" pour les PJ multi-classés, leur autorisant à effectuer les quêtes de toutes leur sous-classes.<br/>- Une légère amélioration du combat de la Rune Tordue.<br/>- Une multitude de nouveaux objets (provenant en grande partie d'IWD1).<br/>Yoshimo doit faire partie de votre groupe pour pouvoir recruter Kachiko. De même, le recrutement de Coran ne pourra se faire qu'en déclenchant une mini-quête dans le Marché de l'Aventurier (vous devez y pénétrer sans que Jaheira fasse partie de votre groupe).<br/>Cette version est compatible avec Big Picture et la plupart des mods WeiDU.",
+        "description": "« Les Âmes Torturées » est un terme générique pour englober tous les PNJ qui sont troublés. Ce mod ajoute de nombreux banters, 4 nouvelles romances dont une entre Yoshimo et Kachiko, et une énorme nouvelle quête. Plus précisément :<br/>- 5 nouveaux PNJ recrutables dont Sime (la fille d’Aran Linvail, aux côtés de son père si vous avez travaillé pour sa guilde au chapitre 3), Kachiko (dans le donjon d'Irenicus), Dynahéir (Sime et Minsc doivent être dans le groupe), Coran (disponible dans la forêt du Téthyr) et Bodhi (si vous avez choisi de travailler pour sa guilde au chapitre 3).<br/>Une romance avec Valygar pour un PJ féminin, qui débute dans SoA et se poursuit dans ToB.<br/>- Une nouvelle quête assez vaste sur la route de Spellhold, dont les protagonistes seront Yoshimo et Kachiko.<br/>- Une romance avec Sime pour les PJ des 2 sexes.<br/>- Plusieurs quêtes spécifiques à Sime, dont l'une vous amènera à affronter par 2 fois un ennemi (indestructible dans la 1ère rencontre) lors de la quête principale du mod.<br/>- Le composant \"Quêtes de classe multiples\" pour les PJ multi-classés, leur autorisant à effectuer les quêtes de toutes leur sous-classes.<br/>- Une légère amélioration du combat de la Rune Tordue.<br/>- Une multitude de nouveaux objets (provenant en grande partie d'IWD1).<br/>Yoshimo doit faire partie de votre groupe pour pouvoir recruter Kachiko. De même, le recrutement de Coran ne pourra se faire qu'en déclenchant une mini-quête dans le Marché de l'Aventurier (vous devez y pénétrer sans que Jaheira fasse partie de votre groupe).<br/>Cette version est compatible avec [[The Big Picture]] et la plupart des mods WeiDU.",
         "urls": [
             "http://www.shsforums.net/files/file/324-tortured-souls-bp-compatible-version-v610/"
         ],
@@ -27006,7 +27006,7 @@
     },
     {
         "name": "Turnabout",
-        "description": "Grâce à ce mod, vous pouvez invoquer d'anciens alliés tombés au champ d'honneur dans la lutte finale du trône (Dynaheir, Tiax, Khalid, Xzar, Yoshimo). Vous pouvez même rappeler à vos côtés votre mère ou votre père adoptif. Il nécessite Ascension.",
+        "description": "Grâce à ce mod, vous pouvez invoquer d'anciens alliés tombés au champ d'honneur dans la lutte finale du trône (Dynaheir, Tiax, Khalid, Xzar, Yoshimo). Vous pouvez même rappeler à vos côtés votre mère ou votre père adoptif. Il nécessite [[Ascension]].",
         "urls": [
             "https://www.pocketplane.net/turnabout/",
             "https://github.com/Pocket-Plane-Group/Turnabout/releases"
@@ -27407,7 +27407,7 @@
     },
     {
         "name": "Undead Warrior",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), Arcane Fist (par Drizzt1180), Crusader (par Hansoo), Dragon Dancer (par Ripper123), Elementalist (par Daemon), Ethereal Blademaster (par Medivh), Gambler (par Gafgarion) et Undead Warrior (par Gafgarion).<br/>Celui-ci installe un profil de guerrier.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et Undead Warrior (par Gafgarion).<br/>Celui-ci installe un profil de guerrier.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -27881,7 +27881,7 @@
     },
     {
         "name": "Vampire Tales",
-        "description": "Les mods Miriam (PNJ vampire aux stats moins bourrines que celles de Valen, mais semblant disposer d'un caractère tout aussi lunatique et violent) et Dark Ritual (ajoutant un marchand avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2, initialement traduit par Panaka) sont désormais réunis dans ce mod qui améliore en outre la quête de l'Œil Aveugle, la rencontre avec les Ménestrels, et ajoute une nouvelle rencontre dans le donjon de Firkraag. ToB est requis.",
+        "description": "Les mods Miriam (PNJ vampire aux stats moins bourrines que celles de Valen, mais semblant disposer d'un caractère tout aussi lunatique et violent) et [[Dark Ritual]] (ajoutant un marchand avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2, initialement traduit par Panaka) sont désormais réunis dans ce mod qui améliore en outre la quête de l'Œil Aveugle, la rencontre avec les Ménestrels, et ajoute une nouvelle rencontre dans le donjon de Firkraag. ToB est requis.",
         "urls": [
             "https://github.com/The-Gate-Project/VampireTales"
         ],
@@ -28015,7 +28015,7 @@
     },
     {
         "name": "Verr'Sza BG2:EE",
-        "description": "Ce mod amène Verr'Sza, le compagnon rakshasa, dans Baldur's Gate 2. C'est une continuation du mod Verr'Sza BG:EE, du même auteur. Cependant, si les mods ont été écrits pour permettre la poursuite du partenariat entre l'Enfant de Bhaal et Verr'Sza, il est possible de démarrer une toute nouvelle relation avec Verr'Sza, au lieu de continuer le contenu de BG.<br/>Verr'Sza est un rôdeur maléfique ; pas toujours très préoccupé par la loi des hommes. Il est pragmatique, et suit les règles qu'il s'est lui-même fixées et son idée de la façon dont les choses doivent être faites. Pourtant, il s'intéresse aussi à l'apprentissage. Il n'est pas grossier. Il n'est pas imprudent, même s'il n'est pas un exemple de patience, il comprend que certaines questions nécessitent différents types d'actions et d'attitudes. Le mod inclut la romance (pour les enfants de Bhaal, quel que soit leur sexe), qui peut différer légèrement, selon que vous poursuivez ou non votre romance depuis BG1.<br/>Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes.",
+        "description": "Ce mod amène Verr'Sza, le compagnon rakshasa, dans Baldur's Gate 2. C'est une continuation du mod [[Verr'Sza BG:EE]], du même auteur. Cependant, si les mods ont été écrits pour permettre la poursuite du partenariat entre l'Enfant de Bhaal et Verr'Sza, il est possible de démarrer une toute nouvelle relation avec Verr'Sza, au lieu de continuer le contenu de BG.<br/>Verr'Sza est un rôdeur maléfique ; pas toujours très préoccupé par la loi des hommes. Il est pragmatique, et suit les règles qu'il s'est lui-même fixées et son idée de la façon dont les choses doivent être faites. Pourtant, il s'intéresse aussi à l'apprentissage. Il n'est pas grossier. Il n'est pas imprudent, même s'il n'est pas un exemple de patience, il comprend que certaines questions nécessitent différents types d'actions et d'attitudes. Le mod inclut la romance (pour les enfants de Bhaal, quel que soit leur sexe), qui peut différer légèrement, selon que vous poursuivez ou non votre romance depuis BG1.<br/>Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes.",
         "urls": [
             "https://downloads.weaselmods.net/download/verrsza-bg2ee/"
         ],
@@ -29392,7 +29392,7 @@
     },
     {
         "name": "Yvette Romance",
-        "description": "Vous êtes-vous déjà procuré un parchemin renfermant autre chose que quelques lignes magiques ? C'est ainsi que vous ferez la connaissance d'Yvette ; aidez-la à se souvenir de son passé, laissez la vivre de nouvelles aventures, laissez la vous accompagner et peut-être pourrez-vous la toucher plus profondément qu'un simple ami. Yvette a du contenu pour SoA et ToB, banters et interjections sont également de la partie. Ce mod fait partie de la série Colours of Infinity, développée par Lava Del'Vortel.",
+        "description": "Vous êtes-vous déjà procuré un parchemin renfermant autre chose que quelques lignes magiques ? C'est ainsi que vous ferez la connaissance d'Yvette ; aidez-la à se souvenir de son passé, laissez la vivre de nouvelles aventures, laissez la vous accompagner et peut-être pourrez-vous la toucher plus profondément qu'un simple ami. Yvette a du contenu pour SoA et ToB, banters et interjections sont également de la partie. Ce mod fait partie de la série [[Colours of Infinity]], développée par Lava Del'Vortel.",
         "urls": [
             "https://downloads.weaselmods.net/download/yvette-romance/"
         ],
