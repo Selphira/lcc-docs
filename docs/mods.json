@@ -430,7 +430,7 @@
             "Ixyon"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -578,7 +578,7 @@
         "warnings": [
             "Dans IWD:EE, il ne dialogue pas avec le PNJ, mais échange seulement quelques propos avec un PNJ drow associé. Il n'y a également pas de nouveaux lieux."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -960,7 +960,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -1136,7 +1136,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -1181,10 +1181,13 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "ru"
+        ]
     },
     {
         "name": "Animal Companion: Leopard",
@@ -1426,7 +1429,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -2079,7 +2082,7 @@
             "Ixyon"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -4782,7 +4785,7 @@
         "warnings": [
             "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Perils of Branwen]], [[Branwen NPC]] et [[Baldur's Gate 1 NPCs in SoA & ToB]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -6237,7 +6240,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -6820,7 +6823,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -9031,7 +9034,7 @@
     },
     {
         "name": "Enhanced Edition Trilogy (EET)",
-        "description": "L'équivalent de BGT pour les jeux EE. Il requiert BG:EE Siege of Dragonspear et BG2:EE.<br/><span style=\"color: red\">Nécessite une mise à jour de la traduction.</span> <span style=\"color: lime\">En cours par jazira.</span>",
+        "description": "L'équivalent de BGT pour les jeux EE. Il requiert BG:EE Siege of Dragonspear et BG2:EE.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27756-download-links/",
             "https://github.com/Gibberlings3/EET/releases"
@@ -9051,8 +9054,8 @@
             "jazira"
         ],
         "warnings": [],
-        "is_weidu": null,
-        "translation_state": "todo",
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
         "languages": []
     },
@@ -9576,7 +9579,7 @@
         "warnings": [
             "Note : depuis la version v4, déjà compatible BG2:EE et avec la partie ToB, le mod a perdu sa traduction française. Vous trouverez <a href=\"http://www.mediafire.com/file/f73zx1hpibwcrng/Fade_v3_EE.zip/file\">ici</a> la version 3 sans la partie ToB, mais avec la traduction française."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": "todo",
         "safe": true,
         "languages": []
@@ -9694,7 +9697,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -10146,7 +10149,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -10578,7 +10581,7 @@
         "warnings": [
             "Attention : De par sa nature, il s'installera généralement en dernier, mais je vous invite fortement à lire <a href=\"https://www.baldursgateworld.fr/lacouronne/le-bazar-de-l-aventurier/23052-sortie-de-generalized-biffing-en-francais.html\">ce sujet</a> avant de songer à l'utiliser."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -11188,7 +11191,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -13360,7 +13363,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -13560,7 +13563,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -14173,10 +14176,15 @@
             "Galathée"
         ],
         "warnings": [],
-        "is_weidu": null,
-        "translation_state": "wip",
+        "is_weidu": true,
+        "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "de",
+            "ru",
+            "sp"
+        ]
     },
     {
         "name": "Kenan's First Blade",
@@ -14274,7 +14282,7 @@
             "Vazdru Solitaire"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -14437,7 +14445,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -14579,7 +14587,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -17613,7 +17621,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -17723,7 +17731,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -17928,7 +17936,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -21635,7 +21643,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": "todo",
         "safe": true,
         "languages": []
@@ -21806,7 +21814,7 @@
             "Le Marquis"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -22517,7 +22525,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -22764,7 +22772,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -25977,7 +25985,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -26279,7 +26287,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -26434,7 +26442,7 @@
         "warnings": [],
         "is_weidu": null,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": []
     },
     {
@@ -26937,7 +26945,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -27900,7 +27908,7 @@
             "Zooloo"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -27965,7 +27973,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -28819,7 +28827,7 @@
         "warnings": [],
         "is_weidu": null,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": []
     },
     {
@@ -29200,7 +29208,7 @@
             "Eleima"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -29290,7 +29298,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -29338,7 +29346,7 @@
         "warnings": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -29408,7 +29416,7 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
