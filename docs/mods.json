@@ -9069,10 +9069,10 @@
         "languages": []
     },
     {
-        "name": "Enhanced Edition: Cosmetic Enhancements",
+        "name": "Enhanced Edition: Cosmetic Item Enhancement",
         "description": "Ce mod apporte des ajustements cosmétiques aux objets de BG:EE, SoD, BG2:EE et IWD:EE : nouvelles icônes d'inventaire et de description, nouvelles descriptions, modification de leur apparence, de leurs couleurs et de leur scintillement, nouveaux projectile et nouveaux effets visuels quand les armes touchent leur cible.",
         "urls": [
-            "https://github.com/DaerosTrollkiller/EE_Cosmetic_Item_Enhancement/releases"
+            "https://github.com/DaerosTrollkiller/EE_Cosmetic_Item_Enhancement/"
         ],
         "categories": [
             "Cosmétique"
@@ -9086,10 +9086,13 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "ru"
+        ]
     },
     {
         "name": "Enhanced Powergaming Scripts",
@@ -15450,7 +15453,7 @@
         "description": "Ce petit mod ajoute des bonus de connaissance à votre personnage principal au fur et à mesure de votre apprentissage et de vos aventures dans le jeu. Les bonus (et les stimuli qui les fournissent) sont, par conception, destinés à être mineurs et à améliorer l'aspect jeu de rôle du jeu. Vous pouvez personnaliser l'installation en modifiant le fichier customize.tpa.",
         "urls": [
             "https://www.gibberlings3.net/files/file/1023-lore-from-learning/",
-            "https://github.com/Gibberlings3/Lore_From_Learning/releases"
+            "https://github.com/Gibberlings3/Lore_From_Learning/"
         ],
         "categories": [
             "Gameplay"
@@ -15466,10 +15469,14 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "ru",
+            "po"
+        ]
     },
     {
         "name": "Lore friendly portrait pack",
@@ -18091,8 +18098,7 @@
         ],
         "team": [],
         "warnings": [
-            "Malheureusement, la qualité de ce mod laisse à désirer. De son propre aveu, il n'en est pas fier. Préférez-lui d'autres mods, ou tout simplement les composants de [[Tweaks Anthology]] qui suppriment les restrictions raciales.",
-            "Malheureusement, la qualité de ce mod laisse à désirer. De son propre aveu, il n'en est pas fier. Préférez-lui d'autres mods."
+            "Malheureusement, la qualité de ce mod laisse à désirer. De son propre aveu, il n'en est pas fier. Préférez-lui d'autres mods, ou tout simplement les composants de [[Tweaks Anthology]] qui suppriment les restrictions raciales."
         ],
         "is_weidu": null,
         "translation_state": null,
@@ -18150,7 +18156,7 @@
         "urls": [
             "http://www.shsforums.net/files/file/1283-nostalgia-pack/",
             "https://forums.beamdog.com/discussion/82532/bg-ee-bgii-ee-nostalgia-pack-putting-the-bg-back-in-bg-ee",
-            "https://github.com/SpellholdStudios/Nostalgia-Pack/releases"
+            "https://github.com/SpellholdStudios/Nostalgia-Pack/"
         ],
         "categories": [
             "Cosmétique"
@@ -18158,15 +18164,18 @@
         "games": [
             "BGEE",
             "SoD",
+            "BG2EE",
             "EET",
             "IWDEE"
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Nouvelles voix de compagnons pour IWD et IWD2",
@@ -19534,8 +19543,7 @@
             "http://www.shsforums.net/files/file/1242-pleasure-pain-kits-for-bg-eet/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2EE",
@@ -19848,8 +19856,7 @@
             "http://www.shsforums.net/files/file/632-prestige-kitpack/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -19859,10 +19866,14 @@
             "deratiseur"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr",
+            "ru"
+        ]
     },
     {
         "name": "Privet Property",
@@ -26434,11 +26445,11 @@
         "languages": []
     },
     {
-        "name": "ToB Tourist Mod",
+        "name": "ToB Tourist",
         "description": "Ce mini mod permet de se rendre dans les zones de SoA à partir de ToB. Pour cela, il vous suffit d'acheter un livre chez Lazarus. Ce mod peut également être utile sur EET si vous jouez à EET, mais commencez par la section ToB.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=390",
-            "https://github.com/Roberciiik/ToB-Tourist/releases"
+            "https://github.com/Roberciiik/ToB-Tourist/"
         ],
         "categories": [
             "Gameplay"
@@ -26446,15 +26457,20 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE",
-            "EET"
+            "BG2EE"
         ],
         "team": [],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "La compatibilité EET n'est pas assurée mais pourrait être introduite dans l'avenir."
+        ],
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "po",
+            "ru"
+        ]
     },
     {
         "name": "TobEx",
@@ -29932,6 +29948,124 @@
         "languages": [
             "en",
             "fr"
+        ]
+    },
+    {
+        "name": "Ranger Warden Kit",
+        "description": "Ce mod offre un kit pour Rôdeur : le Garde Forestier. Protecteur de la nature, il est débrouillard et n'a pas ou peu de considération pour les lois du monde « civilisé ». Il a accès à certaines capacités comme la création de projectiles, il peut également poser des pièges ou soigner grâce à des cataplasmes. Le mod ajoute également quelques objets utiles aux rôdeurs.",
+        "urls": [
+            "https://github.com/DaerosTrollkiller/Ranger-Warden-Kit"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "team": [],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ]
+    },
+    {
+        "name": "Weapon Oils",
+        "description": "Ce petit mod propose un nouveau type d'objet les « weapon oils ». Il s'agit de potions consommables qui permettent d'appliquer un effet supplémentaire aux armes.",
+        "urls": [
+            "https://github.com/szaumoor/ZS_WeaponOils"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "team": [],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ]
+    },
+    {
+        "name": "Dream Walker Shaman Kit",
+        "description": "Dreamwalkers are Shamans with a strong divine connection to the Region of Dreams. They not only tap into the energies that flow through the earth and air, through plants and animals, and even through the dead, but also those of the Region of Dreams and the Demiplane of Nightmares and shape these energies to obey their will.",
+        "urls": [
+            "https://github.com/thisisulb/DreamWalkerShamanKit"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE"
+        ],
+        "team": [],
+        "warnings": [
+            "Le mod n'est plus mis à jour depuis la version 1.2 de BGEE"
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en",
+            "it"
+        ]
+    },
+    {
+        "name": "PeaceSpeaker, the anti-violence sword",
+        "description": "Embarquez pour une courte quête mettant en scène une épée intelligente, une apprentie qui n'en fait qu'à sa tête et un sorcier grincheux.",
+        "urls": [
+            "https://github.com/bucketfulofsunshine/peacespeaker"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "team": [],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ]
+    },
+    {
+        "name": "Proficiencies",
+        "description": "Ce mod ambitionne d'étendre le système de compétences dans les jeux Infinity Engine, permettant aux personnages de faire de nouvelles choses comme soigner des blessures, étourdir les ennemis avec les armes contondantes, provoquer des hémorragies avec les lames etc.",
+        "urls": [
+            "https://github.com/Grammarsalad/Proficiencies"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "team": [],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
         ]
     }
 ]
