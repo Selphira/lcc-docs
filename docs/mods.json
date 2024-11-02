@@ -265,7 +265,7 @@
     },
     {
         "name": "APR on Spec",
-        "description": "Ce mod est obsolète. Comme de plus, il s'agit d'un mod override, préférez-lui le composant \"Tout le monde obtient le bonus d'attaque par round de spécialisation\" de [[Tweaks Anthology]].",
+        "description": "Ce mod est obsolète. Comme de plus, il s'agit d'un mod override, préférez-lui le composant `Tout le monde obtient le bonus d'attaque par round de spécialisation` de [[Tweaks Anthology]].",
         "urls": [
             "https://forums.beamdog.com/discussion/36197/mod-release-apr-on-spec/p1"
         ],
@@ -3195,7 +3195,7 @@
     },
     {
         "name": "BG:EE Leveled Spawns Mod",
-        "description": "Basé sur le composant \"Créer des ennemis aléatoires en fonction du niveau (style Tutu)\" du mod BGT Tweak, ce mod modifie le système par défaut de l'apparition aléatoire des créatures dans les zones de la Côté des Épées en en faisant évoluer la difficulté en fonction du niveau moyen du groupe. Chaque point d'apparition engendrera des groupes de 1 à 6 créatures, selon le niveau du groupe et la force des créatures. L'utilisateur peut sélectionner l'intervalle de temps entre les apparitions (de 4 heures à 1000 jours) ainsi que la probabilité qu'un déclenchement d'un point de rencontre aléatoire entraîne le peuplement de ce point.",
+        "description": "Basé sur le composant `Créer des ennemis aléatoires en fonction du niveau (style Tutu)` du mod [[BGT Tweak Pack]], ce mod modifie le système par défaut de l'apparition aléatoire des créatures dans les zones de la Côté des Épées en en faisant évoluer la difficulté en fonction du niveau moyen du groupe. Chaque point d'apparition engendrera des groupes de 1 à 6 créatures, selon le niveau du groupe et la force des créatures. L'utilisateur peut sélectionner l'intervalle de temps entre les apparitions (de 4 heures à 1000 jours) ainsi que la probabilité qu'un déclenchement d'un point de rencontre aléatoire entraîne le peuplement de ce point.",
         "urls": [
             "https://forums.beamdog.com/discussion/34840/bgee-leveled-spawns-mod-v0-3-updated-2014-12-27/p1",
             "https://github.com/GraionDilach/BGEESpawn/releases"
@@ -3209,10 +3209,10 @@
         ],
         "team": [],
         "warnings": [
-            "Si vous envisagez d'installer ce mod, n'installez pas le composant \"Modifier la création d'ennemis aléatoires\" de BGT Tweak, ni le mod [[BGSpawn]], puisque tous modifient la même chose.",
+            "Si vous envisagez d'installer ce mod, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[BGT Tweak Pack]], ni le mod [[BGSpawn]], puisque tous modifient la même chose.",
             "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": []
@@ -3281,7 +3281,7 @@
         ],
         "warnings": [
             "Attention : Certains joueurs ont signalé que la combinaison de ce mod et de [[Sword Coast Stratagems]] (monstres plus intelligents) pourrait s'avérer un redoutable défi !",
-            "Si vous envisagez d'installer BGSpawn, n'installez pas le composant \"Modifier la création d'ennemis aléatoires\" de [[BGT Tweak Pack]], ni le [[BG:EE Leveled Spawns Mod]], puisque tous modifient la même chose.",
+            "Si vous envisagez d'installer BGSpawn, n'installez pas le composant `Modifier la création d'ennemis aléatoires` de [[BGT Tweak Pack]], ni le [[BG:EE Leveled Spawns Mod]], puisque tous modifient la même chose.",
             "Attention : seule la version de GitHub est aussi compatible EET. En plus, c'est la dernière mise à jour."
         ],
         "is_weidu": null,
@@ -3326,7 +3326,7 @@
             "Isaya"
         ],
         "warnings": [
-            "Si vous envisagez d'installer [[BGSpawn]], n'installez pas le composant \"Modifier la création d'ennemis aléatoires\" de BGT Tweak, puisque les deux modifient la même chose."
+            "Si vous envisagez d'installer [[BGSpawn]], n'installez pas le composant `Modifier la création d'ennemis aléatoires` de BGT Tweak Pack, puisque les deux modifient la même chose."
         ],
         "is_weidu": null,
         "translation_state": true,
@@ -3543,7 +3543,7 @@
         ],
         "team": [],
         "warnings": [
-            "Comme ce mod fait exactement la même chose que le composant \"Importer davantage d'objets dans Shadows of Amn\" de [[BGT Tweak Pack]], veuillez ne pas les installer ensemble."
+            "Comme ce mod fait exactement la même chose que le composant `Importer davantage d'objets dans Shadows of Amn` de [[BGT Tweak Pack]], veuillez ne pas les installer ensemble."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -9215,7 +9215,7 @@
         ],
         "team": [],
         "warnings": [
-            "Attention : ce mod n'est pas compatible avec le composant \"Cinématiques et rêves des chapitres 1 et 2 accélérés\" de [[Tweaks Anthology]] à cause de l'usage intensif qu'il fait des cinématiques."
+            "Attention : ce mod n'est pas compatible avec le composant `Cinématiques et rêves des chapitres 1 et 2 accélérés` de [[Tweaks Anthology]] à cause de l'usage intensif qu'il fait des cinématiques."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -14000,7 +14000,7 @@
         ],
         "team": [],
         "warnings": [
-            "Il s'agit d'un mod override qui écrase le fichier DUALCLAS.2da et ne peut pas être désinstallé. Préférez-lui le composant \"Options de jumelage étendues\" de [[Tweaks Anthology]]."
+            "Il s'agit d'un mod override qui écrase le fichier DUALCLAS.2da et ne peut pas être désinstallé. Préférez-lui le composant `Options de jumelage étendues` de [[Tweaks Anthology]]."
         ],
         "is_weidu": false,
         "translation_state": null,
@@ -17382,7 +17382,7 @@
         ],
         "team": [],
         "warnings": [
-            "Attention : Il est désormais obsolète et a été remplacé par le composant \"<em>Les PNJs du groupe ne se battent pas</em>\" de [[Tweaks Anthology]]."
+            "Attention : Il est désormais obsolète et a été remplacé par le composant `Les PNJs du groupe ne se battent pas` de [[Tweaks Anthology]]."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -18389,7 +18389,7 @@
     },
     {
         "name": "One Pixel Productions High-Quality Music for BGT",
-        "description": "Créé par pro5, ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.<br/>Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.<br/>Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable du mod BGTMusic, notamment le composant \"Musique intégrale de Baldur's Gate\".Ce mod doit être installer après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.<br/>Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT.",
+        "description": "Créé par pro5, ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.<br/>Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.<br/>Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable du mod BGTMusic, notamment le composant `Musique intégrale de Baldur's Gat`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.<br/>Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT.",
         "urls": [
             "http://www.shsforums.net/topic/50032-1pp-high-quality-music-for-soatob-tututosc-iwd-pst/page-4#entry567024"
         ],
@@ -19042,7 +19042,7 @@
     },
     {
         "name": "Pathfinder Hit Dice",
-        "description": "Ce mini mod modifie les dés de vie des mages, sorciers, voleurs et bardes pour utiliser les valeurs de Pathfinder : 1d6 pour les mages et les sorciers, 1d8 pour les voleurs, les bardes et les disciples de dragon. Les tables de multi-classés ont ont aussi été ajustées. Nouvelles tables <a href=\"http://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29470\">ici</a>.<br/>À l'installation, vous avez quatre options : \"Normal Rolls\" pour les jeux non moddés, \"Average Rolls\" si vous avez installé le composant \"Higher HP on Level Up: Average Rolls\" de [[Tweaks Anthology]] (résultat moyen des dés de vie modifiés), \"Maximum Rolls\" si vous avez installé le composant \"Higher HP on Level Up: Maximum Rolls\" de [[Tweaks Anthology]] (jet maximum des dés de vie modifiés) et \"Ideal Average Rolls\", une option préférée par l'auteur du mod (jets de dés moyens +1).",
+        "description": "Ce mini mod modifie les dés de vie des mages, sorciers, voleurs et bardes pour utiliser les valeurs de Pathfinder : 1d6 pour les mages et les sorciers, 1d8 pour les voleurs, les bardes et les disciples de dragon. Les tables de multi-classés ont ont aussi été ajustées. Nouvelles tables <a href=\"http://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29470\">ici</a>.<br/>À l'installation, vous avez quatre options : `Normal Rolls` pour les jeux non moddés, `Average Rolls` si vous avez installé le composant `Higher HP on Level Up: Average Rolls` de [[Tweaks Anthology]] (résultat moyen des dés de vie modifiés), `Maximum Rolls` si vous avez installé le composant `Higher HP on Level Up: Maximum Rolls` de [[Tweaks Anthology]] (jet maximum des dés de vie modifiés) et `Ideal Average Rolls`, une option préférée par l'auteur du mod (jets de dés moyens +1).",
         "urls": [
             "http://www.shsforums.net/files/file/1176-pathfinder-hit-dice/"
         ],
@@ -19057,7 +19057,7 @@
         ],
         "team": [],
         "warnings": [
-            "Il s'agit d'un mod override qui écrase les fichiers .2da. Le dernier composant optionnel \"Modification des descriptions des classes\" n'est pas compatible avec IWD:EE et avec les jeux installés en français."
+            "Il s'agit d'un mod override qui écrase les fichiers .2da. Le dernier composant optionnel `Modification des descriptions des classes` n'est pas compatible avec IWD:EE et avec les jeux installés en français."
         ],
         "is_weidu": false,
         "translation_state": null,
@@ -20117,7 +20117,7 @@
             "deratiseur"
         ],
         "warnings": [
-            "Attention : le composant \"<em>Nouveau destin pour les glands des Dryades</em>\" empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue."
+            "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue."
         ],
         "is_weidu": null,
         "translation_state": true,
@@ -20772,7 +20772,7 @@
         ],
         "team": [],
         "warnings": [
-            "Il est désormais obsolète et a été remplacé par le composant \"<em>Repos possible partout</em>\" de [[Tweaks Anthology]]."
+            "Il est désormais obsolète et a été remplacé par le composant `Repos possible partout` de [[Tweaks Anthology]]."
         ],
         "is_weidu": null,
         "translation_state": null,
@@ -21925,7 +21925,7 @@
     },
     {
         "name": "Save Nordom Tweak from Qwinn's Tweakpack updated for PST:EE",
-        "description": "Ce mod n'est rien d'autre que le composant \"Sauvez Nordom !\" du Qwinn's Tweak Pack adapté pour PsT:EE.",
+        "description": "Ce mod n'est rien d'autre que le composant `Sauvez Nordom !` du [[Qwinn's Planescape: Torment Tweak Pack]] adapté pour PsT:EE.",
         "urls": [
             "https://github.com/badungu/PST-SaveNordomTweak"
         ],
@@ -23475,7 +23475,7 @@
     },
     {
         "name": "Spellcasting in light armor",
-        "description": "Ce mod permet au magiciens de lancer sorts en armures légères (cuir, besantine, cuirasse).",
+        "description": "Ce mod permet aux magiciens de lancer sorts en armures légères (cuir, besantine, cuirasse).",
         "urls": [
             "http://www.shsforums.net/topic/56957-mod-spellcasting-in-light-armor/"
         ],
@@ -23490,7 +23490,7 @@
         ],
         "team": [],
         "warnings": [
-            "Ce mod override est désormais obsolète. Préférez-lui le composant \"Autoriser le lancement des sorts profanes en armure\" du mod [[Tweaks Anthology]]."
+            "Ce mod override est désormais obsolète. Préférez-lui le composant `Autoriser le lancement des sorts profanes en armure` du mod [[Tweaks Anthology]]."
         ],
         "is_weidu": false,
         "translation_state": null,
@@ -23908,7 +23908,7 @@
             "Mathrim Cauthon"
         ],
         "warnings": [
-            "Attention : ce mod est incompatible avec le mod [[BuTcHeRy]] et le composant \"Firkraag amélioré\" de [[Revised Battles]]."
+            "Attention : ce mod est incompatible avec le mod [[BuTcHeRy]] et le composant `Firkraag amélioré` de [[Revised Battles]]."
         ],
         "is_weidu": null,
         "translation_state": true,
@@ -26590,7 +26590,7 @@
         ],
         "team": [],
         "warnings": [
-            "Attention : Comme il est inclus dans le mod Qwinn's Planescape: Torment Tweak Pack (composant \"Grimoire de triche\"), autant installer le mod précédent qui, en plus, est traduit."
+            "Attention : Comme il est inclus dans le mod [[Qwinn's Planescape: Torment Tweak Pack]] (composant `Grimoire de triche`), autant installer le mod précédent qui, en plus, est traduit."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -26644,7 +26644,7 @@
     },
     {
         "name": "Tortured Souls-BP",
-        "description": "« Les Âmes Torturées » est un terme générique pour englober tous les PNJ qui sont troublés. Ce mod ajoute de nombreux banters, 4 nouvelles romances dont une entre Yoshimo et Kachiko, et une énorme nouvelle quête. Plus précisément :<br/>- 5 nouveaux PNJ recrutables dont Sime (la fille d’Aran Linvail, aux côtés de son père si vous avez travaillé pour sa guilde au chapitre 3), Kachiko (dans le donjon d'Irenicus), Dynahéir (Sime et Minsc doivent être dans le groupe), Coran (disponible dans la forêt du Téthyr) et Bodhi (si vous avez choisi de travailler pour sa guilde au chapitre 3).<br/>Une romance avec Valygar pour un PJ féminin, qui débute dans SoA et se poursuit dans ToB.<br/>- Une nouvelle quête assez vaste sur la route de Spellhold, dont les protagonistes seront Yoshimo et Kachiko.<br/>- Une romance avec Sime pour les PJ des 2 sexes.<br/>- Plusieurs quêtes spécifiques à Sime, dont l'une vous amènera à affronter par 2 fois un ennemi (indestructible dans la 1ère rencontre) lors de la quête principale du mod.<br/>- Le composant \"Quêtes de classe multiples\" pour les PJ multi-classés, leur autorisant à effectuer les quêtes de toutes leur sous-classes.<br/>- Une légère amélioration du combat de la Rune Tordue.<br/>- Une multitude de nouveaux objets (provenant en grande partie d'IWD1).<br/>Yoshimo doit faire partie de votre groupe pour pouvoir recruter Kachiko. De même, le recrutement de Coran ne pourra se faire qu'en déclenchant une mini-quête dans le Marché de l'Aventurier (vous devez y pénétrer sans que Jaheira fasse partie de votre groupe).<br/>Cette version est compatible avec [[The Big Picture]] et la plupart des mods WeiDU.",
+        "description": "« Les Âmes Torturées » est un terme générique pour englober tous les PNJ qui sont troublés. Ce mod ajoute de nombreux banters, 4 nouvelles romances dont une entre Yoshimo et Kachiko, et une énorme nouvelle quête. Plus précisément :<br/>- 5 nouveaux PNJ recrutables dont Sime (la fille d’Aran Linvail, aux côtés de son père si vous avez travaillé pour sa guilde au chapitre 3), Kachiko (dans le donjon d'Irenicus), Dynahéir (Sime et Minsc doivent être dans le groupe), Coran (disponible dans la forêt du Téthyr) et Bodhi (si vous avez choisi de travailler pour sa guilde au chapitre 3).<br/>Une romance avec Valygar pour un PJ féminin, qui débute dans SoA et se poursuit dans ToB.<br/>- Une nouvelle quête assez vaste sur la route de Spellhold, dont les protagonistes seront Yoshimo et Kachiko.<br/>- Une romance avec Sime pour les PJ des 2 sexes.<br/>- Plusieurs quêtes spécifiques à Sime, dont l'une vous amènera à affronter par 2 fois un ennemi (indestructible dans la 1ère rencontre) lors de la quête principale du mod.<br/>- Le composant `Quêtes de classe multiples` pour les PJ multi-classés, leur autorisant à effectuer les quêtes de toutes leur sous-classes.<br/>- Une légère amélioration du combat de la Rune Tordue.<br/>- Une multitude de nouveaux objets (provenant en grande partie d'IWD1).<br/>Yoshimo doit faire partie de votre groupe pour pouvoir recruter Kachiko. De même, le recrutement de Coran ne pourra se faire qu'en déclenchant une mini-quête dans le Marché de l'Aventurier (vous devez y pénétrer sans que Jaheira fasse partie de votre groupe).<br/>Cette version est compatible avec [[The Big Picture]] et la plupart des mods WeiDU.",
         "urls": [
             "http://www.shsforums.net/files/file/324-tortured-souls-bp-compatible-version-v610/"
         ],
@@ -27658,7 +27658,7 @@
             "Graoumf"
         ],
         "warnings": [
-            "Ce mod est désormais obsolète. Préférez-lui le composant \"Récipients uniques\" du mod [[Tweaks Anthology]], qui, de plus, est compatible avec les jeux EE !"
+            "Ce mod est désormais obsolète. Préférez-lui le composant `Récipients uniques` du mod [[Tweaks Anthology]], qui, de plus, est compatible avec les jeux EE !"
         ],
         "is_weidu": null,
         "translation_state": true,
