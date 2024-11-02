@@ -700,11 +700,16 @@
             "BGEE"
         ],
         "team": [],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "Since it dynamically writes a new item category into the system, it is recommended to install this mod last."
+        ],
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "de"
+        ]
     },
     {
         "name": "Alabaster sands",
@@ -1279,10 +1284,12 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Anishai (One-Day NPC)",
@@ -1510,7 +1517,6 @@
             "Sort et objet"
         ],
         "games": [
-            "BGT",
             "BGEE",
             "BG2EE",
             "SoD",
@@ -1518,10 +1524,13 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "ru"
+        ]
     },
     {
         "name": "Arcane-Divine Spell Pack",
@@ -7437,7 +7446,7 @@
     },
     {
         "name": "Diablo2 Kit Pack Series for ToB & EE",
-        "description": "Ce mod regroupe cinq profils inspirés de Diablo2 et convertis pour BG2, BGT et les jeux EE. Il comprend l'Amazone, l\"Assassin, le Barbare, le Nécromancien et le Paladin. Vous devrez télécharger chaque kit dans la page de téléchargement.",
+        "description": "Ce mod regroupe cinq profils inspirés de Diablo2 et convertis pour BG2, BGT et les jeux EE. Il comprend l'Amazone, l'Assassin, le Barbare, le Nécromancien et le Paladin. Vous devrez télécharger chaque kit dans la page de téléchargement.",
         "urls": [
             "http://www.shsforums.net/files/file/1115-diablo2-kit-pack-series-for-tob-ee/",
             "https://github.com/shohysie/BG2MODS"
@@ -9180,10 +9189,12 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Er'vonyrah: Pieśń Władającej",
@@ -9255,7 +9266,8 @@
         "name": "Evandra",
         "description": "Evandra est une illusionniste elfe neutre absolue et, pour ceux qui connaissent l'univers de Lancedragon, une magicienne de haute Sorcellerie en robe rouge. Compte tenu de son origine elfique, son alignement dans certains sens représente une chute - un écart important par rapport à ce qu'elle avait à un moment donné prévu de la vie.<br/>Elle se trouve à l'intérieur de la sphère planaire avant le chapitre 4, piégée avec les chevaliers de Solamnia. Elle est immédiatement recrutable. Notez que l'option de la forteresse du magicien pour renvoyer les chevaliers dans leur monde d'origine n'est plus disponible, bien que les joueurs de toutes les classes puissent éventuellement résoudre leur situation.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1008-evandra/"
+            "https://www.gibberlings3.net/files/file/1008-evandra/",
+            "https://github.com/MattyGroove/Evandra"
         ],
         "categories": [
             "PNJ recrutable",
@@ -9269,10 +9281,12 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Every Mod and Dog",
@@ -9957,7 +9971,7 @@
         "name": "Flamewing's Tweaks for Baldur's Gate II",
         "description": "Anciennement \"<a href=\"http://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/\">Convenience Tweaks and Glaicas Fix</a>\", ce mod a été adapté aux jeux EE. Il s'agit d'une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants : Toujours gagner contre Aesgareth, Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse, Rendre la Machine de Lum le Fou plus facile à utiliser, Libérer plus facilement Glaicas de son charme, Les armes de jeu ne bénéficient plus de bonus de force au toucher.",
         "urls": [
-            "https://github.com/flamewing/m7tweaks/releases"
+            "https://github.com/flamewing/m7tweaks/"
         ],
         "categories": [
             "Gameplay"
@@ -9965,18 +9979,17 @@
         "games": [
             "BG2",
             "BGT",
-            "BGEE",
             "BG2EE",
-            "SoD",
-            "EET",
-            "IWDEE"
+            "EET"
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Flanks and Rear",
@@ -11175,7 +11188,7 @@
         "description": "Ce mod ajoute un elfe de la lune de Cormanthor qui a passé à défendre celle-ci des invasions, jusqu'à ce qu'un mystérieux sort le téléporte à Athkatla. L'aiderez-vous ? le mod comprend 2 banters avec chaque PNJ de Bioware, des dialogues amicaux avec le PJ et de nombreuses interjections.",
         "urls": [
             "https://www.gibberlings3.net/files/file/718-haldamir-npc-for-bg2/",
-            "https://github.com/Gibberlings3/Haldamir/releases"
+            "https://github.com/Gibberlings3/Haldamir"
         ],
         "categories": [
             "PNJ recrutable",
@@ -11194,7 +11207,10 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "de"
+        ]
     },
     {
         "name": "Hanna (One-Day NPC)",
@@ -12879,7 +12895,7 @@
         "languages": []
     },
     {
-        "name": "Improved Heart of Fury",
+        "name": "Improved Heart of Fury Mode",
         "description": "Ce mod fournit une version plus intéressante du mode Cœur de furie d'Icewind Dale. Il offre un jeu nettement plus difficile, mais pas simplement en donnant de grandes quantités de points de vie aux ennemis ou en augmentant leurs caractéristiques (comme dans la version EE normale), mais en effectuant un rééquilibrage majeur des ennemis et de leurs capacités.<br/>Les ennemis obtiennent de nouvelles capacités, une IA améliorée (inspirée de Stratagems), le renforcement de diverses caractéristiques et à certains endroits, ils sont plus nombreux. De nombreux ennemis voient leur capacité de base améliorée. Les trolls régénèrent plus rapidement, les scarabées bombardiers tirent plus souvent, les araignées sabre se déplacent et attaquent très rapidement, etc.<br/>Comme dans le mode HoF d'Icewind Dale 2, la plupart des objets du jeu sont renforcés. Il apporte aussi de nombreux changements intéressants aux classes et aux kits, de nombreux nouveaux ajustements aux sorts, aux objets et à diverses autres choses dans le jeu.",
         "urls": [
             "https://forums.beamdog.com/discussion/70717/mod-improved-heart-of-fury-mode-version-4-1-0/p1",
@@ -12893,10 +12909,13 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "ru"
+        ]
     },
     {
         "name": "Improved Horns of Valhalla",
@@ -16518,10 +16537,12 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Misc kits",
@@ -18483,7 +18504,7 @@
         "description": "Ce mod ajoute un profil de prêtre inspiré de la classe de prestige Slime Lord de Pathfinder.",
         "urls": [
             "https://forums.beamdog.com/discussion/80469/mod-oozelord-cleric-kit/p1",
-            "https://github.com/Dracoqwerty/Oozelord-Cleric/releases"
+            "https://github.com/Dracoqwerty/Oozelord-Cleric/"
         ],
         "categories": [
             "Kit"
@@ -18495,11 +18516,15 @@
             "EET"
         ],
         "team": [],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "Le créateur conseille d'installer également [[Better Stat Drain (STR, DEX, CON, INT, WIS, CHA)]]."
+        ],
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Orcish Scout Kit",
@@ -21342,7 +21367,7 @@
         "name": "Rough World (Elminster's Difficulty Adjustments)",
         "description": "Le concept de ce mod est de rendre le monde plus violent. Les personnages de faible réputation sont considérés comme des êtres humains absolument horribles - il y a donc très peu de chances qu'ils aident qui que ce soit. Lorsqu'ils le font, c'est considéré comme un acte exceptionnel. Par conséquent, ils ont désormais moins de chances de faire des dons pour améliorer leur réputation que les personnages de bonne réputation. Les marchands sont également enclins à leur accorder des réductions, ne serait-ce que pour s'assurer qu'ils ne sont pas vexés.<br/>De même, parce que le monde est un endroit sombre et sans pitié, les personnages dont la réputation est élevée sont vus sous un jour beaucoup plus positif. Les gens sont plus disposés à leur pardonner s'ils commettent une erreur (comme tuer un habitant de la ville).<br/>Le mod comporte également d'autres composants qui modifient considérablement la façon dont le chapitre 7 est géré dans le jeu ou augmentent la difficulté du jeu.",
         "urls": [
-            "http://www.shsforums.net/files/file/1149-rough-world/"
+            "http://www.shsforums.net/topic/58723-mod-rough-world-beta/"
         ],
         "categories": [
             "Gameplay"
@@ -23500,10 +23525,12 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Spiritwalker - A Shaman Shapeshifter Kit",
@@ -24425,10 +24452,12 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Tamoko",
@@ -24961,10 +24990,13 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "de"
+        ]
     },
     {
         "name": "The Beaurin Legacy",
@@ -25847,10 +25879,13 @@
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "de"
+        ]
     },
     {
         "name": "The Slithering Menace",
