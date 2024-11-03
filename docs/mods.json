@@ -1247,9 +1247,10 @@
     },
     {
         "name": "Animate Dead Now",
-        "description": "Ce mod est toujours en phase de développement : son auteur a supprimé le lien de téléchargement.",
+        "description": "Ce mod permet de ressusciter les pnjs tombés au combat sous la forme de mort-vivants.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/31353-animate-dead-now-mod-for-ee/?do=findComment&comment=288259"
+            "https://www.gibberlings3.net/forums/topic/31353-animate-dead-now-mod-for-ee/?do=findComment&comment=288259",
+            "https://github.com/Endarire/Animate-Dead-Now/releases/tag/June-21-2023"
         ],
         "categories": [
             "Gameplay"
@@ -1261,7 +1262,9 @@
             "EET"
         ],
         "team": [],
-        "warnings": [],
+        "warnings": [
+            "Il est en mod Bêta et l'auteur a supprimé le lien de téléchargement."
+        ],
         "is_weidu": null,
         "translation_state": false,
         "safe": false,
@@ -3035,7 +3038,7 @@
         "warnings": [
             "À cause d'un bug dans le moteur du jeu, les cartes disposant de portes et/ou de zones d'eau présentent certains artefacts (lignes noires) qui seront réglés au fur et à mesure de la maintenance de ce mod."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": []
@@ -3047,8 +3050,7 @@
             "http://www.shsforums.net/files/file/1082-bg2ee-gui-in-bgee/"
         ],
         "categories": [
-            "Interface",
-            "Cosmétique"
+            "Interface"
         ],
         "games": [
             "BGEE"
@@ -3069,8 +3071,7 @@
             "https://forums.beamdog.com/discussion/55094/mod-bg2ee-gui-to-bgee"
         ],
         "categories": [
-            "Interface",
-            "Cosmétique"
+            "Interface"
         ],
         "games": [
             "BGEE",
@@ -5349,7 +5350,8 @@
         "name": "Chanter Kit",
         "description": "Publié sur <a href=\"http://www.shsforums.net/files/file/763-chanter-priestly-bard-kit-v14a/\">SHS</a>, ce mod ajoute un profil de barde, le chantre, qui lance des sorts divins à la place des sorts arcaniques, peut lancer des sorts en armure et choisir entre plusieurs chants puissants. Pas de vol à la tire. HLAs personnalisées.<br/>Un composant supplémentaire permet désormais au Chantre de gagner la forteresse du Prêtre à la place de celle du Barde.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html"
+            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "https://github.com/The-Gate-Project/Chanter_Kit"
         ],
         "categories": [
             "Kit"
@@ -5367,10 +5369,13 @@
             "deratiseur"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr"
+        ]
     },
     {
         "name": "Chaos Sorcerer Kit",
@@ -16464,7 +16469,7 @@
     },
     {
         "name": "Minor NPC Portraits for BG2:EE",
-        "description": "À l'instar des mods Gerri's BGT NPC Portraits et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG2:EE.",
+        "description": "À l'instar des mods [[Gerri's NPC Portraits Pack]] et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG2:EE.",
         "urls": [
             "https://github.com/smeagolheart/MinorNPCPortraitsforBGEE2"
         ],
@@ -16486,7 +16491,7 @@
     },
     {
         "name": "Minor NPC Portraits for BG:EE",
-        "description": "À l'instar des mods Gerri's BGT NPC Portraits et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG:EE et Sod.",
+        "description": "À l'instar des mods [[Gerri's NPC Portraits Pack]] et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG:EE et SoD.",
         "urls": [
             "https://github.com/smeagolheart/MinorNPCPortraitsforBGEE/releases"
         ],
@@ -16509,7 +16514,7 @@
     },
     {
         "name": "Minor NPC Portraits for IWD:EE",
-        "description": "À l'instar des mods Gerri's BGT NPC Portraits et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans IWD:EE.",
+        "description": "À l'instar des mods [[Gerri's NPC Portraits Pack]] et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans IWD:EE.",
         "urls": [
             "https://forums.beamdog.com/discussion/37001/mod-minor-npc-portraits-for-iwdee/p1",
             "https://github.com/smeagolheart/MinorNPCPortraitsforIWDEE"
@@ -19742,7 +19747,8 @@
         "name": "Portrait Picker",
         "description": "Ce mod modifie l'interface de sélection des portraits.",
         "urls": [
-            "https://forums.beamdog.com/discussion/56916/mod-portrait-picker-for-bgee-sod-v2-1-and-bg2ee-v2-1/p1"
+            "https://forums.beamdog.com/discussion/56916/mod-portrait-picker-for-bgee-sod-v2-1-and-bg2ee-v2-1/p1",
+            "https://github.com/Mr2150/Portrait-Picker-for-BGEE-SOD-and-BG2EE"
         ],
         "categories": [
             "Interface",
@@ -19758,14 +19764,14 @@
         "warnings": [
             "Attention : il nécessite une manipulation de certains fichiers. Bien lire le readme inclus."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": null,
         "languages": []
     },
     {
         "name": "Portraits Portraits Everywhere (PPE)",
-        "description": "À l'instar des mods Gerri's BGT NPC Portraits et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans les jeux EE (4617 au total !).<br/>Un composant optionnel permet  d'attribuer des portraits issus d'un pool de portraits aléatoires aux acteurs auxquels le composant principal n'a pas attribué de portraits spécifiques, essentiellement des créatures ayant un nom générique. Par exemple, les personnages humains nommés \"Voleur\" obtiendront des portraits à partir du pool masculin ou féminin des Voleurs. Il y a plus de quatre-vingt-dix pools de portraits aléatoires qui vont de quelques portraits à plus de 20.<br/>Note : ce mod regroupe la série des mods \"Minor NPC Portraits\" pour chaque jeu.",
+        "description": "À l'instar des mods [[Gerri's NPC Portraits Pack]] et [[BG1 NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans les jeux EE (4617 au total !).<br/>Un composant optionnel permet  d'attribuer des portraits issus d'un pool de portraits aléatoires aux acteurs auxquels le composant principal n'a pas attribué de portraits spécifiques, essentiellement des créatures ayant un nom générique. Par exemple, les personnages humains nommés \"Voleur\" obtiendront des portraits à partir du pool masculin ou féminin des Voleurs. Il y a plus de quatre-vingt-dix pools de portraits aléatoires qui vont de quelques portraits à plus de 20.<br/>Note : ce mod regroupe la série des mods \"Minor NPC Portraits\" pour chaque jeu.",
         "urls": [
             "http://forums.beamdog.com/discussion/61015/mod-portraits-portraits-everywhere-for-bg1ee-sod-bg2ee-iwdee-eet/p1",
             "https://github.com/DaftHunk/Portraits-Portraits-Everywhere"
@@ -19784,7 +19790,7 @@
             "DaftHunk"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -23207,9 +23213,9 @@
         "warnings": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère faut dans ce cas : ce mod fait planter les jeux originaux... À installer à vos risques et périls."
         ],
-        "is_weidu": null,
-        "translation_state": false,
-        "safe": true,
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": null,
         "languages": []
     },
     {
@@ -28325,7 +28331,8 @@
         "name": "W_PackMule",
         "description": "Ce mod ajout une mule de bât qui vous accompagnera partout, transportant vos objets sans jamais défaillir.",
         "urls": [
-            "http://www.shsforums.net/files/file/954-w-packmule/"
+            "http://www.shsforums.net/topic/47668-w-packmule/",
+            "https://github.com/Endarire/W_Packmule/releases/"
         ],
         "categories": [
             "Gameplay"
@@ -28340,8 +28347,10 @@
         "team": [
             "Galathée"
         ],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "Le lien github propose la dernière version compatible avec les versions 2.6"
+        ],
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": []
@@ -28548,7 +28557,7 @@
     },
     {
         "name": "Warsling Sniper Kit",
-        "description": "Ce mod ajoute un profil de guerrier, tiré des classes de prestige des races de Féérune, un archer spécialisé dans les frondes.<br/><br/>La version github est compatible Avec EET.",
+        "description": "Ce mod ajoute un profil de guerrier, tiré des classes de prestige des races de Féérune, un archer spécialisé dans les frondes.<br/><br/>La version github est compatible avec EET.",
         "urls": [
             "http://www.shsforums.net/files/file/935-warsling-sniper-kit-for-fighters/",
             "https://github.com/The-Gate-Project/WarslingSniperKit"
@@ -30066,6 +30075,35 @@
         "translation_state": false,
         "safe": true,
         "languages": [
+            "en"
+        ]
+    },
+    {
+        "name": "Follower_It",
+        "description": "Ce mod permet de transformer n'importe quel compagnon en suiveur (qui ne compte pas la limite de groupe). Il perd toute possibilité de dialogues, discutions, quête. Mais il existe des solutions à cette problématique, lisez le readme pour en connaître plus sur ce mod.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?f=749&t=34651&p=518215#p518215",
+            "https://github.com/Deratiseur/Follower_It"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "team": [
+            "deratiseur"
+        ],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": null,
+        "languages": [
+            "fr",
             "en"
         ]
     }
