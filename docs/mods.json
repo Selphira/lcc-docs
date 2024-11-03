@@ -20033,7 +20033,7 @@
     },
     {
         "name": "Protagonist Be Gone",
-        "description": "Essayez ce mod à vos risques et périls !!!",
+        "description": "Ce mod supprime le protagoniste, afin qu'Imoen puisse enfin prendre la place qui lui revient dans le jeu.",
         "urls": [
             "https://github.com/Argent77/A7-Protagonist-Be-Gone/releases"
         ],
@@ -20052,11 +20052,18 @@
         "team": [
             "JohnBob"
         ],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "Note de l'auteur : `It should not be installed for a serious walkthrough.`"
+        ],
+        "is_weidu": true,
         "translation_state": true,
-        "safe": true,
-        "languages": []
+        "safe": null,
+        "languages": [
+            "en",
+            "fr",
+            "ge",
+            "ru"
+        ]
     },
     {
         "name": "Prêtre de Bhaal",
@@ -20129,7 +20136,7 @@
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": []
     },
     {
@@ -30368,5 +30375,30 @@
         "languages": [
             "en"
         ]
+    },
+    {
+        "name": "Protagonist Can Die",
+        "description": "Habituellement le jeu se termine lorsque le protagoniste meurt. Ce mini-mod empêche ce fonctionnement, la fin du jeu ne se produira pas tant qu'un membre du groupe est encore en vie. Dans le cas contraire, le protagoniste pourra être ressuscité par le groupe.",
+        "urls": [
+            "https://www.dropbox.com/s/ar7egyefm39m8o2/Protagonist_Can_Die_V93.zip?dl=1"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Blash2"
+        ],
+        "team": [],
+        "warnings": [
+            "Note de l'auteur : `Try to resurrect Charname as soon as possible, to avoid problems. Install at own risk.`"
+        ],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": null,
+        "languages": []
     }
 ]
