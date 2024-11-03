@@ -5981,7 +5981,8 @@
         "name": "CoM Encounters",
         "description": "Ce mod ajoute plusieurs rencontres avec des groupes d'adversaires, trois magasins, une quête impliquant un halfling et un anneau, et améliore le combat contre Shagbag.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=53"
+            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=53",
+            "https://github.com/The-Gate-Project/Com_encounters"
         ],
         "categories": [
             "Gameplay"
@@ -5989,16 +5990,31 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Raven",
+            "Magnus Thorenson",
+            "CoM Solaufein"
         ],
         "team": [
             "Thot"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "po",
+            "fr",
+            "de",
+            "it",
+            "sp",
+            "ru",
+            "cn"
+        ]
     },
     {
         "name": "Colours of Infinity",
@@ -6981,6 +6997,9 @@
             "BGEE",
             "EET"
         ],
+        "authors": [
+            "CoM Solaufein"
+        ],
         "team": [
             "Sanctifer"
         ],
@@ -6990,7 +7009,16 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "it",
+            "en",
+            "fr",
+            "de",
+            "po",
+            "ru",
+            "cn",
+            "sp"
+        ]
     },
     {
         "name": "Dark Ritual",
@@ -17080,10 +17108,10 @@
     },
     {
         "name": "Morituri Kit",
-        "description": "Ce mod ajoute un profil de guerrier combine les pouvoirs du kensaï, du moine et du barbare, mais ne peut porter aucun objet magique à part armes et bottes.<br/>Si vous souhaitez l'attribuer à un paladin, téléchargez plutôt ce <a href=\"http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=58\">mod</a>.",
+        "description": "Ce mod ajoute un profil de guerrier combine les pouvoirs du kensaï, du moine et du barbare, mais ne peut porter aucun objet magique à part armes et bottes.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=5",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html"
+            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "https://github.com/The-Gate-Project/Morituri_Kit"
         ],
         "categories": [
             "Kit"
@@ -17097,16 +17125,21 @@
             "EET",
             "IWDEE"
         ],
+        "authors": [
+            "Aroc"
+        ],
         "team": [
             "deratiseur"
         ],
-        "warnings": [
-            "Utilisez le second lien (LCC) pour télécharger la version de Deratiseur qui est aussi compatible avec les jeux EE, et qui regroupe les deux mods en un seul."
-        ],
-        "is_weidu": null,
+        "warnings": [],
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr",
+            "ru"
+        ]
     },
     {
         "name": "Morpheus562's Kitpack",
@@ -18024,7 +18057,8 @@
         "name": "Nikita NPC",
         "description": "Elfe guerrière/voleuse chaotique bonne, Nikita fait de prime abord penser à Minsc, dans sa façon d'agir pour le bien avec un rien de naïveté... Elle dispose d'une quête personnelle, mais ne sera pas romançable. Vous pourrez la trouver à la Couronne de Cuivre, prête à vous rejoindre. Elle possède son propre équipement.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=7"
+            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=7",
+            "https://github.com/The-Gate-Project/NikitaRedux"
         ],
         "categories": [
             "PNJ recrutable",
@@ -18032,14 +18066,21 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CoM Solaufein"
         ],
         "team": [],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Ninde NPC",
@@ -28112,6 +28153,9 @@
             "BG2EE",
             "EET"
         ],
+        "authors": [
+            "Dark Raven"
+        ],
         "team": [
             "Shaywen",
             "Zooloo"
@@ -28120,7 +28164,13 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "sp",
+            "en",
+            "fr",
+            "it",
+            "ru"
+        ]
     },
     {
         "name": "Vampire World for EET",
