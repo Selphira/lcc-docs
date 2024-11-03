@@ -20,40 +20,19 @@
 
 
 
+http://www.shsforums.net/files/file/1076-the-secret-of-bonehill/
+
+
+
 * ============= *
 *  LIENS MORTS  *
 * ============= *
 
 https://baldurs-gate.de/index.php?threads/jarls-tweak-pack-v2-0-0.44590/ : Jarls Tweak Pack
-https://github.com/Transflux24/NPC-Bodies : NPC Bodies
-https://www.mediafire.com/file/tdc9m8bb732h3fo/Chantelame_v7.zip/file : Chantelame
-http://www.mediafire.com/file/cg5bopo6bzcvazu/Severian_de_Demerya_v0.3.1.zip/file : Severian de Demerya
-
-AstroBryGuy a delete son compte github, lien à mettre à jour
-https://github.com/AstroBryGuy/SoD-Dialog-Banters/releases : SoD Dialogue Banters
-https://github.com/AstroBryGuy/BGEESpawn/releases : BG:EE Leveled Spawns Mod
-https://github.com/AstroBryGuy/NeeraBanters/releases : Neera Banters
-https://github.com/AstroBryGuy/JaheiraRecast/releases : Jaheira Recast
-https://github.com/AstroBryGuy/ChattyImoen/releases : Chatty Imoen
-
-Morpheus est passé a son propre compte, lien à mettre à jour quand ça sera possible
-https://github.com/Gibberlings3/Enhanced-Powergaming-Scripts/releases : Enhanced Powergaming Scripts
-https://www.gibberlings3.net/mods/other/enhanced-powergaming-scripts/ : Enhanced Powergaming Scripts
-https://github.com/Gibberlings3/Morpheus562-s-Kitpack/releases : Morpheus562's Kitpack
-https://github.com/Gibberlings3/Thieving-Skills-For-Bards/releases : Thieving Skills for Bards
-https://github.com/Gibberlings3/Forgotten-Armament/releases : Forgotten Armament BETA
-https://github.com/Gibberlings3/Skills-and-Abilities/releases : Skills and Abilities
 
 SHS - Page inexistante : (à investiguer)
 http://www.shsforums.net/files/file/1146-baldurs-gate-1-2-widescreen-hd-gui-in-1280-x-720/ : BG 1 Widescreen HD GUI in 1280 x 720
 http://www.shsforums.net/files/file/1126-bgee-bgsod-and-bg2ee-high-resolution-portraits/ : High Resolution Portraits
-http://www.shsforums.net/topic/61095-nostalgia-pack-putting-the-bg-back-in-bgee/ : Nostalgia Pack
-http://www.shsforums.net/index.php?app=core&module=attach%C2%A7ion=attach&attach_id=28226 : Macholy's Nameless Melody Inn
-http://www.shsforums.net/index.php?app=core&module=attach%C2%A7ion=attach&attach_id=29175 : The Vault
-http://www.shsforums.net/topic/61094-acs-miscellaneous-tweaks/ : AC's Miscellaneous Tweaks
-http://www.shsforums.net/index.php?app=core&module=attach%C2%A7ion=attach&attach_id=30367 : Revised Forgotten Wars Item Pack
-http://www.shsforums.net/index.php?app=core&module=attach%C2%A7ion=attach&attach_id=28057 : Sorcerer's Place Item Collection
-http://www.shsforums.net/index.php?app=core&module=attach%C2%A7ion=attach&attach_id=20636 : Paladins of Faerun Kitpack
 
 SHS - Page existante (à vérifier) :
 http://www.shsforums.net/files/file/947-aerie-portait-pack/ : Aerie Portrait Pack
