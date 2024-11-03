@@ -1736,7 +1736,7 @@
         "description": "Ce mod ajoute Breagar du clan Bardormar en tant que PNJ recrutable dans Baldur's Gate I et II. D'alignement loyal bon, il dispose de son propre profil de forgeron nain. Le mod contient des dialogues, des créatures, des objets et des quêtes.<br/>Pour BGT et EET, Breagar fonctionne comme un personnage continu tout au long de la trilogie. Il existe trois épilogues différents dans ToB selon les choix du joueur.<br/>Pour BG:EE, Tutu, BGII et BG2:EE, seul le contenu correspondant au jeu sera installé.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/ascalons-breagar.3/",
-            "https://github.com/Gitjas/Ascalons_Breagar/releases"
+            "https://github.com/Gitjas/Ascalons_Breagar/"
         ],
         "categories": [
             "PNJ recrutable",
@@ -3055,7 +3055,7 @@
         ],
         "team": [],
         "warnings": [
-            "Attention : il ne fonctionne qu'avec BG2:EE version 1.3 et écrase les fichiers."
+            "Attention : il ne fonctionne qu'avec BG:EE version 1.3 et écrase les fichiers."
         ],
         "is_weidu": false,
         "translation_state": null,
@@ -3064,7 +3064,7 @@
     },
     {
         "name": "BG2:EE GUI To BG:EE",
-        "description": "Ce mod de Kerozevok modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements. Nécessite Siege of Dragonspear.",
+        "description": "Ce mod de Kerozevok modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements.",
         "urls": [
             "https://forums.beamdog.com/discussion/55094/mod-bg2ee-gui-to-bgee"
         ],
@@ -3073,10 +3073,13 @@
             "Cosmétique"
         ],
         "games": [
+            "BGEE",
             "SoD"
         ],
         "team": [],
-        "warnings": [],
+        "warnings": [
+            "Nécessite Siege of Dragonspear."
+        ],
         "is_weidu": null,
         "translation_state": null,
         "safe": true,
@@ -6922,7 +6925,7 @@
     },
     {
         "name": "Dark Horizons",
-        "description": "Une puissante organisation, dénommée \"La Section\", vous pourchasse pour des raisons connues d'elle-seule. Ils ne reculeront devant rien pour parvenir à leurs fins. Ils disposent de nombreux agents et d'associés influents à travers Féérune. Stoppez leurs leaders pour le bien de la Côte des Épées.<br/>Ce mod ajoute une large quête, 3 nouveaux PNJ disposant de quelques quêtes personnelles, plusieurs rencontres (hostiles ou non) et quêtes secondaires, des magasins et de nouvelles zones à explorer. Les anciens mods BG1 Adventure Packs et CoM Forge/Item Upgrade font désormais partie de Dark Horizons.",
+        "description": "Une puissante organisation, dénommée \"La Section\", vous pourchasse pour des raisons connues d'elle-seule. Ils ne reculeront devant rien pour parvenir à leurs fins. Ils disposent de nombreux agents et d'associés influents à travers Féérune. Stoppez leurs leaders pour le bien de la Côte des Épées.<br/>Ce mod ajoute une large quête, 3 nouveaux PNJ disposant de quelques quêtes personnelles, plusieurs rencontres (hostiles ou non) et quêtes secondaires, des magasins et de nouvelles zones à explorer. Les anciens mods BG1 Adventure Packs et [[BG1 CoM Forge - Item Upgrade]] font désormais partie de Dark Horizons.",
         "urls": [
             "http://www.baldursgatemods.com/forums/index.php?topic=4828.0",
             "https://github.com/The-Gate-Project/DarkHorizons"
@@ -10741,7 +10744,7 @@
     },
     {
         "name": "Gerri's NPC Portraits Pack",
-        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : Ascalon's Questpack, [[Assassinations]], BG1 Mini-Quests and Encounters, [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], Romantic Encounters 1 &amp; 2, Secret of Bone Hill, Stone of Askavar, [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
+        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalons Questpack]], [[Assassinations]], BG1 Mini-Quests and Encounters, [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[BG Romantic Encounters]] &amp; 2, Secret of Bone Hill, [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
         "urls": [
             "https://github.com/gboeck/NSC-Portraits"
         ],
@@ -15067,7 +15070,7 @@
         ],
         "is_weidu": null,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": [
             "fr"
         ]
@@ -16850,7 +16853,7 @@
     },
     {
         "name": "Monk Overhaul",
-        "description": "Vous avez aimé le composant <em>Capacités de haut niveau du moine</em> du mod [[Oversight]] ? Alors, ce mod est pour vous.<br/>Il reprend son contenu et le rend compatible avec les jeux EE. Il remplace la table des capacités de haut niveau des moines (qui était celle des guerriers) par une autre inspirée de celles utilisées par Balthazar dans ToB : Coup d'ombre, Frappe du tigre, Poing draconique, Plus vite que la lumière, Échanger les résistances, Position solaire, Position lunaire, Position d'ombre, Pieds du vent et Second souffle.",
+        "description": "Vous avez aimé le composant `Capacités de haut niveau du moine` du mod [[Oversight]] ? Alors, ce mod est pour vous.<br/>Il reprend son contenu et le rend compatible avec les jeux EE. Il remplace la table des capacités de haut niveau des moines (qui était celle des guerriers) par une autre inspirée de celles utilisées par Balthazar dans ToB : Coup d'ombre, Frappe du tigre, Poing draconique, Plus vite que la lumière, Échanger les résistances, Position solaire, Position lunaire, Position d'ombre, Pieds du vent et Second souffle.",
         "urls": [
             "https://forums.beamdog.com/discussion/33618/mod-monk-overhaul/p1",
             "https://github.com/Plutonium-X/KIT_Moine_Rev"
@@ -16872,7 +16875,7 @@
             "deratiseur"
         ],
         "warnings": [
-            "Le composant <em>Révision du poing du moine</em>, qui modifie la table de progression de leur puissance, ne fonctionne que sur EE.",
+            "Le composant `Révision du poing du moine`, qui modifie la table de progression de leur puissance, ne fonctionne que sur EE.",
             "Seul le second lien de téléchargement, fourni par deratiseur, contient la traduction française. Sa version est par ailleurs aussi compatible avec le jeu BG2 original."
         ],
         "is_weidu": true,
@@ -18621,7 +18624,7 @@
     },
     {
         "name": "Out, Brief Candlekeep!",
-        "description": "Ce petit mod limite à 1 heure de jeu le temps que vous pouvez passer à Château-Suif avant de le quitter. Passé ce délai, cous aurez une très mauvaise surprise.",
+        "description": "Ce petit mod limite à 1 heure de jeu le temps que vous pouvez passer à Château-Suif avant de le quitter. Passé ce délai, vous aurez une très mauvaise surprise.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30169-out-brief-candlekeep-mod-mostly-for-bgee/"
         ],
@@ -22306,7 +22309,6 @@
         ],
         "team": [],
         "warnings": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !",
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
         ],
         "is_weidu": null,
@@ -25691,7 +25693,6 @@
             "Le Marquis"
         ],
         "warnings": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !",
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
         ],
         "is_weidu": null,
