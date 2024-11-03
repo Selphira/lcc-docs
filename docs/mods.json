@@ -1984,11 +1984,12 @@
             "deratiseur"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
-            "fr"
+            "fr",
+            "en"
         ]
     },
     {
@@ -30400,5 +30401,88 @@
         "translation_state": null,
         "safe": null,
         "languages": []
+    },
+    {
+        "name": "Kurosaï le combineur",
+        "description": "Kurosaï est un pnj pour BG2EE qui peut moyennant moult pièces d'or combiner trois objets +x en un objet +x+1. Il peut ainsi combiner les objets jusqu'à +6.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34425",
+            "https://github.com/Deratiseur/Combino/"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "deratiseur"
+        ],
+        "team": [],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "fr",
+            "en"
+        ]
+    },
+    {
+        "name": "Jazon le revenant",
+        "description": "Jazon le revenant est un revenant qui peut vous suivre comme 7ème membre et vous suivra dans toutes les zones. Il est de niveau 8 et ne progressera jamais, par contre il tape dur et résiste à tout (force et constitution 19, immunités de mort vivant, 75% de résistance à tout et régénération rapide). Son arme n'est pas magique au début mais évolue en fonction de la progression du protagoniste. S'il est tué, il droppe son cœur, que vous pouvez utiliser après une nuit de sommeil pour le ré-invoquer.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34466",
+            "https://github.com/Deratiseur/Jazon/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "deratiseur"
+        ],
+        "team": [],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "fr",
+            "en"
+        ]
+    },
+    {
+        "name": "4U-H4S4RD, un kit à l'unité",
+        "description": "Un kit qui peut lancer 1x par 2 niveaux une capacité aléatoire reproduisant n'importe quelle capacité spéciale de n'importe quel kit. A partir du niveau 18 il peut lancer 1x par niveau une capacité reproduisant n'importe quel hla/sort épique de n'importe quelle classe.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34583",
+            "https://github.com/Deratiseur/SWP/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "deratiseur"
+        ],
+        "team": [],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "fr",
+            "en"
+        ]
     }
 ]
