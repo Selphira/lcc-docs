@@ -16953,12 +16953,14 @@
         ],
         "team": [],
         "warnings": [
-            "Mis à jour pour la dernière fois il y a 4 ans pour le patch IWD:EE 1.4, il y a de fortes chances qu'il ne soit plus compatible avec les versions récentes du jeu. À installer à vos risques et périls."
+            "Mis à jour pour la dernière fois pour le patch IWD:EE 1.4, il y a de fortes chances qu'il ne soit plus compatible avec les versions récentes du jeu. À installer à vos risques et périls."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Monk Overhaul",
@@ -17575,11 +17577,13 @@
         "name": "NPC Generator",
         "description": "N'avez-vous jamais regretté que le jeu ne vous permette de créer qu'une partie initiale composée du protagoniste et (avec un certain effort) d'un petit nombre de personnages supplémentaires ? Plus maintenant ! Ce mod vous permet d'installer des personnages pré-générés ou exportés en tant que PNJ ordinaires. Vous pouvez les rencontrer à des endroits prédéterminés où vous avez la possibilité de les inviter dans votre groupe ou de les faire vous suivre sans occuper de place dans le groupe, à n'importe quel moment du jeu. Les PNJ renvoyés peuvent recevoir l'ordre d'attendre ou de retourner au lieu de rencontre initial.",
         "urls": [
-            "https://github.com/Argent77/A7-NPCGenerator/releases"
+            "https://www.gibberlings3.net/forums/topic/31809-npc-generator-npc-creation-made-easy",
+            "https://forums.beamdog.com/discussion/80057",
+            "https://github.com/Argent77/A7-NPCGenerator/"
         ],
         "categories": [
             "PNJ recrutable",
-            "Kit"
+            "Gameplay"
         ],
         "games": [
             "BG2",
@@ -17591,14 +17595,22 @@
             "EET",
             "IWDEE"
         ],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "deratiseur"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru"
+        ]
     },
     {
         "name": "NPC Kit Pack",
@@ -30297,7 +30309,8 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "team": [
             "deratiseur"
@@ -30532,6 +30545,34 @@
         "safe": true,
         "languages": [
             "fr",
+            "en"
+        ]
+    },
+    {
+        "name": "Caster Crafting",
+        "description": "Un mod meta qui permet entre autre de copier des sorts entre livre de mage, écrire des parchemins ou préparer des potions. Lisez la documentation pour en savoir plus.",
+        "urls": [
+            "https://github.com/BardezAnAvatar/BGEE-Caster-Crafting"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE",
+            "PSTEE"
+        ],
+        "authors": [
+            "Bardez"
+        ],
+        "team": [],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
             "en"
         ]
     }
