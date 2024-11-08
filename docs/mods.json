@@ -771,8 +771,7 @@
             "https://forums.beamdog.com/discussion/63483/alchemist-kit-for-mages-v1-1/p1"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -2158,8 +2157,7 @@
             "https://github.com/Plutonium-X/KIT_Aurore/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -3204,8 +3202,7 @@
             "http://www.shsforums.net/files/file/1026-bgee-kitpack/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -9469,8 +9466,7 @@
             "https://forums.beamdog.com/discussion/77859/expanded-classes-and-kits-massive-kit-compilation-mod/p1"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -13244,8 +13240,7 @@
             "http://www.shsforums.net/files/file/973-infinitykits/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -16308,8 +16303,7 @@
             "http://www.shsforums.net/files/file/905-megamodkits/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -16665,13 +16659,12 @@
     },
     {
         "name": "Misc kits",
-        "description": "Quelques kits que j'ai réalisés pour m'entraîner, tout en prévoyant un kitpack plus important -&gt;<a href=\"https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md\">[[The Workshop Kitpack]].</a><br/><br/>Kensaizerker (Kit de guerrier) - Enhanced Editions et BG2 original<br/><br/>Adepte de l'épée (Kit de moine) - Enhanced Editions uniquement<br/><br/>Bouffon cinglant (Kit de barde) - Enhanced Editions et BG2 original<br/><br/>Fichier \"config.ini\" présent dans le répertoire du mod :<br/>Mettez la valeur d'un kit à = 0 pour ne pas l'installer<br/><br/><a href=\"https://github.com/D2-mods/Misc-kits/blob/main/README.French.md\">Voir le readme pour le détail des kits en spoiler !</a>",
+        "description": "Mod contenant 3 kits :<br/><br/>- Kensaizerker (Kit de guerrier) - EE et BG2o<br/>- Adepte de l'épée (Kit de moine) - EE uniquement<br/>- Bouffon cinglant (Kit de barde) - EE et BG2o<br/><br/>Fichier \"config.ini\" présent dans le répertoire du mod :<br/>Mettez la valeur d'un kit à = 0 pour ne pas l'installer<br/><br/><a href=\"https://github.com/D2-mods/Misc-kits/blob/main/README.French.md\">Voir le readme pour le détail des kits en spoiler !</a>",
         "urls": [
-            "https://github.com/D2-mods/Misc-kits/releases"
+            "https://github.com/D2-mods/Misc-kits"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -16682,14 +16675,22 @@
             "EET",
             "IWDEE"
         ],
+        "authors": [
+            "Dan_P"
+        ],
         "team": [
             "JohnBob"
         ],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "Fait parti d'un kitpack plus important : [[The Workshop Kitpack]]"
+        ],
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr"
+        ]
     },
     {
         "name": "Mix Mod",
@@ -17330,12 +17331,14 @@
         ],
         "team": [],
         "warnings": [
-            "Attention : Ce mod est toujours en phase de développement. Seule la version GitHub est aussi compatible avec les jeux EE."
+            "Attention : Seule la version GitHub est compatible avec les jeux EE."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Multiplayer Tweaks",
@@ -20366,8 +20369,7 @@
             "https://github.com/SpellholdStudios/RPG_Dungeon_Kit_Pack/releases"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -20681,8 +20683,7 @@
             "https://forums.beamdog.com/discussion/68705/red-soul-kit/p1"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -25143,8 +25144,7 @@
             "https://github.com/ArtemiusI/The-Artisan-s-Kitpack/releases"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -26346,13 +26346,14 @@
     },
     {
         "name": "The Workshop Kitpack",
-        "description": "C'est un pack de Kits sur lequel je travaille depuis un moment. Il comporte actuellement 14 kits + 6 déclinaisons pour multi-classes. Il contient également plus de 20 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 10 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources. Ce mod est compatible avec BG:EE, BG2:EE, IWD:EE et EET.<br/><br/>NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.<br/><br/>Ce mod dispose de plusieurs kits originaux et plutôt sympas !<br/><br/><a href=\"https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md\">Voir le readme pour le détail des kits !</a>",
+        "description": "C'est un pack de Kits sur lequel je travaille depuis un moment. Il comporte actuellement 17 kits + 6 déclinaisons pour multi-classes. Il contient également plus de 20 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 10 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources.<br/><br/>NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.<br/><br/>Ce mod dispose de plusieurs kits originaux et plutôt sympas !<br/><br/><a href=\"https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md\">Voir le readme pour le détail des kits !</a>",
         "urls": [
-            "https://github.com/D2-mods/The-Workshop-Kitpack/releases"
+            "https://www.gibberlings3.net/forums/topic/36122-the-workshop-kitpack-v59-soulsborne-inspired-kit-and-item-pack/",
+            "https://github.com/D2-mods/The-Workshop-Kitpack"
         ],
         "categories": [
             "Kit",
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BGEE",
@@ -26361,14 +26362,20 @@
             "EET",
             "IWDEE"
         ],
+        "authors": [
+            "Dan_P"
+        ],
         "team": [
             "JohnBob"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr"
+        ]
     },
     {
         "name": "The bigg Quest Pack",
@@ -29237,8 +29244,7 @@
             "https://forums.beamdog.com/discussion/69586/kit-pack-witcher-kit-pack/p1"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
