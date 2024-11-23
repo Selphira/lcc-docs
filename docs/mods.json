@@ -3831,7 +3831,7 @@
     },
     {
         "name": "Baldurdash-WeiDU",
-        "description": "Baldurdash-WeiDU est une version remasterisée du Baldurdash classique (de Kevin Dorner). Il existe deux versions :<br/>- la version classique<br/>- la version 1.76, qui est très spécifique aux mods [[Never Ending Journey]] (NEJ) et [[Tortured Souls]] (TS).<br/><strong>Dans les autres cas, préférez le [[BG2 FixPack]]</strong>.",
+        "description": "Baldurdash-WeiDU est une version remasterisée du Baldurdash classique (de Kevin Dorner). Il existe deux versions :<br/>- la version classique<br/>- la version 1.76, qui est très spécifique aux mods [[Never Ending Journey]] et [[Tortured Souls]].<br/><strong>Dans les autres cas, préférez le [[BG2 FixPack]]</strong>.",
         "urls": [
             "http://america.iegmc.net/baldurdash-weidu"
         ],
@@ -3846,7 +3846,7 @@
         ],
         "team": [],
         "warnings": [
-            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser NEJ et/ou TS. Dans ce cas, téléchargez le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls]] et Keldorn's Romance, ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[Never Ending Journey]] et/ou [[Tortured Souls]]. Dans ce cas, téléchargez le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls]] et Keldorn's Romance, ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -13078,7 +13078,8 @@
         "description": "L'un des traits les plus importants de la classe du chaman est la Danse chamanique qui permet au chaman d'invoquer indéfiniment des esprits alliés pour se battre à ses côtés. Cependant, dans la version originale, le chaman se trouve pratiquement désactivé pendant qu'il danse.<br/>Ce mod améliore cette capacité en permettant au chaman de se déplacer à vitesse réduite pendant la danse avec en contrepartie quelques contraintes. La Danse chamanique peut être améliorée par plusieurs composants optionnels. Le dernier composant disperse quelques objets chamaniques dans le jeu.",
         "urls": [
             "http://www.shsforums.net/topic/59265-mod-improved-shamanic-dance/",
-            "https://github.com/Argent77/A7-ImprovedShamanicDance/releases"
+            "https://forums.beamdog.com/discussion/58676",
+            "https://github.com/Argent77/A7-ImprovedShamanicDance/"
         ],
         "categories": [
             "Gameplay"
@@ -13090,14 +13091,24 @@
             "EET",
             "IWDEE"
         ],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
         "warnings": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru"
+        ]
     },
     {
         "name": "Improved Summons",
@@ -14040,14 +14051,19 @@
         "games": [
             "BGT"
         ],
+        "authors": [
+            "Adul"
+        ],
         "team": [],
         "warnings": [
             "Ce mod n'est pas nécessaire si vous avez l'intention d'installer le mod [[Jarl's BGT Adventure Pack]]."
         ],
-        "is_weidu": null,
-        "translation_state": null,
-        "safe": true,
-        "languages": []
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": false,
+        "languages": [
+            "en"
+        ]
     },
     {
         "name": "Journal Fixes for BG:EE, BG2:EE and SoD",
@@ -30623,6 +30639,104 @@
         "safe": true,
         "languages": [
             "en"
+        ]
+    },
+    {
+        "name": "Combat Skills & Proficiencies",
+        "description": "Ce mod redéfini le gameplay des compétences martiales. Chaque composant peut-être sélectionné indépendamment des autres.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37242-subtlemods-combat-skills-and-proficiencies/",
+            "https://github.com/subtledoctor/Combat_Skill_Proficiencies"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "subtledoctor"
+        ],
+        "team": [
+            "mickabouille"
+        ],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
+            "fr",
+            "pl"
+        ]
+    },
+    {
+        "name": "SubtleD's Item Tweaks",
+        "description": "Ce mod redéfini le gameplay des armes et des armures. Chaque composant peut-être sélectionné indépendamment des autres.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37239-subtlemods-subtleds-item-tweaks/",
+            "https://github.com/subtledoctor/SubtleD_Item_Tweaks/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "subtledoctor"
+        ],
+        "team": [
+            "mickabouille"
+        ],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
+            "fr",
+            "pl",
+            "de",
+            "cs",
+            "es",
+            "ko",
+            "ru"
+        ]
+    },
+    {
+        "name": "SubtleD's Stat Overhauls (Stats of Balance)",
+        "description": "Ce mod redéfini le gameplay des caractéristiques. Chaque composant peut-être sélectionné indépendamment des autres.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37240-subtlemods-subtleds-stat-overhauls-stats-of-balance/",
+            "https://github.com/subtledoctor/SubtleD_Stat_Overhauls"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "subtledoctor"
+        ],
+        "team": [
+            "mickabouille"
+        ],
+        "warnings": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
+            "fr",
+            "pl"
         ]
     }
 ]
