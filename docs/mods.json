@@ -120,7 +120,7 @@
         "description": "Ce mod a pour ambition de remplacer les mécanismes de lancement de sorts des jeux IE par les règles de D&amp;D 5e (lancement de sort\" \"semi-instantané\" ). Plus d'informations <a href=\"https://github.com/UnearthedArcana/5E_spellcasting/blob/master/README.md\" i=\"\">ici</a>",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32551-5e-spellcasting-rules-conversion/",
-            "https://github.com/UnearthedArcana/5E_spellcasting/releases"
+            "https://github.com/UnearthedArcana/5E_spellcasting/"
         ],
         "categories": [
             "Gameplay"
@@ -132,16 +132,22 @@
             "EET",
             "IWDEE"
         ],
+        "authors": [
+            "subtledoctor"
+        ],
         "team": [
-            "Mickabouille"
+            "mickabouille"
         ],
         "warnings": [
-            "Note : n'installez pas ce mod sur une version du jeu antérieure au patch 2.5."
+            "Mod incompatible avec une version du jeu antérieure au patch 2.5."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr"
+        ]
     },
     {
         "name": "6 Pre-Made Characters by Piotyr",
@@ -865,7 +871,7 @@
     },
     {
         "name": "Almateria's Enhanced Smaller Locations",
-        "description": "Ce petit mod ajoute des lieux abandonnés et inutilisés tout en maintenant une sorte de cohésion avec l'histoire. En gros, [[Unfinished Business]], mais en beaucoup plus petit :<br/>- Vestiaire réaliste d'Aran Linvail : les rampes de capes sont maintenant remplies de divers assortiments de cape, convenant surtout aux voleurs. Le butin est complètement aléatoire, alors bonne chance pour obtenir le meilleur résultat !<br/>- Tente restaurée à Franc-Marché : une nouvelle tente est ouverte aux visiteurs ! Située près de la caravane, son contenu vaut le coup d'œil.<br/>- Chambre à coucher de Kiser restaurée : ajout d'une chambre d'amis à la maison de Kiser, présente mais non utilisée par le jeu. Les escaliers vers la chambre se trouvent à l'est de l'entrée, derrière le mur.<br/>Notez toutefois qu'une grande partie de son contenu a été intégrée dans le mod suivant. 😉",
+        "description": "Ce petit mod ajoute des lieux abandonnés et inutilisés tout en maintenant une sorte de cohésion avec l'histoire. En gros, [[Unfinished Business]], mais en beaucoup plus petit :<br/>- Vestiaire réaliste d'Aran Linvail : les rampes de capes sont maintenant remplies de divers assortiments de cape, convenant surtout aux voleurs. Le butin est complètement aléatoire, alors bonne chance pour obtenir le meilleur résultat !<br/>- Tente restaurée à Franc-Marché : une nouvelle tente est ouverte aux visiteurs ! Située près de la caravane, son contenu vaut le coup d'œil.<br/>- Chambre à coucher de Kiser restaurée : ajout d'une chambre d'amis à la maison de Kiser, présente mais non utilisée par le jeu. Les escaliers vers la chambre se trouvent à l'est de l'entrée, derrière le mur.<br/>Notez toutefois qu'une grande partie de son contenu a été intégré dans [[Almateria's Quest 2]].",
         "urls": [
             "http://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html"
         ],
@@ -4362,6 +4368,7 @@
             "Installation"
         ],
         "games": [
+            "BG2EE",
             "EET"
         ],
         "team": [
@@ -9170,7 +9177,7 @@
     },
     {
         "name": "Enhanced Powergaming Scripts",
-        "description": "Ce mod est une collection de scripts d'IA de joueur conçus pour être utilisés dans BG:EE, BG2:EE, EET et IWD:EE. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche (\"B\"), un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[IWDification]], [[Stratagems]], [[Dark Side of the Sword Coast]], [[Song and Silence]], [[Tome & Blood]], Faith &amp; Powers, ainsi que les modifications effectuées par [[Spell Revisions Revised]] et [[Item Revisions Revised]].",
+        "description": "Ce mod est une collection de scripts d'IA de joueur conçus pour être utilisés dans BG:EE, BG2:EE, EET et IWD:EE. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche (\"B\"), un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[IWDification]], [[Sword Coast Stratagems]], [[Dark Side of the Sword Coast]], [[Song and Silence]], [[Tome and Blood]], Faith &amp; Powers, ainsi que les modifications effectuées par [[Spell Revisions Revised]] et [[Item Revisions Revised]].",
         "urls": [
             "https://www.morpheus-mart.com/enhanced-powergaming-scripts"
         ],
@@ -10509,7 +10516,7 @@
             "mirandir"
         ],
         "warnings": [
-            "De par son contenu, il est incompatible avec le précédent."
+            "De par son contenu, il est incompatible avec [[Garrick's Infatuation]]."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -10539,7 +10546,7 @@
         ],
         "team": [],
         "warnings": [
-            "De par son contenu, il est incompatible avec le suivant."
+            "De par son contenu, il est incompatible avec [[Garrick : les contes d'un troubadour]]."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -10623,19 +10630,25 @@
         "name": "Gemma (One-Day-NPC)",
         "description": "Créé sur La Couronne de Cuivre, ce mod ajoute une nouvelle PNJ recrutable. Adepte d'Umberlie, Gemma n'est pas vraiment le genre de naine à passer son temps à chanter de joyeuses chansons, une chope de bière en main. Non, son truc, c'est utiliser de la rhétorique pour frapper de plein fouet l'hérétique qui ne s'y attend pas. Quand la rhétorique passe par le marteau, c'est sûr, les gens sont plus réceptifs (et morts). Gemma patiente tranquillement (non) sur les Docks d'Athkatla.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/24917-personnage-non-joueur-one-day-npc-Gemma.html"
+            "https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/24917-personnage-non-joueur-one-day-npc-Gemma.html",
+            "https://www.mediafire.com/file/y0u08q36ihf1tzu/Gemma_EET.zip/file"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
-            "BG2"
+            "BG2",
+            "BG2EE",
+            "EET"
         ],
         "team": [
-            "Zyl"
+            "Zyl",
+            "deratiseur"
         ],
-        "warnings": [],
-        "is_weidu": null,
+        "warnings": [
+            "Choississez le lien mediafire pour la version BG2EE/EET proposé par deratiseur."
+        ],
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -12528,7 +12541,7 @@
     },
     {
         "name": "IWD:EE compatibility fixer",
-        "description": "If you've played IWDEE with mod kits, you may have noticed many kits aren't actually compatible with IWDEE, even if they say they are. Kits will generally work, but they'll be missing IWDEE abilities, or in the case of druids or paladins, have completely wrong abilities.<br/><br/>I decided to do something about it (a long time ago, but only getting it done now). There's also a component for [[Tome & Blood]]'s Innate Metamagic (options 1 and 2). More details below.<br/><br/>Components:<br/>- Kit mods<br/>- Innate Metamagic (Tome &amp; Blood)<br/><br/><a href=\"https://github.com/D2-mods/IWDEE-compatibility-fixer/blob/main/README.md\">See more detailed info in readme...</a>",
+        "description": "If you've played IWDEE with mod kits, you may have noticed many kits aren't actually compatible with IWDEE, even if they say they are. Kits will generally work, but they'll be missing IWDEE abilities, or in the case of druids or paladins, have completely wrong abilities.<br/><br/>I decided to do something about it (a long time ago, but only getting it done now). There's also a component for [[Tome and Blood]]'s Innate Metamagic (options 1 and 2). More details below.<br/><br/>Components:<br/>- Kit mods<br/>- Innate Metamagic (Tome &amp; Blood)<br/><br/><a href=\"https://github.com/D2-mods/IWDEE-compatibility-fixer/blob/main/README.md\">See more detailed info in readme...</a>",
         "urls": [
             "https://github.com/D2-mods/IWDEE-compatibility-fixer/releases"
         ],
@@ -12566,7 +12579,7 @@
         ],
         "team": [
             "Freddy_Gwendo",
-            "Mickabouille"
+            "mickabouille"
         ],
         "warnings": [],
         "is_weidu": null,
@@ -12986,7 +12999,7 @@
     },
     {
         "name": "Improved Heart of Fury Mode",
-        "description": "Ce mod fournit une version plus intéressante du mode Cœur de furie d'Icewind Dale. Il offre un jeu nettement plus difficile, mais pas simplement en donnant de grandes quantités de points de vie aux ennemis ou en augmentant leurs caractéristiques (comme dans la version EE normale), mais en effectuant un rééquilibrage majeur des ennemis et de leurs capacités.<br/>Les ennemis obtiennent de nouvelles capacités, une IA améliorée (inspirée de Stratagems), le renforcement de diverses caractéristiques et à certains endroits, ils sont plus nombreux. De nombreux ennemis voient leur capacité de base améliorée. Les trolls régénèrent plus rapidement, les scarabées bombardiers tirent plus souvent, les araignées sabre se déplacent et attaquent très rapidement, etc.<br/>Comme dans le mode HoF d'Icewind Dale 2, la plupart des objets du jeu sont renforcés. Il apporte aussi de nombreux changements intéressants aux classes et aux kits, de nombreux nouveaux ajustements aux sorts, aux objets et à diverses autres choses dans le jeu.",
+        "description": "Ce mod fournit une version plus intéressante du mode Cœur de furie d'Icewind Dale. Il offre un jeu nettement plus difficile, mais pas simplement en donnant de grandes quantités de points de vie aux ennemis ou en augmentant leurs caractéristiques (comme dans la version EE normale), mais en effectuant un rééquilibrage majeur des ennemis et de leurs capacités.<br/>Les ennemis obtiennent de nouvelles capacités, une IA améliorée (inspirée de [[Sword Coast Stratagems]]), le renforcement de diverses caractéristiques et à certains endroits, ils sont plus nombreux. De nombreux ennemis voient leur capacité de base améliorée. Les trolls régénèrent plus rapidement, les scarabées bombardiers tirent plus souvent, les araignées sabre se déplacent et attaquent très rapidement, etc.<br/>Comme dans le mode HoF d'Icewind Dale 2, la plupart des objets du jeu sont renforcés. Il apporte aussi de nombreux changements intéressants aux classes et aux kits, de nombreux nouveaux ajustements aux sorts, aux objets et à diverses autres choses dans le jeu.",
         "urls": [
             "https://forums.beamdog.com/discussion/70717/mod-improved-heart-of-fury-mode-version-4-1-0/p1",
             "https://github.com/OlvynChuru/Improved-Heart-Of-Fury-Mode"
@@ -13945,7 +13958,7 @@
     },
     {
         "name": "Jim Fixes and tweaks (Jimfix)",
-        "description": "Ce petit mod intégrait les modification d'IA de Stratagems dans [[Ascension]].",
+        "description": "Ce petit mod intégrait les modification d'IA de [[Sword Coast Stratagems]] dans [[Ascension]].",
         "urls": [
             "https://forums.beamdog.com/discussion/66358/mod-jimfix-ascension-scs-fixes-general-tweaks/p1",
             "https://github.com/Banananaut/Jimfix/releases"
@@ -16015,10 +16028,10 @@
     },
     {
         "name": "Magic Battles Revised",
-        "description": "Révision du très vieux mod \"<a href=\"http://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php\">Mage Duel</a>\", ce mod s'efforce d'écourter les batailles magiques et de les rendre plus agréables et sensibles. Il s'adresse donc à la fois à tous ceux qui trouvent les combats de Stratagems bien trop longues et compliquées, et à ceux qui trouvent les combats non moddés trop faciles ou un peu incohérents. Il s'efforce donc de rendre utiles les défenses contre les sorts, préserver l'idée que les utilisateurs de magie peuvent être très puissants, voire temporairement invincibles, tout en donnant aux mages adverses des outils efficaces pour surmonter cette invincibilité et permettre aux batailles de magie d'être résolues de manière assez rapide, décisive et satisfaisante.<br/>Rassurez-vous, l'objectif ne change pas : il faut attaquer les défenses des sorts jusqu'à ce qu'elles disparaissent, puis attaquer le mage.<br/>Ce mod doit être installé après les mods de sorts comme [[Spell Revisions]], [[IWDification]] et Stratagems.",
+        "description": "Révision du très vieux mod \"<a href=\"http://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php\">Mage Duel</a>\", ce mod s'efforce d'écourter les batailles magiques et de les rendre plus agréables et sensibles. Il s'adresse donc à la fois à tous ceux qui trouvent les combats de [[Sword Coast Stratagems]] bien trop longs et compliqués, et à ceux qui trouvent les combats non moddés trop faciles ou un peu incohérents. Il s'efforce donc de rendre utiles les défenses contre les sorts, préserver l'idée que les utilisateurs de magie peuvent être très puissants, voire temporairement invincibles, tout en donnant aux mages adverses des outils efficaces pour surmonter cette invincibilité et permettre aux batailles de magie d'être résolues de manière assez rapide, décisive et satisfaisante.<br/>Rassurez-vous, l'objectif ne change pas : il faut attaquer les défenses des sorts jusqu'à ce qu'elles disparaissent, puis attaquer le mage.<br/>Ce mod doit être installé après les mods de sorts comme [[Spell Revisions]], [[IWDification]] et [[Sword Coast Stratagems]].",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/33351-magic-battles-revised-streamlined-rules-for-mage-duels/",
-            "https://github.com/UnearthedArcana/magic_battles_revised/releases"
+            "https://github.com/UnearthedArcana/magic_battles_revised/"
         ],
         "categories": [
             "Gameplay"
@@ -16030,14 +16043,20 @@
             "EET",
             "IWDEE"
         ],
+        "authors": [
+            "subtledoctor"
+        ],
         "team": [
-            "Mickaël Leduque"
+            "mickabouille"
         ],
         "warnings": [],
-        "is_weidu": null,
-        "translation_state": "wip",
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr"
+        ]
     },
     {
         "name": "Magic Store of Vergadain",
@@ -16449,7 +16468,7 @@
         "description": "Ce mod apporte des modifications de règles et de nouveaux kits pour combattants, rôdeurs, bardes et roublards. Vous avez le choix d'installer ou pas des dizaines de composants selon votre manière de jouer. Il est régulièrement mis à jour.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27573-unearthed-arcana-presents-might-guile-tweaks-and-kits-for-warriors-and-rogues/",
-            "https://github.com/UnearthedArcana/Might_and_Guile/releases"
+            "https://github.com/UnearthedArcana/Might_and_Guile/"
         ],
         "categories": [
             "Kit",
@@ -16465,14 +16484,22 @@
             "EET",
             "IWDEE"
         ],
-        "team": [],
+        "authors": [
+            "subtledoctor"
+        ],
+        "team": [
+            "mickabouille"
+        ],
         "warnings": [
             "Attention : bien que compatible avec les jeux originaux, de nombreux composants ne sont disponibles que pour les jeux EE, à cause des limitations du moteur original."
         ],
-        "is_weidu": null,
-        "translation_state": false,
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr"
+        ]
     },
     {
         "name": "Militia Officer",
@@ -17558,7 +17585,7 @@
         "description": "Ce mod se veut le successeur du fantastique mod \"Level 1 NPCs\" qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[Divine Remix]], [[Song and Silence]], ou encore [[Scales of Balance]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.<br/>Il n'est donc pas aussi complet et flexible que L1NPCs, mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27526-npc_ee-new-class-and-kit-options-for-bgee-and-bg2ee-npcs/",
-            "https://github.com/UnearthedArcana/NPC_EE/releases"
+            "https://github.com/UnearthedArcana/NPC_EE/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -17569,12 +17596,20 @@
             "SoD",
             "EET"
         ],
-        "team": [],
+        "authors": [
+            "subtledoctor"
+        ],
+        "team": [
+            "mickabouille"
+        ],
         "warnings": [],
-        "is_weidu": null,
-        "translation_state": false,
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr"
+        ]
     },
     {
         "name": "NPC Generator",
@@ -24030,7 +24065,7 @@
             "IWDEE"
         ],
         "team": [
-            "Mickaël Leduque"
+            "mickabouille"
         ],
         "warnings": [],
         "is_weidu": null,
@@ -24428,7 +24463,7 @@
         ],
         "team": [],
         "warnings": [
-            "Attention : Nombreux ont été ceux qui se sont plaints de la difficulté des combats lorsque ce mod est couplé avec Stratagems. À installer à vos risques et périls..."
+            "Attention : Nombreux ont été ceux qui se sont plaints de la difficulté des combats lorsque ce mod est couplé avec [[Sword Coast Stratagems]]. À installer à vos risques et périls..."
         ],
         "is_weidu": true,
         "translation_state": false,
@@ -25419,7 +25454,7 @@
     },
     {
         "name": "The Calling",
-        "description": "Ce mod est l'embryon d'un projet ambitieux qui voulait répondre aux questions suivantes : pourquoi personne n'a pris le contrôle de la forteresse gnoll ? Pourquoi les seuls quêtes spécifiques à la classe du protagoniste sont-elles données par Narlen Marchombre ? Pourquoi la quête de Mélicamp n'est-elle pas plus développée ?<br/>La réponse fut de développer des quêtes spécifiques à chaque classe. Pour l'instant, une seule, celle du mage, est terminée et est donc ouverte à tous les joueurs en attendant que le mod s'étoffe.<br/>Deux autres composants permettent de résoudre pacifiquement le conflit dans l'île des loups-garous et d'installer le composant Pack d'objets exotiques (autrefois partie de Stratagems).",
+        "description": "Ce mod est l'embryon d'un projet ambitieux qui voulait répondre aux questions suivantes : pourquoi personne n'a pris le contrôle de la forteresse gnoll ? Pourquoi les seuls quêtes spécifiques à la classe du protagoniste sont-elles données par Narlen Marchombre ? Pourquoi la quête de Mélicamp n'est-elle pas plus développée ?<br/>La réponse fut de développer des quêtes spécifiques à chaque classe. Pour l'instant, une seule, celle du mage, est terminée et est donc ouverte à tous les joueurs en attendant que le mod s'étoffe.<br/>Deux autres composants permettent de résoudre pacifiquement le conflit dans l'île des loups-garous et d'installer le composant `Pack d'objets exotiques` (autrefois partie de [[Sword Coast Stratagems]]).",
         "urls": [
             "https://www.gibberlings3.net/files/file/999-the-calling/",
             "https://github.com/Gibberlings3/The_Calling/releases"
@@ -26768,11 +26803,11 @@
         ]
     },
     {
-        "name": "Tome & Blood",
+        "name": "Tome and Blood",
         "description": "Ce mod introduit un ensemble de modifications pour les mages/sorciers/bardes, ainsi que des règles, sorts et kits les concernant. Il propose une foultitude de composants que l'on peut ranger dans trois catégories : modifications de sorts, ajout ou modification de profils, modification du gameplay.<br/>- Profils d'ensorceleurs : Amorphous Disciple, Favored Soul, Magus, Revenant Disciple, Sylvan Disciple.<br/>- Profils d'ensorceleurs multi-classés : Arcanist, Mana Sorcerer.<br/>En perpétuel développement, ce mod est régulièrement mis à jour.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30797-unearthed-arcana-present-tome-blood-more-options-for-arcane-casters/",
-            "https://github.com/subtledoctor/TomeAndBlood/releases"
+            "https://github.com/UnearthedArcana/TomeAndBlood"
         ],
         "categories": [
             "Kit",
@@ -29217,7 +29252,7 @@
         "description": "Ce mod s'efforce d'ajouter un système psionique inspiré des règles de AD&amp;D2 et quatre profiles qui peuvent l'utiliser : un voleur psion (Psionicist), un guerrier psion (Soublade), un rôdeur psion (Psypher) et un mage psion (Cerebremancer).<br/>Cependant, comme le moteur du jeu n'a pas été conçu pour, ce mod est toujours expérimental, même s'il est activement maintenu. Mais il devrait vous permettre de jouer un personnage doté de nouveaux types de capacités. Alors n'hésitez pas à l'essayer !",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/31024-will-to-power-a-2e-inspired-psionics-mod/",
-            "https://github.com/UnearthedArcana/Will_to_Power/releases"
+            "https://github.com/UnearthedArcana/Will_to_Power/"
         ],
         "categories": [
             "Kit",
@@ -29230,12 +29265,20 @@
             "EET",
             "IWDEE"
         ],
-        "team": [],
+        "authors": [
+            "subtledoctor"
+        ],
+        "team": [
+            "mickabouille"
+        ],
         "warnings": [],
         "is_weidu": true,
-        "translation_state": false,
+        "translation_state": true,
         "safe": true,
-        "languages": []
+        "languages": [
+            "en",
+            "fr"
+        ]
     },
     {
         "name": "Witcher kit pack",
@@ -29933,7 +29976,7 @@
     },
     {
         "name": "iiSpell System Adjustment",
-        "description": "Créé par igi, ce petit mod change le mécanisme de lancement des sorts en permettant aux utilisateurs de magie profane et divine de regagner des sorts sans avoir besoin de se reposer. Il autorise ainsi une nouvelle façon de jouer : les mages et les prêtres peuvent être joués comme une classe de sorcier plus flexible, et de nouvelles tactiques sont possibles, car les sorts peuvent devenir disponibles au milieu d'une bataille.<br/>Vous pouvez personnaliser le délai pour récupérer un sort, de ne récupérer un sort que si l'incantation a réussi ou même si elle a échoué (par exemple si elle a été interrompue). Le tout par niveau de sort. De la même manière, des composants optionnels vous permettent de déterminer de la même manière quel montant d'XP vous gagnez en lançant des sorts.<br/>Notez que ce mod peut sérieusement affecter le jeu et s'applique également aux lanceurs de sorts ennemis. Avec un mod comme Stratagems, les mages ennemis utiliseront - inconsciemment - cette récupération de sorts à leur avantage.",
+        "description": "Créé par igi, ce petit mod change le mécanisme de lancement des sorts en permettant aux utilisateurs de magie profane et divine de regagner des sorts sans avoir besoin de se reposer. Il autorise ainsi une nouvelle façon de jouer : les mages et les prêtres peuvent être joués comme une classe de sorcier plus flexible, et de nouvelles tactiques sont possibles, car les sorts peuvent devenir disponibles au milieu d'une bataille.<br/>Vous pouvez personnaliser le délai pour récupérer un sort, de ne récupérer un sort que si l'incantation a réussi ou même si elle a échoué (par exemple si elle a été interrompue). Le tout par niveau de sort. De la même manière, des composants optionnels vous permettent de déterminer de la même manière quel montant d'XP vous gagnez en lançant des sorts.<br/>Notez que ce mod peut sérieusement affecter le jeu et s'applique également aux lanceurs de sorts ennemis. Avec un mod comme [[Sword Coast Stratagems]], les mages ennemis utiliseront - inconsciemment - cette récupération de sorts à leur avantage.",
         "urls": [
             "http://www.shsforums.net/files/file/961-iispellsystemadjustments/"
         ],
