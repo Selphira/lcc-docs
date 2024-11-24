@@ -1448,7 +1448,7 @@
     },
     {
         "name": "Apprentice",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil d'expert en épées.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil d'expert en épées.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -1459,7 +1459,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Shin"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -1532,7 +1534,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Doug Piranha"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -1568,7 +1572,7 @@
     },
     {
         "name": "Arcane Fist",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), Arcane Fist (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de moine/mage.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), Arcane Fist (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de moine/mage.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -1579,7 +1583,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Drizzt1180"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -6944,7 +6950,7 @@
     },
     {
         "name": "Crusader",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), Crusader (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de paladin.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), Crusader (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de paladin.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -6955,7 +6961,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Hansoo"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -8245,7 +8253,7 @@
     },
     {
         "name": "Dragon Dancer",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), Dragon Dancer (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de guerrier.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), Dragon Dancer (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de guerrier.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -8256,7 +8264,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ripper123"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -9225,8 +9235,7 @@
             "https://github.com/AbdelAdrian/Eldritch_Magic/archive/refs/heads/master.zip"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -9247,7 +9256,7 @@
     },
     {
         "name": "Elementalist Kit",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist Kit (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -9258,7 +9267,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Daemon"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -9714,7 +9725,7 @@
     },
     {
         "name": "Ethereal Blademaster",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), Ethereal Blademaster (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), Ethereal Blademaster (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -9725,7 +9736,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Medivh"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -10868,7 +10881,7 @@
     },
     {
         "name": "Gambler",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), Gambler (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), Gambler (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).<br/>Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -10879,7 +10892,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Gafgarion"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -13156,7 +13171,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Il nécessite l'installation de son fixpack/tweakpack."
+            "Il nécessite l'installation de [[IWD-in-BG2 Fixpack/Tweaks]]."
         ],
         "is_weidu": null,
         "translation_state": null,
@@ -28886,7 +28901,7 @@
     },
     {
         "name": "Undead Warrior",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et Undead Warrior (par Gafgarion).<br/>Celui-ci installe un profil de guerrier.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et Undead Warrior (par Gafgarion).<br/>Celui-ci installe un profil de guerrier.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -28897,7 +28912,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Gafgarion"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -30849,7 +30866,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": []
     },
     {
