@@ -321,7 +321,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": ""
     },
     {
@@ -885,7 +885,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -989,14 +989,14 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Malheureusement, l'auteur a retiré son mod. Si ça vous intéresse, je dispose de sa dernière version..."
+            "Malheureusement, l'auteur a retiré son mod."
         ],
         "is_weidu": null,
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "missing",
+        "last_update": "03/2012"
     },
     {
         "name": "Almateria's IWD2 Fixpack",
@@ -3023,11 +3023,11 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [
             "de"
         ],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -3213,7 +3213,7 @@
     },
     {
         "name": "BG2 Character Portrait Mod (BG2CPM)",
-        "description": "Comme le site Border Kingdoms n'existe plus, ce mod a malheureusement disparu...",
+        "description": "",
         "urls": [],
         "categories": [
             "Portrait et son"
@@ -3223,12 +3223,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Comme le site Border Kingdoms n'existe plus, ce mod a malheureusement disparu..."
+        ],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -3363,7 +3365,7 @@
         "translation_state": true,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -3613,7 +3615,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "requiem22"
+        ],
         "team": [],
         "notes": [
             "Attention : il n'a pas été mis à jour depuis le patch 1.3 : il n'est donc pas compatible avec les jeux récents."
@@ -3622,8 +3626,8 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "obsolete",
+        "last_update": "02/2013"
     },
     {
         "name": "BG:EE Leveled Spawns Mod",
@@ -3854,7 +3858,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -5237,9 +5241,9 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -5842,7 +5846,7 @@
         "languages": [
             "es"
         ],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -6315,11 +6319,11 @@
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [
             "de"
         ],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -6659,7 +6663,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -6819,7 +6823,7 @@
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -7349,9 +7353,9 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -11267,7 +11271,7 @@
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": ""
     },
     {
@@ -11651,7 +11655,7 @@
         "languages": [
             "de"
         ],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -12651,7 +12655,7 @@
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -12867,7 +12871,7 @@
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -12891,7 +12895,7 @@
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": ""
     },
     {
@@ -13361,17 +13365,19 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Corsymyr"
+        ],
         "team": [],
         "notes": [
-            "Attention : Le lien de téléchargement a disparu ; ce qui n'est pas plus mal puisque le mod n'a pas été mis à jour depuis des années et ne doit pas être compatible avec les nouveaux patches."
+            "Le lien de téléchargement a disparu."
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": false,
+        "safe": null,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "missing",
+        "last_update": "01/2014"
     },
     {
         "name": "High Power Baldur's Gate",
@@ -13612,7 +13618,7 @@
         "languages": [
             "cn"
         ],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -13907,7 +13913,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -14770,7 +14776,7 @@
         ],
         "notes": [],
         "is_weidu": true,
-        "translation_state": true,
+        "translation_state": "todo",
         "safe": true,
         "languages": [
             "en",
@@ -15762,7 +15768,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Banananaut"
+        ],
         "team": [],
         "notes": [
             "Les dernières mises à jour de [[Sword Coast Stratagems]] et d'[[Ascension]] l'ont rendu obsolète."
@@ -15771,8 +15779,8 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "obsolete",
+        "last_update": "09/2020"
     },
     {
         "name": "Jini NPC Romance",
@@ -16243,7 +16251,7 @@
         "translation_state": true,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -16534,14 +16542,14 @@
         ],
         "authors": [],
         "team": [
-            "valandil"
+            "Valandil"
         ],
         "notes": [
             "Attention : ce mod écrase les fichiers des profils du jeu et n'est donc pas compatible avec la plupart des mods qui les utilisent. À installer en connaissance de cause !"
         ],
         "is_weidu": null,
         "translation_state": true,
-        "safe": true,
+        "safe": false,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -16644,9 +16652,13 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "klatu"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "L'installation de [[Generalized Biffing]] est fortement recommandée."
+        ],
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
@@ -17853,7 +17865,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": ""
     },
     {
@@ -17978,7 +17990,7 @@
         "description": "Ce mod permet de rendre un peu plus épicées les rencontres dans BG:EE et BG2:EE, et devrait être compatible avec BG2 original, BGT et EET. Il modifie diverses rencontres et quêtes, et en ajoute même de nouvelles, accorde de nouvelles capacités P&amp;P à certains monstres (dragons, golems, liches, lycanthropes, vampires, morts-vivants incorporels...). Il en profite pour modifier certaines quêtes, voire les étendre. Il fait partie de la série \"Made in Heaven\" (avec les objets, les sorts et les tweaks).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/29992-my-new-made-in-heaven-mods/",
-            "https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests/releases"
+            "https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests/"
         ],
         "categories": [
             "Gameplay"
@@ -17991,15 +18003,22 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "AngelGryph"
+        ],
         "team": [
             "deratiseur"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": "wip",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru",
+            "es"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -18887,8 +18906,8 @@
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "obsolete",
+        "last_update": "03/2006"
     },
     {
         "name": "Mod Hospitality (WIP)",
@@ -18909,12 +18928,12 @@
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": false,
+        "safe": null,
         "languages": [
             "de"
         ],
-        "status": true,
-        "last_update": ""
+        "status": "missing",
+        "last_update": "09/2008"
     },
     {
         "name": "Mod Kit Remover",
@@ -18938,7 +18957,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": ""
     },
     {
@@ -19030,7 +19049,7 @@
         "languages": [
             "fr"
         ],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -19775,7 +19794,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -20619,7 +20638,7 @@
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": ""
     },
     {
@@ -20774,7 +20793,7 @@
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -21351,7 +21370,7 @@
         "languages": [
             "fr"
         ],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -21856,14 +21875,16 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Arnaeus"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -21889,7 +21910,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03/2008"
     },
     {
         "name": "Pirate Kit",
@@ -22824,14 +22845,14 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Mis à jour pour la dernière fois il y a 8 ans, <a href=\" http://www.shsforums.net/topic/57871-update-for-bg2ee-13/\">ce mod n'est plus compatible avec les jeux EE depuis le patch v1.3</a>."
+            "Mis à jour pour la dernière fois en 2013, <a href=\" http://www.shsforums.net/topic/57871-update-for-bg2ee-13/\">ce mod n'est plus compatible avec les jeux EE depuis le patch v1.3</a>."
         ],
         "is_weidu": null,
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "obsolete",
+        "last_update": "11/2013"
     },
     {
         "name": "Quallo",
@@ -22840,22 +22861,28 @@
             "http://www.shsforums.net/files/file/849-quallo114rar/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Headbanger"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "it",
+            "ru",
+            "es"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "11/2010"
     },
     {
         "name": "Quayle BG2",
@@ -22964,7 +22991,7 @@
         "translation_state": true,
         "safe": true,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -23123,17 +23150,19 @@
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Mr2150"
+        ],
         "team": [],
         "notes": [
             "Attention : La dernière mise à jour date de juin 2016. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
         ],
-        "is_weidu": null,
+        "is_weidu": false,
         "translation_state": null,
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06/2016"
     },
     {
         "name": "Random Graion Tweaks",
@@ -23370,7 +23399,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -23421,7 +23450,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": ""
     },
     {
@@ -23474,16 +23503,22 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Gilgamesh"
+        ],
         "team": [],
         "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !",
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
+            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -23652,7 +23687,7 @@
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -25016,7 +25051,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "LaughingMan"
+        ],
         "team": [],
         "notes": [
             "Mis à jour pour la dernière fois en 2012, ce mod n'est plus compatible avec les versions récentes du jeu."
@@ -25025,8 +25062,8 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "obsolete",
+        "last_update": "12/2012"
     },
     {
         "name": "Selphira Tweaks",
@@ -25429,7 +25466,7 @@
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -26697,7 +26734,9 @@
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "stoh"
+        ],
         "team": [],
         "notes": [
             "Pour l'instant, son téléchargement ne fonctionne pas."
@@ -26706,8 +26745,8 @@
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "obsolete",
+        "last_update": "04/2016"
     },
     {
         "name": "Spellcasting in light armor",
@@ -26733,7 +26772,7 @@
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": ""
     },
     {
@@ -27051,7 +27090,7 @@
         "description": "En constant développement, ce mod ajoute la possibilité de sélectionner une sous-race pour le personnage principal. Pour l'instant, il n'y en a que 9 : Aasimar, Tieffelin, Elfe noir, Elfe sauvage, Nain d'or (Nain des collines), Nain gris (Duergar), Costaud et Sagespectre (halfelins), et Gnome des profondeurs (Svirfneblin).<br/>Il donne aussi des sous-races à Viconia (Elfe noir), Baeloth (Elfe noir), Haer'Dalis (Tieffelin) et Caelar (Aasimar).<br/>C'est sans doute le seul qui fonctionne vraiment.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32267-subrace-mod/",
-            "https://github.com/tipun81/Subrace-mod/releases"
+            "https://github.com/tipun81/Subrace-mod/"
         ],
         "categories": [
             "Gameplay"
@@ -27063,17 +27102,23 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "tipun"
+        ],
         "team": [
             "JohnBob"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "04/2022"
     },
     {
         "name": "Subraces pack (de Tioma)",
@@ -27331,15 +27376,17 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "Isaya"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "obsolete",
+        "last_update": "01/2008"
     },
     {
         "name": "Sword Coast Map Labels",
@@ -27588,8 +27635,7 @@
         "description": "Ce mod japonais ajoutait 5 petites quêtes. Son lien de téléchargement a disparu.",
         "urls": [],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -27602,7 +27648,7 @@
         "translation_state": false,
         "safe": true,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -29031,7 +29077,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "yowave"
+        ],
         "team": [],
         "notes": [
             "Attention : il utilise un programme tiers pour s'installer (java). Évitez-le au possible."
@@ -29041,7 +29089,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12/2016"
     },
     {
         "name": "The Improved Volcano! Pack for ToB",
@@ -30010,7 +30058,7 @@
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -30255,7 +30303,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -30370,19 +30418,22 @@
             "Gameplay"
         ],
         "games": [
+            "BGEE",
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "yowave"
+        ],
         "team": [],
         "notes": [
-            "Attention : Son lien de téléchargement a disparu !"
+            "Son lien de téléchargement a disparu !"
         ],
         "is_weidu": null,
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -30859,9 +30910,9 @@
         ],
         "is_weidu": null,
         "translation_state": null,
-        "safe": false,
+        "safe": null,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": ""
     },
     {
@@ -30883,15 +30934,15 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
         "name": "Tweaks Anthology",
-        "description": "Ce mod permet de faire mille et un petits ajustements au jeu. Vous pouvez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale, ...), faire des changements aux règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances, ...).<br/>Il remplace complètement les anciens mods BG Tweaks, BG2 Tweaks, G3 Tweaks, Tutu Tweaks, Ease of Use, Icewind Dale Tweak, Icewind Dale II Tweak et Planescape: Torment Tweak.<br/><span style=\"color:red;\">Nécessite une mise à jour de la traduction</span> (<span style=\"color:lime;\">en cours par jazira</span>).",
+        "description": "Ce mod permet de faire mille et un petits ajustements au jeu. Vous pouvez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale, ...), faire des changements aux règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions, multi-romances, ...).<br/>Il remplace complètement les anciens mods BG Tweaks, [[BG2 Tweaks Pack]], G3 Tweaks, Tutu Tweaks, Ease of Use, Icewind Dale Tweak, Icewind Dale II Tweak et Planescape: Torment Tweak.",
         "urls": [
             "https://www.gibberlings3.net/files/file/973-the-tweaks-anthology/",
-            "https://github.com/Gibberlings3/Tweaks-Anthology/releases"
+            "https://github.com/Gibberlings3/Tweaks-Anthology/"
         ],
         "categories": [
             "Gameplay"
@@ -30917,15 +30968,27 @@
             "Elgaern",
             "elminster",
             "Isaya",
-            "Anomaly"
+            "Anomaly",
+            "jazira"
         ],
         "notes": [],
-        "is_weidu": null,
-        "translation_state": "todo",
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn",
+            "cz",
+            "fr",
+            "de",
+            "it",
+            "ko",
+            "po",
+            "ru",
+            "es"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "10/2022"
     },
     {
         "name": "Twist Pack",
@@ -30949,7 +31012,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -31160,7 +31223,7 @@
         "translation_state": false,
         "safe": true,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -31185,7 +31248,7 @@
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": ""
     },
     {
@@ -31236,7 +31299,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -31675,9 +31738,9 @@
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": false,
+        "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -31714,16 +31777,18 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "TheArtisan"
+        ],
         "team": [],
         "notes": [
             "Ce mod a disparu après avoir été été intégré comme composant du mod [[ArtemiusI's House Rule Tweaks]]."
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": false,
+        "safe": null,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -31825,19 +31890,25 @@
             "Gameplay"
         ],
         "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lassal"
+        ],
         "team": [],
         "notes": [
-            "Ce mod est toujours considéré comme en développement."
+            "Ce mod est toujours considéré comme en développement.",
+            "EET est requis."
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10/2017"
     },
     {
         "name": "Vanim NPC",
@@ -32624,7 +32695,7 @@
         ],
         "categories": [
             "Kit",
-            "Gameplay"
+            "PNJ recrutable"
         ],
         "games": [
             "BGEE"
@@ -32638,8 +32709,8 @@
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "wip",
+        "last_update": "12/2017"
     },
     {
         "name": "Wedge's BGT Adventure Pack",
@@ -32652,14 +32723,16 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Wedge"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -32706,7 +32779,7 @@
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -32909,12 +32982,19 @@
             "Darien"
         ],
         "notes": [
-            "Seule la version GitHub est mise à jour et est compatible EE. En revanche, sa traduction française n'est pas à jour."
+            "Seule la version GitHub est mise à jour et est compatible EE."
         ],
-        "is_weidu": null,
-        "translation_state": "todo",
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "po",
+            "ru",
+            "cn"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -33907,12 +33987,12 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": false,
+        "last_update": "03/2015"
     },
     {
         "name": "sporeboy!'s Alternate Portrait Pack",
