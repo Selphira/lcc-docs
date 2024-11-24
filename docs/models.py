@@ -50,7 +50,9 @@ class Mod:
         translation_state,
         is_weidu,
         languages,
-        authors=None,
+        authors,
+        status,
+        last_update,
     ):
         self.name = name
         self.categories = categories
@@ -64,6 +66,8 @@ class Mod:
         self.is_weidu = is_weidu
         self.languages = languages
         self.authors = authors
+        self.status = status
+        self.last_update = last_update
 
     @property
     def id(self) -> str:

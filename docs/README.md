@@ -35,6 +35,12 @@ Cette version propose plusieurs améliorations techniques notables :
 * Remplacer le Json par du Yaml paraît être une bonne idée mais la multiplication des `'\"\'` en tout genre ne m'y a pas encouragé (peut-être une config permet de contourner le problème ou une autre solution est envisageable ?)
 * Pouvoir automatiser la mise à jour de la page après une modification de la db (script JS ?)
 * Formulaire d'ajout d'un mod qui renvoit son équivalent en Json (plus qu'à l'ajouter à la db)
+* Des outils d'automatisation :
+    * pour remonter les urls qui renvoient une 404
+    * Sur GitHub ou GitLab :
+        * pour remonter les tags de langue
+        * pour remonter les compatibilités des jeux
+        * date de dernière mise à jour
 
 
 ## Doc
@@ -60,7 +66,9 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
         "is_weidu": null,
         "translation_state": null,
         "safe": true,
-        "languages": []
+        "languages": [],
+        "status": true,
+        "last_update": "",
     }
 ```
 
@@ -105,7 +113,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - PST
  - PSTEE
 
-`authors`: liste des personnes ayant participé à la création/maintenance du mod\
+`authors`: liste des personnes ayant participé à la création/maintenance du mod, actuellement non affiché\
 `team` : liste des personnes ayant participé à la traduction du mod\
 `notes` : liste de messages indiquant des points d'attention\
 `is_weidu` : si le mod est installable ou désinstallable via weidu. Valeurs possibles :
@@ -125,5 +133,15 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - `false` : 🔴 Mod à éviter ou obsolète
  - `null` : 🟡 Mod pouvant poser des problèmes
 
-`languages` : langues dans lesquels le mod existe
+`languages` : langues dans lesquels le mod existe, actuellement non affiché
 
+`status` : la raison peut être indiquée dans les `notes`, actuellement sans impact
+ - `true` : mod actif
+ - `null` : mod en cours d'ajout mais pas encore finalisé
+ - `false` : mod à ne pas afficher pour une autre raison à indiquer dans `notes`
+ - `"obsolete"` : incompatible avec les dernières versions des jeux originaux ou/et EE (exemple d'un mod fait sous EE 2.3 mais jamais upgrade depuis)
+ - `"embed"` : intégré en tant que composant (et maintenu) dans un autre mod
+ - `"missing"` : lien de téléchargement disparu
+ - `"wip"` : le mod est phase de développement
+
+`last_update` : date connue de la dernière mise à jour du mod, champ automatique, format MM/YYYY
