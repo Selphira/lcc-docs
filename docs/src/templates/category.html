@@ -46,7 +46,7 @@
                     <label for="{{ mod.id }}·{{ category.id }}·desc">Description</label>
                     <p class="read-more-target">{{ mod.description|safe }}</p>
                 </div>
-                <div class="warning">{% for warning in mod.warnings %}{{ warning|safe }}<br>{% endfor %}</div>
+                <div class="note">{% for note in mod.notes %}{{ note|safe }}<br>{% endfor %}</div>
                 <div class="url">
                     {% for url in mod.urls_instance %}
                         <a href="{{ url.url }}"

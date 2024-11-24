@@ -55,7 +55,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
         "categories": [],
         "games": [],
         "team": [],
-        "warnings": [],
+        "notes": [],
         "is_weidu": null,
         "translation_state": null,
         "safe": true,
@@ -105,7 +105,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - PSTEE
 
 `team` : liste personnes ayant participé à la conception/traduction du mod\
-`warnings` : liste de messages indiquant des points d'attention\
+`notes` : liste de messages indiquant des points d'attention\
 `is_weidu` : si le mod est installable ou désinstallable via weidu. Valeurs possibles :
  - `true` : 😀 Mod Weidu
  - `false` : 😡 Mod override, non désinstalable

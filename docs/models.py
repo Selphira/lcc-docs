@@ -42,7 +42,7 @@ class Mod:
         name,
         categories,
         urls,
-        warnings,
+        notes,
         description,
         team,
         games,
@@ -55,7 +55,7 @@ class Mod:
         self.name = name
         self.categories = categories
         self.urls = urls
-        self._warnings = warnings
+        self._notes = notes
         self.safe = safe
         self._description = description
         self.team = team
@@ -113,13 +113,13 @@ class Mod:
         return self._convert_quote(description)
 
     @property
-    def warnings(self) -> list:
-        warnings = list()
-        for warning in self._warnings:
-            new_warning = self._convert_link(warning)
-            new_warning = self._convert_quote(new_warning)
-            warnings.append(new_warning)
-        return warnings
+    def notes(self) -> list:
+        notes = list()
+        for note in self._notes:
+            new_note = self._convert_link(note)
+            new_note = self._convert_quote(new_note)
+            notes.append(new_note)
+        return notes
 
 
 class Category:
