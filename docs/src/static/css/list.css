@@ -44,6 +44,12 @@ body {
     color: var(--color-primary);
 }
 
+@media screen and (max-width: 900px) {
+    .row.mod {
+        padding-inline: 2px;
+    }
+}
+
 #gotothetop {
     position: fixed;
     bottom: 15px;
@@ -60,7 +66,7 @@ body {
 @media screen and (max-width: 900px) {
     #gotothetop {
         bottom: 10px;
-        right: 10px;
+        right: 0;
     }
 }
 
@@ -177,6 +183,10 @@ label {
     #header .nav-2 {
         display: block;
         text-align: center;
+
+        img.main {
+            display: none;
+        }
     }
 }
 
@@ -199,6 +209,12 @@ label {
     padding-inline: 10rem;
     /* display: grid; */
     /* justify-content: center; */
+}
+
+@media screen and (max-width: 900px) {
+    #search {
+        padding-inline: 0;
+    }
 }
 
 #search .searchs {
@@ -352,7 +368,7 @@ label {
     padding-block: 4px;
 }
 
-.table .row:first-child {
+.table .row:not(.hidden):first-of-type {
     border-top-width: 1px;
 }
 
@@ -373,6 +389,10 @@ label {
 @media screen and (max-width: 900px) {
     .table .row:first-child {
         display: none;
+
+        +:not(.hidden) {
+            border-top-width: 1px;
+        }
     }
 }
 
@@ -410,20 +430,26 @@ a.discret:link {
 }
 
 .table .jeu {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(6%, 60px));
+    display: flex;
+    flex-wrap: wrap;
     gap: 1px;
+
+    p {
+        width: 60px;
+    }
 }
 
 @media screen and (max-width: 900px) {
     .table .row .title {
         display: flex;
+        justify-content: space-between;
         gap: 10px;
     }
 
     .table .jeu {
         display: flex;
         justify-self: center;
+        justify-content: center;
     }
 }
 
