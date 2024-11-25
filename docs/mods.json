@@ -7538,7 +7538,7 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -11774,7 +11774,7 @@
     },
     {
         "name": "Freely Resizeable Combat Log",
-        "description": "Ce mod permet de redimensionner dans toutes les directions le journal de combat de PST:EE qui ne pouvait l\"être que sur l'axe vertical.",
+        "description": "Ce mod permet de redimensionner dans toutes les directions le journal de combat de PST:EE qui ne pouvait l'être que sur l'axe vertical.",
         "urls": [
             "http://www.shsforums.net/files/file/1221-freely-resizeable-combat-log-for-PSTee/",
             "https://github.com/Argent77/A7-ResizeableCombatLog"
@@ -11785,13 +11785,15 @@
         "games": [
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "jazira"
         ],
         "notes": [],
         "is_weidu": null,
-        "translation_state": "wip",
+        "translation_state": true,
         "safe": true,
         "languages": [
             "en",
@@ -17595,7 +17597,7 @@
         "description": "Ce mini mod apporte une modification cosmétique de confort à l'interface de PST:EE. Vous pouvez configurer l'affichage ou non de l'icône de passage au niveau supérieur et choisir de la déplacer sur le portrait du personnage.<br/>Le mod est aussi disponible sur <a href=\"http://www.shsforums.net/files/file/1222-level-up-icon-tweaks/\">Spellhold studios</a>.",
         "urls": [
             "https://forums.beamdog.com/discussion/64259/mod-level-up-icon-tweaks",
-            "https://github.com/Argent77/A7-LevelUpTweaks/releases "
+            "https://github.com/Argent77/A7-LevelUpTweaks/"
         ],
         "categories": [
             "Cosmétique"
@@ -17603,13 +17605,15 @@
         "games": [
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "jazira"
         ],
         "notes": [],
         "is_weidu": null,
-        "translation_state": "wip",
+        "translation_state": true,
         "safe": true,
         "languages": [
             "en",
@@ -26949,7 +26953,6 @@
         "name": "Sorcerer's Place Item Collection",
         "description": "Ce vieux mod ajoute de nombreux objets dans l'inventaire de Joluv.",
         "urls": [
-            "https://github.com/Gibberlings3/SP_Collection",
             "http://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=28057"
         ],
         "categories": [
@@ -26966,18 +26969,10 @@
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": null,
-        "languages": [
-            "en",
-            "cz",
-            "fr",
-            "de",
-            "it",
-            "ru",
-            "sp"
-        ],
+        "safe": false,
+        "languages": [],
         "status": true,
-        "last_update": "09-2022"
+        "last_update": ""
     },
     {
         "name": "Sorts infinis",
@@ -27005,7 +27000,7 @@
             "fr"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2008"
     },
     {
         "name": "Southern Edge",
