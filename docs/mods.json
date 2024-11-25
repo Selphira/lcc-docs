@@ -297,7 +297,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -382,7 +384,10 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -490,7 +495,11 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "fr"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -547,7 +556,12 @@
         "is_weidu": null,
         "translation_state": "wip",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -663,7 +677,12 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "cn"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -925,10 +944,9 @@
         "translation_state": true,
         "safe": true,
         "languages": [
-            "fr",
             "en",
+            "fr",
             "de",
-            "ru",
             "sp"
         ],
         "status": true,
@@ -1088,7 +1106,17 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "cs",
+            "de",
+            "fo",
+            "fr",
+            "it",
+            "nl",
+            "pl",
+            "pt"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -1121,7 +1149,12 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -1654,7 +1687,10 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -1930,7 +1966,10 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -2595,7 +2634,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [],
@@ -2625,13 +2663,10 @@
         ],
         "games": [
             "BG2",
-            "Tutu",
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
-            "IWD",
             "IWDEE"
         ],
         "authors": [],
@@ -2643,6 +2678,7 @@
         "translation_state": true,
         "safe": true,
         "languages": [
+            "en",
             "fr"
         ],
         "status": true,
@@ -3328,7 +3364,10 @@
         "is_weidu": null,
         "translation_state": "wip",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -3737,7 +3776,9 @@
             "Gameplay"
         ],
         "games": [
+            "BG2",
             "BGT",
+            "BG2EE",
             "EET"
         ],
         "authors": [],
@@ -3752,7 +3793,15 @@
         "is_weidu": null,
         "translation_state": "todo",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "sp",
+            "ch"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -3975,7 +4024,15 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "kr",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -4228,7 +4285,19 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "cs",
+            "de",
+            "es",
+            "fr",
+            "it",
+            "ja",
+            "kr",
+            "pl",
+            "ru",
+            "zh"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -4383,7 +4452,11 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -4412,7 +4485,12 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "cn"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -4870,7 +4948,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -5240,7 +5320,12 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "it",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -5630,7 +5715,9 @@
         "translation_state": true,
         "safe": true,
         "languages": [
-            "fr"
+            "fr",
+            "en",
+            "ru"
         ],
         "status": true,
         "last_update": ""
@@ -5989,7 +6076,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -6136,7 +6225,13 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -6315,7 +6410,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -6787,13 +6889,12 @@
         "safe": true,
         "languages": [
             "en",
-            "po",
             "fr",
             "de",
             "it",
+            "po",
             "sp",
-            "ru",
-            "cn"
+            "ru"
         ],
         "status": true,
         "last_update": ""
@@ -6974,7 +7075,10 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -7054,7 +7158,13 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -7408,7 +7518,7 @@
     },
     {
         "name": "Creslyn's BG2 Custom Items",
-        "description": "Ce mod ajoute de nombreux objets dans le jeu. Certains, un peu trop puissants, seront cependant difficile à obtenir (comme le bâton de la Gorgone dans la Cité illithild) ou hors de prix.<br/>Cependant, il a été inclus comme composant du mod [[Sorcerer's Place Collection]].",
+        "description": "Ce mod ajoute de nombreux objets dans le jeu. Certains, un peu trop puissants, seront cependant difficile à obtenir (comme le bâton de la Gorgone dans la Cité illithild) ou hors de prix.<br/>Cependant, il a été inclus comme composant du mod [[The Sorcerer's Place Collection]].",
         "urls": [
             "https://sorcerers.net/Games/BG2/index_mods_hosted_items_spells2.php"
         ],
@@ -7503,7 +7613,10 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -7708,7 +7821,12 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "it",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -7790,7 +7908,10 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -8067,7 +8188,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -8317,7 +8445,13 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -8358,7 +8492,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -8371,6 +8504,7 @@
         "translation_state": true,
         "safe": true,
         "languages": [
+            "en",
             "fr"
         ],
         "status": true,
@@ -8389,7 +8523,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -8402,6 +8535,7 @@
         "translation_state": true,
         "safe": true,
         "languages": [
+            "en",
             "fr"
         ],
         "status": true,
@@ -8932,7 +9066,10 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -10742,7 +10879,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -10926,7 +11070,9 @@
         "is_weidu": true,
         "translation_state": "todo",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -11647,7 +11793,13 @@
         "is_weidu": null,
         "translation_state": "wip",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -11750,7 +11902,10 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -12045,11 +12200,10 @@
         "games": [
             "BG",
             "BG2",
-            "Tutu",
             "BGT",
             "BGEE",
-            "BG2EE",
             "SoD",
+            "BG2EE",
             "EET",
             "IWD",
             "IWD2",
@@ -12067,7 +12221,13 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "it",
+            "pl",
+            "pt"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -12522,7 +12682,15 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru",
+            "cn"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -12821,7 +12989,10 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -13016,7 +13187,13 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -13663,7 +13840,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -13795,7 +13974,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru",
+            "ch",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -14091,7 +14277,10 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -14200,12 +14389,11 @@
         ],
         "games": [
             "BG2",
-            "Tutu",
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
-            "EET"
+            "EET",
+            "Tutu"
         ],
         "authors": [],
         "team": [
@@ -14216,7 +14404,11 @@
         "is_weidu": null,
         "translation_state": "todo",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -14245,7 +14437,16 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "cz",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -14480,7 +14681,16 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru",
+            "cn",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -14508,7 +14718,12 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -14680,7 +14895,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -14969,7 +15191,10 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -15278,7 +15503,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -15475,7 +15702,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -15620,7 +15849,13 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -16377,7 +16612,13 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -16647,7 +16888,10 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -16821,7 +17065,9 @@
         "translation_state": true,
         "safe": true,
         "languages": [
-            "fr"
+            "en",
+            "fr",
+            "ru"
         ],
         "status": true,
         "last_update": ""
@@ -17365,7 +17611,13 @@
         "is_weidu": null,
         "translation_state": "wip",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -17612,12 +17864,11 @@
         ],
         "games": [
             "BG2",
-            "Tutu",
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
-            "EET"
+            "EET",
+            "Tutu"
         ],
         "authors": [],
         "team": [],
@@ -18187,7 +18438,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "po",
+            "ru",
+            "cn"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -19692,11 +19950,10 @@
             "Kit"
         ],
         "games": [
-            "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
-            "EET"
+            "EET",
+            "Tutu"
         ],
         "authors": [],
         "team": [
@@ -19707,7 +19964,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -20211,7 +20475,10 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -20263,7 +20530,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -20502,7 +20771,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -20950,7 +21221,11 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -21853,7 +22128,10 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -22125,7 +22403,17 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "br",
+            "ru",
+            "cn",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -22186,7 +22474,13 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -22221,7 +22515,10 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -22256,7 +22553,10 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -22329,7 +22629,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -22396,9 +22703,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
-            "EET",
-            "IWDEE"
+            "IWDEE",
+            "EET"
         ],
         "authors": [],
         "team": [],
@@ -22406,7 +22712,20 @@
         "is_weidu": null,
         "translation_state": "todo",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "it",
+            "fr",
+            "de",
+            "sp",
+            "cn",
+            "ru",
+            "po",
+            "po",
+            "ja",
+            "hu",
+            "cz"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -22736,11 +23055,10 @@
         ],
         "games": [
             "BG2",
-            "Tutu",
             "BGT",
+            "Tutu",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [],
@@ -22756,7 +23074,7 @@
         "languages": [
             "en",
             "fr",
-            "ge",
+            "de",
             "ru"
         ],
         "status": true,
@@ -23033,7 +23351,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -23057,7 +23377,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -23389,7 +23711,13 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "it",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -23782,7 +24110,11 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "po",
+            "br"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -23835,7 +24167,10 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -23994,7 +24329,17 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "kr",
+            "po",
+            "br",
+            "ru",
+            "cn"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -24351,7 +24696,10 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -24454,7 +24802,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -24562,7 +24917,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -25095,7 +25457,10 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET"
         ],
         "authors": [],
         "team": [
@@ -25281,7 +25646,11 @@
         "is_weidu": null,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "po"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -25435,7 +25804,14 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "it",
+            "ru",
+            "sp",
+            "cn"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -25800,7 +26176,10 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -25878,7 +26257,11 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -26171,7 +26554,15 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "po",
+            "br",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -26261,8 +26652,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
-            "IWDEE"
+            "IWDEE",
+            "EET"
         ],
         "authors": [],
         "team": [],
@@ -26270,7 +26661,9 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "de"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -26419,7 +26812,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -26485,13 +26880,9 @@
         ],
         "games": [
             "BG2",
-            "Tutu",
             "BGT",
-            "BGEE",
             "BG2EE",
-            "SoD",
-            "EET",
-            "IWDEE"
+            "EET"
         ],
         "authors": [],
         "team": [
@@ -26502,12 +26893,19 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
     {
-        "name": "Sorcerer's Place Collection",
+        "name": "The Sorcerer's Place Collection",
         "description": "Ce mod ajoute six nouveaux profils (Mystique sylvain, Maître-Lame, Chevalier de la mort, Ninja Wushi, Archer de Sylvanus, Poing des arcanes), ainsi que de nouveaux objets ([[Creslyn's BG2 Custom Items]]) dans des magasins déjà existants. Tous ces éléments proviennent de packs d'objets et de profils publiés sur le site Sorcerer's Place convertis au format WeiDU pour faciliter leur installation.",
         "urls": [
             "https://www.gibberlings3.net/files/file/887-sp-collection/",
@@ -26519,11 +26917,9 @@
         ],
         "games": [
             "BG2",
-            "Tutu",
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -26537,7 +26933,15 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en",
+            "cz",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -26563,7 +26967,15 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en",
+            "cz",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -27100,7 +27512,12 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "it",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -27273,7 +27690,13 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -28340,7 +28763,13 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru",
+            "cn"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -28765,11 +29194,10 @@
             "PNJ (autre)"
         ],
         "games": [
-            "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
-            "EET"
+            "EET",
+            "Tutu"
         ],
         "authors": [],
         "team": [
@@ -28781,7 +29209,18 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ch",
+            "cz",
+            "fr",
+            "de",
+            "it",
+            "kr",
+            "po",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -29250,7 +29689,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -29303,7 +29744,15 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -29557,7 +30006,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -29613,7 +30069,11 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -29713,7 +30173,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -30225,7 +30692,6 @@
         ],
         "games": [
             "BG2",
-            "Tutu",
             "BGT"
         ],
         "authors": [],
@@ -30234,7 +30700,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -30253,7 +30721,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -30266,6 +30733,7 @@
         "translation_state": true,
         "safe": true,
         "languages": [
+            "en",
             "fr"
         ],
         "status": true,
@@ -30653,7 +31121,17 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "br",
+            "ru",
+            "cn",
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -30703,7 +31181,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "sp"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -30969,11 +31449,9 @@
         "games": [
             "BG",
             "BG2",
-            "Tutu",
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWD",
             "IWD2",
@@ -30996,15 +31474,15 @@
         "safe": true,
         "languages": [
             "en",
-            "cn",
+            "ch",
             "cz",
             "fr",
             "de",
             "it",
-            "ko",
+            "kr",
             "po",
             "ru",
-            "es"
+            "sp"
         ],
         "status": true,
         "last_update": "10/2022"
@@ -31369,7 +31847,13 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "it",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -31463,7 +31947,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru",
+            "br"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -31833,7 +32324,10 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -31890,11 +32384,10 @@
         "translation_state": true,
         "safe": true,
         "languages": [
-            "sp",
             "en",
             "fr",
-            "it",
-            "ru"
+            "sp",
+            "it"
         ],
         "status": true,
         "last_update": ""
@@ -33313,7 +33806,16 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru",
+            "sp",
+            "cn"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -33576,7 +34078,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -34544,8 +35048,9 @@
         "translation_state": true,
         "safe": true,
         "languages": [
+            "en",
             "fr",
-            "en"
+            "ru"
         ],
         "status": true,
         "last_update": ""
