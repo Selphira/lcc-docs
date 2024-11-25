@@ -715,17 +715,24 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [
             "Galathée"
         ],
         "notes": [],
-        "is_weidu": null,
-        "translation_state": true,
+        "is_weidu": true,
+        "translation_state": "todo",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "cn"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "12/2024"
     },
     {
         "name": "Ajantis NPC for BG2",
@@ -787,15 +794,19 @@
         "name": "Akuns-Gear",
         "description": "This is an item mod that contains 2 enchanted katanas and 1 armor for a Wizard Slayer. All items are only equippable for the Wizard Slayer fighter subclass at level 4.<br/><br/>The items can be bought from the merchant Erdane in the Durlags Tower area(outside of Durlags Tower). The trader sells the items directly from his stock (no dialogue options). Regular price is thousands of gold per item.",
         "urls": [
+            "https://forums.beamdog.com/discussion/87411/item-mod-akuns-gear",
             "https://github.com/Incrementis/Akuns-Gear-"
         ],
         "categories": [
             "Sort et objet"
         ],
         "games": [
-            "BGEE"
+            "BGEE",
+            "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Incrementis"
+        ],
         "team": [],
         "notes": [
             "Since it dynamically writes a new item category into the system, it is recommended to install this mod last."
@@ -808,7 +819,7 @@
             "de"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "09/2024"
     },
     {
         "name": "Alabaster sands",
@@ -960,7 +971,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Rastor"
+        ],
         "team": [
             "Streen"
         ],
@@ -968,9 +981,15 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "12/2009"
     },
     {
         "name": "Almateria's Enhanced Smaller Locations",
