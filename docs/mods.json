@@ -2115,7 +2115,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "David Gaider"
+        ],
         "team": [
             "Ly Meng",
             "Selphira",
@@ -2123,10 +2125,22 @@
             "jazira"
         ],
         "notes": [],
-        "is_weidu": null,
-        "translation_state": true,
+        "is_weidu": true,
+        "translation_state": "todo",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "cz",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "pr",
+            "ru",
+            "cn",
+            "sp",
+            "sw"
+        ],
         "status": true,
         "last_update": "01-2024"
     },
@@ -2241,10 +2255,19 @@
             "Le Marquis"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru",
+            "cn",
+            "sp"
+        ],
         "status": true,
         "last_update": "08-2023"
     },
@@ -3186,10 +3209,18 @@
             "Isaya"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "de",
+            "en",
+            "sp",
+            "fr",
+            "it",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": "05-2021"
     },
@@ -3293,7 +3324,7 @@
         "description": "Le BG2 FixPack est le fixpack le plus complet à ce jour, totalement WeiDU et en français. Il corrige tous les bugs corrigés par Baldurdash (de Kevin Dorner) plus un million de bugs supplémentaires, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation.",
         "urls": [
             "https://www.gibberlings3.net/mods/fixes/bg2fixpack/",
-            "https://github.com/Gibberlings3/BG2-Fixpack/releases/latest"
+            "https://github.com/Gibberlings3/BG2-Fixpack"
         ],
         "categories": [
             "Patch non officiel",
@@ -3314,7 +3345,19 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ja",
+            "kr",
+            "po",
+            "ru",
+            "cn",
+            "sp",
+            "tc"
+        ],
         "status": true,
         "last_update": "01-2019"
     },
@@ -4267,7 +4310,7 @@
         "description": "Vous avez envie de faire la trilogie Baldur's Gate de Château-Suif jusqu'au Trône de Bhaal d'une seule traite ? Vous avez envie de conserver vos PNJ comme Imoen, Jaheira, Minsc, Edwin ou Viconia - ou conserver votre équipe de six personnages créés en mode multi-joueurs - et les faire progresser tout au long de la trilogie ? Ou vous avez simplement envie de jouer à BG1 en 800x600, avec un journal complet, les notes de cartes, et les autres améliorations de BG2, avec tous les bugs de BG1 corrigés, et le tout 100% en français, tout en pouvant continuer à jouer à SoA ou ToB sur la même installation ? Alors, le mod Baldur's Gate Trilogy-WeiDU est pour vous !",
         "urls": [
             "http://www.shsforums.net/forum/261-bgt-weidu",
-            "https://github.com/SpellholdStudios/BGT-WeiDU/releases/latest"
+            "https://github.com/SpellholdStudios/BGT-WeiDU"
         ],
         "categories": [
             "Conversion partielle"
@@ -4277,12 +4320,14 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "skellytz"
+        ],
         "team": [
             "Anomaly"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -5695,7 +5740,7 @@
         "description": "À l'origine, DrAzTiK avait développé un petit mod rendant le combat plus dynamique et plus relevé contre Tazok et Dig-Dag dans le repaire de Firkraag. Depuis, il s'est considérablement étoffé, s'est enrichi de nombreux composants et a désormais pour ambition de permettre aux joueurs de conduire des combats « épiques » dans de larges espaces et de rapprocher BG2 d'un Dungeon crawler. Consultez le readme pour bien comprendre ce qu'apporte chacun de ses composants.",
         "urls": [
             "https://www.baldursgateworld.fr/filesmods/ModsBG/butchery-v5.0.0.zip",
-            "https://github.com/GwendolyneFreddy/butchery/releases/latest"
+            "https://github.com/GwendolyneFreddy/butchery"
         ],
         "categories": [
             "Gameplay"
@@ -5706,12 +5751,12 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
-        "team": [
+        "authors": [
             "DrAzTiK"
         ],
+        "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -5735,7 +5780,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Bubb"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -5763,7 +5810,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Bubb"
+        ],
         "team": [],
         "notes": [
             "Cette version n'est plus maintenue et ne fonctionne plus depuis le patch 2.6. Préférez-lui [[Bubb's Spell Menu Extended]]."
@@ -5772,7 +5821,7 @@
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": "02-2018"
     },
     {
@@ -5793,7 +5842,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Bubb"
+        ],
         "team": [
             "JohnBob"
         ],
@@ -9814,7 +9865,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Bubb"
+        ],
         "team": [],
         "notes": [
             "Attention : une fois installé, vous devez lancer le jeu avec `InfinityLoader.exe` ou `EEex.exe` (selon la version), sinon le jeu plantera."
@@ -10261,7 +10314,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Skitia"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -13267,7 +13322,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Skitia"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -14082,7 +14139,7 @@
         "description": "Ce mod permet d'importer 5 personnages dans son groupe à la création, qui se parleront et interviendront pendant le jeu, comme les personnages de Baldur's Gate 2 ! Il nécessite l'extension Heart of Winter. Il s'agit de Nella (guerrière), Korin (rôdeur), Teri (guerrier/voleur), Holvir (paladin) et Severn (barde). Vous pouvez aussi leur assigner des classes alternatives : Nella (guerrière/clerc ou guerrière/druidesse), Korin (clerc/rôdeur), Teri (voleur, mage/voleur ou guerrier/mage/voleur) et Severn (mage ou guerrier/mage).",
         "urls": [
             "https://www.pocketplane.net/icewind-dale-npcs/",
-            "https://github.com/Pocket-Plane-Group/IWD_NPC/releases/latest"
+            "https://github.com/Pocket-Plane-Group/IWD_NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -15387,14 +15444,16 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Skitia"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
         "languages": [],
-        "status": true,
+        "status": "wip",
         "last_update": ""
     },
     {
@@ -16238,7 +16297,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Skitia"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -19295,7 +19356,7 @@
         "description": "Comme son nom l'indique, ce mod propose une traduction partielle de BG2:EE. Pour l'instant, il comprend :<br/>- les textes de SoA et ToB corrigés par le patch précédent.<br/>- la quête de Rasaad dans SoA : dialogues, lieux, personnages (des noms de créatures peuvent ne pas être traduits).<br/>- les sous-titres des voix pour le personnage principal et pour Rasaad.<br/>- les objets ajoutés par BG2:EE.<br/>- les sorts ajoutés par BG2:EE.<br/>- les textes ajoutés par le patch 2.5, notamment le kit de prêtre de Tempus.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/bg2-ee/31540-moD-semi-officiel-de-traduction-partielle-de-bg2ee-v2-5-a.html",
-            "https://github.com/Isaya/bg2eetrans/releases/latest"
+            "https://github.com/Isaya/bg2eetrans"
         ],
         "categories": [
             "Patch non officiel"
@@ -19496,7 +19557,10 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": "10-2024"
     },
@@ -22286,7 +22350,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Inferno"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
@@ -22317,18 +22383,23 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Jochen Gehring"
+        ],
         "team": [
             "Darien",
             "deratiseur"
         ],
         "notes": [
-            "Pour un jeu EE, utilisez la version de deratiseur (lien EE)."
+            "Pour un jeu EE, utilisez la version de deratiseur (lien github)."
         ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": "10-2024"
     },
@@ -23681,7 +23752,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Skitia"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -23825,15 +23898,21 @@
         "team": [
             "Sir Crapoilleau",
             "Anomaly",
-            "mise à jour par Isaya"
+            "Isaya"
         ],
         "notes": [
             "À l'origine publié dans le forum <a href=\"http://www.shsforums.net/files/category/31-refinements/\">Spellhold Studios</a>, ce mod est désormais maintenu sur GitHub par un moddeur indépendant. Cependant, cette nouvelle version n'est plus compatible avec BG1Tutu."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "jp",
+            "po",
+            "ru"
+        ],
         "status": true,
         "last_update": "09-2023"
     },
@@ -25912,10 +25991,16 @@
             "La Voix 2 la Sagesse"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
         "status": true,
         "last_update": "05-2019"
     },
@@ -28435,7 +28520,13 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "sp"
+        ],
         "status": true,
         "last_update": "11-2024"
     },
@@ -30944,7 +31035,17 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "cz",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru",
+            "cn",
+            "sp"
+        ],
         "status": true,
         "last_update": "01-2024"
     },
@@ -30953,7 +31054,7 @@
         "description": "Ce mod adoucit les transitions entre les campagnes dans EET. Il permet de rester dans le \"monde\" de BG1 après la défaite de Sarevok et dans le \"monde\" BG2 après la défaite d'Irenicus. La progression vers les zones SoD ou BGII du jeu est accomplie en utilisant un objet fourni par le duc Belt après avoir terminé ou sauté les quêtes de nettoyage. La progression vers ToB est accomplie en utilisant l'amulette de la Seldarine donnée par la reine Ellesime.<br/>Dans EET, vous avez la possibilité d'avoir votre propre logement personnel qui contient un coffre qui vous suit jusqu'à ToB : après avoir vaincu Sarevok, vous pourrez vous installer dans le Palais Ducal (nécessite SoD) grâce au duc Belt ; si vous avez sauvé le duc Eltan dans EET, il vous remettra les clés d'une maison.<br/>Un certain nombre de nouvelles quêtes de nettoyage seront disponibles en fonction des disciples de Sarevok que vous aurez précédemment éliminés. Les quêtes de BG et de TotSC peuvent être terminées après la mort de Sarevok ; ce qui vous permet de contrôler l'ordre des événements.<br/>Vous pourrez également choisir d'équiper Sarevok de son équipement (dont son épée) ou de le laisser dans son inventaire.<br/>Enfin, après avoir vaincu Sarevok, vous recevrez une nouvelle capacité d'Enfant de Bhaal, différente selon votre alignement.",
         "urls": [
             "https://www.gibberlings3.net/files/file/1021-transitions/",
-            "https://github.com/Gibberlings3/transitions/releases/latest"
+            "https://github.com/Gibberlings3/transitions"
         ],
         "categories": [
             "Gameplay"
@@ -31355,10 +31456,13 @@
             "JohnBob"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": "09-2022"
     },
@@ -32606,7 +32710,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Skitia"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -32735,8 +32841,8 @@
         "translation_state": false,
         "safe": true,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "embed",
+        "last_update": "08-2019"
     },
     {
         "name": "WTP Familiars",
@@ -32802,7 +32908,7 @@
         "description": "Ce mod ajout une mule de bât qui vous accompagnera partout, transportant vos objets sans jamais défaillir.",
         "urls": [
             "http://www.shsforums.net/topic/47668-w-packmule/",
-            "https://github.com/Endarire/W_Packmule/releases/"
+            "https://github.com/Endarire/W_Packmule/"
         ],
         "categories": [
             "Gameplay"
@@ -33359,7 +33465,12 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru",
+            "cn"
+        ],
         "status": true,
         "last_update": "06-2021"
     },
@@ -33437,7 +33548,14 @@
         "is_weidu": null,
         "translation_state": true,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "pr",
+            "en",
+            "fr",
+            "it",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": "07-2021"
     },
@@ -33890,7 +34008,13 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
         "status": true,
         "last_update": "08-2020"
     },
@@ -33917,7 +34041,7 @@
         ],
         "notes": [],
         "is_weidu": null,
-        "translation_state": true,
+        "translation_state": "todo",
         "safe": true,
         "languages": [],
         "status": true,
