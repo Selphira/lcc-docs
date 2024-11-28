@@ -2668,7 +2668,8 @@
         "translation_state": true,
         "safe": true,
         "languages": [
-            "fr"
+            "fr",
+            "en"
         ],
         "status": true,
         "last_update": "10-2024"
@@ -4316,7 +4317,6 @@
             "Conversion partielle"
         ],
         "games": [
-            "BG",
             "BG2",
             "BGT"
         ],
@@ -4337,7 +4337,7 @@
             "es",
             "fr",
             "it",
-            "ja",
+            "jp",
             "kr",
             "pl",
             "ru",
@@ -4449,7 +4449,7 @@
     },
     {
         "name": "Baldurdash-WeiDU",
-        "description": "Baldurdash-WeiDU est une version remasterisée du Baldurdash classique (de Kevin Dorner). Il existe deux versions :<br/>- la version classique<br/>- la version 1.76, qui est très spécifique aux mods [[Never Ending Journey]] et [[Tortured Souls]].<br/><strong>Dans les autres cas, préférez le [[BG2 FixPack]]</strong>.",
+        "description": "Baldurdash-WeiDU est une version remasterisée du Baldurdash classique (de Kevin Dorner). Il existe deux versions :<br/>- la version classique<br/>- la version 1.76, qui est très spécifique aux mods [[Never Ending Journey]] et [[Tortured Souls-BP]].<br/><strong>Dans les autres cas, préférez le [[BG2 FixPack]]</strong>.",
         "urls": [
             "http://america.iegmc.net/baldurdash-weidu"
         ],
@@ -4465,7 +4465,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[Never Ending Journey]] et/ou [[Tortured Souls]]. Dans ce cas, téléchargez le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls]] et Keldorn's Romance, ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[Never Ending Journey]] et/ou [[Tortured Souls-BP]]. Dans ce cas, téléchargez le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et Keldorn's Romance, ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -11013,14 +11013,16 @@
             "Kasumi"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
-            "fr"
+            "fr",
+            "en",
+            "de"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "08/2019"
     },
     {
         "name": "Extra Expanded Enhanced Encounters!",
@@ -16573,7 +16575,7 @@
     },
     {
         "name": "Keto NPC",
-        "description": "Keto est une barde neutre bonne humaine, avec un penchant certain pour la bouteille et les histoires, que vous trouverez aux Cinq Chopes. Très bavarde, elle dispose de nombreux dialogues avec les PNJ recrutables, avec une myriade de PNJ de passage, et commente plus d’une aventure quand elle ne se fend pas d'un conte. Considéré comme un des meilleurs modules de PNJ (deux ans et demi d'élaboration), Keto dispose également de sa quête personnelle et possède son propre set de voix plus des sets de plusieurs intervenants (400). Elle n’est cependant pas romançable et n’est probablement pas le personnage rêvé pour les fêlés d'optimisation.<br/>Qu'elle n'ait pas de contenu pour ToB est un atout, car elle peut sans scrupule être remplacée dans ToB par Sarevok ou Irenicus (mods [[Redemption]] ou The longer Road).",
+        "description": "Keto est une barde neutre bonne humaine, avec un penchant certain pour la bouteille et les histoires, que vous trouverez aux Cinq Chopes. Très bavarde, elle dispose de nombreux dialogues avec les PNJ recrutables, avec une myriade de PNJ de passage, et commente plus d’une aventure quand elle ne se fend pas d'un conte. Considéré comme un des meilleurs modules de PNJ (deux ans et demi d'élaboration), Keto dispose également de sa quête personnelle et possède son propre set de voix plus des sets de plusieurs intervenants (400). Elle n’est cependant pas romançable et n’est probablement pas le personnage rêvé pour les fêlés d'optimisation.<br/>Qu'elle n'ait pas de contenu pour ToB est un atout, car elle peut sans scrupule être remplacée dans ToB par Sarevok ou Irenicus (mods [[Redemption]] ou [[The longer Road]]).",
         "urls": [
             "https://www.pocketplane.net/keto-npc/",
             "https://github.com/Pocket-Plane-Group/Keto"
@@ -20344,15 +20346,19 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Kish"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
-        "safe": true,
-        "languages": [],
+        "safe": null,
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "11/2019"
     },
     {
         "name": "NPC Tweak",
@@ -20643,7 +20649,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Ce mod nécessite d'installer auparavant le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls]] et Keldorn's Romance, ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+            "Ce mod nécessite d'installer auparavant le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et Keldorn's Romance, ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -22797,7 +22803,7 @@
             "ru",
             "po",
             "po",
-            "ja",
+            "jp",
             "hu",
             "cz"
         ],
@@ -25056,7 +25062,11 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -25554,7 +25564,8 @@
         "translation_state": true,
         "safe": true,
         "languages": [
-            "fr"
+            "fr",
+            "en"
         ],
         "status": true,
         "last_update": "11-2022"
@@ -29066,7 +29077,7 @@
     },
     {
         "name": "The Big Picture",
-        "description": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[The Darkest Day]], [[Shadows over Soubar]] et [[Tortured Souls]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous trouverez le détail de tous les composants du mod sur la <a href=\"https://www.baldursgateworld.fr/lacouronne/content/big-picture-1509/\">page CMS</a> qui lui est réservée. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de [[Tactics]] et la restauration d'[[Ascension]] dans la version de David Gaider.",
+        "description": "À l'origine, BP permettait de pouvoir jouer aux 3 grands mods ([[The Darkest Day]], [[Shadows over Soubar]] et [[Tortured Souls-BP]]) en un seul et même package. Au fil du temps, tous ces mods ont été recodés au format WeiDU. Les ajouts propres de BP ayant eu tellement de succès, son auteur le convertit à son tour en WeiDU, et BP permet aujourd'hui d'améliorer très sensiblement l'IA de tous vos adversaires, ainsi que de votre groupe, tout comme de corser de nombreuses rencontres. Vous trouverez le détail de tous les composants du mod sur la <a href=\"https://www.baldursgateworld.fr/lacouronne/content/big-picture-1509/\">page CMS</a> qui lui est réservée. Vous remarquerez ainsi que de nouvelles rencontres (naturellement ardues) ont également été ajoutées : la liche sur les docks, Orcus le prince-démon... ainsi que des reprises de certains composants de [[Tactics]] et la restauration d'[[Ascension]] dans la version de David Gaider.",
         "urls": [
             "http://www.shsforums.net/files/file/546-the-big-picture-v181/"
         ],
@@ -30165,7 +30176,7 @@
     },
     {
         "name": "The Tortured Soul Quest",
-        "description": "À ne pas confondre avec le méga mod [[Tortured Souls]], ce mod ajoute une petite quête, à la fin de laquelle vous obtenez un objet inédit intéressant. Pour la démarrer, parlez à un étranger dans l'une des cryptes du cimetière d'Athkatla.",
+        "description": "À ne pas confondre avec le méga mod [[Tortured Souls-BP]], ce mod ajoute une petite quête, à la fin de laquelle vous obtenez un objet inédit intéressant. Pour la démarrer, parlez à un étranger dans l'une des cryptes du cimetière d'Athkatla.",
         "urls": [
             "http://www.shsforums.net/files/file/149-the-tortured-soul-quest/"
         ],
@@ -31319,16 +31330,18 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "TheArtisan"
+        ],
         "team": [],
         "notes": [
-            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
+            "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": ""
     },
     {
@@ -35337,5 +35350,732 @@
         ],
         "status": true,
         "last_update": "11-2024"
+    },
+    {
+        "name": "Keeping Yoshimo",
+        "description": "Ce mod permet d'éviter de devoir se séparer de Yoshimo. Il ajoute des échanges supplémentaires.",
+        "urls": [
+            "https://github.com/CrevsDaak/7c-yoshi"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [
+            "Incompatible avec [[Yoshimo Romance]] et [[Yoshimo's Remorse]]."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "10-2024"
+    },
+    {
+        "name": "Keldorn Romance",
+        "description": "Il est fidèle. Il est courageux. Il est célibataire? La vie est une chose incertaine, et les changements surviennent quand on s'y attend le moins. Ce mod offre une chance de romancer le plus récent... et le plus réticent... célibataire d'Athkatla. Toutes les relations demandent du travail, et celle-ci en demande plus que la plupart, mais les récompenses sont grandes, pour ceux qui sont assez patients pour supporter les épreuves.<br>Cette romance n'est pas pour tout le monde, et certainement pas une romance pour les gens pressés. Quand cela commence, Keldorn est en deuil après l'effondrement de son mariage de 20 ans, et il lui faut beaucoup de temps pour récupérer. Il traite de thèmes matures, des conséquences réelles du rejet et du rétablissement, et certains joueurs peuvent ne pas vouloir traverser tout cela, peu importe à quel point l'intérêt amoureux potentiel devient dans Throne of Bhaal. Il est également très, très long, avec plus de 35 discussions dans Shadows of Amn, bien qu'elles soient plus rapprochées les unes des autres pour compenser cela.<br>Pour commencer la romance, vous devez permettre à Keldorn et Maria de se réconcilier. Il ne se considérera libre que si son mariage avec Maria est légalement terminé, et emprisonner Maria ne fera que les séparer, pas les divorcer. De plus, l'incarcération de Maria pourrait présenter des problèmes de garde d'enfants impossibles à surmonter.<br>Le mod propose également une quête pour tous les PC, romancés ou non, bien que cela nécessite également une réconciliation entre Keldorn et Maria.",
+        "urls": [
+            "https://www.gibberlings3.net/files/file/978-keldorn-romance/",
+            "https://github.com/Gibberlings3/Keldorn_Romance"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "01-2023"
+    },
+    {
+        "name": "Korgan's Redemption",
+        "description": "Ce mod d'expansion donne une possibilité de rédemption à Korgan si Mazzy fait partie du groupe.",
+        "urls": [
+            "http://www.shsforums.net/files/file/933-korgans-redemption/",
+            "https://github.com/SpellholdStudios/KorganFriendship"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Lava Del'Vortel",
+            "fluke13"
+        ],
+        "team": [
+            "Le Marquis"
+        ],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "05-2020"
+    },
+    {
+        "name": "Lucy the Wyvern",
+        "description": "Ce mini mod d'expansion ajoute une petite surprise au dialogue de Lucy, la wiverne rencontrée dans le Marché de l'Aventurier. Pour le déclencher, il suffit d'entamer le dialogue avec le PJ.",
+        "urls": [
+            "http://www.shsforums.net/files/file/635-lucy-the-wyvern",
+            "https://github.com/SpellholdStudios/Lucy_the_Wyvern"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "berelinde"
+        ],
+        "team": [
+            "Le Marquis"
+        ],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "sp"
+        ],
+        "status": true,
+        "last_update": "04-2020"
+    },
+    {
+        "name": "Imoen Romance",
+        "description": "Ce mod permet d'avoir une relation beaucoup plus privilégiée avec sa petite sœur. Il peut s'agir aussi bien d'amitié que de romance, quel que soit le sexe du PJ. Les dialogues sont particulièrement nombreux, et le mod comprend un grand nombre de nouvelles musiques. Il exige ToB.",
+        "urls": [
+            "http://imoen.blindmonkey.org/downloads.php"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Sarevok08"
+        ],
+        "team": [
+            "Le Marquis"
+        ],
+        "notes": [
+            "La version pour jeux EE est une refonte complète du mod original (avec du contenu pour ToB) et n'est pas disponible en français, sans possibilité de traduction en l'état. Choisissez en bas de la page la version 1.202 Full traduite pour les jeux originaux (contenu uniquement pour SoA)."
+        ],
+        "is_weidu": true,
+        "translation_state": "todo",
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "04-2020"
+    },
+    {
+        "name": "Imoen the Bard",
+        "description": "Ce mod modifie Imoen en barde ou en voleuse arcanique. Il propose aussi quelques nouveaux objets, une révision plus proche des jeux papier pour la progression des sorts de mage, les armures et les boucliers. Il permet aussi de supprimer la première cinématique de SoA et de continuer la partie après le combat final contre Irenicus.",
+        "urls": [
+            "http://imoen.blindmonkey.org/downloads.php"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "NiGHTMARE"
+        ],
+        "team": [],
+        "notes": [
+            "Le lien de téléchargement ne fonctionne plus."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": false,
+        "languages": [],
+        "status": "missing",
+        "last_update": "06-2004"
+    },
+    {
+        "name": "MegaMod: Mazzy Romance, Clara NPC...",
+        "description": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :<br> - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...<br> - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.<br> - Darkside Anomen.<br> - Minsc-Neera Romance.<br> - Flying Aerie.<br> - Dorn-HaerDalis Romance<br> - Jaheira-Wilson Romance.<br> - For The Evil!<br> - For The Good!<br> - Et bien d'autres petits composants...",
+        "urls": [
+            "https://forums.beamdog.com/discussion/71473/mod-all-things-mazzy-version-1-049-mazzy-expansion-and-keepable-clara/p1"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Ratatoskr",
+            "BCaesar"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "01-2023"
+    },
+    {
+        "name": "Nalia Mod",
+        "description": "Ce mod modifie la classe de Nalia pour la différencier d'Imoen : elle n'est plus une magicienne/voleuse, mais une voleuse/magicienne qui améliore sa classe de voleur pendant le jeu. Dorénavant, vous bénéficierez d'un voleur digne de ce nom dans BG2 !",
+        "urls": [
+            "http://www.shsforums.net/files/file/144-nalia-mod/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "the bigg"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "04-2011"
+    },
+    {
+        "name": "NPC Flirt Packs",
+        "description": "Ce mod permet de nombreuses et nouvelles interactions avec les PNJ romançables (Viconia, Anomen, Aerie, Jaheira), de nouveaux dialogues, des répliques supplémentaires...",
+        "urls": [
+            "https://www.pocketplane.net/npc-flirt-packs/",
+            "https://github.com/Pocket-Plane-Group/NPC_Flirt_Packs"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [
+            "Thot",
+            "Garfield",
+            "Lothringen",
+            "Egrevyn"
+        ],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru",
+            "sp"
+        ],
+        "status": true,
+        "last_update": "01-2020"
+    },
+    {
+        "name": "Romantic Encounters",
+        "description": "Vous êtes peu satisfait(e) de n'avoir la possibilité de romancer que quelques PNJ recrutables ? Ce mod ajoute pas moins de 50 occasions de romances avec divers PNJ non recrutables au cours du jeu, aussi bien pour les PJ femmes que hommes, avec réactions possibles d'un PNJ originel du jeu que vous romancez (mais les romances officielles ne seront jamais automatiquement coupées). Attention une partie de ce mod est à contenu \"adulte\".",
+        "urls": [
+            "https://www.gibberlings3.net/files/file/931-romantic-encounters-bg2/",
+            "https://github.com/Gibberlings3/Romantic_Encounters_BG2"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [
+            "Eleima",
+            "Galathée",
+            "Le Marquis",
+            "La Voix 2 la Sagesse"
+        ],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
+            "fr",
+            "po",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "05-2020"
+    },
+    {
+        "name": "Sarevok-Be-Gone",
+        "description": "Si vous pensez que l'apparition de Sarevok dans ToB est une aberration dans le scénario (à l'image de l'ensemble de ToB), si vous le détestez pour avoir tué votre père adoptif, ou si vous êtes simplement jaloux de ses statistiques de bourrin, ce mod pourrait vous tenter.",
+        "urls": [
+            "http://america.iegmc.net/sarevokbegone/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "is_weidu": null,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "03-2006"
+    },
+    {
+        "name": "Sarevok Restore (Sarevok Wiederherstellung)",
+        "description": "Dans ToB original, Sarevok n'a pas son équipement connu de Baldur's Gate, qui lui donne son apparence démoniaque caractéristique. Ce mod lui restitue son équipement magique dès le début de Trône de Bhaal, c'est-à-dire qu'il le porte déjà lorsque le groupe le rencontre : un casque, une armure et une épée à deux mains.<br>Deux composants optionnels permettent de lui attribuer des portraits alternatifs, et un dernier d'ajouter trois lignes de son à Sarevok Nécrophage.",
+        "urls": [
+            "http://www.baldursgate-refugium.de/mods/sarevok-wiederherstellung/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "is_weidu": null,
+        "translation_state": false,
+        "safe": null,
+        "languages": [],
+        "status": "missing",
+        "last_update": ""
+    },
+    {
+        "name": "Sime NPC",
+        "description": "Ce mod permet de rendre recrutable la voleuse Sime qu'Aran Linvail a envoyée superviser votre trajet à Brynnlaw. Mais Sime a une raison personnelle d'accéder à l'Asile et de voir ce qui s'y passe. C'est pourquoi elle se trouvera à Brynnlaw même si vous choisissez de vous allier à Bodhi. Vous pourrons donc l'y recruter avant de pénétrer dans l'asile. Notez que si vous la rejetez avant d'entrer dans l'asile, elle reprendra son rôle de guide comme prévu, mais ne vous rejoindra plus.<br>Elle possède les mêmes caractéristiques que dans le jeu original, mais dispose d'un équipement plus réaliste lorsqu'elle vous rejoint. Par ailleurs, elle bénéficie de petites quêtes liées à des membres de sa famille disparus ou de voleur.",
+        "urls": [
+            "https://baldursextendedworld.com/Sime/",
+            "https://github.com/RoxanneSHS/Sime"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "06-2023"
+    },
+    {
+        "name": "Smiling Imp's Cross Banter Mod",
+        "description": "Ce mod ajoute de nouvelles interactions entre de nombreux PNJ, notamment avec ceux ajoutés par des mods (comme Silver Star, Varshoon, Yasraena, Saerileth, Tsujatha, Horace, Kindrek et bien d'autres).",
+        "urls": [
+            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=196",
+            "https://github.com/SpellholdStudios/SmilingImpCrossBanterMod"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [
+            "Téléchargez la version GitHub qui est plus récente."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "02-2023"
+    },
+    {
+        "name": "Solaufein NPC",
+        "description": "Parfois appelé Weimer’s Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité... Ses caractéristiques sont les suivantes : FOR 18/21, DEX 18, CON 10, INT 18, SAG 10 et CHA 16.<br>À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).",
+        "urls": [],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "is_weidu": null,
+        "translation_state": false,
+        "safe": null,
+        "languages": [],
+        "status": "missing",
+        "last_update": ""
+    },
+    {
+        "name": "Solaufein Flirtpack",
+        "description": "En complément du mod [[Solaufein NPC]] permettant de recruter le fameux drow à Ust Natha, voici la suite de la romance disponible pour la mener à son terme, avec de nombreuses idées compilées dans ce mod achevé, notamment la possibilité de l'aider dans ses choix (il quitte tout de même l'Ombreterre pour vous suivre...).",
+        "urls": [
+            "http://www.shsforums.net/files/file/1258-solaufein-flirt-pack-for-the-solaufein-romance-mod/",
+            "https://github.com/SpellholdStudios/Solaufein_Flirt_Pack"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "04-2020"
+    },
+    {
+        "name": "Solaufein's Rescue",
+        "description": "Écrit par jastev, ce mod est une alternative au célèbre [[Solaufein NPC]] de Weimer, et est compatible avec les jeux BG2 d'origine (avec ToB), BGT, BG2:EE et EET.<br>Avant de pouvoir le recruter, vous devez libérer Solaufein des chambres des driders. Cette quête peut être jouée indépendamment du fait qu'il doive ensuite rejoindre le groupe ou non. (Ce n'est pas le mod Solaufein NPC de Weimer.).<br>Solaufein peut également vous suivre en tant que « 7e membre du groupe » si votre groupe se compose déjà de 6 personnes. Pour plus de détails à ce sujet, veuillez vous lire le fichier readme.",
+        "urls": [
+            "https://www.baldurs-gate.de/index.php?resources/jasteys-solaufein-npc-mod-for-bgii-solaufeins-rescue.13/",
+            "https://github.com/Gitjas/Solaufeins_Rescue_NPC"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "de",
+            "it",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "06-2024"
+    },
+    {
+        "name": "The Longer Road",
+        "description": "Enfin, Irenicus devient un personnage recrutable dès le début de ToB ! Ce mod rajoute des quêtes, des dialogues, et un final autrement époustouflant. Attention, vos réponses influent grandement sur vos relations avec Irenicus, et le contrat que vous remplissez avec lui en l'intégrant à votre équipe aura aussi des répercussions négatives.",
+        "urls": [
+            "http://www.onlinefiction.net/LR/LongerRoad.html",
+            "https://github.com/InfinityMods/LongerRoadEE"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [
+            "Erszebeth"
+        ],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
+            "fr",
+            "po",
+            "sp",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "12-2023"
+    },
+    {
+        "name": "Totemic Cernd",
+        "description": "Ce mini mod attribue à Cernd le profil de chaman (druide totémique) plutôt que celui de métamorphe. Dans le processus, ses statistiques physiques ont été légèrement améliorées pour en faire une alternative raisonnablement attrayante aux autres clercs ou druides, comme Jaheira ou Anomen.",
+        "urls": [
+            "https://www.gibberlings3.net/mods/tweaks/totemic_cernd/",
+            "https://github.com/Gibberlings3/Totemic_Cernd"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [
+            "Isaya"
+        ],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po"
+        ],
+        "status": true,
+        "last_update": "06-2017"
+    },
+    {
+        "name": "Valen NPC",
+        "description": "Ce mod ajoute un nouveau PNJ vampire, une guerrière-voleuse plus précisément, très efficace au combat, trop pour certains. Elle est redoutable la nuit, mais devient très faible le jour. Ce mod rajoute de nombreuses interactions avec les PNJ, mais pas de romance possible. Elle ne peut demeurer dans l'équipe avec Mazzy, Keldorn, Anomen, ou Aerie, au risque de se disputer... violemment. Elle possède aussi une quête spécifique (d'une difficulté réputée inouïe). Un aperçu de ses caractéristiques : vampire bi-classée guerrier/voleur chaotique mauvaise, FOR 18/75, DEX 17, CON 9, INT 16, SAG 10 et CHA 15.",
+        "urls": [
+            "https://weidu.org/valen.html",
+            "https://github.com/hellmouse/valen"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE"
+        ],
+        "authors": [
+            "Weimer"
+        ],
+        "team": [
+            "Ly Meng",
+            "Laurent Duvernet",
+            "Cocobard"
+        ],
+        "notes": [
+            "Utilisez le lien github pour les versions EE."
+        ],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "sp",
+            "it",
+            "ru",
+            "cn",
+            "jp"
+        ],
+        "status": true,
+        "last_update": "12-2020"
+    },
+    {
+        "name": "Wilson Chronicles",
+        "description": "Avez-vous souhaité pouvoir avoir plus de conversations avec votre compagnon à fourrure - Wilson ? Pensez-vous que les autres membres du groupe devraient partager leurs réflexions avec lui ?<br>Ce mod apporte une extension à ce personnage mystère de BG2:EE sous forme de dialogues, de mini-quêtes, de compétences, et d'objets et ajoute le moyen de l'appeler à partir de l'antichambre dans ToB. Le dialogue ajouté maintient le style du jeu original : les ours ont leur propre langage !",
+        "urls": [
+            "https://downloads.weaselmods.net/download/wilson-chronicles/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "sp",
+            "it",
+            "ru",
+            "cn",
+            "jp"
+        ],
+        "status": true,
+        "last_update": "05-2024"
+    },
+    {
+        "name": "Wings: Aerie expansion for BG2:EE",
+        "description": "Version améliorée du mod original de Coutelier, ce mod ajoute du contenu pour Aerie :<br>- quelques rencontres sans prétention avec des PNJ.<br>- Aerie peut obtenir son propre familier.<br>- une voie de l'amitié alternative à la romance, aussi disponible pour les joueurs non éligibles pour la romance.<br>- de nouvelles interactions avec les autres PNJ, notamment avec Imoen.<br>- un nouveau portrait et une nouvelle coloration de sa peau et de ses cheveux.<br>- une quête spécifique pour Aerie et une mini quête pour Minsc.<br>La quête principale commence après que vous ayez libéré Hendak et qu'il ait repris la gestion de la Couronne de Cuivre.",
+        "urls": [
+            "https://skitias-stories.com/mods-view.php?name=Wings",
+            "https://github.com/Skitia/Wings"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Skitia"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru",
+            "cn",
+            "sp"
+        ],
+        "status": true,
+        "last_update": "10-2024"
+    },
+    {
+        "name": "Yoshimo Romance",
+        "description": "Ce mod ajoute un nouveau genre de romance avec le tristement célèbre chasseur de primes. Disponible pour des PJ féminins humaines, elfes, demi-elfes et tieffelines disposant d'au moins 13 en charisme, cette romance particulière épouse parfaitement la trame principale de SoA. Bien que l'on pourrait penser que tout s'arrêterait avec la rencontre de Jon Irenicus à l'asile de Spellhold, le mod dispose également de contenu pour ToB.<br> Ce mod est compatible avec Yoshimo Friendship et [[Tortured Souls-BP]], mais certains dialogues pourraient être affectés par la présence de ces mods.",
+        "urls": [
+            "https://downloads.weaselmods.net/download/yoshimo-romance/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [
+            "Incompatible avec [[Keeping Yoshimo]]."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "03-2024"
+    },
+    {
+        "name": "Yoshimo's Remorse",
+        "description": "Était-ce vraiment la fin des aventures de Yoshimo avec l'Enfant de Bhaal ? N'a-t-il tout simplement aucun moyen de se racheter ou d'expliquer ses actions au PJ ?<br>Ce mod fait de Yoshimo un personnage jouable dans Throne of Bhaal. Cependant, il n'est pas ce que vous attendez de lui... Alors préparez-vous pour d'autres aventures et discussions avec le tristement célèbre chasseur de primes, une âme tourmentée qui n'a laissé que des regrets. Écoutez-le, car c'est peut-être sa dernière chance de trouver la paix.<br>Yoshimo's Remorse est compatible avec [[Yoshimo Romance]], mais si une telle relation a eu lieu dans SoA, il n'apparaîtra pas dans ToB, et le contenu du mod [[Yoshimo Romance]] se produira à la place.",
+        "urls": [
+            "https://www.gibberlings3.net/files/file/1012-yoshimos-remorse/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "jmaeq"
+        ],
+        "team": [],
+        "notes": [
+            "Incompatible avec [[Keeping Yoshimo]]."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "03-2023"
     }
 ]
