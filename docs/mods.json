@@ -4180,56 +4180,11 @@
         "last_update": ""
     },
     {
-        "name": "Baldur's Gate Graphics Overhaul for BG:EE",
+        "name": "Baldur's Gate Graphics Overhaul",
         "description": "Ce mod énorme ajoute les zones nocturnes qui manquent dans toutes les zones principales sauf Baldur's Gate et ajoute les minimaps nocturnes manquantes dans toutes les zones principales. Il corrige également des défauts graphiques dans les différentes cartes du jeu (fenêtres qui s'affichent la nuit et pas le jour - ou vice versa, porte mal ajustée, défaut dans les images de nuit, etc.). Il donne à tous les braseros muraux leurs flammes manquantes. Enfin, presque toutes les vilaines taches bleues et violettes ont été supprimées des rues. Il a été réalisé en collaboration avec Overhaul Studios.",
         "urls": [
-            "http://www.shsforums.net/files/file/1071-baldurs-gate-enhanced-edition-graphics-overhaul/"
-        ],
-        "categories": [
-            "Cosmétique"
-        ],
-        "games": [
-            "BGEE",
-            "SoD"
-        ],
-        "authors": [],
-        "team": [],
-        "notes": [],
-        "is_weidu": null,
-        "translation_state": null,
-        "safe": true,
-        "languages": [],
-        "status": true,
-        "last_update": ""
-    },
-    {
-        "name": "Baldur's Gate Graphics Overhaul for BGT",
-        "description": "Il s'agit de la version pour BGT.",
-        "urls": [
-            "http://www.shsforums.net/files/file/1072-baldurs-gate-trilogy-graphics-overhaul/"
-        ],
-        "categories": [
-            "Cosmétique"
-        ],
-        "games": [
-            "BGT"
-        ],
-        "authors": [],
-        "team": [],
-        "notes": [],
-        "is_weidu": null,
-        "translation_state": null,
-        "safe": true,
-        "languages": [],
-        "status": true,
-        "last_update": ""
-    },
-    {
-        "name": "Baldur's Gate Graphics Overhaul for EET",
-        "description": "",
-        "urls": [
-            "http://www.shsforums.net/topic/58501-baldurs-gate-graphics-overhaul-for-eet/",
-            "https://gitlab.com/whiteagnus/bggoEET/"
+            "http://www.shsforums.net/forum/641-bg-graphics-overhaul/",
+            "https://github.com/SpellholdStudios/BGGOEET"
         ],
         "categories": [
             "Cosmétique"
@@ -4237,41 +4192,21 @@
         "games": [
             "Tutu",
             "BGT",
-            "EET"
+            "EET",
+            "BG2EE",
+            "BGEE"
         ],
         "authors": [],
         "team": [],
         "notes": [
-            "Installez-le avant tout autre mod qui apporte des modifications aux zones BG1, car sinon le jeu se plantera lorsque vous entrerez dans ces zones !"
+            "Installez-le avant tout autre mod qui apporte des modifications aux zones, car sinon le jeu se plantera lorsque vous entrerez dans ces zones !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
-    },
-    {
-        "name": "Baldur's Gate Graphics Overhaul for Tutu",
-        "description": "Il s'agit de la version pour BG1Tutu.",
-        "urls": [
-            "http://www.shsforums.net/files/file/1073-baldurs-gate-tutu-graphics-overhaul/"
-        ],
-        "categories": [
-            "Cosmétique"
-        ],
-        "games": [
-            "Tutu"
-        ],
-        "authors": [],
-        "team": [],
-        "notes": [],
-        "is_weidu": null,
-        "translation_state": null,
-        "safe": true,
-        "languages": [],
-        "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Baldur's Gate Mini Quests and Encounters",
@@ -11182,7 +11117,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "subtledoctor"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -12930,7 +12867,7 @@
         "last_update": ""
     },
     {
-        "name": "Haiass el Lobo (One-Day NPC)",
+        "name": "Haiass el Lobo",
         "description": "Ce mod ajoute un loup, votre fidèle compagnon. Il requiert ToB et est compatible avec BGT. Selon votre partie, vous pourrez trouver Haiass dans l'auberge de Château-Suif (BGT), sur la promenade de Waukyne (SoA) ou l'appeler dans l'Antichambre (ToB).",
         "urls": [
             "http://www.shsforums.net/files/file/777-haiass-el-lobo/"
@@ -30841,6 +30778,7 @@
         "description": "Ce mod introduit un ensemble de modifications pour les mages/sorciers/bardes, ainsi que des règles, sorts et kits les concernant. Il propose une foultitude de composants que l'on peut ranger dans trois catégories : modifications de sorts, ajout ou modification de profils, modification du gameplay.<br/>- Profils d'ensorceleurs : Amorphous Disciple, Favored Soul, Magus, Revenant Disciple, Sylvan Disciple.<br/>- Profils d'ensorceleurs multi-classés : Arcanist, Mana Sorcerer.<br/>En perpétuel développement, ce mod est régulièrement mis à jour.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30797-unearthed-arcana-present-tome-blood-more-options-for-arcane-casters/",
+            "https://github.com/subtledoctor/TomeAndBlood",
             "https://github.com/UnearthedArcana/TomeAndBlood"
         ],
         "categories": [
@@ -30854,15 +30792,22 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
-        "team": [],
+        "authors": [
+            "subtledoctor"
+        ],
+        "team": [
+            "mickabouille"
+        ],
         "notes": [
             "Attention : ce mod a été conçu pour les jeu EE. Très peu de composants s'installent sur un jeu original, et sûrement pas les plus importants comme les profils. Alors ne tentez pas le diable et réservez-le pour vos sessions EE."
         ],
         "is_weidu": null,
-        "translation_state": false,
+        "translation_state": "wip",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": "11-2024"
     },
@@ -36077,5 +36022,98 @@
         "languages": [],
         "status": true,
         "last_update": "03-2023"
+    },
+    {
+        "name": "Isaac's Missile Storm",
+        "description": "This MOD adds Isaac's Missile Storm spell series to the Baldur's Gate game. Only Enhanced Editions are supported. After installation, Isaac's spell notes can be purchased at the shops of: Thalantyr (high hedge) Habasedlin (witchcraft grocery store, SOD only) Liebard (adventurer bazaar) Lazarus Libalus (Sarah governor) If you've already visited these stores before installing this MOD, you need to restart a game.",
+        "urls": [
+            "https://github.com/shohysie/Isaac-s_Missile_Storm"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": "wip",
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "08-2024"
+    },
+    {
+        "name": "Autumns Twilight",
+        "description": "Ce mod très complet ajoute de nouveaux personnages recrutables, des quêtes, des nouveaux objets, des marchands, des donjons etc",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38791-bg2-autumns-twilight-bg2at/",
+            "https://github.com/evancauteren/bg2-autumns-twilight-mod"
+        ],
+        "categories": [
+            "Sort et objet",
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "evancauteren"
+        ],
+        "team": [],
+        "notes": [
+            "La traduction française a été réalisée grâce à des traducteurs automatiques."
+        ],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru",
+            "sp"
+        ],
+        "status": true,
+        "last_update": "11-2024"
+    },
+    {
+        "name": "SubtleD's Spell Tweaks",
+        "description": "Ce mod est un regroupement des tweaks de subtledoctor que l'on peut retrouver dans d'autres mods de cet auteur comme [[Scales of Balance]], [[Tome and Blood]] ou encore [[SubtleDoctor's Random Tweak]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37238-subtlemods-subtleds-spell-tweaks/",
+            "https://github.com/subtledoctor/SubtleD_Spell_Tweaks"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "subtledoctor"
+        ],
+        "team": [
+            "mickabouille"
+        ],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": true,
+        "last_update": "11-2024"
     }
 ]
