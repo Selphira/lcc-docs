@@ -36061,5 +36061,285 @@
         ],
         "status": true,
         "last_update": "11-2024"
+    },
+    {
+        "name": "Sub-zero",
+        "description": "Sub-Zero est un assassin du clan Lin Kuei. Kuai Liang possède le pouvoir de la glace et du froid. Comme son nom l'indique, le personnage est clairement inspiré du personnage homonyme de Mortal Kombat et possède son style très particulier.",
+        "urls": [
+            "http://www.shsforums.net/topic/61087-mod-sub-zero-companion/"
+        ],
+        "categories": [
+            "NPC recrutable"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Gamemacik"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "06-2021"
+    },
+    {
+        "name": "The Return of Xzar and Montaron",
+        "description": "Ce mod ajoute une nouvelle quête après la fin de la quête originale de Xzar et Montaron. En terminant la quête, vous pourrez rejoindre le nécromancien et le combattant/voleur et en apprendre plus sur leurs aspirations et leurs plans. Les deux personnages sont recrutables et possèdent quelques dialogues ainsi que quelques quêtes.",
+        "urls": [
+            "https://downloads.weaselmods.net/download/the-return-of-xzar-and-montaron/"
+        ],
+        "categories": [
+            "NPC recrutable"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "10-2024"
+    },
+    {
+        "name": "Bethany",
+        "description": "Le mod ajoute un nouveau compagnon, Bethany Vivielle Helena Corthala, une médium (kit de shaman) qui a toujours rêvé d'être chapelière. Cependant, elle a la capacité de voir les morts et il est vraiment difficile d'être une experte de la mode, d'assister à tous ces événements sociaux et de montrer à tout le monde à quel point on peut être génial quand on est hanté par les morts. Elle a donc besoin d'un peu de distraction et... de célébrité, car cela peut être lui très utile car elle veut ouvrir sa propre entreprise quand tout sera fini.",
+        "urls": [
+            "https://downloads.weaselmods.net/download/bethany/"
+        ],
+        "categories": [
+            "NPC recrutable"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "03-2024"
+    },
+    {
+        "name": "Xikâsz’s Grove of Chaos",
+        "description": "Xikâsz's Grove of Chaos est un mod qui ajoute une nouvelle quête à IWD:EE et fournit aux joueurs un nouveau compagnon recrutable : Xikâsz - un combattant elfe entropiste/voleur d'alignement neutre.<br>Dans ce mod, vous aurez l'occasion d'enquêter sur une nouvelle zone près de Kuldahar. Un vieux bosquet près duquel un personnage louche a été repéré. Ami ? Ennemi ? C'est à vous d'y aller et de le découvrir. Mais soyez prudent, car vous devrez peut-être affronter de nouvelles bêtes au cours de votre enquête.",
+        "urls": [
+            "https://downloads.weaselmods.net/download/xikaszs-grove-of-chaos/"
+        ],
+        "categories": [
+            "NPC recrutable",
+            "Quête"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "04-2024"
+    },
+    {
+        "name": "Jaheira Friendship",
+        "description": "Ce mod est une tentative d'apporter plus de réalisme et d'intérêt aux PNJs de BG2 avec plus d'interjections, d'amitiés, et de dialogues. Ce mod ajoute une amitié avec la guerrière/druide emblématique, Jaheira.",
+        "urls": [
+            "http://www.shsforums.net/topic/61979-shs-welcomes-jaheira-friendship-mod/",
+            "https://github.com/Spellhold-Studios/Jaheira-Friendship"
+        ],
+        "categories": [
+            "NPC (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "11-2024"
+    },
+    {
+        "name": "The Bloodied Stings of Barovia",
+        "description": "Ce mod ajoute une nouvelle aventure sombre. Elle emmène l'Enfant de Bhaal et son groupe à Barovia, qui fait partie du royaume de Ravenloft. Dans cette contrée inquiétante, le joueur affrontera de nouveaux ennemis et de redoutables créatures, résoudra des énigmes complexes et vivra une histoire d'horreur gothique captivante. Plongez dans les brumes, traversez de dangereuses forêts et affrontez des créatures mortes-vivantes, tout en cherchant à regagner Athkatla.",
+        "urls": [
+            "https://downloads.weaselmods.net/download/the-bloodied-stings-of-barovia/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "11-2024"
+    },
+    {
+        "name": "The Bloodied Stings of Barovia",
+        "description": "Ce mod ajoute une nouvelle aventure sombre. Elle emmène l'Enfant de Bhaal et son groupe à Barovia, qui fait partie du royaume de Ravenloft. Dans cette contrée inquiétante, le joueur affrontera de nouveaux ennemis et de redoutables créatures, résoudra des énigmes complexes et vivra une histoire d'horreur gothique captivante. Plongez dans les brumes, traversez de dangereuses forêts et affrontez des créatures mortes-vivantes, tout en cherchant à regagner Athkatla.",
+        "urls": [
+            "https://downloads.weaselmods.net/download/the-bloodied-stings-of-barovia/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "11-2024"
+    },
+    {
+        "name": "Loretakers",
+        "description": "L'intrigue se déroule dans la ville de Baldur's Gate. Il ajoute de nouvelles zones (dont un donjon à deux niveaux), de nouveaux ennemis et de nouvelles quêtes et quelques objets. Le contenu dure approximativement entre 1 à 2 heures de jeu.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38310-mod-loretakers-a-quest-mod-for-bg1ee/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "Acifer",
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "06-2024"
+    },
+    {
+        "name": "Crucible",
+        "description": "L'action se déroule dans ToB lorsque le joueur quitte pour la dernière fois son Antichambre. Au lieu de rejoindre immédiatement le Trône de Bhaal, il est envoyé vers un donjon de type Crucible où il doit vaincre des monstres pour pouvoir rejoindre le Trône de Bhaal. Le contenu dure environ 3 heures.",
+        "urls": [
+            "https://www.morpheus-mart.com/crucible"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "morpheus"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "07-2024"
+    },
+    {
+        "name": "Fight the heaven",
+        "description": "Il s'agit d'un petit mod permettant à un joueur d'alignement mauvais d'accomplir la quête ToB de Dorn sans que ce dernier ne fasse partie du groupe. Pour commencer la quête, vous devez être d'alignement mauvais avec une réputation de 8 ou moins et vous aventurer jusqu'à l'Oasis. Une fois que vous aurez quitté l'Oasis, vous commencerez la quête normalement.",
+        "urls": [
+            "https://www.morpheus-mart.com/fight-the-heavens"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "morpheus"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "07-2024"
+    },
+    {
+        "name": "Dimension Gate: Or How TV Bunny searched TV Remote Control",
+        "description": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs, qui fonctionneront également dans les parties multijoueurs.",
+        "urls": [
+            "http://www.shsforums.net/files/file/1272-dimension-gate-or-how-tv-bunny-searched-tv-remote-control/"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Gamemacik"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "10-2021"
     }
 ]
