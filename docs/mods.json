@@ -478,8 +478,7 @@
             "https://github.com/SpellholdStudios/Adrian_NPC"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -548,13 +547,15 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "CBisson"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
         "notes": [],
         "is_weidu": null,
-        "translation_state": "wip",
+        "translation_state": false,
         "safe": true,
         "languages": [
             "en",
@@ -572,8 +573,7 @@
             "https://downloads.weaselmods.net/download/aeon/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -657,8 +657,7 @@
             "https://github.com/Argent77/DjinniCompanion"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -761,8 +760,7 @@
             "https://www.gibberlings3.net/files/file/989-ajantis-npc-for-bgii/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -855,41 +853,54 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
-        "team": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [
+            "deratiseur"
+        ],
         "notes": [],
-        "is_weidu": null,
-        "translation_state": false,
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2024"
     },
     {
-        "name": "Alassa (One-Day NPC)",
+        "name": "Alassa",
         "description": "Une voleuse mauvaise avec voix, quelques banters légers et un portrait original. Nécessite ToB.",
         "urls": [
-            "https://www.pocketplane.net/one-day-npcs/"
+            "https://www.pocketplane.net/one-day-npcs/",
+            "https://github.com/Plutonium-X/1D_NPC_Alassa"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [],
         "team": [
             "Shaywen",
             "Zooloo"
         ],
-        "notes": [],
-        "is_weidu": null,
+        "notes": [
+            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+        ],
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Alchemist kit for mages",
@@ -976,18 +987,21 @@
         "last_update": ""
     },
     {
-        "name": "Allison (One-Day NPC)",
+        "name": "Allison",
         "description": "Cette jeune elfe druide, enjouée et haute en couleurs vous demande de l'aide au Bosquet des Druides, et vous propose même de vous rejoindre pour mettre fin au règne de Faldorn. Elle possède de nombreux banters avec les différents PNJ du jeu.",
         "urls": [
             "http://www.shsforums.net/files/file/1260-allison-one-day-npc/",
-            "https://github.com/SpellholdStudios/Allison_One-Day_NPC"
+            "https://github.com/SpellholdStudios/Allison_One-Day_NPC",
+            "https://github.com/Plutonium-X/1D_NPC_Allison"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Rastor"
@@ -995,7 +1009,9 @@
         "team": [
             "Streen"
         ],
-        "notes": [],
+        "notes": [
+            "Choississez le second lien github pour la version BG2EE/EET proposé par Plutonium_X."
+        ],
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
@@ -1128,8 +1144,7 @@
             "https://github.com/GwendolyneFreddy/Alora-NPC-for-BG2"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -1308,7 +1323,8 @@
         "name": "Amazon Kit (beta)",
         "description": "Ce mod ajoute un profil de combattante, l'Amazone (très) librement adapté de celui du Manuel complet du guerrier, et disponible pour un personnage humain, demi-elfe ou demi-orque. Il propose aussi un portrait basé sur une photo de Keira Knightley que vous pouvez utiliser pour votre personnage.",
         "urls": [
-            "https://arcanecoast.ru/mod/amazon-kit"
+            "https://arcanecoast.ru/mod/amazon-kit",
+            "https://america.iegmc.com/amazonkit/"
         ],
         "categories": [
             "Kit"
@@ -1320,14 +1336,15 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Attention : Il faut s'inscrire sur le forum arcanecoast pour pouvoir le télécharger."
+            "Pour le premier lien, il faut s'inscrire sur le forum arcanecoast pour pouvoir le télécharger.",
+            "Le second lien permet de télécharger le mod sans avoir à s'inscrire."
         ],
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2006"
     },
     {
         "name": "Amber",
@@ -1336,8 +1353,7 @@
             "https://www.gibberlings3.net/files/file/685-amber/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -1387,8 +1403,7 @@
             "https://github.com/Gibberlings3/Angelo"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -1643,8 +1658,7 @@
             "https://github.com/Gibberlings3/Aran-Whitehand"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -1670,8 +1684,7 @@
             "https://github.com/SpellholdStudios/Arath_NPC"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -1878,8 +1891,7 @@
             "http://www.shsforums.net/files/file/511-ariena-version-22/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -2072,8 +2084,7 @@
             "https://github.com/Gitjas/Ascalons_Questpack"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -2151,8 +2162,7 @@
             "http://www.shsforums.net/files/file/1203-ashar-npc/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -2329,7 +2339,8 @@
         "name": "Au service d'Oghma",
         "description": "Thot a développé un petit mod sympathique qui ajoute une quête, donnée par un moine du temple d'Oghma, dans les Docks.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24078-mods-crees-Quete-au-service-d-oghma-v1-7-a.html"
+            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24078-mods-crees-Quete-au-service-d-oghma-v1-7-a.html",
+            "https://github.com/Plutonium-X/Quete_Oghma"
         ],
         "categories": [
             "Quête"
@@ -2337,16 +2348,19 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Thot"
+        ],
         "team": [
             "Thot"
         ],
         "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre ! Surtout pas sur ce forum qui héberge la version officielle..."
+            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -2362,8 +2376,7 @@
             "http://www.shsforums.net/topic/50833-auden-npc-monk-mod-for-bg2soa/#entry544318"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -2451,8 +2464,7 @@
             "https://github.com/Gibberlings3/AurenAseph"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -2539,8 +2551,7 @@
             "http://www.shsforums.net/files/file/1039-aurora-tob-npc/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -2715,8 +2726,7 @@
             "http://baldur.cob-bg.pl/download/bg2/npc/Avi_Maya_Project_v6.zip"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -2793,8 +2803,7 @@
             "http://balduran.blackwyrmlair.net/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -2805,7 +2814,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -4111,8 +4120,7 @@
             "http://www.baldursgatemods.com/forums/index.php?topic=8355.0"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -4216,8 +4224,7 @@
             "https://github.com/Gibberlings3/BG_Quests_And_Encounters"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG",
@@ -4360,8 +4367,7 @@
             "https://github.com/Gibberlings3/BS_Baldurans_Seatower"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "Tutu",
@@ -4510,8 +4516,7 @@
             "http://www.shsforums.net/files/file/1277-barbarian-companion-overpowered-edition/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -4913,8 +4918,7 @@
             "https://github.com/SpellholdStudios/Beyond_the_Law"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -4970,8 +4974,7 @@
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=29"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
@@ -5072,8 +5075,7 @@
             "https://github.com/UnearthedArcana/BP_in_BG"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGEE",
@@ -5476,8 +5478,7 @@
             "http://www.arcanecoast.ru/download/Branwenv13.7z"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -5964,29 +5965,40 @@
         "last_update": ""
     },
     {
-        "name": "Cassius (One-Day NPC)",
+        "name": "Cassius",
         "description": "Cassius est un barde scalde humain et mystérieux qui ne dit pas grand-chose sur son passé. Ce que l'on sait, c'est qu'il a beaucoup voyagé depuis La Porte de Baldur, Eauprofonde, le Calimshan et d'autres endroits sans jamais rester trop longtemps. Il est toujours à la recherche d'aventures pour pouvoir raconter les grandes histoires qu'ils ont rencontrées. Il s'est récemment arrêté en Amn pour recueillir des informations sur les grandes histoires des aventuriers qui y passent. La rumeur veut qu'il soit un agent des Ménestrels.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=59"
+            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=59",
+            "https://github.com/Plutonium-X/1D_NPC_Cassius"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [],
         "team": [
             "Fouinto"
         ],
-        "notes": [],
-        "is_weidu": null,
+        "notes": [
+            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+        ],
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "cz",
+            "en",
+            "fr",
+            "de",
+            "it"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Cast find familiar, and choose any",
@@ -6262,17 +6274,17 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
-        "team": [
-            "Freddy_Gwendo"
+        "authors": [
+            "Immortality"
         ],
+        "team": [],
         "notes": [],
         "is_weidu": null,
-        "translation_state": "wip",
+        "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2010"
     },
     {
         "name": "Charmed, I'm Sure",
@@ -6412,8 +6424,7 @@
         "description": "Ce mod allemand ajoute une guerrière dotée de capacités spéciales. Si vous l'aidez, elle peut être un atout extraordinaire pour le groupe. Si vous la laissez tomber, elle devient un ennemi imprévisible ! Vous la trouverez dans les égouts sous le quartier des temples. Contenu pour SoA et ToB.",
         "urls": [],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -6441,8 +6452,7 @@
             "https://github.com/Plutonium-X/PNJ_Chloe"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -7185,8 +7195,7 @@
             "http://www.mediafire.com/download/1z8wa841ynoa6u3/Coondred1.3.rar."
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -7408,7 +7417,7 @@
             "https://github.com/RoxanneSHS/Corwin"
         ],
         "categories": [
-            "PNJ (autre)"
+            "PNJ recrutable"
         ],
         "games": [
             "SoD",
@@ -7535,8 +7544,7 @@
             "https://github.com/shadowhawk703/CritterParts"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGEE",
@@ -7877,8 +7885,7 @@
             "https://github.com/SpellholdStudios/Dace_NPC"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -7979,8 +7986,7 @@
             "http://www.shsforums.net/files/file/948-darian/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -8004,8 +8010,7 @@
             "https://github.com/The-Gate-Project/DarkHorizons"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG",
@@ -8073,8 +8078,7 @@
             "https://github.com/SpellholdStudios/DSotSC"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG",
@@ -8116,7 +8120,7 @@
         ],
         "authors": [],
         "team": [
-            "deratiseur"
+            "JohnBob"
         ],
         "notes": [],
         "is_weidu": null,
@@ -9525,8 +9529,7 @@
             "https://github.com/RamosPabloA/NPC_Dusk_MOD"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -9620,8 +9623,7 @@
             "https://downloads.weaselmods.net/download/dvaradime/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -10050,7 +10052,7 @@
             "https://github.com/RoxanneSHS/Ehlastra"
         ],
         "categories": [
-            "PNJ (autre)"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -10073,8 +10075,7 @@
             "https://downloads.weaselmods.net/download/eilistraees-song/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -10214,8 +10215,7 @@
             "http://baldur.cob-bg.pl/download/bg2/npc/ElvanA01.zip"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -10323,8 +10323,7 @@
             "https://github.com/Gibberlings3/EndlessBG1"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Gameplay"
         ],
         "games": [
             "BGT",
@@ -10688,8 +10687,7 @@
             "https://github.com/MattyGroove/Evandra"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -10716,8 +10714,7 @@
             "https://www.gibberlings3.net/files/file/707-every-mod-and-dog/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -11037,14 +11034,14 @@
     },
     {
         "name": "Fade NPC",
-        "description": "Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est un des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romance et quêtes personnelle étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.<br/><span style=\"color: red;\">Nécessite une mise à jour de la traduction, v5+.</span>",
+        "description": "Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est un des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romance et quêtes personnelle étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.",
         "urls": [
             "http://www.shsforums.net/files/file/1083-fade/",
-            "https://github.com/SpellholdStudios/Fade_NPC"
+            "https://github.com/SpellholdStudios/Fade_NPC",
+            "https://github.com/Plutonium-X/NPC_Fade"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -11057,16 +11054,18 @@
             "Stargazer"
         ],
         "notes": [
-            "Note : depuis la version v4, déjà compatible BG2:EE et avec la partie ToB, le mod a perdu sa traduction française. Vous trouverez <a href=\"http://www.mediafire.com/file/f73zx1hpibwcrng/Fade_v3_EE.zip/file\">ici</a> la version 3 sans la partie ToB, mais avec la traduction française."
+            "Depuis la version v4, déjà compatible BG2:EE et avec la partie ToB, le mod a perdu sa traduction française.",
+            "Le second lien github (Plutonium-X) renvoie vers une version française à jour."
         ],
         "is_weidu": true,
-        "translation_state": "todo",
+        "translation_state": true,
         "safe": true,
         "languages": [
-            "en"
+            "en",
+            "fr"
         ],
         "status": true,
-        "last_update": "08-2020"
+        "last_update": "10-2024"
     },
     {
         "name": "Fading Promises",
@@ -11076,8 +11075,7 @@
             "https://github.com/SpellholdStudios/Fading_Promises"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -11161,8 +11159,7 @@
             "https://downloads.weaselmods.net/download/faldorn-bg2ee/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -11185,8 +11182,7 @@
             "http://www.shsforums.net/files/file/1125-faren/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -11234,8 +11230,7 @@
             "https://downloads.weaselmods.net/download/fhaugy/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -11258,8 +11253,7 @@
             "http://www.shsforums.net/files/file/1015-fiars-beta/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2"
@@ -11695,8 +11689,7 @@
             "https://downloads.weaselmods.net/download/foundling-between-the-shades/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -11704,7 +11697,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -11722,8 +11717,7 @@
             "https://github.com/lzenner/framed"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGEE",
@@ -11804,8 +11798,7 @@
         "description": "Le doppelganger du Donjon d'Irenicus devient un personnage recrutable. Mais faites attention : son écriture laisse à désirer et il est incompatible avec bon nombre de mods.",
         "urls": [],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -11860,8 +11853,7 @@
             "https://downloads.weaselmods.net/download/fyalvara/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE"
@@ -11912,8 +11904,7 @@
             "https://downloads.weaselmods.net/download/gahesh/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -12129,8 +12120,7 @@
             "https://github.com/Gibberlings3/Gavin_BG2"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -12152,11 +12142,11 @@
         "last_update": "02-2019"
     },
     {
-        "name": "Gemma (One-Day-NPC)",
+        "name": "Gemma",
         "description": "Créé sur La Couronne de Cuivre, ce mod ajoute une nouvelle PNJ recrutable. Adepte d'Umberlie, Gemma n'est pas vraiment le genre de naine à passer son temps à chanter de joyeuses chansons, une chope de bière en main. Non, son truc, c'est utiliser de la rhétorique pour frapper de plein fouet l'hérétique qui ne s'y attend pas. Quand la rhétorique passe par le marteau, c'est sûr, les gens sont plus réceptifs (et morts). Gemma patiente tranquillement (non) sur les Docks d'Athkatla.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/24917-personnage-non-joueur-one-day-npc-Gemma.html",
-            "https://www.mediafire.com/file/y0u08q36ihf1tzu/Gemma_EET.zip/file"
+            "https://github.com/Plutonium-X/1D_NPC_Gemma"
         ],
         "categories": [
             "PNJ One Day"
@@ -12166,13 +12156,14 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Zyl"
+        ],
         "team": [
-            "Zyl",
             "deratiseur"
         ],
         "notes": [
-            "Choississez le lien mediafire pour la version BG2EE/EET proposé par deratiseur."
+            "Choississez le lien github pour la version BG2EE/EET proposé par deratiseur."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -12181,7 +12172,7 @@
             "fr"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Generalized Biffing",
@@ -12585,8 +12576,7 @@
             "http://baldur.cob-bg.pl/download/bg2/npc/Gloran_v3.zip"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -12640,12 +12630,10 @@
             "SoD"
         ],
         "authors": [],
-        "team": [
-            "JohnBob"
-        ],
+        "team": [],
         "notes": [],
         "is_weidu": null,
-        "translation_state": "wip",
+        "translation_state": false,
         "safe": true,
         "languages": [
             "de"
@@ -12905,8 +12893,7 @@
             "https://github.com/Gibberlings3/Haldamir"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -12930,7 +12917,7 @@
         "last_update": "02-2019"
     },
     {
-        "name": "Hanna (One-Day NPC)",
+        "name": "Hanna",
         "description": "Rôdeuse de son état, Hanna dispose d'une quête personnelle, de banters et d'interactions avec les PNJ du jeu. Vous la trouverez à Franc-Marché (SoA), et pourrez l'invoquer dans l'Antichambre (ToB). Ce mod améliore également un certain nombre de rencontres, dont celle avec Irenicus, le château de'Arnise, le dragon d'Irenicus et quelques autres.",
         "urls": [
             "http://www.shsforums.net/files/file/821-hanna-pnj-v24/"
@@ -12940,19 +12927,23 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Ancalagon el Negro"
+        ],
         "team": [
             "Althéa"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2020"
     },
     {
         "name": "Hannah's Portrait Pack",
@@ -13303,8 +13294,7 @@
             "https://downloads.weaselmods.net/download/hephernaan-bg2/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -13823,8 +13813,7 @@
             "https://github.com/SpellholdStudios/Hubelpot_the_Vegetable_Merchant_NPC"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -13927,8 +13916,7 @@
             "https://downloads.weaselmods.net/download/i-shall-never-forget/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -14058,7 +14046,7 @@
             "deratiseur"
         ],
         "notes": [
-            "Pour BG2:EE, utilisez le lien github. Cette version a été réalisée par deratiseur et contient le fix pour que les objets ne se changent plus en or."
+            "Pour BG2:EE, utilisez le lien github. Cette version contient le fix pour que les objets ne se changent plus en or."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -15250,8 +15238,7 @@
             "https://downloads.weaselmods.net/download/innershade/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -15488,8 +15475,7 @@
             "https://github.com/SpellholdStudios/Isra_NPC_BG2"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -15685,8 +15671,7 @@
             "https://github.com/SpellholdStudios/Iylos_NPC"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -16282,8 +16267,7 @@
             "http://america.iegmc.net/moongaze/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -16401,8 +16385,7 @@
             "https://github.com/Pocket-Plane-Group/Kelsey"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -16518,8 +16501,7 @@
             "https://github.com/Pocket-Plane-Group/Keto"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -16547,8 +16529,7 @@
             "http://www.shsforums.net/topic/50083-khalid-mod-for-bg-ii-released/page-9#entry548665"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -16571,8 +16552,7 @@
             "https://downloads.weaselmods.net/download/khalid-bg2/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE"
@@ -16595,8 +16575,7 @@
             "https://github.com/SpellholdStudios/Kiara-Zaiya"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -16631,8 +16610,7 @@
             "http://www.shsforums.net/files/file/241-kido-version-70/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -16657,8 +16635,7 @@
             "http://www.shsforums.net/files/file/136-killing-wolf-npc/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -16682,8 +16659,7 @@
             "https://github.com/The-Gate-Project/Kim_NPC/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -16713,11 +16689,10 @@
         "name": "Kindrek NPC",
         "description": "Ce mod rajoute un PNJ très puissant, chaotique neutre et berserker. Il a une race inédite, sorte de demi-géant d'origine magique. Il n'est pas romançable, mais possède une quête personnelle ainsi qu'une rencontre spécifique. Il a aussi de nombreuses interactions, sons et cinématiques avec les autres personnages. Attention aux personnages mages, bardes, sorciers et multi-classés mages. Kindrek refusera de vous rejoindre.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=16"
+            "http://downloads.chosenofmystra.net/bg2/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -16850,8 +16825,7 @@
             "https://www.baldursgateworld.fr/filesmods/ModsBGtraduits/KitanyaSoAv6-41.exe"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -16875,8 +16849,7 @@
             "https://github.com/Gibberlings3/Kivan_and_Deheriana"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -17027,10 +17000,10 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
-        "team": [
+        "authors": [
             "deratiseur"
         ],
+        "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": true,
@@ -17049,8 +17022,7 @@
             "https://github.com/Deratiseur/Ogre"
         ],
         "categories": [
-            "Quête",
-            "PNJ recrutable"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
@@ -17131,8 +17103,7 @@
             "http://baldur.cob-bg.pl/larsha"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -17184,16 +17155,15 @@
             "https://www.baldursgateworld.fr/lacouronne/le-champion-de-bhaal/32721-Telechargement-du-mod.html"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGT"
         ],
-        "authors": [],
-        "team": [
+        "authors": [
             "Cocrane"
         ],
+        "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": true,
@@ -17372,8 +17342,7 @@
             "https://github.com/gungorenu/bg2-npcmod-lena"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -17428,8 +17397,7 @@
             "http://baldur.cob-bg.pl/download/bg2/npc/Lester.zip"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -17662,8 +17630,7 @@
             "https://downloads.weaselmods.net/download/lhannd/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE"
@@ -18096,17 +18063,16 @@
             "https://www.baldursgateworld.fr/lacouronne/idees/25036-npc-klare.html"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
             "BGT"
         ],
-        "authors": [],
-        "team": [
+        "authors": [
             "Klare"
         ],
+        "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": true,
@@ -18172,8 +18138,7 @@
             "https://trow.cc/board/showtopic=14514&hl=Macholy"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGT"
@@ -18662,13 +18627,12 @@
     },
     {
         "name": "Mawgul NPC",
-        "description": "Mawgul est un Guerrier/Mage elfe neutre absolu, servant de Heaum disposant d'un équipement appréciable, ainsi que de capacités spéciales semblables à celles des prêtres de Helm. Ce mod ca peu e contenu.",
+        "description": "Mawgul est un Guerrier/Mage elfe neutre absolu, servant de Heaum disposant d'un équipement appréciable, ainsi que de capacités spéciales semblables à celles des prêtres de Helm. Ce mod a peu de contenu.",
         "urls": [
             "http://www.shsforums.net/files/file/767-mawgul-npc-v22/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -18741,8 +18705,7 @@
             "https://www.baldursgateworld.fr/lacouronne/menace-sur-le-royaume-de-diamant-eternel/"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -18755,13 +18718,13 @@
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
             "fr"
         ],
-        "status": true,
+        "status": "wip",
         "last_update": ""
     },
     {
@@ -18853,29 +18816,39 @@
         "last_update": "10-2024"
     },
     {
-        "name": "Mhoram (One-Day NPC)",
+        "name": "Mhoram",
         "description": "Ce mini-mod d'origine espagnole ajoute un barde elfe, poète du grand Nord disposant d'une quête optionnelle dans le quartier du Pont.",
         "urls": [
-            "http://www.shsforums.net/files/file/769-mhoram-npc-v23/"
+            "http://www.shsforums.net/files/file/769-mhoram-npc-v23/",
+            "https://github.com/Plutonium-X/1D_NPC_Mhoram"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [],
         "team": [
             "Althéa"
         ],
-        "notes": [],
-        "is_weidu": null,
+        "notes": [
+            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+        ],
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "it",
+            "sp"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Might and Guile",
@@ -19334,10 +19307,11 @@
         "last_update": "09-2018"
     },
     {
-        "name": "Moddie the vixxen (One Day NPC)",
+        "name": "Moddie the vixen",
         "description": "Fruit d'une expérience d'Irenicus, cette femelle renard est obsédée par la nourriture. Elle peut se transformer en muloup ou en muloup majeur, ses stats changeant alors. Des banters et quelques dialogues avec le PJ sont au programme.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=60"
+            "https://forums.pocketplane.net/index.php?topic=24075.msg301127#msg301127",
+            "https://github.com/Plutonium-X/1D_NPC_Moddie"
         ],
         "categories": [
             "PNJ One Day"
@@ -19345,17 +19319,27 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [],
-        "team": [],
-        "notes": [],
-        "is_weidu": null,
-        "translation_state": false,
+        "team": [
+            "deratiseur"
+        ],
+        "notes": [
+            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+        ],
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "ru",
+            "en",
+            "fr",
+            "de"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Modification des thèmes musicaux d'IWD et IWD2",
@@ -19563,8 +19547,7 @@
             "http://www.shsforums.net/files/file/129-mordans-christmas-minimod/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -19989,8 +19972,7 @@
             "http://athkatla.cob-bg.pl/viewtopic.php?t=7667&sid=ed4c50b6f80e5427d8088f80fdc08c0f"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG",
@@ -20395,8 +20377,7 @@
             "http://www.shsforums.net/files/file/734-nathaniel/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -20420,8 +20401,7 @@
             "https://www.gibberlings3.net/files/file/1035-navarra/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -20500,8 +20480,7 @@
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=62"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -20526,8 +20505,7 @@
             "https://github.com/SpellholdStudios/Nephele_NPC"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -20619,13 +20597,13 @@
     },
     {
         "name": "New Tales of the Sword Coast (Nowe Opowieści z Wybrzeża Mieczy)",
-        "description": "Il s'agit d'un énorme projet de mod de la communauté polonaise regroupant deux anciens mods (Project X et BG:EE 10 NPC Project). Il comporte entre autres :<br/>- 10 nouveaux PNJ recrutables avec leur quête, voie d'amitié, romance et interactions.<br/>- des quêtes entièrement nouvelles et originales.<br/>- des nouvelles zones.<br/>- plus de 100 nouveaux personnages, dont des adversaires dangereux.<br/>Bien que pour l'instant seulement disponible en polonais, ses auteurs préviennent qu'il n'est destiné qu\"aux adultes.",
+        "description": "Il s'agit d'un énorme projet de mod de la communauté polonaise regroupant deux anciens mods (Project X et BG:EE 10 NPC Project). Il comporte entre autres :<br/>- 10 nouveaux PNJ recrutables avec leur quête, voie d'amitié, romance et interactions.<br/>- des quêtes entièrement nouvelles et originales.<br/>- des nouvelles zones.<br/>- plus de 100 nouveaux personnages, dont des adversaires dangereux.<br/>Bien que pour l'instant seulement disponible en polonais, ses auteurs préviennent qu'il n'est destiné qu'aux adultes.",
         "urls": [
             "http://athkatla.cob-bg.pl/viewtopic.php?t=7827"
         ],
         "categories": [
             "Quête",
-            "PNJ (autre)"
+            "PNJ recrutable"
         ],
         "games": [
             "BGEE",
@@ -20734,8 +20712,7 @@
             "https://github.com/The-Gate-Project/NikitaRedux"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -20765,8 +20742,7 @@
             "https://github.com/SpellholdStudios/Ninde_NPC"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -20975,8 +20951,7 @@
             "https://github.com/SpellholdStudios/NTotSC"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGT",
@@ -21078,8 +21053,7 @@
         "description": "Ce mod vous permet de recruter Drizzt Do‘Urden lorsque vous quittez l'Ombreterre et partez à la recherche du Rhynn Lanthorn.",
         "urls": [],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -21686,8 +21660,7 @@
             "https://github.com/ArtemiusI/Pai-Na-NPC-mod-for-BG2-EE"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -22070,8 +22043,7 @@
             "http://www.davelevy.info/bg2/Branwen/POB_v0.9.zip "
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -22096,8 +22068,7 @@
             "https://downloads.weaselmods.net/download/petsy/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -23246,8 +23217,7 @@
             "https://downloads.weaselmods.net/download/quayle-bg2/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -23587,8 +23557,7 @@
             "http://baldur.cob-bg.pl/raziel"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -24534,8 +24503,7 @@
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=389"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -24846,8 +24814,7 @@
             "http://www.shsforums.net/files/file/1269-rukrakia/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -24986,8 +24953,7 @@
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=143"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -25098,8 +25064,7 @@
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=17"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -25233,8 +25198,7 @@
             "https://github.com/The-Gate-Project/Saradas_Magic_for_BGEE"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -25293,8 +25257,7 @@
             "https://github.com/Gibberlings3/Sarah"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -25628,8 +25591,7 @@
             "https://github.com/The-Gate-Project/Severian-de-Demerya/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -25637,12 +25599,14 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Coyote"
+        ],
         "team": [
             "Coyote"
         ],
         "notes": [
-            "Fourni par deratiseur, c'est le second lien qui est compatible avec BG2:EE."
+            "Seul le second lien est compatible avec BG2:EE."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -25692,8 +25656,7 @@
             "https://downloads.weaselmods.net/download/shades-of-the-sword-coast/"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGEE",
@@ -25876,8 +25839,7 @@
         "description": "À ne pas confondre avec [[Shar-Teel NPC for SoD]], ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG. Il ne dispose pas de beaucoup de contenu.",
         "urls": [],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -26113,8 +26075,7 @@
             "https://forums.beamdog.com/discussion/60784/npc-mod-sheena-the-half-dragon-tale/p1"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -26277,8 +26238,7 @@
             "https://github.com/SpellholdStudios/Silver_Star_NPC"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -26422,8 +26382,7 @@
             "https://github.com/ArtemiusI/Sirene-NPC-for-BG2-EE"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -26497,8 +26456,7 @@
             "https://downloads.weaselmods.net/download/skie-the-cost-of-one-girls-soul/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -26521,8 +26479,7 @@
             "http://www.shsforums.net/files/file/1005-skie-npc/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -26610,8 +26567,7 @@
             "https://github.com/Skitia/SkitiaNPCs/archive/master.zip"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -26636,8 +26592,7 @@
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=2"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -26862,8 +26817,7 @@
             "http://www.shsforums.net/topic/45601-missing-mods/page-2#entry492803"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -27042,8 +26996,7 @@
             "https://downloads.weaselmods.net/download/southern-edge/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -27400,8 +27353,7 @@
             "https://github.com/vbigiani/stivan/archive/master.zip"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -27649,8 +27601,7 @@
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=77"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
@@ -27660,9 +27611,11 @@
         "team": [
             "JohnBob"
         ],
-        "notes": [],
+        "notes": [
+            "Liens morts."
+        ],
         "is_weidu": null,
-        "translation_state": "wip",
+        "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
@@ -28242,8 +28195,7 @@
             "http://www.shsforums.net/files/file/483-taim-npc/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
@@ -28448,8 +28400,7 @@
             "https://github.com/Plutonium-X/NPC_Tashia"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -28480,13 +28431,12 @@
     },
     {
         "name": "Tashia Remix",
-        "description": "Il s'agit de la version \"Remix\" qui ajoute de nombreux textes et qui n'est pas entièrement traduite, et est compatible avec les jeux EE.<br/>Il existe une autre version du mod, la version 2.05g originelle, traduite, et disponible plus haut.<br/><span style=\"color:red;\">Nécessite une mise à jour de la traduction (près du triple par rapport à l'ancienne version 2,05g).</span>",
+        "description": "Il s'agit de la version \"Remix\" de [[Tashia NPC]] qui ajoute de nombreux textes et qui n'est pas entièrement traduite, et est compatible avec les jeux EE.<br/>Il existe une autre version du mod, la version 2.05g originelle, traduite, et disponible plus haut.<br/><span style=\"color:red;\">Nécessite une mise à jour de la traduction (près du triple par rapport à l'ancienne version 2,05g).</span>",
         "urls": [
             "http://www.shsforums.net/files/file/33-tashia/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -28991,8 +28941,7 @@
             "https://www.gibberlings3.net/files/file/998-beaurin-legacy/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -29224,8 +29173,7 @@
             "https://github.com/Gibberlings3/The_Calling"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGT",
@@ -29291,8 +29239,7 @@
             "https://github.com/Gibberlings3/CowledMenace"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "EET"
@@ -29331,13 +29278,20 @@
             "Krull"
         ],
         "notes": [
-            "Le second lien concerne uniquement la version pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale v1.14 (premier lien) SANS l'installer. Puis lancez le fichier Setup-TDDz.exe pour installer le mod sur votre jeu EE.",
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+            "Le second lien concerne uniquement la version pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale v1.14 (premier lien) SANS l'installer. Puis lancez le fichier Setup-TDDz.exe pour installer le mod sur votre jeu EE."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "po",
+            "ru",
+            "sp"
+        ],
         "status": true,
         "last_update": "08-2020"
     },
@@ -29477,8 +29431,7 @@
             "https://github.com/TotalMilk90/gorgon"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGEE",
@@ -29502,8 +29455,7 @@
             "https://github.com/K4thos/TGC1e/"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG",
@@ -29653,7 +29605,7 @@
         ],
         "categories": [
             "Quête",
-            "Gameplay"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -29677,8 +29629,7 @@
             "https://github.com/Pocket-Plane-Group/Lure_Of_Sirines_Call"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG",
@@ -29708,8 +29659,7 @@
             "https://github.com/SpellholdStudios/The_Luxley_Family"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -29792,7 +29742,7 @@
     },
     {
         "name": "The Old Gold",
-        "description": "Ce mod ajoute de nouveaux objets, sorts, amis et ennemis dans le jeu, en s'efforçant d'apporter un sentiment de nostalgie chaleureuse et confortable à ceux qui ont connu les anciens jeux D&amp;D sur PC.",
+        "description": "Ce mod ajoute de nouveaux objets dans le jeu, en s'efforçant d'apporter un sentiment de nostalgie chaleureuse et confortable à ceux qui ont connu les anciens jeux D&amp;D sur PC.",
         "urls": [
             "http://www.shsforums.net/files/file/1201-the-old-gold/"
         ],
@@ -29802,7 +29752,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Creepin"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -29810,7 +29762,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "The One Ring",
@@ -29939,8 +29891,7 @@
             "http://www.shsforums.net/files/file/1076-the-secret-of-bonehill/"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "Tutu",
@@ -30058,8 +30009,7 @@
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=31"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG",
@@ -30247,8 +30197,7 @@
             "http://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=29175"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG",
@@ -30742,7 +30691,7 @@
     },
     {
         "name": "Todd le super Gars testeur",
-        "description": "Ce mod français de deratiseur ajoute un marchand anachronique qui vend les objets de Morrowind et d'Arcanum. Il attend les aventuriers à différents endroits selon le jeu.<br/>Note : comme la raison d'être du module est de proposer de manière anachronique tous les objets venant d'autres jeux, il ne fait pas de distinction entre les objets inutiles, les objets équilibrés et les objets surpuissants. Installez-le en connaissance de cause. Si vous cherchez des objets équilibrés, voyez plutôt du côté de l'interplan.",
+        "description": "Ce mod français de deratiseur ajoute un marchand anachronique qui vend les objets de Morrowind et d'Arcanum. Il attend les aventuriers à différents endroits selon le jeu.<br/>Note : comme la raison d'être du module est de proposer de manière anachronique tous les objets venant d'autres jeux, il ne fait pas de distinction entre les objets inutiles, les objets équilibrés et les objets surpuissants. Installez-le en connaissance de cause. Si vous cherchez des objets équilibrés, voyez plutôt du côté de [[L'interplan]].",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31924-marchand-todd-le-super-gars-testeur.html",
             "https://github.com/Deratiseur/Todd"
@@ -30758,10 +30707,10 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
-        "team": [
+        "authors": [
             "deratiseur"
         ],
+        "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": true,
@@ -30918,8 +30867,7 @@
             "http://www.shsforums.net/topic/56148-touchstone-a-mod-from-rabain/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -31157,8 +31105,7 @@
             "https://github.com/Argent77/A7-TotLM-BG2EE"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG2EE",
@@ -31293,16 +31240,17 @@
         "name": "Tsujatha Melalor",
         "description": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux. FOR: 17, DEX: 12, CON: 12, INT: 19, SAG: 16 et CHA: 14.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=18"
+            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=18",
+            "https://github.com/Plutonium-X/NPC_Tsujatha"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [],
         "team": [
@@ -31311,14 +31259,20 @@
             "DarkWintermoon"
         ],
         "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+            "Choississez le lien github pour la version BG2EE/EET."
         ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru",
+            "sp"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2024"
     },
     {
         "name": "Tsuki NPC for BG2",
@@ -31327,8 +31281,7 @@
             "https://downloads.weaselmods.net/download/tsuki-bg2/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -31577,8 +31530,7 @@
             "https://github.com/RoxanneSHS/The-Rune"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGEE",
@@ -31603,8 +31555,7 @@
             "https://www.gibberlings3.net/files/file/906-tyris-flare-npc/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -31633,8 +31584,7 @@
             "http://www.shsforums.net/files/file/766-uldar-npc-v-077/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -31660,8 +31610,7 @@
             "http://www.blackwyrmlair.net/~rabain/SagaMaster/Ulrien-SagaMaster.zip"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ (autre)"
         ],
         "games": [
             "BG2",
@@ -31946,7 +31895,6 @@
         ],
         "categories": [
             "Quête",
-            "Gameplay",
             "Kit"
         ],
         "games": [
@@ -32187,15 +32135,19 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Pokota"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod a disparu."
+        ],
         "is_weidu": null,
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "missing",
+        "last_update": "09-2017"
     },
     {
         "name": "Unofficial Item Pack",
@@ -32486,8 +32438,7 @@
             "http://maus.mm-inventions.de/web/start_e.html"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -32510,24 +32461,26 @@
             "https://downloads.weaselmods.net/download/varshoon/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
-        "authors": [],
-        "team": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [
+            "Le Marquis"
+        ],
         "notes": [],
         "is_weidu": true,
-        "translation_state": false,
+        "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2024"
     },
     {
         "name": "Vecna",
@@ -32585,8 +32538,7 @@
             "https://downloads.weaselmods.net/download/verrsza-bg2ee/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -33288,8 +33240,7 @@
         "description": "Ce mod ajoutait de petites quêtes humoristiques.",
         "urls": [],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGT"
@@ -33302,7 +33253,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "Ce mod a disparu."
+        ],
         "status": "missing",
         "last_update": ""
     },
@@ -33806,8 +33759,7 @@
             "http://www.shsforums.net/topic/25599-worgas-the-npc-and-his-prettie-eyeball/page-5#entry467708"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -33984,8 +33936,7 @@
             "https://github.com/Pocket-Plane-Group/Xan_for_BGII"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -34058,8 +34009,7 @@
             "http://www.shsforums.net/files/file/710-xulaye/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -34107,11 +34057,10 @@
         "name": "Yasraena",
         "description": "Ce mod ajoute une PNJ drow qui a des banters, des voix et des objets spécialement conçus pour elle. C’est une guerrière pure, chaotique bonne, qui possède deux épées personnelles ainsi qu’une amulette. Vous la rencontrez à la fin du donjon d’Irenicus (notez que si vous lui demandez de partir, vous ne la retrouverez plus jamais). Elle s’implante bien dans votre groupe, si ce dernier défend des objectifs louables (personnages Bons ou Neutres) et une voix particulière lui est allouée.<br/>Notez qu'elle dispose d'une attaque supplémentaire par round ; ce qui est pour le moins abusé...",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=19"
+            "http://downloads.chosenofmystra.net/bg2/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -34140,8 +34089,7 @@
             "https://github.com/SpellholdStudios/Yeslick_NPC"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -34194,8 +34142,7 @@
             "https://downloads.weaselmods.net/download/yvette-romance/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
@@ -34270,8 +34217,7 @@
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=198"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Forgeron et marchand"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2",
