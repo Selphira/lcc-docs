@@ -203,7 +203,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De son propre aveu, il n'est pas très fiable..."
@@ -518,14 +520,16 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -703,7 +707,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
@@ -1221,8 +1227,8 @@
         "translation_state": null,
         "safe": true,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "embed",
+        "last_update": "01-2008"
     },
     {
         "name": "Alternatives",
@@ -4716,7 +4722,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... De plus, il s'agit d'un mod override qui écrase 3 fichiers du jeu. À installer à vos risques et périls."
@@ -6306,7 +6314,9 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
@@ -7282,14 +7292,16 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -7449,7 +7461,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
@@ -8575,14 +8589,16 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -10196,7 +10212,9 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
@@ -10753,7 +10771,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
@@ -11444,13 +11464,15 @@
             "IWDEE"
         ],
         "authors": [],
-        "team": [],
+        "team": [
+            "temnix"
+        ],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -11524,14 +11546,16 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. À installer à vos risques et périls."
         ],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -12679,7 +12703,7 @@
         "last_update": "07-2024"
     },
     {
-        "name": "Goo the Disembodied Floating Eyeball (One-Day NPC)",
+        "name": "Goo the Disembodied Floating Eyeball",
         "description": "Le seul PNJ à être un œil flottant ! Gozaloth (Goo pour ses amis) est le compagnon idéal pour Jan, si vous voulez le voir répliquer de manière encore plus savoureuse ! Vous le trouverez dans la Sphère planaire.<br/>Notez que le mod [[Alternate Goo Portrait]] permet de modifier son portrait.",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
@@ -12695,7 +12719,9 @@
         "team": [
             "Galathée"
         ],
-        "notes": [],
+        "notes": [
+            "La v6 du mod intègre directement le mod [[Alternate Goo Portrait]]."
+        ],
         "is_weidu": null,
         "translation_state": true,
         "safe": true,
@@ -13631,7 +13657,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. À installer à vos risques et périls."
@@ -14600,7 +14628,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. À installer à vos risques et périls."
@@ -15740,7 +15770,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... Celui-ci n'échappe à la règle : le jeu plante quand vous commencez une partie IWD:EE. Pour ce jeu, il vous faudra l'installer après avoir créé votre groupe. À installer à vos risques et périls."
@@ -17660,14 +17692,16 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -18590,14 +18624,16 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. Il s'avère que ce mod ne s'installe pas correctement sur un jeu non anglais."
         ],
         "is_weidu": null,
-        "translation_state": false,
-        "safe": true,
+        "translation_state": null,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -18758,7 +18794,7 @@
     },
     {
         "name": "Mercy",
-        "description": "Ce mod permet aux créatures intelligentes de se rendre lorsqu'elles ont moins de 30 % de leurs points de vie. Par ailleurs, il est possible d'acquérir la capacité \"Proposer la reddition\" pour proposer aux ennemis éligibles de se rendre (50 % de chances d'être acceptée). De même, la capacité \"Se rendre\" permet d'éviter de se faire tuer, mais...<br/>Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls.",
+        "description": "Ce mod permet aux créatures intelligentes de se rendre lorsqu'elles ont moins de 30 % de leurs points de vie. Par ailleurs, il est possible d'acquérir la capacité \"Proposer la reddition\" pour proposer aux ennemis éligibles de se rendre (50 % de chances d'être acceptée). De même, la capacité \"Se rendre\" permet d'éviter de se faire tuer.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/31295-mercy-mod/"
         ],
@@ -18776,9 +18812,13 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
+        ],
         "is_weidu": null,
         "translation_state": false,
         "safe": null,
@@ -18981,14 +19021,16 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -19528,14 +19570,16 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer... À installer à vos risques et périls."
         ],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -20880,14 +20924,16 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": ""
@@ -21491,7 +21537,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
@@ -21517,7 +21565,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
@@ -22023,7 +22073,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. Et celui-ci est le pire de tous. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls, car il casse sans doute toute compatibilité avec les autres mods."
@@ -22950,30 +23002,36 @@
         "name": "Prestige Kitpack",
         "description": "Ce mod ajoute une foultitude de profils (17 en tout !) pour toutes les classes du jeu (qui en possèdent, évidemment) :<br/>- 3 profils de guerrier : le Cuirassé légendaire, le Chevalier noir et le Ssaulabi.<br/>- 2 profils de paladin : le Champion divin et le Feu mystique.<br/>- 2 profils de rôdeur : le Duelliste et le Tempête.<br/>- 2 profils de druide : l'Élémentaliste et le Druide de l'ombre.<br/>- 2 profils de voleur : l'Escroc et le Maître des ombres.<br/>- 4 profils de barde : le Disciple des dragons rouge, bleu, vert et blanc.",
         "urls": [
-            "http://www.shsforums.net/files/file/632-prestige-kitpack/"
+            "http://www.shsforums.net/files/file/632-prestige-kitpack/",
+            "https://github.com/Plutonium-X/KIT_Prestige"
         ],
         "categories": [
             "Kit"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [],
         "team": [
             "deratiseur"
         ],
-        "notes": [],
+        "notes": [
+            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
             "en",
             "fr",
-            "ru"
+            "ru",
+            "kr"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Privet Property",
@@ -22994,7 +23052,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
@@ -23995,7 +24055,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux..."
@@ -26846,7 +26908,9 @@
             "BGEE",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère faut dans ce cas : ce mod fait planter les jeux originaux... À installer à vos risques et périls."
@@ -27333,7 +27397,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. À installer à vos risques et périls."
@@ -27722,7 +27788,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. À installer à vos risques et périls."
@@ -27750,7 +27818,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
@@ -28465,7 +28535,9 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. À installer à vos risques et périls."
@@ -31541,10 +31613,13 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": "02-2023"
     },
@@ -31563,19 +31638,21 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Grim Squeaker"
+        ],
         "team": [
             "Le Marquis"
         ],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
-        "translation_state": "wip",
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2023"
     },
     {
         "name": "Uldar NPC (espagnol)",
@@ -31693,7 +31770,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
@@ -33881,7 +33960,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. À installer à vos risques et périls."
@@ -34821,7 +34902,9 @@
             "BG2EE",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Grammarsalad"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -36341,5 +36424,123 @@
         "languages": [],
         "status": true,
         "last_update": "10-2021"
+    },
+    {
+        "name": "B_Kits",
+        "description": "Le but de ce mod est de rééquilibrer les kits et les classes de base à la manière de [[Kit Revisions]]. Ce mod est compatible avec Kit Revisions si ce dernier est installé en premier. Ce mod proposera également un certain nombre de kits supplémentaires (optionnels) à installer.",
+        "urls": [
+            "https://github.com/Grammarsalad/B_Kits"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Grammarsalad"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "05-2021"
+    },
+    {
+        "name": "IEEE-Halforc-Voice-Classic-",
+        "description": "Il s'agit d'une voix personnalisée pour un personnage joueur. La voix est celle d'un demi-orc classique (Fan-Fiction).",
+        "urls": [
+            "https://github.com/Incrementis/IEEE-Halforc-Voice-Classic-"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Incrementis"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": true,
+        "last_update": "07-2024"
+    },
+    {
+        "name": "IEEE-Dwarven-Voice-Classic-",
+        "description": "Il s'agit d'une voix personnalisée pour un personnage joueur. La voix est celle d'un nain classique (Fan-Fiction).",
+        "urls": [
+            "https://github.com/Incrementis/IEEE-Dwarven-Voice-Classic-"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Incrementis"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": true,
+        "last_update": "07-2024"
+    },
+    {
+        "name": "PnPTweaks",
+        "description": "Ce petit mod propose des composants optionnels qui modifie les sorts de soins ainsi que les potions de guérison selon les règles AD&D. Il permet aussi d'augmenter le coût de ressurection dans les temples ainsi que l'identification d'objet dans les magasins.",
+        "urls": [
+            "https://github.com/BluePear/PnPTweaks"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "BluePear"
+        ],
+        "team": [],
+        "notes": [
+            "La dernière mise à jour date de 2017. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "08-2017"
     }
 ]
