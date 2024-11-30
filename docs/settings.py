@@ -115,8 +115,8 @@ domain_to_image = {
     "weaselmods.net": "weasel.png",
     "weidu.org": "weidu.ico",
     # les cas particuliers récupérés de la version de freddy
-    "clandlan.net": "flags/sp-flag-32.png",
-    "trow.cc": "flags/cn-flag-32.png",
+    "clandlan.net": "sp-flag-32.png",
+    "trow.cc": "cn-flag-32.png",
 }
 
 image_data = {
