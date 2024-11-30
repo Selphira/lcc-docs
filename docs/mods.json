@@ -2717,7 +2717,7 @@
             "https://github.com/Selphira/AutoDescription"
         ],
         "categories": [
-            "Patch non officiel",
+            "Utilitaire",
             "Conversion partielle"
         ],
         "games": [
@@ -2734,7 +2734,7 @@
             "Selphira"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -8092,7 +8092,7 @@
             "https://sorcerers.net/Games/IWD/index_editors.php"
         ],
         "categories": [
-            "Personnalisation du groupe"
+            "Utilitaire"
         ],
         "games": [
             "IWD"
@@ -8115,7 +8115,7 @@
             "http://donniedarko2006.free.fr/DK2-Beta-5.zip"
         ],
         "categories": [
-            "Personnalisation du groupe"
+            "Utilitaire"
         ],
         "games": [
             "IWD2"
@@ -12354,7 +12354,7 @@
             "https://www.baldursgateworld.fr/filesmods/GateKeeper.zip"
         ],
         "categories": [
-            "Personnalisation du groupe"
+            "Utilitaire"
         ],
         "games": [
             "BG"
@@ -23243,7 +23243,7 @@
             "https://github.com/D2-mods/Portrait-Gender-Separator-for-IE-games"
         ],
         "categories": [
-            "Personnalisation du groupe"
+            "Utilitaire"
         ],
         "games": [
             "BGEE",
@@ -26332,7 +26332,7 @@
             "https://www.baldursgateworld.fr/filesmods/ShadowKeeper.zip"
         ],
         "categories": [
-            "Personnalisation du groupe"
+            "Utilitaire"
         ],
         "games": [
             "BG2",
@@ -28421,7 +28421,7 @@
             "http://swordcoastkeeper.chez-alice.fr/PageSCKeeperEng.htm"
         ],
         "categories": [
-            "Personnalisation du groupe"
+            "Utilitaire"
         ],
         "games": [
             "BG"
@@ -35760,7 +35760,7 @@
             "https://github.com/The-Gate-Project/CluaFr"
         ],
         "categories": [
-            "Utilitaire"
+            "Patch non officiel"
         ],
         "games": [
             "BGEE",
