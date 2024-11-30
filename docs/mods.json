@@ -378,7 +378,9 @@
             "IWDEE",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "JohnBob"
         ],
@@ -670,7 +672,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -950,7 +954,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Mathrim Cauthon"
+        ],
         "team": [
             "Mathrim Cauthon"
         ],
@@ -1206,7 +1212,7 @@
     },
     {
         "name": "Alternate Goo Portrait",
-        "description": "Ce mini mod modifie le portrait de Goo (One-Day NPC), qui ressemble plus à un homme-lézard qu'à un gauth, par un portrait alternatif tiré de NWN.",
+        "description": "Ce mini mod modifie le portrait de [[Goo the Disembodied Floating Eyeball]], qui ressemble plus à un homme-lézard qu'à un gauth, par un portrait alternatif tiré de NWN.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=370",
             "http://america.iegmc.net/moongaze/"
@@ -1543,7 +1549,7 @@
         "last_update": "07-2017"
     },
     {
-        "name": "Anishai (One-Day NPC)",
+        "name": "Anishai",
         "description": "Une moniale chaotique neutre que l'on peut recruter à la guilde de Mae'Var après l'étape du nettoyage.",
         "urls": [
             "https://www.gibberlings3.net/files/file/687-anishai-one-day-npc/",
@@ -1588,7 +1594,9 @@
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Anomaly"
+        ],
         "team": [
             "Anomaly"
         ],
@@ -2326,7 +2334,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "deratiseur"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -2676,7 +2686,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Selphira"
+        ],
         "team": [
             "Selphira"
         ],
@@ -2710,7 +2722,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "deratiseur"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -4075,7 +4089,9 @@
         "games": [
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "mirandir"
         ],
@@ -4170,9 +4186,10 @@
     },
     {
         "name": "Baldur's Gate Fixpack",
-        "description": "Initié il y a plus de 10 ans par plainab, aka Sasha al'Therin, ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du DudleyFix. Les courageux pourront terminer ce projet sur <a href=\"https://github.com/Sasha-alTherin/BGFixPack\">GitHub</a>.",
+        "description": "Initié par plainab, aka Sasha al'Therin, ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du DudleyFix.",
         "urls": [
-            "http://sasha-altherin.webs.com/baldursgatefixpack.htm"
+            "http://sasha-altherin.webs.com/baldursgatefixpack.htm",
+            "https://github.com/Sasha-alTherin/BGFixPack"
         ],
         "categories": [
             "Patch non officiel",
@@ -4181,17 +4198,19 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "Sasha al'Therin"
+        ],
         "team": [],
         "notes": [
             "À n'utiliser que pour un jeu BG original, sans Tutu ni BGT."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2012"
     },
     {
         "name": "Baldur's Gate Graphics Overhaul",
@@ -4469,12 +4488,14 @@
             "IWDEE",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -5012,7 +5033,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Selphira"
+        ],
         "team": [
             "Selphira"
         ],
@@ -5320,7 +5343,7 @@
         "last_update": "06-2020"
     },
     {
-        "name": "Boo (One-Day NPC)",
+        "name": "Boo",
         "description": "Ce mod semble avoir disparu.",
         "urls": [],
         "categories": [
@@ -5495,7 +5518,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Perils of Branwen]], [[Branwen for BG2 (One-Day NPC)]] et [[Baldur's Gate 1 NPCs in SoA & ToB]]."
+            "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Perils of Branwen]], [[Branwen for BG2]] et [[Baldur's Gate 1 NPCs in SoA & ToB]]."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -5505,7 +5528,7 @@
         "last_update": ""
     },
     {
-        "name": "Branwen for BG2 (One-Day NPC)",
+        "name": "Branwen for BG2",
         "description": "Ce mod se veut être un tutoriel pour les moddeurs en herbe désirant créer un PNJ, et de ce fait inclut un PNJ complet avec du contenu pour SoA et ToB, des banters, des interjections, une voie de l'amitié, etc...",
         "urls": [
             "https://www.pocketplane.net/one-day-npcs/",
@@ -5658,7 +5681,7 @@
         "last_update": ""
     },
     {
-        "name": "Bruce, the Cockney Barfighter (One-Day NPC)",
+        "name": "Bruce, the Cockney Barfighter",
         "description": "Ce mod a fait l'objet d'un concours de création de PNJ d'un jour sur le forum Pocket Plane Group. Différents auteurs, armés de rien d'autre que du nom du personnage, ont travaillé pour développer l'homme ultime. À ce jour, trois Bruce ont été publiés, que vous trouverez en cliquant sur le lien de téléchargement.",
         "urls": [
             "https://www.pocketplane.net/one-day-npcs/"
@@ -5698,7 +5721,9 @@
         "authors": [
             "DrAzTiK"
         ],
-        "team": [],
+        "team": [
+            "DrAzTiK"
+        ],
         "notes": [],
         "is_weidu": true,
         "translation_state": true,
@@ -6158,7 +6183,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Misdrha'al Hymmet"
+        ],
         "team": [
             "Misdrha'al Hymmet"
         ],
@@ -6167,7 +6194,8 @@
         "translation_state": true,
         "safe": true,
         "languages": [
-            "fr"
+            "fr",
+            "en"
         ],
         "status": true,
         "last_update": "10-2024"
@@ -6191,7 +6219,9 @@
             "SoD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Adul"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -6222,7 +6252,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "deratiseur",
             "JohnBob"
@@ -7156,12 +7188,14 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -7346,7 +7380,12 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lefreut",
+            "jazira",
+            "Mera",
+            "rivvers"
+        ],
         "team": [
             "Lefreut",
             "jazira",
@@ -7379,7 +7418,11 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lefreut",
+            "jazira",
+            "rivvers"
+        ],
         "team": [
             "Lefreut",
             "jazira",
@@ -7411,13 +7454,18 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Domi",
+            "jastey"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "04-2022"
     },
@@ -7432,22 +7480,30 @@
             "PNJ recrutable"
         ],
         "games": [
+            "BGEE",
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Roxanne"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru",
+            "cn"
+        ],
         "status": true,
         "last_update": "08-2024"
     },
     {
         "name": "Coup de Grace",
-        "description": "Ce mod permet aux combattants de tuer en un coup les ennemis sans défense. Les créatures inconscientes, immobilisées, endormies (si elles ne se réveillent pas à cause des dégâts de la frappe) ont une chance sur deux d'être tuées si elles sont frappées avec une arme de mêlée. En revanche, les squelettes et les zombies sans cervelle ne peuvent pas porter de coups mortels, même s'ils portent des armes. Le mécanisme prend désormais en compte le type de dégâts des armes : les cibles immunisées aux dégâts qu'une arme inflige ne seront pas achevées par celle-ci. L'immunité à l'écrasement protège également contre les coups de grâce des poings.",
+        "description": "Ce mod permet aux combattants de tuer en un coup les ennemis sans défense. Les créatures inconscientes, immobilisées, endormies (si elles ne se réveillent pas à cause des dégâts de la frappe) ont une chance sur deux d'être tuées si elles sont frappées avec une arme de mêlée. En revanche, les squelettes et les zombies sans cervelle ne peuvent pas porter de coups mortels, même s'ils portent des armes. Le mécanisme prend désormais en compte le type de dégâts des armes : les cibles immunisées aux dégâts qu'une arme inflige ne seront pas achevées par celle-ci. L'immunité aux dégâts contondants protège également contre les coups de grâce des poings.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32393-coup-de-grace-mod-for-ee/"
         ],
@@ -7480,7 +7536,7 @@
         "description": "Ce mini mod ajoute le marchand Craig dans l'auberge du Crâne tordu (portes de la ville). Il vend 5 étuis à parchemins et deux sacs à gemmes, tous à contenance illimitée, ainsi qu'une boîte à potion et une ceinture de munitions.<br/>Malheureusement, le lien de téléchargement semble avoir disparu avec le site TeamBG...",
         "urls": [],
         "categories": [
-            "Sort et objet"
+            "Forgeron et marchand"
         ],
         "games": [
             "BG2",
@@ -7501,7 +7557,7 @@
         "description": "Ce mod ajoute un nouveau pack de 9 sorts de convocation de créatures pour les magiciens. Chaque sort permet de convoquer soit quelques monstres ayant un nombre de dés de vie égal au niveau du sort, soit de nombreux monstres ayant deux dés de vie de moins que le niveau du sort.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32540-creature-summoning-mod-for-bgee-bg2ee-iwdee-and-eet/",
-            "https://github.com/Penguincha/CreatureSummoning/releases/"
+            "https://github.com/Penguincha/CreatureSummoning/"
         ],
         "categories": [
             "Sort et objet"
@@ -7513,10 +7569,12 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Penguincha"
+        ],
         "team": [],
         "notes": [
-            "Si vous jouez un personnage multi-classé, il est fortement recommander d'installer [[EEex]] avant ce sort."
+            "Si vous jouez un personnage multi-classé, il est fortement recommander d'installer [[EEex]] avant ce mod."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -7564,13 +7622,19 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "shadowhawk703"
+        ],
         "team": [],
-        "notes": [],
-        "is_weidu": null,
+        "notes": [
+            "Pas mis à jour depuis 2017, ce mod peut être incompatible avec les nouveaux patchs."
+        ],
+        "is_weidu": true,
         "translation_state": false,
-        "safe": true,
-        "languages": [],
+        "safe": null,
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "05-2017"
     },
@@ -7630,7 +7694,7 @@
     },
     {
         "name": "Crossmod Banter Pack for IWD",
-        "description": "Comme dans son homologue pour BG2, ce mod ajoute des dialogues entre les PNJ ajoutés par des mods (Holvir, Korin, Nella, Severn et Teri de Kulyok ; Minerva et Karihi de AionZ ; [[Dendjelion]], Dusky, Ina, Oak-Maw, Orra, Tipps, T'viy, Urchin, L'anna et Hommet de Lava Del'Vortel), ainsi que des querelles dues à des conflits d'intérêt et de romance. L'occasion d'en apprendre un peu plus sur leur caractère, mais aussi, de voir leur réaction en cas de conflit de romance !",
+        "description": "Comme dans son homologue pour BG2, ce mod ajoute des dialogues entre les PNJ ajoutés par des mods (les 5 personnages de [[IWD NPC Project]] ; [[Minerva NPC]] et [[Karihi NPC]] de AionZ ; [[Dendjelion]], [[Dusky NPC]], [[Ina NPC]], [[Oak-Maw NPC]], [[Orra NPC]], [[Tipps NPC]], [[T'viy NPC]], [[Urchin NPC]], [[L'anna NPC]] et [[Hommet NPC]] de Lava Del'Vortel), ainsi que des querelles dues à des conflits d'intérêt et de romance. L'occasion d'en apprendre un peu plus sur leur caractère, mais aussi, de voir leur réaction en cas de conflit de romance !",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/crossmod_iwd/"
         ],
@@ -8292,7 +8356,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Deecy"
+        ],
         "team": [
             "Deecy"
         ],
@@ -8471,7 +8537,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -8499,7 +8567,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "deratiseur"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -8530,7 +8600,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "deratiseur"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -9620,7 +9692,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [
             "Attention : Notez que le mod inclut du contenu mature, que certains peuvent ne pas trouver à leur goût."
@@ -10959,7 +11033,10 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Akadis",
+            "Kasumi"
+        ],
         "team": [
             "Akadis",
             "Kasumi"
@@ -11584,7 +11661,7 @@
         "last_update": ""
     },
     {
-        "name": "Fonick (One-Day NPC)",
+        "name": "Fonick",
         "description": "Créé en 4 jours pour un concours de modding sur le thème \"Histoire\", ce mod ajoute au jeu un barde loyal bon qui chante encore plus mal qu'un candidat malheureux à la Nouvelle Star ! Des interactions avec tout le monde et un kit spécifique. Attention, ses statistiques sont lamentables : êtes-vous prêt à le supporter (le traîner ) ?",
         "urls": [
             "https://www.gibberlings3.net/files/file/701-fonick/"
@@ -11804,7 +11881,7 @@
             "jazira"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -12184,6 +12261,7 @@
             "Zyl"
         ],
         "team": [
+            "Zyl",
             "deratiseur"
         ],
         "notes": [
@@ -12492,7 +12570,7 @@
         "last_update": ""
     },
     {
-        "name": "Ghareth NPC (One-Day NPC)",
+        "name": "Ghareth NPC",
         "description": "Il s'agit d'un guerrier/mage humain avec 20 banters et son kit de voix.",
         "urls": [
             "https://www.pocketplane.net/one-day-npcs/"
@@ -12682,12 +12760,14 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -13443,7 +13523,7 @@
         "last_update": "08-2024"
     },
     {
-        "name": "Hessa NPC (One-Day NPC)",
+        "name": "Hessa NPC",
         "description": "Il s'agit d'une voleuse demi-elfe neutre mauvaise, avec 12 banters, 20 interjections, une quête et une nouvelle zone.",
         "urls": [
             "https://www.pocketplane.net/one-day-npcs/"
@@ -13730,7 +13810,7 @@
         "last_update": "10-2024"
     },
     {
-        "name": "Hommet IWD:EE NPC",
+        "name": "Hommet NPC",
         "description": "Vous avez besoin d'un nécromancien unique venant d'une autre époque ? Rencontrez Hommet Shaw, l'une des légendes de la Côte des Épées. Laissez-le rejoindre votre groupe après avoir atterri à Icewind Dale à la suite d'un étrange hiatus entropique qui l'a renvoyé dans le passé. Ce n'est pas un perdreau de l'année et il a déjà affronté de puissants ennemis. Dans le futur, ceux qu'il a combattus tenteront d'envahir la Côte des Épées et de causer des problèmes à Luskan et ses environs.<br/>Hommet est un nécromancien mortel d'alignement chaotique bon, doté d'un sérieux sens de l'humour. Alors qu'il était auparavant neutre, il est devenu un héros et a révélé que son cœur n'est pas aussi froid que celui des morts-vivants qu'il invoque habituellement. Il ne rejoindra le groupe que si vous décidez de retourner dans la Vallée des Ombres après que votre personnage principal ait atteint 540 000 points d'expérience.",
         "urls": [
             "https://downloads.weaselmods.net/download/hommet/"
@@ -13741,7 +13821,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -13752,7 +13834,7 @@
         "last_update": ""
     },
     {
-        "name": "Horace (One-Day NPC)",
+        "name": "Horace",
         "description": "Ce mod ajoute un squelette en tant que PNJ membre du groupe. Vous pourrez le trouver dans la crypte de Franc-Marché. Il dispose d'un kit spécifique à son état, d'HLA et de sorts en partie issus d'IWD2, ainsi que d'une IA spécifique si vous choisissez de l'activer.",
         "urls": [
             "http://www.shsforums.net/topic/54902-horace-a-mod-from-seifer/",
@@ -14090,7 +14172,7 @@
         "last_update": "02-2024"
     },
     {
-        "name": "IWD NPC Project (Icewind Dale NPCs)",
+        "name": "IWD NPC Project",
         "description": "Ce mod permet d'importer 5 personnages dans son groupe à la création, qui se parleront et interviendront pendant le jeu, comme les personnages de Baldur's Gate 2 ! Il nécessite l'extension Heart of Winter. Il s'agit de Nella (guerrière), Korin (rôdeur), Teri (guerrier/voleur), Holvir (paladin) et Severn (barde). Vous pouvez aussi leur assigner des classes alternatives : Nella (guerrière/clerc ou guerrière/druidesse), Korin (clerc/rôdeur), Teri (voleur, mage/voleur ou guerrier/mage/voleur) et Severn (mage ou guerrier/mage).",
         "urls": [
             "https://www.pocketplane.net/icewind-dale-npcs/",
@@ -14689,12 +14771,14 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -15098,7 +15182,7 @@
         "last_update": ""
     },
     {
-        "name": "Ina NPC for IWD:EE",
+        "name": "Ina NPC",
         "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Ina, une barde et une ancienne enseignante. Mais il y a autre chose que vous devez savoir sur elle : c'est un spectre. Une image de sa propre personne disparue depuis longtemps. Allez-vous la libérer de son sommeil dans la Vallée des Ombres ? Allez-vous la laisser rejoindre votre équipe et marcher à nouveau parmi les vivants ?<br/>Le mod inclut des discussions avec le PJ, ainsi qu'une romance pour un personnage féminin. En raison de son état, la relation sera différente de celles entre deux vivants. Vous pouvez la recruter après la quête principale dans la Vallée des Ombres.",
         "urls": [
             "https://downloads.weaselmods.net/download/ina/"
@@ -15109,7 +15193,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -15407,7 +15493,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": false,
         "languages": [],
         "status": "wip",
         "last_update": ""
@@ -16004,7 +16090,7 @@
             "https://forums.beamdog.com/discussion/40263/jester-song-enhancement-gain-experience-from-mayhem-updated"
         ],
         "categories": [
-            "Sort et objet"
+            "Gameplay"
         ],
         "games": [
             "BGEE",
@@ -16316,7 +16402,7 @@
         "last_update": ""
     },
     {
-        "name": "Karihi NPC for IWD:EE",
+        "name": "Karihi NPC",
         "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Karihi, une génasi du feu pyromancienne chaotique neutre, originaire de la terre éloignée du Gélointain (Frozenfar). C'est une noble déchu au passé plutôt désagréable. Comme il sied à son héritage de genasi du feu, elle est fougueuse, autoritaire, colérique et prompte à s'offenser, ainsi que sûre d'elle et arrogante, mais ses compétences en tant que pyromancienne et érudite sont indéniablement impressionnantes. Et elle ferait un puissant mage... à condition que l'on puisse tolérer son arrogance et ses plaintes sans fin à l'égard du froid et des longues randonnées à travers l'Épine dorsale du Monde. Vous la trouverez à Havredest, devant l'auberge des congères... grelottante et se plaignant du vent d'hiver.<br/>Karihi a une série de dialogues d'amitié tout au long du jeu, et un PC masculin humain, elfe ou demi-elfe avec au moins de 9 de Charisme peut commencer une romance avec elle. Par ailleurs, un PC mage pourra apprendre quelques sorts de pyromancie.",
         "urls": [
             "https://artisans-corner.com/karihi/",
@@ -16698,7 +16784,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "GrenouilleBleue"
+        ],
         "team": [
             "GrenouilleBleue",
             "deratiseur"
@@ -17005,7 +17093,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -17035,7 +17125,9 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [],
+        "team": [
+            "deratiseur"
+        ],
         "notes": [],
         "is_weidu": null,
         "translation_state": true,
@@ -17062,7 +17154,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "deratiseur"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -17406,7 +17500,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Armand"
+        ],
         "team": [
             "Armand"
         ],
@@ -17451,7 +17547,7 @@
     },
     {
         "name": "Level 40 Extended Tables",
-        "description": "Ce mod vous permet de tirer pleinement partie du mod suivant. Il étend les tables de progression des capacités des personnages (fichiers 2da).",
+        "description": "Ce mod vous permet de tirer pleinement partie du mod [[Level 40 Rule Set in BG:EE]]. Il étend les tables de progression des capacités des personnages (fichiers 2da).",
         "urls": [
             "https://sorcerers.net/Games/IWD2/index_editors.php"
         ],
@@ -17612,7 +17708,7 @@
             "jazira"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -18106,7 +18202,9 @@
         "authors": [
             "Klare"
         ],
-        "team": [],
+        "team": [
+            "Klare"
+        ],
         "notes": [],
         "is_weidu": null,
         "translation_state": true,
@@ -18433,12 +18531,14 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "deratiseur"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -18527,7 +18627,7 @@
         "last_update": ""
     },
     {
-        "name": "Malthis (One-Day NPC)",
+        "name": "Malthis",
         "description": "Malthis est un bretteur chaotique bon que vous pouvez trouver près de Cromwell. Il n'est pas comme les autres et porte un lourd secret. Ses caractéristiques et son alignement vont dépendre de vous. Saurez-vous l'adopter et l'aider dans sa guerre contre une sombre organisation ?<br/>Comme le site hébergeant le mod a disparu (rosenranken.org), le lien renvoie à un compte GitHub d'hébergement temporaire.",
         "urls": [
             "https://github.com/Jazira33/Malthis-NPC",
@@ -18749,14 +18849,16 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Freddy_Gwendo"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
         "notes": [],
         "is_weidu": true,
         "translation_state": true,
-        "safe": true,
+        "safe": false,
         "languages": [
             "fr"
         ],
@@ -18841,7 +18943,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Archfiend"
+        ],
         "team": [
             "Archfiend"
         ],
@@ -18981,8 +19085,8 @@
         "last_update": ""
     },
     {
-        "name": "Minerva NPC for IWD:EE",
-        "description": "Pour ceux qui ont ont aimé voyager avec Aura dans BG:EE (ainsi que pour ceux qui attendent la suite de BG2), voici une autre compagne dans la même veine pour IWD:EE : Minerva Gwyndoline Glimmershine, une gnome guerrière neutre bonne. Minerva Glimmershine est la grand-mère paternelle d'Aura et une aventurière à l'esprit libre. Sûre d'elle, audacieuse et pleine d'entrain, elle sautera sur l'occasion de rejoindre le groupe à Havredest, et sera une compagne précieuse grâce à ses talents d'artificière, son expertise du lancer de couteau et son optimisme sans limite. Le mod comprend une voie d'amitié et une romance.",
+        "name": "Minerva NPC",
+        "description": "Pour ceux qui ont aimé voyager avec Aura dans BG:EE (ainsi que pour ceux qui attendent la suite de BG2), voici une autre compagne dans la même veine pour IWD:EE : Minerva Gwyndoline Glimmershine, une gnome guerrière neutre bonne. Minerva Glimmershine est la grand-mère paternelle d'Aura et une aventurière à l'esprit libre. Sûre d'elle, audacieuse et pleine d'entrain, elle sautera sur l'occasion de rejoindre le groupe à Havredest, et sera une compagne précieuse grâce à ses talents d'artificière, son expertise du lancer de couteau et son optimisme sans limite. Le mod comprend une voie d'amitié et une romance.",
         "urls": [
             "https://artisans-corner.com/minerva/",
             "https://github.com/ArtemiusI/MinervaNPC"
@@ -19206,7 +19310,7 @@
         "last_update": "03/2006"
     },
     {
-        "name": "Mod Hospitality (WIP)",
+        "name": "Mod Hospitality",
         "description": "Ce mod en allemand augmente les prix des nuitées des auberges en tenant compte des facteurs suivants : situation géographique, taille, concurrence, standing, sécurité. Ainsi, il devient nettement plus difficile de passer la nuit dans les villes, à moins de vouloir dormir dans les égouts. De plus, les catégories de chambres ont été redéfinies. Une auberge ressemblant à un bar bon marché n'offre plus la catégorie de chambre Noble ou Royal. D'autres auberges qui, visuellement, n'ont pas de chambres du tout, ne peuvent plus accueillir de nuitées et ont été transformées en tavernes.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?threads/mod-hospitality.40128/"
@@ -20074,7 +20178,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Akadis"
+        ],
         "team": [
             "Akadis"
         ],
@@ -21073,7 +21179,7 @@
         "last_update": ""
     },
     {
-        "name": "Oak-Maw NPC for IWD:EE",
+        "name": "Oak-Maw NPC",
         "description": "Ce mod ajoute un nouveau PNJ dans IWD:EE : une créature féérique sombre, un chasseur, que certains décrivent comme un humain ressemblant à un cerf. Pourtant, il n'est ni cerf, ni humain. Cet être inhabituel est le fils du Roi des cerfs, plus connu en Rashéménie. C'est un étranger, quelqu'un qui peut mettre mal à l'aise la plupart des hommes et des femmes de Gélointain (Frozenfar). Allez-vous risquer votre réputation et apprendre à mieux le connaître ? Serez-vous capable de le voir comme quelqu'un d'égal à vous-même ? Lui ferez-vous suffisamment confiance pour construire une éventuelle relation avec quelqu'un de si différent de tous les autres hommes du Val de Bise ?<br/>Oak-Maw pourra se joindre à vous une fois que vous aurez trouvé et manipulé une pierre spéciale, marquée d'une rune lumineuse.",
         "urls": [
             "https://downloads.weaselmods.net/download/oak-maw/"
@@ -21084,7 +21190,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -21477,7 +21585,7 @@
         "last_update": ""
     },
     {
-        "name": "Orra NPC for IWD:EE",
+        "name": "Orra NPC",
         "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Kozakura, une femme au cœur honnête, qui vient d'une terre lointaine. Elle apprécie la tranquillité, la vérité et la compagnie. Écoutez ses histoires, parlez-lui, et peut-être deviendrez-vous amis. Le mod n'inclut pas de romance. Vous pouvez la recruter dès le début du jeu, à Havredest, sur la plate-forme en bois, non loin d'Elisia.",
         "urls": [
             "https://downloads.weaselmods.net/download/orra/"
@@ -21488,7 +21596,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -21900,7 +22010,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "shadowlich"
+        ],
         "team": [
             "shadowlich"
         ],
@@ -21983,7 +22095,12 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Mornagest",
+            "Zekflop",
+            "Isaya",
+            "Freddy_Gwendo"
+        ],
         "team": [
             "Mornagest",
             "Zekflop",
@@ -22104,7 +22221,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Branwen NPC]], [[Branwen for BG2 (One-Day NPC)]] et [[Baldur's Gate 1 NPCs in SoA & ToB]]."
+            "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Branwen NPC]], [[Branwen for BG2]] et [[Baldur's Gate 1 NPCs in SoA & ToB]]."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -22261,7 +22378,9 @@
             "SoD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Huxaltec"
+        ],
         "team": [
             "Huxaltec",
             "deratiseur"
@@ -22404,7 +22523,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Qwinn"
+        ],
         "team": [
             "mirandir",
             "Zyl"
@@ -22433,7 +22554,9 @@
             "PST",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "mirandir",
             "Zyl"
@@ -22441,7 +22564,7 @@
         "notes": [
             "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -22472,7 +22595,9 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "rapsam2003"
+        ],
         "team": [],
         "notes": [
             "Ce mod n'est plus maintenu : à installer à vos risques et périls !"
@@ -22482,7 +22607,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2019"
     },
     {
         "name": "Plasmocat's \"BG NPC Portraits in BG2 Style\"",
@@ -22662,12 +22787,14 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Caedwyr"
+        ],
         "team": [
             "Mathrim Cauthon"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -23110,7 +23237,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "JohnBob"
         ],
@@ -23147,7 +23276,9 @@
             "SoD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "esprit"
+        ],
         "team": [
             "esprit"
         ],
@@ -23174,7 +23305,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Zakinster"
+        ],
         "team": [
             "Zakinster"
         ],
@@ -24159,12 +24292,14 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [],
         "notes": [
             "Attention : la plupart de ces fichiers sont en anglais !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -24378,12 +24513,14 @@
             "IWDEE",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -25054,7 +25191,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "esprit"
+        ],
         "team": [
             "esprit"
         ],
@@ -25517,7 +25656,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Selphira"
+        ],
         "team": [
             "Selphira"
         ],
@@ -25697,10 +25838,12 @@
             "IWDEE",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [
@@ -26602,12 +26745,14 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -26624,9 +26769,9 @@
     },
     {
         "name": "Skitia NPCs pack for BG2",
-        "description": "Ce pack regroupe les aventures dans BG2 des PNJ de Skitia développés initialement pour BG:EE : Emily (archère demi-elfe), Helga (prêtresse naine de Haela Brillehache), Kale (barbare halfelin), Recorder (Gardien du savoir gnome) et Vienxay (magicienne maîtresse des ombres elfe).",
+        "description": "Ce pack regroupe les aventures dans BG2 des PNJ de Skitia développés initialement pour BG:EE : [[Emily, a Half-Elf Archer]], [[Helga, a Dwarven Priestess of Haela Brightaxe]], [[Kale, a Halfling Barbarian]], [[Recorder, a gnome lorekeeper NPC]] et [[Vienxay, an Elven Shadowdancer Mage]].",
         "urls": [
-            "https://github.com/Skitia/SkitiaNPCs/archive/master.zip"
+            "https://github.com/Skitia/SkitiaNPCs/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -26635,17 +26780,19 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "À installer avec précaution, car il est toujours en phase de développement."
+        "authors": [
+            "Skitia"
         ],
-        "is_weidu": null,
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2023"
     },
     {
         "name": "Skooter the NPC",
@@ -27037,7 +27184,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Finrod Felagund"
+        ],
         "team": [
             "Finrod Felagund"
         ],
@@ -28068,7 +28217,7 @@
         "last_update": ""
     },
     {
-        "name": "T'viy NPC for IWD:EE",
+        "name": "T'viy NPC",
         "description": "Ce petit mod ajoute un nouveau PNJ dans IWD:EE : T'viy, un gnome chaotique mauvais un peu fou, adepte d'Urdlen, Le Rampeur du Dessous. Vous le trouverez dans la grotte des scarabées près du col de Kuldahar. Sortez de la grotte, attendez quelques secondes et il devrait vous trouver.<br/>Comme ce mod a été créé en un week-end, il contient quelques dialogues avec le PJ, mais sa voie d'amitié est plus courte que celle de la plupart des autres PNJ de IWD:EE. Cependant, il reste une option pour toutes les équipes qui ont besoin d'un clerc maléfique... et d'un peu de folie.",
         "urls": [
             "https://downloads.weaselmods.net/download/tviy/"
@@ -28079,15 +28228,17 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2020"
     },
     {
         "name": "T'was a Slow Boat from Kara-Tur",
@@ -28811,12 +28962,14 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "deratiseur"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -28854,7 +29007,7 @@
         "last_update": ""
     },
     {
-        "name": "Thael (One-Day NPC)",
+        "name": "Thael",
         "description": "Ce mod ajoute un nouveau PNJ : un elfe mage/voleur. Il dispose de dialogues avec les PNJ de Bioware, avec le PJ, et d'une quête principale qui débute dans SoA et se poursuit dans ToB. Thael se trouve sur la Promenade de Waukyne, tout près du cirque. Il possède une mystérieuse épée courte, Velvevlos, acquise dans des circonstances non moins particulières ; ce puissant artefact ayant une grande influence sur lui.<br/>Au contact des terribles énergies magiques que renferme Velvelos, Thael a subi quelques mutations. L'une d'entre elles, « Pouvoir Mutant », est très utile en combat. Vous pouvez y accéder dans la partie réservée aux capacités spéciales des personnages.",
         "urls": [
             "http://www.shsforums.net/files/file/776-thael-npc-v-232/",
@@ -30526,7 +30679,7 @@
         "last_update": "01-2024"
     },
     {
-        "name": "Tiax for BG2 (One-Day NPC)",
+        "name": "Tiax for BG2",
         "description": "Vous vous souvenez certainement de ce prêtre/voleur dément et mégalomane ? L'occasion de (re)faire sa connaissance.",
         "urls": [
             "https://www.pocketplane.net/one-day-npcs/",
@@ -30628,7 +30781,7 @@
         "last_update": ""
     },
     {
-        "name": "Tipps NPC for IWD:EE",
+        "name": "Tipps NPC",
         "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Tipps Rattletattle, un sorcier géomancien halfelin. Transformé en pierre il y a quelques années près de l'entrée du Temple du Dieu Oublié, il peut maintenant revenir dans le monde des vivants et rejoindre le groupe dirigé par le héros de Icewind Dale.<br/>Le mod inclut des discussions d'amitié, des des interjections, de nouveaux objets et une romance pour certaines races : si votre personnage principal est un halfelin, un gnome ou un nain, quelque chose de plus que de l'amitié peut émerger. Bien que cela puisse être déclenché par tous les PJ, la romance peut être légèrement plus facile pour les personnages féminins, cependant un homme charismatique ou sage peut également poursuivre une relation sérieuse (si les restrictions raciales sont respectées).",
         "urls": [
             "https://downloads.weaselmods.net/download/tipps/"
@@ -30639,7 +30792,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [
             "Attention : Ce mod nécessite l'installation du mod [[Geomantic Sorcerer kit]]."
@@ -30782,7 +30937,9 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [],
+        "team": [
+            "deratiseur"
+        ],
         "notes": [],
         "is_weidu": null,
         "translation_state": true,
@@ -31153,7 +31310,7 @@
             "https://forums.beamdog.com/discussion/33404/tressets-permanent-shapeshift-weapons-bg2-ee"
         ],
         "categories": [
-            "Kit"
+            "Gameplay"
         ],
         "games": [
             "BG2EE",
@@ -31184,12 +31341,14 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Argent77"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -31260,7 +31419,7 @@
     },
     {
         "name": "True \"Use Any item Hla\"",
-        "description": "Dérivé de Use Any NPC item, ce mod permet aux voleurs d'utiliser les objets des PNJ de Bioware avec leur capacité Utilisation d'objet.",
+        "description": "Dérivé de [[Use Any NPC Item - Add-on for Use Any Item HLA]], ce mod permet aux voleurs d'utiliser les objets des PNJ de Bioware avec leur capacité Utilisation d'objet.",
         "urls": [
             "https://forums.beamdog.com/discussion/26240/use-any-npc-item-add-on-for-use-any-item-hla/p2"
         ],
@@ -31359,21 +31518,23 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod a été archivé par Lava qui ne le maintient plus."
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2019"
     },
     {
         "name": "Turald NPC for IWD:EE",
-        "description": "encore en version beta, ce mod ajoute un nouveau PNJ dans IWD:EE : Turald Ironfist, un guerrier/prêtre nain neutre bon. Ce prêtre itinérant de Marthammor Duin considère les événements du Val de bise du point de vue des nains. En l'état, le mod inclut des dialogues avec le personnage principal, des interjections, des discussions initiées par le joueur et du contenu avec des PNJ d'autres mods, mais pas de romance. Vous le trouverez dans le temple de Tempus à Havredest.",
+        "description": "Encore en version beta, ce mod ajoute un nouveau PNJ dans IWD:EE : Turald Ironfist, un guerrier/prêtre nain neutre bon. Ce prêtre itinérant de Marthammor Duin considère les événements du Val de bise du point de vue des nains. En l'état, le mod inclut des dialogues avec le personnage principal, des interjections, des discussions initiées par le joueur et du contenu avec des PNJ d'autres mods, mais pas de romance. Vous le trouverez dans le temple de Tempus à Havredest.",
         "urls": [
             "https://forums.beamdog.com/discussion/71342/turald-npc-mod-ver-0-9/p1"
         ],
@@ -31383,15 +31544,17 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Sinaherib"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
-        "status": true,
-        "last_update": ""
+        "status": "wip",
+        "last_update": "07-2021"
     },
     {
         "name": "Turambar fixes and tweaks",
@@ -32296,7 +32459,7 @@
         "last_update": ""
     },
     {
-        "name": "Urchin NPC for IWD:EE",
+        "name": "Urchin NPC",
         "description": "Ce mod ajoute un PNJ particulier dans IWD:EE : Urchin. Il s'agit d'une créature inhabituelle, crée par une guenaude de la nuit. Il est livré avec son kit personnalisé, le Hag's Varmint. Pour le recruter, vous devrez trouver un nouveau site : une clairière de la nuit.<br/>Il fonctionne comme Wilson, le parangon d'ours de BG2:EE. Il ne pourra pas utiliser la plupart des objets, mais deviendra plus fort et beaucoup plus puissant à chaque niveau. Saisirez-vous la chance de jouer à IWD d'une manière un peu différente ? Certains trouveront Urchin étrange, d'autres penseront qu'il a un charme bizarre.<br/>Le mod inclut également une nouvelle boutique vraiment minuscule avec des objets vraiment particuliers.",
         "urls": [
             "https://downloads.weaselmods.net/download/urchin/"
@@ -32685,7 +32848,7 @@
         "last_update": ""
     },
     {
-        "name": "Vienxay, an Elven Shadowdancer Mage NPC",
+        "name": "Vienxay, an Elven Shadowdancer Mage",
         "description": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.<br/>Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.<br/>Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison.<br/>Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Vienxay\">site de l'auteur</a>.",
         "urls": [
             "https://forums.beamdog.com/discussion/74701/v1-62-vienxay-a-elven-shadowmage-npc-for-bg-ee-sod-and-eet/p1",
@@ -32712,7 +32875,7 @@
         "last_update": ""
     },
     {
-        "name": "Vildra (One-Day NPC)",
+        "name": "Vildra",
         "description": "Ce mod ajoute une nouvelle PNJ recrutable : Vildra, guerrière chaotique bonne. Vous la trouverez dans le district du pont. Elle possède quelques dialogues.",
         "urls": [
             "http://www.shsforums.net/topic/32436-one-day-mod-for-bg2soa/"
@@ -33309,7 +33472,7 @@
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": null,
+        "safe": false,
         "languages": [],
         "status": "wip",
         "last_update": "12/2017"
@@ -34191,7 +34354,7 @@
         "last_update": "09-2020"
     },
     {
-        "name": "Yikari (One-Day NPC)",
+        "name": "Yikari",
         "description": "Ce mod ajoute un nouveau PNJ, un moine qui possède sa propre quête ainsi que des interactions avec chaque personnage. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe. Un aperçu de ses caractéristiques : FOR 16, DEX 18, CON 14, INT 8, SAG 19 et CHA 4.",
         "urls": [
             "http://www.shsforums.net/files/file/34-yikari-v-17/"
@@ -34304,7 +34467,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Smiling Imp"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -34383,21 +34548,22 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "CBisson"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2009"
     },
     {
         "name": "iiItem mod",
         "description": "Ce mod ajoute plusieurs dizaines de nouveaux objets dans le jeu, en se concentrant sur des types d'objets moins connus (comme les potions, les bracelets, les flèches, etc.). Il n'ajoute pas d'objets améliorables, de pièces d'objets ou de forgerons. L'équilibre du jeu a été pris en compte lors de leur création, et les objets surpuissants ont été évités.<br/>Les objets sont dispersés dans l'univers du jeu et sont ajoutés aux inventaires des créatures et aux magasins. Les objets \"uniques\" (ceux qui ont une histoire individuelle spécifique) ne sont ajoutés qu'aux magasins.<br/>iiItem doit être installé après les mods qui ajoutent de nouvelles créatures ou de nouveaux magasins, afin de s'assurer que les nouveaux objets sont dispersés de manière égale dans le jeu, et ne sont pas seulement ajoutés aux fichiers de base du jeu.<br/>REMARQUE : L'installation fait un usage intensif du hasard, ce qui signifie que les objets ne seront pas toujours disponibles aux mêmes endroits, ou dans les mêmes quantités. L'utilisation de ce caractère aléatoire signifie qu'il y a une très faible chance que tous les objets ne soient pas ajoutés au jeu pour une installation donnée.",
         "urls": [
-            "http://igidata.com/files/ie/mods/iiItem/iiItem(05)b.zip",
             "http://igidata.com/files/ie/mods/iiItem/iiItem(05)b.zip"
         ],
         "categories": [
@@ -34408,7 +34574,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "igi"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -34431,7 +34599,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "igi"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -34455,7 +34625,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "igi"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -34483,7 +34655,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "igi"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -34510,10 +34684,12 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "igi"
+        ],
         "team": [],
         "notes": [
-            "D'où le dernier avertissement : comme les minuteurs fonctionnent même pendant l'effet d'un sort d'Arrêt du temps, un délai trop court peut arrêter le temps pour toujours ! Je vous mets donc en garde contre les délais inférieurs à 40 pour les sort de niveau 9. Une délai raisonnable pour eux se situe entre 5 minutes (240) et 40 minutes (1920), ce qui devrait correspondre aux 8 heures de jeu."
+            "D'où le dernier avertissement : comme les minuteurs fonctionnent même pendant l'effet d'un sort d'Arrêt du temps, un délai trop court peut arrêter le temps pour toujours ! Je vous mets donc en garde contre les délais inférieurs à 40 pour les sort de niveau 9. Un délai raisonnable pour eux se situe entre 5 minutes (240) et 40 minutes (1920), ce qui devrait correspondre aux 8 heures de jeu."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -34539,7 +34715,9 @@
             "IWD",
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "igi"
+        ],
         "team": [],
         "notes": [
             "N'oubliez-pas que ce mod est vraiment, vraiment très vieux, et dépassé par la plupart des autres Tweaks packs."
@@ -34553,7 +34731,7 @@
     },
     {
         "name": "jmerry's Tweak Collection",
-        "description": "Il s'agit d'une compilation de corrections et d'ajustements des règles du jeu. Ce mod modifie aussi légèrement une petite partie du contenu (comme le composant Noober's Game qui propose un dialogue avec Neeber dans Les Fosses sombres 2. Attention ce dialogue est un des plus longs et des plus complexes du jeu, vous êtes prévenu !).<br/>L'auteur du mod s'est efforcé de ne peux interférer avec les composants de [[Tweaks Anthology]].",
+        "description": "Il s'agit d'une compilation de corrections et d'ajustements des règles du jeu. Ce mod modifie aussi légèrement une petite partie du contenu (comme le composant `Noober's Game` qui propose un dialogue avec Neeber dans Les Fosses sombres 2. Attention ce dialogue est un des plus longs et des plus complexes du jeu, vous êtes prévenu !).<br/>L'auteur du mod s'est efforcé de ne pas interférer avec les composants de [[Tweaks Anthology]].",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/34110-jmerrys-tweak-collection",
             "https://forums.beamdog.com/discussion/83360/mod-jmerrys-tweak-collection/p1"
@@ -34567,10 +34745,12 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jmerry"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -34862,7 +35042,7 @@
             "it"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "PeaceSpeaker, the anti-violence sword",
@@ -34934,7 +35114,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "deratiseur"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -35118,7 +35300,9 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [],
+        "team": [
+            "deratiseur"
+        ],
         "notes": [],
         "is_weidu": true,
         "translation_state": true,
@@ -35148,7 +35332,9 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [],
+        "team": [
+            "deratiseur"
+        ],
         "notes": [],
         "is_weidu": true,
         "translation_state": true,
@@ -35179,7 +35365,9 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [],
+        "team": [
+            "deratiseur"
+        ],
         "notes": [],
         "is_weidu": true,
         "translation_state": true,
@@ -35357,7 +35545,7 @@
     },
     {
         "name": "Keldorn Romance",
-        "description": "Il est fidèle. Il est courageux. Il est célibataire? La vie est une chose incertaine, et les changements surviennent quand on s'y attend le moins. Ce mod offre une chance de romancer le plus récent... et le plus réticent... célibataire d'Athkatla. Toutes les relations demandent du travail, et celle-ci en demande plus que la plupart, mais les récompenses sont grandes, pour ceux qui sont assez patients pour supporter les épreuves.<br>Cette romance n'est pas pour tout le monde, et certainement pas une romance pour les gens pressés. Quand cela commence, Keldorn est en deuil après l'effondrement de son mariage de 20 ans, et il lui faut beaucoup de temps pour récupérer. Il traite de thèmes matures, des conséquences réelles du rejet et du rétablissement, et certains joueurs peuvent ne pas vouloir traverser tout cela, peu importe à quel point l'intérêt amoureux potentiel devient dans Throne of Bhaal. Il est également très, très long, avec plus de 35 discussions dans Shadows of Amn, bien qu'elles soient plus rapprochées les unes des autres pour compenser cela.<br>Pour commencer la romance, vous devez permettre à Keldorn et Maria de se réconcilier. Il ne se considérera libre que si son mariage avec Maria est légalement terminé, et emprisonner Maria ne fera que les séparer, pas les divorcer. De plus, l'incarcération de Maria pourrait présenter des problèmes de garde d'enfants impossibles à surmonter.<br>Le mod propose également une quête pour tous les PC, romancés ou non, bien que cela nécessite également une réconciliation entre Keldorn et Maria.",
+        "description": "Il est fidèle. Il est courageux. Il est célibataire ? La vie est une chose incertaine, et les changements surviennent quand on s'y attend le moins. Ce mod offre une chance de romancer le plus récent... et le plus réticent... célibataire d'Athkatla. Toutes les relations demandent du travail, et celle-ci en demande plus que la plupart, mais les récompenses sont grandes, pour ceux qui sont assez patients pour supporter les épreuves.<br>Cette romance n'est pas pour tout le monde, et certainement pas une romance pour les gens pressés. Quand cela commence, Keldorn est en deuil après l'effondrement de son mariage de 20 ans, et il lui faut beaucoup de temps pour récupérer. Il traite de thèmes matures, des conséquences réelles du rejet et du rétablissement, et certains joueurs peuvent ne pas vouloir traverser tout cela, peu importe à quel point l'intérêt amoureux potentiel devient dans Throne of Bhaal. Il est également très, très long, avec plus de 35 discussions dans Shadows of Amn, bien qu'elles soient plus rapprochées les unes des autres pour compenser cela.<br>Pour commencer la romance, vous devez permettre à Keldorn et Maria de se réconcilier. Il ne se considérera libre que si son mariage avec Maria est légalement terminé, et emprisonner Maria ne fera que les séparer, pas les divorcer. De plus, l'incarcération de Maria pourrait présenter des problèmes de garde d'enfants impossibles à surmonter.<br>Le mod propose également une quête pour tous les PC, romancés ou non, bien que cela nécessite également une réconciliation entre Keldorn et Maria.",
         "urls": [
             "https://www.gibberlings3.net/files/file/978-keldorn-romance/",
             "https://github.com/Gibberlings3/Keldorn_Romance"
@@ -36259,32 +36447,6 @@
             "EET"
         ],
         "authors": [],
-        "team": [],
-        "notes": [],
-        "is_weidu": true,
-        "translation_state": false,
-        "safe": true,
-        "languages": [
-            "en"
-        ],
-        "status": true,
-        "last_update": "11-2024"
-    },
-    {
-        "name": "The Bloodied Stings of Barovia",
-        "description": "Ce mod ajoute une nouvelle aventure sombre. Elle emmène l'Enfant de Bhaal et son groupe à Barovia, qui fait partie du royaume de Ravenloft. Dans cette contrée inquiétante, le joueur affrontera de nouveaux ennemis et de redoutables créatures, résoudra des énigmes complexes et vivra une histoire d'horreur gothique captivante. Plongez dans les brumes, traversez de dangereuses forêts et affrontez des créatures mortes-vivantes, tout en cherchant à regagner Athkatla.",
-        "urls": [
-            "https://downloads.weaselmods.net/download/the-bloodied-stings-of-barovia/"
-        ],
-        "categories": [
-            "Quête"
-        ],
-        "games": [
-            "BG2EE"
-        ],
-        "authors": [
-            "Lava Del'Vortel"
-        ],
         "team": [],
         "notes": [],
         "is_weidu": true,

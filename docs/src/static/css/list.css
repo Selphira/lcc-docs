@@ -139,6 +139,7 @@ hr {
 label {
     display: block;
     padding: 4px;
+    padding-bottom: 8px;
     color: #deded9;
     cursor: pointer;
 }
