@@ -7,8 +7,7 @@
             <p>Mod</p>
             <p>Jeux</p>
             <p>Traducteurs</p>
-            <p>Description</p>
-            <p>Note</p>
+            <p>Description / Notes</p>
             <p>
                 <img src="{{ static }}img/download.png"
                      title="Téléchargement"
@@ -41,25 +40,29 @@
                 </div>
                 <div class="desc">
                     <input type="checkbox"
-                           id="{{ mod.id }}·{{ category.id }}·desc"
-                           class="read-more-state">
+                        id="{{ mod.id }}·{{ category.id }}·desc"
+                        class="read-more-state">
                     <label for="{{ mod.id }}·{{ category.id }}·desc">Description</label>
-                    <p class="read-more-target">{{ mod.description|safe }}</p>
+                    <div class="read-more-target">
+                        {{ mod.description|safe }}
+                        {% if mod.notes|length > 0 %}
+                            <br/><br/>
+                            {% for note in mod.notes %}{{ note|safe }}{% if not loop.last %}<br/>{% endif %}{% endfor %}
+                        {% endif %}
+                    </div>
                 </div>
-                <div class="note">{% for note in mod.notes %}{{ note|safe }}<br>{% endfor %}</div>
                 <div class="url">
                     {% for url in mod.urls_instance %}
-                        <a href="{{ url.url }}"
-                           target="{% if url.is_external %}_blank{% else %}_self{% endif %}">
-                            {% if url.img %}
-                                <img src="{{ static }}{{ url.img.src }}"
-                                     alt="{{ url.img.alt }}"
-                                     width="{{ url.img.width }}"
-                                     height="{{ url.img.height }}"
-                                     title="{{ url.img.title }}">
-                            {% else %}
-                                Lien
-                            {% endif %}
+                        <a href="{{ url.url }}" target="{% if url.is_external %}_blank{% else %}_self{% endif %}">
+                        {% if url.img %}
+                            <img src="{{ static }}{{ url.img.src }}"
+                                alt="{{ url.img.alt }}"
+                                width="{{ url.img.width }}"
+                                height="{{ url.img.height }}"
+                                title="{{ url.img.title }}">
+                        {% else %}
+                            Lien
+                        {% endif %}
                         </a>
                     {% endfor %}
                 </div>

@@ -23,25 +23,10 @@ body {
     }
 }
 
-.note span.quote {
-    background-color: #252222;
-    padding: 2px;
-    border: 1px solid #252222;
-    border-radius: 3px;
-}
-
 .desc span.quote {
-    background-color: #473f34;
-    padding: 2px;
-    border: 1px solid #473f34;
+    background-color: #363131;
+    padding: 4px;
     border-radius: 3px;
-}
-
-/* Ainsi on peut colorer le texte de la couleur principale de façon maintenable */
-/* TODO: les liens ont la même couleur… */
-.row.mod .note .color-primary,
-.row.mod .description .color-primary {
-    color: var(--color-primary);
 }
 
 @media screen and (max-width: 900px) {
@@ -308,23 +293,6 @@ label {
     padding: 25px 5%;
 }
 
-#maindiv .note {
-    text-align: justify;
-    border: 2px solid var(--color-primary);
-    background: rgba(218, 165, 32, 0.5);
-    padding: 16px 5%;
-    margin: 10px 5%;
-    line-height: 160%;
-}
-
-#maindiv .note p.titre {
-    font-weight: bold;
-    width: 100%;
-    padding: 16px;
-    text-align: center;
-    letter-spacing: .2rem;
-}
-
 .legend {
     font-size: var(--font-size-large);
     border: 1px solid var(--color-primary);
@@ -353,13 +321,19 @@ label {
     padding: 12px;
 }
 
+@media screen and (max-width: 900px) {
+    .table .category_container .category {
+        padding: 0;
+    }
+}
+
 .table .category_container .category_name::after {
     content: " (" attr(data-count) ")";
 }
 
 .table .row {
     display: grid;
-    grid-template-columns: minmax(20%, 320px) 122px minmax(5%, 120px) minmax(320px, 1fr) minmax(20%, 320px) minmax(3%, 60px);
+    grid-template-columns: minmax(20%, 320px) 158px minmax(5%, 120px) minmax(320px, 1fr) minmax(3%, 60px);
     line-height: 150%;
     column-gap: 4px;
     align-items: center;
@@ -435,7 +409,7 @@ a.discret:link {
     gap: 1px;
 
     p {
-        width: 60px;
+        width: 52px;
     }
 }
 
@@ -469,15 +443,23 @@ a.discret:link {
     text-align: center;
 }
 
+@media screen and (max-width: 900px) {
+    .table .team .read-more-target {
+        display: flex;
+        flex-wrap: wrap;
+    }
+}
+
 .table .team label {
     font-size: var(--font-size-medium);
+    z-index: 1;
 }
 
 @media screen and (max-width: 900px) {
     .table .team {
         display: grid;
         grid-auto-flow: column;
-        grid-template-columns: repeat(auto-fit, minmax(40px, 1fr));
+        /* grid-template-columns: repeat(auto-fit, minmax(40px, 1fr)); */
         justify-self: center;
         margin-block: 8px;
     }
@@ -504,25 +486,22 @@ a.discret:link {
 }
 
 .table .row .desc {
-    background-color: var(--color-secondary);
-    border: 1px solid blanchedalmond;
-    padding: 12px;
+    padding-block: 6px;
+    padding-inline: 12px;
     font-size: var(--font-size-medium);
 }
 
-.table .row .note {
-    border: 1px solid var(--color-primary);
-    padding: 4px;
-    font-size: var(--font-size-medium);
-}
-
-.table .row .note:empty {
-    border: none;
+.table .row .desc {
+    background-color: rgba(101, 89, 73, 0.5);
+    /* border: 1px solid blanchedalmond; */
+    height: 100%;
+    display: grid;
+    align-content: center;
 }
 
 .table .row .url {
     display: grid;
-    gap: 4px;
+    column-gap: 4px;
     justify-self: center;
     justify-items: center;
     align-items: center;
@@ -543,7 +522,7 @@ a.discret:link {
     opacity: 0;
     max-height: 0;
     font-size: 0;
-    transition: .5s ease;
+    transition: .3s ease-in-out;
 }
 
 .read-more-state:checked~.read-more-target {
