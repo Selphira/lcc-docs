@@ -372,7 +372,7 @@
             "https://github.com/Argent77/A7-Achievements"
         ],
         "categories": [
-            "Gameplay"
+            "Utilitaire"
         ],
         "games": [
             "BGEE",
@@ -558,8 +558,7 @@
             "https://github.com/SpellholdStudios/Adventures_In_Papperland"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -811,8 +810,7 @@
             "http://www.shsforums.net/topic/59054-ajocmod-for-ee-and-eet/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -822,9 +820,7 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
@@ -870,8 +866,7 @@
             "https://downloads.weaselmods.net/download/alabaster-sands/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -1910,8 +1905,7 @@
             "http://www.shsforums.net/files/file/943-arena-v1/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -2294,8 +2288,7 @@
             "https://github.com/Pocket-Plane-Group/Assassinations"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -3278,8 +3271,7 @@
             "https://github.com/Pocket-Plane-Group/bg1ub"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG",
@@ -10867,8 +10859,7 @@
             "http://baldur.cob-bg.pl/download/bg2/quests/ervonyrah_v1.3.4.rar"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -11111,8 +11102,7 @@
             "https://github.com/SpellholdStudios/Expanded_Thief_Stronghold"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -11739,8 +11729,7 @@
             "http://www.shsforums.net/files/file/1084-fishing-for-trouble/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -12843,8 +12832,7 @@
             "https://github.com/Gibberlings3/Glam-NPC-Pack"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Quête"
+            "PNJ recrutable"
         ],
         "games": [
             "Tutu",
@@ -13702,8 +13690,7 @@
             "https://github.com/Austin-BG/HTaM"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -14861,8 +14848,7 @@
             "https://github.com/subtledoctor/Imoen-Can-Die"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -14887,8 +14873,7 @@
             "https://www.gibberlings3.net/files/file/985-imoen-is-stone/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -14943,7 +14928,6 @@
             "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=54"
         ],
         "categories": [
-            "Quête",
             "Gameplay"
         ],
         "games": [
@@ -15383,21 +15367,23 @@
         ],
         "categories": [
             "Quête",
-            "Gameplay"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2024"
     },
     {
         "name": "Ina NPC",
@@ -15667,8 +15653,7 @@
             "https://www.pocketplane.net/iron-modder-competition/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -16234,8 +16219,7 @@
             "https://www.baldurs-gate.de/index.php?resources/jarls-bgt-adventure-pack.8/"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGT"
@@ -17529,7 +17513,7 @@
     },
     {
         "name": "Le Champion De Bhaal",
-        "description": "Créé par Cocrane sur ce site, ce mod français, fait partie d'un projet plus important, \"Le protecteur de Baldur\", en cours de réalisation, qui est une suite de BG1 après la mort de Sarevok. L'aventure commence à l'auberge du Heaume et de la cape où vous pourrez recruter vos fidèles compagnons de BG1 (3 nouveaux PNJ sont proposés). Vous rechercherez une sortie dans un donjon entouré de mystères liés à votre père, Bhaal. Le mod contient 16 nouvelles cartes pour environ 10 heures de jeu.|Cocrane est en train de le rendre compatible avec les jeux EE et EET.",
+        "description": "Créé par Cocrane sur ce site, ce mod français, fait partie d'un projet plus important, \"Le protecteur de Baldur\", en cours de réalisation, qui est une suite de BG1 après la mort de Sarevok. L'aventure commence à l'auberge du Heaume et de la cape où vous pourrez recruter vos fidèles compagnons de BG1 (3 nouveaux PNJ sont proposés). Vous rechercherez une sortie dans un donjon entouré de mystères liés à votre père, Bhaal. Le mod contient 16 nouvelles cartes pour environ 10 heures de jeu.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/le-champion-de-bhaal/32721-Telechargement-du-mod.html"
         ],
@@ -17542,7 +17526,9 @@
         "authors": [
             "Cocrane"
         ],
-        "team": [],
+        "team": [
+            "Cocrane"
+        ],
         "notes": [],
         "is_weidu": null,
         "translation_state": true,
@@ -17746,8 +17732,7 @@
             "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/28954-mods-crees-quete-les-exiles-de-lunargent-v1-0-a.html"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -18127,7 +18112,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Lollorian"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -18862,7 +18849,6 @@
             "http://www.baldursgate-refugium.de/mods/mal-des-vampirismus/"
         ],
         "categories": [
-            "Quête",
             "Gameplay"
         ],
         "games": [
@@ -18918,8 +18904,7 @@
             "http://www.shsforums.net/files/file/1057-almaresurrections-mang0s-hip-hop-mod/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Conversion partielle"
         ],
         "games": [
             "BG2",
@@ -22719,7 +22704,7 @@
         ],
         "categories": [
             "Quête",
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -24251,14 +24236,13 @@
     },
     {
         "name": "Redemption",
-        "description": "Ce mod est en fait un complément d'Ascension et permet de modifier le final de ToB, en rendant possible la rédemption de Jon Irenicus. Pour ce faire, recrutez-le avant de pénétrer dans l'antre de Mélissane, en jouant sur sa fierté blessée.|Une autre facette inattendue du mod se situe dans l'apparition de votre vieil ennemi, Demogorgon, le Prince des Démons. Il vous posera quelques énigmes, avant d'engager un nouveau combat qu'il semble possible d'éviter tout en humiliant sa majesté. Ces énigmes sont largement inspirés des livres de Raymond Smullyan (Satan, Cantor et Les énigmes de Shéhérazade).|Là encore, il faut impérativement Throne of Bhaal, mais également le mod [[Ascension]].",
+        "description": "Ce mod est en fait un complément d'[[Ascension]] et permet de modifier le final de ToB, en rendant possible la rédemption de Jon Irenicus. Pour ce faire, recrutez-le avant de pénétrer dans l'antre de Mélissane, en jouant sur sa fierté blessée.|Une autre facette inattendue du mod se situe dans l'apparition de votre vieil ennemi, Demogorgon, le Prince des Démons. Il vous posera quelques énigmes, avant d'engager un nouveau combat qu'il semble possible d'éviter tout en humiliant sa majesté. Ces énigmes sont largement inspirés des livres de Raymond Smullyan (Satan, Cantor et Les énigmes de Shéhérazade).|Là encore, il faut impérativement Throne of Bhaal, mais également le mod [[Ascension]].",
         "urls": [
             "http://www.shsforums.net/files/file/42-redemption/",
             "http://www.onlinefiction.net/Redemption/Redemption.html"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -24665,8 +24649,7 @@
             "https://github.com/Gibberlings3/Restored-Rhynn-Lanthorn"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -24797,8 +24780,7 @@
             "https://github.com/Pocket-Plane-Group/Reunion"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -26309,21 +26291,24 @@
             "http://www.shsforums.net/files/file/1140-shadow-of-the-the-hierophant-arena-project-chapter-one/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Saradas"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "La dernière mise à jour date de 2016. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
+        ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2016"
     },
     {
         "name": "ShadowKeeper",
@@ -26365,7 +26350,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "CBisson"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
@@ -26462,8 +26449,7 @@
             "https://github.com/Gibberlings3/Shards_of_Ice"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -27805,8 +27791,7 @@
             "http://www.shsforums.net/files/file/836-spellhold-gauntlet-v116/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -28598,13 +28583,12 @@
     },
     {
         "name": "Sylmar Battlefield",
-        "description": "Ce mod ajoute un combat et une quête stratégique au contenu de Baldur's Gate II: Shadows of Amn. Aidez une nation d'elfes dont les lieux sacrés de sépulture ont été envahis. Combattez aux côtés de l'armée elfique et testez votre sens tactique contre des hordes d'orques qui attaquent continuellementn et même contre des démons mortels et cauchemardesques, tout en gardant le commandant elfe en vie et en préservant leurs terres sacrées.|Attention : ce mod est difficile, les orcs et autres créatures évoluant en fonction de votre niveau.",
+        "description": "Ce mod ajoute un combat et une quête stratégique au contenu de Baldur's Gate II: Shadows of Amn. Aidez une nation d'elfes dont les lieux sacrés de sépulture ont été envahis. Combattez aux côtés de l'armée elfique et testez votre sens tactique contre des hordes d'orques qui attaquent continuellement et même contre des démons mortels et cauchemardesques, tout en gardant le commandant elfe en vie et en préservant leurs terres sacrées.|Attention : ce mod est difficile, les orcs et autres créatures évoluant en fonction de votre niveau.",
         "urls": [
             "http://www.shsforums.net/files/file/564-sylmar-battlefield-v1025/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -28675,7 +28659,6 @@
             "https://github.com/The-Gate-Project/Kara-Tur"
         ],
         "categories": [
-            "Forgeron et marchand",
             "Quête"
         ],
         "games": [
@@ -28893,8 +28876,7 @@
             "https://github.com/Gitjas/ToA"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -29007,8 +28989,7 @@
             "https://downloads.weaselmods.net/download/tangled-oak-isle/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -29395,8 +29376,7 @@
             "https://github.com/Argent77/A7-TestYourMettle"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2EE",
@@ -29561,8 +29541,7 @@
             "https://www.weaselmods.net/forumdisplay.php?fid=5"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -29570,10 +29549,12 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
@@ -29953,7 +29934,7 @@
         ],
         "categories": [
             "Quête",
-            "Gameplay",
+            "Sort et objet",
             "Kit"
         ],
         "games": [
@@ -30015,14 +29996,15 @@
             "https://www.weaselmods.net/forumdisplay.php?fid=5"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -30040,8 +30022,7 @@
             "https://github.com/Black-Wyrm-Lair/Drizzt-Saga/"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG",
@@ -30196,8 +30177,7 @@
             "http://www.shsforums.net/files/file/143-holy-hand-grenade/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -30287,8 +30267,7 @@
             "https://github.com/SpellholdStudios/The_Jerry_Zinger_Show"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -31044,13 +31023,12 @@
     },
     {
         "name": "The bigg Quest Pack",
-        "description": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukunn. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel \"Mprolla, le tricheur\" fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ?",
+        "description": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukunn. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel `Mprolla, le tricheur` fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ?",
         "urls": [
             "http://www.shsforums.net/files/file/96-the-bigg-house-the-bigg-quest-pack/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -31566,8 +31544,7 @@
             "http://www.shsforums.net/files/file/1270-dnt-tomoyo-and-the-underground-city/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -31587,13 +31564,12 @@
     },
     {
         "name": "Tortured Soul",
-        "description": "Le concepteur d'origine a poursuivi le développement du mod dans une version stand-alone, avec moults remaniements de textes. Cependant, bien que compatible avec [[Baldurdash-WeiDU]] 1.75 (obligatoire) et avec les autres mods de Vlad que sont Keldorn's Romance (fortement recommandé) et [[Never Ending Journey]]3 (obligatoire), elle est incompatible avec la plupart des mods WeiDU y compris le [[BG2 Fixpack]] !|Elle est inclue dans la <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a>.",
+        "description": "Le concepteur d'origine a poursuivi le développement du mod dans une version stand-alone, avec moults remaniements de textes. Cependant, bien que compatible avec [[Baldurdash-WeiDU]] 1.75 (obligatoire) et avec les autres mods de Vlad que sont Keldorn's Romance (fortement recommandé) et [[Never Ending Journey]]3 (obligatoire), elle est incompatible avec la plupart des mods WeiDU y compris le [[BG2 Fixpack]] !",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394"
         ],
         "categories": [
             "Quête",
-            "Gameplay",
             "PNJ recrutable"
         ],
         "games": [
@@ -31618,7 +31594,6 @@
         ],
         "categories": [
             "Quête",
-            "Gameplay",
             "PNJ recrutable"
         ],
         "games": [
@@ -32510,8 +32485,7 @@
             "https://trow.cc/board/index.php?showtopic=13329"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -33303,8 +33277,7 @@
             "http://www.shsforums.net/files/file/880-vecna/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -34080,7 +34053,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [
             "Ce mod a disparu."
         ],
@@ -34189,8 +34162,7 @@
             "https://github.com/Gibberlings3/WheelsOfProphecy"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2EE",
@@ -34682,13 +34654,12 @@
     },
     {
         "name": "Worship the Unseeing Eye",
-        "description": "Ce mini mod vous donne l'opportunité d'adorer l'Œil Aveugle. Répondez \"Oui\" lorsque Gaal, le prédicateur du quartier du Temple, vous demande si vous voulez l'adorer. C'est aussi simple que ça !|<span style=\"color: red;\">Traduit, mais nécessite une mise à jour du mod.</span>",
+        "description": "Ce mini mod vous donne l'opportunité d'adorer l'Œil Aveugle. Répondez \"Oui\" lorsque Gaal, le prédicateur du quartier du Temple, vous demande si vous voulez l'adorer. C'est aussi simple que ça !",
         "urls": [
             "http://www.shsforums.net/files/file/157-worship-the-unseeing-eye/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
