@@ -111,9 +111,13 @@ class Mod:
 
         return linked_txt
 
+    def _convert_pipe(self, txt: str) -> str:
+        return txt.replace("|", "<br/>")
+
     @property
     def description(self) -> str:
         description = self._convert_link(self._description)
+        description = self._convert_pipe(description)
         return self._convert_quote(description)
 
     @property
@@ -121,6 +125,7 @@ class Mod:
         notes = list()
         for note in self._notes:
             new_note = self._convert_link(note)
+            new_note = self._convert_pipe(new_note)
             new_note = self._convert_quote(new_note)
             notes.append(new_note)
         return notes
