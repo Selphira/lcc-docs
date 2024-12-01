@@ -9961,7 +9961,8 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "EET"
         ],
         "authors": [
             "Blue the Immortal Bard",
@@ -11508,7 +11509,8 @@
         ],
         "games": [
             "BGEE",
-            "SoD"
+            "SoD",
+            "EET"
         ],
         "authors": [],
         "team": [],
@@ -14636,7 +14638,7 @@
     },
     {
         "name": "Interaction Expansion Project",
-        "description": "Ce projet a pour intention de développer le réalisme et l'intérêt des PNJ de Bioware en les dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires. 12 mods sont d'ores et déjà issus de ce projet ambitieux. Il s'agit de : |IEP Extended Banters, [[Cernd Friendship]], [[Dorn Friendship]], Haer'Dalis Friendship, [[Imoen Friendship]], [[Korgan Friendship]], [[Mazzy Friendship]], Minsc Friendship, [[Sarevok Friendship]], Valygar Friendship, [[Viconia Friendship]] et [[Yoshimo Friendship]]. Seuls 5 d'entre eux ont été traduits.",
+        "description": "Ce projet a pour intention de développer le réalisme et l'intérêt des PNJ de Bioware en les dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires. 12 mods sont d'ores et déjà issus de ce projet ambitieux. Il s'agit de : |IEP Extended Banters, [[Cernd Friendship]], [[Dorn Friendship]], [[Haer'Dalis Friendship]], [[Imoen Friendship]], [[Korgan Friendship]], [[Mazzy Friendship]], [[Minsc Friendship]], [[Sarevok Friendship]], [[Valygar Friendship]], [[Viconia Friendship]] et [[Yoshimo Friendship]]. Seuls 5 d'entre eux ont été traduits.",
         "urls": [
             "http://www.shsforums.net/files/file/558-iep-extended-banters",
             "https://github.com/SpellholdStudios/IEP_Extended_Banter"
@@ -15286,7 +15288,8 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "jastey"
@@ -17363,7 +17366,8 @@
             "PNJ recrutable"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Lava Del'Vortel"
@@ -19677,7 +19681,7 @@
     },
     {
         "name": "Mersetek le joaillier",
-        "description": "Vous trouverez ce marchand d'un genre particulier dans votre Antichambre. Il vous permettra de pallier le manque de gemmes nécessaires pour la réalisation d'objets du mod Item Upgrade (de Weimer). Création originale de Kay'est.",
+        "description": "Vous trouverez ce marchand d'un genre particulier dans votre Antichambre. Il vous permettra de pallier le manque de gemmes nécessaires pour la réalisation d'objets du mod [[Item Upgrade]]. Création originale de Kay'est.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/23998-mods-crees-mag-mersetek-le-joaillier-v1-3-1-a.html",
             "https://github.com/Plutonium-X/SHOP_Mersetek"
@@ -22699,7 +22703,8 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Lava Del'Vortel"
@@ -24548,7 +24553,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Raduziel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -25949,7 +25956,7 @@
     },
     {
         "name": "Ruad Item Upgrade",
-        "description": "Ce mod ajoute un forgeron nain dans SoA, puis dans ToB, capable d'assembler des objets à la manière de Cromwell. À la différence du mod Item Upgrade de Weimer, la plupart des objets en question demandent un certain sacrifice, tel que le cœur de Yoshimo ou le manche de Vague.",
+        "description": "Ce mod ajoute un forgeron nain dans SoA, puis dans ToB, capable d'assembler des objets à la manière de Cromwell. À la différence du mod [[Item Upgrade]], la plupart des objets en question demandent un certain sacrifice, tel que le cœur de Yoshimo ou le manche de Vague.",
         "urls": [
             "http://www.shsforums.net/files/file/790-ruad-rofhessa-item-upgrade/",
             "https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade"
@@ -26543,7 +26550,7 @@
             "http://www.shsforums.net/topic/38864-sarevoks-true-power/"
         ],
         "categories": [
-            "Gameplay"
+            "PNJ (autre)"
         ],
         "games": [
             "BG2",
@@ -26836,9 +26843,10 @@
         "last_update": "10-2023"
     },
     {
-        "name": "Shader Pack: Lighting Adjustments for the EE",
+        "name": "Shader Pack: Lighting Adjustments",
         "description": "Ce mod vise à corriger l'absence de réglage de la luminosité dans BG:EE et BG2:EE. Il propose une vingtaine de pré-réglages parmi lesquels il faudra en choisir un. Il suffit de réinstaller le mod pour en choisir un autre. Le <a href=\"https://argent77.github.io/A7-LightingPackEE/index.html\">readme du mod</a> indique aussi quels fichiers modifier pour ajuster le réglage à sa guise après installation.",
         "urls": [
+            "http://www.shsforums.net/files/file/1080-shader-pack-lighting-adjustments-for-the-enhanced-editions/",
             "https://github.com/Argent77/A7-LightingPackEE"
         ],
         "categories": [
@@ -31163,7 +31171,7 @@
         "last_update": "10-2009"
     },
     {
-        "name": "The Minotaur and Lilarcor",
+        "name": "The Minotaur and Lilacor",
         "description": "Dans les égouts d'Athkatla, vous rencontrez un minotaure attaqué par 4 myconides, ainsi que 3 corps gisant au sol, sans qu'aucune explication ne soit donnée. Ce mini-mod se propose d'en raconter l'histoire.",
         "urls": [
             "http://www.shsforums.net/files/file/818-the-minotaur-and-lilacor/",
@@ -31684,7 +31692,8 @@
             "PNJ (autre)"
         ],
         "games": [
-            "BGEE"
+            "BGEE",
+            "EET"
         ],
         "authors": [
             "Lava Del'Vortel"
@@ -33422,7 +33431,7 @@
         "last_update": ""
     },
     {
-        "name": "Underrepresented Items",
+        "name": "Under-Represented Items",
         "description": "Ce mod ajoute un marchand d'Icewind Dale 2 qui propose de puissantes armes parmi les moins présentes dans le jeu (bâtons, dagues, épées bâtardes, haches à deux mains, fléchettes, hallebardes, lances, marteaux, masses).|Plus de détails sur la <a href=\"https://weidu.org/underrep.html\">page originale du mod</a>.",
         "urls": [
             "http://weidu.org/underrep.html",
@@ -33771,7 +33780,8 @@
             "Sort et objet"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [],
         "team": [],
@@ -34020,7 +34030,7 @@
         "last_update": "09-2024"
     },
     {
-        "name": "Vampire World for EET",
+        "name": "Vampire World",
         "description": "Ce mod fait la part belle aux morts-vivants dans la Saga. Vous pouvez devenir mort-vivant, en accueillir dans votre groupe, embaucher Bodhi après l'avoir tuée...",
         "urls": [
             "http://www.shsforums.net/files/file/1195-vampire-world-for-eet/"
@@ -34616,7 +34626,7 @@
         "last_update": ""
     },
     {
-        "name": "Warlock Kit (bard)",
+        "name": "Warlock Kit",
         "description": "Ce mod ajoute un profil de barde qui fonctionne comme un véritable Warlock. C'était pour l'auteur la seule manière de créer une classe supplémentaire.|Plus d'informations <a href=\"https://forums.beamdog.com/discussion/69177/v0-1-warlock-mod/p1\">ici</a>.",
         "urls": [
             "http://www.shsforums.net/files/file/1233-warlock-mod-for-bgee-bg2ee-and-iwdee/",
@@ -35702,7 +35712,8 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Kaeloree"
@@ -38506,7 +38517,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Weimer"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -38823,5 +38836,239 @@
         "languages": [],
         "status": "wip",
         "last_update": "11-2024"
+    },
+    {
+        "name": "Sarevok Romance",
+        "description": "Sarevok Anchev a été beaucoup de choses. Autrefois meurtrier, trompeur et ennemi méprisé, il est devenu l'allié improbable d'un protagoniste confronté à un avenir incertain. Bien que de nombreux faits concernant son passé et ses anciens projets soient connus de tous, on ne sait pas grand-chose de ses motivations actuelles, maintenant que la vie lui a été rendue. La mort a-t-elle ébranlé ses perceptions ou simplement renforcé sa détermination à s'emparer impitoyablement de tout le pouvoir qu'il peut s'approprier ? Est-il possible que des ennemis mortels deviennent plus que des alliés réticents ?",
+        "urls": [
+            "http://www.shsforums.net/files/file/810-sarevok-romance/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Kaeloree"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": null,
+        "translation_state": false,
+        "safe": null,
+        "languages": [],
+        "status": true,
+        "last_update": "09-2019"
+    },
+    {
+        "name": "Valygar Friendship",
+        "description": "Ce mod ajoute une série de dialogues à Valygar, le fameux rôdeur, et développe ses expériences et ses difficultés.",
+        "urls": [
+            "https://github.com/SpellholdStudios/ValygarFriendship"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Lava Del'Vortel",
+            "fluke13"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "cn",
+            "ru",
+            "es"
+        ],
+        "status": true,
+        "last_update": "07-2021"
+    },
+    {
+        "name": "Sharpening filter",
+        "description": "Ce mod vise à utiliser des opérations de couleur plus cohérentes, des filtres d'accentuation et de mise à l'échelle alternatifs via les fichiers de shaders introduits dans BG(2)EE.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/87794/mod-sharpening-filter-bgee1-3-like-look-and-more-via-shaders/p1",
+            "https://github.com/dtiefling/dshaders"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Drunktiefling"
+        ],
+        "team": [],
+        "notes": [
+            "Bien qu'inspiré par le mod [[Shader Pack: Lighting Adjustments]], ces deux mods sont incompatibles."
+        ],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "11-2023"
+    },
+    {
+        "name": "Minsc Friendship",
+        "description": "Ce mod ajoute une série de dialogues à Minsc, le fameux rôdeur, et développe ses expériences et ses difficultés.",
+        "urls": [
+            "https://github.com/SpellholdStudios/MinscFriendship"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Lava Del'Vortel",
+            "Kaeloree"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru",
+            "es"
+        ],
+        "status": true,
+        "last_update": "07-2021"
+    },
+    {
+        "name": "Haer'Dalis Friendship",
+        "description": "Ce mod ajoute une série de dialogues à Haer'Dalis, le fameux barde, et développe ses expériences et ses difficultés.",
+        "urls": [
+            "https://github.com/SpellholdStudios/HaerdalisFriendship"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Aeryn"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "12-2019"
+    },
+    {
+        "name": "Graion's Soundsets",
+        "description": "Collection de son pour tous les jeux en version 2.6. Cette dernière a apporté de nouvelles options intéressantes, malheureusement tout en étant incompatible avec les collections des versions précédentes. Téléchargez bien la collection correspondante à votre jeu.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/82008/graions-soundsets-pst-iwd-iwd2-bg-bg2-bgnpc-30-for-bg-sod-bg2-iwd-eet-ee-2-6/p1"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG",
+            "BGEE",
+            "BG2",
+            "BG2EE",
+            "BGT",
+            "IWD",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "GraionDilach"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "11-2022"
+    },
+    {
+        "name": "Awesome Soundsets Mods Master",
+        "description": "Collection de 4 sons avec sous-titres qui peuvent être utilisés pour les personnages joueurs.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/38319/mods-awesome-soundsets-mods-master-thread-custom-soundsets-for-bgee-bg2ee-and-iwdee"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "smeagolheart"
+        ],
+        "team": [],
+        "notes": [
+            "SoD n'est pas supporté. Le mod date de 2016, il est possible qu'il ne soit plus compatible avec les nouveaux patches. Privilégiez-lui [[Graion's Soundsets]]."
+        ],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": null,
+        "languages": [],
+        "status": true,
+        "last_update": "04-2016"
+    },
+    {
+        "name": "Black Hearts",
+        "description": "Black Hearts est un mod de quête pour BG:EE qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas).",
+        "urls": [
+            "https://forums.beamdog.com/discussion/82484/released-black-hearts-bg1/p1"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "AWizardDidIt"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "01-2023"
     }
 ]
