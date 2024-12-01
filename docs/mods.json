@@ -7493,8 +7493,7 @@
             "https://github.com/r-e-d/correctfrBG1EE"
         ],
         "categories": [
-            "Patch non officiel",
-            "Conversion partielle"
+            "Patch non officiel"
         ],
         "games": [
             "BGEE",
@@ -14750,7 +14749,7 @@
             "https://www.gibberlings3.net/files/file/727-icewind-dale-in-baldurs-gate-ii/"
         ],
         "categories": [
-            "Conversion"
+            "Conversion totale"
         ],
         "games": [
             "IWD"
@@ -29404,7 +29403,7 @@
     },
     {
         "name": "Tethyr Forest Patch",
-        "description": "La grotte de la forêt de Téthyr est modifiée par le mod [[Check the Bodies]]. Les mods TS-BP et Tashia utilisent également la grotte originale en termes de quêtes et de scripts. Ce mod crée donc une nouvelle entrée dans la grotte, disponible lorsque vous jouez avec tous les mods sans utiliser la console.",
+        "description": "La grotte de la forêt de Téthyr est modifiée par le mod [[Check the Bodies]]. Les mods [[Tortured Souls-BP]] et [[Tashia NPC]] utilisent également la grotte originale en termes de quêtes et de scripts. Ce mod crée donc une nouvelle entrée dans la grotte, disponible lorsque vous jouez avec tous les mods sans utiliser la console.",
         "urls": [
             "http://www.shsforums.net/files/file/855-tethyr-forest-patch-version-3b-112609/"
         ],
