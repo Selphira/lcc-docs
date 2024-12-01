@@ -173,7 +173,7 @@
         "last_update": "11-2024"
     },
     {
-        "name": "6 Pre-Made Characters by Piotyr",
+        "name": "6 Pre-Made Characters",
         "description": "Il s'agit d'une collection de six personnages pré-tirés pour IWD, de niveau assez haut (10 à 11), sauf un de niveau 1, et plutôt bien équipés.",
         "urls": [
             "https://sorcerers.net/Games/IWD/index_mods.php"
@@ -184,7 +184,9 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "Piotyr"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -2574,7 +2576,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "theacefes"
+        ],
         "team": [
             "Ixyon"
         ],
@@ -2582,7 +2586,13 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru",
+            "es"
+        ],
         "status": true,
         "last_update": "09-2021"
     },
@@ -9751,7 +9761,7 @@
         "last_update": "04-2010"
     },
     {
-        "name": "Droquil by Ellimar",
+        "name": "Droquil",
         "description": "Il s'agit d'un personnage pré-tiré pour IWD2. Droquil est un guerrier elfe noir chaotique bon niveau 7 avec ses portraits et ses jeux de son.",
         "urls": [
             "https://sorcerers.net/Games/IWD/index_mods.php"
@@ -9762,7 +9772,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Ellimar"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -10289,7 +10301,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Tioma"
+        ],
         "team": [
             "Thot"
         ],
@@ -10933,7 +10947,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "k4thos"
+        ],
         "team": [
             "Isaya",
             "Chevalier Noir",
@@ -12139,7 +12155,7 @@
         "last_update": "08-2019"
     },
     {
-        "name": "Font Mod by Platter",
+        "name": "Font Mod",
         "description": "Ce mod modifie la couleur de fond de l'interface ainsi que la police de caractère pour faciliter la lecture des textes affichés :|- fontdlg.bam : polices de caractères.|- WMMOSDP.MOS : fond noir.",
         "urls": [
             "https://sorcerers.net/Games/Torment/index_mods.php"
@@ -12150,7 +12166,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Platter"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -13376,12 +13394,13 @@
         "games": [
             "BGT",
             "BGEE",
-            "SoD",
+            "BG2",
             "BG2EE",
             "EET"
         ],
         "authors": [
-            "jastey"
+            "jastey",
+            "Rabain"
         ],
         "team": [],
         "notes": [
@@ -13390,7 +13409,11 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
         "status": true,
         "last_update": "11-2024"
     },
@@ -14053,7 +14076,11 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "es"
+        ],
         "status": true,
         "last_update": "11-2024"
     },
@@ -21500,7 +21527,7 @@
         "last_update": ""
     },
     {
-        "name": "New Starting Parties by TheBlackRose",
+        "name": "New Starting Parties",
         "description": "Il s'agit d'un groupe pré-tiré lorsqu'on lance une nouvelle partie. Il est composé uniquement de roublards, que vous pouvez multi-classer toutefois.",
         "urls": [
             "https://sorcerers.net/Games/IWD2/index_mods2.php"
@@ -21511,7 +21538,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "TheBlackRose"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -25156,7 +25185,7 @@
         "last_update": ""
     },
     {
-        "name": "Restoration Pack by Cilantro",
+        "name": "Restoration Pack",
         "description": "Ce mod réintroduit des éléments supprimés lors de la sortie de PsT : sorts, objets, entrées de bestiaire...",
         "urls": [
             "https://sorcerers.net/Games/Torment/index_mods.php",
@@ -25168,7 +25197,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Cilantro"
+        ],
         "team": [],
         "notes": [
             "Ce mod écrase les fichiers, dont le fichier dialog.tlk et ne peut pas être désinstallé. Il restaure donc le jeu en langue française. Ne l'installez pas et évitez-le comme la peste !"
@@ -27906,18 +27937,21 @@
         "last_update": ""
     },
     {
-        "name": "Slowdown Fixes by Extremist & Quint",
+        "name": "Slowdown Fixes",
         "description": "Ce mod avait pour ambition de résoudre les problèmes de ralentissement du jeu dans certaines zones, comme la jungle ou l'Œil du dragon : les mouvements ne sont pas fluides, semblent s'arrêter toutes les secondes ou presque, ce qui rend le jeu difficile et ennuyeux.|Tout le monde ne rencontre pas ces problèmes. Ils peuvent être liés à des problèmes matériels, tels que le processeur, le chipset, le type de mémoire vive, ou autre. Ils pourraient également être liés à la façon dont l'inventaire des membres de votre groupe est organisé...",
         "urls": [
             "https://sorcerers.net/Games/IWD2/index_editors.php"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Extremist",
+            "Quint"
+        ],
         "team": [],
         "notes": [
             "Il s'agit d'un mod override qui écrase des fichiers .BCS et ne peut pas être désinstallé. Évitez-le au possible !"
@@ -29691,7 +29725,7 @@
         "last_update": "09-2024"
     },
     {
-        "name": "Targos-Be-Gone by DreamingxAshley",
+        "name": "Targos-Be-Gone",
         "description": "Pour ceux qui sont fatigués de parcourir le tutorial complet de IWD 2, voici une sauvegarde de jeu qui vous permet de commencer avec un groupe niveau 3, en dehors de la Palissade, avec le maximum d'or et d'expérience possible. Le groupe proposé, La Fraternité des Lames Errantes, n'est composé que de personnages féminins, bien équilibrés. Comme il ne s'agit en réalité que d'une sauvegarde de jeu, cela n'ajoute en revanche aucun banter. Il est toujours possible de modifier les personnages avec [[Dale Keeper]].",
         "urls": [
             "https://sorcerers.net/Games/IWD2/index_mods.php"
@@ -29702,7 +29736,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "DreamingxAshley"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -30284,7 +30320,7 @@
         "last_update": "07-2016"
     },
     {
-        "name": "The Beaurin Legacy",
+        "name": "Beaurin Legacy",
         "description": "Ce mod ajoute un enchanteur/voleur elfe et un PNJ caché. Vous trouverez Minyae Beaurin à l'extérieur de l'auberge du Crâne tordu, aux portes de la ville. Il comprend des portraits personnalisés, une voie de l'amitié pour Minyae et le PNJ caché, de nombreuses plaisanteries et interjections, des rencontres et des quêtes, une voix pour les deux PNJ (seule Minyae dispose d'un jeu complet), une romance avec un PNJ Bioware...",
         "urls": [
             "https://www.gibberlings3.net/files/file/998-beaurin-legacy/"
@@ -30606,7 +30642,7 @@
     },
     {
         "name": "The Cowled Menace",
-        "description": "Quelqu'un a œuvré dans l'ombre, manipulant les événements de la Côte des Épées à son avantage. Percez les mystères de la Rune tordue et enquêtez sur agissements des Mages cagoulés.",
+        "description": "Quelqu'un a œuvré dans l'ombre, manipulant les événements de la Côte des Épées à son avantage. Percez les mystères de la Rune tordue et enquêtez sur les agissements des Mages cagoulés.",
         "urls": [
             "https://www.gibberlings3.net/files/file/1017-the-cowled-menace/",
             "https://github.com/Gibberlings3/CowledMenace"
@@ -30621,11 +30657,17 @@
             "Daxtreme"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "[[Enhanced Edition Trilogy (EET)]] est requis."
+        ],
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "cn"
+        ],
         "status": true,
         "last_update": "09-2024"
     },
@@ -32269,7 +32311,7 @@
         "last_update": "11-2024"
     },
     {
-        "name": "Tome o' Cheats by Platter",
+        "name": "Tome o' Cheats",
         "description": "Il s'agit d'un livre avec lequel vous pouvez dialoguer pour modifier vos caractéristiques, alignement, classe, argent, expérience, points de vie... Il peut aussi vous donner de nombreux objets utiles, dont certains n'étaient pas inclus dans le jeu, ainsi que tous les parchemins de sorts de niveau 5 à 9. Bien, évidemment, c'est de la triche !",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=PST&f=Torment/cheats.zip "
@@ -32280,7 +32322,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Platter"
+        ],
         "team": [],
         "notes": [
             "Attention : Comme il est inclus dans le mod [[Qwinn's Planescape: Torment Tweak Pack]] (composant `Grimoire de triche`), autant installer le mod précédent qui, en plus, est traduit."
@@ -34706,7 +34750,7 @@
         "last_update": "07-2015"
     },
     {
-        "name": "Water's Edge Party by Antaris",
+        "name": "Water's Edge Party",
         "description": "Il s'agit groupe pré-composé (la \"compagnie du vent murmurant\"), ayant pour thème NWN. Ajout d'un portrait personnalisé pour le mage.",
         "urls": [
             "https://sorcerers.net/Games/IWD2/index_mods2.php"
@@ -34717,7 +34761,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Antaris"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -34940,7 +34986,7 @@
         "last_update": "09-2009"
     },
     {
-        "name": "Werewolf & Dragon Characters by DemonGavo",
+        "name": "Werewolf & Dragon Characters",
         "description": "Il s'agit de deux personnages très puissants pré-tirés pour IWD, avec leur portrait.",
         "urls": [
             "https://sorcerers.net/Games/IWD/index_mods.php"
@@ -34951,7 +34997,9 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "DemonGavo"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -34995,7 +35043,7 @@
         "last_update": "06-2021"
     },
     {
-        "name": "Whispering Wind Party + Installer & Portrait by drowling",
+        "name": "Whispering Wind Party + Installer & Portrait",
         "description": "Ce mod ajoute un nouveau groupe préfabriqué lorsqu'on lance une nouvelle partie. Il est composé uniquement de roublards, que vous pouvez multi-classer toutefois.",
         "urls": [
             "https://sorcerers.net/Games/IWD2/index_mods2.php"
@@ -35006,7 +35054,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "drowling"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -38744,5 +38794,34 @@
         ],
         "status": true,
         "last_update": "03-2024"
+    },
+    {
+        "name": "Talents of Faerûn (WIP)",
+        "description": "Ce très gros mod est une collection de plusieurs dizaines de mods. Il contient de nombreux ajustements optionnels à diverses parties du jeu, se concentrant sur l'expansion et le rééquilibrage des capacités du joueur. Il comprend des dizaines de HLA, une révision des kits existants, un système de sous-race etc",
+        "urls": [
+            "https://www.gibberlings3.net/files/file/1041-talents-of-faer%C3%BBn/?do=download",
+            "https://github.com/Gibberlings3/TalentsOfFaerun"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "DavidW"
+        ],
+        "team": [],
+        "notes": [
+            "Le mod est encore en bêta. Wait and See."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [],
+        "status": "wip",
+        "last_update": "11-2024"
     }
 ]
