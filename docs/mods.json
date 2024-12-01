@@ -921,7 +921,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "SimDing0"
+        ],
         "team": [
             "Shaywen",
             "Zooloo"
@@ -1748,7 +1750,7 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -2285,7 +2287,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ghreyfain"
+        ],
         "team": [
             "Thot",
             "Matt",
@@ -2349,7 +2353,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kulyok"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -2749,7 +2755,9 @@
         "games": [
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "mirandir"
+        ],
         "team": [
             "mirandir"
         ],
@@ -2759,7 +2767,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2018"
     },
     {
         "name": "AutoDescription",
@@ -3148,9 +3156,7 @@
             "SoD",
             "EET"
         ],
-        "authors": [
-            "AstroBryGuy"
-        ],
+        "authors": [],
         "team": [
             "Eleima",
             "Galathée",
@@ -3272,7 +3278,10 @@
             "BG",
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Japheth",
+            "Weimer"
+        ],
         "team": [
             "Trouveur"
         ],
@@ -3352,7 +3361,10 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "icelus",
+            "devSin"
+        ],
         "team": [
             "IronFistedGiant",
             "ForeverDream",
@@ -3606,7 +3618,10 @@
             "BGEE",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg",
+            "Idobek"
+        ],
         "team": [
             "Anomaly",
             "Elgaern the Dragon Slayer",
@@ -4155,7 +4170,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kulyok"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -4667,7 +4684,7 @@
         "last_update": "07-2024"
     },
     {
-        "name": "Banters Packs",
+        "name": "Banter Packs",
         "description": "Envie de nouveaux dialogues et interactions rajoutant davantage de profondeur au jeu ? Ce mod est fait pour vous. De nouvelles histoires de Jan, de nouvelles piques d'Imoen et un Edwin encore plus cynique, bref que du bonheur.",
         "urls": [
             "https://www.pocketplane.net/banter-packs/",
@@ -4682,7 +4699,10 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jcompton",
+            "Kish"
+        ],
         "team": [
             "Mathrim Cauthon",
             "Galathée"
@@ -4812,7 +4832,7 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -5753,7 +5773,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Olga Silaeva"
+        ],
         "team": [
             "shamou",
             "JohnBob",
@@ -5792,7 +5814,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "LadeJarl"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -5886,7 +5910,10 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "St. Josephine",
+            "jcompton"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -6100,7 +6127,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Japheth"
+        ],
         "team": [
             "Nathiel"
         ],
@@ -6228,7 +6257,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Gabrielle"
+        ],
         "team": [
             "Fouinto"
         ],
@@ -6766,7 +6797,7 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -7517,13 +7548,20 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Olga Silaeva"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru",
+            "cn"
+        ],
         "status": true,
         "last_update": "01-2023"
     },
@@ -7956,7 +7994,7 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -8580,7 +8618,10 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Jason Compton",
+            "Kulyok"
+        ],
         "team": [
             "Mornagest"
         ],
@@ -9874,7 +9915,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kulyok"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -9908,7 +9951,10 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Blue the Immortal Bard",
+            "jcompton"
+        ],
         "team": [
             "Thot"
         ],
@@ -10348,7 +10394,9 @@
             "BG",
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Macready"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, il ne fonctionne que sur une installation en anglais."
@@ -10491,7 +10539,7 @@
     },
     {
         "name": "Eilistraee's Song",
-        "description": "Un nouveau mod de quête pour BG2, créé par Lava, qui se déclenche si vous décidez d'épargner la vie de Solaufein et de le laisser s'enfuir d'Ust Natha. Il vous remerciera après votre évasion d'Ust Natha, et vous parlera d'un nouvel endroit, où vous pourrez demander de l'aide afin de récupérer votre âme... Le mod inclut 6 nouvelles cartes, 21 nouveaux objets et bien entendu de nouvelles quêtes secondaires en marge de celle de votre âme.",
+        "description": "Un mod de quête pour BG2, créé par Lava, qui se déclenche si vous décidez d'épargner la vie de Solaufein et de le laisser s'enfuir d'Ust Natha. Il vous remerciera après votre évasion d'Ust Natha, et vous parlera d'un nouvel endroit, où vous pourrez demander de l'aide afin de récupérer votre âme... Le mod inclut 6 nouvelles cartes, 21 nouveaux objets et bien entendu de nouvelles quêtes secondaires en marge de celle de votre âme.",
         "urls": [
             "https://downloads.weaselmods.net/download/eilistraees-song/"
         ],
@@ -11808,7 +11856,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Bons"
+        ],
         "team": [
             "Thot",
             "Elgaern",
@@ -12758,7 +12808,7 @@
     },
     {
         "name": "Genwas Bestienmod BG2:EE",
-        "description": "Ce mod en allemand d'acquérir des bêtes (gnoll, troll, troll fantôme, élémentaire de terre) à Ust Natha : elle peuvent changer de région, être invitées par dialogue à attendre ou à garder un endroit. Un nouveau dresseur peut augmenter leurs compétences et proposer des équipements spéciaux : cage à bestiaux (Permet de ranger les bestiaux), packs d'équipement (meilleur équipement pour les créatures), œil de Pomp (permet de voir à travers les yeux de la bête équipée)... Par ailleurs, vs pourrez également acheter à un garçon des bas quartiers d'Athkatla un furet entraîné au vol à la tire.",
+        "description": "Ce mod en allemand d'acquérir des bêtes (gnoll, troll, troll fantôme, élémentaire de terre) à Ust Natha : elle peuvent changer de région, être invitées par dialogue à attendre ou à garder un endroit. Un nouveau dresseur peut augmenter leurs compétences et proposer des équipements spéciaux : cage à bestiaux (Permet de ranger les bestiaux), packs d'équipement (meilleur équipement pour les créatures), œil de Pomp (permet de voir à travers les yeux de la bête équipée)... Par ailleurs, vous pourrez également acheter à un garçon des bas quartiers d'Athkatla un furet entraîné au vol à la tire.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/genwas-bestienmod-bg2-ee.43/"
         ],
@@ -12918,7 +12968,7 @@
     },
     {
         "name": "Gerri's NPC Portraits Pack",
-        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalons Questpack]], [[Assassinations]], BG1 Mini-Quests and Encounters, [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[BG Romantic Encounters]] &amp; 2, Secret of Bone Hill, [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
+        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalons Questpack]], [[Assassinations]], [[Baldur's Gate Mini Quests and Encounters]], [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[BG Romantic Encounters]] &amp; 2, [[The Secret of Bonehill]], [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
         "urls": [
             "https://github.com/gboeck/NSC-Portraits"
         ],
@@ -12966,18 +13016,20 @@
     },
     {
         "name": "Getting Rid of Anomen",
-        "description": "Basé sur l'histoire du même nom, ce mod ajoute une cinématique à la romance de Kelsey. Irenicus n'est plus qu'un lointain souvenir et la vie de Kelsey avec sa bien-aimée est merveilleuse... sauf pour le prétendant qui ne veut tout simplement pas partir... Ce mod nécessite [[Keto NPC]] et le mod [[Kelsey NPC]].",
+        "description": "Basé sur l'histoire du même nom, ce mod ajoute une cinématique à la romance de [[Kelsey NPC]]. Irenicus n'est plus qu'un lointain souvenir et la vie de Kelsey avec sa bien-aimée est merveilleuse... sauf pour le prétendant qui ne veut tout simplement pas partir... Ce mod nécessite [[Keto NPC]] et le mod [[Kelsey NPC]].",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
         "categories": [
-            "PNJ (autre)"
+            "Portrait et son"
         ],
         "games": [
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "GRoA"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -12991,7 +13043,7 @@
         "name": "Ggib Eht Tweak Pack",
         "description": "Il s'agit d'un mod pornographique qui propose plusieurs composants dont un système de prostitution, quelques objets pour adultes...|Désolé pour les amateurs, mais le site russe qui l'hébergeait n'existe plus...",
         "urls": [
-            "https://github.com/vbigiani/ggib_tweaks/archive/master.zip"
+            "https://github.com/vbigiani/ggib_tweaks"
         ],
         "categories": [
             "Gameplay"
@@ -13000,15 +13052,19 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ggib Eht"
+        ],
         "team": [],
-        "notes": [],
-        "is_weidu": null,
+        "notes": [
+            "[[Kelsey NPC]] semble requis."
+        ],
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2015"
     },
     {
         "name": "Ghareth NPC",
@@ -13023,7 +13079,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "jcompton"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -13567,7 +13625,9 @@
         "games": [
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Macready"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -14010,7 +14070,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Bonnie Rutledge"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -14685,7 +14747,9 @@
             "IWD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Kulyok"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -14873,7 +14937,7 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -14921,7 +14985,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Gimble"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -15750,7 +15816,9 @@
             "BGEE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Ghreyfain"
+        ],
         "team": [
             "Egrevyn",
             "Elgaern"
@@ -15963,7 +16031,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Luren"
+        ],
         "team": [
             "Luren"
         ],
@@ -16265,7 +16335,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Extrayez-le par dessus le mod officiel (plus haut). Plus précisément, le dossier item_rev de IRR doit écraser le dossier item_rev normal - confirmez pour écraser les dossiers ainsi que tous les fichiers qu'il vous demande. Vérifiez le fichier votre settings.ini dans votre répertoire item_rev pour personnaliser l'installation. Puis installez le mod normalement."
+            "Extrayez-le par dessus [[Item Revisions]]. Plus précisément, le dossier item_rev de IRR doit écraser le dossier item_rev normal - confirmez pour écraser les dossiers ainsi que tous les fichiers qu'il vous demande. Vérifiez le fichier votre settings.ini dans votre répertoire item_rev pour personnaliser l'installation. Puis installez le mod normalement."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -16292,7 +16362,7 @@
             "Lothringen"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
@@ -17098,7 +17168,10 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jcompton",
+            "Ghreyfain"
+        ],
         "team": [
             "Galathée"
         ],
@@ -17214,7 +17287,10 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Blue",
+            "Bons"
+        ],
         "team": [
             "Galathée",
             "Vazdru Solitaire"
@@ -17713,7 +17789,7 @@
     },
     {
         "name": "L'interplan",
-        "description": "Ce mod français a été créé par Deratiseur. L'interplan est un magasin qui vend des objets magiques et des sorts originaux. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE.|L'installation de ce mod ajoute en tout 65 nouveaux sorts sélectionnables par l'ensorceleur.",
+        "description": "Ce mod français a été créé par deratiseur. L'interplan est un magasin qui vend des objets magiques et des sorts originaux. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE.|L'installation de ce mod ajoute en tout 65 nouveaux sorts sélectionnables par l'ensorceleur.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31563-magasin-l-interplan-un-magasin-dedie-la-magie.html",
             "https://github.com/Deratiseur/Interplan"
@@ -17746,7 +17822,7 @@
     },
     {
         "name": "L'ogre et le gnome, une histoire de bleu",
-        "description": "Créé par Deratiseur, ce petit module français vous fera rencontrer deux protagonistes inhabituels : l'un est un ogre PNJ que vous pourrez enrôler (pour l'instant il est muet s'il est engagé) et l'autre un marchand gnome. Pour trouvez l'un et l'autre, posez vous les questions : où pourrait se cacher un ogre qui ne souhaite pas être vu et où pourrait se trouver un marchand ?",
+        "description": "Créé par deratiseur, ce petit module français vous fera rencontrer deux protagonistes inhabituels : l'un est un ogre PNJ que vous pourrez enrôler (pour l'instant il est muet s'il est engagé) et l'autre un marchand gnome. Pour trouvez l'un et l'autre, posez vous les questions : où pourrait se cacher un ogre qui ne souhaite pas être vu et où pourrait se trouver un marchand ?",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/l-ogre-et-le-gnome/28812-presentation-generale-du-module.html",
             "https://github.com/Deratiseur/Ogre"
@@ -17817,7 +17893,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "LadeJarl"
+        ],
         "team": [],
         "notes": [
             "Attention : Il vaut mieux éviter d'installer la \"GUI\" de BGT puisque ce mod modifie également les menus."
@@ -19300,7 +19378,7 @@
             "BGT"
         ],
         "authors": [
-            "Almateria"
+            "SlidMang0"
         ],
         "team": [],
         "notes": [],
@@ -19323,7 +19401,9 @@
         "games": [
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Dargor"
+        ],
         "team": [
             "Dargor"
         ],
@@ -20005,7 +20085,7 @@
         "notes": [
             "Notez que ce mod a été rendu obsolète par [[TobEX]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
         "languages": [],
@@ -21699,12 +21779,14 @@
             "https://sorcerers.net/Games/dl.php?s=PST&f=Torment/bmusic.zip"
         ],
         "categories": [
-            "Cosmétique"
+            "Portrait et son"
         ],
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Platter"
+        ],
         "team": [],
         "notes": [
             "Attention : Il s'agit d'un mod override qui nécessite de bien lire le readme."
@@ -22123,7 +22205,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "pro5"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -25031,7 +25115,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Japheth"
+        ],
         "team": [],
         "notes": [
             "Il est désormais obsolète et a été remplacé par le composant `Repos possible partout` de [[Tweaks Anthology]]."
@@ -25305,7 +25391,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kulyok"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -26201,7 +26289,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Maurolava"
+        ],
         "team": [],
         "notes": [
             "Utilisez le lien Beamdog qui vous permettra de télécharger la version EE réalisée par Greener. Elle ne fonctionne pas sur les jeux originaux."
@@ -27558,7 +27648,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "SixOfSpades"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod est réputé hyper bogué et risque de corrompre vos parties. Installez-le à vos risques et périls."
@@ -27922,7 +28014,7 @@
             "https://github.com/Gibberlings3/SoD-to-BG2EE-Item-Upgrade"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Sort et objet"
         ],
         "games": [
             "BG2EE",
@@ -27931,7 +28023,7 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -27953,7 +28045,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "plainab"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -28251,7 +28345,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Extrayez-le par dessus le mod officiel (plus haut). Plus précisément, le dossier spell_rev de SRR doit écraser le dossier spell_rev normal - confirmez pour écraser les dossiers ainsi que tous les fichiers qu'il vous demande. Vérifiez le fichier votre settings.ini dans votre répertoire spell_rev pour personnaliser l'installation. Puis installez le mod normalement."
+            "Extrayez-le par dessus [[Spell Revisions]]. Plus précisément, le dossier spell_rev de SRR doit écraser le dossier spell_rev normal - confirmez pour écraser les dossiers ainsi que tous les fichiers qu'il vous demande. Vérifiez le fichier votre settings.ini dans votre répertoire spell_rev pour personnaliser l'installation. Puis installez le mod normalement."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -30705,7 +30799,9 @@
             "BGT",
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Echon"
+        ],
         "team": [],
         "notes": [
             "Depuis la version 2.0, le mod est désormais compatible avec BGT, BG1Tutu et BG:EE. Attention, il s'agit d'une version bêta. Mais à cette occasion, la compatibilité avec BG a disparu. Utilisez ce <a href=\"http://mods.pocketplane.net/FotDv107.rar\">lien direct</a> pour télécharger la version précédente compatible BG-TotSC."
@@ -30928,7 +31024,7 @@
         "last_update": "04-2024"
     },
     {
-        "name": "The Lure of Sirine's Call",
+        "name": "The Lure of the Sirine's Call",
         "description": "Ce mini-mod a pour cadre la zone au sud de Château-Suif et complète la quête de Sil et du phare abandonné sur la Côte des Épées. Il implique des sirènes (comme son nom l'indique), des pirates, des grottes remplies de trésors et d'autres nombreux périls. Bien que parfaite pour un druide, cette quête peut être jouée par toutes les classes sans perdre de contenu.",
         "urls": [
             "https://www.pocketplane.net/bg1tutu-enhancements/",
@@ -30945,7 +31041,10 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Ghreyfain",
+            "jastey"
+        ],
         "team": [
             "Egrevyn"
         ],
@@ -31230,7 +31329,7 @@
             "EET"
         ],
         "authors": [
-            "Isaya"
+            "Sir Billybob"
         ],
         "team": [
             "Lothringen"
@@ -31270,7 +31369,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kulyok"
+        ],
         "team": [
             "deratiseur",
             "rivvers"
@@ -31865,7 +31966,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Olga Silaeva"
+        ],
         "team": [
             "Eleima"
         ],
@@ -32786,7 +32889,10 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "SimDing0",
+            "Hendryk"
+        ],
         "team": [
             "Shodead",
             "JohnBob"
@@ -34141,7 +34247,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "SimDing0"
+        ],
         "team": [
             "Raphaël Mizrahi"
         ],
@@ -35415,7 +35523,7 @@
         "last_update": ""
     },
     {
-        "name": "Xan Friendship Path",
+        "name": "Xan's friendship path",
         "description": "Ce mod vous permet de vous lier d'amitié avec le célèbre elfe morose. Il comporte seize conversations distinctes, ainsi que cinq dialogues qui surviennent après certains évènements clés.",
         "urls": [
             "https://www.pocketplane.net/bg1tutu-enhancements/",
@@ -35431,7 +35539,9 @@
             "BGEE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kulyok"
+        ],
         "team": [
             "Eleima"
         ],
@@ -35518,7 +35628,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "igi"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -37098,7 +37210,10 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jcompton",
+            "Wynne"
+        ],
         "team": [
             "Thot",
             "Garfield",
