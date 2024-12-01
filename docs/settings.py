@@ -88,6 +88,27 @@ class Games(enum.StrEnum):
         return [cls.BG, cls.TUTU, cls.BGT, cls.BGEE, cls.SOD, cls.EET]
 
 
+categorie_names = [
+    "Patch non officiel",
+    "Utilitaire",
+    "Installation",
+    "Conversion",
+    "Conversion partielle",
+    "Conversion totale",
+    "Interface",
+    "Cosmétique",
+    "Portrait et son",
+    "Quête",
+    "PNJ recrutable",
+    "PNJ One Day",
+    "PNJ (autre)",
+    "Forgeron et marchand",
+    "Sort et objet",
+    "Kit",
+    "Gameplay",
+    "Personnalisation du groupe",
+]
+
 FLAG_DIR = "flags"
 SITE_DIR = "sites"
 

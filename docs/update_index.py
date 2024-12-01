@@ -5,28 +5,7 @@ import os
 # import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
 from models import Category, Mod
-from settings import Games, attrs_icon_data
-
-categorie_names = [
-    "Patch non officiel",
-    "Utilitaire",
-    "Installation",
-    "Conversion",
-    "Conversion partielle",
-    "Conversion totale",
-    "Interface",
-    "Cosmétique",
-    "Portrait et son",
-    "Quête",
-    "PNJ recrutable",
-    "PNJ One Day",
-    "PNJ (autre)",
-    "Forgeron et marchand",
-    "Sort et objet",
-    "Kit",
-    "Gameplay",
-    "Personnalisation du groupe",
-]
+from settings import Games, attrs_icon_data, categorie_names
 
 
 def main(env):

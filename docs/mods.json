@@ -8882,15 +8882,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Gamemacik"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2021"
     },
     {
         "name": "Ding0 Experience Fixer - DEF JAM",
@@ -36948,7 +36950,7 @@
             "http://www.shsforums.net/topic/61087-mod-sub-zero-companion/"
         ],
         "categories": [
-            "NPC recrutable"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE"
@@ -36972,7 +36974,7 @@
             "https://downloads.weaselmods.net/download/the-return-of-xzar-and-montaron/"
         ],
         "categories": [
-            "NPC recrutable"
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE"
@@ -36996,7 +36998,7 @@
             "https://downloads.weaselmods.net/download/bethany/"
         ],
         "categories": [
-            "NPC recrutable"
+            "PNJ recrutable"
         ],
         "games": [
             "IWDEE"
@@ -37020,7 +37022,7 @@
             "https://downloads.weaselmods.net/download/xikaszs-grove-of-chaos/"
         ],
         "categories": [
-            "NPC recrutable",
+            "PNJ recrutable",
             "Quête"
         ],
         "games": [
@@ -37169,31 +37171,6 @@
         "languages": [],
         "status": true,
         "last_update": "07-2024"
-    },
-    {
-        "name": "Dimension Gate: Or How TV Bunny searched TV Remote Control",
-        "description": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs, qui fonctionneront également dans les parties multijoueurs.",
-        "urls": [
-            "http://www.shsforums.net/files/file/1272-dimension-gate-or-how-tv-bunny-searched-tv-remote-control/"
-        ],
-        "categories": [
-            "Sort et objet"
-        ],
-        "games": [
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [
-            "Gamemacik"
-        ],
-        "team": [],
-        "notes": [],
-        "is_weidu": true,
-        "translation_state": false,
-        "safe": true,
-        "languages": [],
-        "status": true,
-        "last_update": "10-2021"
     },
     {
         "name": "B_Kits",
