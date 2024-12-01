@@ -64,7 +64,9 @@
             "SoD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Reddbane"
+        ],
         "team": [],
         "notes": [
             "Il s'agit d'un mod override qui écrase le fichier THAC0.2da."
@@ -74,7 +76,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2018"
     },
     {
         "name": "3.5e Pathfinder Universal (All Classes) Constitution Bonus",
@@ -91,7 +93,9 @@
             "SoD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Reddbane"
+        ],
         "team": [],
         "notes": [
             "Il s'agit d'un mod override qui écrase le fichier HPCONBON.2da."
@@ -101,7 +105,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2018"
     },
     {
         "name": "3.5e Weapon Style Rebalance",
@@ -120,7 +124,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Reddbane"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -128,7 +134,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2018"
     },
     {
         "name": "5E-style spellcasting",
@@ -229,7 +235,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "yellow hat elminster"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -242,7 +250,7 @@
             "ru"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2020"
     },
     {
         "name": "A Mod For The Orderly",
@@ -259,7 +267,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "cliffette"
+        ],
         "team": [
             "Sanctifer"
         ],
@@ -275,7 +285,7 @@
             "ru"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2020"
     },
     {
         "name": "AC's Miscellaneous Tweaks",
@@ -354,15 +364,17 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "theacefes"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2019"
     },
     {
         "name": "Achievements!",
@@ -462,7 +474,7 @@
             "cn"
         ],
         "status": true,
-        "last_update": "10-2024"
+        "last_update": "11-2024"
     },
     {
         "name": "Add Morningstar of Action +4 to random treasure list",
@@ -504,7 +516,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Rhaella"
+        ],
         "team": [
             "Ixyon"
         ],
@@ -598,17 +612,19 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [
             "Ce mod a été archivé par son auteur qui ne semble pas vouloir lui donner suite."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2020"
     },
     {
         "name": "Aerie Portrait Pack",
@@ -792,15 +808,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2019"
     },
     {
         "name": "Ajoc's Mini Mod",
@@ -885,7 +903,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "10-2024"
+        "last_update": "11-2024"
     },
     {
         "name": "Alassa",
@@ -1044,7 +1062,7 @@
             "ru"
         ],
         "status": true,
-        "last_update": "04-2020"
+        "last_update": "11-2024"
     },
     {
         "name": "Almateria's Enhanced Smaller Locations",
@@ -1084,7 +1102,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Almateria"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -1092,7 +1112,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2023"
     },
     {
         "name": "Almateria's Quest 2",
@@ -1135,7 +1155,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Almateria"
+        ],
         "team": [
             "Isaya"
         ],
@@ -1204,7 +1226,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "AnnabelleRose"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod écrase beaucoup de fichiers de sorts du jeu et n'est donc pas compatible avec de nombreux mods de sorts."
@@ -1214,7 +1238,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2007"
     },
     {
         "name": "Alternate Goo Portrait",
@@ -1259,7 +1283,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "berelinde"
+        ],
         "team": [
             "Galathée",
             "Freddy_Gwendo",
@@ -1295,15 +1321,17 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Amaurea"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Amaurea's BG2 Portraits",
@@ -1327,15 +1355,17 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Amaurea"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Amazon Kit (beta)",
@@ -1379,7 +1409,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Meira"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -1387,7 +1419,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Ammo belts and bottomless bags",
@@ -1429,7 +1461,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Sister Vigilante"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -1456,7 +1490,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Adul"
+        ],
         "team": [],
         "notes": [
             "Si vous comptez l'utiliser, commencez une partie multi-joueurs et créez un compagnon Léopard, mais surtout pas pour le premier personnage."
@@ -1466,7 +1502,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2010"
     },
     {
         "name": "Animal Companions",
@@ -1489,7 +1525,8 @@
             "IWDEE"
         ],
         "authors": [
-            "thisisulb"
+            "thisisulb",
+            "Ulb"
         ],
         "team": [
             "Freddy_Gwendo"
@@ -1504,7 +1541,7 @@
             "it"
         ],
         "status": true,
-        "last_update": "12-2018"
+        "last_update": "09-2018"
     },
     {
         "name": "Animate Dead Now",
@@ -1577,7 +1614,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Barren Fischa"
+        ],
         "team": [
             "Galathée"
         ],
@@ -1644,7 +1683,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [
             "JohnBob"
         ],
@@ -1661,7 +1702,7 @@
             "es"
         ],
         "status": true,
-        "last_update": "07-2023"
+        "last_update": "09-2023"
     },
     {
         "name": "Apprentice",
@@ -1730,7 +1771,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
@@ -1768,7 +1811,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2012"
     },
     {
         "name": "Arcane Archer Redone",
@@ -1888,7 +1931,9 @@
             "BG",
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Icendoan"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -1896,7 +1941,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2009"
     },
     {
         "name": "Arena",
@@ -1911,7 +1956,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Omni"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -1919,7 +1966,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2010"
     },
     {
         "name": "Ariena the Half Orc",
@@ -1934,7 +1981,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Deathsangel"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
@@ -1944,7 +1993,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2008"
     },
     {
         "name": "Armiger Kit for BG2: ToB",
@@ -2007,7 +2056,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Sir BillyBob"
+        ],
         "team": [],
         "notes": [
             "Ce mod est incompatible avec [[De'Arnise Romance]]."
@@ -2207,7 +2258,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Pustak Stropowy"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -2215,7 +2268,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2021"
     },
     {
         "name": "Ashes of Embers",
@@ -2410,7 +2463,7 @@
             "es"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Auden NPC",
@@ -2572,7 +2625,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Aeviannce"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -2600,7 +2655,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Bookwyrme"
+        ],
         "team": [],
         "notes": [
             "Officiellement, ce mod est en bêta."
@@ -2610,7 +2667,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2013"
     },
     {
         "name": "Aurora's Shoes and Boots",
@@ -2663,7 +2720,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Badgert"
+        ],
         "team": [
             "Le Marquis",
             "deratiseur"
@@ -2836,7 +2895,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "erebusant"
+        ],
         "team": [
             "Galathée"
         ],
@@ -2848,7 +2909,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2009"
     },
     {
         "name": "Azure NPC Romance",
@@ -2940,7 +3001,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [
             "Le Marquis",
             "Zooloo",
@@ -3024,7 +3087,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Adul"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -3032,7 +3097,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2010"
     },
     {
         "name": "BG1 NPC Portrait Pack",
@@ -3052,12 +3117,14 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Domi"
+        ],
         "team": [
             "Anomaly"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
@@ -3081,7 +3148,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "AstroBryGuy"
+        ],
         "team": [
             "Eleima",
             "Galathée",
@@ -3124,7 +3193,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "AstroBryGuy"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -3132,7 +3203,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "02-2015"
+        "last_update": "02-2019"
     },
     {
         "name": "BG1 NPCs at Beginning",
@@ -3339,7 +3410,9 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "Zed Nocear"
+        ],
         "team": [],
         "notes": [
             "À n'utiliser que pour un jeu BG original, sans Tutu ni BGT."
@@ -3349,7 +3422,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2013"
     },
     {
         "name": "BG2 Alternate Soundtrack",
@@ -3365,15 +3438,17 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "theacefes"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "08-2018"
+        "last_update": "02-2019"
     },
     {
         "name": "BG2 Character Portrait Mod (BG2CPM)",
@@ -3475,7 +3550,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Insomniator"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -3642,7 +3719,9 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Renegade"
+        ],
         "team": [],
         "notes": [
             "Attention : il ne fonctionne qu'avec BG:EE version 1.3 et écrase les fichiers."
@@ -3652,7 +3731,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2015"
     },
     {
         "name": "BG2:EE GUI To BG:EE",
@@ -3804,7 +3883,7 @@
         "safe": false,
         "languages": [],
         "status": "obsolete",
-        "last_update": "02/2013"
+        "last_update": "02-2013"
     },
     {
         "name": "BG:EE Leveled Spawns Mod",
@@ -3871,7 +3950,9 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "requiem22"
+        ],
         "team": [],
         "notes": [
             "Attention : comme sa dernière mise à jour date du 23 décembre 2012, il est fort probable qu'il ne soit plus compatible avec les jeux bénéficiant d'un patch 1.3 et ultérieur."
@@ -3881,7 +3962,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2012"
     },
     {
         "name": "BGSpawn",
@@ -3899,7 +3980,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "melkor_morgoth75"
+        ],
         "team": [
             "Isaya"
         ],
@@ -3936,7 +4019,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Leonardo Watson"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -3944,7 +4029,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2009"
     },
     {
         "name": "BGT Tweak Pack",
@@ -3958,7 +4043,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ascension64"
+        ],
         "team": [
             "Anomaly",
             "Isaya"
@@ -3971,7 +4058,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2024"
     },
     {
         "name": "BP Series Party AI Scripts",
@@ -3988,7 +4075,9 @@
             "BGEE",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "horred the plague"
+        ],
         "team": [
             "Isaya",
             "Graoumf"
@@ -3999,7 +4088,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2017"
     },
     {
         "name": "BP-Balancer",
@@ -4013,7 +4102,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Leonardo Watson"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -4021,7 +4112,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2022"
     },
     {
         "name": "Back to Baldur's Gate",
@@ -4118,7 +4209,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "hlidskialf"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -4126,7 +4219,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2010"
     },
     {
         "name": "Bags of Torment",
@@ -4310,7 +4403,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [
             "Le Marquis",
             "Isaya",
@@ -4327,7 +4422,7 @@
             "it"
         ],
         "status": true,
-        "last_update": "12-2023"
+        "last_update": "08-2024"
     },
     {
         "name": "Baldur's Gate Trilogy-WeiDU",
@@ -4381,7 +4476,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "AnnabelleRose"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -4391,7 +4488,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2008"
     },
     {
         "name": "Baldur's Goth II",
@@ -4405,7 +4502,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "AnnabelleRose"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -4415,7 +4514,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2008"
     },
     {
         "name": "Baldur's Goth Tutu",
@@ -4429,7 +4528,9 @@
         "games": [
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "AnnabelleRose"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -4439,7 +4540,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2010"
     },
     {
         "name": "Balduran's Seatower",
@@ -4509,7 +4610,9 @@
         "games": [
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lassal"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -4613,7 +4716,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Gamemacik"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -4621,7 +4726,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2021"
     },
     {
         "name": "Barbed Club of Pain",
@@ -4637,7 +4742,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "artificial_sunlight"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -4645,7 +4752,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2022"
     },
     {
         "name": "Bard Song Switching (Icewind Mode)",
@@ -4654,8 +4761,7 @@
             "http://www.shsforums.net/files/file/743-bard-song-switching-icewind-mode-for-bg2-and-ee-series/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -4666,7 +4772,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "shohy"
+        ],
         "team": [
             "Graoumf"
         ],
@@ -4676,7 +4784,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2021"
     },
     {
         "name": "Bardic Appraisal",
@@ -4686,7 +4794,6 @@
             "https://github.com/Gibberlings3/Bardic_Appraisal"
         ],
         "categories": [
-            "Kit",
             "Gameplay"
         ],
         "games": [
@@ -4833,17 +4940,19 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [
             "deratiseur"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2024"
     },
     {
         "name": "Berserker Minsc",
@@ -5022,7 +5131,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Zyraen"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -5048,7 +5159,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Leonardo Watson"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -5060,7 +5173,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2023"
     },
     {
         "name": "Biddekelorak",
@@ -5154,7 +5267,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Icendoan"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -5162,7 +5277,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2008"
     },
     {
         "name": "Black Pits in BGEE",
@@ -5275,7 +5390,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "x0abar"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -5283,7 +5400,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2013"
     },
     {
         "name": "Blackguard paladin kit for BG2",
@@ -5299,7 +5416,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "IN1"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -5307,7 +5426,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2012"
     },
     {
         "name": "Blonde Imoen",
@@ -5331,15 +5450,17 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Grim Squeaker"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2023"
     },
     {
         "name": "Blood of the Martyr",
@@ -5354,7 +5475,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Badgert"
+        ],
         "team": [
             "SkipCool"
         ],
@@ -5364,7 +5487,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2009"
     },
     {
         "name": "Boards O' Magick Item Pack",
@@ -5408,7 +5531,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Immortality"
+        ],
         "team": [
             "Elgaern"
         ],
@@ -5506,7 +5631,9 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "Icendoan"
+        ],
         "team": [],
         "notes": [
             "Attention : il n'a pas été testé !"
@@ -5516,7 +5643,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2008"
     },
     {
         "name": "Brage's Redemption",
@@ -5735,15 +5862,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2023"
     },
     {
         "name": "Britt, the One-Hour Unjoinable NPC",
@@ -5998,7 +6127,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kitanna"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -6008,7 +6139,7 @@
             "en"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2022"
     },
     {
         "name": "Card kit",
@@ -6132,7 +6263,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "StrixO"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -6140,7 +6273,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2010"
     },
     {
         "name": "Cerberus",
@@ -6155,7 +6288,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Jarno Mikkola"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -6165,7 +6300,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2013"
     },
     {
         "name": "Cernd Friendship",
@@ -6183,7 +6318,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [
             "Ce mod est désormais inclu dans [[Interaction Expansion Project]]."
@@ -6587,7 +6724,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [
             "Miry Wolfwood",
             "Le Marquis",
@@ -6652,15 +6791,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "cirerrek"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Cirerrek's AI Scripts: eSeries",
@@ -6680,17 +6821,19 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "cirerrek"
+        ],
         "team": [
             "Sir Alexander"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Cirerrek's AI Scripts: gMinion",
@@ -6711,15 +6854,17 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "cirerrek"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Cirerrek's AI Scripts: iSeries (beta)",
@@ -6733,15 +6878,17 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "cirerrek"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Cirerrek's AI Scripts: tSeries",
@@ -6756,15 +6903,17 @@
             "PST",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "cirerrek"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Cirerrek's AI Scripts: uScript",
@@ -6779,17 +6928,19 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "cirerrek"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod n'est plus maintenu depuis des années et est considéré comme obsolète par l'ensemble de la communauté de moddeurs et de joueurs."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Cities Explored",
@@ -6828,7 +6979,9 @@
             "BG2",
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Sir BillyBob"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -6836,7 +6989,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2010"
     },
     {
         "name": "Classic Gameplay Window for BG:EE",
@@ -6850,7 +7003,9 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Kwiat_W"
+        ],
         "team": [],
         "notes": [
             "Attention : comme sa dernière mise à jour date du 13 décembre 2012, il est fort probable qu'il ne soit plus compatible avec les jeux bénéficiant d'un patch 1.3 et ultérieur. De plus, il s'agit d'un mod override qu'il est impossible de désinstaller. Évitez-le autant que possible."
@@ -6860,7 +7015,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2012"
     },
     {
         "name": "Classkits for NPCs",
@@ -7081,7 +7236,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Zyraen"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -7089,7 +7246,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2011"
     },
     {
         "name": "Congenio's Pebble Collection - Use Multiple Ioun Stones",
@@ -7188,7 +7345,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -7243,7 +7402,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "freche"
+        ],
         "team": [],
         "notes": [
             "Dans BG2:EE, il est sensé ajouter ses objets dans le Donjon d'Irenicus et chez le marchand de flèches sur la Promenade de Waukyne, mais le code n'a pas été écrit..."
@@ -7253,7 +7414,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2016"
     },
     {
         "name": "Convenient Enhanced Edition NPCs",
@@ -7382,10 +7543,12 @@
             "BGEE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Domi"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -7733,7 +7896,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "AnnabelleRose"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -7743,7 +7908,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2008"
     },
     {
         "name": "Crossmod Banter Pack for BG2",
@@ -7761,10 +7926,12 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Grim Squeaker"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -7941,7 +8108,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Duality"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -7949,7 +8118,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2009"
     },
     {
         "name": "Duality's Odd Quest Mod (Imnesvale)",
@@ -7967,7 +8136,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Duality"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -8055,7 +8226,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
@@ -8154,7 +8327,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Tempest"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -8162,7 +8337,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2013"
     },
     {
         "name": "Dark Horizons",
@@ -8342,7 +8517,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Ancalagon el Negro"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -8375,7 +8552,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Daulmakan"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -8383,7 +8562,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2013"
     },
     {
         "name": "De'Arnise Romance",
@@ -8479,7 +8658,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "hlidskialf"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -8487,7 +8668,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2009"
     },
     {
         "name": "Deidre and Joluv in BG:EE",
@@ -8601,7 +8782,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Badgert"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -8636,12 +8819,12 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2024"
     },
     {
         "name": "Derat's Unused Kits Pack (DUKP)",
@@ -8815,7 +8998,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "shohy"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -8823,7 +9008,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2017"
     },
     {
         "name": "Difficulty and Tweaks mod",
@@ -8989,7 +9174,9 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "artificial_sunlight"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -8997,7 +9184,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2014"
     },
     {
         "name": "Divine Intervention",
@@ -9042,7 +9229,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [
             "La Voix 2 la Sagesse",
             "Sanctifer"
@@ -9058,7 +9247,7 @@
             "pl"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "DnD 3.5 Rules in BG:EE and BG2:EE",
@@ -9103,7 +9292,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Badgert"
+        ],
         "team": [
             "JohnBob"
         ],
@@ -9241,7 +9432,9 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "berelinde"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -9502,7 +9695,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Xicloing"
+        ],
         "team": [],
         "notes": [
             "Utilisez le lien SHS pour BGT et l'autre pour Tutu."
@@ -9512,7 +9707,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2010"
     },
     {
         "name": "Droquil by Ellimar",
@@ -9549,7 +9744,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Daulmakan"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -9557,7 +9754,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2013"
     },
     {
         "name": "Druid Grove makeover",
@@ -9624,7 +9821,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "hlidskialf"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -9632,7 +9831,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2007"
     },
     {
         "name": "Dudleyfix pour BG (et ToSC)",
@@ -9812,12 +10011,12 @@
         "notes": [
             "Attention : Notez que le mod inclut du contenu mature, que certains peuvent ne pas trouver à leur goût."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Dvaradime, a dwarven fighter / mage / thief",
@@ -9832,15 +10031,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2024"
     },
     {
         "name": "Dwarven Defender Rebalancing",
@@ -10330,7 +10531,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Headbanger"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod est incompatible avec les autres mods qui introduisent aussi Eldoth dans BG2, comme [[Baldur's Gate 1 NPCs in SoA & ToB]]."
@@ -10340,7 +10543,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2008"
     },
     {
         "name": "Eldritch Magic",
@@ -10499,7 +10702,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ascension64"
+        ],
         "team": [
             "Isaya"
         ],
@@ -10511,7 +10716,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2010"
     },
     {
         "name": "Enchant the Missile Launchers",
@@ -10557,7 +10762,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [
             "Shodead",
             "Freddy_Gwendo",
@@ -10780,7 +10987,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Enkida"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -10788,7 +10997,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2012"
     },
     {
         "name": "Epic Endeavours",
@@ -10802,7 +11011,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Isaya"
+        ],
         "team": [
             "Egrevyn",
             "Walar"
@@ -10813,7 +11024,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2010"
     },
     {
         "name": "Epic Thieving",
@@ -10941,7 +11152,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Rhaella"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -10951,7 +11164,7 @@
             "en"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2019"
     },
     {
         "name": "Every Mod and Dog",
@@ -10968,7 +11181,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "cliffette"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -10983,7 +11198,7 @@
             "fr"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2020"
     },
     {
         "name": "Everybody Is Just So Scary",
@@ -11055,7 +11270,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Sir BillyBob"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -11063,7 +11280,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2007"
     },
     {
         "name": "Expanded Classes and Kits",
@@ -11107,7 +11324,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Leomar"
+        ],
         "team": [
             "JohnBob",
             "Freddy_Gwendo"
@@ -11142,7 +11361,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ascension64"
+        ],
         "team": [
             "Isaya"
         ],
@@ -11152,7 +11373,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2010"
     },
     {
         "name": "Experience cap remover and new HLA for F/M/C and F/M/T",
@@ -11304,7 +11525,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Mistress Elysia"
+        ],
         "team": [
             "Stargazer"
         ],
@@ -11338,7 +11561,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "berelinde"
+        ],
         "team": [
             "Galathée"
         ],
@@ -11400,7 +11625,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Almateria"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod est bogué ! La première cutscene fige le jeu. En attendant une mise à jour du mod, ouvrez le fichier setup-fakeimport.tp2 dans un éditeur de texte et insérer la ligne <span class=\"tp2\">Continue()</span> après les lignes 66 et 136, et avant END."
@@ -11410,7 +11637,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2013"
     },
     {
         "name": "Faldorn NPC for BG2:EE",
@@ -11425,15 +11652,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2023"
     },
     {
         "name": "Faren NPC",
@@ -11449,7 +11678,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Miss Sakaki"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -11457,7 +11688,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2015"
     },
     {
         "name": "Faster Baldur's Gate (Firewalker Lite)",
@@ -11496,15 +11727,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2023"
     },
     {
         "name": "Fiars Beta",
@@ -11518,7 +11751,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Bardess"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -11526,7 +11761,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2012"
     },
     {
         "name": "Filipe_FR's All NPCs at the Beginning",
@@ -11603,17 +11838,19 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [
             "deratiseur"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2023"
     },
     {
         "name": "FinnJO's Subrace",
@@ -11734,7 +11971,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Yovaneth"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -11742,7 +11981,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2021"
     },
     {
         "name": "Flamewing's Tweaks for Baldur's Gate II",
@@ -11837,15 +12076,17 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "cliffette"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2019"
     },
     {
         "name": "Font Mod by Platter",
@@ -11905,17 +12146,19 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [
             "deratiseur"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2024"
     },
     {
         "name": "Forgotten Armament",
@@ -11974,7 +12217,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Framed: Alternate Chapter 6",
@@ -11991,7 +12234,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lauriel"
+        ],
         "team": [
             "JohnBob"
         ],
@@ -12104,12 +12349,14 @@
             "BGT",
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "erik"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour les jeux EE dont l'auteur n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -12128,15 +12375,17 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2023"
     },
     {
         "name": "G3 anniversary Mod",
@@ -12154,10 +12403,12 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -12182,15 +12433,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2021"
     },
     {
         "name": "Gambler",
@@ -12321,12 +12574,14 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "berelinde"
+        ],
         "team": [],
         "notes": [
             "De par son contenu, il est incompatible avec [[Garrick : les contes d'un troubadour]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -12372,7 +12627,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "berelinde"
+        ],
         "team": [
             "Galathée"
         ],
@@ -12404,13 +12661,15 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "berelinde"
+        ],
         "team": [
             "Machiavélique",
             "Galathée"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": "wip",
         "safe": true,
         "languages": [],
@@ -12475,7 +12734,9 @@
             "PST",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "the bigg"
+        ],
         "team": [
             "Isaya"
         ],
@@ -12638,7 +12899,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Caedwyr"
+        ],
         "team": [
             "Zooloo"
         ],
@@ -12784,7 +13047,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Badgert"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -12792,7 +13057,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2010"
     },
     {
         "name": "GhostDog's PS:T UI",
@@ -12807,7 +13072,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "ghostdog"
+        ],
         "team": [
             "mirandir"
         ],
@@ -12819,7 +13086,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2012"
     },
     {
         "name": "Glam's NPC Pack",
@@ -12838,15 +13105,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Glam Vrock"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "07-2019"
+        "last_update": "05-2020"
     },
     {
         "name": "Gloran NPC",
@@ -13022,7 +13291,9 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Renegade"
+        ],
         "team": [],
         "notes": [
             "Attention : il ne fonctionne qu'avec BG:EE version 1.3 et il écrase les fichiers."
@@ -13032,7 +13303,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2015"
     },
     {
         "name": "Grey the Dog",
@@ -13051,7 +13322,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [],
         "notes": [
             "Pour l'instant, bien que compatible le mod n'a pas encore de contenu pour BG2:EE."
@@ -13125,7 +13398,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -13133,7 +13408,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2018"
     },
     {
         "name": "Haiass el Lobo",
@@ -13153,7 +13428,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Immortality"
+        ],
         "team": [
             "Xicloing"
         ],
@@ -13189,7 +13466,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "berelinde"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
@@ -13259,12 +13538,14 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "DavidW"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -13308,7 +13589,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ascension64"
+        ],
         "team": [
             "Isaya"
         ],
@@ -13320,7 +13603,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2023"
     },
     {
         "name": "Harden Coonors Tutu-AddOn (allemand)",
@@ -13457,7 +13740,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Badgert"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -13489,7 +13774,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Adul"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -13497,7 +13784,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2010"
     },
     {
         "name": "Helarine, Doomguide of Kelemvor",
@@ -13566,7 +13853,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Almateria"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -13574,7 +13863,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2015"
     },
     {
         "name": "Hephernaan BG2",
@@ -13589,15 +13878,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2024"
     },
     {
         "name": "Herbs and Potions Add-in for BG1",
@@ -13694,15 +13985,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Austin"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "08-2024"
+        "last_update": "11-2024"
     },
     {
         "name": "Hessa NPC",
@@ -13767,7 +14060,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Zyraen"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -13775,7 +14070,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2008"
     },
     {
         "name": "High Level Abilities (a ToB mod for casters)",
@@ -13790,7 +14085,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "vilkacis"
+        ],
         "team": [],
         "notes": [
             "Comme il est très ancien, préférez-lui le composant de [[Sword Coast Stratagems]] qui fait la même chose."
@@ -13800,7 +14097,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2010"
     },
     {
         "name": "High Level Abilities as Innate Abilities",
@@ -13947,7 +14244,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ellderon"
+        ],
         "team": [],
         "notes": [
             "Les deux derniers composants optionnels écrasent certains fichiers .cre du jeu : à installer en connaissance de cause !"
@@ -13957,7 +14256,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2009"
     },
     {
         "name": "Homeward Bound",
@@ -14011,12 +14310,12 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2024"
     },
     {
         "name": "Horace",
@@ -14063,7 +14362,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "smeagolheart"
+        ],
         "team": [],
         "notes": [
             "Attention : Comme ce mod n'a pas été mis à jour depuis décembre 2014, il n'est peut-être plus compatible avec les dernières versions du jeu."
@@ -14073,7 +14374,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2014"
     },
     {
         "name": "Houyi - Luan's high-quality archery store",
@@ -14116,7 +14417,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "SConrad"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -14163,7 +14466,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Immortality"
+        ],
         "team": [
             "Althéa"
         ],
@@ -14173,7 +14478,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2009"
     },
     {
         "name": "I Hate Undead Kitpack",
@@ -14256,7 +14561,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -14470,15 +14777,17 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "DavidW"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "IWD2 Bonus Merchant",
@@ -14687,13 +14996,15 @@
             "EET",
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [
             "Freddy_Gwendo",
             "mickabouille"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": "todo",
         "safe": true,
         "languages": [
@@ -14754,17 +15065,19 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "DavidW"
+        ],
         "team": [],
         "notes": [
             "Il nécessite l'installation de [[IWD-in-BG2 Fixpack/Tweaks]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Icewind Gate II",
@@ -14803,7 +15116,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -14811,7 +15126,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2011"
     },
     {
         "name": "Imoen 4 ever",
@@ -14829,10 +15144,12 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -14878,15 +15195,17 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Impish Makeover",
@@ -15001,7 +15320,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Gwendolyne"
+        ],
         "team": [
             "Mathrim Cauthon"
         ],
@@ -15033,15 +15354,17 @@
             "BG",
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "NiGHTMARE"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Improved Battles",
@@ -15180,7 +15503,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Leomar"
+        ],
         "team": [
             "Fredy_Gwendo"
         ],
@@ -15241,7 +15566,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "cirerrek"
+        ],
         "team": [
             "Isaya"
         ],
@@ -15251,7 +15578,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "06-2017"
+        "last_update": "02-2019"
     },
     {
         "name": "Improved Movement speed out of combat",
@@ -15400,12 +15727,12 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Indira NPC",
@@ -15458,7 +15785,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Erephine"
+        ],
         "team": [
             "Freddy Gwendo"
         ],
@@ -15470,7 +15799,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2024"
     },
     {
         "name": "Infinity Collection Portrait Packs",
@@ -15495,7 +15824,9 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -15523,7 +15854,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "EmPhasis"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -15531,7 +15864,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2011"
     },
     {
         "name": "Infinity Sounds",
@@ -15735,7 +16068,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "K4thos"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -15743,7 +16078,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2014"
     },
     {
         "name": "Ishlilka the Wizard Slayer",
@@ -15791,7 +16126,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Rhaella"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -15817,7 +16154,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Rhaella"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -15849,17 +16188,19 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Wisp"
+        ],
         "team": [],
         "notes": [
             "Contrairement aux autres mods, touts les components du groupe \"options aléatoires\" doivent être installés AVANT le composant principal."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "09-2018"
+        "last_update": "02-2019"
     },
     {
         "name": "Item Revisions",
@@ -15901,7 +16242,7 @@
             "es"
         ],
         "status": true,
-        "last_update": "10-2024"
+        "last_update": "10-2023"
     },
     {
         "name": "Item Revisions Revised",
@@ -16020,7 +16361,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
@@ -16055,15 +16398,17 @@
             "IWD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "JPS"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Jacob's Ladder",
@@ -16143,7 +16488,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "shohy"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -16151,7 +16498,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2010"
     },
     {
         "name": "Jan's Alchemy",
@@ -16169,7 +16516,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Leomar"
+        ],
         "team": [
             "SkipCool"
         ],
@@ -16200,7 +16549,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Leomar"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -16208,7 +16559,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2009"
     },
     {
         "name": "Jarl's BGT Adventure Pack",
@@ -16272,7 +16623,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [
             "JohnBob"
         ],
@@ -16412,7 +16765,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "joshuar9476"
+        ],
         "team": [],
         "notes": [
             "Attention : La version SHS n'est pas compatible avec les jeux EE. La version Beamdog est compatible avec les jeux EE et installe en plus un profil d'Amazone."
@@ -16422,7 +16777,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2016"
     },
     {
         "name": "Jondalar Fix for BGT",
@@ -16450,7 +16805,7 @@
             "en"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2011"
     },
     {
         "name": "Journal Fixes for BG:EE, BG2:EE and SoD",
@@ -16544,7 +16899,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "hlidskialf"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -16552,7 +16909,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2007"
     },
     {
         "name": "Kale, a Halfling Barbarian",
@@ -16905,15 +17262,17 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2024"
     },
     {
         "name": "Kiara-Zaiya",
@@ -16966,7 +17325,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Deathsangel"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
@@ -16976,7 +17337,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2007"
     },
     {
         "name": "Killing Wolf NPC",
@@ -16991,7 +17352,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Badgert"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -16999,7 +17362,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2009"
     },
     {
         "name": "Kim NPC",
@@ -17073,7 +17436,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "hlidskialf"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -17081,7 +17446,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2007"
     },
     {
         "name": "Kit Mule",
@@ -17163,7 +17528,9 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "smeagolheart"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -17171,7 +17538,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2013"
     },
     {
         "name": "Kitanya NPC",
@@ -17213,7 +17580,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Domi"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -17304,7 +17673,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Konalan"
+        ],
         "team": [],
         "notes": [
             "Certains ont réussi à l'installer sur BG2:EE, mais il n'a pas été codé pour. Alors, si vous le tentez sur un jeu EE, c'est à vos risques et périls !"
@@ -17314,7 +17685,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2009"
     },
     {
         "name": "L'anna NPC",
@@ -17333,12 +17704,12 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2024"
     },
     {
         "name": "L'interplan",
@@ -17420,7 +17791,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ancalagon el Negro"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -17428,7 +17801,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2010"
     },
     {
         "name": "LadeJarl’s Tutu GUI (Original BG1 GUI)",
@@ -17496,17 +17869,19 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [
             "Écrit par Lava en 2008 pour son usage personnel, puis partagé avec la communauté, son auteur a décidé de l'archiver et de ne plus le maintenir, considérant qu'il n'était pas à la hauteur..."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2020"
     },
     {
         "name": "Le Champion De Bhaal",
@@ -17915,18 +18290,20 @@
             "BGT",
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Nythrun"
+        ],
         "team": [
             "Graoumf",
             "Isaya"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2019"
     },
     {
         "name": "Level Up Icon Tweak",
@@ -18003,15 +18380,17 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2024"
     },
     {
         "name": "Life in Low Relief",
@@ -18185,7 +18564,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Shed"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -18193,7 +18574,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2009"
     },
     {
         "name": "Lore From Learning",
@@ -18213,7 +18594,9 @@
             "EET",
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -18541,7 +18924,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "macholy"
+        ],
         "team": [
             "Graoumf"
         ],
@@ -18551,7 +18936,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2011"
     },
     {
         "name": "Macholy's Tweak Pack",
@@ -18834,7 +19219,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Icendoan"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -18842,7 +19229,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2008"
     },
     {
         "name": "Mal des Vampirismus",
@@ -18912,7 +19299,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Almateria"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -18920,7 +19309,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2013"
     },
     {
         "name": "Map Notes",
@@ -19016,7 +19405,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Immortality"
+        ],
         "team": [],
         "notes": [
             "Ce mod est en espagnol"
@@ -19026,7 +19417,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2011"
     },
     {
         "name": "Max HP on Level Up",
@@ -19066,7 +19457,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Jarno Mikkola"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -19074,7 +19467,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2010"
     },
     {
         "name": "Menace sur le Royaume de Diamant Éternel (WIP)",
@@ -19227,7 +19620,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Immortality"
+        ],
         "team": [
             "Althéa"
         ],
@@ -19809,15 +20204,17 @@
             "BGT",
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Moinesse"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Monastic Orders of Faerûn",
@@ -19904,7 +20301,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "GeN1e"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, le code n'est pas optimisé et présente quelques bugs."
@@ -19914,7 +20313,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2007"
     },
     {
         "name": "Monsters Beat Enchantment",
@@ -19959,7 +20358,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "hlidskialf"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -19967,7 +20368,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2009"
     },
     {
         "name": "More Encounters - Quest Mod für BG1",
@@ -20134,7 +20535,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "hlidskialf"
+        ],
         "team": [
             "BohemianReader"
         ],
@@ -20146,7 +20549,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2010"
     },
     {
         "name": "Mortuary-Be-Gone",
@@ -20207,7 +20610,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ascension64"
+        ],
         "team": [],
         "notes": [
             "Attention, de l'aveu de son créateur : « This mod is uncompleted! Since I'm not very experienced at the whole modding thing, »."
@@ -20217,7 +20622,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2008"
     },
     {
         "name": "Multi-Portrait mod",
@@ -20325,7 +20730,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "hlidskialf"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -20333,7 +20740,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2010"
     },
     {
         "name": "Mur'Neth",
@@ -20351,7 +20758,9 @@
             "EET",
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Andyr"
+        ],
         "team": [
             "Egrevyn",
             "Garfield"
@@ -20520,7 +20929,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "SConrad"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -20528,7 +20939,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2008"
     },
     {
         "name": "NPC Enhanced for Everyone",
@@ -20623,17 +21034,19 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Idobek"
+        ],
         "team": [
             "Thot"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "NPC KitPack",
@@ -20698,7 +21111,7 @@
             "en"
         ],
         "status": true,
-        "last_update": "11/2019"
+        "last_update": "11-2019"
     },
     {
         "name": "NPC Tweak",
@@ -20716,17 +21129,19 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Orions_Stardom"
+        ],
         "team": [
             "Graoumf"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "09-2016"
+        "last_update": "12-2021"
     },
     {
         "name": "Najebawszy Mod",
@@ -20805,15 +21220,19 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Miss Sakaki"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "La dernière mise à jour date de 2013. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
+        ],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2013"
     },
     {
         "name": "Navarra",
@@ -20829,15 +21248,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kitanna"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2022"
     },
     {
         "name": "Neera Banters",
@@ -20881,7 +21302,9 @@
             "BGEE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -20934,7 +21357,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -21091,15 +21516,17 @@
             "IWD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "NiGHTMARE"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Night of the Blinking Dead",
@@ -21113,17 +21540,19 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [
             "deratiseur"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2024"
     },
     {
         "name": "Nikita NPC",
@@ -21171,7 +21600,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Deva"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
@@ -21381,7 +21812,9 @@
             "BGEE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "erebusant"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -21409,7 +21842,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Andrea C."
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -21466,12 +21901,12 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2024"
     },
     {
         "name": "Octavian's Drizzt",
@@ -21509,15 +21944,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2024"
     },
     {
         "name": "Old mods Pack",
@@ -21532,7 +21969,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Leomar"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -21540,7 +21979,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2009"
     },
     {
         "name": "Olvyn Spells",
@@ -21628,7 +22067,9 @@
             "IWD",
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Erephine"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -21656,7 +22097,9 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "Erephine"
+        ],
         "team": [],
         "notes": [
             "Attention : le troisième composant n'est pas compatible avec le mod [[One Pixel Productions]]."
@@ -21666,7 +22109,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2011"
     },
     {
         "name": "One Pixel Productions High-Quality Music for BGT",
@@ -21702,7 +22145,9 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "Erephine"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -21710,7 +22155,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2011"
     },
     {
         "name": "One Pixel Productions High-Quality Music for PS:T",
@@ -21724,7 +22169,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Erephine"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -21732,7 +22179,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2012"
     },
     {
         "name": "One Pixel Productions High-Quality Music for SoA/ToB",
@@ -21746,7 +22193,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Erephine"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -21754,7 +22203,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2012"
     },
     {
         "name": "One Pixel Productions High-Quality Music for Tutu/ToSC",
@@ -21768,7 +22217,9 @@
         "games": [
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Erephine"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -21776,7 +22227,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2012"
     },
     {
         "name": "Ooze's Lounge",
@@ -21878,12 +22329,12 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Osvald's shop in BG1",
@@ -21979,17 +22430,19 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Kish"
+        ],
         "team": [
             "Mornagest"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "P&P improved invisibility",
@@ -22028,7 +22481,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "pro5"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -22036,7 +22491,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2010"
     },
     {
         "name": "PC Soundsets",
@@ -22051,7 +22506,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "SConrad"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -22059,7 +22516,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2009"
     },
     {
         "name": "Packs de voix partielles pour BG2:EE",
@@ -22131,7 +22588,9 @@
             "BGEE",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [
             "Attention : la version pour les jeux EE n'est pas un mod WeiDU et ne peut être désinstallée. Privilégiez-lui [[PaintBG EE Portrait Pack]]."
@@ -22141,7 +22600,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2013"
     },
     {
         "name": "PaintBG EE Portrait Pack",
@@ -22316,7 +22775,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "berelinde"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -22324,7 +22785,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2012"
     },
     {
         "name": "Patch correctif des erreurs de texte pour BG (et ToSC)",
@@ -22436,7 +22897,9 @@
             "SoD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Reddbane"
+        ],
         "team": [],
         "notes": [
             "Il s'agit d'un mod override qui écrase les fichiers .2da. Le dernier composant optionnel `Modification des descriptions des classes` n'est pas compatible avec IWD:EE et avec les jeux installés en français."
@@ -22446,7 +22909,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2019"
     },
     {
         "name": "Perilous Streets",
@@ -22522,15 +22985,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2022"
     },
     {
         "name": "Phaere's NPC Portrait Pack",
@@ -22548,7 +23013,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Gwendolyne"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -22815,7 +23282,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2012"
     },
     {
         "name": "Planescape: Torment Unfinished Business - Reloaded",
@@ -22909,7 +23376,9 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "cmorgan"
+        ],
         "team": [
             "Anomaly"
         ],
@@ -22950,7 +23419,9 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "cmorgan"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -22988,7 +23459,9 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Domi"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -23038,7 +23511,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lassal"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -23046,7 +23521,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2018"
     },
     {
         "name": "PnP Celestials",
@@ -23100,7 +23575,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Miloch"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -23108,7 +23585,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2010"
     },
     {
         "name": "PnP Kit Requirements, Half-Orcs, Spells and Charisma",
@@ -23266,7 +23743,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Deathsangel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -23274,7 +23753,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2007"
     },
     {
         "name": "Portrait Picker",
@@ -23426,7 +23905,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Inesius"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -23647,7 +24128,9 @@
             "BGEE",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Kwiat_W"
+        ],
         "team": [],
         "notes": [
             "Mis à jour pour la dernière fois en 2013, <a href=\" http://www.shsforums.net/topic/57871-update-for-bg2ee-13/\">ce mod n'est plus compatible avec les jeux EE depuis le patch v1.3</a>."
@@ -23657,7 +24140,7 @@
         "safe": false,
         "languages": [],
         "status": "obsolete",
-        "last_update": "11/2013"
+        "last_update": "11-2013"
     },
     {
         "name": "Quallo",
@@ -23687,7 +24170,7 @@
             "es"
         ],
         "status": true,
-        "last_update": "11/2010"
+        "last_update": "03-2010"
     },
     {
         "name": "Quayle BG2",
@@ -23704,15 +24187,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2024"
     },
     {
         "name": "Quest Pack",
@@ -23784,7 +24269,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Qwinn"
+        ],
         "team": [
             "mirandir",
             "Zyl"
@@ -23798,7 +24285,7 @@
         "safe": true,
         "languages": [],
         "status": "embed",
-        "last_update": ""
+        "last_update": "08-2012"
     },
     {
         "name": "RPG Dungeon Item Pack",
@@ -23814,7 +24301,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Gwendolyne"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -23840,7 +24329,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Gwendolyne"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -23868,7 +24359,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "al17"
+        ],
         "team": [
             "SkipCool",
             "deratiseur"
@@ -23904,7 +24397,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "al17"
+        ],
         "team": [
             "SkipCool",
             "deratiseur"
@@ -24079,7 +24574,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Insomniator"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -24087,7 +24584,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2021"
     },
     {
         "name": "Recargador",
@@ -24102,7 +24599,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ancalagon el Negro"
+        ],
         "team": [],
         "notes": [
             "Attention : Ce mod est connu pour exploiter honteusement une faille du moteur du jeu. Lui vendre des baguettes, puis les racheter ou les voler les recharge..."
@@ -24112,7 +24611,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2010"
     },
     {
         "name": "Recolored toolbar buttons",
@@ -24145,7 +24644,7 @@
             "pl"
         ],
         "status": true,
-        "last_update": "08-2023"
+        "last_update": "09-2023"
     },
     {
         "name": "Recorder, a gnome lorekeeper NPC",
@@ -24190,7 +24689,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "kevmus"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -24250,7 +24751,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "dorotea"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -24260,7 +24763,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2007"
     },
     {
         "name": "Redrake's IWD Fixpack",
@@ -24375,7 +24878,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "macholy"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -24383,7 +24888,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2012"
     },
     {
         "name": "Relieve Wizard Slayer",
@@ -24466,7 +24971,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Yovaneth"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -24476,7 +24983,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2009"
     },
     {
         "name": "Replacement sounds for the interface",
@@ -24688,7 +25195,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ascension64"
+        ],
         "team": [
             "SkipCool"
         ],
@@ -24700,7 +25209,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2012"
     },
     {
         "name": "Restored ToB Heads",
@@ -24715,7 +25224,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [],
         "notes": [
             "Ce mod est inclus dans [[Wheels of Prophecy]]."
@@ -24727,7 +25238,7 @@
             "en"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2008"
     },
     {
         "name": "Retaliator",
@@ -24742,7 +25253,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Adul"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -24750,7 +25263,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2010"
     },
     {
         "name": "Return to Trademeet",
@@ -24764,7 +25277,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "al17"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -24772,7 +25287,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2007"
     },
     {
         "name": "Reunion",
@@ -24863,7 +25378,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "erebusant"
+        ],
         "team": [
             "Thot",
             "Maël"
@@ -24874,7 +25391,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2008"
     },
     {
         "name": "Revised Dragon Scale - UI tweaks for SoD and EET",
@@ -25044,7 +25561,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [
             "JohnBob"
         ],
@@ -25077,7 +25596,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Headbanger"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, ce mod semble vraiment bogué. À éviter dans la mesure du possible."
@@ -25087,7 +25608,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2009"
     },
     {
         "name": "Rod of Refuge",
@@ -25216,7 +25737,9 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -25321,7 +25844,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Immortality"
+        ],
         "team": [
             "Thot",
             "La Voix 2 la Sagesse"
@@ -25354,7 +25879,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Insomniator"
+        ],
         "team": [],
         "notes": [
             "Ce mod est en coréen."
@@ -25364,7 +25891,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2021"
     },
     {
         "name": "Runescarred Berserker Kit",
@@ -25434,7 +25961,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "vilkacis"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -25723,7 +26252,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Saradas"
+        ],
         "team": [],
         "notes": [
             "Attention : pour l'instant, Saradas pour BG:EE et Saradas pour BG2 ne sont pas compatibles sur une installation EET."
@@ -25733,7 +26264,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2015"
     },
     {
         "name": "Saradas Magic for BG2",
@@ -25751,7 +26282,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Saradas"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -25784,7 +26317,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Saradas"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -25792,7 +26327,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2015"
     },
     {
         "name": "Sarah NPC Romance mod",
@@ -25868,7 +26403,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Crevs Daak"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -25876,7 +26413,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2018"
     },
     {
         "name": "Sarevok's True Power",
@@ -25986,7 +26523,7 @@
         "safe": false,
         "languages": [],
         "status": "obsolete",
-        "last_update": "12/2012"
+        "last_update": "12-2012"
     },
     {
         "name": "Selphira Tweaks",
@@ -26062,7 +26599,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "the bigg"
+        ],
         "team": [
             "Egrevyn",
             "deratiseur"
@@ -26129,7 +26668,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Gamemacik"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -26137,7 +26678,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2021"
     },
     {
         "name": "Severian de Demerya",
@@ -26220,17 +26761,19 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [
             "Shodead"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": "wip",
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2024"
     },
     {
         "name": "Shadi's Soundsets",
@@ -26430,7 +26973,9 @@
         "games": [
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "yellow hat elminster"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -26438,7 +26983,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2022"
     },
     {
         "name": "Shards of Ice",
@@ -26456,7 +27001,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "icelus"
+        ],
         "team": [
             "La Voix 2 la Sagesse"
         ],
@@ -26617,7 +27164,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Shed"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -26625,7 +27174,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2010"
     },
     {
         "name": "Sheena NPC, a half dragon tale",
@@ -27034,15 +27583,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2024"
     },
     {
         "name": "Skie BG2 NPC Redone",
@@ -27325,15 +27876,17 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2024"
     },
     {
         "name": "SoD Dialogue Banters",
@@ -27454,7 +28007,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Grim Squeaker"
+        ],
         "team": [
             "Zayn",
             "Lothringen"
@@ -27493,7 +28048,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [
             "Saiko"
         ],
@@ -27651,7 +28208,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Demivrgvs"
+        ],
         "team": [
             "lefreut",
             "Mornagest"
@@ -27668,7 +28227,7 @@
             "es"
         ],
         "status": true,
-        "last_update": "12-2015"
+        "last_update": "08-2020"
     },
     {
         "name": "Spell Revisions Revised",
@@ -27795,7 +28354,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Zyraen"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -27803,7 +28364,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2009"
     },
     {
         "name": "Spirit Hunter Kit",
@@ -27849,7 +28410,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Ulb"
+        ],
         "team": [
             "Freddy_Gwendo"
         ],
@@ -27959,7 +28522,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "the bigg"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -27967,7 +28532,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2011"
     },
     {
         "name": "Store Prices",
@@ -28084,7 +28649,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "kevmus"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -28235,7 +28802,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Jkeion"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -28243,7 +28812,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2013"
     },
     {
         "name": "Super Firkraag",
@@ -28261,7 +28830,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Gwendolyne"
+        ],
         "team": [
             "Mathrim Cauthon"
         ],
@@ -28435,7 +29006,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Miloch"
+        ],
         "team": [
             "Mornagest"
         ],
@@ -28445,7 +29018,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2010"
     },
     {
         "name": "Sword Coast Stratagems",
@@ -28466,7 +29039,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "DavidW"
+        ],
         "team": [
             "Mornagest",
             "Isaya",
@@ -28536,7 +29111,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Andyr"
+        ],
         "team": [
             "La Voix 2 la Sagesse"
         ],
@@ -28554,7 +29131,7 @@
             "ru"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "Swylif Thicc NPC",
@@ -28569,15 +29146,17 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2020"
     },
     {
         "name": "Sylmar Battlefield",
@@ -28592,7 +29171,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Zyraen"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -28600,7 +29181,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2008"
     },
     {
         "name": "Sylvan Mystic Kit",
@@ -28647,7 +29228,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "06-2020"
+        "last_update": "09-2024"
     },
     {
         "name": "T'was a Slow Boat from Kara-Tur",
@@ -28833,7 +29414,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "AnnabelleRose"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -28841,7 +29424,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2008"
     },
     {
         "name": "Tale of Our Lady Dreamless",
@@ -28855,17 +29438,19 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [
             "deratiseur"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2023"
     },
     {
         "name": "Tales of Anegh",
@@ -29009,7 +29594,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "07-2024"
+        "last_update": "09-2024"
     },
     {
         "name": "Targos-Be-Gone by DreamingxAshley",
@@ -29084,7 +29669,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Lord Ernie"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -29092,7 +29679,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Taunt Spell",
@@ -29118,7 +29705,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2016"
     },
     {
         "name": "Tchos' Planescape: Torment portrait replacement mod",
@@ -29255,7 +29842,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Headbanger"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -29263,7 +29852,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2009"
     },
     {
         "name": "Teleport Spell",
@@ -29307,7 +29896,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Arashi Kai"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -29315,7 +29906,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2009"
     },
     {
         "name": "Tenya Thermidor",
@@ -29355,17 +29946,19 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [
             "deratiseur"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2024"
     },
     {
         "name": "Test your Mettle!",
@@ -29428,7 +30021,7 @@
             "es"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2009"
     },
     {
         "name": "Thael",
@@ -29446,7 +30039,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Immortality"
+        ],
         "team": [
             "Althéa",
             "Cendre",
@@ -29579,7 +30174,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Ulb"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -29590,7 +30187,7 @@
             "de"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2016"
     },
     {
         "name": "The Beaurin Legacy",
@@ -29619,7 +30216,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2023"
     },
     {
         "name": "The Big Picture",
@@ -29636,7 +30233,9 @@
             "BGEE",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "horred the plague"
+        ],
         "team": [
             "Graoumf",
             "Ozymandias"
@@ -29647,7 +30246,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2014"
     },
     {
         "name": "The Bigg Character Pack",
@@ -29662,7 +30261,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "the bigg"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -29670,7 +30271,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2015"
     },
     {
         "name": "The Bigg Kit Pack",
@@ -29686,7 +30287,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "the bigg"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -29694,7 +30297,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2015"
     },
     {
         "name": "The Bigg Tweaks Pack",
@@ -29709,7 +30312,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "the bigg"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -29717,7 +30322,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2012"
     },
     {
         "name": "The Boareskyr Bridge Scene",
@@ -29733,7 +30338,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [
             "JohnBob",
             "Mera"
@@ -29851,7 +30458,9 @@
             "EET",
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [
             "JohnBob",
             "Freddy_Gwendo",
@@ -29914,10 +30523,12 @@
         "games": [
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Daxtreme"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -29942,7 +30553,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "King Diamond"
+        ],
         "team": [
             "Isaya",
             "PapaOlive",
@@ -30182,7 +30795,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "hlidskialf"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -30190,7 +30805,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2010"
     },
     {
         "name": "The Horde",
@@ -30221,7 +30836,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "12/2016"
+        "last_update": "12-2016"
     },
     {
         "name": "The Improved Volcano! Pack for ToB",
@@ -30274,7 +30889,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "SConrad"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -30298,15 +30915,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2024"
     },
     {
         "name": "The Lure of Sirine's Call",
@@ -30363,7 +30982,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Miss Sakaki"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -30388,7 +31009,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Leomar"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -30396,7 +31019,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2009"
     },
     {
         "name": "The Minotaur and Lilarcor",
@@ -30414,7 +31037,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Yovaneth"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -30473,7 +31098,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Shed"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -30481,7 +31108,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2009"
     },
     {
         "name": "The Picture Standard for BG:EE 1 & 2",
@@ -30523,7 +31150,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "vilkacis"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -30531,7 +31160,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2010"
     },
     {
         "name": "The Rediscovery of Kuldahar",
@@ -30545,17 +31174,19 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [
             "deratiseur"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2023"
     },
     {
         "name": "The Rogue Class Switching Mod (Bard to Thief and vice versa)",
@@ -30570,7 +31201,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "lroumen"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -30578,7 +31211,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2010"
     },
     {
         "name": "The Secret of Bonehill",
@@ -30596,7 +31229,9 @@
             "BGEE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Isaya"
+        ],
         "team": [
             "Lothringen"
         ],
@@ -30669,7 +31304,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ulb"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -30680,7 +31317,7 @@
             "de"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2014"
     },
     {
         "name": "The Slithering Menace",
@@ -30698,7 +31335,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "vilkacis"
+        ],
         "team": [
             "La Voix 2 la Sagesse"
         ],
@@ -30794,7 +31433,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Badgert"
+        ],
         "team": [
             "Fouinto"
         ],
@@ -30804,7 +31445,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2009"
     },
     {
         "name": "The Ultimate Easter Egg (Morte)",
@@ -30869,7 +31510,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Gwendolyne"
+        ],
         "team": [
             "Mathrim Cauthon"
         ],
@@ -30900,15 +31543,17 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2024"
     },
     {
         "name": "The Vault",
@@ -31033,7 +31678,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "the bigg"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -31041,7 +31688,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2011"
     },
     {
         "name": "Themed Tweaks",
@@ -31294,7 +31941,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "SConrad"
+        ],
         "team": [
             "???"
         ],
@@ -31304,7 +31953,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2007"
     },
     {
         "name": "Tipps NPC",
@@ -31325,12 +31974,12 @@
         "notes": [
             "Attention : Ce mod nécessite l'installation du mod [[Geomantic Sorcerer kit]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "ToB Juggernaut Golem",
@@ -31403,7 +32052,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ascension64"
+        ],
         "team": [
             "Isaya"
         ],
@@ -31413,7 +32064,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2013"
     },
     {
         "name": "TobEx Afterlife",
@@ -31430,7 +32081,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Insomniator"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -31549,7 +32202,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Insomniator"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -31559,7 +32214,7 @@
             "cn"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2021"
     },
     {
         "name": "Tortured Soul",
@@ -31599,7 +32254,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "King Diamond"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -31607,7 +32264,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2007"
     },
     {
         "name": "Touchstone NPC",
@@ -31718,10 +32375,12 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lauriel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -31771,7 +32430,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "GeN1e"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -31779,7 +32440,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "06-2010"
     },
     {
         "name": "Travellers In Faerun",
@@ -31931,7 +32592,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Ancalagon el Negro"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -32051,12 +32714,12 @@
         "notes": [
             "Attention : ce mod a été archivé par Lava qui ne le maintient plus."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "05-2019"
+        "last_update": "07-2020"
     },
     {
         "name": "Turald NPC for IWD:EE",
@@ -32095,7 +32758,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Turambar"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -32103,7 +32768,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2011"
     },
     {
         "name": "Turnabout",
@@ -32229,7 +32894,9 @@
             "PST",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [
             "Graoumf",
             "Elgaern",
@@ -32358,7 +33025,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Immortality"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
@@ -32368,7 +33037,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2010"
     },
     {
         "name": "Ulrien of Cormyr, SagaMaster",
@@ -32512,7 +33181,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Adul"
+        ],
         "team": [],
         "notes": [
             "Ce mod est devenu obsolète depuis le temps."
@@ -32522,7 +33193,7 @@
         "safe": false,
         "languages": [],
         "status": "obsolete",
-        "last_update": ""
+        "last_update": "04-2009"
     },
     {
         "name": "Unbiased Ir'revrykal +5 and tweaked Carsomyr",
@@ -32725,12 +33396,14 @@
             "IWD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [
             "ForeverDream"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -32815,7 +33488,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Miloch"
+        ],
         "team": [
             "Graoumf"
         ],
@@ -32827,7 +33502,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2009"
     },
     {
         "name": "Universal Archer",
@@ -32870,7 +33545,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Hoppy"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -32878,7 +33555,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2009"
     },
     {
         "name": "Universal party AI script",
@@ -33013,15 +33690,17 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2024"
     },
     {
         "name": "Usability Fixer",
@@ -33112,7 +33791,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -33138,7 +33819,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Aeviannce"
+        ],
         "team": [],
         "notes": [
             "Attention : Il ne fonctionne que si vous avez installé le mod [[iiLearn Through Use Mod]] d'igi."
@@ -33148,7 +33831,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2014"
     },
     {
         "name": "Vampire Tales",
@@ -33280,7 +33963,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "jube"
+        ],
         "team": [],
         "notes": [
             "Cependant, il est réputé bogué. À installer à vos risques et périls."
@@ -33290,7 +33975,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2011"
     },
     {
         "name": "Vedran's Lost Items",
@@ -33328,15 +34013,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2023"
     },
     {
         "name": "Verr'Sza BG:EE",
@@ -33352,15 +34039,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2023"
     },
     {
         "name": "Viconia Revamped",
@@ -33378,15 +34067,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2022"
     },
     {
         "name": "Vienxay, an Elven Shadowdancer Mage",
@@ -33591,7 +34282,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Kwiat_W"
+        ],
         "team": [
             "Isaya",
             "Aranthys"
@@ -33602,7 +34295,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2012"
     },
     {
         "name": "W_PackMule",
@@ -33648,15 +34341,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2022"
     },
     {
         "name": "Walahnan NPC (BG:EE)",
@@ -33672,15 +34367,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2022"
     },
     {
         "name": "Wand Case",
@@ -33783,7 +34480,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Artemius I"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -33896,7 +34595,7 @@
             "fr"
         ],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2015"
     },
     {
         "name": "Water's Edge Party by Antaris",
@@ -33965,7 +34664,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "yowave"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -33973,7 +34674,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "12-2016"
     },
     {
         "name": "Weasels!",
@@ -34003,7 +34704,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "08-2022"
     },
     {
         "name": "Weavescale Sorcerer and Alarin NPC (WIP)",
@@ -34118,7 +34819,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "vilkacis"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -34126,7 +34829,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2009"
     },
     {
         "name": "Werewolf & Dragon Characters by DemonGavo",
@@ -34164,7 +34867,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "DavidW"
+        ],
         "team": [
             "Mornagest"
         ],
@@ -34217,15 +34922,17 @@
             "BGT",
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "03-2024"
     },
     {
         "name": "Widescreen",
@@ -34246,12 +34953,14 @@
             "IWD2",
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "the bigg"
+        ],
         "team": [
             "Isaya"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": null,
         "languages": [
@@ -34372,15 +35081,17 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2024"
     },
     {
         "name": "Will to Power",
@@ -34624,7 +35335,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "weigo"
+        ],
         "team": [
             "Isaya"
         ],
@@ -34660,7 +35373,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "SConrad"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -34668,7 +35383,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "04-2007"
     },
     {
         "name": "Wrist Scribers",
@@ -34827,7 +35542,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [],
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
@@ -34837,7 +35554,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "05-2018"
     },
     {
         "name": "Xyx's Beholder Stuff",
@@ -34917,7 +35634,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -34942,7 +35661,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Shed"
+        ],
         "team": [
             "Egrevyn",
             "Galathée"
@@ -34953,7 +35674,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "01-2012"
     },
     {
         "name": "Yvette Romance",
@@ -34970,7 +35691,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -34978,7 +35701,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2022"
     },
     {
         "name": "Zakrion",
@@ -34994,15 +35717,17 @@
             "BGT",
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "jmaeq"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2023"
     },
     {
         "name": "Zalnoya and the Shadow Thieves",
@@ -35018,7 +35743,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "prune1"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -35028,7 +35755,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2011"
     },
     {
         "name": "Zelink (Zelda & Link)",
@@ -35121,7 +35848,7 @@
             "es"
         ],
         "status": true,
-        "last_update": "06-2024"
+        "last_update": "05-2018"
     },
     {
         "name": "cbisson's Familiar Pack",
@@ -35284,7 +36011,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "11-2011"
     },
     {
         "name": "iiTweaks",
@@ -35357,7 +36084,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "kthxbye"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -35365,7 +36094,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "10-2009"
     },
     {
         "name": "so Cromwell does NOT take a day?",
@@ -35411,15 +36140,17 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Grim Squeaker"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "02-2019"
     },
     {
         "name": "wonnimchunha's Portrait Mod",
@@ -35436,7 +36167,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Kaeloree"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -35444,7 +36177,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": ""
+        "last_update": "07-2009"
     },
     {
         "name": "xMinion",
@@ -36151,7 +36884,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "berelinde"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -36345,7 +37080,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "04-2011"
+        "last_update": "03-2011"
     },
     {
         "name": "NPC Flirt Packs",
@@ -36400,7 +37135,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kulyok"
+        ],
         "team": [
             "Eleima",
             "Galathée",
@@ -36564,7 +37301,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Gwendolyne"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -36731,7 +37470,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -36748,7 +37489,7 @@
             "jp"
         ],
         "status": true,
-        "last_update": "05-2024"
+        "last_update": "04-2024"
     },
     {
         "name": "Wings: Aerie expansion for BG2:EE",
@@ -36795,7 +37536,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [
             "Incompatible avec [[Keeping Yoshimo]]."
@@ -36982,7 +37725,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "10-2024"
+        "last_update": "11-2024"
     },
     {
         "name": "Bethany",
@@ -37006,7 +37749,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "03-2024"
+        "last_update": "05-2024"
     },
     {
         "name": "Xikâsz’s Grove of Chaos",
@@ -37465,7 +38208,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "10-2024"
+        "last_update": "10-2023"
     },
     {
         "name": "DLC Merger",
@@ -37580,7 +38323,7 @@
             "es"
         ],
         "status": true,
-        "last_update": "07-2020"
+        "last_update": "09-2020"
     },
     {
         "name": "Item Upgrade",
