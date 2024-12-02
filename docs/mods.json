@@ -850,7 +850,7 @@
     },
     {
         "name": "Akuns-Gear",
-        "description": "This is an item mod that contains 2 enchanted katanas and 1 armor for a Wizard Slayer. All items are only equippable for the Wizard Slayer fighter subclass at level 4.||The items can be bought from the merchant Erdane in the Durlags Tower area(outside of Durlags Tower). The trader sells the items directly from his stock (no dialogue options). Regular price is thousands of gold per item.",
+        "description": "C'est un mod d'objets qui contient 2 katanas enchantés et 1 armure pour Tueur de magiciens. Tous les objets ne peuvent être équipés que par un Tueur de magiciens de niveau 4.||Les objets peuvent être achetés auprès du marchand Erdane dans la zone de la Tour de Durlag. Le marchand vend les objets directement à partir de son stock (pas d'options de dialogue). Le prix est de plusieurs milliers de PO par objet.",
         "urls": [
             "https://forums.beamdog.com/discussion/87411/item-mod-akuns-gear",
             "https://github.com/Incrementis/Akuns-Gear-"
@@ -867,7 +867,7 @@
         ],
         "team": [],
         "notes": [
-            "Since it dynamically writes a new item category into the system, it is recommended to install this mod last."
+            "Comme il écrit dynamiquement une nouvelle catégorie d'objets dans le système, il est recommandé d'installer ce mod en dernier."
         ],
         "is_weidu": true,
         "translation_state": false,
@@ -2816,7 +2816,7 @@
     },
     {
         "name": "AutoRest",
-        "description": "Créé par deratiseur, ce petit mod bien pratique permet de simuler un repos sans avoir besoin de dormir 8 h. Vous pouvez bien évidemment choisir la qualité du repos.",
+        "description": "Créé par deratiseur, ce petit mod bien pratique permet de simuler un repos sans avoir besoin de dormir 8 h. Vous pouvez bien évidemment choisir la qualité du repos. Désormais, il peut aussi rendre les pj immortels.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/33320-mod-baldur-s-gate-2-la-sauce-pillars-eternity.html",
             "https://forums.beamdog.com/discussion/73318/a-mod-for-auto-resting/p1",
@@ -2957,7 +2957,7 @@
         "description": "Il s'agit de la collection d'ajustements de règles de berelinde.",
         "urls": [
             "https://forums.beamdog.com/discussion/46580/download-berelinde-b-tweaks-full-mod",
-            "http://www.mediafire.com/file/2twjt48ffgsfzkk/b%2521tweak_lite-v4.exe/file"
+            "https://www.mediafire.com/file/2twjt48ffgsfzkk/b%2521tweak_lite-v4.exe/file"
         ],
         "categories": [
             "Gameplay"
@@ -3600,7 +3600,8 @@
         ],
         "games": [
             "Tutu",
-            "BGT"
+            "BGT",
+            "BG2"
         ],
         "authors": [],
         "team": [
@@ -3680,33 +3681,6 @@
         "last_update": "10-2024"
     },
     {
-        "name": "BG2 Victor's Improvements Pack",
-        "description": "Ce mod ajoute 2 nouveaux profils (le Voleur fidèle et l'Homme brûlant, un profil de guerrier), un nouveau magasin (accessible à l'aide d'un parchemin que l'on trouve sur la Promenade de Waukyne), modifie plusieurs règles (caractéristiques des races, armes utilisables par tous...), améliore le Donjon d'Irenicus, ajoute quelques nouvelles rencontres et une mini-quête à la fin de SoA.",
-        "urls": [
-            "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=22"
-        ],
-        "categories": [
-            "Kit",
-            "Gameplay"
-        ],
-        "games": [
-            "BG2",
-            "Tutu",
-            "BGT"
-        ],
-        "authors": [],
-        "team": [
-            "Corran001"
-        ],
-        "notes": [],
-        "is_weidu": null,
-        "translation_state": true,
-        "safe": true,
-        "languages": [],
-        "status": true,
-        "last_update": ""
-    },
-    {
         "name": "BG2:EE AI Denoised Areas",
         "description": "Ce mod améliore grandement la qualité graphique des zones du jeu. L'auteur a soumis toutes les cartes du jeu (les fichiers images) à une IA d'amélioration graphique, pour un résultat plus vibrant et bien plus net, en particulier lors de l'utilisation du zoom (Des images de comparaison sont disponibles sur la page GitHub ou dans le fil de discussion du mod sur les forums Beamdog).",
         "urls": [
@@ -3731,32 +3705,6 @@
         "languages": [],
         "status": true,
         "last_update": "05-2022"
-    },
-    {
-        "name": "BG2:EE GUI In BG:EE",
-        "description": "Ce mod permettait de jouer BG:EE avec l'interface de BG2:EE dont le fameux bouton \"loot\" permettant de ramasser plus simplement ce qui traîne au sol à proximité.",
-        "urls": [
-            "http://www.shsforums.net/files/file/1082-bg2ee-gui-in-bgee/"
-        ],
-        "categories": [
-            "Interface"
-        ],
-        "games": [
-            "BGEE"
-        ],
-        "authors": [
-            "Renegade"
-        ],
-        "team": [],
-        "notes": [
-            "Attention : il ne fonctionne qu'avec BG:EE version 1.3 et écrase les fichiers."
-        ],
-        "is_weidu": false,
-        "translation_state": null,
-        "safe": false,
-        "languages": [],
-        "status": true,
-        "last_update": "05-2015"
     },
     {
         "name": "BG2:EE GUI To BG:EE",
@@ -5036,6 +4984,7 @@
         "name": "Better IWD Pregen",
         "description": "Script components:|Better IWD Pregen|Better AI for Call Woodland Beings (EEs, BG2)|Auto-assign script to new characters||Tweak components:|Adjust enemy damage at higher difficulties (classic IWD, IWD2)|Add or remove Avarine Decanter (IWD2)|Unnerf Animate Dead (IWD2)|Shapeshift movement bonuses bypass Free Action (EEs)|Increase movement speed of IWD shapeshifts (IWD1, IWD:EE)|Give party starting equipment (IWD games)|Give party a Bag of Holding at game start (classic and EEs)|All classes get full HP bonuses from Constitution (classic and EEs)|Fixes for backstab-related 2DA files (EEs)|Reduce delay for Sneak Attacks + uncap Crippling Strike (EEs)|Allow Minsc to use his Berserk ability at will (BG games)|Patch visuals for shortbows (IWD:EE) or scimitars (IWD-in-BG2)|Remove alignment restrictions for classes (classic and EEs)|Prevent paladins and rangers falling at low rep? (EEs)||<a href=\"https://github.com/D2-mods/Better-IWD-Pregen/blob/main/README.md\">See more detailed info in readme...</a>",
         "urls": [
+            "https://forums.beamdog.com/discussion/82947/mod-better-iwd-pregen-v7-5-a-minimalist-script-and-tweak-pack",
             "https://github.com/D2-mods/Better-IWD-Pregen"
         ],
         "categories": [
@@ -5058,10 +5007,12 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "11-2024"
     },
@@ -7521,7 +7472,7 @@
         "name": "Coondred NPC",
         "description": "Ce mod ajoute un PNJ particulier : un raton laveur, druide totémique, qui a été élevé par un clan de druides demi-elfes. ToB est requis.",
         "urls": [
-            "http://www.mediafire.com/download/1z8wa841ynoa6u3/Coondred1.3.rar."
+            "https://www.mediafire.com/download/1z8wa841ynoa6u3/Coondred1.3.rar."
         ],
         "categories": [
             "PNJ recrutable"
@@ -9100,7 +9051,8 @@
         "name": "Dimension Gate: Or How TV Bunny searched TV Remote Control",
         "description": "L'objectif principal de ce mod est d'ajouter des capacités de téléportation aux joueurs leur permettant de se rendre dans toutes les cartes officielles de BG2 et ToB.|Il ajoute par ailleurs de nombreux autres sorts dans le jeu.|Attention : il doir être installé conjointement avec le mod <a href=\"http://www.shsforums.net/files/file/1271-spellfix-visual-effects/\">SpellFix Visual Effects</a>.",
         "urls": [
-            "http://www.shsforums.net/files/file/1272-dimension-gate-or-how-tv-bunny-searched-tv-remote-control/"
+            "http://www.shsforums.net/files/file/1272-dimension-gate-or-how-tv-bunny-searched-tv-remote-control/",
+            "https://github.com/Endarire/Dimension-Gate-for-BG2"
         ],
         "categories": [
             "Sort et objet"
@@ -9652,11 +9604,16 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [],
-        "is_weidu": null,
+        "notes": [
+            "Le mod n'est plus mis à jour depuis la version 1.2 de BGEE"
+        ],
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "it"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -9839,7 +9796,7 @@
         "name": "Druid Kit Enhancements",
         "description": "Ce mod permet au druides de se métamorphoser trois fois par jour en choisissant la forme souhaitée, et récupèrent 15 points de vie en reprenant leur forme humaine. Chaque forme obtient des bonus et malus spécifiques : Loup des bois, Ours noir et Grizzly. Les justiciers bénéficient de trois formes supplémentaires (araignée-sabre, bébé wiverne et troll). Les druides totémiques choisissent leur animal totem au premier niveau (furet, serpent panthère et fée) disposant chacun de capacités innées spécifiques. Le métamorphe est rééquilibré en limitant ses capacités hors transformation (limitation du nombre de sorts) et les formes de loup-garou ont été révisées.",
         "urls": [
-            "http://www.mediafire.com/file/vj699du6a4ka55j/phord_druidkits.zip/file"
+            "https://www.mediafire.com/file/vj699du6a4ka55j/phord_druidkits.zip/file"
         ],
         "categories": [
             "Kit",
@@ -13358,13 +13315,13 @@
         "last_update": ""
     },
     {
-        "name": "Grey GUI",
-        "description": "Ce mod modifie l'apparence de pierre du fond des écrans de BG:EE pour leur donner un aspect gris clair plutôt que bleuté.",
+        "name": "BG2:EE GUI In BG:EE",
+        "description": "Ce mod permettait de jouer BG:EE avec l'interface de BG2:EE dont le fameux bouton \"loot\" permettant de ramasser plus simplement ce qui traîne au sol à proximité. Ce mod modifie l'apparence de pierre du fond des écrans de BG:EE pour leur donner un aspect gris clair plutôt que bleuté.",
         "urls": [
             "http://www.shsforums.net/files/file/1082-bg2ee-gui-in-bgee/"
         ],
         "categories": [
-            "Cosmétique"
+            "Interface"
         ],
         "games": [
             "BGEE"
@@ -13903,7 +13860,7 @@
         "description": "Helga sort de sa retraite après des années de service au temple de Haela et de garde d'enfants pour revivre ses jeunes années de combat. Dans BG1 et SoD, elle combattra volontiers aux côtés du protagoniste, à condition qu'il l'aide à protéger son peuple ou à chasser sa proie. Possédant une force remarquable malgré son âge, elle n'est pas aussi résistante que les autres guerriers. Capable d'appeler temporairement dans sa main une lame puissante, elle peut encore déchirer les lignes ennemies.|Elle se soucie peu des règles et des solutions pacifiques, et favorise des résultats plus violents et risqués dans vos choix. Elle n'est pas mauvaise, cependant, et la malveillance manifeste gagnera sa désapprobation. Pas de romance possible, mais une voie de l'amitié chaleureuse pour ceux qui aiment la bataille autant qu'elle.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Helga\">site de l'auteur</a>.",
         "urls": [
             "https://forums.beamdog.com/discussion/76460/v1-53-helga-a-dwarven-priestess-of-haela-brightaxe-for-bg-ee-and-sod-and-eet/p1",
-            "https://github.com/Skitia/Helga-BG1/archive/refs/heads/master.zip"
+            "https://github.com/Skitia/Helga-BG1/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -14638,7 +14595,7 @@
     },
     {
         "name": "Interaction Expansion Project",
-        "description": "Ce projet a pour intention de développer le réalisme et l'intérêt des PNJ de Bioware en les dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires. 12 mods sont d'ores et déjà issus de ce projet ambitieux. Il s'agit de : |IEP Extended Banters, [[Cernd Friendship]], [[Dorn Friendship]], [[Haer'Dalis Friendship]], [[Imoen Friendship]], [[Korgan Friendship]], [[Mazzy Friendship]], [[Minsc Friendship]], [[Sarevok Friendship]], [[Valygar Friendship]], [[Viconia Friendship]] et [[Yoshimo Friendship]]. Seuls 5 d'entre eux ont été traduits.",
+        "description": "Ce projet a pour intention de développer le réalisme et l'intérêt des PNJ de Bioware en les dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires. 13 mods sont d'ores et déjà issus de ce projet ambitieux. Il s'agit de : |IEP Extended Banters, [[Cernd Friendship]], [[Dorn Friendship]], [[Haer'Dalis Friendship]], [[Hexxat Frienship]], [[Imoen Friendship]], [[Korgan Friendship]], [[Mazzy Friendship]], [[Minsc Friendship]], [[Sarevok Friendship]], [[Valygar Friendship]], [[Viconia Friendship]] et [[Yoshimo Friendship]]. Seuls 5 d'entre eux ont été traduits.",
         "urls": [
             "http://www.shsforums.net/files/file/558-iep-extended-banters",
             "https://github.com/SpellholdStudios/IEP_Extended_Banter"
@@ -14660,7 +14617,7 @@
         ],
         "notes": [],
         "is_weidu": true,
-        "translation_state": true,
+        "translation_state": "todo",
         "safe": true,
         "languages": [
             "en",
@@ -17016,7 +16973,7 @@
         "description": "Conteur de grandes aventures qu'il a peut-être eues ou non, Kale est une petite-personne de Gullykind, se prétendant \"héroïque\", avec un sourire rapide et une cape fringante. Cependant, il semble plus sombre qu'il n'y paraît, son sourire cachant ses frustrations face à l'incapacité d'être grand. Votre groupe lui offre une chance de faire ses preuves auprès de lui-même et du reste du monde, et il apportera volontiers sa capacité astucieuse à prendre beaucoup de coups et à rester debout.|Dans BG:EE, Kale est un barbare, mais dans BG2:EE et éventuellement dans BG:EE, il peut être doté d'un kit de gardien.|Dans SoD, il se trouve dans la taverne du Chant de l'Elfe. Comme il n'aime pas du tout l'idée de voyager avec un gobelin, il faudra le persuader de le supporter ou il ne quittera le groupe.|Dans BG2:EE, il se trouve à l'extérieur de la Couronne de Cuivre, peu de temps après avoir appris la mort de son père.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Kale\">site de l'auteur</a>.",
         "urls": [
             "https://forums.beamdog.com/discussion/74630/v1-65-kale-a-halfling-barbarian-for-bg-ee-sod-and-eet/p1",
-            "https://github.com/Skitia/Kale-BG1/archive/master.zip"
+            "https://github.com/Skitia/Kale-BG1/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -18164,7 +18121,7 @@
         "name": "Legion of Hell",
         "description": "Ce mod ajoute cinq nouveaux profils tirés des chapitres interdits (D&amp;D 3e édition) : Disciple de Dispater (guerrier), Disciple de Mammon (voleur), Disciple de Méphistophélès (guerrier), Disciple de Belzébuth (voleur) et Disciple d'Asmodée (prêtre).",
         "urls": [
-            "http://www.mediafire.com/file/383n6bzz0lmnzla/LOHMod.zip/file"
+            "https://www.mediafire.com/file/383n6bzz0lmnzla/LOHMod.zip/file"
         ],
         "categories": [
             "Kit",
@@ -18468,7 +18425,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Attention : Ce mod semble faire planter l'entrée dans le siège du gouvernement d'Athkatla."
+            "Attention : Ce mod fait planter l'entrée dans le siège du gouvernement d'Athkatla quand le mod Xan est installé."
         ],
         "is_weidu": null,
         "translation_state": null,
@@ -18939,14 +18896,16 @@
         "team": [
             "Klare"
         ],
-        "notes": [],
+        "notes": [
+            "Le lien semble avoir disparu."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
             "fr"
         ],
-        "status": true,
+        "status": "missing",
         "last_update": ""
     },
     {
@@ -19485,7 +19444,7 @@
         "description": "Ce mod ajoute une nouvelle traqueuse halfelin qui voyage sur la Côte des Épées, bien qu'il soit évident qu'elle n'est pas de la région. Elle aime se faire passer pour une personne inutile, timide ou innocente, même si ce n'est pas tout à fait le cas. Vous pourrez la recruter dans les mines de Nashkel.",
         "urls": [
             "https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod/p1",
-            "http://www.mediafire.com/file/319iqtunuedckt5/Margarita.rar/file"
+            "https://www.mediafire.com/file/319iqtunuedckt5/Margarita.rar/file"
         ],
         "categories": [
             "PNJ recrutable"
@@ -20666,6 +20625,7 @@
         "name": "Mortuary-Be-Gone",
         "description": "This mod (inspired by the [[Dungeon-Be-Gone]] and [[Skip Chateau Irenicus]] mods for Baldur's Gate 2) allows Morte to whisk you through a portal at the very start of the game while still providing the items and experience you'd gain from a thorough exploration of the Mortuary. Narratively, you are implied to have done a \"normal\" playthrough of the Mortuary in your previous incarnation, who died shortly (and relatively non-traumatically) after escaping the Mortuary.||This mod makes a few assumptions about your previous incarnation's decisions within the Mortuary. As the Mortuary is still accessible after escaping from it, I have minimized the impact that you could have had while still completing secondary objectives. You are assumed to have looted every container, avoided combat and detection wherever possible, completed every available side quest, and not taken any actions that would influence your alignment. The Dustmen will have restocked any non-unique item should you return to the Mortuary later..",
         "urls": [
+            "https://forums.beamdog.com/discussion/87482/mod-mortuary-be-gone",
             "https://github.com/aquadrizzt/MortuaryBeGone"
         ],
         "categories": [
@@ -22154,7 +22114,9 @@
         "team": [
             "deratiseur"
         ],
-        "notes": [],
+        "notes": [
+            "Bien que compatible PsTEE, la plupart des composants ne s'installent pas."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
@@ -22777,22 +22739,31 @@
         "description": "Cette conversion de Paladins of Faerûn contient toutes les quêtes du mod tchèque original, mais n'en est pas une copie exacte. De nombreux bugs ont été corrigés et le passage à WeiDU a permis d'en rationaliser le code.|Le mod contient une grande quête principale \"Paladins of Faerûn\" et deux quêtes secondaires, \"Ordre et Chaos\" et \"Enlèvement et Politique\". De nouvelles aventures vous attendent également dans les villes de Padhiver, La Porte de Baldur, Eauprofonde, Targos (centre ville, docks), Siluvaned (cité elfique) et Har Al-Dur (cité des prêtres) - chacune d'entre elles ayant sa propre quête urbaine, principalement pour apporter une aide quelconque à la cité, ou même la sauver. En outre, il y a plus de 20 petites quêtes individuelles. Le mod commence dans le donjon d'Irenicus.",
         "urls": [
             "http://www.shsforums.net/topic/60732-paladins-of-faerun-quest-pack/?p=608853",
-            "https://www.mediafire.com/file/vnsmduoh4i51ha9/PoFqp+v3.2.7z/file"
+            "https://github.com/GraionDilach/Paladins-of-Faerun-Quest-Pack"
         ],
         "categories": [
             "Conversion totale"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
-        "authors": [],
+        "authors": [
+            "BGslayer"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "de",
+            "fr",
+            "de",
+            "ru"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -24771,7 +24742,7 @@
         "description": "Recorder est une ménestrel gnome, érudite, née dans la nation de Lantan, mais qui travaille pour l'Église d'Oghma en Amn. Bien qu'elle soit moins efficace avec les armes que les autres bardes, sa force réside dans son chant et sa magie, lui permettant de protéger son groupe des enchantements dangereux et de lancer plus de magie que les autres bardes. Elle possède un furet fougueux nommé Gustav qui pat bravement en éclaireur si on le lui demande.|Elle préfère l'approche douce, la miséricorde et la compréhension lorsque cela est possible, et les solutions non violentes, mais comprendra quand il n'y a pas le choix. Elle apprécie également l'art et la musique, et ceux qui apprécient son jeu et sont gentils avec elle gagneront son amitié et son affection.|On la rencontre d'abord à Château-Suif, mais on ne pourra la recruter qu'à l'entrée des ruines d'Ulcaster. Dans SoD, vous la trouverez à l'extérieur du Palais Ducal. Dans BG2, elle se trouve dans le temple d'Oghma, dans le quartier des docks.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Recorder\">site de l'auteur</a>.",
         "urls": [
             "https://forums.beamdog.com/discussion/77784/v1-50-recorder-a-gnome-lorekeeper-npc-for-bg-ee-sod-and-eet/p1",
-            "https://github.com/Skitia/Recorder-BG1/archive/master.zip"
+            "https://github.com/Skitia/Recorder-BG1/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -30051,7 +30022,7 @@
         "description": "Bien qu'âgée d'une vingtaine d'années, Tenya est très puissante pour son âge, grâce à l'entraînement prodigué par sa mère pour la gloire d'Umberlie. Et elle est très en colère après le meurtre de sa mère... Elle dispose d'une mini-quête qui lui permettra d'utiliser son bol de contrôle élémentaire, et éventuellement de ramasser un ou deux autres objets en cours de route.",
         "urls": [
             "https://forums.beamdog.com/discussion/33291/tenya-thermidor-v1-5/p1",
-            "http://www.mediafire.com/file/ar99e68bb21ae7h/BGT_Converted_BWP_Tenya15c.zip/file"
+            "https://www.mediafire.com/file/ar99e68bb21ae7h/BGT_Converted_BWP_Tenya15c.zip/file"
         ],
         "categories": [
             "PNJ recrutable"
@@ -30222,7 +30193,9 @@
         "team": [
             "deratiseur"
         ],
-        "notes": [],
+        "notes": [
+            "Une extension existe pour BGEE : [[Thalantyr Item Upgrade Extensions]]."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
@@ -31624,7 +31597,7 @@
         "name": "The Undying",
         "description": "Ce mod ajoute deux PNJ, Callisto T'sarran (elfe femme berserker neutre mauvaise) et Ninafer (elfe guerrière/mage loyale neutre). De nouvelles rencontres en rapport avec la quête de Callisto (anciennement [[Desecration of Souls]]), sept nouveaux magasins, trois nouvelles quêtes, banters et interjections sont également au programme.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=8"
+            "https://github.com/Endarire/The-Undying-Mod-for-BG2EE-EET"
         ],
         "categories": [
             "PNJ recrutable",
@@ -34033,7 +34006,8 @@
         "name": "Vampire World",
         "description": "Ce mod fait la part belle aux morts-vivants dans la Saga. Vous pouvez devenir mort-vivant, en accueillir dans votre groupe, embaucher Bodhi après l'avoir tuée...",
         "urls": [
-            "http://www.shsforums.net/files/file/1195-vampire-world-for-eet/"
+            "http://www.shsforums.net/topic/59490-mod-vampire-world-for-eet/",
+            "https://github.com/Endarire/Vampire-World-for-EET"
         ],
         "categories": [
             "Gameplay"
@@ -34049,15 +34023,15 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est toujours considéré comme en développement.",
-            "EET est requis."
+            "EET est requis.",
+            "Une requête a été passé à shs pour l'héberger sur leur github, à suivre."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "10/2017"
+        "last_update": "10-2017"
     },
     {
         "name": "Vanim NPC",
@@ -34244,7 +34218,7 @@
         "description": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.|Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.|Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Vienxay\">site de l'auteur</a>.",
         "urls": [
             "https://forums.beamdog.com/discussion/74701/v1-62-vienxay-a-elven-shadowmage-npc-for-bg-ee-sod-and-eet/p1",
-            "https://github.com/Skitia/Vienxay-BG1/archive/master.zip"
+            "https://github.com/Skitia/Vienxay-BG1/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -35417,7 +35391,7 @@
         "description": "Ce mod remplace le profil de métamorphe par celui de Seigneur loup. Ce type de druide a volontairement recherché et contracté la lycanthropie. Des études et un entraînement intensifs lui permettent d'exploiter la puissance de la forme de Lycanthrope sans perdre son self-control. Il peut se transformer à volonté et parler sous forme de loup. Il peut aussi rétracter ses griffes à volonté, quelle que soit sa forme.",
         "urls": [
             "https://forums.pocketplane.net/index.php/topic,20955.msg325400.html#msg325400",
-            "http://www.mediafire.com/file/mv1nc146l23uguq/WolfLordV2.rar/file"
+            "https://www.mediafire.com/file/mv1nc146l23uguq/WolfLordV2.rar/file"
         ],
         "categories": [
             "Gameplay"
@@ -35934,7 +35908,7 @@
         "name": "Zelink (Zelda & Link)",
         "description": "Très vieux mod, c'est l'une des premières créations de Smiling Imp basée sur une série de dessins animés qu'il regardait enfant.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=198"
+            "https://github.com/Endarire/Zelink-Zelda-Link-Mod-for-BG2"
         ],
         "categories": [
             "PNJ recrutable"
@@ -36052,7 +36026,7 @@
         "name": "iiItem mod",
         "description": "Ce mod ajoute plusieurs dizaines de nouveaux objets dans le jeu, en se concentrant sur des types d'objets moins connus (comme les potions, les bracelets, les flèches, etc.). Il n'ajoute pas d'objets améliorables, de pièces d'objets ou de forgerons. L'équilibre du jeu a été pris en compte lors de leur création, et les objets surpuissants ont été évités.|Les objets sont dispersés dans l'univers du jeu et sont ajoutés aux inventaires des créatures et aux magasins. Les objets \"uniques\" (ceux qui ont une histoire individuelle spécifique) ne sont ajoutés qu'aux magasins.|iiItem doit être installé après les mods qui ajoutent de nouvelles créatures ou de nouveaux magasins, afin de s'assurer que les nouveaux objets sont dispersés de manière égale dans le jeu, et ne sont pas seulement ajoutés aux fichiers de base du jeu.|REMARQUE : L'installation fait un usage intensif du hasard, ce qui signifie que les objets ne seront pas toujours disponibles aux mêmes endroits, ou dans les mêmes quantités. L'utilisation de ce caractère aléatoire signifie qu'il y a une très faible chance que tous les objets ne soient pas ajoutés au jeu pour une installation donnée.",
         "urls": [
-            "http://igidata.com/files/ie/mods/iiItem/iiItem(05)b.zip"
+            "https://github.com/btigi/iiItem"
         ],
         "categories": [
             "Sort et objet"
@@ -36067,7 +36041,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -36078,7 +36052,7 @@
         "name": "iiKey Names",
         "description": "Créé par igi, ce petit mod permet de modifier le nom des clés du jeu une fois qu'on les a utilisées. Ainsi, on peut s'en séparer sans crainte pour ne pas encombrer son inventaire.",
         "urls": [
-            "http://igidata.com/files/ie/mods/iiKeyNames/iiKeyNames(02).zip"
+            "https://github.com/btigi/iiKeyNames"
         ],
         "categories": [
             "Gameplay"
@@ -36092,10 +36066,14 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
-        "translation_state": null,
+        "is_weidu": true,
+        "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "es"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -36103,7 +36081,7 @@
         "name": "iiLearn Through Use Mod",
         "description": "Créé par igi, ce petit mod s'efforce d'ajouter un peu de réalisme dans le jeu en modifiant le processus d'acquisition de points de compétences martiales. Le joueur ne les obtiendra plus pour des armes qu'il n'a jamais vues, et encore moins utilisées. Désormais, ils ne dépendront plus du niveau des personnages, mais de l'arme et de la durée pendant laquelle ils se sont battus (alors que les compétences seront limitées par les limites de classe). Si vous utilisez certaines armes assez longtemps, vous apprendrez à mieux les manier, même si vous ne tuez pas plusieurs milliers de créatures ou n'accomplissez pas plusieurs quêtes.|Un point de compétence est accordé après un nombre déterminé de coups réussis. Le programme d'installation vous permet de choisir le nombre de coups nécessaires pour obtenir chacun des 5 points de compétences martiales. De plus, en option, vous pouvez décider de rendre obligatoire un entraînement avant de valider vos points, gratuitement ou pas.|<span style=\"color: lime\">En cours de ré-écriture et de traduction.</span>",
         "urls": [
-            "http://igidata.com/files/ie/mods/iiLearnThroughUse/iiLearnThroughUse(02)BETA1.zip"
+            "https://github.com/btigi/iiLearnThroughUse"
         ],
         "categories": [
             "Gameplay"
@@ -36116,24 +36094,26 @@
         "authors": [
             "igi"
         ],
-        "team": [
-            "Freddy_Gwendo"
-        ],
+        "team": [],
         "notes": [
             "Comme le mod doit détecter toutes les armes du jeu, installez-le après tous les mods qui ajoutent des armes."
         ],
-        "is_weidu": null,
-        "translation_state": "wip",
+        "is_weidu": true,
+        "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "es"
+        ],
         "status": true,
-        "last_update": ""
+        "last_update": "09-2021"
     },
     {
         "name": "iiProjectile Retrieval",
         "description": "Créé par igi, ce petit mod permet au joueur de récupérer les projectiles qu'il a lancés et qui ont atteint leur cible, les autres étant perdus. Des options permettent de personnaliser l'installation :|- Chance de récupérer les projectiles.|- Quel type de projectile est récupéré : seulement les projectiles non magiques, tous les projectiles, tous les projectiles sont récupérés dans leur version normale (ex: on tire une flèche +1 et on récupère une flèche normale), les projectiles magiques sont récupérés dégradés (ex: on tire une flèche +2 et on récupère une flèche +1, on tire une flèche +1 et on récupère une flèche normale...).|<strong>Ce mod n'est compatible qu'avec Easy Tutu, pas BG1Tutu.</strong>|<span style=\"color: lime\">En cours de ré-écriture et de traduction.</span>",
         "urls": [
-            "http://igidata.com/files/ie/mods/iiProjectileRetrieval/iiProjectileR(09).zip"
+            "https://github.com/btigi/iiProjectileR"
         ],
         "categories": [
             "Gameplay"
@@ -36146,16 +36126,18 @@
         "authors": [
             "igi"
         ],
-        "team": [
-            "Freddy_Gwendo"
-        ],
+        "team": [],
         "notes": [
             "Ce mod a un effet pervers que vous découvrirez si vous faites larder de flèches..."
         ],
-        "is_weidu": null,
-        "translation_state": "wip",
+        "is_weidu": true,
+        "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "es"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -36163,7 +36145,8 @@
         "name": "iiSpell System Adjustment",
         "description": "Créé par igi, ce petit mod change le mécanisme de lancement des sorts en permettant aux utilisateurs de magie profane et divine de regagner des sorts sans avoir besoin de se reposer. Il autorise ainsi une nouvelle façon de jouer : les mages et les prêtres peuvent être joués comme une classe de sorcier plus flexible, et de nouvelles tactiques sont possibles, car les sorts peuvent devenir disponibles au milieu d'une bataille.|Vous pouvez personnaliser le délai pour récupérer un sort, de ne récupérer un sort que si l'incantation a réussi ou même si elle a échoué (par exemple si elle a été interrompue). Le tout par niveau de sort. De la même manière, des composants optionnels vous permettent de déterminer de la même manière quel montant d'XP vous gagnez en lançant des sorts.|Notez que ce mod peut sérieusement affecter le jeu et s'applique également aux lanceurs de sorts ennemis. Avec un mod comme [[Sword Coast Stratagems]], les mages ennemis utiliseront - inconsciemment - cette récupération de sorts à leur avantage.",
         "urls": [
-            "http://www.shsforums.net/files/file/961-iispellsystemadjustments/"
+            "http://www.shsforums.net/files/file/961-iispellsystemadjustments/",
+            "https://github.com/btigi/iiSpellSystemAdjustments"
         ],
         "categories": [
             "Gameplay"
@@ -36179,10 +36162,13 @@
         "notes": [
             "D'où le dernier avertissement : comme les minuteurs fonctionnent même pendant l'effet d'un sort d'Arrêt du temps, un délai trop court peut arrêter le temps pour toujours ! Je vous mets donc en garde contre les délais inférieurs à 40 pour les sort de niveau 9. Un délai raisonnable pour eux se situe entre 5 minutes (240) et 40 minutes (1920), ce qui devrait correspondre aux 8 heures de jeu."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "es"
+        ],
         "status": true,
         "last_update": "11-2011"
     },
@@ -36190,7 +36176,7 @@
         "name": "iiTweaks",
         "description": "Ce mod est une collection d'ajustements pour les jeux IE. Seuls ceux qui concernent votre jeu seront disponibles à l'installation. N'oubliez-pas que certains peuvent considérer le déséquilibrer si vous ne faites pas attention. Vous pourrez par exemple supprimer les écoles d'opposition des sorts, les caractéristiques ou les alignements pré-requis pour choisir une classe ou se jumeler, les modifications raciales, permettre à tous les marchands d'acheter des objets volés...",
         "urls": [
-            "http://igidata.com/files/ie/mods/iiTweak/iiTweak(08).zip"
+            "https://github.com/btigi/iiTweak"
         ],
         "categories": [
             "Gameplay"
@@ -36210,10 +36196,13 @@
         "notes": [
             "N'oubliez-pas que ce mod est vraiment, vraiment très vieux, et dépassé par la plupart des autres Tweaks packs."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
-        "languages": [],
+        "languages": [
+            "en",
+            "es"
+        ],
         "status": true,
         "last_update": ""
     },
@@ -36510,35 +36499,6 @@
         "last_update": "10-2024"
     },
     {
-        "name": "Dream Walker Shaman Kit",
-        "description": "Dreamwalkers are Shamans with a strong divine connection to the Region of Dreams. They not only tap into the energies that flow through the earth and air, through plants and animals, and even through the dead, but also those of the Region of Dreams and the Demiplane of Nightmares and shape these energies to obey their will.",
-        "urls": [
-            "https://github.com/thisisulb/DreamWalkerShamanKit"
-        ],
-        "categories": [
-            "Kit"
-        ],
-        "games": [
-            "BGEE",
-            "SoD",
-            "BG2EE"
-        ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "Le mod n'est plus mis à jour depuis la version 1.2 de BGEE"
-        ],
-        "is_weidu": true,
-        "translation_state": false,
-        "safe": null,
-        "languages": [
-            "en",
-            "it"
-        ],
-        "status": true,
-        "last_update": "02-2019"
-    },
-    {
         "name": "PeaceSpeaker, the anti-violence sword",
         "description": "Embarquez pour une courte quête mettant en scène une épée intelligente, une apprentie qui n'en fait qu'à sa tête et un sorcier grincheux.",
         "urls": [
@@ -36696,7 +36656,7 @@
         "name": "IRStore",
         "description": "Voici un mod d'objets très puissants que vous pourrez trouver chez Nathan à la Promenade de Waukyne.",
         "urls": [
-            "https://github.com/The-Gate-Project/DGItems"
+            "https://github.com/The-Gate-Project/IRStore"
         ],
         "categories": [
             "Sort et objet"
@@ -36758,7 +36718,7 @@
         "name": "Protagonist Can Die",
         "description": "Habituellement le jeu se termine lorsque le protagoniste meurt. Ce mini-mod empêche ce fonctionnement, la fin du jeu ne se produira pas tant qu'un membre du groupe est encore en vie. Dans le cas contraire, le protagoniste pourra être ressuscité par le groupe.",
         "urls": [
-            "https://www.dropbox.com/s/ar7egyefm39m8o2/Protagonist_Can_Die_V93.zip?dl=1"
+            "https://github.com/Endarire/Protagonist-Can-Die-Mod-for-EET"
         ],
         "categories": [
             "Gameplay"
@@ -37859,25 +37819,30 @@
         "name": "Sub-zero",
         "description": "Sub-Zero est un assassin du clan Lin Kuei. Kuai Liang possède le pouvoir de la glace et du froid. Comme son nom l'indique, le personnage est clairement inspiré du personnage homonyme de Mortal Kombat et possède son style très particulier.",
         "urls": [
-            "http://www.shsforums.net/topic/61087-mod-sub-zero-companion/"
+            "http://www.shsforums.net/topic/61087-mod-sub-zero-companion/",
+            "https://github.com/Endarire/BG2-Sub-Zero-Companion"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Gamemacik"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le personnage a toutes ses caractéristiques à 18…",
+            "Le lien github est compatible avec EET."
+        ],
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "06-2021"
+        "last_update": "05-2023"
     },
     {
         "name": "The Return of Xzar and Montaron",
@@ -38812,7 +38777,7 @@
         "name": "Talents of Faerûn (WIP)",
         "description": "Ce très gros mod est une collection de plusieurs dizaines de mods. Il contient de nombreux ajustements optionnels à diverses parties du jeu, se concentrant sur l'expansion et le rééquilibrage des capacités du joueur. Il comprend des dizaines de HLA, une révision des kits existants, un système de sous-race etc",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1041-talents-of-faer%C3%BBn/?do=download",
+            "https://www.gibberlings3.net/files/file/1041-talents-of-faer%C3%BBn/",
             "https://github.com/Gibberlings3/TalentsOfFaerun"
         ],
         "categories": [
@@ -39009,11 +38974,20 @@
             "GraionDilach"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "<a href=\"https://github.com/GraionDilach/Icewind-Dale-Voice-Pack-For-EE-2.6\">Pack IWDEE</a>",
+            "<a href=\"https://github.com/GraionDilach/Planescape-Torment-Voice-Pack-for-EE-2.6\">Pack PsTEE</a>",
+            "<a href=\"https://github.com/GraionDilach/Baldurs-Gate-Voice-Pack-for-EE-2.6\">Pack BG pour PC</a>",
+            "<a href=\"https://github.com/GraionDilach/Baldurs-Gate-NPC-Voice-Pack-for-EE-2.6\">Pack BG pour NPC</a>",
+            "<a href=\"https://github.com/GraionDilach/Icewind-Dale-II-Voice-Pack-For-EE-2.6\">Pack IWD2EE</a>",
+            "<a href=\"https://github.com/GraionDilach/Neverwinter-Nights-Voice-Pack-for-EE-2.6\">Pack NWN</a>"
+        ],
         "is_weidu": true,
-        "translation_state": null,
+        "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "11-2022"
     },
@@ -39070,5 +39044,183 @@
         "languages": [],
         "status": true,
         "last_update": "01-2023"
+    },
+    {
+        "name": "Blood And Faith",
+        "description": "Trop souvent, les criminels s'en tirent pour une raison ou une autre. Une certaine lathandrite veut changer cela, mais elle a besoin de votre aide. C'est une histoire de sang et de foi, une histoire de damnation... ou de rédemption. Un mod contenant 14 quêtes.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38708-mod-release-blood-and-faith-a-bg1-questline-mod/",
+            "https://github.com/Glittergear/BloodAndFaith"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Glittergear"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "10-2023"
+    },
+    {
+        "name": "Husam NPC",
+        "description": "Husam est un voleur de l'ombre amnien, qui a été envoyé dans BG1 pour s'assurer que les accusations portées contre sa guilde au sujet des meurtres se sont avérées fausses. Dans le jeu original, il se révèle au protagoniste vers la fin de BG1 et guide le protagoniste vers les vrais coupables. Voici ses caractéristiques : FOR 17, DEX 18, CON 16, INT 15, SAG 14, CHA 10",
+        "urls": [
+            "https://github.com/Gitjas/Husam_NPC"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "jastey"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "10-2023"
+    },
+    {
+        "name": "Thalantyr Item Upgrade Extensions",
+        "description": "Ce mod est une extension du mod [[Thalantyr Item Upgrade]] qui ajoute de nouveaux objets utilisables par Thalantyr.",
+        "urls": [
+            "https://github.com/BardezAnAvatar/BGEE-Thalantyr-Ex"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Bardez"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "09-2023"
+    },
+    {
+        "name": "Better Random Library",
+        "description": "Ce programme permet d'injecter une librairie C pour améliorer l'aléatoire de l'InfinityEngine. Lisez le README pour plus d'informations.",
+        "urls": [
+            "https://github.com/snaphat/InfinityEngineBetterRandom"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "IWD",
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "PST",
+            "PSTEE"
+        ],
+        "authors": [
+            "snaphat"
+        ],
+        "team": [],
+        "notes": [
+            "Compatible qu'avec Windows.",
+            "Pour les versions EE, privilégiez [[Random rolls using RDRAND]]."
+        ],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": null,
+        "languages": [],
+        "status": true,
+        "last_update": "07-2023"
+    },
+    {
+        "name": "Random rolls using RDRAND",
+        "description": "Ce programme permet d'améliorer l'aléatoire de l'InfinityEngine. En effet, lorsque de nombreux lancers sont effectués, il devient apparent que les résultats finissent par se répéter. Lisez le README pour plus d'informations.",
+        "urls": [
+            "https://github.com/drake127/randomrolls"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "PSTEE",
+            "EET"
+        ],
+        "authors": [
+            "drake127"
+        ],
+        "team": [],
+        "notes": [
+            "Compatible avec Windows et Linux.",
+            "Pour des versions originales, il est possible d'utiliser [[Better Random Library]]."
+        ],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "07-2024"
+    },
+    {
+        "name": "Hexxat Friendship",
+        "description": "Ce mod ajoute une série de dialogues à Hexxat, la fameuse vampire, et développe ses expériences et ses difficultés.",
+        "urls": [
+            "http://www.shsforums.net/files/file/1278-hexxat-friendship-soa-tob/",
+            "https://github.com/SpellholdStudios/Hexxat-Friendship"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "07-2024"
     }
 ]
