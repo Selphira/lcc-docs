@@ -4531,8 +4531,9 @@
     },
     {
         "name": "Balduran's Seatower",
-        "description": "Toujours en phase de développement, ce mod est le fruit d'une collaboration entre de nombreux moddeurs. Il ajoute un nouveau quartier à La Porte de Baldur, avec de nombreuses quêtes qui vous obligeront à arpenter la Côte des Épées.",
+        "description": "Ce mod est le fruit d'une collaboration entre de nombreux moddeurs. Il ajoute un nouveau quartier à La Porte de Baldur, avec de nombreuses quêtes qui vous obligeront à arpenter la Côte des Épées.",
         "urls": [
+            "https://www.gibberlings3.net/mods/quests/baldurans-seatower/",
             "https://github.com/Gibberlings3/BS_Baldurans_Seatower"
         ],
         "categories": [
@@ -4547,13 +4548,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée dont les auteurs n'ont pas hésité à voler les ressources graphiques de celui-ci. Ne la téléchargez pas !"
-        ],
-        "is_weidu": null,
+        "notes": [],
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de"
+        ],
         "status": true,
         "last_update": "12-2023"
     },
@@ -4575,7 +4577,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[Never Ending Journey]] et/ou [[Tortured Souls-BP]]. Dans ce cas, téléchargez le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et Keldorn's Romance, ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[Never Ending Journey]] et/ou [[Tortured Souls-BP]]. Dans ce cas, téléchargez le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -21497,7 +21499,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Ce mod nécessite d'installer auparavant le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et Keldorn's Romance, ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+            "Ce mod nécessite d'installer auparavant le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         ],
         "is_weidu": null,
         "translation_state": false,

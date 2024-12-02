@@ -30,6 +30,7 @@ def main(env):
         categories=categories,
         static=f"src{os.sep}static{os.sep}",
         attrs_icon_data=attrs_icon_data,
+        mod_length=len(mods),
     )
 
     with open("index.html", "w") as f:
