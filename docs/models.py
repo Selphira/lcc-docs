@@ -53,6 +53,7 @@ class Mod:
         authors,
         status,
         last_update,
+        tp2,
     ):
         self.name = name
         self.categories = categories
@@ -68,6 +69,7 @@ class Mod:
         self.authors = authors
         self.status = status
         self.last_update = last_update
+        self.tp2 = tp2
 
     @property
     def id(self) -> str:
