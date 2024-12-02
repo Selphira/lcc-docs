@@ -39579,35 +39579,6 @@
         "last_update": "07-2024"
     },
     {
-        "name": "Sir Wallace",
-        "description": "Wallace est une citrouille druidique qui a grandi dans une ferme. Sa métamorphose s'est produite suite à une rencontre avec un sorcier. Comme toutes les citrouilles, il est résistant aux attaques physiques. Son penchant naturel pour les légumes fait qu'il n'est pas romançable, surtout pas par des humanoïdes sans respect pour la nature. Il va s'en dire que c'est un fervent défenseur des citrouilles de toute taille.",
-        "urls": [
-            "https://github.com/szaumoor/sirwallace"
-        ],
-        "categories": [
-            "PNJ recrutable"
-        ],
-        "games": [
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [
-            "CursedScholar"
-        ],
-        "team": [],
-        "notes": [
-            "STR 14, DEX 16, CON 16, INT 9, SAG 16, CHA 13"
-        ],
-        "is_weidu": true,
-        "translation_state": false,
-        "safe": true,
-        "languages": [
-            "en"
-        ],
-        "status": true,
-        "last_update": "07-2024"
-    },
-    {
         "name": "Orelios",
         "description": "Orelios est un moine sans kit d'Aglarond qui a longtemps combattu Thay avant d'opter pour un mode de vie plus contemplatif. C'est du moins ce qu'il prétend... Il gagne des compétences spéciales au fil des niveaux. Il possède sa propre voix.",
         "urls": [
@@ -39642,7 +39613,7 @@
         "name": "Kitanya Resurrected",
         "description": "Kitanya est une elfe tueuse de magiciens qui chasse un mage elfique exilé (devinez qui). Elle est Loyale Bonne possède sa propre voix et une romance est possible. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.",
         "urls": [
-            "https://github.com/PaulaMigrate/Orelios"
+            "https://github.com/PaulaMigrate/Kitanya-Resurrected/"
         ],
         "categories": [
             "PNJ recrutable"
