@@ -931,7 +931,7 @@
             "Zooloo"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+            "Choississez le lien github pour la version BG2EE/EET."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -1053,7 +1053,7 @@
             "Streen"
         ],
         "notes": [
-            "Choississez le second lien github pour la version BG2EE/EET proposé par Plutonium_X."
+            "Choississez le second lien github pour la version BG2EE/EET."
         ],
         "is_weidu": null,
         "translation_state": true,
@@ -1551,22 +1551,21 @@
         "name": "Animate Dead Now",
         "description": "Ce mod permet de ressusciter les pnjs tombés au combat sous la forme de mort-vivants.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/31353-animate-dead-now-mod-for-ee/?do=findComment&comment=288259",
-            "https://github.com/Endarire/Animate-Dead-Now/releases/tag/June-21-2023"
+            "https://www.gibberlings3.net/forums/topic/31353-animate-dead-now-mod-for-ee/",
+            "https://github.com/Endarire/Animate-Dead-Now/"
         ],
         "categories": [
             "Gameplay"
         ],
         "games": [
             "BGEE",
-            "BG2EE",
             "SoD",
             "EET"
         ],
         "authors": [],
         "team": [],
         "notes": [
-            "Il est en mod Bêta et l'auteur a supprimé le lien de téléchargement."
+            "L'auteur a supprimé le lien de téléchargement. Il a été récupéré et mis en ligne sur le lien github."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -2457,7 +2456,7 @@
             "Thot"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+            "Choississez le lien github pour la version BG2EE/EET."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -2690,7 +2689,7 @@
         "description": "Si vous avez toujours rêvé d'acheter des bottes roses à Imoen, de connaître les derniers potins auprès des marchands d'Athkatla, d'en apprendre davantage sur la vie quotidienne dans cette ville, ce module est fait pour vous. Aurora's Shoes and Boots ajoute plus de 2 douzaines de paires de bottes, aussi utiles que stylées. Ajoutez à cela la présence d'Aurora, guerrière à la retraite de son état, qui piquera votre curiosité avec les derniers potins des nobles et autres gens du commun. Vous ferez également la connaissance de Tomthal, un gnome atteint d'un mystérieux mal, et de Karaea, sa sœur bienaimée, tous deux vendeurs également. Plusieurs objets sont également disséminés à travers le jeu de façon aléatoire.",
         "urls": [
             "http://www.shsforums.net/files/file/831-auroras-shoes-and-boots/",
-            "https://github.com/Sampsca/Auroras-Shoes-and-Boots"
+            "https://github.com/Endarire/Aurora-s-Shoes-and-Boots-for-BG2"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -2698,15 +2697,19 @@
         "games": [
             "BG2",
             "Tutu",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
-            "Sampsca"
+            "Bookwyrme"
         ],
         "team": [
             "Aldiemus"
         ],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version EE."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
@@ -2740,8 +2743,7 @@
             "Badgert"
         ],
         "team": [
-            "Le Marquis",
-            "deratiseur"
+            "Le Marquis"
         ],
         "notes": [
             "Utilisez le lien shs pour la version BG2/BGT/TuTu et le lien github pour la version BG2EE/EET."
@@ -3668,7 +3670,9 @@
             "IWDEE",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Magus"
+        ],
         "team": [],
         "notes": [
             "La version française est disponible via le second lien."
@@ -3676,7 +3680,15 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "pl",
+            "po",
+            "ru",
+            "es",
+            "sw"
+        ],
         "status": true,
         "last_update": "10-2024"
     },
@@ -6225,7 +6237,7 @@
             "Fouinto"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+            "Choississez le lien github pour la version BG2EE/EET."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -6722,8 +6734,7 @@
         "team": [
             "Miry Wolfwood",
             "Le Marquis",
-            "Magière",
-            "deratiseur"
+            "Magière"
         ],
         "notes": [
             "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
@@ -7820,10 +7831,12 @@
         "notes": [
             "Si vous jouez un personnage multi-classé, il est fortement recommander d'installer [[EEex]] avant ce mod."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "03-2021"
     },
@@ -11469,13 +11482,20 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "GraionDilach"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "cn",
+            "es"
+        ],
         "status": true,
         "last_update": "03-2024"
     },
@@ -12009,7 +12029,7 @@
         "last_update": "03-2021"
     },
     {
-        "name": "Flamewing's Tweaks for Baldur's Gate II",
+        "name": "Flamewing's Tweaks",
         "description": "Anciennement \"<a href=\"http://www.shsforums.net/topic/45252-convenience-tweaks-and-glaicas-fix/\">Convenience Tweaks and Glaicas Fix</a>\", ce mod a été adapté aux jeux EE. Il s'agit d'une (petite) collection d'ajustements, de triches et de correctifs qui rendent certaines choses légèrement plus pratiques qu'elles ne l'étaient dans le jeu original, en particulier si vous jouez pour la 100e fois. Il comporte plusieurs composants : Toujours gagner contre Aesgareth, Réduire le nombre de tirage pour obtenir ce qu'on veut du Jeu de carte merveilleuse, Rendre la Machine de Lum le Fou plus facile à utiliser, Libérer plus facilement Glaicas de son charme, Les armes de jeu ne bénéficient plus de bonus de force au toucher.",
         "urls": [
             "https://github.com/flamewing/m7tweaks/"
@@ -12722,11 +12742,10 @@
             "Zyl"
         ],
         "team": [
-            "Zyl",
-            "deratiseur"
+            "Zyl"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET proposé par deratiseur."
+            "Choississez le lien github pour la version BG2EE/EET."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -13034,7 +13053,8 @@
         ],
         "team": [],
         "notes": [
-            "[[Kelsey NPC]] semble requis."
+            "[[Kelsey NPC]] semble requis.",
+            "Attention, le contenu est explicite."
         ],
         "is_weidu": true,
         "translation_state": false,
@@ -14325,8 +14345,7 @@
         ],
         "authors": [],
         "team": [
-            "La Voix 2 la Sagesse",
-            "deratiseur"
+            "La Voix 2 la Sagesse"
         ],
         "notes": [
             "Utilisez le lien pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
@@ -14383,8 +14402,7 @@
         ],
         "authors": [],
         "team": [
-            "Le Marquis",
-            "deratiseur"
+            "Le Marquis"
         ],
         "notes": [
             "Ce pnj n'est pas compatible avec le composant `Francmarché` du mod [[Made in Heaven : Encounters and Quests]] qui modifie la crypte de Francmarché et rend Horace inacessible.",
@@ -16752,7 +16770,7 @@
         "last_update": ""
     },
     {
-        "name": "Jim Fixes and tweaks (Jimfix)",
+        "name": "Jim Fixes and tweaks",
         "description": "Ce petit mod intégrait les modification d'IA de [[Sword Coast Stratagems]] dans [[Ascension]].",
         "urls": [
             "https://forums.beamdog.com/discussion/66358/mod-jimfix-ascension-scs-fixes-general-tweaks/p1",
@@ -19341,8 +19359,7 @@
         ],
         "authors": [],
         "team": [
-            "Garfield",
-            "deratiseur"
+            "Garfield"
         ],
         "notes": [
             "Utilisez le premier lien github pour la version BG2 et le second pour la version BG2EE/EET."
@@ -19697,7 +19714,7 @@
             "Althéa"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+            "Choississez le lien github pour la version BG2EE/EET."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -20195,7 +20212,7 @@
             "deratiseur"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+            "Choississez le lien github pour la version BG2EE/EET."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -20341,8 +20358,7 @@
             "Prismo"
         ],
         "team": [
-            "Mornagest",
-            "deratiseur"
+            "Mornagest"
         ],
         "notes": [
             "Le composant `Révision du poing du moine`, qui modifie la table de progression de leur puissance, ne fonctionne que sur EE.",
@@ -23215,8 +23231,7 @@
             "Huxaltec"
         ],
         "team": [
-            "Huxaltec",
-            "deratiseur"
+            "Huxaltec"
         ],
         "notes": [],
         "is_weidu": true,
@@ -23229,7 +23244,7 @@
         "last_update": "10-2024"
     },
     {
-        "name": "Planar Items",
+        "name": "Items of the Planes",
         "description": "Ce mod modifie de nombreux objets various (armes et équipement) dans PST:EE à la manière d'[[Item Revisions]], dans le but de rendre le choix de l'équipement et la gestion des combats beaucoup plus intéressants. Il uniformise les dégâts infligés par type d'armes, rend certaines armes conformes à leur description, et rééquilibre la puissance des objets selon les classes (par exemple, dans PST, les mages avaient plus de chances d'obtenir une bonne CA qu'un guerrier !).",
         "urls": [
             "https://forums.beamdog.com/discussion/69700/mod-items-of-the-planes/p1",
@@ -23241,13 +23256,17 @@
         "games": [
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "aquadrizzt"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "04-2023"
     },
@@ -23305,11 +23324,10 @@
             "Jochen Gehring"
         ],
         "team": [
-            "Darien",
-            "deratiseur"
+            "Darien"
         ],
         "notes": [
-            "Pour un jeu EE, utilisez la version de deratiseur (lien github)."
+            "Choisissez le lien github pour la version EE."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -24001,7 +24019,7 @@
             "deratiseur"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+            "Choississez le lien github pour la version BG2EE/EET."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -24490,8 +24508,7 @@
             "al17"
         ],
         "team": [
-            "SkipCool",
-            "deratiseur"
+            "SkipCool"
         ],
         "notes": [
             "Quelque soit les kits que vous installez, vous DEVEZ installer le composant final.",
@@ -25580,10 +25597,11 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "dragon_lord"
+        ],
         "team": [
-            "La Voix 2 la Sagesse",
-            "deratiseur"
+            "La Voix 2 la Sagesse"
         ],
         "notes": [
             "Pour un jeu EE, utilisez le second ou le troisième lien de téléchargement fourni par deratiseur.",
@@ -25592,7 +25610,16 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "cz",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "pl",
+            "ru",
+            "es"
+        ],
         "status": true,
         "last_update": "10-2024"
     },
@@ -26702,11 +26729,10 @@
             "the bigg"
         ],
         "team": [
-            "Egrevyn",
-            "deratiseur"
+            "Egrevyn"
         ],
         "notes": [
-            "Le second lien de téléchargement, fourni par deratiseur, est compatible EE (deratiseur a en outre inclus une compatibilité avec IWD:EE et EET)."
+            "Le lien github est compatible EE."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -29743,10 +29769,11 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Michael Lyashenko"
+        ],
         "team": [
-            "Yoho",
-            "deratiseur"
+            "Yoho"
         ],
         "notes": [
             "Il existe deux versions du mod : celle-ci, la version originelle 2.05g, traduite, mais qui n'est plus maintenue depuis 2006 et suscitera probablement des incompatibilités avec d'autres mods à vos risques et périls."
@@ -30149,13 +30176,12 @@
             "EET"
         ],
         "authors": [
-            "Immortality"
+            "Sergiond"
         ],
         "team": [
             "Althéa",
             "Cendre",
-            "Mornagest",
-            "deratiseur"
+            "Mornagest"
         ],
         "notes": [
             "La version BG2/BGT est téléchargeable sur le forum shs. La version BG2EE/EET se télécharge via le lien GitHub."
@@ -30838,8 +30864,9 @@
     },
     {
         "name": "The Gorgon's Eye",
-        "description": "The Gorgon's Eye is a small content mod for BG:EE/SoD and EET that adds an underground thieves den into the town of Beregost. It contains 20 new quests, 2 new areas(reused), dozens of new characters, a new store that buys stolen goods, a few new items and a very small item-upgrade. It can be accessed immediately after leaving Candlekeep and is open to all players, excluding those with a lawful-good alignment.",
+        "description": "Ce mod ajoute un repaire de voleurs souterrain sous la ville de Bérégost. Il contient de nouvelles quêtes, de nouveaux personnages, de nouveaux magasins et de nouveaux objets. La zone est accessible immédiatement après avoir quitté Château-Suif et est ouverte à tous les joueurs, à l'exception de ceux qui sont d'alignement Loyal Bon. Préparez-vous à vous comporter comme un voleur. Cependant, il existe des alternatives pour les alignements bon ou neutre.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/35938-the-gorgons-eye-thieves-guild-in-beregost-mod/",
             "https://github.com/TotalMilk90/gorgon"
         ],
         "categories": [
@@ -30849,13 +30876,18 @@
             "BGEE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "TotalMilk90"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": true,
         "last_update": "09-2024"
     },
@@ -32534,7 +32566,7 @@
         "team": [],
         "notes": [
             "Attention : Comme il patche toutes les zones, il est recommandé de l'installer à la fin.",
-            "Choississez le lien github pour la version BG2EE/EET proposé par Plutonium_X."
+            "Choississez le lien github pour la version BG2EE/EET."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -32801,7 +32833,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Sillara"
+        ],
         "team": [
             "La Voix 2 la Sagesse",
             "Egrevyn",
@@ -35933,7 +35967,7 @@
         "name": "Zyraen's Miscellany",
         "description": "Ce mod regroupe une collection d'ajustements au gameplay écrits par Zyraen, comme l'accélération de la quête d'Ust-Natha, l'amélioration des énigmes de la statue dans Spellhold, la suppression des restrictions d'alignement pour tous les objets... Consultez le <a href=\"https://mods.pocketplane.net/zyraenmods/readme-misc.html\">readme</a> pour plus de détails.",
         "urls": [
-            "http://www.pocketplane.net/zyraen"
+            "https://www.pocketplane.net/zyraens-miscellany/"
         ],
         "categories": [
             "Gameplay"
@@ -36400,16 +36434,21 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Sikret"
+        ],
         "team": [
-            "deratiseur"
+            "Chevalier de Pardayan"
         ],
         "notes": [],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
-            "fr"
+            "fr",
+            "en",
+            "cz",
+            "es"
         ],
         "status": true,
         "last_update": "10-2024"
@@ -36425,9 +36464,12 @@
             "Gameplay"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Thor Thunderfist"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -36460,7 +36502,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Daeros Trollkiller"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -36486,7 +36530,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "RoyalProtector"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -39062,7 +39108,9 @@
             "Glittergear"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Notez qu'à l'origine le mod s'appelait `Errant Justice`."
+        ],
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
@@ -39222,5 +39270,461 @@
         ],
         "status": true,
         "last_update": "07-2024"
+    },
+    {
+        "name": "Pits of Despair",
+        "description": "Extension pour BG2:EE. Incorpore les Fosses noires 2 : Gladiateurs de Thay dans les campagnes SoA et ToB.",
+        "urls": [
+            "https://github.com/zenblack/Pits-of-Despair"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "zenblack"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "07-2024"
+    },
+    {
+        "name": "Dead Gardens",
+        "description": "Un archidruide est mort mais a ressuscité sous la forme d'une créature morte-vivante. Il est incapable d'aller de l'avant à cause de son plus grand regret : avoir empêché trois enfants d'être sacrifiés à Malar. Il regrette (1) son intervention et (2) le fait que deux des trois enfants soient devenus des personnes horribles. Aidez l'archidruide mort-vivant à retrouver la paix.... d'une manière ou d'une autre.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37955-quest-mod-dead-gardens/",
+            "https://github.com/Glittergear/DeadGardens/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Glittergear"
+        ],
+        "team": [],
+        "notes": [
+            "Probablement incompatible avec les mods [[Tashia NPC]] et [[Check the Bodies]] pour utiliser la même grotte."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "05-2024"
+    },
+    {
+        "name": "New and Revised Spells",
+        "description": "Ce gros mod ajoute plusieurs dizaines de sort et en modifie d'autres.",
+        "urls": [
+            "https://github.com/UnearthedArcana/B_Spells"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Grammarsalad"
+        ],
+        "team": [],
+        "notes": [
+            "La dernière release date de 2018 mais de nombreux fixs ont été apportés sans être (encore) incorporés."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "10-2018"
+    },
+    {
+        "name": "Ulb's animation Pack",
+        "description": "Ce mod contient de nouvelles animations pour certaines créatures comme Sunnis, Zaaman Rul ou les élémentaires de glace.",
+        "urls": [
+            "https://github.com/thisisulb/UlbsAnimationPack"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Ulb"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "04-2020"
+    },
+    {
+        "name": "A Fowl Wish",
+        "description": "Un apprenti mage a accidentellement donné une bougie de souhaits limités à un noble pour qu'il l'utilise lors de la fête d'anniversaire de son poulet ! Le protagoniste doit récupérer la bougie avant qu'elle ne soit utilisée. Qui sait ce que l'oiseau pourrait souhaiter, et quels dégâts la magie pourrait causer ?",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37911-quest-mod-a-fowl-wish/",
+            "https://github.com/Glittergear/A-Fowl-Wish"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Glittergear"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "02-2024"
+    },
+    {
+        "name": "Gone Nuts",
+        "description": "Un lanceur de sorts réputé a disparu à Franc-Marché ! Ses amis pensent qu'il a été enlevé par les sorciers rouges, mais ces derniers affirment qu'ils n'ont rien fait de tel. Le protagoniste parviendra-t-il à élucider ce mystère ?",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37939-quest-mod-gone-nuts/",
+            "https://github.com/Glittergear/GoneNuts/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Glittergear"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "02-2024"
+    },
+    {
+        "name": "Call of the Lost Goddess",
+        "description": "Ce mod ajoute une grosse quête d'une dizaine d'heures. Près de 50 nouvelles zones sont créées avec de nouveaux monstres. Cette quête est librement inspirée du module d'aventure de la seconde édition \"For Duty and Deity\" écrit par Dale Donovan.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88425/released-mod-call-of-the-lost-goddess-a-quest-mod-for-bg2ee"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Acifer"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "02-2024"
+    },
+    {
+        "name": "Compass Of Womanhood",
+        "description": "Son but est de créer un ensemble varié de compagnes intéressantes qui s'intègrent bien dans l'univers des Royaumes Oubliés et dans les jeux de base. Deux compagnes sont disponibles. Shithri, une pirate vagabonde demi-orque et Caly, une élégante courtisane de Calimshan (en cours de développement). Shithri possède de nombreux banters et même des chants pirates.",
+        "urls": [
+            "https://github.com/WitchesOfThePlanes/CompassOfWomanhood"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "udiknedormin"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "pl"
+        ],
+        "status": true,
+        "last_update": "02-2023"
+    },
+    {
+        "name": "Valkrana NPC",
+        "description": "Faites entrer la nécromancienne squelette la plus maladroite du multivers dans votre groupe. Ce compagnon à part entière comprend sa propre voix, une quête de personnage, des scripts personnalisés, et bien plus encore. Voici ses caractéristiques : FOR 8, DEX 10, CON 14, INT 21, SAG 16, CHA 7. Comme tout squelette, elle possède une résistance au froid, une immunité au poison et à l'absorption de niveau.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38124-valkrana-npc-mod-%E2%80%94-an-awkward-necromancer/",
+            "https://github.com/ActualSailorCat/Valkrana-NPC-BG2"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Sailor Cat"
+        ],
+        "team": [],
+        "notes": [
+            "Portraits de personnages par Nyama. Voix de Sailor Cat.",
+            "Compatibilité avec EET non testée."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "09-2024"
+    },
+    {
+        "name": "Galileo",
+        "description": "Galileo est un barde petite-personne d'alignement Neutre Bon, ses caractéristiques sont FOR 12, DEX 19, CON 14, INT 15, SAG 8, CHA 16. Il a une compétence spéciale utilisable une fois par jour qui lui permet de soigner les membres du groupe. À plus haut niveau, elle protège aussi les alliés contre la peur, le charme et la confusion.",
+        "urls": [
+            "https://github.com/CrevsDaak/7c-galileo"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "Tutu",
+            "BGT",
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "Quartz",
+            "Crevs Daak"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "02-2024"
+    },
+    {
+        "name": "Sir Wallace",
+        "description": "Wallace est une citrouille druidique qui a grandi dans une ferme. Sa métamorphose s'est produite suite à une rencontre avec un sorcier. Comme toutes les citrouilles, il est résistant aux attaques physiques. Son penchant naturel pour les légumes fait qu'il n'est pas romançable, surtout pas par des humanoïdes sans respect pour la nature. Il va s'en dire que c'est un fervent défenseur des citrouilles de toute taille.",
+        "urls": [
+            "https://github.com/szaumoor/sirwallace"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CursedScholar"
+        ],
+        "team": [],
+        "notes": [
+            "STR 14, DEX 16, CON 16, INT 9, SAG 16, CHA 13"
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "07-2024"
+    },
+    {
+        "name": "Sir Wallace",
+        "description": "Wallace est une citrouille druidique qui a grandi dans une ferme. Sa métamorphose s'est produite suite à une rencontre avec un sorcier. Comme toutes les citrouilles, il est résistant aux attaques physiques. Son penchant naturel pour les légumes fait qu'il n'est pas romançable, surtout pas par des humanoïdes sans respect pour la nature. Il va s'en dire que c'est un fervent défenseur des citrouilles de toute taille.",
+        "urls": [
+            "https://github.com/szaumoor/sirwallace"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "CursedScholar"
+        ],
+        "team": [],
+        "notes": [
+            "STR 14, DEX 16, CON 16, INT 9, SAG 16, CHA 13"
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "07-2024"
+    },
+    {
+        "name": "Orelios",
+        "description": "Orelios est un moine sans kit d'Aglarond qui a longtemps combattu Thay avant d'opter pour un mode de vie plus contemplatif. C'est du moins ce qu'il prétend... Il gagne des compétences spéciales au fil des niveaux. Il possède sa propre voix.",
+        "urls": [
+            "https://github.com/PaulaMigrate/Orelios"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Danzig"
+        ],
+        "team": [],
+        "notes": [
+            "FOR 15, DEX 18, CON 16, INT 13, SAG 17, CHA 8",
+            "Ce mod est peu connu, il est possible qu'il créé des incompatibilités."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "03-2023"
+    },
+    {
+        "name": "Kitanya Resurrected",
+        "description": "Kitanya est une elfe tueuse de magiciens qui chasse un mage elfique exilé (devinez qui). Elle est Loyale Bonne possède sa propre voix et une romance est possible. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.",
+        "urls": [
+            "https://github.com/PaulaMigrate/Orelios"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "rastor"
+        ],
+        "team": [],
+        "notes": [
+            "FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19",
+            "Ce mod est peu connu, il est possible qu'il créé des incompatibilités."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "10-2020"
+    },
+    {
+        "name": "Sir Neh'taniel",
+        "description": "Neh'taniel est un paladin qui possède son propre kit. Il possède sa voix et peut être romancé par des hommes d'alignement bon. Il dispose d'une quête et son épée a la particularité de pouvoir dialoguer.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/60"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE"
+        ],
+        "authors": [
+            "Kitanna"
+        ],
+        "team": [],
+        "notes": [
+            "FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19",
+            "La compatibilité EET n'est pas testée."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "08-2022"
+    },
+    {
+        "name": "The One Drizzt",
+        "description": "Ce mod vous permet de jouer avec Drizzt dans votre groupe tout en ayant un niveau similaire aux autres personnages pour éviter de rendre le jeu trop facile.",
+        "urls": [
+            "http://www.shsforums.net/files/file/975-the-one-drizzt-v141/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG",
+            "BG2"
+        ],
+        "authors": [
+            "Shi woo"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru",
+            "es"
+        ],
+        "status": true,
+        "last_update": "08-2012"
     }
 ]
