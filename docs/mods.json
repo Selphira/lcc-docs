@@ -4866,7 +4866,9 @@
         "team": [
             "Freddy_Gwendo"
         ],
-        "notes": [],
+        "notes": [
+            "Incompatible avec [[Interaction Expansion Project Banters]]."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
@@ -6207,7 +6209,7 @@
         "description": "À l'origine, DrAzTiK avait développé un petit mod rendant le combat plus dynamique et plus relevé contre Tazok et Dig-Dag dans le repaire de Firkraag. Depuis, il s'est considérablement étoffé, s'est enrichi de nombreux composants et a désormais pour ambition de permettre aux joueurs de conduire des combats « épiques » dans de larges espaces et de rapprocher BG2 d'un Dungeon crawler. Consultez le readme pour bien comprendre ce qu'apporte chacun de ses composants.",
         "urls": [
             "https://www.baldursgateworld.fr/filesmods/ModsBG/butchery-v5.0.0.zip",
-            "https://github.com/GwendolyneFreddy/butchery"
+            "https://github.com/The-Gate-Project/butchery"
         ],
         "categories": [
             "Gameplay"
@@ -6232,10 +6234,11 @@
         "languages": [
             "fr",
             "en",
-            "ru"
+            "ru",
+            "es"
         ],
         "status": true,
-        "last_update": "11-2021",
+        "last_update": "12-2024",
         "tp2": "butchery"
     },
     {
@@ -8077,7 +8080,9 @@
             "Meira"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Incompatible avec [[Tortured Souls-BP]]."
+        ],
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
@@ -9162,7 +9167,7 @@
         ],
         "team": [],
         "notes": [
-            "DoF n'est pas compatible avec les mods [[Faiths and Powers]] et [[Spell Revisions]]."
+            "DoF n'est pas compatible avec les mods [[Faiths and Powers]], [[Spell Revisions]] et [[Divine Remix]]."
         ],
         "is_weidu": null,
         "translation_state": false,
@@ -9684,7 +9689,9 @@
             "La Voix 2 la Sagesse",
             "Sanctifer"
         ],
-        "notes": [],
+        "notes": [
+            "Incompatible avec [[Spell Revisions]]."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
@@ -9719,10 +9726,12 @@
             "Holic75"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Probablement incompatible avec de nombreux mods de kits puisqu'ils sont basés sur les règles de AD&D2 et non la 3.5."
+        ],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [
             "en"
         ],
@@ -11501,7 +11510,7 @@
     },
     {
         "name": "Enhanced Powergaming Scripts",
-        "description": "Ce mod est une collection de scripts d'IA de joueur conçus pour être utilisés dans BG:EE, BG2:EE, EET et IWD:EE. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche (\"B\"), un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[IWDification]], [[Sword Coast Stratagems]], [[Dark Side of the Sword Coast]], [[Song and Silence]], [[Tome and Blood]], Faith &amp; Powers, ainsi que les modifications effectuées par [[Spell Revisions Revised]] et [[Item Revisions Revised]].",
+        "description": "Ce mod est une collection de scripts d'IA de joueur conçus pour être utilisés dans BG:EE, BG2:EE, EET et IWD:EE. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche (\"B\"), un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[IWDification]], [[Sword Coast Stratagems]], [[Dark Side of the Sword Coast]], [[Song and Silence]], [[Tome and Blood]], [[Faiths and Powers]], ainsi que les modifications effectuées par [[Spell Revisions Revised]] et [[Item Revisions Revised]].",
         "urls": [
             "https://www.morpheus-mart.com/enhanced-powergaming-scripts"
         ],
@@ -11521,7 +11530,9 @@
         "team": [
             "JohnBob"
         ],
-        "notes": [],
+        "notes": [
+            "Incompatible avec [[Olvyn Spells]]."
+        ],
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
@@ -12810,7 +12821,9 @@
         "team": [
             "JohnBob"
         ],
-        "notes": [],
+        "notes": [
+            "Incompatible avec [[Item Revisions]]."
+        ],
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
@@ -13995,7 +14008,7 @@
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": "05-2015",
         "tp2": ""
     },
@@ -15331,7 +15344,9 @@
         "team": [
             "Le Marquis"
         ],
-        "notes": [],
+        "notes": [
+            "Incompatible avec [[Banter Accelerator for EE]]."
+        ],
         "is_weidu": true,
         "translation_state": "todo",
         "safe": true,
@@ -16593,16 +16608,21 @@
         "name": "Infinity Animations",
         "description": "Ce mod modifie le jeu Baldur's Gate II : Trône de Bhaal de façon à ce qu'il dispose d'animations supplémentaires de créatures et de personnages.|Infinity Animations prend en charge les types d'animation très divers des jeux Baldur's Gate I, Baldur's Gate II, Icewind Dale I, Icewind Dale II, Planescape: Torment et Neverwinter Nights. En bonus, le mod rétablit l'intégralité des animations de personnages de Baldur's Gate I, et permet à certaines animations qui n'en avaient pas jusqu'à présent de disposer dorénavant d'un paperdoll (silhouette dans l'écran des personnages).|Point important pour les joueurs installant plusieurs mods conséquents (appelés « mega-mods »), Infinity Animations résout les conflits de slots d'animation (plusieurs mods utilisant les mêmes slots pour des animations différentes, le dernier installé écrase les modifications effectuées par les précédents) et rétablit les animations de base que les mega-mods ont modifiées.|Enfin, il comporte des composants optionnels qui introduisent de nombreuses nouvelles animations dans le jeu, ainsi que leurs jeux de sons associés (soundsets). Bien que le nombre d'animations supportées ne soit pas « infini », comme le nom du mod l'indique, il devrait toutefois être assez important pour répondre aux besoins actuels (et probablement futurs) de tout le monde.",
         "urls": [
-            "http://www.shsforums.net/files/file/859-ia-infinity-animations-core-mod-weidu-beta-5/"
+            "http://www.shsforums.net/files/file/859-ia-infinity-animations-core-mod-weidu-beta-5/",
+            "https://github.com/GwendolyneFreddy/Infinity-Animations"
         ],
         "categories": [
             "Cosmétique"
         ],
         "games": [
-            "BG2",
             "Tutu",
+            "BG2",
             "BGT",
-            "EET"
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Erephine",
@@ -16616,10 +16636,13 @@
         "notes": [
             "Ne pas oublier de télécharger <a href=\"http://www.shsforums.net/files/category/98-infinity-animations/\">tous les fichiers d'animation</a> et les décompresser dans le dossier \"infinityanimations/content\" avant d'installer le mod."
         ],
-        "is_weidu": null,
-        "translation_state": "wip",
+        "is_weidu": true,
+        "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": "10-2024",
         "tp2": "infinityanimations"
@@ -16695,15 +16718,18 @@
         "name": "Infinity Sounds",
         "description": "Anciennement Restored BG1 Sounds, ce petit mod pour Baldur's Gate II restaure de nombreux effets sonores utilisés dans le jeu Baldur's Gate original pour le simple plaisir d'une \"expérience BG1\" un peu plus complète dont certains joueurs semblent nostalgiques.|Certains fichiers audio restaurés ont été nettoyés des artefacts de compression audibles ou de tout degré d'écrêtage. Les voix originales du lanceur de sorts étaient particulièrement affectées et souvent désagréables à écouter.|Installez-le après tout autre mod qui modifie les sorts.",
         "urls": [
-            "http://www.shsforums.net/files/file/1081-infinity-sounds/"
+            "http://www.shsforums.net/files/file/1081-infinity-sounds/",
+            "https://github.com/skellytz/infinity-sounds"
         ],
         "categories": [
             "Portrait et son"
         ],
         "games": [
             "BG2",
-            "Tutu",
             "BGT",
+            "BGEE",
+            "SoD",
+            "BG2EE",
             "EET"
         ],
         "authors": [
@@ -16712,12 +16738,14 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": "",
+        "last_update": "10-2023",
         "tp2": "infinitysounds"
     },
     {
@@ -17587,7 +17615,7 @@
         "languages": [],
         "status": "obsolete",
         "last_update": "09-2020",
-        "tp2": ""
+        "tp2": "Jimfix"
     },
     {
         "name": "Jini NPC Romance",
@@ -18447,10 +18475,10 @@
     },
     {
         "name": "Kitanya NPC",
-        "description": "Kitanya est une tueuse de magiciens elfe sympathique et de compagnie fort agréable, chaotique bonne avec de nombreuses interactions et une romance. Elle pourra même avoir des dialogues particulièrement amusants avec Edwin. Vous la trouverez dans les environs des Collines d'Umar.",
+        "description": "Kitanya est une tueuse de magiciens elfe sympathique et de compagnie fort agréable, chaotique bonne avec de nombreuses interactions et une romance. Elle pourra même avoir des dialogues particulièrement amusants avec Edwin. Vous la trouverez dans les environs des Collines d'Umar. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.",
         "urls": [
             "http://www.shsforums.net/topic/57821-kitanya-npc-v641-a-mod-from-rastor/",
-            "https://www.baldursgateworld.fr/filesmods/ModsBGtraduits/KitanyaSoAv6-41.exe"
+            "https://github.com/PaulaMigrate/Kitanya-Resurrected/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -18458,6 +18486,7 @@
         "games": [
             "BG2",
             "BGT",
+            "BG2EE",
             "EET"
         ],
         "authors": [
@@ -18465,13 +18494,17 @@
             "Paula Migrate"
         ],
         "team": [],
-        "notes": [],
-        "is_weidu": null,
+        "notes": [
+            "FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19"
+        ],
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": "",
+        "last_update": "10-2020",
         "tp2": "kitanya"
     },
     {
@@ -22199,7 +22232,9 @@
         "team": [
             "Graoumf"
         ],
-        "notes": [],
+        "notes": [
+            "Incompatible avec [[The Darkest Day]]."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
@@ -27802,7 +27837,7 @@
     },
     {
         "name": "Scales of Balance",
-        "description": "Après plusieurs années de sommeil, l'auteur de ce mod a décidé de le réactiver, et il est constamment mis à jour ! Scales of Balance apporte un certain nombre de modifications à des aspects majeurs des règles du jeu, tels que : le fonctionnement de l'armure, des armes et des compétences, des jets de sauvegarde, des scores de capacité et de l'acquisition de points d'expérience. Tous ses composant sont complètement optionnels.",
+        "description": "Scales of Balance apporte un certain nombre de modifications à des aspects majeurs des règles du jeu, tels que : le fonctionnement de l'armure, des armes et des compétences, des jets de sauvegarde, des scores de capacité et de l'acquisition de points d'expérience. Tous ses composant sont complètement optionnels.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/26838-unearthed-arcana-presents-scales-of-balance-a-post-hac-tweak-pack/",
             "https://github.com/UnearthedArcana/Scales_of_Balance"
@@ -27819,16 +27854,30 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Duns Scotus",
+            "SubtleDoctor"
+        ],
         "team": [],
-        "notes": [],
-        "is_weidu": null,
-        "translation_state": false,
-        "safe": true,
-        "languages": [],
-        "status": true,
+        "notes": [
+            "Obsolète au profit de : [[SubtleD's Item Tweaks]], [[Combat Skills & Proficiencies]] et [[SubtleD's Stat Overhauls]]."
+        ],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": false,
+        "languages": [
+            "cz",
+            "de",
+            "en",
+            "es",
+            "fr",
+            "kr",
+            "pl",
+            "ru"
+        ],
+        "status": "obsolete",
         "last_update": "09-2023",
-        "tp2": ""
+        "tp2": "scales_of_balance"
     },
     {
         "name": "Scion of Murder",
@@ -28992,14 +29041,16 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": "",
         "tp2": ""
     },
@@ -30134,7 +30185,9 @@
         "team": [
             "JohnBob"
         ],
-        "notes": [],
+        "notes": [
+            "Semble incompatible avec [[Sword Coast Stratagems]]."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
@@ -30171,7 +30224,7 @@
         "tp2": ""
     },
     {
-        "name": "SubtleDoctor's Random Tweak",
+        "name": "SubtleDoctor's Random Tweaks",
         "description": "Il s'agit d'une collection de petits ajustements de sorts, d'objets ou de créatures réalisés par subtledoctor pour les jeux EE. Certains, mais très peu, sont retro-compatibles avec les jeux originaux (comme Ajouter un jet de sauvegarde pour les effets d'absorption de niveau) Chaque composant peut être installé indépendamment.|N'hésitez pas à consulter le <a href=\"http://htmlpreview.github.io/?https://github.com/subtledoctor/d5_Random_Tweaks/blob/master/d5_random_tweaks/readme-d5_random_tweaks.html\">readme</a> pour prendre connaissance de chacun d'eux.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/31133-subtledocs-random-tweaks/",
@@ -30205,7 +30258,7 @@
         ],
         "status": true,
         "last_update": "11-2024",
-        "tp2": ""
+        "tp2": "d5_random_tweaks"
     },
     {
         "name": "Summon Bhaalspawn (Sandra NPC)",
@@ -30505,7 +30558,9 @@
             "Freddy_Gwendo",
             "jazira"
         ],
-        "notes": [],
+        "notes": [
+            "Incompatible avec [[The Vanishing of Skie Silvershield]]."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
@@ -30841,7 +30896,9 @@
             "Artemidore",
             "Cocobard"
         ],
-        "notes": [],
+        "notes": [
+            "Incompatible avec [[Spell Revisions]]."
+        ],
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
@@ -32101,7 +32158,8 @@
             "Krull"
         ],
         "notes": [
-            "Le second lien concerne uniquement la version pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale v1.14 (premier lien) SANS l'installer. Puis lancez le fichier Setup-TDDz.exe pour installer le mod sur votre jeu EE."
+            "Le second lien concerne uniquement la version pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale v1.14 (premier lien) SANS l'installer. Puis lancez le fichier Setup-TDDz.exe pour installer le mod sur votre jeu EE.",
+            "Incompatible avec [[NPC Tweak]]."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -36969,7 +37027,8 @@
         "name": "Wizard Slayer Rebalancing",
         "description": "Ce mod est largement inspiré par d'autres mods antérieurs de rééquilibrage du Tueur de magiciens, tout particulièrement [[Grey Acumen's Kit Improvements]], [[Konalan's Tweaks]], [[Ashes of Embers]] et \"Kitanya's fixes\" (par SixOfSpades). Cette version est un peu plus classique et essaie de ne pas trop s'éloigner du concept d'origine du profil. En bref, elle tente d'insister sur les points forts du Tueur de magiciens tout en ajoutant quelques uns des meilleurs traits des mods cités plus haut. Au final, le profil devrait être un peu plus équilibré et amusant à jouer, tout en restant pour l'essentiel fidèle au concept original de Bioware.|Ce mod revisite donc le profil de Tueur de magiciens avec l'ajout de nouvelles capacités anti-mages, de deux nouvelles HLA (Réflexion de sorts et Fléau des Arcanes remplacent Résistance à la magie et Cri de guerre) et la possibilité de laisser votre Tueur de magiciens utiliser plus d'objets magiques que d'ordinaire.",
         "urls": [
-            "http://www.shsforums.net/files/file/960-wizard-slayer-rebalancing-v112-windows-version/"
+            "http://www.shsforums.net/files/file/960-wizard-slayer-rebalancing-v112-windows-version/",
+            "https://github.com/aVENGER981/Wizard-Slayer-Rebalancing"
         ],
         "categories": [
             "Kit"
@@ -41426,37 +41485,6 @@
         ],
         "status": true,
         "last_update": "03-2023",
-        "tp2": ""
-    },
-    {
-        "name": "Kitanya Resurrected",
-        "description": "Kitanya est une elfe tueuse de magiciens qui chasse un mage elfique exilé (devinez qui). Elle est Loyale Bonne possède sa propre voix et une romance est possible. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.",
-        "urls": [
-            "https://github.com/PaulaMigrate/Kitanya-Resurrected/"
-        ],
-        "categories": [
-            "PNJ recrutable"
-        ],
-        "games": [
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [
-            "rastor"
-        ],
-        "team": [],
-        "notes": [
-            "FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19",
-            "Ce mod est peu connu, il est possible qu'il créé des incompatibilités."
-        ],
-        "is_weidu": true,
-        "translation_state": false,
-        "safe": null,
-        "languages": [
-            "en"
-        ],
-        "status": true,
-        "last_update": "10-2020",
         "tp2": ""
     },
     {
