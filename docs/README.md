@@ -143,6 +143,6 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - `"missing"` : lien de téléchargement disparu
  - `"wip"` : le mod est phase de développement
 
-`last_update` : date connue de la dernière mise à jour du mod, champ automatique, format MM-YYYY
+`last_update` : date connue de la dernière mise à jour du mod, champ automatique, format YYYY-MM
 
 `tp2` : nom du fichier tp2 du mod
