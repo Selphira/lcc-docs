@@ -42151,7 +42151,7 @@
     },
     {
         "name": "BG1 NPCs for SoA&ToB",
-        "description": "Ce mod ambitieux ajoute une nouvelle zone dans Athkatla où se réunissent tous vos anciens amis de BG1. Que font-ils là-bas ? Ils papotent, ils se détentent et boivent. Des milliers de lignes de dialogues qui changent à chaque conversation. Des variations selon l'heure du jour (ou de la nuit). Ce mod permet aux autres moddeurs d'ajouter eux-mêmes des PNJ. Il y a quelques surprises.",
+        "description": "Ce mod ambitieux ajoute une nouvelle zone dans Athkatla où se réunissent tous vos anciens amis de BG1. Que font-ils là-bas ? Ils papotent, ils se détentent et boivent. Des milliers de lignes de dialogues qui changent à chaque conversation. Des variations selon l'heure du jour (ou de la nuit). Ce mod permet aux autres moddeurs d'ajouter eux-mêmes des PNJ. Il y a aussi quelques surprises.",
         "urls": [
             "https://forums.beamdog.com/discussion/82463/mod-bg1-npcs-for-soa-tob/p1",
             "https://github.com/SpellholdStudios/BG1_NPCs_for_SoA_-_ToB"
@@ -42182,5 +42182,65 @@
         "status": true,
         "last_update": "2024-11",
         "tp2": "BG1NPCSoA"
+    },
+    {
+        "name": "AskiiKits",
+        "description": "Ce mod contient 4 kits.|Le `Capitaine`, guerrier charismatique qui se sert de son autorité pour optimiser les performances de son équipe ou briser moralement son adversaire, doté d'une capacité de résistance importante et d'une protection contre la confusion.|Le `Lanceur de flèchettes`, voleur adroit, sournois et amateur de boisson alcoolisée, il est capable de détourner l'attention de ses adversaires et de lancer des bombes littéralement enivrantes.|Le `Prêtre de Mystra` profite quand à lui d'un bonus sur les temps d'incantation des sorts, il peut également, pendant un tour, augmenter drastiquement le niveau d'enchantement d'une arme. Il a également accès à quelques sorts supplémentaires.|Le `Virtuose` est un mage aussi talentueux que spécialisé, sous entendu inapte à autre chose que lancer des sorts (mais laissons les autres tâches de moindre importance aux gens de moindre importance ?). Il possède un bonus sur les temps d'incantation des sorts et un bonus sur le niveau de mage, en plus de pouvoir mémoriser plus de sorts que ces congénères. En contrepartie, il a un malus sur sa classe d'armure et sur ses jets de sauvegardes (qui augmentent au fil des niveaux). Il ne peut apprendre à manier une arme et subit un malus de 4 en Sagesse.",
+        "urls": [
+            "https://github.com/fmugra/AskiiKits/tree/main"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Askii"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2022-01",
+        "tp2": "AskiiKits"
+    },
+    {
+        "name": "Lichdom",
+        "description": "À travers les royaumes et les plans, beaucoup sont déjà devenus des Liches ou des Demi-liches d'une façon ou d'une autre. Peut-être recherchaient-ils l'immortalité. Peut-être en ont-ils eu assez de devoir manger et respirer. Peut-être étaient-ils fatigués d'être congelés, étourdis, malades, enchevêtrés, drainés, paralysés, pétrifiés, empoisonnés, polymorphiés en écureuil, assommés… Quel que soit leur raisonnement, avec ce mod, vous pouvez vous aussi devenir une Liche avec l'aide du Gravetender Morris dans le District du Cimetière d'Athkatla (SoA) ou à Saradush (ToB).|Mais le vouloir ne suffit pas. Il faut en payer le prix (120 000 PO), être au minimum de niveau 12, avoir l'alignement adéquat, réussir une série de quête etc. Pour devenir une définitivement une liche.|Les gains physiques sont importants, immunité aux armes non magiques, au poison, au froid et à l'électricité… Consultez le readme pour en savoir plus.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88122/lichdom-for-bg2ee-eet-merry-lichmas",
+            "https://github.com/LCA-EET/Lichdom"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Endarire"
+        ],
+        "team": [],
+        "notes": [
+            "Le mod propose tout un tas de composants permettant de configurer la liche que vous voulez être."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": true,
+        "last_update": "2024-11",
+        "tp2": "Lichdom_EET"
     }
 ]
