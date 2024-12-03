@@ -73,7 +73,7 @@
         "notes": [
             "Il s'agit d'un mod override qui écrase le fichier THAC0.2da."
         ],
-        "is_weidu": false,
+        "is_weidu": true,
         "translation_state": null,
         "safe": null,
         "languages": [],
@@ -103,7 +103,7 @@
         "notes": [
             "Il s'agit d'un mod override qui écrase le fichier HPCONBON.2da."
         ],
-        "is_weidu": false,
+        "is_weidu": true,
         "translation_state": null,
         "safe": null,
         "languages": [],
@@ -133,7 +133,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -252,7 +252,7 @@
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [
@@ -352,7 +352,7 @@
         "notes": [
             "Remplacé par [[Combat Skills & Proficiencies]] du même auteur."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
         "languages": [],
@@ -1003,7 +1003,7 @@
         "notes": [
             "Ce mod est devenu obsolète depuis son intégration dans le mod [[Expanded Classes and Kits]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
         "languages": [],
@@ -2158,7 +2158,7 @@
         "notes": [
             "Ce mod est incompatible avec [[De'Arnise Romance]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -2222,7 +2222,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -3984,7 +3984,7 @@
         "notes": [
             "À cause d'un bug dans le moteur du jeu, les cartes disposant de portes et/ou de zones d'eau présentent certains artefacts (lignes noires) qui seront réglés au fur et à mesure de la maintenance de ce mod."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
@@ -4037,7 +4037,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
@@ -4126,7 +4126,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -4284,7 +4284,7 @@
             "Graoumf"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
@@ -4990,7 +4990,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -5783,7 +5783,7 @@
         "notes": [
             "Utilisez le lien polonais pour un jeu original, et l'autre pour un jeu EE."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -6649,7 +6649,7 @@
         "notes": [
             "Ce mod est désormais inclu dans [[Interaction Expansion Project]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -7782,7 +7782,7 @@
         "notes": [
             "Dans BG2:EE, il est sensé ajouter ses objets dans le Donjon d'Irenicus et chez le marchand de flèches sur la Promenade de Waukyne, mais le code n'a pas été écrit..."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -9005,7 +9005,7 @@
         "notes": [
             "Utilisez le lien github pour les versions EE."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -9144,7 +9144,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -9200,7 +9200,7 @@
         "notes": [
             "DoF n'est pas compatible avec les mods [[Faiths and Powers]], [[Spell Revisions]] et [[Divine Remix]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -9225,7 +9225,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
@@ -9610,7 +9610,7 @@
             "Graoumf"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
@@ -9668,7 +9668,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
@@ -9861,7 +9861,7 @@
         "notes": [
             "Ce mod est désormais inclus dans [[Interaction Expansion Project]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -9889,7 +9889,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -10041,7 +10041,7 @@
         "notes": [
             "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour. <strong>Pour télécharger le mod, utilisez soit :</strong>"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
@@ -10099,7 +10099,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -10472,7 +10472,7 @@
         "notes": [
             "Préférez-lui le mod [[Skip Chateau Irenicus]] qui est beaucoup plus souple et compatible avec les autres mods."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": null,
         "languages": [],
@@ -10525,7 +10525,7 @@
         "notes": [
             "Attention : La dernière mise à jour date de 2014. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -10658,7 +10658,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
@@ -11163,7 +11163,7 @@
         "notes": [
             "Attention : ce mod n'est plus maintenu et est probablement incompatible avec les derniers patches du jeu."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
         "languages": [],
@@ -11607,7 +11607,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
@@ -11727,7 +11727,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -12261,7 +12261,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -12650,7 +12650,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -12735,7 +12735,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -12959,7 +12959,7 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -14164,7 +14164,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -14200,7 +14200,7 @@
         "notes": [
             "Notez que ce n'est pas à proprement parler un PNJ recrutable, mais plutôt un \"7ème membre\" qui vous suivra à la manière d'un familier."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -14586,7 +14586,7 @@
         "notes": [
             "Attention : Toujours en version beta, ce mod a une procédure d'installation pour le moins bizarre..."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -14841,7 +14841,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -14976,7 +14976,7 @@
         "notes": [
             "À partir de la version 2.0, ce mod nécessite l'installation de [[EEex]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -15006,7 +15006,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
@@ -15294,7 +15294,7 @@
             "Althéa"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
@@ -16036,7 +16036,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -16197,7 +16197,7 @@
         "notes": [
             "Attention : il existe une version piratée pour BG2:EE et EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -16308,7 +16308,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -16996,7 +16996,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
@@ -17086,7 +17086,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -17665,7 +17665,7 @@
         "notes": [
             "Les dernières mises à jour de [[Sword Coast Stratagems]] et d'[[Ascension]] l'ont rendu obsolète."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
         "languages": [],
@@ -17722,7 +17722,7 @@
         "notes": [
             "Attention : La version SHS n'est pas compatible avec les jeux EE. La version Beamdog est compatible avec les jeux EE et installe en plus un profil d'Amazone."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -18534,7 +18534,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -19823,7 +19823,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [
@@ -20122,7 +20122,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -20152,7 +20152,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -20485,7 +20485,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -21553,7 +21553,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -22490,7 +22490,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -22523,7 +22523,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -22582,7 +22582,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -23040,7 +23040,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -23233,7 +23233,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -23822,7 +23822,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -23974,7 +23974,7 @@
         "notes": [
             "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
         "languages": [],
@@ -25668,7 +25668,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -25776,7 +25776,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -26546,7 +26546,7 @@
         "notes": [
             "Ce mod est par nature incompatible avec le composant du mod [[Oversight]], ainsi que le mod [[The Broken Lanthorn]], qui restaurent aussi cette quête, mais de manière totalement différente."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -27208,7 +27208,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -27331,7 +27331,7 @@
         "notes": [
             "Ce mod n'ayant pas été mis à jour depuis 2014, il est sans doute incompatible avec les nouveaux patches du jeu."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -27855,7 +27855,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": null,
         "languages": [],
@@ -28296,7 +28296,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -28379,7 +28379,7 @@
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre!"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -28845,7 +28845,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -29050,7 +29050,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -29079,7 +29079,7 @@
         "notes": [
             "Attention : ce mod est réputé hyper bogué et risque de corrompre vos parties. Installez-le à vos risques et périls."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -29840,7 +29840,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -30019,7 +30019,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -30183,7 +30183,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -31099,7 +31099,7 @@
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -31387,7 +31387,7 @@
         "notes": [
             "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -31415,7 +31415,7 @@
         "notes": [
             "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [
@@ -31447,7 +31447,7 @@
         "notes": [
             "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [
@@ -31478,7 +31478,7 @@
         "notes": [
             "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -31590,7 +31590,7 @@
         "notes": [
             "Le lien mediafire permet de télécharger une version pour BGT. ⚠️ Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -31794,7 +31794,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -31918,7 +31918,7 @@
             "Ozymandias"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
@@ -31998,7 +31998,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -32874,7 +32874,7 @@
         "notes": [
             "Utilisez en priorité le lien de téléchargement Nexus et choisissez le mod en version WeiDU."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
@@ -33287,7 +33287,7 @@
             "Mathrim Cauthon"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -34572,7 +34572,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -35068,7 +35068,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -35516,7 +35516,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -35563,7 +35563,7 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -35693,7 +35693,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -36328,7 +36328,7 @@
         "notes": [
             "Attention : La dernière mise à jour date de 2016. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [
@@ -36420,7 +36420,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
@@ -37457,7 +37457,7 @@
             "Eleima"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": "todo",
         "safe": true,
         "languages": [
@@ -37639,7 +37639,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -39368,7 +39368,7 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -40843,7 +40843,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
@@ -41756,7 +41756,7 @@
         "notes": [
             "Nécessite [[DLC Merger]] pour fonctionner sur SoD."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
