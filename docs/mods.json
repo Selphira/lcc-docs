@@ -435,7 +435,7 @@
         "name": "Acid Elementalist Kit",
         "description": "Ce mod ajoute le profil un profil de guerrier spécialisé dans les armes et les sorts infligeant des dégâts d'acide. Il rajoute également des armes adaptées à ce kit.",
         "urls": [
-            "http://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/acidelem.zip"
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/acidelem.zip"
         ],
         "categories": [
             "Kit"
@@ -3208,7 +3208,7 @@
         "name": "BG1 & BG2 Portraits",
         "description": "32 portraits de PNJ de Baldur's Gate 1 et 2 à utiliser pour vos personnages dans Icewind Dale, parmi lesquels Aerie, Edwin, Jaheira, Keldorn, Viconia...",
         "urls": [
-            "http://www.sorcerers.net/Games/IWD/index_mods.php"
+            "https://www.sorcerers.net/Games/IWD/index_mods.php"
         ],
         "categories": [
             "Portrait et son"
@@ -5768,7 +5768,7 @@
         "name": "Boards O' Magick Item Pack",
         "description": "Ce mod est avant tout un hommage à deux illustres membres du défunt forum Boards o' Magick en les immortalisant dans BG2, mais pas que. Il ajoute deux nouveaux personnages, le diablotin Bion et le marchand Taluntain, qui vous permettront d'accéder à des objets auparavant assez quelconques... Vous les trouverez sur la Promenade de Waukyne dans la partie SoA du jeu, et à Amkethran dans la partie ToB.",
         "urls": [
-            "http://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/BoM_Item_pack.rar#",
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/BoM_Item_pack.rar#",
             "https://sorcerers.net/community/resources/boards-o-magick-item-pack.85/download?version=93"
         ],
         "categories": [
@@ -7454,7 +7454,7 @@
         "name": "Cloak of the Shield upgrade",
         "description": "Ce mini mod transforme la Cape du bouclier en une cape plus utile (CA de 2).",
         "urls": [
-            "http://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/CLK20FIX.zip"
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/CLK20FIX.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -9901,7 +9901,7 @@
         "name": "Double XP On Insane Difficulty",
         "description": "Un petit fichier de rien du tout (MONCRATE.2da modifié) à rajouter dans le dossier override, et l'expérience gagnée doublera tout au long du jeu. C'est une imitation du mode cœur de Furie de IWD 1, qui doublait toutes les statistiques des monstres ET l'XP gagnée. Dans le mode cœur de Furie d'IWD 2, l'expérience ne double pas. Sauf avec ceci. NB: cela permet donc de commencer plus sereinement une partie niveau 1 en mode Cœur de Furie",
         "urls": [
-            "http://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/Moncrate.zip"
+            "https://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/Moncrate.zip"
         ],
         "categories": [
             "Gameplay"
@@ -10842,7 +10842,7 @@
         "name": "Ease-of-use pack for BG1",
         "description": "Ce mod simplifie la vie du joueur en proposant un sac de contenance comme dans Baldur's Gate II, en permettant des piles d'objets plus importantes, en maximisant les points de vie à chaque gain de niveau, en facilitant l'apprentissage des sorts, en empêchant les personnages de partir à cause de la réputation...",
         "urls": [
-            "http://www.sorcerers.net/Games/dl.php?s=BG&f=BG/BG1-ease.zip"
+            "https://www.sorcerers.net/Games/dl.php?s=BG&f=BG/BG1-ease.zip"
         ],
         "categories": [
             "Gameplay"
@@ -16537,8 +16537,8 @@
         "name": "Improved Summons",
         "description": "Vous êtes du genre à envoyer une armée de chair à canon à l'assaut de vos ennemis ? Vous cherchez des solaires plus puissants ? Vous désirez invoquer des spectateurs à la place de ces ridicules vers charognards ? Vous préférez les vampires aux wivernes et regrettez que vos mort-vivants ne soient pas un peu plus costauds ? Ce mod est fait pour vous !",
         "urls": [
-            "http://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
-            "http://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/Improved_Summons.rar"
+            "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/Improved_Summons.rar"
         ],
         "categories": [
             "Gameplay"
@@ -18009,7 +18009,7 @@
         "name": "Keep All BG1 Items On Imported Character",
         "description": "Ce mod permet à tous les personnages importés de conserver leur équipement, y compris les armes et l'armure de Drizzt.",
         "urls": [
-            "http://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/BG2KeepAllBG1ItemsOnImportedCharacter.zip"
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/BG2KeepAllBG1ItemsOnImportedCharacter.zip"
         ],
         "categories": [
             "Gameplay"
@@ -19837,7 +19837,7 @@
         "name": "Luizmods",
         "description": "Ce mod propose un profil de guerrier, le Blackguard (\"Chevalier noir\") et de nouveaux portraits. Vous pourrez aussi modifier l'apparence de la Robe de Vecna, déplacer le Sac de contenance au début du jeu et utiliser des scripts d'IA pour votre groupe. Tous ses composants peuvent être installés séparément.",
         "urls": [
-            "http://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php"
+            "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php"
         ],
         "categories": [
             "Gameplay"
@@ -22996,7 +22996,7 @@
         "name": "No Wear Limitations Mod",
         "description": "Ce petit fichier (itemexcl.2da) à placer dans le répertoire override du jeu vous permet de porter tout type d'objet accordant des bonus à la CA.",
         "urls": [
-            "http://www.sorcerers.net/Games/BG/index_mods.php"
+            "https://www.sorcerers.net/Games/BG/index_mods.php"
         ],
         "categories": [
             "Gameplay"
@@ -24898,8 +24898,8 @@
         "name": "PnP Kit Requirements, Half-Orcs, Spells and Charisma",
         "description": "Ce petit mod modifie  les pré-requis de profils, la race de semi-orque, les tables de progression des sorts et de modification de scores de Charisme pour les rendre conformes aux règles papier.|Le second lien est un lien de téléchargement direct.",
         "urls": [
-            "http://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
-            "http://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/Fels_PnP.rar"
+            "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/Fels_PnP.rar"
         ],
         "categories": [
             "Gameplay"
@@ -27621,7 +27621,7 @@
         "name": "Samurai Kit",
         "description": "Créé par Maurolava, ce mod ajoute le profil de samouraï dans le jeu.",
         "urls": [
-            "http://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
+            "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
             "https://forums.beamdog.com/discussion/28053/mod-samurai-kit-v1-3-updated/p1"
         ],
         "categories": [
@@ -30087,7 +30087,7 @@
         "description": "Ce mod ajoute un nouveau PNJ recrutable : le célèbre halfelin détracteur des mouettes du quartier du Pont. Ce guerrier/voleur chaotique neutre aura des banters, des interjections, une voie de l'amitié et des quêtes. Il dispose de contenu pour SoA et ToB. Ses caractéristiques sont FOR 14, DEX 19, CON 16, INT 13, SAG 8 et CHA 10.",
         "urls": [
             "http://www.shsforums.net/files/file/991-stivan-the-hunter/",
-            "https://github.com/vbigiani/stivan/archive/master.zip"
+            "https://github.com/vbigiani/stivan/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -31003,7 +31003,7 @@
         "name": "Tactics4IWD2 par Wu Min",
         "description": "Ce mod tactique est destiné à ceux qui aiment les défis. Le but est de rendre plus difficiles et plus excitants les combats du jeu originel, sans pour autant dégoûter les joueurs ; tous les adversaires peuvent être vaincus sans code de triche. Environ 90 % des créatures ont été améliorées (statistiques, sorts disponibles, intelligence artificielle...). Le mod corrige aussi quelques bugs et déséquilibres du jeu originel.",
         "urls": [
-            "http://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/Tactics4IWD2.rar"
+            "https://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/Tactics4IWD2.rar"
         ],
         "categories": [
             "Gameplay"
@@ -31516,7 +31516,7 @@
         "name": "Teleport Spell",
         "description": "Ce mod ajoute au stock de Dame Yurth, au fond du Marché de l'Aventurier, un sort de niveau 7 permettant de se téléporter dans toutes les zones précédemment visitées. Il marche aussi pour ToB, mais pas pour les zones introduites par des mods.",
         "urls": [
-            "http://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/Teleport.rar",
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/Teleport.rar",
             "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html"
         ],
         "categories": [
@@ -33779,7 +33779,7 @@
         "name": "ToB Juggernaut Golem",
         "description": "Ce mini mod rend le Juggernaut Golem plus conforme à sa description : il inflige 8d8 points de dégâts en plus des 2d6 points additionnels d'étourdissement, et n'est touchable que par des armes +2.",
         "urls": [
-            "http://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/juggolem_fix.zip"
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/juggolem_fix.zip"
         ],
         "categories": [
             "Gameplay"
@@ -37555,7 +37555,7 @@
         "name": "Xyx's Beholder Stuff",
         "description": "Ce très vieux pack regroupe la collection complète de mods d'ajustements et d'amélioration des spectateurs réalisés par Xyx : Beholder Hive Upgrade, Multicolored Beholders (assigne aux différents types de spectateurs des couleurs légèrement différentes - plus claires et plus foncées - afin de les distinguer plus facilement) et Smart Beholders (amélioration de l'IA).",
         "urls": [
-            "http://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/beholders.zip"
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/beholders.zip"
         ],
         "categories": [
             "Gameplay"
