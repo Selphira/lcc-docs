@@ -7,6 +7,7 @@ from settings import (
     FLAG_DIR,
     IMG_ROOT,
     SITE_DIR,
+    Games,
     attrs_icon_data,
     domain_to_image,
     image_data,
@@ -122,10 +123,24 @@ class Mod:
         description = self._convert_pipe(description)
         return self._convert_quote(description)
 
+    def get_auto_notes(self) -> list:
+        auto_notes = list()
+        if (
+            self.last_update
+            and self.safe is None
+            and self.last_update < "2021-06"
+            and set(self.games) & set(Games.BG_EE())
+        ):
+            year, _ = self.last_update.split("-")
+            auto_notes.append(
+                f"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec version 2.6."
+            )
+        return auto_notes
+
     @property
     def notes(self) -> list:
         notes = list()
-        for note in self._notes:
+        for note in self._notes + self.get_auto_notes():
             new_note = self._convert_link(note)
             new_note = self._convert_pipe(new_note)
             new_note = self._convert_quote(new_note)

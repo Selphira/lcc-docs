@@ -1551,8 +1551,7 @@
             "http://www.shsforums.net/files/file/874-animal-companion-leopard-ranger-kit-v12/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -1602,7 +1601,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": [
             "en",
             "fr",
@@ -1663,7 +1662,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [
             "en"
         ],
@@ -4151,9 +4150,7 @@
             "requiem22"
         ],
         "team": [],
-        "notes": [
-            "Attention : comme sa dernière mise à jour date du 23 décembre 2012, il est fort probable qu'il ne soit plus compatible avec les jeux bénéficiant d'un patch 1.3 et ultérieur."
-        ],
+        "notes": [],
         "is_weidu": null,
         "translation_state": null,
         "safe": null,
@@ -4286,7 +4283,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2017-10",
@@ -4294,7 +4291,7 @@
     },
     {
         "name": "BP-Balancer",
-        "description": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[Dark Side of the Sword Coast]], NTotSC, SoBH, [[Drizzt Saga]], NPC-Tweaks.",
+        "description": "Ce mod permet de diminuer l'impact des installations de plusieurs grands mods dans le cours du jeu. Vous pourrez diminuer les points d'expérience obtenus pour apprendre des sorts, désarmer des pièges, voler à la tire. De même, vous pourrez supprimer certains objets trop puissants des mods [[Dark Side of the Sword Coast]], [[Northern Tales of the Sword Coast]], [[Secret of Bone Hill]], [[Drizzt Saga]], NPC-Tweaks.",
         "urls": [
             "http://www.shsforums.net/files/file/493-bp-balancer/"
         ],
@@ -7689,7 +7686,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2017-02",
@@ -8275,9 +8272,7 @@
             "shadowhawk703"
         ],
         "team": [],
-        "notes": [
-            "Pas mis à jour depuis 2017, ce mod peut être incompatible avec les nouveaux patchs."
-        ],
+        "notes": [],
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
@@ -9481,7 +9476,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2017-05",
@@ -9671,7 +9666,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2014-12",
@@ -10321,7 +10316,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2018-03",
@@ -10523,9 +10518,7 @@
             "kensai"
         ],
         "team": [],
-        "notes": [
-            "Attention : La dernière mise à jour date de 2014. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
-        ],
+        "notes": [],
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
@@ -12328,7 +12321,7 @@
     },
     {
         "name": "Faren",
-        "description": "\"Logé\" à la prison de Franc-Marché, ce guerrier/voleur neutre strict est peu loquace sur son passé. Il aurait grandi à Franc-Marché, faisant un temps parti de sa milice, et voyagé vers Luskan avec quelques aventuriers. Femme, homme, quelle que soit la race ou la classe, Faren ne fait pas de jaloux : sa romance est accessible à tous. Il dispose également de contenu pour des joueurs ne recherchant pas ce type de relations. Des banters sont possibles avec Chloé et Fade, en sus des PNJ Bioware. Le mod couvre les parties SoA et ToB.",
+        "description": "\"Logé\" à la prison de Franc-Marché, ce guerrier/voleur neutre strict est peu loquace sur son passé. Il aurait grandi à Franc-Marché, faisant un temps parti de sa milice, et voyagé vers Luskan avec quelques aventuriers. Femme, homme, quelle que soit la race ou la classe, Faren ne fait pas de jaloux : sa romance est accessible à tous. Il dispose également de contenu pour des joueurs ne recherchant pas ce type de relations. Des banters sont possibles avec [[Chloe Romance]] et [[Fade]], en sus des PNJ Bioware. Le mod couvre les parties SoA et ToB.",
         "urls": [
             "http://www.shsforums.net/files/file/1125-faren/"
         ],
@@ -12347,7 +12340,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2015-07",
@@ -12681,7 +12674,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [
             "en"
         ],
@@ -12740,7 +12733,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2016-05",
@@ -13650,7 +13643,7 @@
     },
     {
         "name": "Gerri's NPC Portraits Pack",
-        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalon's Questpack]], [[Assassinations]], [[Baldur's Gate Mini Quests and Encounters]], [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[BG Romantic Encounters]] &amp; 2, [[The Secret of Bonehill]], [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
+        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalon's Questpack]], [[Assassinations]], [[Baldur's Gate Mini Quests and Encounters]], [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[BG Romantic Encounters]] &amp; 2, [[The Secret of Bone Hill]], [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
         "urls": [
             "https://github.com/gboeck/NSC-Portraits"
         ],
@@ -14169,7 +14162,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2018-05",
@@ -16041,7 +16034,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2018-04",
@@ -16313,7 +16306,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2015-04",
@@ -17001,7 +16994,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2014-09",
@@ -17438,7 +17431,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2010-01",
@@ -18539,7 +18532,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2013-06",
@@ -19584,7 +19577,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2014-08",
@@ -21372,9 +21365,7 @@
             "Aquadrizzt"
         ],
         "team": [],
-        "notes": [
-            "Mis à jour pour la dernière fois pour le patch IWD:EE 1.4, il y a de fortes chances qu'il ne soit plus compatible avec les versions récentes du jeu. À installer à vos risques et périls."
-        ],
+        "notes": [],
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
@@ -21801,7 +21792,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2017-12",
@@ -22409,9 +22400,7 @@
             "Feuille"
         ],
         "team": [],
-        "notes": [
-            "La dernière mise à jour date de 2013. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
-        ],
+        "notes": [],
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
@@ -22589,7 +22578,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2016-05",
@@ -22697,7 +22686,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2016-01",
@@ -23989,7 +23978,7 @@
     },
     {
         "name": "Pamiątki z Północy",
-        "description": "Ce mod polonais (Souvenirs du Nord) modifie 33 objets de BG2 pour les rendre plus utiles, et ajoute 35 objets de NTotSC à l'échoppe de Mira sur la Promenade de Waukyne. Par ailleurs, il ajoute les vendeurs Deidre et Joluv, et modifie quelque peu l'environnement de l'Antichambre.",
+        "description": "Ce mod polonais (Souvenirs du Nord) modifie 33 objets de BG2 pour les rendre plus utiles, et ajoute 35 objets de [[Northern Tales of the Sword Coast]] à l'échoppe de Mira sur la Promenade de Waukyne. Par ailleurs, il ajoute les vendeurs Deidre et Joluv, et modifie quelque peu l'environnement de l'Antichambre.",
         "urls": [
             "http://baldur.cob-bg.pl/download/bg2/items/Pamiatki_z_Polnocy_v1.0.zip"
         ],
@@ -24647,9 +24636,7 @@
             "rapsam2003"
         ],
         "team": [],
-        "notes": [
-            "Ce mod n'est plus maintenu : à installer à vos risques et périls !"
-        ],
+        "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": null,
@@ -24827,7 +24814,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2018-09",
@@ -25783,7 +25770,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2018-09",
@@ -25807,9 +25794,7 @@
             "Mr2150"
         ],
         "team": [],
-        "notes": [
-            "Attention : La dernière mise à jour date de juin 2016. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": null,
@@ -27772,7 +27757,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2015-04",
@@ -28325,9 +28310,7 @@
             "Saradas"
         ],
         "team": [],
-        "notes": [
-            "La dernière mise à jour date de 2016. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
-        ],
+        "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": null,
@@ -28852,7 +28835,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2016-06",
@@ -29418,10 +29401,12 @@
         "authors": [
             "Lava Del'Vortel"
         ],
-        "team": [],
+        "team": [
+            "deratiseur"
+        ],
         "notes": [],
         "is_weidu": true,
-        "translation_state": false,
+        "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
@@ -30649,7 +30634,8 @@
             "Isaya",
             "Graoumf",
             "Freddy_Gwendo",
-            "jazira"
+            "jazira",
+            "mickabouille"
         ],
         "notes": [
             "Incompatible avec [[The Vanishing of Skie Silvershield]]."
@@ -31861,7 +31847,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [
             "en",
             "de"
@@ -31925,7 +31911,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2014-02",
@@ -32566,7 +32552,7 @@
         ],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2016-12",
@@ -32967,8 +32953,8 @@
         "tp2": ""
     },
     {
-        "name": "The Secret of Bonehill",
-        "description": "Qu'est-ce que Secret of Bonehill ? Hé bien c'est un gros mod de quête pour BG1 (BGT requis), créé par Sir Billybob, qui adapte deux scénarios de jeu de rôle papier : L1 et L2 dans l'univers Greyhawk. Au programme : des dizaines de nouvelles cartes, des magasins, des quêtes et un personnage recrutable (Fabio).|L'histoire en elle-même se passe sur l'île de Lendore, à proximité de la ville de Restenford. Pelltar, un mage que vous rencontrez dans le temple de Lathandre au chapitre 4 (dès que vous avez fini les mines de Nashkel et que vous pouvez vous rendre au camp des bandits), sera à même de vous y téléporter et de vous en sortir, une fois votre aide apportée au village.|La 1ère partie est pré-requise pour débloquer la 2nde que vous pourrez atteindre après votre sortie des catacombes de Château-Suif. Vous rencontrerez là Fabio (un barde humain) ou Pelltar qui vous demanderont de retourner à Restenford avec eux, pour élucider cette fois-ci un mystérieux meurtre...",
+        "name": "The Secret of Bone Hill",
+        "description": "Qu'est-ce que Secret of Bone Hill ? Hé bien c'est un gros mod de quête pour BG1 (BGT requis), créé par Sir Billybob, qui adapte deux scénarios de jeu de rôle papier : L1 et L2 dans l'univers Greyhawk. Au programme : des dizaines de nouvelles cartes, des magasins, des quêtes et un personnage recrutable (Fabio).|L'histoire en elle-même se passe sur l'île de Lendore, à proximité de la ville de Restenford. Pelltar, un mage que vous rencontrez dans le temple de Lathandre au chapitre 4 (dès que vous avez fini les mines de Nashkel et que vous pouvez vous rendre au camp des bandits), sera à même de vous y téléporter et de vous en sortir, une fois votre aide apportée au village.|La 1ère partie est pré-requise pour débloquer la 2nde que vous pourrez atteindre après votre sortie des catacombes de Château-Suif. Vous rencontrerez là Fabio (un barde humain) ou Pelltar qui vous demanderont de retourner à Restenford avec eux, pour élucider cette fois-ci un mystérieux meurtre...",
         "urls": [
             "http://www.shsforums.net/files/file/1076-the-secret-of-bonehill/",
             "https://github.com/RoxanneSHS/BoneHill"
@@ -34226,10 +34212,12 @@
         "authors": [
             "kjeron"
         ],
-        "team": [],
+        "team": [
+            "deratiseur"
+        ],
         "notes": [
             "Attention : Comme il patche toutes les zones, il est recommandé de l'installer à la fin.",
-            "Choississez le lien github pour la version BG2EE/EET."
+            "Choississez le lien github pour la version française."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -35795,7 +35783,7 @@
         ],
         "team": [],
         "notes": [
-            "EET est requis.",
+            "[[Enhanced Edition Trilogy]] est requis.",
             "Une requête a été passé à shs pour l'héberger sur leur github, à suivre."
         ],
         "is_weidu": true,
@@ -36330,9 +36318,7 @@
             "Mortiana"
         ],
         "team": [],
-        "notes": [
-            "Attention : La dernière mise à jour date de 2016. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
-        ],
+        "notes": [],
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
@@ -36622,7 +36608,7 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2016-12",
@@ -36974,7 +36960,7 @@
         ],
         "categories": [
             "Kit",
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -36989,7 +36975,8 @@
             "Ilya Ivanov"
         ],
         "team": [
-            "Darien"
+            "Darien",
+            "deratiseur"
         ],
         "notes": [
             "Seule la version GitHub est mise à jour et est compatible EE."
@@ -37550,7 +37537,7 @@
         ],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2018-05",
@@ -37849,7 +37836,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": [
             "en",
             "fr",
@@ -38306,7 +38293,7 @@
         "description": "Ce mod vise à réduire la complexité des HLA des guerriers en les transformant en bonus passifs.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/37193-passive-warrior-hlas/",
-            "https://github.com/Plutonium-X/Passive-Warrior-HLAs"
+            "https://github.com/Plutonium-X/MISC_Passive-Warrior-HLAs"
         ],
         "categories": [
             "Gameplay"
@@ -39816,7 +39803,7 @@
         ],
         "team": [],
         "notes": [
-            "Le personnage a toutes ses caractéristiques à 18…",
+            "FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18.",
             "Le lien github est compatible avec EET."
         ],
         "is_weidu": true,
@@ -40296,7 +40283,7 @@
     },
     {
         "name": "BG1EE BG2EE Color Balanced Portraits",
-        "description": "Ce mod modifie la luminosité et la balance des couleurs des images des portraits de Baldur's Gate : Tales of the Sword Coast, Baldur's Gate II : Throne of Bhaal, Baldur's Gate : Siege of Dragonspear et Baldur's Gate II : Enhanced Edition.",
+        "description": "Ce mod modifie la luminosité et la balance des couleurs des images des portraits.",
         "urls": [
             "https://www.nexusmods.com/baldursgate/mods/39"
         ],
@@ -41045,7 +41032,7 @@
         ],
         "team": [],
         "notes": [
-            "SoD n'est pas supporté. Le mod date de 2016, il est possible qu'il ne soit plus compatible avec les nouveaux patches. Privilégiez-lui [[Graion's Soundsets]]."
+            "SoD n'est pas supporté. Privilégiez-lui [[Graion's Soundsets]]."
         ],
         "is_weidu": true,
         "translation_state": null,

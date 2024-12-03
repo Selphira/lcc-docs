@@ -87,6 +87,10 @@ class Games(enum.StrEnum):
     def bg1(cls) -> list:
         return [cls.BG, cls.TUTU, cls.BGT, cls.BGEE, cls.SOD, cls.EET]
 
+    @classmethod
+    def BG_EE(cls) -> tuple:
+        return (cls.BGEE, cls.BG2EE, cls.EET)
+
 
 categorie_names = [
     "Patch non officiel",
