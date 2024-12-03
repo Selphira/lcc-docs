@@ -7024,29 +7024,39 @@
     },
     {
         "name": "Chiara NPC",
-        "description": "Ce mod allemand ajoute une guerrière dotée de capacités spéciales. Si vous l'aidez, elle peut être un atout extraordinaire pour le groupe. Si vous la laissez tomber, elle devient un ennemi imprévisible ! Vous la trouverez dans les égouts sous le quartier des temples. Contenu pour SoA et ToB.",
-        "urls": [],
+        "description": "Ce mod allemand ajoute une guerrière vampire dotée de capacités spéciales. Si vous l'aidez, elle peut être un atout extraordinaire pour le groupe. Si vous la laissez tomber, elle devient un ennemi imprévisible ! Vous la trouverez dans les égouts sous le quartier des temples. Contenu pour SoA et ToB. Elle est équipée d'une épée qui draine des points de vie et d'un harnois en mithral. Ses caractéristiques changent selon l'environnement (lumière/pénombre). Notez qu'elle doit se sustenter au moins une fois par jour sous peine de devenir berserk.",
+        "urls": [
+            "https://github.com/Plutonium-X/1D_NPC_Chiara"
+        ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
-        "authors": [],
-        "team": [],
+        "authors": [
+            "octavian"
+        ],
+        "team": [
+            "deratiseur"
+        ],
         "notes": [
-            "Malheureusement, il semble avoir disparu."
+            "Le mod original semblait perdu… mais il a subitement réapparu !",
+            "Elle est entièrement vocalisée en allemand."
         ],
-        "is_weidu": null,
-        "translation_state": false,
-        "safe": null,
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
         "languages": [
-            "de"
+            "de",
+            "fr"
         ],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "status": true,
+        "last_update": "2024-12",
+        "tp2": "chiara"
     },
     {
         "name": "Chloe Romance",
