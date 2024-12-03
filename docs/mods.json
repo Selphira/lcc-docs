@@ -11501,6 +11501,12 @@
             "jazira"
         ],
         "notes": [
+            "À savoir qu'il existe un launcher facultatif mais complémentaire : [[EETLauncher]]."
+        ],
+        "is_weidu": true,
+        "translation_state": true,
+        "safe": true,
+        "languages": [
             "cz",
             "de",
             "us",
@@ -11510,10 +11516,6 @@
             "ru",
             "cn"
         ],
-        "is_weidu": true,
-        "translation_state": true,
-        "safe": true,
-        "languages": [],
         "status": true,
         "last_update": "2021-07",
         "tp2": "eet_end"
@@ -38621,6 +38623,7 @@
         "name": "Protagonist Can Die",
         "description": "Habituellement le jeu se termine lorsque le protagoniste meurt. Ce mini-mod empêche ce fonctionnement, la fin du jeu ne se produira pas tant qu'un membre du groupe est encore en vie. Dans le cas contraire, le protagoniste pourra être ressuscité par le groupe.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/28910-protagonist-can-die/page/2/#comment-280191",
             "https://github.com/Endarire/Protagonist-Can-Die-Mod-for-EET"
         ],
         "categories": [
@@ -42242,5 +42245,115 @@
         "status": true,
         "last_update": "2024-11",
         "tp2": "Lichdom_EET"
+    },
+    {
+        "name": "BG1 Icons pack",
+        "description": "Ce mod contient de nouvelles icônes pour les objets de quête et les objets d'intrigue dans BG1:EE. Dans BG2 la plupart des objets de quête ont une image qui leur sont propres alors que ce n'est pas le cas dans BG1.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88871/bg1-icons-pack-mod-released",
+            "https://github.com/Alexander12-creator/bg1_icons_pack_mod/"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGT",
+            "BGEE"
+        ],
+        "authors": [
+            "Alexander12"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "2024-12",
+        "tp2": "bg1_ipm"
+    },
+    {
+        "name": "Infinity Engine EE Icon Fix",
+        "description": "Les versions EE souffrent toutes d'un problème étrange : les objets de l'inventaire utilisent toujours la version « large » de l'icône. Ce mod corrige ce problème qui a été détaillé <a href=\"https://forums.beamdog.com/discussion/41397/do-the-new-item-icons-suck-in-baldurs-gate\">ici</a>.",
+        "urls": [
+            "https://github.com/tunbridgep/ie-iconfix"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "PSTEE"
+        ],
+        "authors": [
+            "tunbridgep"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "2024-12",
+        "tp2": "IconFix"
+    },
+    {
+        "name": "Custom portrait colors",
+        "description": "Ce mod vous permet de définir des couleurs de portrait personnalisées pour les points de vie des personnages et les bordures de l'icône du personnage sélectionné en modifiant le fichier exécutable du jeu.",
+        "urls": [
+            "https://github.com/anongit/infinitycolors"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "meowdog"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "2021-09",
+        "tp2": "infinitycolors"
+    },
+    {
+        "name": "EETLauncher",
+        "description": "Cet utilitaire est un launcher pour [[Enhanced Edition Trilogy]]. Il permet de lancer le bon executable du jeu (notamment si [[EEex]] est utilisé) ainsi que d'autres pages relatives à l'utilisation de EET.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/29123-eetlauncher/",
+            "https://github.com/ALIENQuake/EETLauncher/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "ALIENQuake"
+        ],
+        "team": [],
+        "notes": [
+            "Ne fonctionne que pour Windows 7, 8.1 ou 10."
+        ],
+        "is_weidu": null,
+        "translation_state": null,
+        "safe": null,
+        "languages": [],
+        "status": true,
+        "last_update": "2022-07",
+        "tp2": "N/A"
     }
 ]
