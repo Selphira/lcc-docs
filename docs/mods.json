@@ -9038,7 +9038,8 @@
             "Mornagest"
         ],
         "notes": [
-            "Ce mod est incompatible avec [[Arnel's Nalia Romance revision]]."
+            "Ce mod est incompatible avec [[Arnel's Nalia Romance revision]].",
+            "Une suite dans ToB est proposée dans [[Nalia At Last]]."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -18578,7 +18579,7 @@
     },
     {
         "name": "Kivan and Deheriana Companions for BG2",
-        "description": "Anciennement Kivan of Shilmista, Kivan est enfin de retour dans BG2 grâce à ce mod, ainsi que sa femme, Dehenaria (sous certaines conditions). Il vous retrouve à la sortie du donjon d'Irenicus. L'occasion pour ceux qui n'ont pas joué à BG1 de connaître un des meilleurs PNJ du jeu originel et pour les autres, la possibilité de voir ce qu'il est advenu de Kivan et comment il a changé.",
+        "description": "Anciennement Kivan de Shilmista, Kivan est enfin de retour dans BG2 grâce à ce mod, ainsi que sa femme, Dehenaria (sous certaines conditions). Il vous retrouve à la sortie du donjon d'Irenicus. L'occasion pour ceux qui n'ont pas joué à BG1 de connaître un des meilleurs PNJ du jeu originel et pour les autres, la possibilité de voir ce qu'il est advenu de Kivan et comment il a changé.",
         "urls": [
             "https://www.gibberlings3.net/files/file/732-kivan-and-deheriana-companions-for-bg2/",
             "https://github.com/Gibberlings3/Kivan_and_Deheriana"
@@ -19552,13 +19553,13 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-10",
+        "tp2": "RezMod"
     },
     {
         "name": "Long bow of Stealth +5",
@@ -19574,7 +19575,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "CrevsDaak"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -19582,7 +19585,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2014-08",
         "tp2": ""
     },
     {
@@ -41995,5 +41998,189 @@
         "status": true,
         "last_update": "2017-05",
         "tp2": "warlock"
+    },
+    {
+        "name": "M'Khiin Friendship",
+        "description": "Ce mod introduit un court chemin d'amitié avec la shamane nommée M'Khiin pendant le Siège de Dragonspear. Il comprend quatre discussions, des conversations supplémentaires répondant à des moments clés de l'histoire, et des interjections élargies lorsque c'est nécessaire.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38825-mkhiin-siege-of-dragonspear-friendship/",
+            "https://github.com/bucketfulofsunshine/M-khiin-Friendship/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "SoD"
+        ],
+        "authors": [
+            "bucketfulofsunshine"
+        ],
+        "team": [],
+        "notes": [
+            "Une extension est prévue pour BG2."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2024-11",
+        "tp2": "KinFriendship"
+    },
+    {
+        "name": "Viconia Romance Expanded",
+        "description": "Viconia Romance Expanded est le premier d'une série de mods qui étendent soigneusement les romances originales de BG2. Ce mod permet de créer des romances pour toutes les races et tous les sexes, et propose un chemin de romance unique pour les noms de personnages féminins.  Apprenez comment la société drow traite les relations entre personnes du même sexe, surmontez de nouveaux obstacles relationnels et tombez amoureux à nouveau !",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37854-v106-viconia-romance-expanded-for-bg2ee-phaere-expanded/",
+            "https://github.com/Otherwisely/BG2-Romance-Expanded"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Otherwisely"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-03",
+        "tp2": ""
+    },
+    {
+        "name": "Edwin Bromance",
+        "description": "Un mod d'amitié avec Edwin qui présente un arc d'amitié « des connaissances à peine tolérées aux vrais frères ». Plusieurs dialogues sont présents avec une possibilité de faire évoluer l'alignement d'Edwin.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38770-mod-release-edwin-bromance/",
+            "https://github.com/Glittergear/EdwinBromance"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Glittergear"
+        ],
+        "team": [],
+        "notes": [
+            "Une extension pour ToB est prévue."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-10",
+        "tp2": ""
+    },
+    {
+        "name": "Baeloth's Deal",
+        "description": "Ce mod fournit une continuation pour notre adorable Baeloth dans BG2EE et EET. Baeloth a été capturé par les sorciers rouges et est prêt à conclure un marché en échange de sa liberté.",
+        "urls": [
+            "https://github.com/dark0dave/BaeBG2/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "dark0dave"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-11",
+        "tp2": "0dbae"
+    },
+    {
+        "name": "Nalia At Last",
+        "description": "Enfin la suite de la romance de Nalia pour ToB. Ce mod est compatible avec [[De'Arnise Romance]] même si ce dernier n'est pas obligatoire. Il rajoute plusieurs dialogues, des flirts et des banters supplémentaires avec les autres personnages BioWare.",
+        "urls": [
+            "https://skitias-stories.com/mods-view.php?name=Nalia%20At%20Last",
+            "https://forums.beamdog.com/discussion/86653/v1-12-nalia-at-last-a-romance-mod-for-bg2-ee-throne-of-bhaal",
+            "https://github.com/Skitia/Nalia_At_Last"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Skitia"
+        ],
+        "team": [],
+        "notes": [
+            "Une traduction française pourrait être sur le point de débuter fin 2024. No pression."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "2024-05",
+        "tp2": "Nalia_at_Last"
+    },
+    {
+        "name": "BG1 NPCs for SoA&ToB",
+        "description": "Ce mod ambitieux ajoute une nouvelle zone dans Athkatla où se réunissent tous vos anciens amis de BG1. Que font-ils là-bas ? Ils papotent, ils se détentent et boivent. Des milliers de lignes de dialogues qui changent à chaque conversation. Des variations selon l'heure du jour (ou de la nuit). Ce mod permet aux autres moddeurs d'ajouter eux-mêmes des PNJ. Il y a quelques surprises.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/82463/mod-bg1-npcs-for-soa-tob/p1",
+            "https://github.com/SpellholdStudios/BG1_NPCs_for_SoA_-_ToB"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Austin87"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod doit être installé APRÈS d'autres mods contenant ces mêmes PNJ."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "2024-11",
+        "tp2": "BG1NPCSoA"
     }
 ]
