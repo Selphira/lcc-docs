@@ -317,12 +317,14 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Andrea C."
+        ],
         "team": [],
         "notes": [
             "Attention : de nombreux composants rétablissent des textes anglais."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -330,7 +332,7 @@
         ],
         "status": true,
         "last_update": "2024-02",
-        "tp2": ""
+        "tp2": "Miscellaneous"
     },
     {
         "name": "APR on Spec",
@@ -429,7 +431,7 @@
         ],
         "status": true,
         "last_update": "2023-09",
-        "tp2": ""
+        "tp2": "A7-Achievements"
     },
     {
         "name": "Acid Elementalist Kit",
@@ -614,7 +616,7 @@
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -625,7 +627,7 @@
         ],
         "status": true,
         "last_update": "2020-05",
-        "tp2": ""
+        "tp2": "aip"
     },
     {
         "name": "Aeon NPC",
@@ -702,7 +704,9 @@
         "team": [
             "Spartan117"
         ],
-        "notes": [],
+        "notes": [
+            "Depuis la version 2.0, seule la version sur github semble compatible avec EET."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
@@ -912,7 +916,7 @@
         ],
         "status": true,
         "last_update": "2024-09",
-        "tp2": ""
+        "tp2": "akgear"
     },
     {
         "name": "Alabaster sands",
@@ -979,7 +983,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "alassa"
     },
     {
         "name": "Alchemist kit for mages",
@@ -1045,7 +1049,7 @@
         ],
         "status": true,
         "last_update": "2024-03",
-        "tp2": ""
+        "tp2": "alcool"
     },
     {
         "name": "Alex Macintosh",
@@ -1097,7 +1101,7 @@
         "notes": [
             "Choississez le second lien github pour la version BG2EE/EET."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -1109,7 +1113,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "allison"
     },
     {
         "name": "Almateria's Enhanced Smaller Locations",
@@ -2186,18 +2190,20 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Etamin"
+        ],
         "team": [],
         "notes": [
             "Seul le composant attribuant un portrait à Edwina est compatible avec les jeux originaux."
         ],
         "is_weidu": true,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2018-08",
+        "tp2": "artaport"
     },
     {
         "name": "ArtemiusI's House Rule Tweaks",
@@ -2442,7 +2448,9 @@
             "BGEE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Shi woo"
+        ],
         "team": [
             "JohnBob"
         ],
@@ -2459,7 +2467,7 @@
         ],
         "status": true,
         "last_update": "2023-11",
-        "tp2": ""
+        "tp2": "Askaria"
     },
     {
         "name": "Assassinations",
@@ -2558,7 +2566,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "Derats_Archery"
     },
     {
         "name": "Au service d'Oghma",
@@ -2690,7 +2698,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "AMDK"
     },
     {
         "name": "Auren Aseph",
@@ -2791,7 +2799,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "Aurorkit"
     },
     {
         "name": "Aurora ToB NPC",
@@ -2891,10 +2899,16 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "fairydragon"
     },
     {
         "name": "Auto-detect traps for PST:EE",
@@ -2957,7 +2971,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "AutoDescription"
     },
     {
         "name": "AutoRest",
@@ -3306,10 +3320,14 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de"
+        ],
         "status": true,
         "last_update": "2019-03",
-        "tp2": ""
+        "tp2": "bg1npc_portrait_pack"
     },
     {
         "name": "BG1 NPC Project",
@@ -3390,7 +3408,7 @@
         "languages": [],
         "status": true,
         "last_update": "2019-02",
-        "tp2": ""
+        "tp2": "bg1npcmusic"
     },
     {
         "name": "BG1 NPCs at Beginning",
@@ -3721,7 +3739,7 @@
         ],
         "status": true,
         "last_update": "2019-01",
-        "tp2": ""
+        "tp2": "bg2fixpack"
     },
     {
         "name": "BG2 GUI skin mod",
@@ -3768,7 +3786,7 @@
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": "wip",
         "safe": true,
         "languages": [
@@ -3777,7 +3795,7 @@
         ],
         "status": true,
         "last_update": "2023-01",
-        "tp2": ""
+        "tp2": "bg2improvedgui"
     },
     {
         "name": "BG2 Improvements",
@@ -4200,7 +4218,7 @@
         ],
         "status": true,
         "last_update": "2023-02",
-        "tp2": ""
+        "tp2": "BGSpawn"
     },
     {
         "name": "BGT NPC Sound",
@@ -4448,7 +4466,7 @@
             "mirandir"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -4462,7 +4480,7 @@
         ],
         "status": true,
         "last_update": "2023-12",
-        "tp2": ""
+        "tp2": "BagsOfTorment"
     },
     {
         "name": "Bala's Axe Fix",
@@ -4566,7 +4584,7 @@
         "languages": [],
         "status": true,
         "last_update": "2012-04",
-        "tp2": ""
+        "tp2": "BGFixPack"
     },
     {
         "name": "Baldur's Gate Graphics Overhaul",
@@ -4680,7 +4698,7 @@
         ],
         "status": true,
         "last_update": "2023-12",
-        "tp2": ""
+        "tp2": "bgt"
     },
     {
         "name": "Baldur's Goth BGT",
@@ -4856,7 +4874,7 @@
         ],
         "status": true,
         "last_update": "2021-11",
-        "tp2": ""
+        "tp2": "bank_of_baldurs_gate"
     },
     {
         "name": "Banter Accelerator for EE",
@@ -5051,7 +5069,9 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -5062,7 +5082,7 @@
         ],
         "status": true,
         "last_update": "2021-08",
-        "tp2": ""
+        "tp2": "cd_appraiser"
     },
     {
         "name": "Bardic Wonders",
@@ -5277,7 +5297,7 @@
             "IWD2EE"
         ],
         "authors": [
-            "D2-mods"
+            "Dan_P"
         ],
         "team": [],
         "notes": [],
@@ -5289,7 +5309,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "d2-script"
     },
     {
         "name": "Better Quick Loot",
@@ -5335,7 +5355,10 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "DavidNYC",
+            "subtledoc"
+        ],
         "team": [],
         "notes": [
             "Attention : certains composants nécessitent l'installation préalable d'[[Item Revisions]] et/ou de [[Spell Revisions]]."
@@ -5348,7 +5371,7 @@
         ],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "better_spell_visuals"
     },
     {
         "name": "Better Stat Drain (STR, DEX, CON, INT, WIS, CHA)",
@@ -5375,7 +5398,7 @@
         "tp2": ""
     },
     {
-        "name": "Beyond the law",
+        "name": "Beyond the Law",
         "description": "Ce mod propose deux PNJ recrutables, Kiyone (rôdeuse demi-elfe loyal bon) et Kova (mage/voleuse demi-elfe chaotique bon), non-séparables (comme [[Kiara-Zaiya]]) qui ont une romance potentielle (entre eux), des banters avec tout le monde, et une très intéressante quête sur les liens entre les Cagoulés, les Voleurs de l'Ombre et le Conseil des Six, sans parler d'un tas de combats tout au long de SoA (et désormais des interjections dans la Tour de Garde et plusieurs épilogues de romance dans ToB).",
         "urls": [
             "http://www.shsforums.net/files/file/26-beyond-the-law/",
@@ -5395,7 +5418,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -5403,7 +5426,7 @@
         ],
         "status": true,
         "last_update": "2021-10",
-        "tp2": ""
+        "tp2": "btl"
     },
     {
         "name": "BiG World Fixpack",
@@ -5490,8 +5513,8 @@
             "fr"
         ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-12",
+        "tp2": "N/A"
     },
     {
         "name": "Bigger Fonts",
@@ -5559,7 +5582,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Subtledoctor"
+        ],
         "team": [
             "JohnBob"
         ],
@@ -5574,7 +5599,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "BP_in_BG"
     },
     {
         "name": "Black Raven Monk Kit",
@@ -5592,7 +5617,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "OlvynChuru"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -5602,8 +5629,8 @@
             "en"
         ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2019-10",
+        "tp2": "BlackRavenMonk"
     },
     {
         "name": "Black Rose Part I: Market Prices",
@@ -5982,7 +6009,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -5994,7 +6023,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "c#brandock"
     },
     {
         "name": "Branwen NPC",
@@ -6311,7 +6340,7 @@
         "languages": [],
         "status": "obsolete",
         "last_update": "2018-02",
-        "tp2": ""
+        "tp2": "N/A"
     },
     {
         "name": "Bubb's Spell Menu (Extended)",
@@ -6516,16 +6545,20 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Arvendor"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "CassiaNPC"
     },
     {
         "name": "Cassius",
@@ -6564,7 +6597,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "cassius"
     },
     {
         "name": "Cast find familiar, and choose any",
@@ -6780,8 +6813,8 @@
             "fr"
         ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-06",
+        "tp2": "ChanterKit"
     },
     {
         "name": "Chaos Sorcerer",
@@ -7063,7 +7096,7 @@
         "description": "Ce mod ajoute une kensaï demi-déesse, avec un kit de voix et des armes spécifiques, qui romance exclusivement les personnages féminins. Des interactions ont été écrites avec chaque personnage, mais la romance n'existe pour l'instant que pour SoA. Des quêtes relatives à Chloé complètent l'ensemble. Un petit regard à cette demi-déesse : FOR 13, DEX 25, CON 16, INT 12, SAG 12 et CHA 14.",
         "urls": [
             "http://www.shsforums.net/files/file/848-chloe-v15/",
-            "https://github.com/Plutonium-X/PNJ_Chloe"
+            "https://github.com/Plutonium-X/NPC_Chloe"
         ],
         "categories": [
             "PNJ recrutable"
@@ -7088,10 +7121,17 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "it",
+            "pl",
+            "ru"
+        ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "Chloe"
     },
     {
         "name": "Cirerrek's AI Scripts",
@@ -7682,7 +7722,7 @@
         "description": "Ce mod permet de modifier la nouvelle interface de jeu de BG2:EE apparue avec la version 2.0. La particularité de ce mod est qu'il propose une inversion de couleur entre fond et texte par rapport à l'habitude. Choisissez bien votre version sur la page GitHub !",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27906-contagion-gui-cosmetic-gui-mod-for-baldurs-gate-2-enhanced-edition/",
-            "https://github.com/frostysh/Hello_World"
+            "https://github.com/frostysh/Old_Baldur_s_Gate_Interface_Modifications"
         ],
         "categories": [
             "Interface"
@@ -7691,10 +7731,12 @@
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "frostysh"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": null,
         "languages": [],
@@ -7738,7 +7780,7 @@
         ],
         "status": true,
         "last_update": "2022-03",
-        "tp2": ""
+        "tp2": "cdportraits"
     },
     {
         "name": "Continuous Viconia Appearance",
@@ -8012,7 +8054,7 @@
         "name": "Correction de la traduction de BG2:EE",
         "description": "Ce mod a pour objectif de corriger la traduction française de Baldur's Gate II : Enhanced Edition, ainsi que de proposer une version française complète digne de ce nom, aussi bien au niveau des textes que du doublage audio.|Il reprend les textes, les vidéos et le doublage audio de Baldur's Gate 2 et du [[Mod semi-officiel de traduction partielle de BG2:EE]] comme base. Ceux-ci ont été fusionnés avec la traduction officielle du patch 2.6 pour la partie manquante du contenu Enhanced Edition et le Patch correctif des textes pour Baldur's Gate 2 (et ToB).|À cela s'ajoutent des dizaines de milliers de correctifs supplémentaires des textes, du doublage audio et des bogues. Ainsi que quelques ajouts comme les ensembles de voix de BG1 en français, des répliques doublées supplémentaires, etc.|Ce mod vous offre également 3 options au sujet du doublage vidéo et audio (VF / VF + VO / VO). Pour plus de précisions, consultez le <a href=\"https://r-e-d.github.io/correctfrBG2EE/correctfrbg2ee/readme/readme-correctfrbg2ee.html\">readme</a>.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/correction-de-la-traduction-de-baldur-s-gate-ii-enhanced-edition/33428-presentation-du-mod.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=33428",
             "https://github.com/r-e-d/correctfrBG2EE"
         ],
         "categories": [
@@ -8043,7 +8085,7 @@
         ],
         "status": true,
         "last_update": "2024-08",
-        "tp2": ""
+        "tp2": "correctfrbg2ee"
     },
     {
         "name": "Correction de la traduction de BG:EE et SoD",
@@ -8079,7 +8121,7 @@
         ],
         "status": true,
         "last_update": "2024-08",
-        "tp2": ""
+        "tp2": "correctfrbg1ee"
     },
     {
         "name": "Corthala Romantique",
@@ -8149,7 +8191,7 @@
         ],
         "status": true,
         "last_update": "2024-08",
-        "tp2": ""
+        "tp2": "CorwinEET"
     },
     {
         "name": "Coup de Grace",
@@ -8236,7 +8278,7 @@
         ],
         "status": true,
         "last_update": "2021-03",
-        "tp2": ""
+        "tp2": "CreatureSummoning"
     },
     {
         "name": "Creslyn's BG2 Custom Items",
@@ -8351,7 +8393,7 @@
         ],
         "status": true,
         "last_update": "2024-06",
-        "tp2": ""
+        "tp2": "crossmodbg2"
     },
     {
         "name": "Crossmod Banter Pack for IWD",
@@ -8590,31 +8632,37 @@
             "Sort et objet"
         ],
         "games": [
+            "Tutu",
+            "BG2",
             "BGEE",
             "SoD",
             "EET",
+            "BG2EE",
+            "IWD",
             "IWD2",
             "IWDEE"
         ],
         "authors": [
-            "D2-mods"
+            "Dan_P"
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "d2-mira"
     },
     {
         "name": "D2-Weapon - A Souls-inspired Weapon Pack",
         "description": "Ce petit mod ajoute un pack de 11 armes inspirées de la trilogie Dark Souls de FromSoft, plus 4 autres. Vous pourrez les acheter dans diverses échoppes du jeu. Certaines sont équilibrées, d'autres disposent d'avantages et d'inconvénients très extrêmes qui les distinguent des armes des jeux de base.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/33091-d2-weapon-a-souls-inspired-weapon-pack-a-mod-for-bgee-bg2ee-and-iwdee/",
-            "https://github.com/D2-mods/D2-Weapon/releases/"
+            "https://github.com/D2-mods/D2-Weapon/"
         ],
         "categories": [
             "Sort et objet"
@@ -8627,17 +8675,19 @@
             "IWDEE"
         ],
         "authors": [
-            "D2-mods"
+            "Dan_P"
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-01",
-        "tp2": ""
+        "tp2": "d2-weapon"
     },
     {
         "name": "Dace",
@@ -8695,7 +8745,7 @@
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "N/A"
     },
     {
         "name": "Dale Keeper2",
@@ -8719,7 +8769,7 @@
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "N/A"
     },
     {
         "name": "Damian Soundset (BG:EE/BG2:EE/IWD:EE)",
@@ -9097,14 +9147,14 @@
             "Deecy"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
             "fr"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2009-11",
         "tp2": ""
     },
     {
@@ -9336,7 +9386,7 @@
         ],
         "status": true,
         "last_update": "2024-05",
-        "tp2": ""
+        "tp2": "Derats_kits"
     },
     {
         "name": "Derats DAWAP",
@@ -9480,17 +9530,17 @@
             "EET"
         ],
         "authors": [
-            "shohy"
+            "Shohy"
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2017-05",
-        "tp2": ""
+        "tp2": "D2kits"
     },
     {
         "name": "Difficulty and Tweaks mod",
@@ -9578,13 +9628,19 @@
             "Graoumf"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "de",
+            "en",
+            "fr",
+            "pl",
+            "es"
+        ],
         "status": true,
         "last_update": "2020-04",
-        "tp2": ""
+        "tp2": "xpmod"
     },
     {
         "name": "Ding0 Tweak",
@@ -9820,7 +9876,7 @@
         ],
         "status": true,
         "last_update": "2024-01",
-        "tp2": ""
+        "tp2": "DofD"
     },
     {
         "name": "Don't wake up!",
@@ -9967,7 +10023,7 @@
         ],
         "status": true,
         "last_update": "2022-03",
-        "tp2": ""
+        "tp2": "da_portraits"
     },
     {
         "name": "Dragon Dancer",
@@ -10024,10 +10080,9 @@
     },
     {
         "name": "Dragonspear UI++",
-        "description": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais.||- <strong>La <a href=\"https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit\">version d'Anongit</a>, basée sur celle de Pecca / Renegade, elle se concentre sur la compatibilité avec EET et d'autres corrections.</strong>||- <strong>La <a href=\"https://github.com/11jo/French-Translation_For_Dragonspear-UI_Artifox\">version d'Artifox</a>, basée sur celle d'Anongit, elle se concentre sur la compatibilité avec IWDEE et sur de nouvelles corrections.</strong>",
+        "description": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais.||- <strong>La <a href=\"https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit\">version d'Anongit</a>, basée sur celle de Pecca / Renegade, elle se concentre sur la compatibilité avec EET et d'autres corrections.</strong>",
         "urls": [
-            "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit/releases/tag/Anongit",
-            "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Artifox/releases/tag/Artifox"
+            "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit/releases/tag/Anongit"
         ],
         "categories": [
             "Interface"
@@ -10045,7 +10100,7 @@
             "Shodead"
         ],
         "notes": [
-            "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour. <strong>Pour télécharger le mod, utilisez soit :</strong>"
+            "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -10074,15 +10129,15 @@
             "Shodead"
         ],
         "notes": [
-            "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour. <strong>Pour télécharger le mod, utilisez :</strong>"
+            "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [],
         "status": true,
         "last_update": "2023-06",
-        "tp2": ""
+        "tp2": "dragonspear_ui++"
     },
     {
         "name": "Drake NPC",
@@ -10499,16 +10554,24 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Pol Rupes"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
-        "translation_state": false,
+        "is_weidu": true,
+        "translation_state": "todo",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "it",
+            "pl",
+            "es"
+        ],
         "status": true,
         "last_update": "2023-12",
-        "tp2": ""
+        "tp2": "dusk"
     },
     {
         "name": "Duskblade",
@@ -11077,16 +11140,21 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Roxanne"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": "2023-06",
-        "tp2": ""
+        "tp2": "Ehlastra"
     },
     {
         "name": "Eilistraee's Song",
@@ -11285,13 +11353,15 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2021-10",
-        "tp2": ""
+        "tp2": "Emily"
     },
     {
         "name": "Enable conversations with charmed / dominated creatures",
@@ -11424,7 +11494,7 @@
         "languages": [],
         "status": true,
         "last_update": "2024-08",
-        "tp2": ""
+        "tp2": "gaEnemyRando"
     },
     {
         "name": "Enhanced BG2",
@@ -12679,7 +12749,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Flamewing"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -12690,7 +12762,7 @@
         ],
         "status": true,
         "last_update": "2018-02",
-        "tp2": ""
+        "tp2": "m7tweaks"
     },
     {
         "name": "Flanks and Rear",
@@ -12946,7 +13018,7 @@
         ],
         "status": true,
         "last_update": "2023-06",
-        "tp2": ""
+        "tp2": "framed"
     },
     {
         "name": "Freedom's Reign & Reign of Virtue",
@@ -13005,7 +13077,7 @@
         ],
         "status": true,
         "last_update": "2023-09",
-        "tp2": ""
+        "tp2": "A7-ResizeableCombatLog"
     },
     {
         "name": "Frennedan NPC",
@@ -13203,16 +13275,21 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "c4_angel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": true,
         "last_update": "2019-08",
-        "tp2": ""
+        "tp2": "c4GAS"
     },
     {
         "name": "Game Over Only on Party Dead",
@@ -13435,7 +13512,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "Gemma"
     },
     {
         "name": "Generalized Biffing",
@@ -13482,7 +13559,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "generalized_biffing"
     },
     {
         "name": "Genwas Bestienmod BG2:EE",
@@ -13674,7 +13751,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2020-05",
         "tp2": ""
     },
     {
@@ -13754,7 +13831,7 @@
         "languages": [],
         "status": true,
         "last_update": "2015-10",
-        "tp2": ""
+        "tp2": "ggib_tweaks"
     },
     {
         "name": "Ghareth NPC",
@@ -14327,7 +14404,7 @@
         ],
         "status": true,
         "last_update": "2022-03",
-        "tp2": ""
+        "tp2": "hannah_portraits"
     },
     {
         "name": "Hard Times",
@@ -14620,13 +14697,15 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-03",
+        "tp2": "Helga"
     },
     {
         "name": "Hell Recollection 1",
@@ -15113,7 +15192,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "homewardbound"
     },
     {
         "name": "Hommet NPC",
@@ -15145,7 +15224,7 @@
         "description": "Ce mod ajoute un squelette en tant que PNJ membre du groupe. Vous pourrez le trouver dans la crypte de Franc-Marché. Il dispose d'un kit spécifique à son état, d'HLA et de sorts en partie issus d'IWD2, ainsi que d'une IA spécifique si vous choisissez de l'activer.",
         "urls": [
             "http://www.shsforums.net/topic/54902-horace-a-mod-from-seifer/",
-            "https://github.com/Plutonium-X/NPC_Horace"
+            "https://github.com/Plutonium-X/1D_NPC_Horace"
         ],
         "categories": [
             "PNJ One Day"
@@ -15156,7 +15235,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Seifer"
+        ],
         "team": [
             "Le Marquis"
         ],
@@ -15167,10 +15248,15 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "it",
+            "ru"
+        ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "Horace"
     },
     {
         "name": "House Rules for IWD:EE (IWD:EE Tweak Pack)",
@@ -15247,7 +15333,7 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -15255,7 +15341,7 @@
         ],
         "status": true,
         "last_update": "2021-02",
-        "tp2": ""
+        "tp2": "hubelpot"
     },
     {
         "name": "Human Flesh Armor no longer disables spells",
@@ -15510,7 +15596,7 @@
         ],
         "status": true,
         "last_update": "2024-02",
-        "tp2": ""
+        "tp2": "iwditempack"
     },
     {
         "name": "IWD NPC Project",
@@ -15531,13 +15617,17 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "ru"
+        ],
         "status": true,
         "last_update": "2022-09",
-        "tp2": ""
+        "tp2": "iwdnpc"
     },
     {
         "name": "IWD Tweak Pack",
@@ -15723,7 +15813,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Domi"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -15735,12 +15827,13 @@
         ],
         "status": true,
         "last_update": "2021-09",
-        "tp2": ""
+        "tp2": "iwd2npc"
     },
     {
         "name": "IWD2 Tweak pack",
         "description": "Adaptation pour IWD 2 du Tweak Pack de BG2, ce mod permettait de faire mille et un petits ajustements au jeu : des bugs fixés, des modifications cosmétiques, des facilitations de gestion d'inventaire avec des sacs à contenance et des entassements de munitions illimités. Il permettait par exemple de sauvegarder ou de se reposer où on veut, de mettre automatiquement en pause au déclenchement d'un dialogue... La plupart de ces modifications visaient à supprimer les aspects les plus ennuyeux du moteur de jeu.",
         "urls": [
+            "https://www.gibberlings3.net/mods/tweaks/tweaks/",
             "https://github.com/Gibberlings3/iwd2tweaks"
         ],
         "categories": [
@@ -15749,20 +15842,32 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "the bigg",
+            "Andyr",
+            "Idobek"
+        ],
         "team": [
             "Elgaern the Dragon Slayer"
         ],
         "notes": [
             "Il est désormais obsolète et a été remplacé par [[Tweaks Anthology]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": false,
-        "languages": [],
-        "status": true,
+        "languages": [
+            "cz",
+            "en",
+            "fr",
+            "de",
+            "pl",
+            "ru",
+            "es"
+        ],
+        "status": "embed",
         "last_update": "2016-01",
-        "tp2": ""
+        "tp2": "iwd2tweaks"
     },
     {
         "name": "IWD2 Unofficial Item/Spell Patch",
@@ -15802,16 +15907,18 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Ineth"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
         "last_update": "2018-05",
-        "tp2": ""
+        "tp2": "iwd_portrait_variations"
     },
     {
         "name": "IWD:EE compatibility fixer",
@@ -15826,17 +15933,17 @@
             "IWDEE"
         ],
         "authors": [
-            "D2-mods"
+            "Dan_P"
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "iwd_compat"
     },
     {
         "name": "IWDification",
@@ -15889,7 +15996,9 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [
             "Anomaly",
             "Elgaern the Dragon Slayer",
@@ -15913,7 +16022,7 @@
         ],
         "status": true,
         "last_update": "2022-12",
-        "tp2": ""
+        "tp2": "iwdfixpack"
     },
     {
         "name": "Icewind Dale in Baldur's Gate II",
@@ -16421,7 +16530,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "OlvynChuru"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -16433,7 +16544,7 @@
         ],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "BetterHOF"
     },
     {
         "name": "Improved Horns of Valhalla",
@@ -16748,7 +16859,7 @@
         ],
         "status": true,
         "last_update": "2022-03",
-        "tp2": ""
+        "tp2": "cd_icpp"
     },
     {
         "name": "Infinity Kits",
@@ -17038,7 +17149,7 @@
         ],
         "status": true,
         "last_update": "2023-01",
-        "tp2": ""
+        "tp2": "Ishlilkamod"
     },
     {
         "name": "Isra NPC",
@@ -17199,18 +17310,22 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Bartimaeus"
+        ],
         "team": [],
         "notes": [
             "Extrayez-le par dessus [[Item Revisions]]. Plus précisément, le dossier item_rev de IRR doit écraser le dossier item_rev normal - confirmez pour écraser les dossiers ainsi que tous les fichiers qu'il vous demande. Vérifiez le fichier votre settings.ini dans votre répertoire item_rev pour personnaliser l'installation. Puis installez le mod normalement."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-09",
-        "tp2": ""
+        "tp2": "item_rev"
     },
     {
         "name": "Item Upgrade for Icewind Dale",
@@ -17225,7 +17340,9 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "CamDawg"
+        ],
         "team": [
             "Lothringen"
         ],
@@ -17233,10 +17350,14 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru"
+        ],
         "status": true,
         "last_update": "2021-12",
-        "tp2": ""
+        "tp2": "iu_iwd"
     },
     {
         "name": "Item Value Tweaks",
@@ -17435,17 +17556,17 @@
             "EET"
         ],
         "authors": [
-            "shohy"
+            "Shohy"
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2010-01",
-        "tp2": ""
+        "tp2": "D2kits"
     },
     {
         "name": "Jan's Alchemy",
@@ -17482,7 +17603,7 @@
         ],
         "status": true,
         "last_update": "2020-08",
-        "tp2": ""
+        "tp2": "alchemy"
     },
     {
         "name": "Jandor NPC",
@@ -17903,13 +18024,13 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-10",
+        "tp2": "Kale"
     },
     {
         "name": "Kangaxx mejorado",
@@ -17976,16 +18097,20 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Artemius_I"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2021-11",
-        "tp2": ""
+        "tp2": "KarihiNPC"
     },
     {
         "name": "Keenmarker",
@@ -18139,7 +18264,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Greener"
+        ],
         "team": [
             "deratiseur"
         ],
@@ -18155,7 +18282,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "KIT_Kensai_Rev"
     },
     {
         "name": "Kensai Ryu's Restored Drow Innates Abilities",
@@ -18307,7 +18434,7 @@
         ],
         "status": true,
         "last_update": "2021-11",
-        "tp2": ""
+        "tp2": "kiara-zaiya"
     },
     {
         "name": "Kido NPC",
@@ -18397,7 +18524,7 @@
         ],
         "status": true,
         "last_update": "2024-02",
-        "tp2": ""
+        "tp2": "KimNPC"
     },
     {
         "name": "Kindrek",
@@ -18473,7 +18600,7 @@
             "IWDEE"
         ],
         "authors": [
-            "D2-mods"
+            "Dan_P"
         ],
         "team": [
             "JohnBob"
@@ -18488,7 +18615,7 @@
         ],
         "status": true,
         "last_update": "2022-11",
-        "tp2": ""
+        "tp2": "kitmule"
     },
     {
         "name": "Kit Revisions",
@@ -18766,7 +18893,7 @@
         ],
         "status": true,
         "last_update": "2024-07",
-        "tp2": ""
+        "tp2": "Derats_magasin_2"
     },
     {
         "name": "L'ogre et le gnome, une histoire de bleu",
@@ -19037,7 +19164,7 @@
         "tp2": "LeUI-SoD"
     },
     {
-        "name": "Lefreut's enhanced UI for IWD:EE",
+        "name": "Lefreut's enhanced UI for IWDEE",
         "description": "Lefreut, des d'Oghmatiques, a développé toute une série de mods permettant de modifier la nouvelle interface de jeu de BG:EE et BG2:EE apparue avec la version 2.0 et Siege of Dragonspear. Celui-ci améliore l'interface de IWD:EE avec un certain nombre de modifications d'ergonomie, et permet notamment d'accéder aux hlas dans IWDEE, qui ne les propose pas par défaut, faute d'interface.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30831-ui-lefreuts-enhanced-ui-for-iwdee",
@@ -19057,13 +19184,13 @@
         "notes": [
             "Attention : Installez la version 1.9.2 à partir du patch 2.6, et la version 1.8.1 pour les patches antérieurs."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
         "last_update": "2022-08",
-        "tp2": ""
+        "tp2": "LeUI-IWDEE"
     },
     {
         "name": "Legacy shields for BG2:EE",
@@ -19130,16 +19257,20 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "eugene"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2022-12",
-        "tp2": ""
+        "tp2": "Lena"
     },
     {
         "name": "Les Exilés de Lunargent",
@@ -19390,7 +19521,7 @@
         ],
         "status": true,
         "last_update": "2023-09",
-        "tp2": ""
+        "tp2": "A7-LevelUpTweaks"
     },
     {
         "name": "Level adder",
@@ -20360,8 +20491,7 @@
         "name": "Malthis",
         "description": "Malthis est un bretteur chaotique bon que vous pouvez trouver près de Cromwell. Il n'est pas comme les autres et porte un lourd secret. Ses caractéristiques et son alignement vont dépendre de vous. Saurez-vous l'adopter et l'aider dans sa guerre contre une sombre organisation ?|Comme le site hébergeant le mod a disparu (rosenranken.org), le lien renvoie à un compte GitHub d'hébergement temporaire.",
         "urls": [
-            "https://github.com/Jazira33/Malthis-NPC",
-            "https://github.com/Plutonium-X/NPC_Malthis"
+            "https://github.com/Plutonium-X/1D_NPC_Malthis"
         ],
         "categories": [
             "PNJ One Day"
@@ -20371,20 +20501,23 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "jastey"
+        ],
         "team": [
             "Garfield"
         ],
-        "notes": [
-            "Utilisez le premier lien github pour la version BG2 et le second pour la version BG2EE/EET."
-        ],
+        "notes": [],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "de",
+            "fr"
+        ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "Malthis"
     },
     {
         "name": "Mang0's Hip Hop Mod",
@@ -20718,7 +20851,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "merskstore"
     },
     {
         "name": "Mhoram",
@@ -20756,7 +20889,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "Mhoram"
     },
     {
         "name": "Might and Guile",
@@ -20869,16 +21002,20 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Artemius_I"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2021-11",
-        "tp2": ""
+        "tp2": "MinervaNPC"
     },
     {
         "name": "Minions Tied to Summoner",
@@ -20926,18 +21063,21 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Smeagolheart",
+            "bob_veng"
+        ],
         "team": [],
         "notes": [
             "Ce mod est devenu obsolète depuis son intégration dans [[Portraits Portraits Everywhere]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
-        "tp2": ""
+        "status": "embed",
+        "last_update": "2016-06",
+        "tp2": "MinorNPCPortraitsforBG2EE"
     },
     {
         "name": "Minor NPC Portraits for BG:EE",
@@ -20953,18 +21093,21 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Smeagolheart",
+            "bob_veng"
+        ],
         "team": [],
         "notes": [
             "Ce mod est devenu obsolète depuis son intégration dans [[Portraits Portraits Everywhere]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": "2016-05",
-        "tp2": ""
+        "tp2": "MinorNPCPortraitsforBGEE"
     },
     {
         "name": "Minor NPC Portraits for IWD:EE",
@@ -20979,18 +21122,21 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Smeagolheart",
+            "bob_veng"
+        ],
         "team": [],
         "notes": [
             "Ce mod est devenu obsolète depuis son intégration dans [[Portraits Portraits Everywhere]]."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
-        "tp2": ""
+        "status": "embed",
+        "last_update": "2016-05",
+        "tp2": "MinorNPCPortraitsforIWDEE"
     },
     {
         "name": "Mirror Monk Kit",
@@ -21008,7 +21154,10 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Wisp",
+            "Argent77"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -21018,8 +21167,8 @@
             "en"
         ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2019-01",
+        "tp2": "MirrorMonk"
     },
     {
         "name": "Misc kits",
@@ -21057,7 +21206,7 @@
         ],
         "status": true,
         "last_update": "2024-09",
-        "tp2": ""
+        "tp2": "d2-randomkits"
     },
     {
         "name": "Mix Mod",
@@ -21235,7 +21384,7 @@
         ],
         "status": "embed",
         "last_update": "2018-09",
-        "tp2": ""
+        "tp2": "bg2eetrans"
     },
     {
         "name": "Moddie the vixen",
@@ -21271,7 +21420,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "FoxMonster"
     },
     {
         "name": "Modification des thèmes musicaux d'IWD et IWD2",
@@ -21424,7 +21573,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "mnkoverhaul"
     },
     {
         "name": "Monk Tweak",
@@ -21603,7 +21752,7 @@
         ],
         "status": true,
         "last_update": "2024-06",
-        "tp2": ""
+        "tp2": "morituri"
     },
     {
         "name": "Morpheus562's Kitpack",
@@ -21673,7 +21822,7 @@
         "description": "Ce mod ajoute deux magasins (l'un dans le donjon d'Irenicus derrière la cellule de Jaheira et l'autre dans les ruines de l'ombre - temple d'Amaunator) qui vendent des potions vous permettant de vous transformer en diverses créatures : limon, vampire, minotaure, spectateur... C'est un mod ténébreux basé sur les morts-vivants, les liches, etc.|Il existe une version obsolète sur <a href=\"http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=154\">TeamBG</a>.",
         "urls": [
             "http://www.shsforums.net/files/file/145-mortis/",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html"
+            "https://www.mediafire.com/file/zieaqnbzkykd15y/Mortis_Mini_Mod_2.34.zip/file"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -21694,7 +21843,7 @@
         ],
         "is_weidu": null,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
         "last_update": "2010-05",
@@ -21713,16 +21862,22 @@
         "games": [
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "aquadrizzt"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "cn"
+        ],
         "status": true,
         "last_update": "2023-06",
-        "tp2": ""
+        "tp2": "MortuaryBeGone"
     },
     {
         "name": "Mr Pennyway's Cosmetic Changes",
@@ -21869,16 +22024,18 @@
             "PST",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Lauriel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
         "last_update": "2021-08",
-        "tp2": ""
+        "tp2": "mptweaks"
     },
     {
         "name": "MunchMod",
@@ -22186,7 +22343,7 @@
         ],
         "status": true,
         "last_update": "2023-09",
-        "tp2": ""
+        "tp2": "A7-NPCGenerator"
     },
     {
         "name": "NPC Kit Pack",
@@ -22389,7 +22546,7 @@
         ],
         "status": true,
         "last_update": "2024-08",
-        "tp2": ""
+        "tp2": "nanstein"
     },
     {
         "name": "Nathaniel",
@@ -22792,7 +22949,7 @@
         ],
         "status": true,
         "last_update": "2023-01",
-        "tp2": ""
+        "tp2": "NikitaRedux"
     },
     {
         "name": "Ninde",
@@ -23314,7 +23471,7 @@
             "Freddy_Gwendo"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
@@ -23324,7 +23481,7 @@
         ],
         "status": true,
         "last_update": "2023-03",
-        "tp2": ""
+        "tp2": "1pp"
     },
     {
         "name": "One Pixel Productions Animation Fixes for IWD:TotLM",
@@ -23525,7 +23682,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Dracoqwerty"
+        ],
         "team": [],
         "notes": [
             "Le créateur conseille d'installer également [[Better Stat Drain (STR, DEX, CON, INT, WIS, CHA)]]."
@@ -23538,7 +23697,7 @@
         ],
         "status": true,
         "last_update": "2022-07",
-        "tp2": ""
+        "tp2": "Oozelord"
     },
     {
         "name": "Orcish Scout Kit",
@@ -23873,7 +24032,7 @@
         "description": "Il s'agit du pack de portraits [[PaintBG]] mis à jour par Artastrophe pour être utilisé dans les jeux des éditions améliorées. Les portraits sont toujours les mêmes que dans le PaintBG original, mais comprennent également de nouveaux portraits qu'Artastrophe a publié depuis la dernière version officielle.",
         "urls": [
             "https://forums.beamdog.com/discussion/76592/mod-paintbg-ee-portrait-pack",
-            "https://github.com/polysquirrel/bface/releases/"
+            "https://github.com/polysquirrel/bface/"
         ],
         "categories": [
             "Portrait et son"
@@ -23884,16 +24043,22 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "polymorphedsquirrel"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
-        "translation_state": true,
+        "is_weidu": true,
+        "translation_state": "todo",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "fr"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-12",
+        "tp2": "bface"
     },
     {
         "name": "Paladins of Faerun Kitpack",
@@ -23944,7 +24109,7 @@
         "team": [],
         "notes": [],
         "is_weidu": true,
-        "translation_state": false,
+        "translation_state": "todo",
         "safe": true,
         "languages": [
             "de",
@@ -23953,8 +24118,8 @@
             "ru"
         ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-05",
+        "tp2": "PoFQuestPack"
     },
     {
         "name": "Pale Master Sorcerer",
@@ -24319,7 +24484,7 @@
         ],
         "status": true,
         "last_update": "2020-04",
-        "tp2": ""
+        "tp2": "phaere_ports"
     },
     {
         "name": "Phun Cheats Spell",
@@ -24431,7 +24596,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "Pirate"
     },
     {
         "name": "Items of the Planes",
@@ -24459,7 +24624,7 @@
         ],
         "status": true,
         "last_update": "2023-04",
-        "tp2": ""
+        "tp2": "PlanarItems"
     },
     {
         "name": "Planar Sphere Mod",
@@ -24530,7 +24695,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "PlanarTeleport"
     },
     {
         "name": "Planescape: Torment Portraits",
@@ -24626,7 +24791,7 @@
         ],
         "status": true,
         "last_update": "2024-07",
-        "tp2": ""
+        "tp2": "PST-UB-reloaded"
     },
     {
         "name": "Planetouched Races",
@@ -24697,7 +24862,7 @@
         ],
         "status": true,
         "last_update": "2022-03",
-        "tp2": ""
+        "tp2": "plasmobg1bg2"
     },
     {
         "name": "Plasmocat's \"Picks of the Litter\" Portrait Pack",
@@ -24738,7 +24903,7 @@
         ],
         "status": true,
         "last_update": "2022-03",
-        "tp2": ""
+        "tp2": "picks_of_the_litter"
     },
     {
         "name": "Plasmocat's Portrait Pack",
@@ -24779,7 +24944,7 @@
         ],
         "status": true,
         "last_update": "2022-03",
-        "tp2": ""
+        "tp2": "plasmoportraits"
     },
     {
         "name": "Platter's Armours",
@@ -24938,7 +25103,9 @@
             "IWDEE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Luke"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -24960,7 +25127,7 @@
         ],
         "status": true,
         "last_update": "2021-09",
-        "tp2": ""
+        "tp2": "pnp_potions"
     },
     {
         "name": "Polymorph (and other) fixes",
@@ -24975,17 +25142,20 @@
             "IWDEE"
         ],
         "authors": [
-            "D2-mods"
+            "Dan_P"
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": "2024-08",
-        "tp2": ""
+        "tp2": "d2-iwdee-fixes"
     },
     {
         "name": "Polytweak",
@@ -25030,17 +25200,19 @@
             "IWDEE"
         ],
         "authors": [
-            "D2-mods"
+            "Dan_P"
         ],
         "team": [],
         "notes": [],
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-01",
-        "tp2": ""
+        "tp2": "d2-portrait-separator"
     },
     {
         "name": "Portrait Pack",
@@ -25152,16 +25324,18 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Ineth"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
         "last_update": "2021-01",
-        "tp2": ""
+        "tp2": "PortraitsFromIWD2"
     },
     {
         "name": "Power Action Leprechaun Annah",
@@ -25199,16 +25373,22 @@
         "games": [
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "aquadrizzt"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "ru"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2017-04",
+        "tp2": "PowerOfBelief"
     },
     {
         "name": "Prestige Kitpack",
@@ -25246,7 +25426,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "PPK"
     },
     {
         "name": "Privet Property",
@@ -25348,7 +25528,7 @@
         ],
         "status": true,
         "last_update": "2023-06",
-        "tp2": ""
+        "tp2": "A7-Protagonist-Be-Gone"
     },
     {
         "name": "Prêtre de Bhaal",
@@ -25383,7 +25563,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "P!Bhaal"
     },
     {
         "name": "Prêtre de Mystra",
@@ -25637,11 +25817,11 @@
             "BGT"
         ],
         "authors": [
-            "Gwendolyne"
+            "rastor"
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -25649,7 +25829,7 @@
         ],
         "status": true,
         "last_update": "2020-04",
-        "tp2": ""
+        "tp2": "RItemPack"
     },
     {
         "name": "RPG Dungeon Kit Pack",
@@ -25717,7 +25897,7 @@
         ],
         "status": true,
         "last_update": "2024-02",
-        "tp2": ""
+        "tp2": "rttitempack"
     },
     {
         "name": "RTT Kit Pack",
@@ -25755,7 +25935,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "rttkit"
     },
     {
         "name": "Universal Wizard Spells",
@@ -26012,13 +26192,13 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-02",
+        "tp2": "Recorder"
     },
     {
         "name": "Red Dragon Summoning Spell",
@@ -26055,7 +26235,7 @@
         ],
         "status": true,
         "last_update": "2020-08",
-        "tp2": ""
+        "tp2": "dragonsummon"
     },
     {
         "name": "Red soul and Green soul Kits",
@@ -26897,7 +27077,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "RGenie"
     },
     {
         "name": "Riklaunim's Crazy Remixes (Szalone Remixy)",
@@ -27163,7 +27343,7 @@
         ],
         "status": true,
         "last_update": "2022-03",
-        "tp2": ""
+        "tp2": "roorenart_bg2"
     },
     {
         "name": "Rose NPC",
@@ -27491,11 +27671,13 @@
         "translation_state": true,
         "safe": true,
         "languages": [
-            "fr"
+            "fr",
+            "en",
+            "ru"
         ],
         "status": true,
         "last_update": "2020-05",
-        "tp2": ""
+        "tp2": "fr_ombre"
     },
     {
         "name": "Sacred Fist (Cleric) and Dragon Disciple (3e)",
@@ -27604,18 +27786,24 @@
         "games": [
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Roxanne"
+        ],
         "team": [],
         "notes": [
             "Bref, rien de nouveau sous le soleil : l'auteure n'a pas pu s'empêcher de modifier le contenu du jeu à sa convenance. Installez ce mod à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "pl"
+        ],
         "status": true,
         "last_update": "2023-10",
-        "tp2": ""
+        "tp2": "Safana"
     },
     {
         "name": "Samurai Kit",
@@ -27668,13 +27856,16 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "SandrahNPC"
     },
     {
         "name": "Saradas Magic",
@@ -27902,7 +28093,9 @@
             "PST",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Qwinn"
+        ],
         "team": [
             "mirandir",
             "Zyl"
@@ -27910,13 +28103,21 @@
         "notes": [
             "Attention : il semble être bogué, mais voici <a href=\"https://forums.beamdog.com/discussion/68451/has-anyone-tested-the-save-nordom-tweak\">une solution</a> qui devrait régler le problème."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "pl",
+            "ru",
+            "es"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2017-05",
+        "tp2": "PST-SaveNordomTweak"
     },
     {
         "name": "Scales of Balance",
@@ -28023,7 +28224,7 @@
         ],
         "status": true,
         "last_update": "2022-11",
-        "tp2": ""
+        "tp2": "SelphiraTweaks"
     },
     {
         "name": "Selune's Armoury",
@@ -28088,7 +28289,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "semi_multi_clerics"
     },
     {
         "name": "Sentrizeal's Alternate Avatar Pack",
@@ -28183,7 +28384,7 @@
         ],
         "status": true,
         "last_update": "2023-10",
-        "tp2": ""
+        "tp2": "Severian"
     },
     {
         "name": "Shader Pack: Lighting Adjustments",
@@ -28735,7 +28936,7 @@
         ],
         "status": true,
         "last_update": "2024-08",
-        "tp2": ""
+        "tp2": "ShineOnCaelar"
     },
     {
         "name": "Shoplifting 2",
@@ -28795,7 +28996,7 @@
         ],
         "status": true,
         "last_update": "2021-04",
-        "tp2": ""
+        "tp2": "shurininja"
     },
     {
         "name": "Sigil's Birthday Mod",
@@ -28871,7 +29072,7 @@
         "notes": [
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -28881,7 +29082,7 @@
         ],
         "status": true,
         "last_update": "2021-06",
-        "tp2": ""
+        "tp2": "star"
     },
     {
         "name": "Simple Scripts",
@@ -28999,7 +29200,7 @@
         ],
         "status": true,
         "last_update": "2024-08",
-        "tp2": ""
+        "tp2": "Renal"
     },
     {
         "name": "Sirene NPC for BG2EE",
@@ -29030,7 +29231,7 @@
     },
     {
         "name": "Sirene NPC",
-        "description": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr (mais le joueur peut choisir un autre kit de paladin) qu'il est possible de rencontrer au temple de Lathandre à Bérégost. Le mod est compatible avec Siege of Dragonspear et permet de recruter le personnage pour la campagne. Il comporte du contenu en rapport avec les mods White et Verr'Sza de Lava.",
+        "description": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr (mais le joueur peut choisir un autre kit de paladin) qu'il est possible de rencontrer au temple de Lathandre à Bérégost. Le mod est compatible avec Siege of Dragonspear et permet de recruter le personnage pour la campagne. Il comporte du contenu en rapport avec les mods [[White NPC]] et [[Verr'Sza (BG1EE)]] de Lava.",
         "urls": [
             "https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/",
             "https://github.com/ArtemiusI/Sirene-NPC"
@@ -29235,7 +29436,7 @@
         ],
         "status": true,
         "last_update": "2023-10",
-        "tp2": ""
+        "tp2": "SkitiaNPCs"
     },
     {
         "name": "Skooter the NPC",
@@ -29293,7 +29494,7 @@
             "https://github.com/4Luke4/Sleep-Fix"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "BGEE",
@@ -29301,18 +29502,20 @@
             "IWDEE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Luke"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
         "languages": [
             "de"
         ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2021-08",
+        "tp2": "sleep_fix"
     },
     {
         "name": "Slightly Improved Ilyich",
@@ -29806,18 +30009,22 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Bartimaeus"
+        ],
         "team": [],
         "notes": [
             "Extrayez-le par dessus [[Spell Revisions]]. Plus précisément, le dossier spell_rev de SRR doit écraser le dossier spell_rev normal - confirmez pour écraser les dossiers ainsi que tous les fichiers qu'il vous demande. Vérifiez le fichier votre settings.ini dans votre répertoire spell_rev pour personnaliser l'installation. Puis installez le mod normalement."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2022-08",
-        "tp2": ""
+        "tp2": "spell_rev"
     },
     {
         "name": "Spell Weapons",
@@ -30101,13 +30308,16 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "it"
+        ],
         "status": true,
         "last_update": "2011-12",
-        "tp2": ""
+        "tp2": "stivan"
     },
     {
         "name": "Store Prices",
@@ -30561,7 +30771,7 @@
         ],
         "status": true,
         "last_update": "2023-05",
-        "tp2": ""
+        "tp2": "customs"
     },
     {
         "name": "Sword Coast Keeper",
@@ -31159,7 +31369,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "ulb"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -31170,7 +31382,7 @@
         ],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "TalonOfMalar"
     },
     {
         "name": "Tamoko",
@@ -31183,19 +31395,27 @@
             "PNJ recrutable"
         ],
         "games": [
+            "BGEE",
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Roxanne"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru",
+            "cn"
+        ],
         "status": true,
         "last_update": "2024-08",
-        "tp2": ""
+        "tp2": "EET_Swo"
     },
     {
         "name": "Tangled Oak Isle",
@@ -31696,7 +31916,7 @@
         "description": "Ce mod ajoute un nouveau PNJ : un elfe mage/voleur. Il dispose de dialogues avec les PNJ de Bioware, avec le PJ, et d'une quête principale qui débute dans SoA et se poursuit dans ToB. Thael se trouve sur la Promenade de Waukyne, tout près du cirque. Il possède une mystérieuse épée courte, Velvevlos, acquise dans des circonstances non moins particulières ; ce puissant artefact ayant une grande influence sur lui.|Au contact des terribles énergies magiques que renferme Velvelos, Thael a subi quelques mutations. L'une d'entre elles, « Pouvoir Mutant », est très utile en combat. Vous pouvez y accéder dans la partie réservée aux capacités spéciales des personnages.",
         "urls": [
             "http://www.shsforums.net/files/file/776-thael-npc-v-232/",
-            "https://github.com/Plutonium-X/NPC_Thael"
+            "https://github.com/Plutonium-X/1D_NPC_Thael"
         ],
         "categories": [
             "PNJ One Day"
@@ -31722,11 +31942,13 @@
         "translation_state": true,
         "safe": true,
         "languages": [
-            "fr"
+            "fr",
+            "es",
+            "de"
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "Thael"
     },
     {
         "name": "Thalantyr Item Upgrade",
@@ -31972,13 +32194,15 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2015-10",
-        "tp2": ""
+        "tp2": "tb#kits"
     },
     {
         "name": "The Bigg Tweaks Pack",
@@ -32095,18 +32319,23 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Roxanne"
+        ],
         "team": [],
         "notes": [
             "Préférez-lui le mod [[Restored Rhynn Lanthorn Quest]] qui est bien meilleur."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": "2022-11",
-        "tp2": ""
+        "tp2": "LensHunt"
     },
     {
         "name": "The Butter Knife of Balduran",
@@ -32602,7 +32831,7 @@
         ],
         "status": true,
         "last_update": "2023-07",
-        "tp2": ""
+        "tp2": "volcano"
     },
     {
         "name": "The Jerry Zinger Show",
@@ -32621,6 +32850,7 @@
             "EET"
         ],
         "authors": [
+            "Shed",
             "SConrad"
         ],
         "team": [],
@@ -32631,7 +32861,7 @@
         "languages": [],
         "status": true,
         "last_update": "2021-06",
-        "tp2": ""
+        "tp2": "jz"
     },
     {
         "name": "The Journey to the Whin Hill",
@@ -32720,11 +32950,12 @@
             "EET"
         ],
         "authors": [
-            "Miss Sakaki"
+            "Miss Sakaki",
+            "Feuille"
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
@@ -32732,7 +32963,7 @@
         ],
         "status": true,
         "last_update": "2021-06",
-        "tp2": ""
+        "tp2": "luxleysoa"
     },
     {
         "name": "The Magnificient Magic Shop",
@@ -33002,7 +33233,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "BoneHillEET"
     },
     {
         "name": "The Sellswords",
@@ -33056,7 +33287,8 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "Tutu"
         ],
         "authors": [
             "Ulb"
@@ -33072,7 +33304,7 @@
         ],
         "status": true,
         "last_update": "2014-05",
-        "tp2": ""
+        "tp2": "SilverFur"
     },
     {
         "name": "The Slithering Menace",
@@ -33110,7 +33342,7 @@
         ],
         "status": true,
         "last_update": "2020-06",
-        "tp2": ""
+        "tp2": "snakes"
     },
     {
         "name": "The Stone of Askavar",
@@ -33368,7 +33600,7 @@
         ],
         "status": true,
         "last_update": "2024-06",
-        "tp2": ""
+        "tp2": "Vaulteet"
     },
     {
         "name": "The White Queen",
@@ -33440,7 +33672,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "d2-workshopkits"
     },
     {
         "name": "The bigg Quest Pack",
@@ -33529,10 +33761,9 @@
     },
     {
         "name": "Thieving Skills for Bards",
-        "description": "Ce mod permet aux bardes et aux profils de barde (y compris ceux des mods) d'utiliser les capacités de crochetage de serrures, de trouver/désamorcer les pièges et de pickpocket. Le but du jeu étant de pouvoir se passer de voleur dans le groupe. Du niveau 1 au niveau 5, le barde recevra 10 points de compétence en crochetage de serrures, 10 points en détection/désarmorçage des pièges et 5 points en vol à la tire. Du niveau 6 au niveau 20, il recevra 5 points de compétence dans chacune de ces capacités.|Plus d'infos dans le <a href=\"https://github.com/Gibberlings3/Thieving-Skills-For-Bards/blob/main/readme.french.md\">readme en français</a>.",
+        "description": "Ce mod permet aux bardes et aux profils de barde (y compris ceux des mods) d'utiliser les capacités de crochetage de serrures, de trouver/désamorcer les pièges et de pickpocket. Le but du jeu étant de pouvoir se passer de voleur dans le groupe. Du niveau 1 au niveau 5, le barde recevra 10 points de compétence en crochetage de serrures, 10 points en détection/désarmorçage des pièges et 5 points en vol à la tire. Du niveau 6 au niveau 20, il recevra 5 points de compétence dans chacune de ces capacités.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/33669-thieving-skills-for-bards-v10/",
-            "https://github.com/Gibberlings3/Thieving-Skills-For-Bards"
+            "https://www.gibberlings3.net/forums/topic/33669-thieving-skills-for-bards-v10/"
         ],
         "categories": [
             "Gameplay"
@@ -33544,18 +33775,21 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "morpheus562"
+        ],
         "team": [
             "JohnBob"
         ],
         "notes": [
-            "Ce mod nécessite l'installation de [[EEex]] qui permet de mettre à jour la barre d'actions afin de permettre aux bardes de chanter, de détecter les pièges et d'utiliser les capacités de voleur au prix de la perte de l'accès aux sorts rapides."
+            "Ce mod nécessite l'installation de [[EEex]] qui permet de mettre à jour la barre d'actions afin de permettre aux bardes de chanter, de détecter les pièges et d'utiliser les capacités de voleur au prix de la perte de l'accès aux sorts rapides.",
+            "Ce mod est obsolète : remplacé par [[Skills and Abilities]] du même auteur."
         ],
-        "is_weidu": null,
-        "translation_state": true,
-        "safe": true,
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": "",
         "tp2": ""
     },
@@ -33832,7 +34066,7 @@
         ],
         "status": true,
         "last_update": "2023-09",
-        "tp2": ""
+        "tp2": "ToB-Tourist"
     },
     {
         "name": "TobEx",
@@ -33892,7 +34126,7 @@
         ],
         "status": true,
         "last_update": "2023-01",
-        "tp2": ""
+        "tp2": "TobEx_AfterLife"
     },
     {
         "name": "Todd le super Gars testeur",
@@ -34434,7 +34668,7 @@
         ],
         "status": true,
         "last_update": "2021-10",
-        "tp2": ""
+        "tp2": "trovador"
     },
     {
         "name": "True \"Use Any item Hla\"",
@@ -34825,7 +35059,7 @@
         ],
         "status": true,
         "last_update": "2023-02",
-        "tp2": ""
+        "tp2": "TheRune"
     },
     {
         "name": "Tyris Flare",
@@ -35174,7 +35408,7 @@
     },
     {
         "name": "Undivided: Keeping NPCs Around",
-        "description": "Constamment en cours de développement, ce mod transforme Vhailor et Ignus en compagnons plutôt qu'en membres du groupe. Il permet ainsi aux joueurs d'avoir les sept compagnons présents au fur et à mesure de leur progression dans le jeu. Ils suivront le groupe, interviendront toujours et seront identifiés comme membres du groupe par les scripts et dialogues, et progresseront en niveaux en même temps que Sans Nom.|Cependant, pour des raisons techniques, ce mod souffre de quelques limitations détaillées dans le lien de téléchargement.",
+        "description": "Ce mod transforme Vhailor et Ignus en compagnons plutôt qu'en membres du groupe. Il permet ainsi aux joueurs d'avoir les sept compagnons présents au fur et à mesure de leur progression dans le jeu. Ils suivront le groupe, interviendront toujours et seront identifiés comme membres du groupe par les scripts et dialogues, et progresseront en niveaux en même temps que Sans Nom.|Cependant, pour des raisons techniques, ce mod souffre de quelques limitations détaillées dans le lien de téléchargement.",
         "urls": [
             "https://forums.beamdog.com/discussion/65205/mod-undivided-keeping-npcs-around/p1",
             "https://github.com/aquadrizzt/Undivided"
@@ -35188,13 +35422,15 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2021-03",
-        "tp2": ""
+        "tp2": "Undivided"
     },
     {
         "name": "Unfinished Business",
@@ -35267,7 +35503,7 @@
         "description": "Le mod ajoute 9 aventures qui, pour une raison quelconque, n'ont pas été incluses dans le jeu par les développeurs.",
         "urls": [
             "https://www.gibberlings3.net/files/file/729-unfinished-business-for-icewind-dale/",
-            "https://github.com/Gibberlings3/iwd_unfinished_business/releases/"
+            "https://github.com/Gibberlings3/iwd_unfinished_business/"
         ],
         "categories": [
             "Quête"
@@ -35296,7 +35532,7 @@
         ],
         "status": true,
         "last_update": "2022-09",
-        "tp2": ""
+        "tp2": "ub_iwd"
     },
     {
         "name": "Unhide Chargen Options",
@@ -36018,7 +36254,7 @@
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "Vienxay"
     },
     {
         "name": "Vildra",
@@ -36129,7 +36365,7 @@
         ],
         "status": true,
         "last_update": "2024-08",
-        "tp2": ""
+        "tp2": "VolcanicArmoury"
     },
     {
         "name": "Vynd NPC",
@@ -36182,13 +36418,13 @@
         "notes": [
             "Seul le lien GitHub est à jour et est aussi compatible avec les jeux EE."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
         "last_update": "2020-07",
-        "tp2": ""
+        "tp2": "wtpfamiliars"
     },
     {
         "name": "W_GUI",
@@ -36881,7 +37117,8 @@
         "games": [
             "Tutu",
             "BGT",
-            "BGEE"
+            "BGEE",
+            "EET"
         ],
         "authors": [
             "Lava Del'Vortel"
@@ -36935,7 +37172,7 @@
         ],
         "status": true,
         "last_update": "2021-07",
-        "tp2": ""
+        "tp2": "widescreen"
     },
     {
         "name": "Wikaede One-Day-NPC Revisited",
@@ -37338,7 +37575,7 @@
         ],
         "status": true,
         "last_update": "2024-04",
-        "tp2": ""
+        "tp2": "bp-bgt-worldmap"
     },
     {
         "name": "Worship the Unseeing Eye",
@@ -37911,8 +38148,8 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "09-2021",
+        "tp2": "iiItemMod"
     },
     {
         "name": "iiKey Names",
@@ -37941,8 +38178,8 @@
             "es"
         ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "09-2021",
+        "tp2": "iiKeyNames"
     },
     {
         "name": "iiLearn Through Use Mod",
@@ -37975,7 +38212,7 @@
         ],
         "status": true,
         "last_update": "2021-09",
-        "tp2": ""
+        "tp2": "iiLearnThroughUse"
     },
     {
         "name": "iiProjectile Retrieval",
@@ -38007,8 +38244,8 @@
             "es"
         ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2011-11",
+        "tp2": "iiProjectileR"
     },
     {
         "name": "iiSpell System Adjustment",
@@ -38040,7 +38277,7 @@
         ],
         "status": true,
         "last_update": "2011-11",
-        "tp2": ""
+        "tp2": "iiSpellSystemAdjustments"
     },
     {
         "name": "iiTweaks",
@@ -38074,8 +38311,8 @@
             "es"
         ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2021-09",
+        "tp2": "iiTweak"
     },
     {
         "name": "jmerry's Tweak Collection",
@@ -38296,7 +38533,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "RBK"
     },
     {
         "name": "Passive Warrior HLAs",
@@ -38330,7 +38567,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "passive_warrior_hlas"
     },
     {
         "name": "Ranger Warden Kit",
@@ -38361,7 +38598,7 @@
         ],
         "status": true,
         "last_update": "2022-06",
-        "tp2": ""
+        "tp2": "rgr_warden"
     },
     {
         "name": "Weapon Oils",
@@ -38390,7 +38627,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "ZS_WeaponOils"
     },
     {
         "name": "PeaceSpeaker, the anti-violence sword",
@@ -38415,7 +38652,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "peacespeaker"
     },
     {
         "name": "Proficiencies",
@@ -38444,7 +38681,7 @@
         ],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "proficiency"
     },
     {
         "name": "Follower_It",
@@ -38480,7 +38717,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "Derats_Follower_it"
     },
     {
         "name": "CluaFr",
@@ -38493,6 +38730,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "BG2EE",
             "EET",
             "IWDEE"
@@ -38514,7 +38752,7 @@
         ],
         "status": true,
         "last_update": "2023-06",
-        "tp2": ""
+        "tp2": "CluaFr"
     },
     {
         "name": "DGItems",
@@ -38549,7 +38787,7 @@
         ],
         "status": true,
         "last_update": "2023-07",
-        "tp2": ""
+        "tp2": "DGItems"
     },
     {
         "name": "IRStore",
@@ -38584,7 +38822,7 @@
         ],
         "status": true,
         "last_update": "2023-07",
-        "tp2": ""
+        "tp2": "IRStore"
     },
     {
         "name": "NWN2 Soundsets",
@@ -38675,7 +38913,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "Derats_Combino"
     },
     {
         "name": "Jazon le revenant",
@@ -38709,7 +38947,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "Derats_Jazon"
     },
     {
         "name": "4U-H4S4RD, un kit à l'unité",
@@ -38742,7 +38980,7 @@
         ],
         "status": true,
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "Derats_SWP"
     },
     {
         "name": "Caster Crafting",
@@ -38773,7 +39011,7 @@
         ],
         "status": true,
         "last_update": "2024-01",
-        "tp2": ""
+        "tp2": "mod-caster-crafting"
     },
     {
         "name": "Combat Skills & Proficiencies",
@@ -39322,7 +39560,7 @@
         ],
         "status": true,
         "last_update": "2023-06",
-        "tp2": ""
+        "tp2": "SimeNPC"
     },
     {
         "name": "Smiling Imp's Cross Banter Mod",
@@ -39396,7 +39634,7 @@
             "EET"
         ],
         "authors": [
-            "Gwendolyne"
+            "Jolyth"
         ],
         "team": [],
         "notes": [],
@@ -39408,7 +39646,7 @@
         ],
         "status": true,
         "last_update": "2020-04",
-        "tp2": ""
+        "tp2": "rpgsolaflirtpack"
     },
     {
         "name": "Solaufein's Rescue",
@@ -39507,7 +39745,7 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": [
             "en",
             "fr",
@@ -39561,7 +39799,7 @@
         ],
         "status": true,
         "last_update": "2020-12",
-        "tp2": ""
+        "tp2": "valen"
     },
     {
         "name": "Wilson Chronicles",
@@ -39722,7 +39960,7 @@
         ],
         "status": true,
         "last_update": "2024-08",
-        "tp2": ""
+        "tp2": "Isaac's_Missile_Storm"
     },
     {
         "name": "Autumn's Twilight",
@@ -39760,7 +39998,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "Autumns_Twilight"
     },
     {
         "name": "SubtleD's Spell Tweaks",
@@ -39927,7 +40165,7 @@
         ],
         "status": true,
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "jaheirafriendship"
     },
     {
         "name": "The Bloodied Stings of Barovia",
@@ -40096,7 +40334,7 @@
         ],
         "status": true,
         "last_update": "2024-07",
-        "tp2": ""
+        "tp2": "IEEE_Halforc_Voice_Classic"
     },
     {
         "name": "IEEE-Dwarven-Voice-Classic-",
@@ -40127,7 +40365,7 @@
         ],
         "status": true,
         "last_update": "2024-07",
-        "tp2": ""
+        "tp2": "IEEE_Dwarven_Voice_Classic"
     },
     {
         "name": "PnPTweaks",
@@ -40157,7 +40395,7 @@
         ],
         "status": true,
         "last_update": "2017-08",
-        "tp2": ""
+        "tp2": "PnPTweaks"
     },
     {
         "name": "Illo le tatoueur",
@@ -40192,7 +40430,7 @@
         ],
         "status": true,
         "last_update": "2024-03",
-        "tp2": ""
+        "tp2": "Derats_Illo"
     },
     {
         "name": "Illumisfhityroc",
@@ -40225,7 +40463,7 @@
         ],
         "status": true,
         "last_update": "2024-03",
-        "tp2": ""
+        "tp2": "Derats_Illum"
     },
     {
         "name": "Wares of the Planes",
@@ -40259,7 +40497,7 @@
         ],
         "status": true,
         "last_update": "2024-07",
-        "tp2": ""
+        "tp2": "A7-WaresOfThePlanes"
     },
     {
         "name": "Alsaahir kit for BG2",
@@ -40289,7 +40527,7 @@
         ],
         "status": true,
         "last_update": "2023-05",
-        "tp2": ""
+        "tp2": "Alsaahir"
     },
     {
         "name": "BG1EE BG2EE Color Balanced Portraits",
@@ -40347,7 +40585,7 @@
         "languages": [],
         "status": true,
         "last_update": "2023-10",
-        "tp2": ""
+        "tp2": "BWS-FR-Fixpack"
     },
     {
         "name": "DLC Merger",
@@ -40656,7 +40894,7 @@
         ],
         "status": true,
         "last_update": "2023-09",
-        "tp2": ""
+        "tp2": "stutterdebug"
     },
     {
         "name": "Tipun's User Interface",
@@ -40690,7 +40928,7 @@
         ],
         "status": true,
         "last_update": "2022-05",
-        "tp2": ""
+        "tp2": "tipun_gui"
     },
     {
         "name": "Viconia Friendship",
@@ -40755,7 +40993,7 @@
         ],
         "status": true,
         "last_update": "2023-03",
-        "tp2": ""
+        "tp2": "XanFrenchMini"
     },
     {
         "name": "Yoshimo Friendship",
@@ -40822,7 +41060,7 @@
         "languages": [],
         "status": "wip",
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "dw_talents"
     },
     {
         "name": "Sarevok Romance",
@@ -40914,7 +41152,7 @@
         "languages": [],
         "status": true,
         "last_update": "2023-11",
-        "tp2": ""
+        "tp2": "drunkshaders"
     },
     {
         "name": "Minsc Friendship",
@@ -41137,7 +41375,7 @@
         ],
         "status": true,
         "last_update": "2023-10",
-        "tp2": ""
+        "tp2": "c#husam"
     },
     {
         "name": "Thalantyr Item Upgrade Extensions",
@@ -41164,7 +41402,7 @@
         ],
         "status": true,
         "last_update": "2023-09",
-        "tp2": ""
+        "tp2": "mod-thalandyr-ex"
     },
     {
         "name": "Better Random Library",
@@ -41199,7 +41437,7 @@
         "languages": [],
         "status": true,
         "last_update": "2023-07",
-        "tp2": ""
+        "tp2": "N/A"
     },
     {
         "name": "Random rolls using RDRAND",
@@ -41231,7 +41469,7 @@
         "languages": [],
         "status": true,
         "last_update": "2024-07",
-        "tp2": ""
+        "tp2": "randomrolls"
     },
     {
         "name": "Hexxat Friendship",
@@ -41291,7 +41529,7 @@
         ],
         "status": true,
         "last_update": "2024-07",
-        "tp2": ""
+        "tp2": "zbpod"
     },
     {
         "name": "Dead Gardens",
@@ -41378,7 +41616,7 @@
         "languages": [],
         "status": true,
         "last_update": "2020-04",
-        "tp2": ""
+        "tp2": "UlbsAnimationPack"
     },
     {
         "name": "A Fowl Wish",
@@ -41489,7 +41727,7 @@
         ],
         "status": true,
         "last_update": "2023-02",
-        "tp2": ""
+        "tp2": "CompassOfWomanhood"
     },
     {
         "name": "Valkrana NPC",
@@ -41520,7 +41758,7 @@
         ],
         "status": true,
         "last_update": "2024-09",
-        "tp2": ""
+        "tp2": "Valkrana"
     },
     {
         "name": "Galileo",
@@ -41551,7 +41789,7 @@
         ],
         "status": true,
         "last_update": "2024-02",
-        "tp2": ""
+        "tp2": "7c-galileo"
     },
     {
         "name": "Sir Wallace",
@@ -41581,7 +41819,7 @@
         ],
         "status": true,
         "last_update": "2024-07",
-        "tp2": ""
+        "tp2": "wallace"
     },
     {
         "name": "Orelios",
@@ -41613,7 +41851,7 @@
         ],
         "status": true,
         "last_update": "2023-03",
-        "tp2": ""
+        "tp2": "Orelios"
     },
     {
         "name": "Sir Neh'taniel",
@@ -41704,7 +41942,7 @@
         "languages": [],
         "status": true,
         "last_update": "2023-06",
-        "tp2": ""
+        "tp2": "N/A"
     },
     {
         "name": "Ahungry Tweaks",
