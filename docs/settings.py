@@ -133,6 +133,8 @@ domain_to_image = {
     "sasha-altherin.webs.com": "ab-logo.jpg",
     "sentrizeal.com": "sentrizeal.ico",
     "shsforums.net": "shs_reskit.avif",
+    "spellholdstudios.net": "shs_reskit.avif",
+    "bgforge.net": "bgforge.svg",
     "sorcerers.net": "sorcerer.avif",
     "sourceforge.net": "sf.png",
     "weaselmods.net": "weasel.png",
@@ -163,5 +165,6 @@ image_data = {
     "sf.png": {"title": "SourceForge", "width": 32},
     "weasel.png": {"title": "Weasel Mods", "width": 32},
     "weidu.ico": {"title": "WeiDU", "width": 16, "height": 16},
+    "bgforge.svg": {"title": "BG Forge", "width": 32},
     "-flag-32.png": {"title": "Mod %s", "width": 32},
 }
