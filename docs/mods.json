@@ -8593,10 +8593,10 @@
         "description": "Ce mini mod ajoute une rencontre supplémentaire dans les Collines d'Umar au chapitre 6. Ce n'est que le prétexte à un combat assez difficile contre des ennemis de niveaux 15 à 20 et très bien équipés. L'auteur a prévu 3 niveaux de difficulté : facile (déjà bien assez ardu), difficile et carrément démentiel.",
         "urls": [
             "http://www.shsforums.net/files/file/614-ds-odd-quest-mod/",
-            "https://github.com/SpellholdStudios/Duality_Odd_Quest_Mod"
+            "https://github.com/Plutonium-X/FIGHT_Duality_Odd_Quest/"
         ],
         "categories": [
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -8605,22 +8605,26 @@
             "EET"
         ],
         "authors": [
-            "Duality",
-            "GwendolyneFredy"
+            "Duality"
         ],
-        "team": [],
-        "notes": [],
+        "team": [
+            "deratiseur"
+        ],
+        "notes": [
+            "Choisissez le lien github pour la version française."
+        ],
         "is_weidu": true,
-        "translation_state": false,
+        "translation_state": true,
         "safe": true,
         "languages": [
             "en",
             "de",
             "it",
-            "ru"
+            "ru",
+            "fr"
         ],
         "status": true,
-        "last_update": "2020-08",
+        "last_update": "2024-12",
         "tp2": "imnesvale"
     },
     {
