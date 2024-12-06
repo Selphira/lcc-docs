@@ -865,7 +865,6 @@
         "name": "Ajoc's Mini Mod",
         "description": "Créé à l'origine pour Baldur's Gate 2 avec le mod [[The Darkest Day]], ce mod a été réécrit pour ne pas nécessiter TDD. Il ajoute du nouveau contenu : des quêtes (dont certaines très courtes), des monstres, des objets et de nouvelles zones.|Pour les jeux EE, installez le patch du second lien sur le mod du jeu original.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=153",
             "http://www.shsforums.net/topic/59054-ajocmod-for-ee-and-eet/"
         ],
         "categories": [
@@ -1073,7 +1072,7 @@
         "translation_state": false,
         "safe": true,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -1240,7 +1239,8 @@
         "name": "Alora NPC for BG2",
         "description": "La voleuse halfelin de la Porte de Baldur revient avec ce mod, pour le plus grand plaisir de ses fans. Sa bonhommie et ses exclamations sympathiques la rendent tout autant charismatique que dans le premier opus de la saga.",
         "urls": [
-            "https://github.com/GwendolyneFreddy/Alora-NPC-for-BG2"
+            "https://github.com/GwendolyneFreddy/Alora-NPC-for-BG2",
+            "http://downloads.chosenofmystra.net/bg2/alora-npc-for-bg2-2.0.zip"
         ],
         "categories": [
             "PNJ recrutable"
@@ -1764,7 +1764,7 @@
         "description": "Ce mod introduit une nouvelle raison pour laquelle le PJ tombe en disgrace à la fin de SoD et doit quitter la ville.",
         "urls": [
             "https://www.gibberlings3.net/files/file/1034-another-fine-hell/",
-            "https://github.com/Gitjas/Another_Fine_Hell/"
+            "https://github.com/Gibberlings3/Another_Fine_Hell/"
         ],
         "categories": [
             "Quête",
@@ -2758,8 +2758,8 @@
         "name": "Auril's Bane (version TotL)",
         "description": "Cet énorme mod combine les deux anciens mods Project Auril et Winter's Bane. Il ajoute un tas d'objets, de sorts et de créatures, quelques quêtes et de nouvelles fonctionnalités et correctifs.|Évitez son composant `Correction d'IWD par Grog` en faveur de [[Icewind Dale Fixpack]]. Par ailleurs, le composant principal possède également sa propre version de la quête \"la Voix de Durdel Anatha\", ce qui le rend incompatible avec le composant du même nom du mod [[Unfinished Business for IWD]].|Enfin, ce mod existe en deux versions, l'un pour Heart of Winter, l'autre pour [[Trials of the Luremaster]]. Seule la seconde est traduite en français.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=21",
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=20"
+            "http://downloads.chosenofmystra.net/iwd/AB_TotL.rar",
+            "http://downloads.chosenofmystra.net/iwd/AB_HoW.exe"
         ],
         "categories": [
             "Quête",
@@ -2768,21 +2768,27 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "Chosen of Mystra Mod Group"
+        ],
         "team": [
             "Morkhan",
             "Graoumf"
         ],
         "notes": [
-            "Attention : Malheureusement, il écrase plus ou moins tout ce qu'il touche, ce qui signifie qu'il efface de nombreuses modifications de mods installés avant lui. Il faut donc l'installer en tout premier, avant même le fixpack."
+            "Attention : Malheureusement, il écrase plus ou moins tout ce qu'il touche, ce qui signifie qu'il efface de nombreuses modifications de mods installés avant lui. Il faut donc l'installer en tout premier, avant même le fixpack.",
+            "Le premier lien sert pour ToTL. Le second pour HoW."
         ],
-        "is_weidu": false,
+        "is_weidu": true,
         "translation_state": true,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2008-11",
+        "tp2": "ab"
     },
     {
         "name": "Auror kit for the Ranger Class",
@@ -3266,9 +3272,7 @@
     {
         "name": "BG1 CoM Forge - Item Upgrade",
         "description": "Créé pour BG avec son extension Tales of the Sword Coast, ce mod ajoute un nouveau forgeron situé à l'Auberge de Brasamical : Thorengrim Poingmarteau. Celui vend de nouveaux objets et, à l'instar de Cromwell, peut en améliorer 11 autres. Outre son aspect marchand, ce mod ajoute 3 nouvelles rencontres : des ogres dans le Camp des Bandits, un duergar et sa ménagerie dans les mines de Nashkel, et enfin des marins saouls qui tenteront de vous détrousser à la Porte de Baldur.",
-        "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?topic=47.0"
-        ],
+        "urls": [],
         "categories": [
             "Forgeron et marchand"
         ],
@@ -3286,7 +3290,7 @@
         "translation_state": true,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": "",
         "tp2": ""
     },
@@ -3552,9 +3556,9 @@
     },
     {
         "name": "BG1 Tweaks Pack",
-        "description": "Ce mod permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions...).|Il est désormais obsolète et a été remplacé par [[The Tweaks Anthology]].",
+        "description": "Ce mod permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions...).",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=9"
+            "http://downloads.chosenofmystra.net/bg1/BG1Tweak.rar"
         ],
         "categories": [
             "Gameplay"
@@ -3564,14 +3568,16 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [],
-        "is_weidu": null,
+        "notes": [
+            "Il écrase les fichiers du jeu. Désormais obsolète, il a été remplacé par [[The Tweaks Anthology]]."
+        ],
+        "is_weidu": true,
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
-        "tp2": ""
+        "status": "embed",
+        "last_update": "2008-08",
+        "tp2": "BG1Tweaks"
     },
     {
         "name": "BG1 Unfinished Business",
@@ -4364,9 +4370,7 @@
     {
         "name": "Back to Baldur's Gate",
         "description": "Ce mod avait pour vocation de rendre les adversaires beaucoup plus forts dans Baldur's Gate (il modifiait plus de 130 créatures). Il nécessitait TotSC et le mod [[Dark Side of the Sword Coast]].|Son lien de téléchargement a disparu.",
-        "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?topic=4678.0"
-        ],
+        "urls": [],
         "categories": [
             "Gameplay"
         ],
@@ -4531,32 +4535,6 @@
         "is_weidu": false,
         "translation_state": null,
         "safe": null,
-        "languages": [],
-        "status": true,
-        "last_update": "",
-        "tp2": ""
-    },
-    {
-        "name": "Baldur's Gate 1 NPCs in SoA & ToB",
-        "description": "Ce mod ajoute la majorité des PNJ de Baldur's Gate one dans Shadows of Amn, ainsi que de nouveaux objets, quêtes, badinages et une zone urbaine. Il propose différents composants afin que vous puissiez l'installer avec d'autres mods sans aucun problème.",
-        "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?topic=8355.0"
-        ],
-        "categories": [
-            "PNJ recrutable"
-        ],
-        "games": [
-            "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [],
-        "team": [],
-        "notes": [],
-        "is_weidu": null,
-        "translation_state": false,
-        "safe": true,
         "languages": [],
         "status": true,
         "last_update": "",
@@ -5197,7 +5175,7 @@
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -5503,7 +5481,7 @@
         "name": "Biddekelorak",
         "description": "Biddekelorak est un vieux prêtre nain. Très dévot, il a bon cœur et parle peu, préférant porter la parole et les enseignements de Lathandre, notamment faire briller sa lumière dans les endroits les plus sombres. Ce mod a très peu de contenu.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=29"
+            "http://downloads.chosenofmystra.net/bg2/Biddekelorak.rar"
         ],
         "categories": [
             "PNJ One Day"
@@ -5512,16 +5490,20 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "nethrin"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-07",
+        "tp2": "BIDDE"
     },
     {
         "name": "Big World Setup FR (BWS-FR)",
@@ -6608,7 +6590,7 @@
         "name": "Cassius",
         "description": "Cassius est un barde scalde humain et mystérieux qui ne dit pas grand-chose sur son passé. Ce que l'on sait, c'est qu'il a beaucoup voyagé depuis La Porte de Baldur, Eauprofonde, le Calimshan et d'autres endroits sans jamais rester trop longtemps. Il est toujours à la recherche d'aventures pour pouvoir raconter les grandes histoires qu'ils ont rencontrées. Il s'est récemment arrêté en Amn pour recueillir des informations sur les grandes histoires des aventuriers qui y passent. La rumeur veut qu'il soit un agent des Ménestrels.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=59",
+            "http://downloads.chosenofmystra.net/bg2/Cassius_v105.rar",
             "https://github.com/Plutonium-X/1D_NPC_Cassius"
         ],
         "categories": [
@@ -7061,7 +7043,7 @@
     },
     {
         "name": "Check the Bodies",
-        "description": "Conçu par C. Bisson, créateur de SoS, ce mod ajoute un nombre incalculable de quêtes (24 dont certaines assez longues) plus des quêtes de classe inédites. De nouvelles maps (15 + 160 modifiées), de nouveaux objets, de nouvelles recettes pour Cromwell, une nouvelle ville à explorer (Hlondeth), un nouveau personnage à recruter (Rynn, guerrière humaine).... Bref, c'est alléchant. Throne of Bhaal est requis. L'aventure débute à Château-Suif, et après quelques corvées, vous deviendrez plus puissant et poursuivrez le cours normal de BG2 tout en ayant de nombreuses quêtes et nombreuses rencontres à faire.|La nouvelle version englobe les modules complémentaires Candlekeep Chores (tutoriel) et Candlekeep Chores Fast Forward.",
+        "description": "Conçu par C. Bisson, créateur de [[Shadows over Soubar]], ce mod ajoute un nombre incalculable de quêtes (24 dont certaines assez longues) plus des quêtes de classe inédites. De nouvelles maps (15 + 160 modifiées), de nouveaux objets, de nouvelles recettes pour Cromwell, une nouvelle ville à explorer (Hlondeth), un nouveau personnage à recruter (Rynn, guerrière humaine).... Bref, c'est alléchant. Throne of Bhaal est requis. L'aventure débute à Château-Suif, et après quelques corvées, vous deviendrez plus puissant et poursuivrez le cours normal de BG2 tout en ayant de nombreuses quêtes et nombreuses rencontres à faire.|La nouvelle version englobe les modules complémentaires `Candlekeep Chores (tutoriel)` et `Candlekeep Chores Fast Forward`.",
         "urls": [
             "https://www.spellholdstudios.net/ie/ctb/",
             "https://github.com/SpellholdStudios/Check_the_Bodies"
@@ -7600,7 +7582,7 @@
         "name": "Com_encounters",
         "description": "Ce mod ajoute plusieurs rencontres avec des groupes d'adversaires, trois magasins, une quête impliquant un halfling et un anneau, et améliore le combat contre Shagbag.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=53",
+            "http://downloads.chosenofmystra.net/bg2/EncountersV110.zip",
             "https://github.com/The-Gate-Project/Com_encounters"
         ],
         "categories": [
@@ -8883,9 +8865,9 @@
     },
     {
         "name": "Dark Horizons",
-        "description": "Une puissante organisation, dénommée \"La Section\", vous pourchasse pour des raisons connues d'elle-seule. Ils ne reculeront devant rien pour parvenir à leurs fins. Ils disposent de nombreux agents et d'associés influents à travers Féérune. Stoppez leurs leaders pour le bien de la Côte des Épées.|Ce mod ajoute une large quête, 3 nouveaux PNJ disposant de quelques quêtes personnelles, plusieurs rencontres (hostiles ou non) et quêtes secondaires, des magasins et de nouvelles zones à explorer. Les anciens mods BG1 Adventure Packs et [[BG1 CoM Forge - Item Upgrade]] font désormais partie de Dark Horizons.",
+        "description": "Une puissante organisation, dénommée `La Section`, vous pourchasse pour des raisons connues d'elle-seule. Ils ne reculeront devant rien pour parvenir à leurs fins. Ils disposent de nombreux agents et d'associés influents à travers Féérune. Stoppez leurs leaders pour le bien de la Côte des Épées.|Ce mod ajoute une large quête, 3 nouveaux PNJ disposant de quelques quêtes personnelles, plusieurs rencontres (hostiles ou non) et quêtes secondaires, des magasins et de nouvelles zones à explorer. Les anciens mods BG1 Adventure Packs et [[BG1 CoM Forge - Item Upgrade]] font désormais partie de Dark Horizons.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?topic=4828.0",
+            "http://downloads.chosenofmystra.net/bg1/",
             "https://github.com/The-Gate-Project/DarkHorizons"
         ],
         "categories": [
@@ -8905,7 +8887,8 @@
             "Sanctifer"
         ],
         "notes": [
-            "Attention : il existe plusieurs versions du mod spécifiques à votre jeu : BG+TotSC, Tutu, BGT et BG:EE. Choisissez celle qui vous convient, et TotSC est requis dans tous les cas."
+            "Attention : il existe plusieurs versions du mod spécifiques à votre jeu : BG+TotSC, Tutu, BGT et BG:EE. Choisissez celle qui vous convient, et TotSC est requis dans tous les cas.",
+            "Choisissez le lien github pour la version EE."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -9247,7 +9230,7 @@
         "name": "Deidre and Joluv in BG:EE",
         "description": "Deirdre et Joluv, les commerçants bonus de BG2, ont fait une halte à la Porte de Baldur sur leur chemin vers l'Amn. Vous trouverez Deidre dans la taverne du Chant de l'elfe et Joluv aux Sorcelleries diverses, où vous pourrez essayer d'acheter leur fabuleux stock.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=184"
+            "http://downloads.chosenofmystra.net/bg1/BGeeWmart3.7z"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -9262,17 +9245,20 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
-        "languages": [],
+        "safe": null,
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": true,
-        "last_update": "",
+        "last_update": "2015-10",
         "tp2": "wmart"
     },
     {
         "name": "Deidre and Joluv in BGT",
         "description": "Deirdre et Joluv, les marchands bonus de BG2, ont fait une halte à la Porte de Baldur sur leur chemin vers l'Amn. Vous trouverez Deidre dans la taverne du Chant de l'elfe et Joluv aux Sorcelleries diverses, où vous pourrez essayer d'acheter leur fabuleux stock.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=185"
+            "http://downloads.chosenofmystra.net/bg1/BGTWmart1.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -9283,13 +9269,16 @@
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2015-10",
+        "tp2": "wmart"
     },
     {
         "name": "Deities of Faerûn",
@@ -10294,7 +10283,7 @@
         "translation_state": null,
         "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -10319,9 +10308,9 @@
         "translation_state": null,
         "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Drizzt Do'Urden Randomization",
@@ -12686,7 +12675,7 @@
         "name": "FinnJO's Subrace",
         "description": "Ce mod ajoute dans le jeu des sous-races basées en partie sur les règles D&amp;D de la 3e édition, comme dans Icewind Dale II, et en partie sur les règles AD&amp;D de la 2e édition. Après avoir créé un personnage et démarré une nouvelle partie (ou chargé une ancienne), une boîte de dialogue apparaîtra avec la possibilité de sélectionner une sous-race de votre personnage parmi les suivantes : aasimar, tiefelin, genasi (d'air, d'eau, de feu et de terre), nain (arctique, d'or, des montagnes, duergar), elfe (drow, lunaire, sauvage, solaire et sylvain) ainsi que les demi-elfes correspondants, gnome des roches, svirfneblin, halfelin (costaud, pieds-velus et ghostwise). Un composant permet aussi de modifier la sous-race de certains PNJ.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=4"
+            "http://downloads.chosenofmystra.net/bg2/FinnjoBGII_Subrace.rar"
         ],
         "categories": [
             "Gameplay"
@@ -12695,18 +12684,20 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "FinnJO"
+        ],
         "team": [],
         "notes": [
             "Attention : ce vieux mod n'est pas très fiable."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-07",
+        "tp2": "BGII-Subrace"
     },
     {
         "name": "Fire Elemental (Monk kit)",
@@ -12961,7 +12952,7 @@
         "name": "Food and Herbal Mod",
         "description": "Ce mod ajoute 5 magasins (3 dans SoA et 2 dans ToB) disposant de mixtures à base de plantes qui vous procureront des effets variés.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=6"
+            "http://downloads.chosenofmystra.net/bg2/Foodmod_v103.7z"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -12969,18 +12960,26 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "belladonna"
+        ],
         "team": [
             "Garfield"
         ],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "it",
+            "de",
+            "ru",
+            "fr"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-07",
+        "tp2": "foodmod"
     },
     {
         "name": "ForgeIt-IWD",
@@ -13109,7 +13108,7 @@
         "name": "Freedom's Reign & Reign of Virtue",
         "description": "Créés par la même personne (Deano), ces deux mods ont été regroupés en un seul : le premier ajoute 80-90 nouveaux objets et 2 nouveaux magasins ; le second 3 nouveaux magasins avec de nouveaux objets et 5 nouvelles rencontres (combats) avec des nouveaux scripts, objets, etc.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=155"
+            "http://downloads.chosenofmystra.net/bg2/FreedomsReign_ROV_V8.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -13119,15 +13118,21 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Deano"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
-        "languages": [],
+        "safe": null,
+        "languages": [
+            "en",
+            "it",
+            "es"
+        ],
         "status": true,
-        "last_update": "",
+        "last_update": "2015-10",
         "tp2": "fr_rov"
     },
     {
@@ -14079,7 +14084,7 @@
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -15252,8 +15257,7 @@
         "name": "Homeward Bound",
         "description": "Ce mod permet de renvoyer vos compagnons chez eux ou de les faire revenir dans l'Antichambre de Throne of Bhaal, et d'avoir accès à l'épilogue de tous vos compagnons, même ceux qui ne font plus partie de votre groupe... Il permet aussi de les renvoyer sur le continent à partir de l'île de Brynnlaw, juste avant ou après l'étape de Spellhold. Un magasin est inclus (à Brynnlaw).",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=23",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "http://downloads.chosenofmystra.net/bg2/homewardbound-v7.rar",
             "https://github.com/Plutonium-X/MISC_Homeward"
         ],
         "categories": [
@@ -19492,9 +19496,9 @@
     },
     {
         "name": "Level 40 Rule Set in BG:EE",
-        "description": "Ce mod vous permet d'atteindre le niveau 40 dans BG:EE. Une fois installé, vous devrez aussi installer le mod <a href=\"http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=181\">High Level Abilities</a> qui restaure les capacités de haut niveau non présentes dans le jeu.",
+        "description": "Ce mod vous permet d'atteindre le niveau 40 dans BG:EE. Une fois installé, vous devrez aussi installer le mod [[High Level Abilities]] qui restaure les capacités de haut niveau non présentes dans le jeu.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=180"
+            "http://downloads.chosenofmystra.net/bg1/BG_EE_L40.rar"
         ],
         "categories": [
             "Gameplay"
@@ -19512,8 +19516,31 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2015-10",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "High Level Abilities",
+        "description": "Ce mod vous permet de tirer pleinement partie du mod [[Level 40 Rule Set in BG:EE]]. Il restaure les capacités de haut niveau non présentes dans le jeu.",
+        "urls": [
+            "http://downloads.chosenofmystra.net/bg1/BG_EE_HLAs106.rar"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [],
+        "status": true,
+        "last_update": "2015-10",
+        "tp2": "BGeeSA"
     },
     {
         "name": "Level 40 XP Patcher",
@@ -20189,7 +20216,7 @@
         "name": "MTS Crappack",
         "description": "Ce vieux mod apporte quelques ajustements graphiques (principalement des portraits), de règles et de quêtes.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=76"
+            "http://downloads.chosenofmystra.net/bg2/MTSCrappack_v4.zip"
         ],
         "categories": [
             "Gameplay"
@@ -20198,18 +20225,24 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "MajorTomSawyer"
+        ],
         "team": [],
         "notes": [
             "Il est totalement obsolète."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "es"
+        ],
         "status": "obsolete",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-07",
+        "tp2": "MTS-Crappack"
     },
     {
         "name": "Macholy's Living-Mod (NML)",
@@ -21529,7 +21562,7 @@
         "name": "Moddie the vixen",
         "description": "Fruit d'une expérience d'Irenicus, cette femelle renard est obsédée par la nourriture. Elle peut se transformer en muloup ou en muloup majeur, ses stats changeant alors. Des banters et quelques dialogues avec le PJ sont au programme.",
         "urls": [
-            "https://forums.pocketplane.net/index.php?topic=24075.msg301127#msg301127",
+            "http://downloads.chosenofmystra.net/bg2/Moddie_v1.3.rar",
             "https://github.com/Plutonium-X/1D_NPC_Moddie"
         ],
         "categories": [
@@ -21863,7 +21896,7 @@
         "name": "Morituri Kit",
         "description": "Ce mod ajoute un profil de guerrier combine les pouvoirs du kensaï, du moine et du barbare, mais ne peut porter aucun objet magique à part armes et bottes.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "http://downloads.chosenofmystra.net/bg2/Morituri_v3.zip",
             "https://github.com/The-Gate-Project/Morituri_Kit"
         ],
         "categories": [
@@ -22820,9 +22853,10 @@
     },
     {
         "name": "Neh'taniel NPC",
-        "description": "Ce mod ajoute un personnage loyal neutre, avec un kit de paladin \"judicial knight\". Il a de nombreuses interactions avec l'ensemble des personnages du groupe et des répliques lors de plusieurs quêtes. Possédant une personnalité étoffée, il a des objets personnels comme une épée bavarde, et aussi des capacités spéciales qui le rendent de plus en plus puissant. Il romance les elfettes, demi-elfettes, humaines, tieffelines, gnomes d'alignement non mauvais et de classe différente de celle du voleur. Il possède du contenu pour SoA et pour ToB.",
+        "description": "Ce mod ajoute un personnage loyal neutre, avec un kit de paladin `judicial knight`. Il a de nombreuses interactions avec l'ensemble des personnages du groupe et des répliques lors de plusieurs quêtes. Possédant une personnalité étoffée, il a des objets personnels comme une épée bavarde, et aussi des capacités spéciales qui le rendent de plus en plus puissant. Il romance les elfettes, demi-elfettes, humaines, tieffelines, gnomes d'alignement non mauvais et de classe différente de celle du voleur. Il possède du contenu pour SoA et pour ToB.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=62"
+            "http://downloads.chosenofmystra.net/bg2/Neht_V5.5.rar",
+            "http://downloads.chosenofmystra.net/bg2/Neht_V6.7.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -22839,13 +22873,17 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choississez le premier lien pour la version BG2/BGT et le second pour la version BG2EE/EET."
+        ],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
-        "languages": [],
+        "safe": null,
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": "",
+        "last_update": "2019-07",
         "tp2": "Neh'taniel"
     },
     {
@@ -23080,7 +23118,7 @@
         "name": "NikitaRedux",
         "description": "Elfe guerrière/voleuse chaotique bonne, Nikita fait de prime abord penser à Minsc, dans sa façon d'agir pour le bien avec un rien de naïveté... Elle dispose d'une quête personnelle, mais ne sera pas romançable. Vous pourrez la trouver à la Couronne de Cuivre, prête à vous rejoindre. Elle possède son propre équipement.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=7",
+            "http://downloads.chosenofmystra.net/bg2/NikitaReduxBeta2.rar",
             "https://github.com/The-Gate-Project/NikitaRedux"
         ],
         "categories": [
@@ -23096,7 +23134,9 @@
             "CoM_Solaufein"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le lien premier est contient la version originale pour BG2/BGT."
+        ],
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
@@ -26481,7 +26521,7 @@
         "name": "Redrake's IWD Fixpack",
         "description": "Cet ancien mod apporte de nombreux correctifs au jeu (objets, sorts, créatures manquant d'alignement...).",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=22"
+            "http://downloads.chosenofmystra.net/iwd/Redrake_s_IWD_Fixpack_v1.0.rar"
         ],
         "categories": [
             "Patch non officiel"
@@ -26489,18 +26529,20 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "remildragos"
+        ],
         "team": [],
         "notes": [
             "Ce mod n'est plus à jour et a été totalement supplanté par [[Icewind Dale Fixpack]]."
         ],
-        "is_weidu": null,
+        "is_weidu": false,
         "translation_state": false,
         "safe": false,
         "languages": [],
         "status": "obsolete",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2007-05",
+        "tp2": "non-weidu"
     },
     {
         "name": "Refinements",
@@ -27800,9 +27842,9 @@
     },
     {
         "name": "Rylorn the NPC",
-        "description": "Un sinistre personnage dédié à la cause de Cyric... Vous pourrez le trouver dans une zone créée pour l'occasion, le Monastère sombre. Pas de romance pour l'instant (à voir, c'est en discussion avec l'auteur, apparemment), mais le mod est conçu pour se poursuivre dans ToB.",
+        "description": "Un sinistre personnage dédié à la cause de Cyric... Vous pourrez le trouver dans une zone créée pour l'occasion, le `Monastère sombre`. Un kit `Blackguard` est également ajouté.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=143"
+            "http://downloads.chosenofmystra.net/bg2/Rylorn.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -27811,20 +27853,20 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Whiskey Bob"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [
-            "en",
-            "fr",
-            "ru"
+            "en"
         ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-07",
+        "tp2": "Rylorn"
     },
     {
         "name": "Rodeur de l'ombre",
@@ -29641,25 +29683,29 @@
         "name": "Skooter the NPC",
         "description": "Drôle de nom... mais c'est un chien ! Que vous trouverez à la Couronne de Cuivre. Cependant, il ne rejoindra pas votre groupe, se contentant a priori de discuter avec vos compagnons... Ce mod n'est vraiment pas destiné aux joueurs n'ayant aucun sens de l'humour !",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=2"
+            "http://downloads.chosenofmystra.net/bg2/SkooterTheNPC.zip"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ (autre)"
         ],
         "games": [
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "theacefes"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2008-01",
+        "tp2": "SkooterTheNPC"
     },
     {
         "name": "Slayer Revisions",
@@ -30585,7 +30631,7 @@
         "translation_state": false,
         "safe": true,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -30782,7 +30828,7 @@
         "name": "Summon Bhaalspawn (Sandra NPC)",
         "description": "Ce mod vous permet de recruter sur les quais cette paladine chasseuse de mort-vivants. Pas de romance et des dialogues embryonnaires, mais quelques banters et une surprise spéciale pour Imoen. Efficace comme tank anti-vampire.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=77"
+            "http://downloads.chosenofmystra.net/bg2/SBS-v3.zip"
         ],
         "categories": [
             "PNJ One Day"
@@ -30791,20 +30837,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
-        "team": [
-            "JohnBob"
+        "authors": [
+            "MajorTomSawyer"
         ],
-        "notes": [
-            "Liens morts."
-        ],
-        "is_weidu": null,
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "es"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-07",
+        "tp2": "SBS"
     },
     {
         "name": "Sun Soul Monk Kit",
@@ -31456,7 +31503,8 @@
         "name": "Taim NPC",
         "description": "Ce petit mod sans dialogues, ni quêtes, n'a qu'un seul intérêt : enrôler un voleur d'alignement bon dans son équipe. À vous de voir...",
         "urls": [
-            "http://www.shsforums.net/files/file/483-taim-npc/"
+            "http://www.shsforums.net/files/file/483-taim-npc/",
+            "http://downloads.chosenofmystra.net/bg2/MTSTaim-2.zip"
         ],
         "categories": [
             "PNJ One Day"
@@ -31466,17 +31514,21 @@
             "BGT"
         ],
         "authors": [
-            "AnnabelleRose"
+            "MajorTomSawyer"
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "ru"
+        ],
         "status": true,
         "last_update": "2008-11",
-        "tp2": ""
+        "tp2": "MTSTaim"
     },
     {
         "name": "Tale of Our Lady Dreamless",
@@ -31816,7 +31868,7 @@
         "name": "TeamBG BG2:EE Armor Pack",
         "description": "Ce mod installe le marchand nain Kurtz Goldenaxe sur la Promenade de Waukyne. Il vend des armures colorées et de nouvelles armures magiques et très chères.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=192"
+            "http://downloads.chosenofmystra.net/bg2/BG2eeAR102.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -31834,9 +31886,12 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": true,
-        "last_update": "",
+        "last_update": "2015-10",
         "tp2": "bg2eear"
     },
     {
@@ -31844,7 +31899,7 @@
         "description": "Ce mod installe le marchand nain Maltz sur la Promenade de Waukyne. Il vend des armes colorées, dont certaines de BG2, et de nouvelles armures magiques et très chères.",
         "urls": [
             "https://forums.beamdog.com/discussion/14154/mod-teambgs-weapon-pack-for-bg-ee-bg2ee-bgt-amp-tutu",
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=191"
+            "http://downloads.chosenofmystra.net/bg2/BG2EEWv101.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -31875,7 +31930,7 @@
         "description": "Ce mod installe le marchand nain Kurtz Goldenaxe à l'extérieur de Brasamical. Il vend des armures colorées et de nouvelles armures magiques et très chères.",
         "urls": [
             "https://forums.beamdog.com/discussion/13314/mod-teambgs-armor-pack-for-bg-ee-bg2ee-bgt-amp-tutu",
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=182"
+            "http://downloads.chosenofmystra.net/bg1/BGeeARv105.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -31899,14 +31954,14 @@
             "pl"
         ],
         "status": true,
-        "last_update": "2014-11",
+        "last_update": "2015-10",
         "tp2": "BGeeAR"
     },
     {
         "name": "TeamBG BG:EE Weapon Pack",
         "description": "Ce mod installe le marchand nain Maltz à l'extérieur de Brasamical. Il vend des armes colorées, dont certaines de BG2, et de nouvelles armures magiques et très chères.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=186"
+            "hhttp://downloads.chosenofmystra.net/bg1/BGeeWv105.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -31925,9 +31980,12 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": true,
-        "last_update": "",
+        "last_update": "2015-10",
         "tp2": "BGeeW"
     },
     {
@@ -33579,10 +33637,10 @@
     },
     {
         "name": "The Stone of Askavar",
-        "description": "The Stone of Askavar (\"La pierre d'Askavar\") est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir.|Depuis la version 1.9, il est désormais réuni dans un seul package pour BG1, BG1Tutu, BGT, BG:EE avec ou sans SoD.|<a href=\"http://www.users.totalise.co.uk/~bluerift/\">Site du développeur</a>.",
+        "description": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir.|Depuis la version 1.9, il est désormais réuni dans un seul package pour BG1, BG1Tutu, BGT, BG:EE avec ou sans SoD.|<a href=\"http://www.users.totalise.co.uk/~bluerift/\">Site du développeur</a>.",
         "urls": [
             "http://www.users.totalise.co.uk/~bluerift/#Downloads",
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=31"
+            "http://downloads.chosenofmystra.net/bg1/tsoaV2_2.zip"
         ],
         "categories": [
             "Quête"
@@ -33610,7 +33668,7 @@
             "fr"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2020-04",
         "tp2": "soa"
     },
     {
@@ -33704,6 +33762,7 @@
         "name": "The Undying",
         "description": "Ce mod ajoute deux PNJ, Callisto T'sarran (elfe femme berserker neutre mauvaise) et Ninafer (elfe guerrière/mage loyale neutre). De nouvelles rencontres en rapport avec la quête de Callisto (anciennement [[Desecration of Souls]]), sept nouveaux magasins, trois nouvelles quêtes, banters et interjections sont également au programme.",
         "urls": [
+            "http://downloads.chosenofmystra.net/bg2/TheUndying2_53.rar",
             "https://github.com/Endarire/The-Undying-Mod-for-BG2EE-EET"
         ],
         "categories": [
@@ -33713,19 +33772,24 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "CoM_Solaufein"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version EE et le lien l'autre pour les versions originelles."
+        ],
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-12",
         "tp2": "theundying"
     },
     {
@@ -34966,7 +35030,7 @@
         "name": "Tsujatha Melalor",
         "description": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux. FOR: 17, DEX: 12, CON: 12, INT: 19, SAG: 16 et CHA: 14.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=18",
+            "http://downloads.chosenofmystra.net/bg2/Tsujatha_v15.zip",
             "https://github.com/Plutonium-X/NPC_Tsujatha"
         ],
         "categories": [
@@ -36216,7 +36280,8 @@
         "name": "Vampire Tales",
         "description": "Les mods Miriam (PNJ vampire aux stats moins bourrines que celles de Valen, mais semblant disposer d'un caractère tout aussi lunatique et violent) et [[Dark Ritual]] (ajoutant un marchand avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2, initialement traduit par Panaka) sont désormais réunis dans ce mod qui améliore en outre la quête de l'Œil Aveugle, la rencontre avec les Ménestrels, et ajoute une nouvelle rencontre dans le donjon de Firkraag. ToB est requis.",
         "urls": [
-            "https://github.com/The-Gate-Project/VampireTales"
+            "https://github.com/The-Gate-Project/VampireTales",
+            "http://downloads.chosenofmystra.net/bg2/VampireTalesForBG2EE105.rar"
         ],
         "categories": [
             "PNJ recrutable",
@@ -37225,7 +37290,7 @@
         "name": "Welverin's Subrace Mod",
         "description": "Ce mod ajoute la possibilité de sélectionner une sous-race pour le personnage principal :|- Humains : Aasimar et Tiefelin.|- Elfes : lunaire, des neiges, sauvage, solaire, sylvain et Drow.|- Nains : d'égout, d'or, déracinés, derro, des montagnes, des profondeurs et duergar.|- Gnomes : bricoleur, des roches, des forêts et Svirfneblin.|- Halfelins : Costaud, Foursin, Grand-gars, Kender, Petites-Gens d'Athas, Pieds-velus et Ghostwise.|- Demi-elfes : lunaire, des neiges, sauvage, solaire, sylvain et Drow.",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=3"
+            "http://downloads.chosenofmystra.net/bg2/WelverinSubrace.rar"
         ],
         "categories": [
             "Gameplay"
@@ -37234,17 +37299,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Welverin"
+        ],
         "team": [],
         "notes": [
             "Attention : ce vieux mod n'est pas très fiable."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": "",
+        "last_update": "2012-07",
         "tp2": ""
     },
     {
@@ -38078,6 +38147,7 @@
         "name": "Yasraena",
         "description": "Ce mod ajoute une PNJ drow qui a des banters, des voix et des objets spécialement conçus pour elle. C'est une guerrière pure, chaotique bonne, qui possède deux épées personnelles ainsi qu'une amulette. Vous la rencontrez à la fin du donjon d'Irenicus (notez que si vous lui demandez de partir, vous ne la retrouverez plus jamais). Elle s'implante bien dans votre groupe, si ce dernier défend des objectifs louables (personnages Bons ou Neutres) et une voix particulière lui est allouée.|Notez qu'elle dispose d'une attaque supplémentaire par round ; ce qui est pour le moins abusé...",
         "urls": [
+            "http://downloads.chosenofmystra.net/bg2/Yasraena_v16.zip",
             "https://github.com/RoxanneSHS/YasraenaEET"
         ],
         "categories": [
@@ -38095,7 +38165,9 @@
         "team": [
             "Ixion"
         ],
-        "notes": [],
+        "notes": [
+            "Le premier lien contient la version originale et le lien github la version compatible avec EET."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
@@ -38263,7 +38335,8 @@
         "name": "Zelink (Zelda & Link)",
         "description": "Très vieux mod, c'est l'une des premières créations de Smiling Imp basée sur une série de dessins animés qu'il regardait enfant.",
         "urls": [
-            "https://github.com/Endarire/Zelink-Zelda-Link-Mod-for-BG2"
+            "https://github.com/Endarire/Zelink-Zelda-Link-Mod-for-BG2",
+            "http://downloads.chosenofmystra.net/bg2/zelink2021.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -38277,13 +38350,13 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2021-07",
+        "tp2": "ZELINK"
     },
     {
         "name": "Zyraen's Miscellany",
@@ -39823,9 +39896,9 @@
     },
     {
         "name": "Smiling Imp's Cross Banter Mod",
-        "description": "Ce mod ajoute de nouvelles interactions entre de nombreux PNJ, notamment avec ceux ajoutés par des mods (comme Silver Star, Varshoon, Yasraena, Saerileth, Tsujatha, Horace, Kindrek et bien d'autres).",
+        "description": "Ce mod ajoute de nouvelles interactions entre de nombreux PNJ, notamment avec ceux ajoutés par des mods (comme [[Silver Star NPC]], [[Varshoon]], [[Yasraena]], [[Saerileth]], [[Tsujatha Melalor]], [[Horace]], [[Kindrek]] et bien d'autres).",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=196",
+            "http://downloads.chosenofmystra.net/bg2/Smiling%20Imp's%20Cross%20Banter%20Mod.rar",
             "https://github.com/SpellholdStudios/SmilingImpCrossBanterMod"
         ],
         "categories": [
@@ -43259,5 +43332,61 @@
         "status": true,
         "last_update": "2019-10",
         "tp2": "EECustom"
+    },
+    {
+        "name": "Willie Bruce NPC Mod",
+        "description": "Ce mod est un bourrin stéréotypé, Willie Bruce est donc grossier, sexiste et raciste. Les opinions de Willie ne reflètent en aucun cas les opinions du codeur ou des auteurs. Willie Bruce est un combattant de base, de premier niveau, qui aime traîner dans les bars, regarder le football à la télévision et se battre. Ce mod peut être offensant, à ne pas prendre au premier degré.",
+        "urls": [
+            "http://downloads.chosenofmystra.net/bg2/WillieBruceV31.rar"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Nethrin"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "2011-06",
+        "tp2": "WillyB"
+    },
+    {
+        "name": "Matt Damon NPC Mod",
+        "description": "Personnage réservé aux personnes avec un sens de l'humour. Si le personnage commence à s'emballer d'une façon ou d'une autre, sélectionnez-le et appuyez sur 'D'.",
+        "urls": [
+            "http://downloads.chosenofmystra.net/bg2/mattdamonv1.rar"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "gilalion"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2006-12",
+        "tp2": "MattDamon"
     }
 ]
