@@ -63,7 +63,7 @@ class Mod:
         self.safe = safe
         self._description = description
         self.team = team
-        self.games = games
+        self._games = games
         self.translation_state = translation_state
         self.is_weidu = is_weidu
         self.languages = languages
@@ -146,6 +146,10 @@ class Mod:
             new_note = self._convert_quote(new_note)
             notes.append(new_note)
         return notes
+
+    @property
+    def games(self) -> list:
+        return [game for game in Games if game in self._games]
 
 
 class Category:
