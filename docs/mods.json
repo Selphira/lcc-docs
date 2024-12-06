@@ -30619,7 +30619,6 @@
         "translation_state": false,
         "safe": true,
         "languages": [
-            "de",
             "en"
         ],
         "status": true,
@@ -32300,7 +32299,10 @@
             "BGEE",
             "BG2EE",
             "SoD",
-            "EET"
+            "EET",
+            "IWD",
+            "IWDEE",
+            "BG"
         ],
         "authors": [
             "Ulb"
@@ -32446,7 +32448,9 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "Tutu",
+            "IWD"
         ],
         "authors": [
             "the bigg"
@@ -34822,6 +34826,7 @@
             "Quête"
         ],
         "games": [
+            "BGEE",
             "BG2EE",
             "SoD",
             "EET"
@@ -35808,6 +35813,7 @@
             "Sort et objet"
         ],
         "games": [
+            "BG",
             "BG2",
             "Tutu",
             "BGT",
@@ -38459,9 +38465,7 @@
         "translation_state": false,
         "safe": true,
         "languages": [
-            "en",
-            "pl",
-            "es"
+            "en"
         ],
         "status": true,
         "last_update": "2021-09",
@@ -38919,7 +38923,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "IWDEE"
+            "IWDEE",
+            "EET"
         ],
         "authors": [
             "Grammarsalad"
@@ -39314,7 +39319,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Subtledoctor"
@@ -39728,7 +39734,6 @@
         "languages": [
             "en",
             "fr",
-            "pl",
             "ru"
         ],
         "status": true,
@@ -40264,8 +40269,10 @@
             "Gameplay"
         ],
         "games": [
+            "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Subtledoctor"
@@ -41166,6 +41173,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -41383,8 +41391,7 @@
             "en",
             "cn",
             "ru",
-            "es",
-            "pl"
+            "es"
         ],
         "status": true,
         "last_update": "2021-07",
@@ -41401,8 +41408,11 @@
             "Cosmétique"
         ],
         "games": [
+            "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "PSTEE",
+            "IWDEE"
         ],
         "authors": [
             "Drunktiefling"
@@ -42009,7 +42019,8 @@
             "PNJ recrutable"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Sailor Cat"
@@ -42643,6 +42654,7 @@
             "PNJ (autre)"
         ],
         "games": [
+            "BG2",
             "BG2EE",
             "EET"
         ],
@@ -42769,8 +42781,8 @@
             "Cosmétique"
         ],
         "games": [
-            "BGT",
-            "BGEE"
+            "BGEE",
+            "EET"
         ],
         "authors": [
             "Alexander12"
