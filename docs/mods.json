@@ -8215,7 +8215,6 @@
         "name": "Corwin NPC (for BG:EE and EET)",
         "description": "Ce mod rend la capitaine Corwin Poing Enflammé disponible en tant que PNJ recrutable dès que vous entrez dans la ville de La Porte de Baldur. Scar vous la présente lors de votre première rencontre, et vous pouvez la recruter pour vous aider dans les affaires qui agitent sa ville natale. Cependant, elle vous quittera lors de votre départ vers Amn, car elle est loyale envers sa ville, ses habitants et le Poing Flamboyant, et ne les abandonnera pas. Ce mod contient :|- des interactions avec le protagoniste pour étoffer l'amitié initiale (ou non) qui se transforme en une possible romance dans SoD.|- Des rencontres et des cinématiques qui enrichissent l'histoire de Corwin.|- Une Corwin continue : Elle vous suivra dans le premier donjon de SoD. Elle gardera son rôle original accompagnatrice sans vous rejoindre, mais ses dialogues et réactions refléteront le fait qu'elle vous connaît déjà et a voyagé avec vous. Elle redevient à nouveau recrutable dès que vous quittez la ville et elle continuera à jouer le même rôle que dans BG1.|- Le contenu original de SoD (y compris la romance) est préservé, mais adapté à la possibilité qu'elle connaisse déjà le protagoniste avant la croisade. Dans l'ensemble, le contenu pré-SoD est destiné à donner à Corwin une personnalité plus profonde et à rendre ses actions et décisions dans SoD plus transparentes.|Note : Corwin est une archère utile dans BG1. Elle conservera donc ses gains de statistiques, son XP, son équipement, etc., lorsqu'elle vous rejoint à nouveau dans SoD.",
         "urls": [
-            "https://baldursextendedworld.com/Corwin/",
             "https://github.com/RoxanneSHS/Corwin"
         ],
         "categories": [
@@ -11205,7 +11204,6 @@
         "name": "Ehlastra",
         "description": "Ceux qui ont déjà joué à ToB se souviendront d'elle. Cette femme berserker est venue du nord pour rejoindre Yaga Shura mais a fini par être asservie et est devenue sa concubine. Vous avez peut-être souhaité l'intégrer à votre groupe pour en savoir plus sur son passé et l'histoire des Cinq. Donnez-lui une chance et elle fera tout pour être du côté des gagnants dans la guerre des descendants de Baal - de votre côté. Aidez-la à récupérer son arme puissante dans le repaire de Yaga Shura et regardez-la prendre sa revanche sur son ravisseur. Ehlastra connaît les Cinq et Mélissane.|Ce mod n'est pas recommandé si vous jouez à ToB pour la première fois. Certaines de ses connaissances privilégiées sur les Cinq peuvent être considérées comme des spoilers pour les nouveaux joueurs.|L'installation de [[Wheels of Prophecy]] n'est pas obligatoire, mais fortement recommandée. Son histoire gagne en profondeur si vous l'avez installé (ou Ascension) : si vous convainquez Balthazar de s'allier à vous, cela aura un impact profond sur elle, et la fera reconsidérer ses propres objectifs.",
         "urls": [
-            "https://baldursextendedworld.com/Ehlastra/",
             "https://github.com/RoxanneSHS/Ehlastra"
         ],
         "categories": [
@@ -27965,7 +27963,6 @@
         "name": "Safana in Amn",
         "description": "La voleuse flirteuse de la Côte des Épées est l'un des PNJ qui a été considérablement remanié dans BG:EE, et elle est devenue un personnage intéressant dans l'extension SoD. Malheureusement, le jeu lui donne une fin décevante à la fin de cette campagne. Conçu pour EET, ce mod modifie la fin de SoD pour Safana et lui permet de continuer avec le groupe en Amn et en Téthyr :|- un PNJ continu pour l'ensemble du jeu EET.|- une romance continue pour un joueur masculin.|- plusieurs petites quêtes dans BG2.|- des solutions alternatives à un certain nombre de quêtes du jeu qui permettent au joueur d'utiliser ses talents.|- une possibilité pour un joueur non voleur d'obtenir la guilde de MaeVar si Safana est dans le groupe.|- des interjections et des banters tout au long du jeu.|- la possibilité d'obtenir un voleur talentueux dès le début d'Amn, Safana se trouve juste à côté de Gaelan Bayle.|- une nouvelle fin à sa relation avec Coran.",
         "urls": [
-            "https://baldursextendedworld.com/Safana/",
             "https://github.com/RoxanneSHS/SafanaBG2"
         ],
         "categories": [
@@ -28030,7 +28027,6 @@
         "name": "Sandrah Saga I - Sandrah Appears",
         "description": "Il s'agit d'un énorme projet conçu pour EET. Si vous aimez les Mary Sue, alors ce mod est pour vous, sinon passez votre chemin. Jeune guerrière-prêtresse de Mystra, originaire d'Eauprofonde, Sandrah est la fille d'un personnage célèbre des Royaumes, qui sort de l'ombre puissante de son père pour se faire un nom et aussi pour découvrir la partie cachée de son histoire familiale. L'intrigue se déroule tout au long de la découverte par le PC de qu'il/elle est. Mais ne vous y trompez pas, l'histoire de votre personnage passe au second plan, c'est celle de Sandrah qui compte ! La Saga comprend trois partie :- Sandrah NPC : PNJ recrutable et son lien à l'intrigue originale du jeu, de Château-Suif à ToB.|- Sandrah RtF (Return to Faerun) poursuit la saga de l'enfant de Bhaal et de Sandrah avec une nouvelle intrigue, d'anciens et de nouveaux compagnons, d'anciennes et de nouvelles zones, d'anciens et de nouveaux ennemis, etc.|- Sandrah ToT (Time of Troubles Revisited) est une option qui permet de continuer le jeu après RtF, tout en vous ramenant à l'époque précédant les autres événements. Vous devenez le témoin des événements qui ont conduit à votre naissance dans Baldur's Gate.|Et enfin, la cerise sur le gâteau ! Sandrah Saga nécessite une installation complète d'EET avec tous les \"gros mods\". Ou plus exactement, la version des mega mods dont les scenarios ont été modifiés par l'auteure pour les adapter à l'histoire de son héroïne. Bref, un mod mégalo à l'extrême...",
         "urls": [
-            "https://baldursextendedworld.com/Sandrah/",
             "https://github.com/RoxanneSHS/SandrahEET"
         ],
         "categories": [
@@ -29099,7 +29095,6 @@
         "name": "Shine On Caelar",
         "description": "Caelar Argent est un personnage original de SoD (Siege of Dragonspear).|Son histoire se termine avec la partie SoD de Baldur's Gate.|Les interactions et les solutions possibles pour le joueur avec elle dans le jeu original sont limitées. Le mod se compose de deux parties, une pour SoD et une seconde pour ToB (la deuxième partie n'est disponible que pour EET et nécessite qu'elle ait survécu à la première rencontre).",
         "urls": [
-            "https://baldursextendedworld.com/Caelar/",
             "https://github.com/RoxanneSHS/Caelar"
         ],
         "categories": [
@@ -31617,7 +31612,6 @@
         "name": "The Sword of Chaos (Tamoko)",
         "description": "Ce mod ajoute Tamoko, l'ancien amour de Sarevok, comme PNJ recrutable à la fin de BG:EE et pendant SoD. Après avoir vaincu Sarevok dans la ville souterraine, et en quittant le palais pour aller pourchasser ses derniers partisans, vous rencontrez Tamoko et pouvez la recruter (à moins que vous ne l'ayez tuée auparavant). Elle a les mêmes statistiques et équipement que le personnage original. C'est une prêtresse neutre mauvaise. Ne voulant plus être victime de son passé, elle espère, en vous rejoignant, avoir peut-être une troisième chance de changer les choses après les deux échecs tragiques qu'elle a subis. Elle restera avec vous pendant la campagne SoD jusqu'à ce qu'elle rencontre son destin...",
         "urls": [
-            "https://baldursextendedworld.com/Tamoko/",
             "https://github.com/RoxanneSHS/Tamoko"
         ],
         "categories": [
@@ -32543,7 +32537,6 @@
         "name": "The Broken Lanthorn",
         "description": "Ce mod restaure une quête supprimée dans le jeu original. Lorsque vous rendez le Lanthorn à Elhan, les sages découvrent que certaines lentilles sont manquantes et que l'appareil n'est pas focalisé pour révéler Suldanessalar. Le groupe est donc chargé de trouver les pièces manquantes.",
         "urls": [
-            "https://baldursextendedworld.com/Broken-Lanthorn/",
             "https://github.com/RoxanneSHS/LensHunt"
         ],
         "categories": [
@@ -34745,24 +34738,29 @@
         "name": "Travellers In Faerun",
         "description": "Selon son auteure, ce mod vise à faire de EET une histoire plus cohérente :|- il déplace certains PNJ non-recrutables et la préfiguration de leur histoire de BG2/ToB vers des parties plus anciennes du jeu.|- vous pouvez influencer certains événements des chapitres suivants en prenant des décisions plus tôt dans l'histoire (continuité dans EET).|- vous pouvez revenir avec des objets que vous trouverez plus tard dans le jeu pour accomplir des quêtes dans BG1 ou SoD.|- vous obtiendrez des quêtes qui vous obligeront à retourner dans des zones de BG/SoD plus tard dans le jeu pour les accomplir.|Le mod se compose de nombreuses petites rencontres, de quêtes plus ou moins importantes, et d'événements/décisions qui ont des conséquences durables.",
         "urls": [
-            "https://baldursextendedworld.com/Travellers/"
+            "https://github.com/RoxanneSHS/Travellers"
         ],
         "categories": [
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Roxanne"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-10",
+        "tp2": "Travellers"
     },
     {
         "name": "Tresset's Choice Tweaks",
@@ -35275,7 +35273,6 @@
         "name": "Twisting With The Rune",
         "description": "Ce mod donne du sens à la rencontre avec les membres de la Rune Tordue. Dans EET, l'histoire commence dans la partie BG. Si vous jouer uniquement avec BG2:EE, vous aurez connaissance de ce que vous auriez appris dans BG et SoD. Il existe également un lien avec Balthazar dans ToB qui apparaît dans le jeu original mais qui n'y a jamais été expliqué (il faut être propriétaire d'un bastion pour le déclencher).|Il n'y a pas de scénario linéaire, il s'agit plutôt d'un puzzle où vous trouvez des éléments du tableau au fur et à mesure de votre aventure, ce qui peut vous donner une vague idée d'une organisation opérant secrètement dans Féérune. La Rune n'a aucun intérêt pour le rejeton de Bhaal en tant que tel, et le mod fournit principalement un lien entre des événements qui semblaient à l'origine sans rapport.",
         "urls": [
-            "https://baldursextendedworld.com/TheRune/",
             "https://github.com/RoxanneSHS/The-Rune"
         ],
         "categories": [
@@ -39794,7 +39791,6 @@
         "name": "SimeNPC",
         "description": "Ce mod permet de rendre recrutable la voleuse Sime qu'Aran Linvail a envoyée superviser votre trajet à Brynnlaw. Mais Sime a une raison personnelle d'accéder à l'Asile et de voir ce qui s'y passe. C'est pourquoi elle se trouvera à Brynnlaw même si vous choisissez de vous allier à Bodhi. Vous pourrons donc l'y recruter avant de pénétrer dans l'asile. Notez que si vous la rejetez avant d'entrer dans l'asile, elle reprendra son rôle de guide comme prévu, mais ne vous rejoindra plus.|Elle possède les mêmes caractéristiques que dans le jeu original, mais dispose d'un équipement plus réaliste lorsqu'elle vous rejoint. Par ailleurs, elle bénéficie de petites quêtes liées à des membres de sa famille disparus ou de voleur.",
         "urls": [
-            "https://baldursextendedworld.com/Sime/",
             "https://github.com/RoxanneSHS/Sime"
         ],
         "categories": [
@@ -42105,7 +42101,6 @@
         "name": "Orelios",
         "description": "Orelios est un moine sans kit d'Aglarond qui a longtemps combattu Thay avant d'opter pour un mode de vie plus contemplatif. C'est du moins ce qu'il prétend... Il gagne des compétences spéciales au fil des niveaux. Il possède sa propre voix.",
         "urls": [
-            "https://baldursextendedworld.com/Paulas-Adopted-Mods/",
             "https://github.com/PaulaMigrate/Orelios"
         ],
         "categories": [
