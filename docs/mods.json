@@ -681,7 +681,7 @@
         "translation_state": null,
         "safe": true,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -3174,7 +3174,7 @@
         "name": "BG HD GUI in 1280 x 720",
         "description": "Inspiré par TWM, ikonomov a créé ce mod d'interface graphique pour bénéficier d'un support 16:9 indispensable et tenter de préserver autant que possible les éléments graphiques du jeu dans leur forme originale.|1. Tous les menus ont été centrés sur leur résolution d'origine de 640x480 pour toutes les vues du jeu, sauf à l'écran de jeu, où il est à 1280x720.|2. Les éléments de l'interface graphique en bas de l'écran ont été centrés et les largeurs des fenêtres de texte et de message ont été redimensionnées à 800 pixels pour une lecture plus facile.|3. Les nouvelles fenêtres de texte et de message (éléments de l'interface graphique du bas pendant la lecture) utilisent une police personnalisée, ressemblant à la police d'origine, créée à l'aide d'un générateur de bam et modifiée pour obtenir un espacement correct entre les lignes. De petits ajustements de hauteur des champs de texte qui utilisent la nouvelle police ont été effectués pour permettre au texte de s'afficher correctement dans tous les champs. Tous les autres éléments de texte du jeu sont laissés intacts et utilisent les polices d'origine.",
         "urls": [
-            "http://www.shsforums.net/files/file/1146-baldurs-gate-1-2-widescreen-hd-gui-in-1280-x-720/"
+            "https://www.nexusmods.com/baldursgate/mods/40/"
         ],
         "categories": [
             "Interface"
@@ -3185,7 +3185,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "ikonomov"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -3193,7 +3195,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2022-09",
         "tp2": ""
     },
     {
@@ -5880,8 +5882,10 @@
     },
     {
         "name": "Boo",
-        "description": "Ce mod semble avoir disparu.",
-        "urls": [],
+        "description": "Ce mod permet d'avoir Bouh comme un personnage à part entière.",
+        "urls": [
+            "https://sorcerers.net/Games/BG2/boonpc.php"
+        ],
         "categories": [
             "PNJ One Day"
         ],
@@ -5889,14 +5893,18 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Slappy"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod est très vieux et la méthode d'installation semble un peu particulière…"
+        ],
         "is_weidu": null,
         "translation_state": false,
         "safe": null,
         "languages": [],
-        "status": "missing",
+        "status": true,
         "last_update": "",
         "tp2": ""
     },
@@ -15189,7 +15197,7 @@
         "translation_state": null,
         "safe": true,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": "",
         "tp2": "hires_portraits"
     },
@@ -16240,7 +16248,7 @@
             "https://github.com/subtledoctor/Imoen-Can-Die"
         ],
         "categories": [
-            "Quête"
+            "PNJ (autre)"
         ],
         "games": [
             "BG2",
@@ -16268,7 +16276,7 @@
             "https://www.gibberlings3.net/files/file/985-imoen-is-stone/"
         ],
         "categories": [
-            "Quête"
+            "PNJ (autre)"
         ],
         "games": [
             "BG2",
@@ -17693,7 +17701,7 @@
             "https://github.com/SpellholdStudios/JansAlchemy"
         ],
         "categories": [
-            "Sort et objet"
+            "PNJ (autre)"
         ],
         "games": [
             "BG2",
@@ -17773,7 +17781,7 @@
     },
     {
         "name": "Jarls Tweak Pack",
-        "description": "Anciennement \"Jarls BGT TweakPack\", ce mod propose une collection d'ajustements pour BGT, BG:EE et EET. Il permet de donner aux PNJ de Bioware leurs portraits et jeux de son de BG2 dans la partie BG, modifier la couleur de leurs avatars, modifier leurs statistiques, leurs profils ou classes (BGT uniquement), leurs alignements, leurs compétences martiales (BGT). Dans BGT, des composants permettent de donner de nouveaux équipements à certains PNJ, d'ajouter de nouvelles armes dans le jeu.|Enfin, vous pourrez effectuer certains ajustements au jeu comme pouvoir pénétrer dans le cimetière de Nashkel, devoir trouver un crâne spécial pour la quête de Mélicamp...",
+        "description": "Anciennement `Jarls BGT TweakPack`, ce mod propose une collection d'ajustements pour BGT, BG:EE et EET. Il permet de donner aux PNJ de Bioware leurs portraits et jeux de son de BG2 dans la partie BG, modifier la couleur de leurs avatars, modifier leurs statistiques, leurs profils ou classes (BGT uniquement), leurs alignements, leurs compétences martiales (BGT). Dans BGT, des composants permettent de donner de nouveaux équipements à certains PNJ, d'ajouter de nouvelles armes dans le jeu.|Enfin, vous pourrez effectuer certains ajustements au jeu comme pouvoir pénétrer dans le cimetière de Nashkel, devoir trouver un crâne spécial pour la quête de Mélicamp...",
         "urls": [
             "https://baldurs-gate.de/index.php?threads/jarls-tweak-pack-v2-0-0.44590/"
         ],
@@ -17793,7 +17801,7 @@
         "translation_state": false,
         "safe": true,
         "languages": [],
-        "status": true,
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -19911,7 +19919,8 @@
         "name": "Lord of the Rings Item Pack",
         "description": "Ce mini mod remplace certains objets du jeu par d'autres issus de l'univers du Seigneur des Anneaux.",
         "urls": [
-            "http://www.shsforums.net/files/file/338-lord-of-the-rings-item-pack/"
+            "http://www.shsforums.net/files/file/338-lord-of-the-rings-item-pack/",
+            "http://www.shedplant.net/assets/bg2mods/LotR_Item_Pack1.03.exe"
         ],
         "categories": [
             "Sort et objet"
@@ -20543,7 +20552,7 @@
             "https://github.com/Argent77/A7-MagicStore"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Gameplay"
         ],
         "games": [
             "BG2",
@@ -25306,7 +25315,7 @@
             "https://github.com/4Luke4/PnP-Potions"
         ],
         "categories": [
-            "Sort et objet"
+            "Gameplay"
         ],
         "games": [
             "BGEE",
@@ -26322,13 +26331,15 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2021-04",
-        "tp2": ""
+        "tp2": "RotBArmorSet"
     },
     {
         "name": "Recargador",
@@ -27269,7 +27280,7 @@
             "https://github.com/Plutonium-X/MISC_Genie"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Gameplay"
         ],
         "games": [
             "BG2",
@@ -29075,7 +29086,7 @@
         "name": "Shed's Mods",
         "description": "Ce mod regroupe une collection d'objets et de sorts, réalisés à l'époque de la TeamBG et de ses compétitions hebdomadaires. Trois des objets ou sorts présentés ont remporté ces compétitions. La plupart des objets de ce pack sont sérieux, bien qu'un ou deux soient des blagues ou surpuissants. Vous devrez vous rendre à l'entrée de la guilde des voleurs de l'ombre, à l'Ordre du Cœur radieux et dans le bâtiment du Conseil pour expérimenter ce mod.",
         "urls": [
-            "http://www.shsforums.net/files/file/755-sheds-mods/"
+            "http://www.shedplant.net/assets/bg2mods/Shed's+Mods+1.03.exe"
         ],
         "categories": [
             "Sort et objet"
@@ -29089,13 +29100,16 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": true,
         "last_update": "2010-06",
-        "tp2": ""
+        "tp2": "SDMODS"
     },
     {
         "name": "Sheena NPC",
@@ -33352,7 +33366,8 @@
         "name": "The One Ring",
         "description": "Ce mini mod ajoute le célèbre anneau du Seigneur des Anneaux de JRR Tolkien. À haut niveau, il devient vraiment très puissant... Un composant optionnel permet de le substituer à l'anneau de Gaxx, mais sans supprimer ce dernier.",
         "urls": [
-            "http://www.shsforums.net/files/file/756-the-one-ring/"
+            "http://www.shsforums.net/files/file/756-the-one-ring/",
+            "http://www.shedplant.net/assets/bg2mods/THEONERING1.05.exe"
         ],
         "categories": [
             "Sort et objet"
@@ -34612,7 +34627,7 @@
             "http://www.shsforums.net/topic/56148-touchstone-a-mod-from-rabain/"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
@@ -36265,9 +36280,7 @@
             "Aeviannce"
         ],
         "team": [],
-        "notes": [
-            "Attention : Il ne fonctionne que si vous avez installé le mod [[iiLearn Through Use Mod]] d'igi."
-        ],
+        "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": null,
@@ -38222,7 +38235,8 @@
         "name": "Yikari",
         "description": "Ce mod ajoute un nouveau PNJ, un moine qui possède sa propre quête ainsi que des interactions avec chaque personnage. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe. Un aperçu de ses caractéristiques : FOR 16, DEX 18, CON 14, INT 8, SAG 19 et CHA 4.",
         "urls": [
-            "http://www.shsforums.net/files/file/34-yikari-v-17/"
+            "http://www.shsforums.net/files/file/34-yikari-v-17/",
+            "http://www.shedplant.net/assets/bg2mods/Yikari-v1.7.exe"
         ],
         "categories": [
             "PNJ One Day"
@@ -42545,7 +42559,8 @@
         "name": "Quick Save Slots Tweaks",
         "description": "Ce mod vous permet de choisir entre 1 et 4 emplacements de sauvegarde rapide différents dans BGEE, SoD, BG2EE, IWDEE, et PSTEE. Il n'est pas compatible avec EET.",
         "urls": [
-            "http://www.shsforums.net/files/file/1141-quick-save-slots-tweaks/"
+            "http://www.shsforums.net/files/file/1141-quick-save-slots-tweaks/",
+            "https://github.com/GwendolyneFreddy/Quick_Save_Slots_Tweaks"
         ],
         "categories": [
             "Gameplay"
@@ -42560,15 +42575,22 @@
         "authors": [
             "Elminster"
         ],
-        "team": [],
-        "notes": [],
+        "team": [
+            "Freddy Gwendo"
+        ],
+        "notes": [
+            "Il a été rendu obsolète par [[The Tweaks Anthology]]."
+        ],
         "is_weidu": true,
-        "translation_state": false,
-        "safe": null,
-        "languages": [],
-        "status": true,
-        "last_update": "2018-09",
-        "tp2": ""
+        "translation_state": true,
+        "safe": false,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "obsolete",
+        "last_update": "2020-12",
+        "tp2": "k9quicksave"
     },
     {
         "name": "Warlock 3.5",
@@ -43388,5 +43410,62 @@
         "status": true,
         "last_update": "2006-12",
         "tp2": "MattDamon"
+    },
+    {
+        "name": "SoD Banter Restoration",
+        "description": "Ce mod convertit les principaux badinages des PNJ continus pendant SoD en dialogues à l'ancienne qui interrompent le jeu et nécessitent l'interaction du joueur. Environ 80 conversations plus longues pendant SoD sont ainsi restaurées et peut-être reconnues par les joueurs pour la première fois.",
+        "urls": [
+            "http://www.shsforums.net/topic/59181-mod-sod-banter-restoration-for-eet/",
+            "https://github.com/RoxanneSHS/SoDBanterEET/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2020-08",
+        "tp2": "SodBanter"
+    },
+    {
+        "name": "Korax the Ghoul NPC Mod",
+        "description": "Korax est un monstre grossier et laid. Il a oublié depuis longtemps qui il était dans la vie, mais la perte de son ancienne identité ne semble pas le déranger. Sous son visage tordu et pourrissant et sous l'odeur putride de la mort, c'est une « personne » plutôt joyeuse et étonnamment amicale. Pourtant, chaque fois que vous le surprenez à vous fixer de ses yeux morts sans ciller, vous ne pouvez pas vous défaire de l'impression qu'il pense à manger votre chair.|En tant que goule, Korax est immunisé contre bien des afflications mais semble incapable de manier une arme, de s'habiller ou de boire une potion. Ses attaques, en revanche, paralysent ses adversaires.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/74491/korax-the-ghoul-npc-mod"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "semiticgod"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2020-01",
+        "tp2": "Korax_NPC"
     }
 ]
