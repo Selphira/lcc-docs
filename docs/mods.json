@@ -539,6 +539,7 @@
             "PNJ recrutable"
         ],
         "games": [
+            "Tutu",
             "BG2",
             "BGT",
             "BG2EE",
@@ -1222,14 +1223,14 @@
         "safe": true,
         "languages": [
             "en",
-            "cs",
             "de",
             "fo",
             "fr",
             "it",
-            "nl",
             "pl",
-            "pt"
+            "ru",
+            "es",
+            "cn"
         ],
         "status": true,
         "last_update": "2023-01",
@@ -1357,7 +1358,15 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "pl",
+            "ru",
+            "cn"
+        ],
         "status": true,
         "last_update": "2021-03",
         "tp2": "alternatives"
@@ -1610,7 +1619,9 @@
         "languages": [
             "en",
             "fr",
-            "it"
+            "it",
+            "de",
+            "pl"
         ],
         "status": true,
         "last_update": "2018-09",
@@ -1778,7 +1789,6 @@
         "languages": [
             "en",
             "fr",
-            "de",
             "es"
         ],
         "status": true,
@@ -1835,7 +1845,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "",
         "tp2": "aranw"
@@ -2156,7 +2168,7 @@
         ],
         "authors": [
             "Arnel",
-            "GwendolyneFreddy"
+            "Sir BillyBob"
         ],
         "team": [],
         "notes": [
@@ -2201,7 +2213,10 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": true,
         "last_update": "2018-08",
         "tp2": "artaport"
@@ -2679,7 +2694,8 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [],
         "team": [],
@@ -2779,10 +2795,12 @@
             "Kit"
         ],
         "games": [
+            "BGEE",
             "BG2",
             "BGT",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Aeviannce"
@@ -2790,7 +2808,9 @@
         "team": [
             "deratiseur"
         ],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version EE."
+        ],
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
@@ -2882,11 +2902,13 @@
             "Gameplay"
         ],
         "games": [
+            "BGEE",
             "BG2",
             "Tutu",
             "BGT",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Badgert"
@@ -2895,7 +2917,7 @@
             "Le Marquis"
         ],
         "notes": [
-            "Utilisez le lien shs pour la version BG2/BGT/TuTu et le lien github pour la version BG2EE/EET."
+            "Utilisez le lien shs pour la version BG2/BGT/TuTu et le lien github pour la version EE."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -3375,7 +3397,10 @@
             "es",
             "fr",
             "pl",
-            "de"
+            "de",
+            "ru",
+            "it",
+            "cn"
         ],
         "status": true,
         "last_update": "2023-08",
@@ -3730,13 +3755,13 @@
             "fr",
             "de",
             "it",
-            "ja",
+            "jp",
             "kr",
             "pl",
             "ru",
             "cn",
             "es",
-            "tc"
+            "tr"
         ],
         "status": true,
         "last_update": "2019-01",
@@ -3875,10 +3900,7 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
-            "EET",
-            "IWDEE",
-            "PSTEE"
+            "EET"
         ],
         "authors": [
             "Magus"
@@ -3894,7 +3916,7 @@
             "en",
             "fr",
             "pl",
-            "po",
+            "br",
             "ru",
             "es",
             "sw"
@@ -4052,14 +4074,19 @@
             "EET"
         ],
         "authors": [
-            "Sam"
+            "Sam."
         ],
         "team": [],
         "notes": [],
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "es",
+            "pl",
+            "de",
+            "en"
+        ],
         "status": true,
         "last_update": "2021-06",
         "tp2": "bgeeclassicmovies"
@@ -4583,7 +4610,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2012-04",
         "tp2": "BGFixPack"
@@ -4911,7 +4940,8 @@
             "en",
             "fr",
             "de",
-            "cn"
+            "cn",
+            "br"
         ],
         "status": true,
         "last_update": "2024-07",
@@ -4957,7 +4987,9 @@
             "kr",
             "pl",
             "cn",
-            "es"
+            "es",
+            "it",
+            "ru"
         ],
         "status": true,
         "last_update": "2021-09",
@@ -5069,7 +5101,9 @@
             "EET",
             "IWD",
             "IWD2",
-            "IWDEE"
+            "IWDEE",
+            "PST",
+            "PSTEE"
         ],
         "authors": [
             "CamDawg"
@@ -5112,7 +5146,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-01",
         "tp2": "bardicwonders"
@@ -5296,7 +5332,9 @@
             "IWD",
             "IWD2",
             "IWDEE",
-            "IWD2EE"
+            "IWD2EE",
+            "PST",
+            "PSTEE"
         ],
         "authors": [
             "Dan_P"
@@ -5613,6 +5651,10 @@
             "Kit"
         ],
         "games": [
+            "BG",
+            "BG2",
+            "BGT",
+            "IWD",
             "BGEE",
             "BG2EE",
             "SoD",
@@ -6279,7 +6321,8 @@
             "fr",
             "en",
             "ru",
-            "es"
+            "es",
+            "cn"
         ],
         "status": true,
         "last_update": "2024-12",
@@ -6684,7 +6727,8 @@
         "translation_state": false,
         "safe": true,
         "languages": [
-            "en"
+            "en",
+            "ru"
         ],
         "status": true,
         "last_update": "2023-04",
@@ -6882,7 +6926,11 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "ru",
+            "fr",
+            "en"
+        ],
         "status": true,
         "last_update": "2019-03",
         "tp2": "charlatan"
@@ -7029,7 +7077,7 @@
             "EET"
         ],
         "authors": [
-            "Charles Bisson",
+            "CBisson",
             "Hoppy",
             "Weigo",
             "King Diamond",
@@ -7050,7 +7098,8 @@
             "de",
             "it",
             "ru",
-            "es"
+            "es",
+            "cn"
         ],
         "status": true,
         "last_update": "2020-02",
@@ -7109,7 +7158,7 @@
             "EET"
         ],
         "authors": [
-            "Kaeloree"
+            "K'aeloree"
         ],
         "team": [
             "Miry Wolfwood",
@@ -7582,7 +7631,8 @@
             "it",
             "pl",
             "es",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": true,
         "last_update": "2024-03",
@@ -8381,7 +8431,9 @@
             "EET"
         ],
         "authors": [
-            "Grim Squeaker"
+            "Grim Squeaker",
+            "K'aeloree",
+            "Berelinde"
         ],
         "team": [],
         "notes": [],
@@ -8390,7 +8442,8 @@
         "safe": true,
         "languages": [
             "en",
-            "de"
+            "de",
+            "ru"
         ],
         "status": true,
         "last_update": "2024-06",
@@ -9104,7 +9157,11 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "ru",
+            "fr",
+            "en"
+        ],
         "status": true,
         "last_update": "2020-01",
         "tp2": "dearnise"
@@ -9264,7 +9321,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2023-10",
         "tp2": "deitiesoffaerun"
@@ -9932,7 +9991,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2023-05",
         "tp2": "dornfriendship"
@@ -9960,7 +10021,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "",
         "tp2": "dorn"
@@ -10169,7 +10232,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2022-12",
         "tp2": "drake"
@@ -10509,7 +10574,8 @@
             "de",
             "it",
             "pl",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": true,
         "last_update": "2021-05",
@@ -10570,7 +10636,6 @@
         "safe": true,
         "languages": [
             "en",
-            "fr",
             "it",
             "pl",
             "es"
@@ -10831,19 +10896,21 @@
             "BG2EE",
             "SoD",
             "EET",
-            "IWD",
+            "PSTEE",
             "IWDEE"
         ],
         "authors": [
             "AncientCowboy",
-            "Lefreut"
+            "lefreut"
         ],
         "team": [],
         "notes": [],
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-09",
         "tp2": "EEUITweaks"
@@ -11109,7 +11176,7 @@
             "EET"
         ],
         "authors": [
-            "Kaeloree",
+            "K'aeloree",
             "jastey",
             "Laufey"
         ],
@@ -11127,7 +11194,8 @@
             "pl",
             "ru",
             "cn",
-            "es"
+            "es",
+            "de"
         ],
         "status": true,
         "last_update": "2023-12",
@@ -11245,7 +11313,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": false,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "",
         "tp2": "eldritch_magic"
@@ -11589,7 +11659,7 @@
         "languages": [
             "cz",
             "de",
-            "us",
+            "en",
             "es",
             "fr",
             "pl",
@@ -12341,14 +12411,20 @@
             "IWDEE"
         ],
         "authors": [
-            "Subtledoctor"
+            "Subtledoctor",
+            "Grammarsalad"
         ],
-        "team": [],
+        "team": [
+            "mickabouille"
+        ],
         "notes": [],
         "is_weidu": true,
-        "translation_state": false,
+        "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": "2024-04",
         "tp2": "Faiths_and_Powers"
@@ -12572,7 +12648,10 @@
         "safe": true,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "ru",
+            "de",
+            "es"
         ],
         "status": true,
         "last_update": "2021-07",
@@ -13483,7 +13562,9 @@
         "is_weidu": true,
         "translation_state": "wip",
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2019-02",
         "tp2": "gavin_bg2"
@@ -13562,8 +13643,7 @@
             "en",
             "fr",
             "it",
-            "pl",
-            "pt"
+            "pl"
         ],
         "status": true,
         "last_update": "2024-11",
@@ -13949,7 +14029,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2020-05",
         "tp2": "glamnpcpack"
@@ -14135,7 +14217,7 @@
             "BGEE"
         ],
         "authors": [
-            "Renegade"
+            "Pecca"
         ],
         "team": [],
         "notes": [
@@ -15060,7 +15142,8 @@
         ],
         "games": [
             "BGEE",
-            "SoD"
+            "SoD",
+            "EET"
         ],
         "authors": [
             "OlvynChuru"
@@ -15346,7 +15429,8 @@
         "translation_state": false,
         "safe": true,
         "languages": [
-            "en"
+            "en",
+            "ru"
         ],
         "status": true,
         "last_update": "2021-02",
@@ -15432,7 +15516,8 @@
         "safe": true,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "ru"
         ],
         "status": true,
         "last_update": "2023-10",
@@ -15923,7 +16008,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2018-05",
         "tp2": "iwd_portrait_variations"
@@ -15948,7 +16035,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-10",
         "tp2": "iwd_compat"
@@ -15986,7 +16075,9 @@
         "languages": [
             "en",
             "fr",
-            "es"
+            "es",
+            "ru",
+            "cn"
         ],
         "status": true,
         "last_update": "2022-07",
@@ -16582,7 +16673,13 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "de",
+            "fr",
+            "en",
+            "it",
+            "pl"
+        ],
         "status": true,
         "last_update": "2019-02",
         "tp2": "valhorn"
@@ -16907,6 +17004,7 @@
             "Portrait et son"
         ],
         "games": [
+            "BG",
             "BG2",
             "BGT",
             "BGEE",
@@ -16924,6 +17022,10 @@
         "translation_state": false,
         "safe": true,
         "languages": [
+            "en",
+            "de",
+            "pl",
+            "ru",
             "en"
         ],
         "status": true,
@@ -17185,7 +17287,11 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "it"
+        ],
         "status": true,
         "last_update": "2021-06",
         "tp2": "isra"
@@ -17278,7 +17384,8 @@
         ],
         "authors": [
             "Demivrgvs",
-            "Mike1072"
+            "Mike1072",
+            "Ardanis"
         ],
         "team": [
             "Syntax",
@@ -17294,8 +17401,7 @@
         "languages": [
             "en",
             "fr",
-            "ru",
-            "es"
+            "ru"
         ],
         "status": true,
         "last_update": "2023-10",
@@ -17526,6 +17632,7 @@
             "PNJ (autre)"
         ],
         "games": [
+            "BGEE",
             "SoD",
             "EET"
         ],
@@ -17804,7 +17911,10 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": false,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "obsolete",
         "last_update": "2020-09",
         "tp2": "Jimfix"
@@ -18036,7 +18146,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-10",
         "tp2": "Kale"
@@ -18351,7 +18463,10 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": true,
         "last_update": "2020-08",
         "tp2": "keto"
@@ -18608,7 +18723,8 @@
             "BG2EE",
             "SoD",
             "EET",
-            "IWDEE"
+            "IWDEE",
+            "IWD"
         ],
         "authors": [
             "Dan_P"
@@ -18769,6 +18885,7 @@
             "BGEE",
             "BG2EE",
             "EET",
+            "IWD",
             "IWDEE"
         ],
         "authors": [
@@ -18920,7 +19037,8 @@
             "BG2",
             "BGT",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "deratiseur"
@@ -19098,7 +19216,7 @@
             "EET"
         ],
         "authors": [
-            "Lefreut"
+            "lefreut"
         ],
         "team": [],
         "notes": [
@@ -19107,7 +19225,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-09",
         "tp2": "LeUI"
@@ -19129,7 +19249,7 @@
             "EET"
         ],
         "authors": [
-            "Lefreut"
+            "lefreut"
         ],
         "team": [],
         "notes": [
@@ -19138,7 +19258,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-09",
         "tp2": "LeUI-BG1EE"
@@ -19160,7 +19282,7 @@
             "EET"
         ],
         "authors": [
-            "Lefreut"
+            "lefreut"
         ],
         "team": [],
         "notes": [
@@ -19169,7 +19291,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-09",
         "tp2": "LeUI-SoD"
@@ -19185,7 +19309,6 @@
             "Interface"
         ],
         "games": [
-            "IWD",
             "IWDEE"
         ],
         "authors": [
@@ -19198,7 +19321,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2022-08",
         "tp2": "LeUI-IWDEE"
@@ -20275,7 +20400,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2022-12",
         "tp2": "mih_ip"
@@ -20771,8 +20898,7 @@
             "BGEE",
             "BG2EE",
             "SoD",
-            "EET",
-            "IWDEE"
+            "EET"
         ],
         "authors": [
             "Raduziel"
@@ -21159,6 +21285,8 @@
             "Kit"
         ],
         "games": [
+            "BG",
+            "Tutu",
             "BGEE",
             "BG2EE",
             "SoD",
@@ -21197,6 +21325,7 @@
             "BG2EE",
             "SoD",
             "EET",
+            "IWD",
             "IWDEE"
         ],
         "authors": [
@@ -21367,7 +21496,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Isaya"
+        ],
         "team": [
             "La Voix 2 la Sagesse",
             "Isaya",
@@ -21532,7 +21663,7 @@
             "IWDEE"
         ],
         "authors": [
-            "Aquadrizzt"
+            "aquadrizzt"
         ],
         "team": [],
         "notes": [],
@@ -21715,14 +21846,18 @@
             "IWDEE"
         ],
         "authors": [
-            "Pecca (a.k.a Renegade)"
+            "Pecca"
         ],
         "team": [],
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "pl",
+            "ru",
+            "en"
+        ],
         "status": true,
         "last_update": "2021-01",
         "tp2": "msfm"
@@ -22032,6 +22167,7 @@
             "EET",
             "IWD",
             "IWDEE",
+            "IWD2",
             "PST",
             "PSTEE"
         ],
@@ -22043,7 +22179,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2021-08",
         "tp2": "mptweaks"
@@ -22107,7 +22245,8 @@
             "de",
             "it",
             "pl",
-            "es"
+            "es",
+            "ru"
         ],
         "status": true,
         "last_update": "2023-11",
@@ -22334,7 +22473,8 @@
             "BG2EE",
             "SoD",
             "EET",
-            "IWDEE"
+            "IWDEE",
+            "PSTEE"
         ],
         "authors": [
             "Argent77"
@@ -22489,7 +22629,14 @@
         "is_weidu": true,
         "translation_state": true,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "ru",
+            "de",
+            "es",
+            "fr",
+            "en",
+            "pl"
+        ],
         "status": true,
         "last_update": "2021-12",
         "tp2": "npc_tweak"
@@ -22637,7 +22784,8 @@
         "translation_state": false,
         "safe": true,
         "languages": [
-            "en"
+            "en",
+            "ru"
         ],
         "status": true,
         "last_update": "2024-11",
@@ -22658,7 +22806,7 @@
             "EET"
         ],
         "authors": [
-            "Kaeloree"
+            "K'aeloree"
         ],
         "team": [],
         "notes": [],
@@ -23215,7 +23363,16 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "ru",
+            "de",
+            "es",
+            "fr",
+            "en",
+            "it",
+            "pl",
+            "cn"
+        ],
         "status": true,
         "last_update": "2022-06",
         "tp2": "ntotsc"
@@ -23999,7 +24156,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-04",
         "tp2": "Paina"
@@ -25347,7 +25506,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2021-01",
         "tp2": "PortraitsFromIWD2"
@@ -25516,6 +25677,7 @@
             "Gameplay"
         ],
         "games": [
+            "BG",
             "BG2",
             "BGT",
             "Tutu",
@@ -25916,7 +26078,7 @@
     },
     {
         "name": "RTT Kit Pack",
-        "description": "Ce mod rend disponibles les 33 profils du module de conversion [[Return To Trademeet]] (module italien traduit en anglais). Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
+        "description": "Ce mod rend disponibles les 33 profils du module de conversion [[Return To Trademeet]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
         "urls": [
             "http://www.shsforums.net/files/file/51-return-to-trademeet-kit-pack/",
             "https://github.com/Plutonium-X/KIT_RTT"
@@ -25925,10 +26087,12 @@
             "Kit"
         ],
         "games": [
+            "BGEE",
             "BG2",
             "BGT",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "al17"
@@ -25938,7 +26102,7 @@
         ],
         "notes": [
             "Quelque soit les kits que vous installez, vous DEVEZ installer le composant final.",
-            "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
+            "Utilisez le lien shs pour la version BG2/BGT et le lien github pour la version EE."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -26018,10 +26182,14 @@
             "Gameplay"
         ],
         "games": [
+            "Tutu",
+            "BG2",
+            "BGT",
             "BGEE",
             "BG2EE",
             "SoD",
             "EET",
+            "IWD",
             "IWDEE"
         ],
         "authors": [
@@ -26210,7 +26378,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2023-02",
         "tp2": "Recorder"
@@ -26347,7 +26517,6 @@
         ],
         "games": [
             "BG2",
-            "Tutu",
             "BGT",
             "BG2EE",
             "EET"
@@ -26412,7 +26581,8 @@
             "en",
             "de",
             "ru",
-            "es"
+            "es",
+            "cn"
         ],
         "status": true,
         "last_update": "2024-04",
@@ -26797,7 +26967,7 @@
             "BGT"
         ],
         "authors": [
-            "Kaeloree"
+            "K'aeloree"
         ],
         "team": [],
         "notes": [
@@ -26939,7 +27109,8 @@
             "pl",
             "br",
             "ru",
-            "cn"
+            "cn",
+            "es"
         ],
         "status": true,
         "last_update": "2024-03",
@@ -27314,7 +27485,9 @@
         "languages": [
             "ru",
             "en",
-            "fr"
+            "fr",
+            "it",
+            "pl"
         ],
         "status": true,
         "last_update": "2021-06",
@@ -28504,8 +28677,7 @@
             "BGEE",
             "BG2EE",
             "SoD",
-            "EET",
-            "IWDEE"
+            "EET"
         ],
         "authors": [
             "AionZ"
@@ -28515,7 +28687,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-04",
         "tp2": "shadowadept"
@@ -28583,11 +28757,14 @@
         "games": [
             "BG2",
             "BGT",
+            "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE",
+            "PSTEE"
         ],
         "authors": [
-            "Charles Bisson"
+            "CBisson"
         ],
         "team": [],
         "notes": [
@@ -29064,7 +29241,11 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "it",
+            "pl",
+            "en"
+        ],
         "status": true,
         "last_update": "2016-06",
         "tp2": "silver_staff_of_aule"
@@ -29244,7 +29425,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-04",
         "tp2": "sirene_bg2"
@@ -29272,7 +29455,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-04",
         "tp2": "sirene"
@@ -29531,7 +29716,15 @@
         "translation_state": true,
         "safe": true,
         "languages": [
-            "de"
+            "de",
+            "ru",
+            "es",
+            "fr",
+            "en",
+            "it",
+            "pl",
+            "cn",
+            "jp"
         ],
         "status": true,
         "last_update": "2021-08",
@@ -29669,7 +29862,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "",
         "tp2": "SoDDialogBanters"
@@ -29794,7 +29989,8 @@
             "de",
             "it",
             "pl",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": true,
         "last_update": "2024-01",
@@ -30183,7 +30379,8 @@
         "translation_state": false,
         "safe": true,
         "languages": [
-            "en"
+            "en",
+            "de"
         ],
         "status": true,
         "last_update": "",
@@ -30242,14 +30439,19 @@
             "IWDEE"
         ],
         "authors": [
-            "Pecca (a.k.a Renegade)"
+            "Pecca"
         ],
         "team": [],
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "pl",
+            "cz",
+            "it",
+            "en"
+        ],
         "status": true,
         "last_update": "2019-03",
         "tp2": "spontaneous_casting"
@@ -30416,7 +30618,10 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "de",
+            "en"
+        ],
         "status": true,
         "last_update": "",
         "tp2": "StormCaller"
@@ -31097,8 +31302,7 @@
         "translation_state": false,
         "safe": true,
         "languages": [
-            "en",
-            "es"
+            "en"
         ],
         "status": true,
         "last_update": "",
@@ -31334,7 +31538,12 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "pl",
+            "de",
+            "it",
+            "en"
+        ],
         "status": true,
         "last_update": "",
         "tp2": "toa"
@@ -32876,10 +33085,15 @@
         ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "it",
+            "ru",
+            "de",
+            "en"
+        ],
         "status": true,
         "last_update": "2021-06",
         "tp2": "jz"
@@ -33992,12 +34206,10 @@
         "authors": [
             "SConrad"
         ],
-        "team": [
-            "???"
-        ],
+        "team": [],
         "notes": [],
         "is_weidu": null,
-        "translation_state": "wip",
+        "translation_state": false,
         "safe": true,
         "languages": [],
         "status": true,
@@ -34206,7 +34418,7 @@
             "IWDEE"
         ],
         "authors": [
-            "Aquadrizzt",
+            "aquadrizzt",
             "Grammarsalad",
             "Subtledoctor"
         ],
@@ -34455,7 +34667,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2022-01",
         "tp2": "transitions"
@@ -35612,7 +35826,7 @@
         "safe": true,
         "languages": [
             "en",
-            "po",
+            "br",
             "ru",
             "sw"
         ],
@@ -36275,7 +36489,9 @@
         "is_weidu": null,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "",
         "tp2": "Vienxay"
@@ -36445,7 +36661,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2020-07",
         "tp2": "wtpfamiliars"
@@ -36684,7 +36902,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-02",
         "tp2": "C0Warlock"
@@ -37187,7 +37407,7 @@
         "translation_state": true,
         "safe": null,
         "languages": [
-            "pr",
+            "br",
             "en",
             "fr",
             "it",
@@ -37261,7 +37481,9 @@
             "de",
             "pl",
             "ru",
-            "cn"
+            "cn",
+            "sw",
+            "br"
         ],
         "status": true,
         "last_update": "2024-02",
@@ -37803,7 +38025,7 @@
             "EET"
         ],
         "authors": [
-            "Kaeloree",
+            "K'aeloree",
             "Lava Del'Vortel"
         ],
         "team": [],
@@ -38174,7 +38396,10 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "es"
+        ],
         "status": true,
         "last_update": "09-2021",
         "tp2": "iiItemMod"
@@ -38470,7 +38695,7 @@
             "BGT"
         ],
         "authors": [
-            "Kaeloree"
+            "K'aeloree"
         ],
         "team": [],
         "notes": [],
@@ -40646,7 +40871,7 @@
         "languages": [
             "en",
             "de",
-            "po",
+            "br",
             "cn",
             "es"
         ],
@@ -40774,7 +40999,8 @@
             "pl",
             "ru",
             "kr",
-            "es"
+            "es",
+            "cn"
         ],
         "status": true,
         "last_update": "2023-12",
@@ -40844,7 +41070,8 @@
             "en",
             "fr",
             "de",
-            "ch"
+            "cn",
+            "ru"
         ],
         "status": true,
         "last_update": "2020-02",
@@ -40879,7 +41106,8 @@
             "en",
             "fr",
             "pl",
-            "ch"
+            "cn",
+            "ru"
         ],
         "status": true,
         "last_update": "2022-11",
@@ -41089,7 +41317,9 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2024-11",
         "tp2": "dw_talents"
@@ -41153,7 +41383,8 @@
             "en",
             "cn",
             "ru",
-            "es"
+            "es",
+            "pl"
         ],
         "status": true,
         "last_update": "2021-07",
@@ -41502,7 +41733,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-07",
         "tp2": "randomrolls"
@@ -42178,14 +42411,21 @@
             "IWDEE"
         ],
         "authors": [
-            "Renegade0"
+            "Pecca"
         ],
         "team": [],
         "notes": [],
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "ru",
+            "es",
+            "fr",
+            "en",
+            "cn",
+            "cz"
+        ],
         "status": true,
         "last_update": "2024-11",
         "tp2": "infinity_ui"
@@ -42462,7 +42702,7 @@
         "name": "AskiiKits",
         "description": "Ce mod contient 4 kits.|Le `Capitaine`, guerrier charismatique qui se sert de son autorité pour optimiser les performances de son équipe ou briser moralement son adversaire, doté d'une capacité de résistance importante et d'une protection contre la confusion.|Le `Lanceur de flèchettes`, voleur adroit, sournois et amateur de boisson alcoolisée, il est capable de détourner l'attention de ses adversaires et de lancer des bombes littéralement enivrantes.|Le `Prêtre de Mystra` profite quand à lui d'un bonus sur les temps d'incantation des sorts, il peut également, pendant un tour, augmenter drastiquement le niveau d'enchantement d'une arme. Il a également accès à quelques sorts supplémentaires.|Le `Virtuose` est un mage aussi talentueux que spécialisé, sous entendu inapte à autre chose que lancer des sorts (mais laissons les autres tâches de moindre importance aux gens de moindre importance ?). Il possède un bonus sur les temps d'incantation des sorts et un bonus sur le niveau de mage, en plus de pouvoir mémoriser plus de sorts que ces congénères. En contrepartie, il a un malus sur sa classe d'armure et sur ses jets de sauvegardes (qui augmentent au fil des niveaux). Il ne peut apprendre à manier une arme et subit un malus de 4 en Sagesse.",
         "urls": [
-            "https://github.com/fmugra/AskiiKits/tree/main"
+            "https://github.com/fmugra/AskiiKits"
         ],
         "categories": [
             "Kit"
@@ -42540,7 +42780,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-12",
         "tp2": "bg1_ipm"
@@ -42568,7 +42810,9 @@
         "is_weidu": true,
         "translation_state": null,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
         "last_update": "2024-12",
         "tp2": "IconFix"
