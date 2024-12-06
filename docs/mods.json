@@ -1253,7 +1253,7 @@
         ],
         "authors": [
             "Raven",
-            "gwendolynefreddy"
+            "Freddy_Gwendo"
         ],
         "team": [
             "tonton-thon",
@@ -2273,7 +2273,7 @@
         ],
         "authors": [
             "Ascalon",
-            "WhiteAgnus",
+            "White Agnus",
             "jastey"
         ],
         "team": [],
@@ -2311,7 +2311,7 @@
         ],
         "authors": [
             "Ascalon",
-            "WhiteAgnus",
+            "White Agnus",
             "jastey"
         ],
         "team": [
@@ -2350,9 +2350,9 @@
             "Shawne",
             "JediMindTrix",
             "Turambar",
-            "ALIEN",
+            "ALIENQuake",
             "DawidW",
-            "Westley Weimar",
+            "Westley Weimer",
             "Cuv",
             "White Agnus",
             "Miloch",
@@ -5397,7 +5397,7 @@
         ],
         "authors": [
             "DavidNYC",
-            "subtledoc"
+            "Subtledoctor"
         ],
         "team": [],
         "notes": [
@@ -5662,7 +5662,7 @@
             "IWDEE"
         ],
         "authors": [
-            "OlvynChuru"
+            "Olvyn Churu"
         ],
         "team": [],
         "notes": [],
@@ -6308,7 +6308,7 @@
         ],
         "authors": [
             "DrAzTiK",
-            "Gwendolyne"
+            "Freddy_Gwendo"
         ],
         "team": [
             "DrAzTiK"
@@ -6788,7 +6788,7 @@
     },
     {
         "name": "Chantelame",
-        "description": "Créé par Misdrhaal, ce mod ajoute un nouveau profil de guerrier destiné aux elfes, une sorte de guerrier/mage/clerc spécial... Deratiseur l'a converti au format WeiDU, ce qui le rend largement plus compatible avec la plupart des mods récents, et il n'écrase plus le dialog.tlk à l'installation.|Note : ce profil porte le nom de Bladesinger en anglais.",
+        "description": "Créé par Misdrhaal, ce mod ajoute un nouveau profil de guerrier destiné aux elfes, une sorte de guerrier/mage/clerc spécial... deratiseur l'a converti au format WeiDU, ce qui le rend largement plus compatible avec la plupart des mods récents, et il n'écrase plus le dialog.tlk à l'installation.|Note : ce profil porte le nom de Bladesinger en anglais.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24080-mods-crees-kit-chantelame-v6.html",
             "https://github.com/Plutonium-X/KIT_Chantelame"
@@ -7268,7 +7268,7 @@
             "EET"
         ],
         "authors": [
-            "cirerrek"
+            "Cirerrek"
         ],
         "team": [
             "Sir Alexander"
@@ -7328,7 +7328,7 @@
             "IWD"
         ],
         "authors": [
-            "cirerrek"
+            "Cirerrek"
         ],
         "team": [],
         "notes": [],
@@ -7354,7 +7354,7 @@
             "PSTEE"
         ],
         "authors": [
-            "cirerrek"
+            "Cirerrek"
         ],
         "team": [],
         "notes": [],
@@ -7380,7 +7380,7 @@
             "BGT"
         ],
         "authors": [
-            "cirerrek"
+            "Cirerrek"
         ],
         "team": [],
         "notes": [
@@ -7614,7 +7614,7 @@
         ],
         "authors": [
             "Magnus Thorenson",
-            "CoM Solaufein",
+            "CoM_Solaufein",
             "Dark Raven"
         ],
         "team": [
@@ -9071,8 +9071,7 @@
             "EET"
         ],
         "authors": [
-            "Eslizon",
-            "GwendolyneFreddy"
+            "Eslizon"
         ],
         "team": [
             "Freddy_Gwendo"
@@ -9370,7 +9369,7 @@
         ],
         "authors": [
             "Tin",
-            "GwendolyneFreddy"
+            "Freddy_Gwendo"
         ],
         "team": [
             "deratiseur"
@@ -9417,7 +9416,7 @@
     },
     {
         "name": "Derat's Unused Kits Pack (DUKP)",
-        "description": "Ce mod français regroupe tous les profils créés par Deratiseur. Vous y retrouverez avec plaisir le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Sorcelier (ensorceleur combattant), le Seigneur de guerre (kit pour jumelé guerrier-&gt;mage) et bien d'autres.|Son contenu évolue selon l'humeur de Deratiseur (ajout ou retrait de profils).",
+        "description": "Ce mod français regroupe tous les profils créés par deratiseur. Vous y retrouverez avec plaisir le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Sorcelier (ensorceleur combattant), le Seigneur de guerre (kit pour jumelé guerrier-&gt;mage) et bien d'autres.|Son contenu évolue selon l'humeur de deratiseur (ajout ou retrait de profils).",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/derat-s-unused-kits-pack/19490-liens-de-telechargement.html",
             "https://github.com/Deratiseur/DUKP"
@@ -9723,7 +9722,7 @@
         "authors": [
             "SimDing0",
             "CamDawg",
-            "the_bigg",
+            "the bigg",
             "Ghreyfain",
             "Avenger",
             "Kensai Ryu",
@@ -14690,7 +14689,7 @@
         ],
         "authors": [
             "Tin",
-            "GwendolyneFreddy"
+            "Freddy_Gwendo"
         ],
         "team": [
             "deratiseur"
@@ -15144,7 +15143,7 @@
             "EET"
         ],
         "authors": [
-            "OlvynChuru"
+            "Olvyn Churu"
         ],
         "team": [],
         "notes": [
@@ -16402,7 +16401,7 @@
             "BGT"
         ],
         "authors": [
-            "Gwendolyne"
+            "Rastor"
         ],
         "team": [
             "Mathrim Cauthon"
@@ -16629,7 +16628,7 @@
             "IWDEE"
         ],
         "authors": [
-            "OlvynChuru"
+            "Olvyn Churu"
         ],
         "team": [],
         "notes": [],
@@ -16904,8 +16903,7 @@
         "authors": [
             "Erephine",
             "Sam",
-            "Miloch",
-            "Gwendolyne"
+            "Miloch"
         ],
         "team": [
             "Freddy Gwendo"
@@ -17312,7 +17310,7 @@
         ],
         "authors": [
             "Rhaella",
-            "Gwendolyne"
+            "Freddy_Gwendo"
         ],
         "team": [],
         "notes": [],
@@ -19794,7 +19792,7 @@
             "deratiseur"
         ],
         "notes": [
-            "Utilisez le second lien (LCC) pour télécharger la version de Deratiseur qui est aussi compatible avec les jeux EE."
+            "Utilisez le second lien (LCC) pour télécharger la version de deratiseur qui est aussi compatible avec les jeux EE."
         ],
         "is_weidu": true,
         "translation_state": true,
@@ -22128,7 +22126,7 @@
             "IWDEE"
         ],
         "authors": [
-            "Crevs Daak",
+            "CrevsDaak",
             "FlameWing"
         ],
         "team": [],
@@ -22615,7 +22613,7 @@
         ],
         "authors": [
             "andrewas",
-            "mike1072",
+            "Mike1072",
             "Orion's Stardom"
         ],
         "team": [
@@ -23094,7 +23092,7 @@
             "EET"
         ],
         "authors": [
-            "CoM Solaufein"
+            "CoM_Solaufein"
         ],
         "team": [],
         "notes": [],
@@ -23128,7 +23126,7 @@
             "Deva",
             "K'aeloree",
             "Rhaella",
-            "Gwendolyne"
+            "Freddy_Gwendo"
         ],
         "team": [],
         "notes": [
@@ -23296,7 +23294,7 @@
             "IWDEE"
         ],
         "authors": [
-            "BCeasar"
+            "BCaesar"
         ],
         "team": [],
         "notes": [
@@ -25992,7 +25990,7 @@
             "BGT"
         ],
         "authors": [
-            "rastor"
+            "Rastor"
         ],
         "team": [],
         "notes": [],
@@ -27471,7 +27469,7 @@
         ],
         "authors": [
             "Serdrick",
-            "Deratiseur"
+            "deratiseur"
         ],
         "team": [
             "La Voix 2 la Sagesse"
@@ -27629,7 +27627,7 @@
         ],
         "authors": [
             "Moonfruit",
-            "GwendolyneFreddy"
+            "Freddy_Gwendo"
         ],
         "team": [
             "Thot",
@@ -28226,7 +28224,7 @@
             "SoD"
         ],
         "authors": [
-            "Crevsdaak"
+            "CrevsDaak"
         ],
         "team": [],
         "notes": [],
@@ -28324,7 +28322,7 @@
         ],
         "authors": [
             "Duns Scotus",
-            "SubtleDoctor"
+            "Subtledoctor"
         ],
         "team": [],
         "notes": [
@@ -29968,7 +29966,8 @@
             "Andyr",
             "NiGHTMARE",
             "Grim Squeaker",
-            "CamDawg i Mike1072"
+            "CamDawg",
+            "Mike1072"
         ],
         "team": [
             "Zayn",
@@ -30180,7 +30179,7 @@
         ],
         "authors": [
             "Demivrgvs",
-            "mike1072"
+            "Mike1072"
         ],
         "team": [
             "lefreut",
@@ -30761,7 +30760,7 @@
             "IWDEE"
         ],
         "authors": [
-            "subtledoctor"
+            "Subtledoctor"
         ],
         "team": [
             "mickabouille"
@@ -30851,7 +30850,7 @@
         ],
         "authors": [
             "Rastor",
-            "GwendolyneFreddy"
+            "Freddy_Gwendo"
         ],
         "team": [
             "Mathrim Cauthon"
@@ -32193,7 +32192,7 @@
         ],
         "authors": [
             "Serdrick",
-            "Crevs Daak"
+            "CrevsDaak"
         ],
         "team": [
             "deratiseur"
@@ -32674,7 +32673,7 @@
             "EET"
         ],
         "authors": [
-            ""
+            "Daxtreme"
         ],
         "team": [],
         "notes": [
@@ -33241,7 +33240,7 @@
         ],
         "authors": [
             "Yovaneth",
-            "Gwendolyne"
+            "Freddy_Gwendo"
         ],
         "team": [
             "Le Marquis"
@@ -33427,7 +33426,7 @@
     },
     {
         "name": "Secret of Bone Hill (EET)",
-        "description": "Qu'est-ce que Secret of Bone Hill ? Hé bien c'est un gros mod de quête pour BG1 (BGT requis), créé par Sir Billybob, qui adapte deux scénarios de jeu de rôle papier : L1 et L2 dans l'univers Greyhawk. Au programme : des dizaines de nouvelles cartes, des magasins, des quêtes et un personnage recrutable (Fabio).|L'histoire en elle-même se passe sur l'île de Lendore, à proximité de la ville de Restenford. Pelltar, un mage que vous rencontrez dans le temple de Lathandre au chapitre 4 (dès que vous avez fini les mines de Nashkel et que vous pouvez vous rendre au camp des bandits), sera à même de vous y téléporter et de vous en sortir, une fois votre aide apportée au village.|La 1ère partie est pré-requise pour débloquer la 2nde que vous pourrez atteindre après votre sortie des catacombes de Château-Suif. Vous rencontrerez là Fabio (un barde humain) ou Pelltar qui vous demanderont de retourner à Restenford avec eux, pour élucider cette fois-ci un mystérieux meurtre...",
+        "description": "Qu'est-ce que Secret of Bone Hill ? Hé bien c'est un gros mod de quête pour BG1 (BGT requis), créé par Sir BillyBob, qui adapte deux scénarios de jeu de rôle papier : L1 et L2 dans l'univers Greyhawk. Au programme : des dizaines de nouvelles cartes, des magasins, des quêtes et un personnage recrutable (Fabio).|L'histoire en elle-même se passe sur l'île de Lendore, à proximité de la ville de Restenford. Pelltar, un mage que vous rencontrez dans le temple de Lathandre au chapitre 4 (dès que vous avez fini les mines de Nashkel et que vous pouvez vous rendre au camp des bandits), sera à même de vous y téléporter et de vous en sortir, une fois votre aide apportée au village.|La 1ère partie est pré-requise pour débloquer la 2nde que vous pourrez atteindre après votre sortie des catacombes de Château-Suif. Vous rencontrerez là Fabio (un barde humain) ou Pelltar qui vous demanderont de retourner à Restenford avec eux, pour élucider cette fois-ci un mystérieux meurtre...",
         "urls": [
             "http://www.shsforums.net/files/file/1076-the-secret-of-bonehill/",
             "https://github.com/RoxanneSHS/BoneHill"
@@ -33442,7 +33441,7 @@
             "EET"
         ],
         "authors": [
-            "Sir Billybob",
+            "Sir BillyBob",
             "Erebusant"
         ],
         "team": [
@@ -33746,7 +33745,7 @@
         ],
         "authors": [
             "Rastor",
-            "GwendolyneFreddy"
+            "Freddy_Gwendo"
         ],
         "team": [
             "Mathrim Cauthon"
@@ -35624,7 +35623,7 @@
             "EET"
         ],
         "authors": [
-            "Westley Weimer",
+            "Wes Weimer",
             "CamDawg"
         ],
         "team": [
@@ -38085,7 +38084,7 @@
             "EET"
         ],
         "authors": [
-            "Sillara of the Tamari"
+            "Sillara"
         ],
         "team": [
             "Ixion"
@@ -38127,7 +38126,7 @@
             "K'aeloree",
             "AionZ",
             "Lava Del'Vortel",
-            "Gwendolyne"
+            "Freddy_Gwendo"
         ],
         "team": [],
         "notes": [],
@@ -39499,7 +39498,7 @@
         ],
         "authors": [
             "Berelinde",
-            "Gwendolyne"
+            "Freddy_Gwendo"
         ],
         "team": [
             "Le Marquis"
@@ -40106,7 +40105,7 @@
         ],
         "authors": [
             "Skitia",
-            "Coutelier (Insomniator)"
+            "Coutelier"
         ],
         "team": [],
         "notes": [],
@@ -40899,9 +40898,9 @@
             "PSTEE"
         ],
         "authors": [
-            "Camdawg",
+            "CamDawg",
             "Luke",
-            "argent77",
+            "Argent77",
             "DavidW"
         ],
         "team": [
@@ -40986,7 +40985,7 @@
             "EET"
         ],
         "authors": [
-            "Westley Weimar",
+            "Westley Weimer",
             "Lollorian",
             "CamDawg"
         ],
@@ -42053,7 +42052,7 @@
         ],
         "authors": [
             "Quartz",
-            "Crevs Daak"
+            "CrevsDaak"
         ],
         "team": [],
         "notes": [],
@@ -42208,7 +42207,7 @@
             "PSTEE"
         ],
         "authors": [
-            "ALIEN"
+            "ALIENQuake"
         ],
         "team": [],
         "notes": [],
