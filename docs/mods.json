@@ -4137,7 +4137,7 @@
         ],
         "authors": [
             "AstroBryGuy",
-            "GraionDilach"
+            "Graion Dilach"
         ],
         "team": [],
         "notes": [
@@ -9608,7 +9608,7 @@
         "name": "Difficulty and Tweaks mod",
         "description": "Anciennement [[Mix Mod]], ce mod réunit une petite collection d'ajustements permettant soit de faciliter le jeu, soit de rendre les ennemis plus coriaces.|- Des composants permettent d'augmenter ou de réduire l'empilage des munitions, des gemmes, des bijoux, des potions et des parchemins.|- Une série de composants permet de booster les ennemis en leur accordant un bonus à la CA, au TAC0 et aux jets de sauvegarde (de 1 à 6).|- Une série de composants permet d'augmenter de 25 à 300 % les points de vie des ennemis.|- Un composant permet d'interdire le port des casques aux métamorphes.",
         "urls": [
-            "https://forums.beamdog.com/discussion/19928/release-difficulty-and-tweak-mod-ver-7/p1"
+            "https://forums.beamdog.com/discussion/19928/release-difficulty-and-tweak-mod-ver-7"
         ],
         "categories": [
             "Gameplay"
@@ -9630,14 +9630,15 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Si ce mod est sensé être compatible avec tous les jeux IE, certains composants ne sont pas disponibles pour certains jeux."
+            "Si ce mod est sensé être compatible avec tous les jeux IE, certains composants ne sont pas disponibles pour certains jeux.",
+            "Le mod semble avoir disparu."
         ],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
-        "status": true,
-        "last_update": "",
+        "status": "missing",
+        "last_update": "2016-04",
         "tp2": ""
     },
     {
@@ -12236,7 +12237,7 @@
             "EET"
         ],
         "authors": [
-            "GraionDilach",
+            "Graion Dilach",
             "Within Amnesia"
         ],
         "team": [],
@@ -21961,7 +21962,7 @@
     },
     {
         "name": "Mortis Mini Mod / The Forgotten Children",
-        "description": "Ce mod ajoute deux magasins (l'un dans le donjon d'Irenicus derrière la cellule de Jaheira et l'autre dans les ruines de l'ombre - temple d'Amaunator) qui vendent des potions vous permettant de vous transformer en diverses créatures : limon, vampire, minotaure, spectateur... C'est un mod ténébreux basé sur les morts-vivants, les liches, etc.|Il existe une version obsolète sur <a href=\"http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=154\">TeamBG</a>.",
+        "description": "Ce mod ajoute deux magasins (l'un dans le donjon d'Irenicus derrière la cellule de Jaheira et l'autre dans les ruines de l'ombre - temple d'Amaunator) qui vendent des potions vous permettant de vous transformer en diverses créatures : limon, vampire, minotaure, spectateur... C'est un mod ténébreux basé sur les morts-vivants, les liches, etc.",
         "urls": [
             "http://www.shsforums.net/files/file/145-mortis/",
             "https://www.mediafire.com/file/zieaqnbzkykd15y/Mortis_Mini_Mod_2.34.zip/file"
@@ -21981,9 +21982,9 @@
             "BohemianReader"
         ],
         "notes": [
-            "Pour installer le mod sur un jeu EE, utilisez le second lien."
+            "Pour installer le mod sur un jeu EE, utilisez le second lien. Il semble très buggé sur ces versions, à installer en connaissance de cause."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": true,
         "safe": null,
         "languages": [],
@@ -26189,7 +26190,7 @@
             "IWDEE"
         ],
         "authors": [
-            "GraionDilach"
+            "Graion Dilach"
         ],
         "team": [
             "JohnBob"
@@ -26740,7 +26741,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2020-09",
         "tp2": ""
     },
     {
@@ -36335,31 +36336,36 @@
     },
     {
         "name": "Vecna",
-        "description": "Quelque chose de maléfique a émergé du Plan astral, d'anciennes puissances sombres se regroupent pour revire. El même les divinités maléfiques tremblent... Aurez vous la volonté et la puissance de vous impliquer sans finir en poussière ?|Ce mod propose 38 nouvelles zones, de nombreux nouveaux monstres et de nouvelles animations. Comme son écriture laissait à désirer, un <a href=\"http://www.shsforums.net/files/file/1095-vecna-v23-text-overhaul/\">correctif des textes</a> a été publié. Extrayez-le dans le répertoire Language du mod et écrasez les fichiers existants AVANT d'installer le mod.",
+        "description": "Quelque chose de maléfique a émergé du Plan astral, d'anciennes puissances sombres se regroupent pour revire. El même les divinités maléfiques tremblent... Aurez vous la volonté et la puissance de vous impliquer sans finir en poussière ?|Ce mod propose 38 nouvelles zones, de nombreux nouveaux monstres et de nouvelles animations. La campagne de Vecna suit les événements du module Die Vecne Die!.|Comme son écriture laissait à désirer, un <a href=\"http://www.shsforums.net/files/file/1095-vecna-v23-text-overhaul/\">correctif des textes</a> a été publié. Extrayez-le dans le répertoire Language du mod et écrasez les fichiers existants AVANT d'installer le mod.",
         "urls": [
-            "http://www.shsforums.net/files/file/880-vecna/"
+            "http://www.shsforums.net/files/file/880-vecna/",
+            "https://github.com/vecna808/vecna"
         ],
         "categories": [
             "Quête"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE"
         ],
         "authors": [
-            "jube"
+            "vecna808"
         ],
         "team": [],
         "notes": [
-            "Cependant, il est réputé bogué. À installer à vos risques et périls."
+            "Cependant, il est réputé bogué. À installer à vos risques et périls.",
+            "Choisissez le lien github pour la version EE et le lien shs pour les versions originelles."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": null,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": "2011-08",
-        "tp2": ""
+        "last_update": "2017-04",
+        "tp2": "vecna"
     },
     {
         "name": "Vedran's Lost Items",
@@ -41512,7 +41518,7 @@
             "EET"
         ],
         "authors": [
-            "GraionDilach"
+            "Graion Dilach"
         ],
         "team": [],
         "notes": [
@@ -42877,5 +42883,381 @@
         "status": true,
         "last_update": "2022-07",
         "tp2": "N/A"
+    },
+    {
+        "name": "Remove Hide in Shadows Sound Effects",
+        "description": "Ce mod retire tous les effets sonores associés à la capacité Se cacher dans l'ombre.",
+        "urls": [
+            "http://www.shsforums.net/topic/58666-remove-hide-in-shadows-sound-effects/",
+            "https://www.nexusmods.com/baldursgate/mods/47/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "ikonomov"
+        ],
+        "team": [],
+        "notes": [
+            "EE : L'auteur ne le maintient plus et il ne fonctionne pas avec le patch 2.6."
+        ],
+        "is_weidu": null,
+        "translation_state": null,
+        "safe": null,
+        "languages": [],
+        "status": true,
+        "last_update": "2022-09",
+        "tp2": ""
+    },
+    {
+        "name": "Classic Spellbook for BG:EE, SoD and BG2:EE",
+        "description": "Ce mod rétablit l'interface des livres de Mage et de Prêtre d'avant la version 2.0.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/63434/mod-classic-spellbook-for-bg-ee-sod-and-bg2-ee"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE"
+        ],
+        "authors": [
+            "Kilivitz"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": null,
+        "translation_state": null,
+        "safe": null,
+        "languages": [],
+        "status": true,
+        "last_update": "2017-02",
+        "tp2": ""
+    },
+    {
+        "name": "BG2EE GUI To BGEE",
+        "description": "Le but de ce mod est d'importer l'interface graphique de BG2EE vers BGEE avec quelques changements.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/55094/mod-bg2ee-gui-to-bgee/p1"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "SoD"
+        ],
+        "authors": [
+            "Kerozevok"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": null,
+        "translation_state": null,
+        "safe": null,
+        "languages": [],
+        "status": true,
+        "last_update": "2016-06",
+        "tp2": ""
+    },
+    {
+        "name": "Restricting Specialist's extra Spell Slots to Specialist's School Spells",
+        "description": "Ce mod vise à mettre en place des restrictions d'emplacements de sorts pour les mages spécialistes, les obligeant à choisir un sort de leur école pour leurs emplacements de sorts bonus.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/63421/restricting-specialists-extra-spell-slots-to-specialists-school-spells"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "kjeron"
+        ],
+        "team": [],
+        "notes": [
+            "Lisez bien les instructions d'installation.",
+            "Incompatible avec les interfaces proposées par lefreut."
+        ],
+        "is_weidu": null,
+        "translation_state": null,
+        "safe": null,
+        "languages": [],
+        "status": true,
+        "last_update": "2018-02",
+        "tp2": ""
+    },
+    {
+        "name": "Disable EE NPCs, EE items available in shops",
+        "description": "Ce mod permet de jouer aux versions EE sans voir les nouveaux PNJ apportés. Il apporte deux fonctionnalités :|La première rend certains nouveaux objets introduits par BG:EE disponibles dans les boutiques, de sorte que vous n'ayez pas à recruter de nouveaux PNJ pour les obtenir.|La seconde vous permet de supprimer les nouveaux PNJ EE (chaque personnage peut être sélectionné unitairement via un composant).",
+        "urls": [
+            "https://forums.beamdog.com/discussion/30322/bg-ee-mod-disable-ee-npcs-ee-items-available-in-shops"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Pecca"
+        ],
+        "team": [],
+        "notes": [
+            "Attention, la première partie n'est pas un composant Weidu et il est nécessaire d'overrider les objets et les magasins correspondants. La seconde est Weidu.",
+            "Il est désormais obsolète et a été remplacé par [[Convenient Enhanced Edition NPCs]]."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": false,
+        "languages": [],
+        "status": "obsolete",
+        "last_update": "2014-08",
+        "tp2": "ee_content_tweaks"
+    },
+    {
+        "name": "Convenient Enhanced Edition NPCs",
+        "description": "Les nouveaux PNJ introduits dans les EE diffèrent quelque peu de la distribution originale et peuvent ne pas être du goût de tout le monde. Ce mod propose un certain nombre d'options pour les adapter à votre niveau de confort. Vous pouvez rendre leur première apparition plus passive, ce qui vous donne plus de contrôle sur le moment et l'opportunité d'établir le premier contact. Un petit nombre d'événements seront légèrement modifiés pour rendre cela possible. Il est également possible de supprimer un ou plusieurs PNJ du jeu. Dans ce cas, vous avez la possibilité de rendre leurs objets personnels ou liés aux quêtes accessibles à tous dans les magasins ou sous forme de butin.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/43074/mod-disable-enhanced-edition-npcs-for-bg-ee-bg2-ee"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Argent77"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "2021-01",
+        "tp2": ""
+    },
+    {
+        "name": "misc_ex",
+        "description": "Fournit de nombreuses options pour améliorer la difficulté du jeu, à associer de préférence avec [[Sword Coast Stratagems]], en plus de nombreuses corrections de bugs et d'améliorations générales de l'IA. En outre, de nombreux bugs ont été corrigés et l'IA a été améliorée : Changements dans les sorts d'arcanes/divins, objets révisés, HLAs révisés plus tôt, changements généraux dans les tables (connaissance, réputation, etc), invocations réactives, sauvegardes LoB corrigées, enchantements d'armes à distance, et bien d'autres choses encore.",
+        "urls": [
+            "https://github.com/qvni/misc_ex-v1"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "auiwqi"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2020-11",
+        "tp2": "misc_ex"
+    },
+    {
+        "name": "BGEE Bag Sort",
+        "description": "L'objectif de cet outil est de décompresser/parser un fichier de sauvegarde de jeu (.sav), de réorganiser les objets d'un sac de contenance (ressource .sto) et de recompresser le tout dans un fichier de jeu .sav valide.",
+        "urls": [
+            "https://github.com/ahungry/bgee-bag-sort"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "ahungry"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": null,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2022-01",
+        "tp2": "N/A"
+    },
+    {
+        "name": "ZSTweaks",
+        "description": "Ce mod est une compilation de tweaks qui, selon l'auteur, améliorent les choses telles qu'elles sont dans le jeu vanilla. La grande majorité des tweaks sont conçus pour être de simples améliorations d'objets ou de capacités sous-puissants. Certains d'entre eux modifient le jeu un peu plus en profondeur, mais pas de façon radicale.",
+        "urls": [
+            "https://github.com/szaumoor/ZSTweaks"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "RoyalProtector"
+        ],
+        "team": [],
+        "notes": [
+            "La plupart des composants ne sont pas disponibles sur IWDEE."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-09",
+        "tp2": "ZSTweaks"
+    },
+    {
+        "name": "ZS_StartingGear",
+        "description": "Ce mod introduit un équipement de départ qui dépend de la classe ou du kit de CHARNAME, ainsi que de ses compétences initiales spécifiques.",
+        "urls": [
+            "https://github.com/szaumoor/ZS_StartingGear"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "RoyalProtector"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-08",
+        "tp2": "ZS_StartingGear"
+    },
+    {
+        "name": "Random Graion Magic",
+        "description": "Ce mod propose diverses améliorations des sorts par Graion Dilach pour les jeux sur l'Infinity Engine.",
+        "urls": [
+            "https://github.com/GraionDilach/RandomGraionMagic"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "Graion Dilach"
+        ],
+        "team": [],
+        "notes": [
+            "Sauf mention spéciale, les composants ne sont pas compatibles avec [[Spell Revisions Revised]]."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-02",
+        "tp2": "zgmagic"
+    },
+    {
+        "name": "Evermemory for BG2EE",
+        "description": "Ce mod introduit l'Anneau des arcanes dans BG2EE dans le magasin de Ribald, celui-ci permet de doubler le nombre d'emplacements des sorts de niveau 1 du mage qui le porte.",
+        "urls": [
+            "https://github.com/GraionDilach/zgbg2evermemory"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Graion Dilach"
+        ],
+        "team": [],
+        "notes": [
+            "Le repo est en read-only depuis Mars 2024."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-02",
+        "tp2": "zgbg2evermemory"
+    },
+    {
+        "name": "EECustom",
+        "description": "Ce mod apporte quelques composants, il monte la limite de niveau à 50, augmente le niveau d'apprentissage de sort maximal des bardes (jusqu'au niveau 8), entassement des objets à l'infini…",
+        "urls": [
+            "https://github.com/hybridgame/EECustom"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "HybridGame"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2019-10",
+        "tp2": "EECustom"
     }
 ]
