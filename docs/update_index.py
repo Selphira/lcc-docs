@@ -41,5 +41,7 @@ if __name__ == "__main__":
     env = Environment(
         loader=PackageLoader("src", "templates"),
         autoescape=select_autoescape(["html"]),
+        trim_blocks=True,  # Supprime les retours à la ligne après un bloc Jinja
+        lstrip_blocks=True,  # Supprime les espaces avant un bloc Jinja
     )
     main(env)
