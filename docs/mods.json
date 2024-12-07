@@ -1,7 +1,7 @@
 [
     {
         "name": "\"Don't Delete my gear\" script",
-        "description": "Ce mod permet au personnage de conserver son équipement au début de la partie.",
+        "description": "Ce mod permet au personnage de conserver son équipement et son or au début de la partie.",
         "urls": [
             "https://forums.beamdog.com/discussion/32192/dont-delete-my-gear-script-mod-that-will-keep-all-your-stuff-at-start"
         ],
@@ -11,18 +11,18 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "Attention : il remplace purement et simplement le script de la zone de départ ! Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+        "authors": [
+            "AendaeronBluescale"
         ],
-        "is_weidu": null,
-        "translation_state": false,
+        "team": [],
+        "notes": [],
+        "is_weidu": false,
+        "translation_state": null,
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2014-05",
+        "tp2": "non-weidu"
     },
     {
         "name": "3.5 Edition / Pathfinder style Tweaks Collection",
@@ -40,7 +40,9 @@
             "SoD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Reddbane"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -48,7 +50,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2019-03",
         "tp2": ""
     },
     {
@@ -515,7 +517,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "elminster"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -523,7 +527,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2019-12",
         "tp2": "non-weidu"
     },
     {
@@ -1344,7 +1348,7 @@
             "EET"
         ],
         "authors": [
-            "Berelinde",
+            "berelinde",
             "jastey"
         ],
         "team": [
@@ -1926,7 +1930,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "AionZ"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
@@ -1936,7 +1942,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-12",
         "tp2": ""
     },
     {
@@ -1994,7 +2000,7 @@
             "ru"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2022-08",
         "tp2": "arcane-treasury-mod"
     },
     {
@@ -3033,7 +3039,7 @@
             "fr"
         ],
         "status": true,
-        "last_update": "2024-11",
+        "last_update": "2024-12",
         "tp2": "autorest"
     },
     {
@@ -3076,7 +3082,9 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Keneth"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -3084,7 +3092,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-09",
         "tp2": ""
     },
     {
@@ -3155,7 +3163,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "berelinde"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -3163,7 +3173,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-01",
         "tp2": ""
     },
     {
@@ -3214,7 +3224,7 @@
         ],
         "authors": [
             "jastey",
-            "Berelinde",
+            "berelinde",
             "Kulyok",
             "Lava Del'Vortel",
             "Thimblerig",
@@ -3971,7 +3981,9 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Kerozevok"
+        ],
         "team": [],
         "notes": [
             "Nécessite Siege of Dragonspear."
@@ -3981,7 +3993,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-06",
         "tp2": ""
     },
     {
@@ -4050,17 +4062,17 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "Attention : La dernière mise à jour fonctionne avec SoD 2.1.63.2. Il n'est pas certain que ce mod fonctionne avec les derniers patches."
+        "authors": [
+            "Reddbane"
         ],
+        "team": [],
+        "notes": [],
         "is_weidu": null,
         "translation_state": null,
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2019-03",
         "tp2": ""
     },
     {
@@ -4176,10 +4188,10 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-09",
         "tp2": "S9BGEENPCTweaks"
     },
     {
@@ -4518,14 +4530,16 @@
             "https://forums.beamdog.com/discussion/23403/fix-balas-axe-wizard-slayer-now-dispels-magic-1-day"
         ],
         "categories": [
-            "Sort et objet"
+            "Patch non officiel"
         ],
         "games": [
             "BGEE",
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Mortianna"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -4533,8 +4547,8 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2016-01",
+        "tp2": "non-weidu"
     },
     {
         "name": "Baldur's Gate 2 SoA Item Import [BG2SoA]",
@@ -5340,18 +5354,18 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "Il s'agit d'un mod override qui demande la modification du fichier UI.menu."
+        "authors": [
+            "Adul"
         ],
+        "team": [],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2018-09",
+        "tp2": "non-weidu"
     },
     {
         "name": "Better Spell visual",
@@ -5400,15 +5414,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "semiticgod"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-01",
         "tp2": ""
     },
     {
@@ -5949,8 +5965,8 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2016-04",
+        "tp2": "non-weidu"
     },
     {
         "name": "Brage's Penance",
@@ -6186,7 +6202,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "SpaceInvader"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -6194,8 +6212,8 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2014-01",
+        "tp2": "non-weidu"
     },
     {
         "name": "Bristlelick, the gnoll companion for BG:EE",
@@ -6335,14 +6353,14 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-03",
         "tp2": ""
     },
     {
         "name": "Bubb's Spell Menu",
         "description": "Ce mod remplace la barre de sélection rapide des sorts par une version bien plus ergonomique qui permet de trier les sorts en fonction de leur nom, de leur type et de leur niveau.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68958/mod-bubbs-spell-menu-update-v3-0",
+            "https://forums.beamdog.com/discussion/68958/mod-bubbs-spell-menu",
             "https://github.com/Bubb13/Bubbs-Spell-Menu-Normal"
         ],
         "categories": [
@@ -6374,7 +6392,7 @@
         "name": "Bubb's Spell Menu (Extended)",
         "description": "Si la vue des sorts en liste de la version normale de ce mod ne vous plaît pas, cette version pourrait bien vous plaire. Elle émule les emplacements de la sélection de sorts par défaut et les organise de telle sorte que tous les sorts soient visibles en même temps.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68958/mod-bubbs-spell-menu-v5-0-3",
+            "https://forums.beamdog.com/discussion/68958/mod-bubbs-spell-menu",
             "https://github.com/Bubb13/Bubbs-Spell-Menu-Extended"
         ],
         "categories": [
@@ -6440,7 +6458,9 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "DarkDogg"
+        ],
         "team": [],
         "notes": [
             "Attention : la qualité de ce mod laisse à désirer et sa procédure d'installation est pour le moins spéciale. Comme de plus il écrase des fichiers du jeu, évitez-le ou installez-le à vos risques et périls"
@@ -6450,7 +6470,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2015-02",
         "tp2": ""
     },
     {
@@ -6525,15 +6545,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "zupsky"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2014-11",
         "tp2": ""
     },
     {
@@ -6732,7 +6754,9 @@
             "PST",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "DJKajuru"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -6740,7 +6764,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2017-04",
         "tp2": ""
     },
     {
@@ -6757,7 +6781,9 @@
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "fortyseven"
+        ],
         "team": [],
         "notes": [
             "Attention : Ce mod écrase des fichiers .are."
@@ -6767,7 +6793,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-05",
         "tp2": ""
     },
     {
@@ -7466,7 +7492,9 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "tommy"
+        ],
         "team": [],
         "notes": [
             "De l'avis même de son auteur : `For safety, save the game before you enter the area where the joinable is waiting`..."
@@ -7476,7 +7504,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2013-03",
         "tp2": "non-weidu"
     },
     {
@@ -7516,7 +7544,9 @@
             "BG2",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Eltnot"
+        ],
         "team": [],
         "notes": [
             "Préférez-lui l'un des composants de [[The Tweaks Anthology]]."
@@ -7526,8 +7556,8 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2015-03",
+        "tp2": "non-weidu"
     },
     {
         "name": "Cloak of the Shield upgrade",
@@ -7711,7 +7741,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Abdel_Adrian"
+        ],
         "team": [],
         "notes": [
             "Il est obsolète depuis qu'il a été inclus dans le mod [[Eldricht Magic]]."
@@ -7720,8 +7752,8 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2017-07",
         "tp2": ""
     },
     {
@@ -7739,7 +7771,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Gotural"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -7747,7 +7781,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-02",
         "tp2": ""
     },
     {
@@ -7831,7 +7865,7 @@
             "EET"
         ],
         "authors": [
-            ""
+            "smeagolheart"
         ],
         "team": [],
         "notes": [],
@@ -7839,8 +7873,8 @@
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2016-05",
         "tp2": ""
     },
     {
@@ -8414,7 +8448,7 @@
         "authors": [
             "Grim Squeaker",
             "K'aeloree",
-            "Berelinde"
+            "berelinde"
         ],
         "team": [],
         "notes": [],
@@ -8812,7 +8846,7 @@
     },
     {
         "name": "Damian Soundset (BG:EE/BG2:EE/IWD:EE)",
-        "description": "Pack de voix (en anglais) pour un guerrier ayant une tendance à dramatiser les chose, tiré du visual novel Requiescence.",
+        "description": "Pack de voix (en anglais) pour un guerrier ayant une tendance à dramatiser les choses, tiré du visual novel Requiescence.",
         "urls": [
             "https://forums.beamdog.com/discussion/61522/damian-soundset-bgee-bg2ee-iwdee"
         ],
@@ -8824,17 +8858,19 @@
             "BG2EE",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "amyae"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [
             "en"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-09",
         "tp2": ""
     },
     {
@@ -9159,15 +9195,17 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "CrevsDaak"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-05",
         "tp2": ""
     },
     {
@@ -9334,10 +9372,10 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-05",
         "tp2": "delainy"
     },
     {
@@ -9548,7 +9586,9 @@
             "SoD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "hanhwisoo"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, la qualité de ce mod laisse à désirer. À installer à vos risques et périls."
@@ -9558,7 +9598,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2021-01",
         "tp2": ""
     },
     {
@@ -9616,7 +9656,9 @@
             "PST",
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Borsook"
+        ],
         "team": [],
         "notes": [
             "Si ce mod est sensé être compatible avec tous les jeux IE, certains composants ne sont pas disponibles pour certains jeux.",
@@ -9942,15 +9984,17 @@
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Tresset"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": null,
-        "safe": null,
+        "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2015-10",
         "tp2": ""
     },
     {
@@ -10011,7 +10055,7 @@
             "en"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2022-03",
         "tp2": "dorn"
     },
     {
@@ -10125,10 +10169,10 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2014-05",
         "tp2": ""
     },
     {
@@ -10324,7 +10368,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2013-02",
         "tp2": "non-weidu"
     },
     {
@@ -10433,7 +10477,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "2018-03",
+        "last_update": "2018-09",
         "tp2": "DruidGroveMakeover"
     },
     {
@@ -10661,15 +10705,17 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "kensai"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2014-11",
         "tp2": ""
     },
     {
@@ -10732,7 +10778,6 @@
             "https://forums.beamdog.com/discussion/68767/kit-mod-dwarven-defender-rebalancing/p1"
         ],
         "categories": [
-            "Kit",
             "Gameplay"
         ],
         "games": [
@@ -10742,15 +10787,17 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Arctodus"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-02",
         "tp2": ""
     },
     {
@@ -10776,10 +10823,10 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-04",
         "tp2": "N/A"
     },
     {
@@ -10923,7 +10970,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2024-03",
         "tp2": "EEex"
     },
     {
@@ -11126,7 +11173,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Edvin"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -11134,7 +11183,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-01",
         "tp2": ""
     },
     {
@@ -11282,11 +11331,11 @@
             "SoD",
             "IWDEE"
         ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "Attention : ce mod n'est plus maintenu et est probablement incompatible avec les derniers patches du jeu."
+        "authors": [
+            "Abdel_Adrian"
         ],
+        "team": [],
+        "notes": [],
         "is_weidu": true,
         "translation_state": false,
         "safe": false,
@@ -11294,7 +11343,7 @@
             "en"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2017-02",
         "tp2": "eldritch_magic"
     },
     {
@@ -11394,8 +11443,7 @@
             "https://github.com/Skitia/Emily-BG1"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Kit"
+            "PNJ recrutable"
         ],
         "games": [
             "BGEE",
@@ -11807,7 +11855,7 @@
             "en"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-06",
         "tp2": "EpicThieving"
     },
     {
@@ -12045,7 +12093,7 @@
     },
     {
         "name": "Expanded Classes and Kits",
-        "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[War Hulk Kit]], [[Universal Archer Kit]], Shapeshifter, Psionicist, Sword Dancer.|- Paladins : [[Universal Archer Kit]], Kensai.|- Moines : Kensai, Stalker, Assassin, Psionicist, Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[Alchemist kit for mages]], [[Red soul and Green soul Kits]], Plasma Wizard, War Mage.|- Sorciers : [[Red soul and Green soul Kits]].|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : [[Seducer Kit for Thieves]], [[Universal Archer Kit]], Kensai, Shapechanger.|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief.",
+        "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[War Hulk Kit]], [[Universal Archer]], Shapeshifter, Psionicist, Sword Dancer.|- Paladins : [[Universal Archer]], Kensai.|- Moines : Kensai, Stalker, Assassin, Psionicist, Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[Alchemist kit for mages]], [[Red soul and Green soul Kits]], Plasma Wizard, War Mage.|- Sorciers : [[Red soul and Green soul Kits]].|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : [[Seducer Kit for Thieves]], [[Universal Archer]], Kensai, Shapechanger.|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief.",
         "urls": [
             "https://forums.beamdog.com/discussion/77859/expanded-classes-and-kits-massive-kit-compilation-mod",
             "https://github.com/Endarire/SemiticsExpandedClasses"
@@ -12154,7 +12202,9 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "leeho730"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -12162,7 +12212,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2013-11",
         "tp2": ""
     },
     {
@@ -12284,10 +12334,10 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-04",
         "tp2": ""
     },
     {
@@ -12348,7 +12398,7 @@
             "EET"
         ],
         "authors": [
-            "Berelinde",
+            "berelinde",
             "jastey"
         ],
         "team": [
@@ -12705,15 +12755,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "dib"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2017-04",
         "tp2": ""
     },
     {
@@ -13851,14 +13903,18 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [],
-        "is_weidu": null,
+        "notes": [
+            "Bien que le mod soit compatible WeiDU, il s'agit d'un mod override."
+        ],
+        "is_weidu": true,
         "translation_state": false,
-        "safe": true,
-        "languages": [],
+        "safe": false,
+        "languages": [
+            "en"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2014-07",
+        "tp2": "gesenlb"
     },
     {
         "name": "Getting Rid of Anomen",
@@ -14398,7 +14454,7 @@
             "EET"
         ],
         "authors": [
-            "Berelinde",
+            "berelinde",
             "CamDawg"
         ],
         "team": [],
@@ -14635,14 +14691,16 @@
             "EET"
         ],
         "authors": [],
-        "team": [],
+        "team": [
+            "Abel"
+        ],
         "notes": [],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2014-02",
         "tp2": ""
     },
     {
@@ -14748,7 +14806,9 @@
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Jackkel Dragon"
+        ],
         "team": [],
         "notes": [
             "Attention : Toujours en version beta, ce mod a une procédure d'installation pour le moins bizarre..."
@@ -14756,9 +14816,11 @@
         "is_weidu": true,
         "translation_state": false,
         "safe": null,
-        "languages": [],
-        "status": true,
-        "last_update": "",
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2018-03",
         "tp2": "helarine_bgee"
     },
     {
@@ -15075,7 +15137,7 @@
     },
     {
         "name": "High Level Abilities as Innate Abilities",
-        "description": "",
+        "description": "Ce mini mod transforme les HLA des mages et des prêtres en capacités innées, libérant ainsi la barre des sorts d'emplacements pour des sorts de niveau 7 ou 9.",
         "urls": [
             "https://forums.beamdog.com/discussion/34002/high-level-abilities-as-innate-abilities"
         ],
@@ -15085,7 +15147,9 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "comport9"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -15093,7 +15157,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2014-08",
         "tp2": ""
     },
     {
@@ -15442,7 +15506,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "sffrrrom"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -15450,7 +15516,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2015-10",
         "tp2": ""
     },
     {
@@ -15606,7 +15672,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Grammarsalad"
+        ],
         "team": [],
         "notes": [
             "À moins d'avoir une bonne raison d'installer ce mod, préférez-lui le composant de [[Sword Coast Stratagems]] ou le mod [[IWDification]] qui sont activement maintenus et traduits en français !"
@@ -15615,8 +15683,8 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2018-09",
         "tp2": ""
     },
     {
@@ -15642,7 +15710,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2020-06",
         "tp2": ""
     },
     {
@@ -16537,7 +16605,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Tresset"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -16545,7 +16615,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-08",
         "tp2": ""
     },
     {
@@ -16560,15 +16630,17 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "geminibruni"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2015-05",
         "tp2": ""
     },
     {
@@ -16636,7 +16708,7 @@
             "ru"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-01",
         "tp2": "BetterHOF"
     },
     {
@@ -16696,7 +16768,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "CruelIntentions"
+        ],
         "team": [],
         "notes": [
             "Il est désormais obsolète et a été intégré comme composant `Augmenter la vitesse de déplacement du groupe en dehors des combats` du mod [[The Tweaks Anthology]]."
@@ -16705,8 +16779,8 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2018-08",
         "tp2": ""
     },
     {
@@ -17503,7 +17577,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "DregothofTyr"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -17511,8 +17587,8 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2015-10",
+        "tp2": "non-weidu"
     },
     {
         "name": "Iylos NPC",
@@ -17866,7 +17942,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Emeus"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -17874,7 +17952,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2015-03",
         "tp2": ""
     },
     {
@@ -18046,7 +18124,9 @@
         "games": [
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "smeagolheart"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -18054,7 +18134,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2017-07",
         "tp2": "non-weidu"
     },
     {
@@ -18072,7 +18152,9 @@
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Kurumi"
+        ],
         "team": [],
         "notes": [
             "Préférez-lui le composant `Options de jumelage étendues` de [[The Tweaks Anthology]]."
@@ -18082,7 +18164,7 @@
         "safe": false,
         "languages": [],
         "status": "obsolete",
-        "last_update": "",
+        "last_update": "2013-11",
         "tp2": "non-weidu"
     },
     {
@@ -18284,7 +18366,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "SpaceInvader"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -18292,8 +18376,8 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2016-04",
+        "tp2": "non-weidu"
     },
     {
         "name": "Kelsey NPC MOD for Baldur’s Gate 2",
@@ -20019,15 +20103,17 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "zupsky"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-04",
         "tp2": ""
     },
     {
@@ -20776,10 +20862,10 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2013-03",
         "tp2": "margarita"
     },
     {
@@ -20861,7 +20947,7 @@
         "tp2": ""
     },
     {
-        "name": "Menace sur le Royaume de Diamant Éternel (WIP)",
+        "name": "Menace sur le Royaume de Diamant Éternel",
         "description": "Vous avez tous adoré Excalibur, mais vous êtes-vous jamais demandé pourquoi les seules femmes présentes y sont nuisibles ? Guenièvre l'adultère, Morgane la méchante... Pourquoi les Ordres de Paladins ne comportent-ils que des hommes ? Et si tout ceci n'était qu'une fable racontée par les hommes pour dissimuler la vérité ?|Ce mod tente de rétablir la vérité, du moins SA VÉRITÉ... L'aventure se situe dans une autre dimension, dans le Royaume de Diamant Éternel, dirigé par une famille de paladins que tente de renverser une paladine renégate. Cette dernière a passé un pacte plutôt spécial avec des \"forces\" pour le moins particulières... La richesse du Royaume provient de ses mines et sa puissance de la protection que lui a toujours accordée Diamantor, le (\"Demi-\" ?) Dieu Dragon d'Argent. Il s'agira ici de combattre - entre autres - des Dragons et de leur redonner toute leur place et bon nombre de leurs pouvoirs de destruction...|Développé sur notre site, ce mod est toujours en phase de construction. Les deux premiers chapitres devraient parâitre dans le courant de l'année.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/menace-sur-le-royaume-de-diamant-eternel/"
@@ -21451,7 +21537,9 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Abel"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -21459,7 +21547,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2019-12",
         "tp2": ""
     },
     {
@@ -21614,15 +21702,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "AncientCowboy"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-07",
         "tp2": ""
     },
     {
@@ -22055,7 +22145,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2013-03",
         "tp2": "non-weidu"
     },
     {
@@ -22298,7 +22388,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "AionZ"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
@@ -22308,7 +22400,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-12",
         "tp2": ""
     },
     {
@@ -22389,7 +22481,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "DymeDef"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -22397,7 +22491,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2019-06",
         "tp2": ""
     },
     {
@@ -23173,17 +23267,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "Attention : il ne doit pas être compatible avec les derniers patches du jeu."
+        "authors": [
+            "Greener"
         ],
+        "team": [],
+        "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2014-03",
         "tp2": ""
     },
     {
@@ -23202,19 +23296,21 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "silversnuff"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2015-09",
         "tp2": ""
     },
     {
-        "name": "Ninja-To Violet universel (O)",
+        "name": "Usable Scarlet-Ninja To",
         "description": "Ce mini mod rend le Ninja-to violet +3 utilisable par tout le monde.",
         "urls": [
             "https://forums.beamdog.com/discussion/45241/file-usable-scarlet-ninja-to-3/p1"
@@ -23226,7 +23322,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Ferozban"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -23234,8 +23332,8 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2015-12",
+        "tp2": "non-weidu"
     },
     {
         "name": "No Battle Music",
@@ -23321,7 +23419,7 @@
         "safe": false,
         "languages": [],
         "status": "obsolete",
-        "last_update": "",
+        "last_update": "2017-01",
         "tp2": ""
     },
     {
@@ -23579,7 +23677,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-05",
         "tp2": "MESpells"
     },
     {
@@ -24052,16 +24150,18 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Amioran"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
         "translation_state": null,
-        "safe": null,
+        "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2015-01",
+        "tp2": "non-weidu"
     },
     {
         "name": "P5Tweaks",
@@ -24383,12 +24483,12 @@
         "notes": [],
         "is_weidu": null,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": [
             "fr"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-11",
         "tp2": ""
     },
     {
@@ -24681,17 +24781,19 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Noobrzor"
+        ],
         "team": [],
         "notes": [
             "Il nécessite d'entrer des codes avec la console pour en bénéficier."
         ],
         "is_weidu": false,
         "translation_state": null,
-        "safe": null,
+        "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2015-03",
         "tp2": "non-weidu"
     },
     {
@@ -24717,7 +24819,7 @@
         "safe": false,
         "languages": [],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2016-04",
         "tp2": ""
     },
     {
@@ -25442,7 +25544,9 @@
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Mr2150"
+        ],
         "team": [
             "Isaya"
         ],
@@ -25454,7 +25558,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-06",
         "tp2": ""
     },
     {
@@ -25665,7 +25769,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "wolpak"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -25673,7 +25779,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2014-02",
         "tp2": "non-weidu"
     },
     {
@@ -26238,15 +26344,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Vortaka"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-04",
         "tp2": ""
     },
     {
@@ -26684,7 +26792,9 @@
             "IWD",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Tresset"
+        ],
         "team": [],
         "notes": [
             "Comme ce mod modifie TOUS les équipements d'armure, de casque et de bouclier dans le jeu, y compris ceux portés par les PNJ, il causera probablement des changements visuels notables aux créatures/PNJ.",
@@ -26695,7 +26805,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2020-12",
         "tp2": ""
     },
     {
@@ -26805,7 +26915,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Allbrother"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -26813,7 +26925,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-09",
         "tp2": ""
     },
     {
@@ -27172,15 +27284,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Kilivitz"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2017-05",
         "tp2": ""
     },
     {
@@ -27222,7 +27336,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Edvin"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -27230,7 +27346,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2021-07",
         "tp2": "non-weidu"
     },
     {
@@ -27612,17 +27728,19 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "semiticgod"
+        ],
         "team": [],
         "notes": [
             "Il nécessite d'utiliser un code console pour créer la potion..."
         ],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-01",
         "tp2": ""
     },
     {
@@ -27895,15 +28013,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "AionZ"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2017-08",
         "tp2": ""
     },
     {
@@ -27921,15 +28041,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "tRuffus"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-04",
         "tp2": ""
     },
     {
@@ -28023,6 +28145,7 @@
             "EET"
         ],
         "authors": [
+            "Greener",
             "Maurolava"
         ],
         "team": [],
@@ -28034,7 +28157,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-11",
         "tp2": ""
     },
     {
@@ -28210,17 +28333,19 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "AionZ"
+        ],
         "team": [],
         "notes": [
             "BUG : Lorsqu'il lance des sorts, Sarevok peut occasionnellement se tourner légèrement dans la mauvaise direction. C'est assez mineur et cela n'arrive pas souvent."
         ],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2017-08",
         "tp2": ""
     },
     {
@@ -29363,7 +29488,9 @@
         "games": [
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "mlnevese"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -29371,7 +29498,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-04",
         "tp2": "non-weidu"
     },
     {
@@ -29694,7 +29821,9 @@
             "BGEE",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "semiticgod"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
@@ -29702,7 +29831,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2021-02",
         "tp2": ""
     },
     {
@@ -29811,17 +29940,19 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Adul"
+        ],
         "team": [],
         "notes": [
             "Attention : Malheureusement, ce mod ne s'installe pas, mais nécessite de recopier de longues lignes de code dans le fichier UI.menu. À réserver aux utilisateurs avertis."
         ],
         "is_weidu": false,
         "translation_state": null,
-        "safe": null,
+        "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-09",
         "tp2": ""
     },
     {
@@ -30482,16 +30613,18 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Mortianna"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2015-03",
+        "tp2": "StaffOfWithering"
     },
     {
         "name": "Start to Finish",
@@ -30630,12 +30763,12 @@
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [
             "en"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2017-09",
         "tp2": "StormCaller"
     },
     {
@@ -30650,15 +30783,17 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "ManiacalFreak"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": null,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2015-03",
         "tp2": ""
     },
     {
@@ -31131,15 +31266,17 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "shadowlich"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-11",
         "tp2": ""
     },
     {
@@ -31318,7 +31455,7 @@
             "en"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2024-08",
         "tp2": "karatur"
     },
     {
@@ -31386,7 +31523,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Musigny"
+        ],
         "team": [
             "Ly Meng",
             "Archange de la Redemption",
@@ -31399,10 +31538,10 @@
         ],
         "is_weidu": null,
         "translation_state": true,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2016-02",
         "tp2": ""
     },
     {
@@ -32069,7 +32208,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-08",
         "tp2": "tenyathermidor"
     },
     {
@@ -34013,7 +34152,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "elminster"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -34021,7 +34162,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2014-11",
         "tp2": "non-weidu"
     },
     {
@@ -34207,7 +34348,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Corsymyr"
+        ],
         "team": [],
         "notes": [
             "Le fichier a disparu !"
@@ -34217,7 +34360,7 @@
         "safe": null,
         "languages": [],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2013-02",
         "tp2": ""
     },
     {
@@ -34626,7 +34769,7 @@
         "safe": null,
         "languages": [],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2016-11",
         "tp2": ""
     },
     {
@@ -34809,7 +34952,9 @@
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Tresset"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -34817,7 +34962,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-04",
         "tp2": "non-weidu"
     },
     {
@@ -34833,7 +34978,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Tresset"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -34841,7 +34988,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2014-07",
         "tp2": ""
     },
     {
@@ -34979,7 +35126,7 @@
             "EET"
         ],
         "authors": [
-            "TheArtisan"
+            "AionZ"
         ],
         "team": [],
         "notes": [
@@ -34990,7 +35137,7 @@
         "safe": false,
         "languages": [],
         "status": "embed",
-        "last_update": "",
+        "last_update": "2018-08",
         "tp2": ""
     },
     {
@@ -35599,7 +35746,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Raduziel"
+        ],
         "team": [],
         "notes": [
             "Il est obsolète depuis qu'il a été inclus dans le mod [[I Hate Undead Kitpack]] du même auteur."
@@ -35609,7 +35758,7 @@
         "safe": false,
         "languages": [],
         "status": "embed",
-        "last_update": "",
+        "last_update": "2017-07",
         "tp2": ""
     },
     {
@@ -35689,7 +35838,9 @@
         "games": [
             "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "aquadrizzt"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
@@ -35817,18 +35968,20 @@
             "BGEE",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Adul"
+        ],
         "team": [],
         "notes": [
             "Attention : Malheureusement, ce mod ne s'installe pas, mais nécessite de recopier de longues lignes de code dans le fichier UI.menu. À réserver aux utilisateurs avertis."
         ],
         "is_weidu": false,
         "translation_state": null,
-        "safe": null,
+        "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2016-06",
+        "tp2": "non-weidu"
     },
     {
         "name": "Unique Artifacts",
@@ -35900,7 +36053,7 @@
     },
     {
         "name": "Universal Archer",
-        "description": "Ce mod ajoute de nouveaux profils d'archer pour les guerriers, les paladins et les voleurs.",
+        "description": "Voici un kit d'Archer mais disponible aussi bien pour les guerriers que pour les paladins et les voleurs.|Deux différences majeures avec le kit de rôdeur :|Le bonus de dégâts continuent à croitre au-delà du niveau 18 (et jusqu'au niveau 50).|Les archers peuvent se spécialiser dans les frondes, les fléchettes, les arcs et les arbalètes.",
         "urls": [
             "https://forums.beamdog.com/discussion/68089/universal-archer-kit-v1-0-archer-kit-for-fighters-and-paladins/p1"
         ],
@@ -35914,17 +36067,20 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "semiticgod"
+        ],
         "team": [],
         "notes": [
-            "Il a été rendu obsolète par la sortie de [[Improved Archer]] d'Argent77."
+            "Ce mod est devenu obsolète depuis son intégration dans le mod [[Expanded Classes and Kits]].",
+            "Peut être remplacé par [[Improved Archer]] d'Argent77."
         ],
-        "is_weidu": null,
+        "is_weidu": true,
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2019-05",
         "tp2": ""
     },
     {
@@ -35967,16 +36123,18 @@
             "BG2EE",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Igneos_Eructid"
+        ],
         "team": [],
         "notes": [],
-        "is_weidu": null,
+        "is_weidu": false,
         "translation_state": null,
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2019-07",
+        "tp2": "non-weidu"
     },
     {
         "name": "Unlimited Pixel Works",
@@ -36032,7 +36190,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2021-07",
         "tp2": "Unofficial Item Pack"
     },
     {
@@ -36066,20 +36224,22 @@
             "https://forums.beamdog.com/discussion/29328/upgradable-dakkons-blade/p1"
         ],
         "categories": [
-            "Sort et objet"
+            "Quête"
         ],
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Meteo"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2014-01",
         "tp2": "dakkon"
     },
     {
@@ -36144,7 +36304,9 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Troodon80"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -36152,7 +36314,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2013-11",
         "tp2": ""
     },
     {
@@ -36531,7 +36693,7 @@
             "en"
         ],
         "status": true,
-        "last_update": "",
+        "last_update": "2022-10",
         "tp2": "Vienxay"
     },
     {
@@ -36841,7 +37003,7 @@
             "SoD"
         ],
         "authors": [
-            "Mortiana"
+            "Mortianna"
         ],
         "team": [],
         "notes": [],
@@ -36882,8 +37044,8 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2019-07",
         "tp2": ""
     },
     {
@@ -36902,7 +37064,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "AionZ"
+        ],
         "team": [],
         "notes": [
             "Attention : il est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
@@ -36911,8 +37075,8 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2018-12",
         "tp2": ""
     },
     {
@@ -36960,15 +37124,17 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Arunsun"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-02",
         "tp2": ""
     },
     {
@@ -36984,15 +37150,17 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "BCaesar"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2017-01",
         "tp2": ""
     },
     {
@@ -37100,7 +37268,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "AionZ"
+        ],
         "team": [],
         "notes": [
             "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
@@ -37109,8 +37279,8 @@
         "translation_state": false,
         "safe": false,
         "languages": [],
-        "status": true,
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2018-12",
         "tp2": ""
     },
     {
@@ -37639,15 +37809,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Arunsun"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-04",
         "tp2": ""
     },
     {
@@ -37662,7 +37834,9 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Allbrother"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, sa qualité laisse à désirer. De plus, de l'avis même de son auteur : `Don't use this, it's poorly done and may break your game`... À installer à vos risques et périls."
@@ -37672,7 +37846,7 @@
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-09",
         "tp2": ""
     },
     {
@@ -37806,15 +37980,17 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
+        "authors": [
+            "Emeus"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
         "translation_state": false,
-        "safe": null,
+        "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2013-02",
         "tp2": "non-weidu"
     },
     {
@@ -38012,15 +38188,17 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Within Amnesia"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": null,
         "translation_state": false,
-        "safe": true,
+        "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2018-12",
         "tp2": ""
     },
     {
@@ -38636,7 +38814,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-05",
         "tp2": "jtweaks"
     },
     {
@@ -38676,7 +38854,9 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Imrahil"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -39541,7 +39721,7 @@
             "EET"
         ],
         "authors": [
-            "Berelinde",
+            "berelinde",
             "Freddy_Gwendo"
         ],
         "team": [
@@ -43446,36 +43626,6 @@
         "languages": [],
         "status": "missing",
         "last_update": "2013-08",
-        "tp2": ""
-    },
-    {
-        "name": "Universal Archer Kit",
-        "description": "Voici un kit d'Archer mais disponible aussi bien pour les guerriers que pour les paladins et les voleurs.|Deux différences majeures avec le kit de rôdeur :|Le bonus de dégâts continuent à croitre au-delà du niveau 18 (et jusqu'au niveau 50).|Les archers peuvent se spécialiser dans les frondes, les fléchettes, les arcs et les arbalètes",
-        "urls": [
-            "https://forums.beamdog.com/discussion/68089/universal-archer-kit-v1-0-archer-kit-for-fighters-paladins-and-thieves"
-        ],
-        "categories": [
-            "Kit"
-        ],
-        "games": [
-            "BGEE",
-            "SoD",
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [
-            "semiticgod"
-        ],
-        "team": [],
-        "notes": [
-            "Ce mod est devenu obsolète depuis son intégration dans le mod [[Expanded Classes and Kits]]."
-        ],
-        "is_weidu": true,
-        "translation_state": false,
-        "safe": false,
-        "languages": [],
-        "status": "embed",
-        "last_update": "2019-05",
         "tp2": ""
     },
     {
