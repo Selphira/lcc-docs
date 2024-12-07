@@ -990,7 +990,7 @@
         "name": "Alchemist kit for mages",
         "description": "Ce mod ajoute un nouveau profil de mage : l'alchimiste. Il dispose de moins d'emplacements de sorts que les autres mages, mais peut créer des potions uniques très différentes de celles que l'on trouve dans les jeux originaux, ainsi que plusieurs types de grenades hautement volatiles. Ce mod ajoute 34 nouveaux objets avec des effets inédits, depuis une potion de guérison écœurante sous forme de lait de vampire jusqu'à une adorable boule de mousse qui peut ressusciter les morts, en passant par des choses plus bizarres comme des baguettes de tendon d'elfe, de la lymphe de serpent, des gouttes d'os, du nectar de sang, de l'huile de fée et des engins de guerre apocalyptiques de 100 kg. Toutes les icônes sont tirées d'Icewind Dale 2 pour leur donner un aspect unique.|L'alchimiste est un personnage de soutien unique qui peut faire une variété de choses différentes, mais obtenir le maximum de ses objets coûte des centaines d'or au début du jeu, et des milliers, voire des dizaines de milliers d'or à la fin du jeu. Mais cela en vaut la peine.",
         "urls": [
-            "https://forums.beamdog.com/discussion/63483/alchemist-kit-for-mages-v1-1/p1"
+            "https://forums.beamdog.com/discussion/63483/alchemist-kit-for-mages-v1-1"
         ],
         "categories": [
             "Kit"
@@ -1013,7 +1013,7 @@
         "safe": false,
         "languages": [],
         "status": "embed",
-        "last_update": "",
+        "last_update": "2019-05",
         "tp2": "AlchemistKit"
     },
     {
@@ -12063,9 +12063,10 @@
     },
     {
         "name": "Expanded Classes and Kits",
-        "description": "Il s'agit de la compilation des 31 profils créés par semiticgoddess :|- Guerriers : War Hulk, Archer, Shapeshifter, Psionicist, Sword Dancer.|- Paladins : Archer, Kensai.|- Moines : Kensai, Stalker, Assassin, Psionicist, Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : Alchemist, Red Soul, Green Soul, Plasma Wizard.|- Sorciers : Red Soul, Green Soul.|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : Seducer, Archer, Kensai, Shapechanger.|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief.",
+        "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[War Hulk Kit]], [[Universal Archer Kit]], Shapeshifter, Psionicist, Sword Dancer.|- Paladins : [[Universal Archer Kit]], Kensai.|- Moines : Kensai, Stalker, Assassin, Psionicist, Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[Alchemist kit for mages]], [[Red soul and Green soul Kits]], Plasma Wizard, War Mage.|- Sorciers : [[Red soul and Green soul Kits]].|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : [[Seducer Kit for Thieves]], [[Universal Archer Kit]], Kensai, Shapechanger.|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief.",
         "urls": [
-            "https://forums.beamdog.com/discussion/77859/expanded-classes-and-kits-massive-kit-compilation-mod/p1"
+            "https://forums.beamdog.com/discussion/77859/expanded-classes-and-kits-massive-kit-compilation-mod",
+            "https://github.com/Endarire/SemiticsExpandedClasses"
         ],
         "categories": [
             "Kit"
@@ -12087,7 +12088,7 @@
         "safe": true,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2023-06",
         "tp2": "expandedclasses"
     },
     {
@@ -22542,8 +22543,7 @@
             "https://www.gibberlings3.net/files/file/793-npc-kitpack/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "PNJ (autre)"
         ],
         "games": [
             "BG2",
@@ -26474,7 +26474,7 @@
         "name": "Red soul and Green soul Kits",
         "description": "Ce mod ajoute deux nouveaux profils, à la fois pour mage et pour ensorceleur. Les sorts lancés par le Red Soul infligent 50 % de dégâts supplémentaires au pris d'une durée diminuée de moitié, alors que ceux du Green Soul durent 50 % plus longtemps, mais infligent 50 % de dégâts en moins.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68705/red-soul-kit/p1"
+            "https://forums.beamdog.com/discussion/68705/red-soul-kit"
         ],
         "categories": [
             "Kit"
@@ -26486,7 +26486,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "semiticgod"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[Expanded Classes and Kits]] du même auteur."
@@ -26496,7 +26498,7 @@
         "safe": false,
         "languages": [],
         "status": "embed",
-        "last_update": "",
+        "last_update": "2018-01",
         "tp2": ""
     },
     {
@@ -28848,7 +28850,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "BronxH"
+        ],
         "team": [],
         "notes": [],
         "is_weidu": false,
@@ -28856,7 +28860,7 @@
         "safe": null,
         "languages": [],
         "status": true,
-        "last_update": "",
+        "last_update": "2013-12",
         "tp2": ""
     },
     {
@@ -38950,6 +38954,7 @@
         "name": "Weapon Oils",
         "description": "Ce petit mod propose un nouveau type d'objet les « weapon oils ». Il s'agit de potions consommables qui permettent d'appliquer un effet supplémentaire aux armes.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/38730-royalprotectors-weapon-oils-zs_weaponoils-11/",
             "https://github.com/szaumoor/ZS_WeaponOils"
         ],
         "categories": [
@@ -42393,12 +42398,14 @@
             "semiticgod"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod est devenu obsolète depuis son intégration dans le mod [[Expanded Classes and Kits]]."
+        ],
         "is_weidu": true,
         "translation_state": false,
-        "safe": true,
+        "safe": false,
         "languages": [],
-        "status": true,
+        "status": "embed",
         "last_update": "2019-01",
         "tp2": "seducerkit"
     },
@@ -43467,5 +43474,149 @@
         "status": true,
         "last_update": "2020-01",
         "tp2": "Korax_NPC"
+    },
+    {
+        "name": "Custom NPC Kits",
+        "description": "Un mod qui attribut un kit aux différents PNJ de BG1, à la [[NPC Kit Pack]] mais en assurant une distinction plus importante entre les PNJ un peu trop similaire dans le jeu. Notamment lorque certains PNJ ont des traits un peu trop proche (comme Imoen et Alora dans BG1) afin de leur donner un second souffle ou un nouvel intérêt.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/20240/mod-custom-npc-kits"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG"
+        ],
+        "authors": [
+            "aquadrizzt"
+        ],
+        "team": [],
+        "notes": [
+            "Le mod semble avoir disparu."
+        ],
+        "is_weidu": null,
+        "translation_state": false,
+        "safe": null,
+        "languages": [],
+        "status": "missing",
+        "last_update": "2013-08",
+        "tp2": ""
+    },
+    {
+        "name": "Universal Archer Kit",
+        "description": "Voici un kit d'Archer mais disponible aussi bien pour les guerriers que pour les paladins et les voleurs.|Deux différences majeures avec le kit de rôdeur :|Le bonus de dégâts continuent à croitre au-delà du niveau 18 (et jusqu'au niveau 50).|Les archers peuvent se spécialiser dans les frondes, les fléchettes, les arcs et les arbalètes",
+        "urls": [
+            "https://forums.beamdog.com/discussion/68089/universal-archer-kit-v1-0-archer-kit-for-fighters-paladins-and-thieves"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "semiticgod"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod est devenu obsolète depuis son intégration dans le mod [[Expanded Classes and Kits]]."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": false,
+        "languages": [],
+        "status": "embed",
+        "last_update": "2019-05",
+        "tp2": ""
+    },
+    {
+        "name": "ImprovedMonk",
+        "description": "Ce mod propose d'améliorer les moines kittés ou non (avec choix de composant). Il gagne de nouvelles compétences au fil des niveaux comme la capacité de soigner, d'utiliser Poussière scintillante ou Grande Malédiction, de devenir invisible… À haut niveau, ce moine peut apprendre et utiliser les compétences de Balthazar.",
+        "urls": [
+            "https://github.com/shohysie/improvedmonk"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "mirado",
+            "shohy"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": true,
+        "last_update": "2023-10",
+        "tp2": "improvedmonk"
+    },
+    {
+        "name": "PlagueWielder",
+        "description": "Un kit de mage qui utilise la maladie pour se débarrasser de ses ennemis. Il ne peut accéder qu'aux sorts des écoles d'Altération, Abjuration et Illusion. Il dispose d'un panel de sort accessible qu'à lui. Au fil des niveaux il s'immunise lui-même contre ces différents effets : maladie au niveau 5, poison au niveau 7 et absorption de niveau au niveau 10. L'effet des contaminations augmente avec le niveau du mage et est influée par la CON des cibles.",
+        "urls": [
+            "https://github.com/ZKArunsun/PlagueWielder"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Arunsun"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2021-03",
+        "tp2": "PlagueWielder"
+    },
+    {
+        "name": "Risen Soul Kit",
+        "description": "Un kit de Moine qui se charge en Ki pour attaquer ou se défendre. Il possède plusieurs styles de combat.",
+        "urls": [
+            "https://github.com/ZKArunsun/RisenSoul"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Arunsun"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2021-09",
+        "tp2": "RisenSoul"
     }
 ]
