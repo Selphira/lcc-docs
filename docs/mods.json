@@ -517,16 +517,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Malheureusement, il écrase le fichier rndtreas.2da et ne peut pas être désinstallé. Évitez-le ou installer à vos risques et périls."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": false,
         "safe": null,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Adrian NPC",
@@ -4116,9 +4114,7 @@
             "requiem22"
         ],
         "team": [],
-        "notes": [
-            "Attention : il n'a pas été mis à jour depuis le patch 1.3 : il n'est donc pas compatible avec les jeux récents."
-        ],
+        "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": false,
@@ -5143,18 +5139,18 @@
         "games": [
             "BGEE"
         ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "Ce mod n'a pas été mis à jour après le patch v1.3. Des corrections de bugs relatifs aux créatures que ce mod écrase pourraient être réintroduites par le mod. Comme en plus, c'est un mod override, nous vous conseillons de ne pas l'installer."
+        "authors": [
+            "Charan"
         ],
+        "team": [],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2013-11",
+        "tp2": "non-weidu"
     },
     {
         "name": "Battle of Helm's Deep",
@@ -7449,16 +7445,14 @@
             "Kwiat_W"
         ],
         "team": [],
-        "notes": [
-            "Attention : comme sa dernière mise à jour date du 13 décembre 2012, il est fort probable qu'il ne soit plus compatible avec les jeux bénéficiant d'un patch 1.3 et ultérieur. De plus, il s'agit d'un mod override qu'il est impossible de désinstaller. Évitez-le autant que possible."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
         "status": true,
         "last_update": "2012-12",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Classkits for NPCs",
@@ -7475,7 +7469,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Ce mod écrase les fichiers créatures du jeu et ne peut pas être désinstallé. De l'avis même de son auteur : \"<em>For safety, save the game before you enter the area where the joinable is waiting\"</em>... À installer à vos risques et périls."
+            "De l'avis même de son auteur : `For safety, save the game before you enter the area where the joinable is waiting`..."
         ],
         "is_weidu": false,
         "translation_state": false,
@@ -7483,7 +7477,7 @@
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Clear Fog of War",
@@ -9759,16 +9753,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : il s'agit d'un mod override qui ne peut pas être désinstallé."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": null,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Distinguishable clubs",
@@ -10036,16 +10028,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : Il s'agit d'un mod override qui écrase le fichier MONCRATE.2da et ne peut pas être désinstallé. À installer à vos risques et périls."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": null,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "berelinde's Dragon Age: Origins Style Portraits",
@@ -10282,16 +10272,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : il s'agit d'un mod override qui écrase les fichiers .cre et.itm, et ne peut pas être désinstallé. Installez-le à vos risques et périls."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": null,
         "languages": [],
         "status": "missing",
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Drizzt AD&D Stats",
@@ -10307,9 +10295,7 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : il s'agit d'un mod override qui écrase les fichiers .cre et ne peut pas être désinstallé. Installez-le à vos risques et périls."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": null,
@@ -10332,16 +10318,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : il s'agit d'un mod override qui écrase les fichiers scripts du jeu (ar5700, ar5701, ar5801 et ar5900) et la carte ar4200, et ne peut pas être désinstallé. Installez-le à vos risques et périls."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": null,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Drizzt Is Not Stupid",
@@ -18033,12 +18017,10 @@
         "team": [
             "Isaya"
         ],
-        "notes": [
-            "Attention : Il s'agit d'un mod override qui écrase les fichier du jeu et ne peut pas être désinstallé. Une option permet une installation manuelle, mais elle nécessite de modifier des fichiers."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": true,
-        "safe": null,
+        "safe": false,
         "languages": [
             "en",
             "it",
@@ -18050,7 +18032,7 @@
         ],
         "status": true,
         "last_update": "2016-06",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Journal Portrait Conversations for PST:EE",
@@ -18066,16 +18048,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : Il s'agit d'un mod override qui écrase les fichier du jeu et ne peut pas être désinstallé. Une option permet une installation manuelle, mais elle nécessite de modifier des fichiers."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": null,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "K's Dual Class",
@@ -18095,15 +18075,15 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Il s'agit d'un mod override qui écrase le fichier DUALCLAS.2da et ne peut pas être désinstallé. Préférez-lui le composant `Options de jumelage étendues` de [[The Tweaks Anthology]]."
+            "Préférez-lui le composant `Options de jumelage étendues` de [[The Tweaks Anthology]]."
         ],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
-        "status": true,
+        "status": "obsolete",
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "KR's Difficult Brown Dragon",
@@ -19490,16 +19470,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : Il s'agit d'un mod override qui écrase les fichiers 2da et ne peut pas être désinstallé. Préférez-lui d'autres mods."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Level 40 Rule Set in BG:EE",
@@ -19515,9 +19493,7 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : Il s'agit d'un mod override. Préférez-lui d'autres mods."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
@@ -19586,16 +19562,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : Il s'agit d'un mod override qui écrase les fichiers 2da et ne peut pas être désinstallé. Préférez-lui d'autres mods."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Level 8 & 9 Mage Spells by TeamBG",
@@ -20096,16 +20070,14 @@
             "mirandir",
             "Zyl"
         ],
-        "notes": [
-            "Attention : Il s'agit d'un mod override qui écrase le fichier PCNAME.BCS et ne peut pas être désinstallé."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": false,
         "safe": null,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Low Magic World",
@@ -20853,16 +20825,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod override qui écrase des fichiers 2da et ne peut pas être désinstallé. Préférez-lui d'autres mods plus récents."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Megamod Kits",
@@ -22079,9 +22049,7 @@
             "Dee"
         ],
         "team": [],
-        "notes": [
-            "Attention : Il s'agit d'un mod override qui remplace des fichiers et ne peut pas être désinstallé."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": null,
@@ -24716,7 +24684,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Non seulement, ce mod ne se désinstalle pas, mais il nécessite d'entrer des codes avec la console pour en bénéficier."
+            "Il nécessite d'entrer des codes avec la console pour en bénéficier."
         ],
         "is_weidu": false,
         "translation_state": null,
@@ -24724,7 +24692,7 @@
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Pick Your Poison - Choices for Assassin and Blackguard poison weapon ability",
@@ -25699,16 +25667,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Ce mod écrase les fichiers 2da et ne peut pas être désinstallé. Ne l'installez pas et préférez-lui d'autres mods."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Protagonist-Be-Gone!",
@@ -25861,9 +25827,7 @@
             "Kwiat_W"
         ],
         "team": [],
-        "notes": [
-            "Mis à jour pour la dernière fois en 2013, <a href=\" http://www.shsforums.net/topic/57871-update-for-bg2ee-13/\">ce mod n'est plus compatible avec les jeux EE depuis le patch v1.3</a>."
-        ],
+        "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": false,
@@ -27260,16 +27224,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod override qui écrase les fichiers 2da et ne peut pas être désinstallé. Ne l'installez pas et préférez-lui d'autres mods."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Ribald's Genie",
@@ -28417,9 +28379,7 @@
             "LaughingMan"
         ],
         "team": [],
-        "notes": [
-            "Mis à jour pour la dernière fois en 2012, ce mod n'est plus compatible avec les versions récentes du jeu."
-        ],
+        "notes": [],
         "is_weidu": null,
         "translation_state": false,
         "safe": false,
@@ -29405,16 +29365,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod override qui écrase les fichiers 2da et ne peut pas être désinstallé. Ne l'installez pas et préférez-lui d'autres mods."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Sir Renal",
@@ -29829,16 +29787,14 @@
             "Quint"
         ],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod override qui écrase des fichiers .BCS et ne peut pas être désinstallé. Évitez-le au possible !"
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Smooth Selling",
@@ -32723,16 +32679,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : les fichiers sont à extraire dans le répertoire override du jeu, et on ne peut pas désinstaller le mod."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": false,
         "safe": null,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "The Cowled Menace",
@@ -34061,16 +34015,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod override qui écrase les fichiers 2da et ne peut pas être désinstallé. Ne l'installez pas et préférez-lui d'autres mods."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": null,
         "safe": false,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Thieving Skills for Bards",
@@ -34859,16 +34811,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Chacun est téléchargeable séparément et aucun n'est disponible sous forme de mod WeiDU. À installer à vos risques et périls."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": false,
         "safe": false,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Tresset's permanent Shapeshift Weapons",
@@ -37715,7 +37665,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Malheureusement, sa qualité laisse à désirer. De plus, de l'avis même de son auteur : \"<em>Don't use this, it's poorly done and may break your game</em>\"... À installer à vos risques et périls."
+            "Malheureusement, sa qualité laisse à désirer. De plus, de l'avis même de son auteur : `Don't use this, it's poorly done and may break your game`... À installer à vos risques et périls."
         ],
         "is_weidu": false,
         "translation_state": false,
@@ -37858,16 +37808,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod override qui écrase le fichier de la carte du monde et ne peut pas être désinstallé. Ne l'installez pas et préférez-lui d'autres mods."
-        ],
+        "notes": [],
         "is_weidu": false,
         "translation_state": false,
         "safe": null,
         "languages": [],
         "status": true,
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Worldmap",

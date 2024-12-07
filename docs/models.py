@@ -127,13 +127,17 @@ class Mod:
         auto_notes = list()
         if (
             self.last_update
-            and self.safe is None
             and self.last_update < "2021-06"
+            and self.safe in (None, False)
             and set(self.games) & set(Games.BG_EE())
         ):
             year, _ = self.last_update.split("-")
             auto_notes.append(
                 f"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec version 2.6."
+            )
+        if self.tp2 == "non-weidu":
+            auto_notes.append(
+                "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls."
             )
         return auto_notes
 
