@@ -2656,8 +2656,7 @@
             "https://github.com/ArtemiusI/Aura_BG1"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Kit"
+            "PNJ recrutable"
         ],
         "games": [
             "BGEE",
@@ -3073,8 +3072,7 @@
             "https://forums.beamdog.com/discussion/82847/mod-ayden-project"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Kit"
+            "PNJ recrutable"
         ],
         "games": [
             "BGEE",
@@ -5029,7 +5027,7 @@
     },
     {
         "name": "Bard Song Switching (Icewind Mode)",
-        "description": "Ce mod revisite les profils de barde (barde pur, maître-lames, bouffon et scalde) et leur ajoute de nouveaux chants, dont certains sont issus d'Icewind Dale : la Ballade des Trois Héros, La Mélodie de Tymora, le Chant de Kaudiès, la Ballade de Curran Cœurvaillant, etc... Il est compatible avec RR.",
+        "description": "Ce mod revisite les profils de barde (barde pur, maître-lames, bouffon et scalde) et leur ajoute de nouveaux chants, dont certains sont issus d'Icewind Dale : la Ballade des Trois Héros, La Mélodie de Tymora, le Chant de Kaudiès, la Ballade de Curran Cœurvaillant, etc... Il est compatible avec [[Rogue Rebalancing]].",
         "urls": [
             "http://www.shsforums.net/files/file/743-bard-song-switching-icewind-mode-for-bg2-and-ee-series/"
         ],
