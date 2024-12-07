@@ -116,7 +116,7 @@ SITE_DIR = "sites"
 
 # TODO: réduire/convertir les static/img
 domain_to_image = {
-    "artisans-corner.com": "artisans32.avif",
+    "artisans-corner.com": "artisans-32.avif",
     "baldursgateworld.fr": "logocc.png",
     "anomaly-studios.fr": "logocc.png",
     # "baldursgatemods.com": "teambg.png",
