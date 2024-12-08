@@ -17820,24 +17820,35 @@
         "name": "Jarl's BGT Adventure Pack",
         "description": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit donc dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[BG1 Unfinished Business]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer.|Ce mod nécessite l'installation de [[TobEx]], du composant principal d'[[Infinity Animations]] et des composants `Restitutions mineures de dialogues` et `Réparations et restitutions de magasins, tavernes et auberges` de [[BG1 Unfinished Business]].",
         "urls": [
-            "https://www.baldurs-gate.de/index.php?resources/jarls-bgt-adventure-pack.8/"
+            "https://www.baldurs-gate.de/index.php?resources/jarls-bgt-adventure-pack.8/",
+            "https://github.com/Gitjas/JA-AdventurePack/"
         ],
         "categories": [
             "Quête"
         ],
         "games": [
-            "BGT"
+            "BGT",
+            "BGEE",
+            "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Jarl",
+            "jastey"
+        ],
         "team": [],
-        "notes": [],
-        "is_weidu": null,
+        "notes": [
+            "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer."
+        ],
+        "is_weidu": true,
         "translation_state": false,
         "safe": true,
-        "languages": [],
+        "languages": [
+            "en",
+            "de"
+        ],
         "status": true,
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-09",
+        "tp2": "JA#BGT_AdvPack"
     },
     {
         "name": "Jarls Tweak Pack",
