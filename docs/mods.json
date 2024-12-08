@@ -8699,6 +8699,7 @@
         "name": "The Big Metal Unit mod",
         "description": "Ce petit mod importe la grosse machine de métal de ToB dans des magasins de IWD:EE et dans IWD2, ainsi que le gros barreau de métal et une version amoindrie des munitions de cadence dans BG:EE et EET. Un composant optionnel permet de rééquilibrer les munitions du gros barreau de métal.",
         "urls": [
+            "https://forums.beamdog.com/discussion/82755/mod-the-big-metal-unit-mod-v4-5-bg-ee-bg2-ee-iwd-ee-iwd2-eet-bgt-iwd2ee",
             "https://github.com/D2-mods/D2-Mira"
         ],
         "categories": [
@@ -43714,5 +43715,241 @@
         "status": true,
         "last_update": "2021-09",
         "tp2": "RisenSoul"
+    },
+    {
+        "name": "Crevs' impressively small Fixpack",
+        "description": "Un petit fix pack fait par CrevsDaak. Il propose notamment un composant contre les dégâts infinis de la barrière de lame, il supprime des effets pouvant faire crasher les jeux ToB et un composant contre les boucles de dégâts des boucliers de feu.",
+        "urls": [
+            "https://github.com/CrevsDaak/c7-fixpack"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2",
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "CrevsDaak"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-07",
+        "tp2": "c7-fixpack"
+    },
+    {
+        "name": "IE:EE Game Speed Mod",
+        "description": "L'Infinity Engine fonctionne de telle sorte que la vitesse du jeu est directement liée à la vitesse de rendu du moteur. Par conséquent, si vous essayez de doubler la vitesse par défaut à 60 images par seconde, vous accélérerez également le temps de jeu. Cela affecte le temps dont dispose le joueur pour accomplir les objectifs/quêtes chronométrés, ainsi que la durée des sorts, potions, etc. Ce projet est un mod de vitesse de jeu qui tente de résoudre ce problème. Une fois chargé, le jeu tourne à 60 FPS mais le temps n'est pas modifié !",
+        "urls": [
+            "https://github.com/LionAG/IE-EE-GameSpeedMod"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "LionAG"
+        ],
+        "team": [],
+        "notes": [
+            "Fonctionnel que sous Windows.",
+            "Cela nécessite de lancer l'exe du jeu avec l'exécutable ainsi créé. Probablement incompatible avec [[EEex]] et mods similaires."
+        ],
+        "is_weidu": null,
+        "translation_state": null,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2022-09",
+        "tp2": "N/A"
+    },
+    {
+        "name": "Remove Specialist Restrictions mod",
+        "description": "Ce petit mod vise à rendre les quelques objets et options de dialogue de PsT:EE avec des restrictions de spécialisation de classe également disponibles pour les joueurs ayant des niveaux suffisamment élevés dans ces classes. Ainsi, les tatouages autrefois réservés aux mages doublement spécialisés peuvent être achetés par tout joueur ayant un niveau de mage d'au moins 12, et les armes réservées aux combattants monospécialisés peuvent être achetées par tout joueur ayant un niveau de combattant d'au moins 7, et ainsi de suite.",
+        "urls": [
+            "https://github.com/Mirrorman95/RemoveSpecialistRestrictions"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "PSTEE"
+        ],
+        "authors": [
+            "Mirrorman95"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2022-09",
+        "tp2": "RemoveSpecialistRestrictions"
+    },
+    {
+        "name": "Bart Tweaks",
+        "description": "Ce mod une vingtaine de composants divers pour modder vos partie : retrait de la perte de réputation après une transformation en écorcheur, supression des trésors aléatoires, progression de sort alternative pour les mages, bonus de constitution alternatifs etc",
+        "urls": [
+            "https://github.com/BartyMae/Bart_Tweaks"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Bartimaeus"
+        ],
+        "team": [],
+        "notes": [
+            "Certains composants nécessitent [[Item Revisions]] ou [[Spell Revisions]]."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-01",
+        "tp2": "bart_tweak"
+    },
+    {
+        "name": "Better Enchanted Weapon",
+        "description": "Ce mod fait évoluer le sort `Arme enchantée` en fonction des niveaux. Un lanceur de sorts d'un niveau suffisamment élevé peut maintenant laisser un combattant frapper Kangaxx à poings nus, si pour une raison ou une autre vous le souhaitez.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/69170/better-enchanted-weapon"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "semiticgod"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2018-02",
+        "tp2": "BetterEnchantedWeapon"
+    },
+    {
+        "name": "Ahungry Deletefier",
+        "description": "Supprime de nombreux objets des créatures/magasins/zones - essaie en fait de « rétrograder » tous les types d'objets spéciaux à leur forme de base en fonction d'une certaine probabilité (0 à 100) qui est choisie lors de l'installation du mod.|Note de l'auteur : sur un megamod (plus de 200 mods), j'aime bien les 90 à 95 - cela rend l'acquisition de matériel à nouveau excitante.",
+        "urls": [
+            "https://github.com/ahungry/ahungry_deletefier"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "ahungry"
+        ],
+        "team": [],
+        "notes": [
+            "Attention : Certains objets de quête pourraient être impactés."
+        ],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2022-09",
+        "tp2": "ahungry_deletefier"
+    },
+    {
+        "name": "Made in Heaven : Fixes & Restorations",
+        "description": "",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/29992-my-new-made-in-heaven-mods/",
+            "https://github.com/AngelGryph/MadeInHeaven_FixesAndRestorations"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Angel"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2022-02",
+        "tp2": "mih_fr"
+    },
+    {
+        "name": "Made in Heaven - Meta-Mod",
+        "description": "Meta-Mod est un mod plutôt personnel utilisé par son auteur qui corrige les fichiers installés par d'autres mods pour corriger les bugs connus et résoudre les conflits inter-mods. Il contient également un composant qui nettoie les fichiers laissés par le dépackage des mods, comme les fichiers setup-xxx.exe sur un système non Windows.",
+        "urls": [
+            "https://github.com/AngelGryph/MadeIn_Heaven_Meta-Mod"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Angel"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-11",
+        "tp2": "mih_metamod"
     }
 ]
