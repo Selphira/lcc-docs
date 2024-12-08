@@ -4,6 +4,7 @@ import os
 
 # import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
+
 from models import Category, Mod
 from settings import Games, attrs_icon_data, categorie_names
 
@@ -28,18 +29,18 @@ def main(env):
     page_html = env.get_template("base.html").render(
         games=Games,
         categories=categories,
-        static=f"src{os.sep}static{os.sep}",
+        static=f"docs{os.sep}static{os.sep}",
         attrs_icon_data=attrs_icon_data,
         mod_length=len(mods),
     )
 
-    with open("index.html", "w") as f:
+    with open("docs" + os.sep + "index.html", "w") as f:
         f.write(page_html)
 
 
 if __name__ == "__main__":
     env = Environment(
-        loader=PackageLoader("src", "templates"),
+        loader=PackageLoader("docs", "templates"),
         autoescape=select_autoescape(["html"]),
         trim_blocks=True,  # Supprime les retours à la ligne après un bloc Jinja
         lstrip_blocks=True,  # Supprime les espaces avant un bloc Jinja

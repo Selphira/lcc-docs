@@ -2,7 +2,7 @@ import enum
 import os
 from typing import Dict
 
-STATIC_ROOT = os.path.join("src", "static")
+STATIC_ROOT = os.path.join("docs", "static")
 IMG_ROOT = os.path.join(STATIC_ROOT, "img")
 
 """
