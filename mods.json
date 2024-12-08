@@ -9197,7 +9197,7 @@
             "BG2EE"
         ],
         "authors": [
-            "CrevsDaak"
+            "Crevs Daak"
         ],
         "team": [],
         "notes": [],
@@ -19778,7 +19778,7 @@
             "IWDEE"
         ],
         "authors": [
-            "CrevsDaak"
+            "Crevs Daak"
         ],
         "team": [],
         "notes": [
@@ -19949,7 +19949,7 @@
             "BG2EE"
         ],
         "authors": [
-            "CrevsDaak"
+            "Crevs Daak"
         ],
         "team": [],
         "notes": [],
@@ -22238,7 +22238,7 @@
             "IWDEE"
         ],
         "authors": [
-            "CrevsDaak",
+            "Crevs Daak",
             "FlameWing"
         ],
         "team": [],
@@ -28377,7 +28377,7 @@
             "SoD"
         ],
         "authors": [
-            "CrevsDaak"
+            "Crevs Daak"
         ],
         "team": [],
         "notes": [],
@@ -32374,7 +32374,7 @@
         ],
         "authors": [
             "Serdrick",
-            "CrevsDaak"
+            "Crevs Daak"
         ],
         "team": [
             "deratiseur"
@@ -35730,7 +35730,7 @@
             "BG2EE"
         ],
         "authors": [
-            "CrevsDaak"
+            "Crevs Daak"
         ],
         "team": [],
         "notes": [],
@@ -39630,7 +39630,7 @@
         "authors": [
             "Icendoan",
             "Lemernis",
-            "CrevsDaak"
+            "Crevs Daak"
         ],
         "team": [],
         "notes": [
@@ -42288,7 +42288,7 @@
         ],
         "authors": [
             "Quartz",
-            "CrevsDaak"
+            "Crevs Daak"
         ],
         "team": [],
         "notes": [],
@@ -43353,6 +43353,7 @@
         "name": "ZSTweaks",
         "description": "Ce mod est une compilation de tweaks qui, selon l'auteur, améliorent les choses telles qu'elles sont dans le jeu vanilla. La grande majorité des tweaks sont conçus pour être de simples améliorations d'objets ou de capacités sous-puissants. Certains d'entre eux modifient le jeu un peu plus en profondeur, mais pas de façon radicale.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/38335-royalprotectors-tweaks-zstweaks-%E2%80%93-143/",
             "https://github.com/szaumoor/ZSTweaks"
         ],
         "categories": [
@@ -43378,7 +43379,7 @@
             "en"
         ],
         "status": true,
-        "last_update": "2024-09",
+        "last_update": "2024-12",
         "tp2": "ZSTweaks"
     },
     {
@@ -43742,7 +43743,7 @@
             "BG2EE"
         ],
         "authors": [
-            "CrevsDaak"
+            "Crevs Daak"
         ],
         "team": [],
         "notes": [],
@@ -44205,5 +44206,172 @@
         "status": true,
         "last_update": "2024-11",
         "tp2": "non-weidu"
+    },
+    {
+        "name": "More Scrolls For Icewind Dale",
+        "description": "Les mages ont toujours eu la vie dure dans Icewind Dale. Les parchemins sont extrêmement rares (au point qu'il n'existe qu'un seul exemplaire de nombreux parchemins dans le jeu) et les parchemins de haut niveau ne sont disponibles que tard dans le jeu. Ce mod corrige cela. Désormais, Orrick vend une seule copie de chaque parchemin du jeu, ainsi que tous ses objets normaux.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/69213/more-scrolls-for-icewind-dale"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "semiticgod"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2018-02",
+        "tp2": "MoreScrollsForIWD"
+    },
+    {
+        "name": "No Banter",
+        "description": "No Banter est un petit mod pour Baldur's Gate 2 qui désactive le bavardage dans les parties. Si le badinage peut être immersif et révélateur, il peut aussi briser l'immersion. Quelle est la probabilité que les membres d'un groupe entament une conversation alors qu'ils explorent un donjon sombre et interdit ? Ou en se faufilant dans une forteresse ennemie ? Ou en se déguisant dans une forteresse drow ?",
+        "urls": [
+            "https://github.com/btigi/iiNoBanter"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "igi"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2018-02",
+        "tp2": "iiNoBanter"
+    },
+    {
+        "name": "IWDEE compatibility fixer",
+        "description": "Si vous avez joué à IWDEE avec des kits de mods, vous avez peut-être remarqué que de nombreux kits ne sont pas compatibles avec IWDEE, même s'ils disent l'être. Les kits fonctionneront généralement, mais il leur manquera des capacités IWDEE, ou dans le cas des druides ou des paladins, ils auront des capacités complètement erronées. L'auteur a décidé de corriger cela.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/86804/mod-iwd-ee-compatibility-fixer-for-mod-kits-v0-8",
+            "https://github.com/D2-mods/IWDEE-compatibility-fixer/"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Dan_P"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-10",
+        "tp2": "iwd_compat"
+    },
+    {
+        "name": "Jack Of All Planes - Play as a Fighter/Mage/Thief",
+        "description": "Ce mod n'a qu'une seule fonction : il retravaille la progression de The Nameless One pour en faire un Guerrier/Mage/Voleur. Il peut manier n'importe quelle arme, utiliser les compétences de voleur et lancer des sorts d'arcane, le tout sans avoir à changer de classe auprès de l'un des formateurs de classe.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88544/mod-jack-of-all-planes-play-as-a-fighter-mage-thief",
+            "https://github.com/aquadrizzt/JackOfAllPlanes"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "PSTEE"
+        ],
+        "authors": [
+            "aquadrizzt"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": true,
+        "last_update": "2024-06",
+        "tp2": "JackOfAllPlanes"
+    },
+    {
+        "name": "A mod for BG2:EE that lets you keep your stuff from BG1",
+        "description": "Vous permet de conserver tous vos objets au début de BG2. Reproduit l'exploit du jeu original qui permettait de mettre en pause et de laisser tomber ses objets au début d'une nouvelle partie.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/45114/keep-your-bg1-items-at-the-start-of-bg2-www-urstuff2athkatla-com",
+            "https://github.com/CrevsDaak/www.urstuff2athkatla.com"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Crevs Daak"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "pl"
+        ],
+        "status": true,
+        "last_update": "2024-12",
+        "tp2": "www.urstuff2athkatla"
+    },
+    {
+        "name": "AI generated portraits for Baldur's gate enhanced edition",
+        "description": "Ce mod est un pack de portrait. Le but était d'ajouter des portraits qui n'étaient pas normalement représentés dans les packs de portraits, comme les gnomes, les petites-personnes, les druides et les bardes.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/54"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Xyzathgor"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": null,
+        "translation_state": null,
+        "safe": true,
+        "languages": [],
+        "status": true,
+        "last_update": "2023-06",
+        "tp2": ""
     }
 ]
