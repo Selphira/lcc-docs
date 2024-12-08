@@ -1,0 +1,34 @@
+name: Generate HTML and Deploy
+
+on:
+  push:
+    branches:
+      - dev
+    paths:
+      - mods.json
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install Dependencies
+      run: pip install pipenv && pipenv install
+
+    - name: Generate HTML
+      run: pipenv run python update_index.py
+
+    - name: Deploy Changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add .
+        git commit -m "Update site from mods.json changes [ci skip]" || echo "No changes to commit"
+        git push origin gh-pages
