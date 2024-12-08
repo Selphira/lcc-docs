@@ -3206,7 +3206,7 @@
     },
     {
         "name": "Baldur's Gate Romantic Encounters Modification (BG1RE)",
-        "description": "Si vous êtes peu satisfait par les interactions disponibles dans BG1, si le [[The BG1NPC Project]] vous laisse parfois sur votre faim, ce mod devrait vous combler. C'est le pendant de son homonyme sur BG2 (Romantic Encounters).|Il ajoute de nombreuses possibilités de romance passagère ou plus intense avec des personnages non recrutables du jeu, aussi bien pour les hommes que pour les femmes, avec parfois des mini-quêtes à la clé. Attention : une partie de ce mod est à contenu \"adulte\".",
+        "description": "Si vous êtes peu satisfait par les interactions disponibles dans BG1, si le [[The BG1NPC Project]] vous laisse parfois sur votre faim, ce mod devrait vous combler. C'est le pendant de son homonyme [[Romantic Encounters MOD for Baldur's Gate II]].|Il ajoute de nombreuses possibilités de romance passagère ou plus intense avec des personnages non recrutables du jeu, aussi bien pour les hommes que pour les femmes, avec parfois des mini-quêtes à la clé. Attention : une partie de ce mod est à contenu \"adulte\".",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/bg-romantic-encounters/",
             "https://github.com/Gibberlings3/BG1_Romantic_Encounters"
@@ -13865,7 +13865,7 @@
     },
     {
         "name": "Gerri's NPC Portraits Pack",
-        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalon's Questpack]], [[Assassinations]], [[Baldur's Gate Mini Quests and Encounters]], [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[BG Romantic Encounters]] &amp; 2, [[The Secret of Bone Hill]], [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
+        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalon's Questpack]], [[Assassinations]], [[Baldur's Gate Mini Quests and Encounters]], [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[Baldur's Gate Romantic Encounters Modification (BG1RE)]], [[Romantic Encounters MOD for Baldur's Gate II]], [[The Secret of Bone Hill]], [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
         "urls": [
             "https://github.com/gboeck/NSC-Portraits"
         ],
@@ -43951,5 +43951,248 @@
         "status": true,
         "last_update": "2024-11",
         "tp2": "mih_metamod"
+    },
+    {
+        "name": "Deepgnomes on the Sword Coast",
+        "description": "Il s'agit donc d'un teaser pour le mod [[Aurora's Shoes and Boots]]. Il restaure une partie de l'Aurora de base de Bookwyrme. Ce teaser contient Tomthal et Karaea, les assistants d'Aurora, ainsi qu'un certain nombre d'objets que l'on peut trouver au hasard dans le jeu. De plus, vous pouvez rencontrer d'autres svirfneblin qui ont réussi à atteindre la surface. Et, bien sûr, Aurora la marchande elle-même.",
+        "urls": [
+            "http://www.shsforums.net/topic/59166-mod-deep-gnomes-on-the-sword-coast-eet/",
+            "https://github.com/RoxanneSHS/DeepgnomesEET/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "Bookwyrme",
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [
+            "Cette version est celle modifiée et adaptée pour EET par Roxanne."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": true,
+        "last_update": "2020-06",
+        "tp2": "Deepgnomes"
+    },
+    {
+        "name": "The 500 - The 1000",
+        "description": "L'économie de Baldur's Gate est brisée : à peine sorti de Château-Suif, l'argent cessera d'être un facteur pour le reste du jeu. Des tentatives ont été faites pour y remédier en équilibrant les prix et les objets, mais c'est trop difficile et subjectif. Ce mod tranche le nœud gordien : à chaque aube, le groupe perdra de l'or.",
+        "urls": [
+            "http://www.shsforums.net/files/file/1152-the-500/",
+            "http://www.shsforums.net/files/file/1153-the-1000-the-restless-edition/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "temnix"
+        ],
+        "team": [],
+        "notes": [
+            "Le premier lien permet de faire perdre 500 PO par jour, le second 1000."
+        ],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2016-10",
+        "tp2": "The500"
+    },
+    {
+        "name": "XPSync - a BG(2)EE mod for matching XP for party members",
+        "description": "Ce mod a pour but de synchroniser avec précision l'expérience des membres du groupe dans Baldur's Gate Enhanced Edition (BGEE) et Baldur's Gate II Enhanced Edition (BG2EE).",
+        "urls": [
+            "https://forums.beamdog.com/discussion/87837/release-bg-2-ee-xpsync",
+            "https://github.com/Dapbler/BGEE-XPSync/"
+        ],
+        "categories": [
+            "Personnalisation du groupe"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Grozzle"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2023-09",
+        "tp2": "xpsync"
+    },
+    {
+        "name": "Shaman Hauler",
+        "description": "Dans Baldur's Gate, les Shamans ne peuvent pas se déplacer en dansant, et il n'y a pas de bête de somme dans le jeu qui puisse les porter. En revanche, rien n'interdit de les faire porter par des coéquipiers. Pour cela, le Shaman a accès a une nouvelle capacité qui autorise un de ses coéquipiers de porter le Shaman. Celui-ci se voit à son tour offrir une nouvelle capacité lui permettant de déposer le Shaman. Certaines conditions doivent être respectées comme la force du coéquipier, sa proximité etc",
+        "urls": [
+            "https://github.com/shohysie/shaman_hauler"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "shohysie"
+        ],
+        "team": [],
+        "notes": [
+            "Malgré les apparences, ce mod a l'air bien fait."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": true,
+        "last_update": "2024-06",
+        "tp2": "shaman_hauler"
+    },
+    {
+        "name": "Mod Pregnancy",
+        "description": " Pour tomber enceinte, les joueurs des deux sexes, les joueuses doivent participer à des 'aventures amoureuses' avec des personnages masculins du mod [[Romantic Encounters MOD for Baldur's Gate II]]. Si la joueuse tombe enceinte, le bébé naîtra au bout de 9 mois.",
+        "urls": [
+            "http://www.shsforums.net/files/file/1198-mod-pregnancy-for-bg1bg2eeeet/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Lassal"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod nécessite [[Romantic Encounters MOD for Baldur's Gate II]].",
+            "L'IA de groupe doit être activée."
+        ],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": null,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2017-12",
+        "tp2": ""
+    },
+    {
+        "name": "AutoIdentify",
+        "description": "Ce mod met à 0 la Connaissance nécessaire pour identfier tous les objets, ce qui évite au joueur d'avoir à les identifier manuellement.",
+        "urls": [
+            "https://github.com/LCA-EET/AutoIdentify"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "danielvalle"
+        ],
+        "team": [],
+        "notes": [
+            "À installer après tous les mods ajoutant des objets pour des résultats plus pertinents."
+        ],
+        "is_weidu": true,
+        "translation_state": null,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-07",
+        "tp2": "AutoIdentify"
+    },
+    {
+        "name": "RoyalProtector's Shadowdancer Overhaul",
+        "description": "Ce mod retravaille le kit de Maître des Ombres. Notamment sa capacité à pouvoir se camoufler à la vue de tous (considéré comme trop puissant et source de bug). Et apporte des alternatives intéressantes afin de lui faire gagner en singularité. Plus d'informations en cliquant sur les liens.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38417-royalprotectors-shadowdancer-overhaul-zs_shadowdanceroverhaul-%E2%80%93-113a/",
+            "https://github.com/szaumoor/ZS_ShadowdancerOverhaul"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "RoyalProtector"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": true,
+        "translation_state": false,
+        "safe": true,
+        "languages": [
+            "en"
+        ],
+        "status": true,
+        "last_update": "2024-07",
+        "tp2": "ZS_ShadowdancerOverhaul"
+    },
+    {
+        "name": "Dragon Breath visual animation fix",
+        "description": "Ce mod propose de corriger les animations de souffle des dragons. Vous trouverez des comparatifs plus parlant sur le forum.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88856/mod-fix-dragon-breath-visual-animation-fix"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Hefaistos"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": false,
+        "translation_state": null,
+        "safe": null,
+        "languages": [],
+        "status": true,
+        "last_update": "2024-11",
+        "tp2": "non-weidu"
     }
 ]
