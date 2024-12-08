@@ -25,7 +25,6 @@ Cette version propose plusieurs améliorations techniques notables :
 * …
 
 ## Limites
-* Pas de mise à jour automatique de la page suite à une modification de la db
 * Modifier un Json est moins sexy que de passer par un formulaire fait pour ça
 * …
 
@@ -33,14 +32,7 @@ Cette version propose plusieurs améliorations techniques notables :
 ## TODO
 * Une doc pour savoir comment remplir/modifier le fichier `mods.json` et les différents attributs attendus
 * Remplacer le Json par du Yaml paraît être une bonne idée mais la multiplication des `'\"\'` en tout genre ne m'y a pas encouragé (peut-être une config permet de contourner le problème ou une autre solution est envisageable ?)
-* Pouvoir automatiser la mise à jour de la page après une modification de la db (script JS ?)
 * Formulaire d'ajout d'un mod qui renvoit son équivalent en Json (plus qu'à l'ajouter à la db)
-* Des outils d'automatisation :
-    * pour remonter les urls qui renvoient une 404
-    * Sur GitHub ou GitLab :
-        * pour remonter les tags de langue
-        * pour remonter les compatibilités des jeux
-        * date de dernière mise à jour
 
 
 ## Doc
