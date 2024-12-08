@@ -29,7 +29,7 @@ def main(env):
     page_html = env.get_template("base.html").render(
         games=Games,
         categories=categories,
-        static=f"docs{os.sep}static{os.sep}",
+        static=f"static{os.sep}",
         attrs_icon_data=attrs_icon_data,
         mod_length=len(mods),
     )
