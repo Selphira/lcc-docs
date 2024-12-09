@@ -14,21 +14,21 @@ IMG_ROOT = os.path.join(STATIC_ROOT, "img")
 """
 attrs_icon_data: Dict[str, Dict[tuple, Dict[str, str]]] = {
     "safe": {
-        (True,): {
+        (2, "2"): {
             "icon": "🟢",
             "label": "Mod de qualité",
         },
-        (None,): {
+        (1, "1"): {
             "icon": "🟡",
             "label": "Mod pouvant poser des problèmes",
         },
-        (False,): {
+        (0, "0"): {
             "icon": "🔴",
             "label": "Mod à éviter ou obsolète",
         },
     },
     "translation_state": {
-        (True, None): {
+        ("yes", "n/a"): {
             "icon": "✅",
             "label": "Mod traduit",
         },
@@ -36,17 +36,17 @@ attrs_icon_data: Dict[str, Dict[tuple, Dict[str, str]]] = {
             "icon": "❎",
             "label": "Mod partiellement traduit",
         },
-        (False, "wip"): {
+        ("no", "wip"): {
             "icon": "❌",
             "label": "Mod non traduit",
         },
     },
     "is_weidu": {
-        (True, None): {
+        (1, 2, "1", "2"): {
             "icon": "😀",
             "label": "Mod Weidu",
         },
-        (False,): {
+        (0, "0"): {
             "icon": "😡",
             "label": "Mod override, non désinstalable",
         },

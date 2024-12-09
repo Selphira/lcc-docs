@@ -128,7 +128,7 @@ class Mod:
         if (
             self.last_update
             and self.last_update < "2021-06"
-            and self.safe in (None, False)
+            and self.safe <= 1
             and set(self.games) & set(Games.BG_EE())
         ):
             year, _ = self.last_update.split("-")

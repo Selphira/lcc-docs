@@ -56,11 +56,11 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": null,
-        "translation_state": null,
-        "safe": true,
+        "is_weidu": 1,
+        "translation_state": "no",
+        "safe": 2,
         "languages": [],
-        "status": true,
+        "status": "active",
         "last_update": "",
         "tp2": ""
     }
@@ -109,28 +109,28 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 `team` : liste des personnes ayant participé à la traduction du mod\
 `notes` : liste de messages indiquant des points d'attention\
 `is_weidu` : si le mod est installable ou désinstallable via weidu. Valeurs possibles :
- - `true` : 😀 Mod Weidu
- - `false` : 😡 Mod override, non désinstalable
- - `null` : 😀 Mod Weidu (on considère que le mod est weidu par défaut, à terme il faut choisir une autre valeur)
+ - `2` : 😀 Mod Weidu
+ - `1` : 😀 Mod Weidu (weidu "a priori" : cette valeur exprime un doute, à terme il faut choisir une autre valeur)
+ - `0` : 😡 Mod override, non désinstalable
 
 `translation_state` : le mod est traduit ou pas, ou s'il ne nécessite pas de traduction. Valeurs possibles :
- - `true` : ✅ Mod traduit en français
- - `false` : ❌ Mod non traduit en français
- - `null` : ✅ Mod ne nécessitant pas de traduction
+ - `"yes"` : ✅ Mod traduit en français
+ - `"no"` : ❌ Mod non traduit en français
+ - `"n/a"` : ✅ Mod ne nécessitant pas de traduction
  - `"todo"` : ❎ Mod partiellement traduit
  - `"wip"` : ❌ Mod en cours de traduction
 
 `safe` : si le mod est considéré comme fiable (installable via weidu, maintenu, ne génère pas d'incompatibilités). Valeurs possibles :
- - `true` : 🟢 Mod de qualité
- - `false` : 🔴 Mod à éviter ou obsolète
- - `null` : 🟡 Mod pouvant poser des problèmes
+ - `2` : 🟢 Mod de qualité
+ - `1` : 🟡 Mod pouvant poser des problèmes
+ - `0` : 🔴 Mod à éviter ou obsolète
 
 `languages` : langues dans lesquels le mod existe, actuellement non affiché, format [ISO-3166-1](https://fr.wikipedia.org/wiki/ISO_3166-1)
 
 `status` : la raison peut être indiquée dans les `notes`, actuellement sans impact
- - `true` : mod actif
- - `null` : mod en cours d'ajout mais pas encore finalisé
- - `false` : mod à ne pas afficher pour une autre raison à indiquer dans `notes`
+ - `"active"` : mod actif
+ - `"draft"` : mod en cours d'ajout mais pas encore finalisé
+ - `"inactive"` : mod à ne pas afficher pour une autre raison à indiquer dans `notes`
  - `"obsolete"` : incompatible avec les dernières versions des jeux originaux ou/et EE (exemple d'un mod fait sous EE 1.3 mais jamais upgrade depuis)
  - `"embed"` : intégré en tant que composant (et maintenu) dans un autre mod ou pack
  - `"missing"` : lien de téléchargement disparu
@@ -138,4 +138,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 
 `last_update` : date connue de la dernière mise à jour du mod, champ automatique, format YYYY-MM
 
-`tp2` : nom du fichier tp2 du mod
+`tp2` : nom du fichier tp2 du mod. À terme, remplacera le champ `is_weidu`. Valeurs possibles :
+ - `"nom du tp2"` : le vrai nom du tp2
+ - `"n/a"` : non concerné (notamment pour les utilitaires)
+ - `"non-weidu"` : pas de fichier tp2 car non-WeiDU
