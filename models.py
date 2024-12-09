@@ -133,7 +133,7 @@ class Mod:
         ):
             year, _ = self.last_update.split("-")
             auto_notes.append(
-                f"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec version 2.6."
+                f"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec la dernière version du jeu."
             )
         if self.tp2 == "non-weidu":
             auto_notes.append(
