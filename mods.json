@@ -16079,8 +16079,9 @@
     },
     {
         "name": "IWDEE compatibility fixer",
-        "description": "If you've played IWDEE with mod kits, you may have noticed many kits aren't actually compatible with IWDEE, even if they say they are. Kits will generally work, but they'll be missing IWDEE abilities, or in the case of druids or paladins, have completely wrong abilities.||I decided to do something about it (a long time ago, but only getting it done now). There's also a component for [[Tome and Blood]]'s Innate Metamagic (options 1 and 2). More details below.||Components:|- Kit mods|- Innate Metamagic (Tome &amp; Blood)||<a href=\"https://github.com/D2-mods/IWDEE-compatibility-fixer/blob/main/README.md\">See more detailed info in readme...</a>",
+        "description": "Si vous avez joué à IWDEE avec des kits de mods, vous avez peut-être remarqué que de nombreux kits ne sont pas compatibles avec IWDEE, même s'ils disent l'être. Les kits fonctionneront généralement, mais il leur manquera des capacités IWDEE, ou dans le cas des druides ou des paladins, ils auront des capacités complètement erronées.",
         "urls": [
+            "https://forums.beamdog.com/discussion/86804/mod-iwd-ee-compatibility-fixer-for-mod-kits-v0-8",
             "https://github.com/D2-mods/IWDEE-compatibility-fixer"
         ],
         "categories": [
@@ -44262,34 +44263,6 @@
         "tp2": "iiNoBanter"
     },
     {
-        "name": "IWDEE compatibility fixer",
-        "description": "Si vous avez joué à IWDEE avec des kits de mods, vous avez peut-être remarqué que de nombreux kits ne sont pas compatibles avec IWDEE, même s'ils disent l'être. Les kits fonctionneront généralement, mais il leur manquera des capacités IWDEE, ou dans le cas des druides ou des paladins, ils auront des capacités complètement erronées. L'auteur a décidé de corriger cela.",
-        "urls": [
-            "https://forums.beamdog.com/discussion/86804/mod-iwd-ee-compatibility-fixer-for-mod-kits-v0-8",
-            "https://github.com/D2-mods/IWDEE-compatibility-fixer/"
-        ],
-        "categories": [
-            "Patch non officiel"
-        ],
-        "games": [
-            "IWDEE"
-        ],
-        "authors": [
-            "Dan_P"
-        ],
-        "team": [],
-        "notes": [],
-        "is_weidu": 2,
-        "translation_state": "n/a",
-        "safe": 2,
-        "languages": [
-            "en"
-        ],
-        "status": "active",
-        "last_update": "2024-10",
-        "tp2": "iwd_compat"
-    },
-    {
         "name": "Jack Of All Planes - Play as a Fighter/Mage/Thief",
         "description": "Ce mod n'a qu'une seule fonction : il retravaille la progression de The Nameless One pour en faire un Guerrier/Mage/Voleur. Il peut manier n'importe quelle arme, utiliser les compétences de voleur et lancer des sorts d'arcane, le tout sans avoir à changer de classe auprès de l'un des formateurs de classe.",
         "urls": [
@@ -44373,5 +44346,91 @@
         "status": "active",
         "last_update": "2023-06",
         "tp2": ""
+    },
+    {
+        "name": "Reflections of Destiny, an SoD Remix Mod",
+        "description": "Ce mod est conçu pour modifier, améliorer et parfois déplacer différentes parties de la campagne du Siège de Dragonspear - et les parties de BG1 juste avant et de BG2 juste après. Les deux premiers composants se concentrent sur le dernier chapitre de la campagne BG1, en commençant par la scène du couronnement de Sarevok. Dans le jeu de base, vous êtes téléporté à la rencontre finale, et c'est tout - game over. Ici, sont ajoutés davantages d'interactions avec les PNJ et du temps est accordé pour terminer les quêtes en cours.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38225-subtlemods-reflections-of-destiny/",
+            "https://github.com/subtledoctor/Reflections-of-Destiny/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "Subtledoctor"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": 2,
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "Reflections"
+    },
+    {
+        "name": "Enhanced Creatures for Baldur's Gate EE",
+        "description": "Ce mod ajoute des créatures dans le jeu, plutôt dans le style \"horreur\". Plus de détails dans le README.",
+        "urls": [
+            "https://github.com/arnaudpourbaix/enhanced-creatures"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Aigleborgne"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": 2,
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-03",
+        "tp2": "Enhanced_Creatures"
+    },
+    {
+        "name": "Convenience Script Mod",
+        "description": "Ce mod ajoute un script qui fournit des fonctionnalités d'attaque de base ainsi que des touches de raccourcis pour activer certaines fonctions confort. Les fonctions confort ne peuvent être activées qu'en dehors des combats. Par exemple la touche `B` permet d'incantater instantanément pendant 1 round, notamment pour simplifier les préparations.|Plus de détails dans le README.",
+        "urls": [
+            "https://github.com/pcurrivan/ConvenienceScript"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "ManiacalFreak"
+        ],
+        "team": [],
+        "notes": [],
+        "is_weidu": 2,
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2021-08",
+        "tp2": "ConvenienceScript"
     }
 ]
