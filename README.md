@@ -33,6 +33,7 @@ Cette version propose plusieurs améliorations techniques notables :
 * Une doc pour savoir comment remplir/modifier le fichier `mods.json` et les différents attributs attendus
 * Remplacer le Json par du Yaml paraît être une bonne idée mais la multiplication des `'\"\'` en tout genre ne m'y a pas encouragé (peut-être une config permet de contourner le problème ou une autre solution est envisageable ?)
 * Formulaire d'ajout d'un mod qui renvoit son équivalent en Json (plus qu'à l'ajouter à la db)
+* Rédaction de GuideLine pour les contributeurs
 
 
 ## Doc
@@ -110,7 +111,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 `is_weidu` : si le mod est installable ou désinstallable via weidu. Valeurs possibles :
  - `true` : 😀 Mod Weidu
  - `false` : 😡 Mod override, non désinstalable
- - `null` : 😀 Mod Weidu
+ - `null` : 😀 Mod Weidu (on considère que le mod est weidu par défaut, à terme il faut choisir une autre valeur)
 
 `translation_state` : le mod est traduit ou pas, ou s'il ne nécessite pas de traduction. Valeurs possibles :
  - `true` : ✅ Mod traduit en français
@@ -124,14 +125,14 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - `false` : 🔴 Mod à éviter ou obsolète
  - `null` : 🟡 Mod pouvant poser des problèmes
 
-`languages` : langues dans lesquels le mod existe, actuellement non affiché
+`languages` : langues dans lesquels le mod existe, actuellement non affiché, format [ISO-3166-1](https://fr.wikipedia.org/wiki/ISO_3166-1)
 
 `status` : la raison peut être indiquée dans les `notes`, actuellement sans impact
  - `true` : mod actif
  - `null` : mod en cours d'ajout mais pas encore finalisé
  - `false` : mod à ne pas afficher pour une autre raison à indiquer dans `notes`
- - `"obsolete"` : incompatible avec les dernières versions des jeux originaux ou/et EE (exemple d'un mod fait sous EE 2.3 mais jamais upgrade depuis)
- - `"embed"` : intégré en tant que composant (et maintenu) dans un autre mod
+ - `"obsolete"` : incompatible avec les dernières versions des jeux originaux ou/et EE (exemple d'un mod fait sous EE 1.3 mais jamais upgrade depuis)
+ - `"embed"` : intégré en tant que composant (et maintenu) dans un autre mod ou pack
  - `"missing"` : lien de téléchargement disparu
  - `"wip"` : le mod est phase de développement
 
