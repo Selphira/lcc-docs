@@ -52,7 +52,6 @@ Les notes du mod écrites par les contributeurs pour compléter la description d
 - On y met :
     - Des conseils sur l'installation
     - Les incompatibilités éventuelles
-    - Les breakingchanges (ce mod)
     - Les points d'attention variés
 - On évite :
     - Les jugements de valeur : `le travail de cet auteur laisse à désirer`
@@ -115,4 +114,4 @@ Certaines catégories s'entrecroisent, on évitera de toutes les renseigner.\
 Quelques exemples :
 - Un mod d'`Interface` est souvent également `Cosmétique`. `Cosmétique` étant plus générique, on ne précisera que `Interface`.
 - Un mod peut ajouter un `PNJ recrutable` et rendre le `Kit` du personnage disponible pour le PJ. On garde `PNJ recutable` car c'est l'objectif du mod. De plus, on ne veut pas de description d'un personnage dans la catégorie `Kit`.
-- Un pack de `Sort et objet` peut être vendu chez des `Forgeron et marchand`. Pas de solution miracle. La description présente-t-elle les objets ou le marchand ? Si la réponse n'est pas évident, il n'est pas interdit de mettre les deux catégories.
+- Un pack de `Sort et objet` peut être vendu chez des `Forgeron et marchand`. Pas de solution miracle. La description présente-t-elle les objets ou le marchand ? Si la réponse n'est pas évidente, il n'est pas interdit de mettre les deux catégories.
