@@ -42,11 +42,11 @@ attrs_icon_data: Dict[str, Dict[tuple, Dict[str, str]]] = {
         },
     },
     "is_weidu": {
-        (1, 2, "1", "2"): {
+        (True,): {
             "icon": "😀",
             "label": "Mod Weidu",
         },
-        (0, "0"): {
+        (False,): {
             "icon": "😡",
             "label": "Mod override, non désinstalable",
         },

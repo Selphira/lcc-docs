@@ -49,7 +49,6 @@ class Mod:
         games,
         safe,
         translation_state,
-        is_weidu,
         languages,
         authors,
         status,
@@ -65,7 +64,6 @@ class Mod:
         self.team = team
         self._games = games
         self.translation_state = translation_state
-        self.is_weidu = is_weidu
         self.languages = languages
         self.authors = authors
         self.status = status
@@ -75,6 +73,10 @@ class Mod:
     @property
     def id(self) -> str:
         return slugify(self.name)
+
+    @property
+    def is_weidu(self) -> bool:
+        return self.tp2 != "non-weidu"
 
     @property
     def urls_instance(self) -> list:

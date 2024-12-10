@@ -56,7 +56,6 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
         "authors": [],
         "team": [],
         "notes": [],
-        "is_weidu": 1,
         "translation_state": "no",
         "safe": 2,
         "languages": [],
@@ -108,11 +107,6 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 `authors`: liste des personnes ayant participé à la création/maintenance du mod, actuellement non affiché\
 `team` : liste des personnes ayant participé à la traduction du mod\
 `notes` : liste de messages indiquant des points d'attention\
-`is_weidu` : si le mod est installable ou désinstallable via weidu. Valeurs possibles :
- - `2` : 😀 Mod Weidu
- - `1` : 😀 Mod Weidu (weidu "a priori" : cette valeur exprime un doute, à terme il faut choisir une autre valeur)
- - `0` : 😡 Mod override, non désinstalable
-
 `translation_state` : le mod est traduit ou pas, ou s'il ne nécessite pas de traduction. Valeurs possibles :
  - `"yes"` : ✅ Mod traduit en français
  - `"no"` : ❌ Mod non traduit en français
@@ -138,7 +132,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 
 `last_update` : date connue de la dernière mise à jour du mod, champ automatique, format YYYY-MM
 
-`tp2` : nom du fichier tp2 du mod. À terme, remplacera le champ `is_weidu`. Valeurs possibles :
+`tp2` : nom du fichier tp2 du mod. Valeurs possibles :
  - `"nom du tp2"` : le vrai nom du tp2
  - `"n/a"` : non concerné (notamment pour les utilitaires)
  - `"non-weidu"` : pas de fichier tp2 car non-WeiDU
