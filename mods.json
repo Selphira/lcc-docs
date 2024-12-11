@@ -221,7 +221,7 @@
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De son propre aveu, il n'est pas très fiable..."
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "",
@@ -445,7 +445,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2002-01",
         "tp2": ""
     },
     {
@@ -630,13 +630,11 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a été archivé par son auteur qui ne semble pas vouloir lui donner suite."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "archived",
         "last_update": "2020-07",
         "tp2": ""
     },
@@ -1253,15 +1251,13 @@
             "AnnabelleRose"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod écrase beaucoup de fichiers de sorts du jeu et n'est donc pas compatible avec de nombreux mods de sorts."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2007-12",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Alternate Goo Portrait",
@@ -1280,10 +1276,11 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Notez que le portrait n'a pas été converti au standard des jeux EE."
+            "Notez que le portrait n'a pas été converti au standard des jeux EE.",
+            "Directement ajouté dans le mod [[Goo the Disembodied Floating Eyeball]]."
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
         "status": "embed",
         "last_update": "2008-01",
@@ -1399,7 +1396,7 @@
         "tp2": ""
     },
     {
-        "name": "Amazon Kit (beta)",
+        "name": "Amazon Kit",
         "description": "Ce mod ajoute un profil de combattante, l'Amazone (très) librement adapté de celui du Manuel complet du guerrier, et disponible pour un personnage humain, demi-elfe ou demi-orque. Il propose aussi un portrait basé sur une photo de Keira Knightley que vous pouvez utiliser pour votre personnage.",
         "urls": [
             "https://arcanecoast.ru/mod/amazon-kit",
@@ -1419,9 +1416,9 @@
             "Le second lien permet de télécharger le mod sans avoir à s'inscrire."
         ],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "wip",
         "last_update": "2006-05",
         "tp2": ""
     },
@@ -1469,7 +1466,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Malheureusement, les derniers composants qui les installent dans des magasins écrasent les fichiers .sto et rendent donc ce mod incompatible avec d'autres.  À installer à vos risques et périls."
+            "Malheureusement, les derniers composants qui les installent dans des magasins écrasent les fichiers .sto et rendent donc ce mod incompatible avec d'autres. À installer à vos risques et périls."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -1593,7 +1590,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [
             "L'auteur a supprimé le lien de téléchargement. Il a été récupéré et mis en ligne sur le lien github."
@@ -1880,7 +1879,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2018-12",
         "tp2": ""
     },
@@ -1959,7 +1958,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "",
         "tp2": ""
     },
@@ -2631,7 +2630,7 @@
             "cz",
             "fr"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2024-10",
         "tp2": "AMDK"
     },
@@ -2766,7 +2765,7 @@
         "translation_state": "no",
         "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "wip",
         "last_update": "2013-01",
         "tp2": ""
     },
@@ -3032,7 +3031,8 @@
         "name": "Azure NPC Romance",
         "description": "Azure est une druidesse accompagnée de son loup, Sharo, qui la suit partout. Elle dispose d'un profil particulier, Allié de la nature. Bien qu'encore en version beta, ce mod est déjà jouable et semble prometteur. Malheureusement, son développement est à l'arrêt depuis un moment.",
         "urls": [
-            "http://balduran.blackwyrmlair.net/"
+            "http://balduran.blackwyrmlair.net/",
+            "http://forums.blackwyrmlair.net/index.php?showtopic=1220"
         ],
         "categories": [
             "PNJ recrutable"
@@ -3045,10 +3045,10 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
-        "status": "active",
-        "last_update": "",
+        "status": "wip",
+        "last_update": "2006-08",
         "tp2": ""
     },
     {
@@ -3865,7 +3865,7 @@
             "Nécessite Siege of Dragonspear."
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2016-06",
@@ -4312,8 +4312,8 @@
         "translation_state": "no",
         "safe": 1,
         "languages": [],
-        "status": "active",
-        "last_update": "",
+        "status": "missing",
+        "last_update": "2008-01",
         "tp2": ""
     },
     {
@@ -4396,7 +4396,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2016-01",
@@ -4417,13 +4417,13 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Comme ce mod fait exactement la même chose que le composant `Importer davantage d'objets dans Shadows of Amn` de [[BGT Tweak Pack]], veuillez ne pas les installer ensemble."
+            "Comme ce mod fait exactement la même chose que le composant `Importer davantage d'objets dans Shadows of Amn` de [[BGT Tweak Pack]]."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
-        "status": "active",
-        "last_update": "",
+        "status": "embed",
+        "last_update": "2006-07",
         "tp2": ""
     },
     {
@@ -4697,10 +4697,10 @@
             "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[Never Ending Journey]] et/ou [[Tortured Souls-BP]]. Dans ce cas, téléchargez le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2019-02",
         "tp2": ""
     },
     {
@@ -5044,11 +5044,9 @@
             "temnix"
         ],
         "team": [],
-        "notes": [
-            "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... De plus, il s'agit d'un mod override qui écrase 3 fichiers du jeu. À installer à vos risques et périls."
-        ],
+        "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "",
@@ -5119,12 +5117,12 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Par ailleurs, la sortie d'[[Infinity Animations]] l'a rendu complètement <u>obsolète</u>."
+            "La sortie d'[[Infinity Animations]] l'a rendu complètement obsolète."
         ],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "",
         "tp2": ""
     },
@@ -5187,7 +5185,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2018-09",
@@ -5723,7 +5721,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2001-06",
         "tp2": ""
     },
     {
@@ -5768,7 +5766,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2016-04",
@@ -5790,9 +5788,7 @@
             "Icendoan"
         ],
         "team": [],
-        "notes": [
-            "Attention : il n'a pas été testé !"
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -5878,7 +5874,7 @@
             "http://www.arcanecoast.ru/download/Branwenv13.7z"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
@@ -5922,7 +5918,7 @@
             "jazira"
         ],
         "notes": [
-            "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Perils of Branwen]], [[Branwen NPC]] et [[Baldur's Gate 1 NPCs in SoA & ToB]]."
+            "Attention : ce mod est incompatible avec les mods qui introduisent aussi Branwen dans BG2, comme [[Perils of Branwen]], [[Branwen NPC]] et [[Baldur's Gate 1 NPCs in SoA & ToB]]."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -7158,7 +7154,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2019-02",
         "tp2": ""
     },
@@ -8670,7 +8666,7 @@
         "translation_state": "yes",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "",
         "tp2": ""
     },
@@ -9222,7 +9218,7 @@
         "translation_state": "yes",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "",
         "tp2": ""
     },
@@ -10637,7 +10633,7 @@
         "translation_state": "yes",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "",
         "tp2": ""
     },
@@ -10661,7 +10657,7 @@
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "",
         "tp2": ""
     },
@@ -10685,7 +10681,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "",
         "tp2": ""
     },
@@ -10715,7 +10711,7 @@
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "",
         "tp2": ""
     },
@@ -11113,7 +11109,7 @@
         "translation_state": "yes",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2010-07",
         "tp2": ""
     },
@@ -11263,7 +11259,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "wip",
         "last_update": "",
         "tp2": ""
     },
@@ -12223,8 +12219,8 @@
         "languages": [
             "fr"
         ],
-        "status": "active",
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2003-07",
         "tp2": ""
     },
     {
@@ -14627,7 +14623,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2010-09",
         "tp2": ""
     },
@@ -15984,7 +15980,7 @@
         "translation_state": "yes",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "",
         "tp2": ""
     },
@@ -17483,7 +17479,7 @@
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2011-05",
         "tp2": ""
     },
@@ -18219,15 +18215,13 @@
         "team": [
             "Valandil"
         ],
-        "notes": [
-            "Attention : ce mod écrase les fichiers des profils du jeu et n'est donc pas compatible avec la plupart des mods qui les utilisent. À installer en connaissance de cause !"
-        ],
+        "notes": [],
         "translation_state": "yes",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
-        "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "status": "wip",
+        "last_update": "2018-03",
+        "tp2": "non-weidu"
     },
     {
         "name": "Kit Tomes",
@@ -18360,7 +18354,7 @@
     },
     {
         "name": "Knights kits",
-        "description": "À l'origine un mod pour BG, ce mod a depuis été récrit pour BG2 et BGT. Il modifie grandement les règles du jeu pour les rapprocher au plus près de celles d'AD&amp;D, notamment en ce qui concerne le personnage, son équipement et le système de magie :|- modification des classes et des races.|- réorganisation du système de magie des prêtres.|- nouveaux sorts divins et profanes.|- plus de 100 nouveaux profils issus des sources officielles d'AD&amp;D. |- modification de la puissance des armes, en fonction de la taille de l'adversaire et ajout de 6 nouveaux types d'armes.|- modification du système d'armure et ajout d'un nouveau type d'armure.|Plus d'information sur la <a href=\"http://www.knight.privat.t-online.de/KnightsBG2Kits.html\">page d'accueil</a> de ce mod (en allemand).",
+        "description": "À l'origine un mod pour BG, ce mod a depuis été récrit pour BG2 et BGT. Il modifie grandement les règles du jeu pour les rapprocher au plus près de celles d'AD&amp;D, notamment en ce qui concerne le personnage, son équipement et le système de magie :|- modification des classes et des races.|- réorganisation du système de magie des prêtres.|- nouveaux sorts divins et profanes.|- plus de 100 nouveaux profils issus des sources officielles d'AD&amp;D. |- modification de la puissance des armes, en fonction de la taille de l'adversaire et ajout de 6 nouveaux types d'armes.|- modification du système d'armure et ajout d'un nouveau type d'armure.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/knights-kits.11/"
         ],
@@ -18383,7 +18377,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2018-02",
         "tp2": ""
     },
     {
@@ -18607,9 +18601,9 @@
             "Écrit par Lava en 2008 pour son usage personnel, puis partagé avec la communauté, son auteur a décidé de l'archiver et de ne plus le maintenir, considérant qu'il n'était pas à la hauteur..."
         ],
         "translation_state": "no",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "archived",
         "last_update": "2020-04",
         "tp2": ""
     },
@@ -21120,7 +21114,7 @@
             "Malheureusement, le code n'est pas optimisé et présente quelques bugs."
         ],
         "translation_state": "n/a",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2007-04",
@@ -21730,7 +21724,7 @@
     },
     {
         "name": "NPC Bodies",
-        "description": "",
+        "description": "Ce mod est destiné à ceux qui jouent un jeu avec peu ou pas de rechargement (donc en utilisant les services de résurrection des temples au lieu de recharger lorsqu'un PNJ meurt) et comporte trois composants qui peuvent être installés indépendamment les uns des autres.",
         "urls": [
             "https://forums.beamdog.com/discussion/68547/npc-bodies-a-death-and-resurrection-overhaul-for-eet",
             "https://www.gibberlings3.net/forums/topic/28385-npc-bodies/"
@@ -21750,7 +21744,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2019-06",
@@ -25229,7 +25223,7 @@
             "Il est désormais obsolète et a été intégré dans [[The Tweaks Anthology]]."
         ],
         "translation_state": "yes",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
         "status": "embed",
         "last_update": "2012-08",
@@ -26069,7 +26063,7 @@
         "languages": [],
         "status": "active",
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "High Quality soundclips for BG2:EE extended content",
@@ -26445,7 +26439,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2021-07",
@@ -26627,7 +26621,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "",
         "tp2": ""
     },
@@ -27992,7 +27986,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2013-12",
@@ -28731,9 +28725,11 @@
         "team": [
             "JohnBob"
         ],
-        "notes": [],
+        "notes": [
+            "La plupart des composants nécessitent [[EEex]]."
+        ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "",
@@ -29217,7 +29213,7 @@
             "Attention : Modifiez l'extension du fichier téléchargé en .exe pour pouvoir l'installer."
         ],
         "translation_state": "no",
-        "safe": 0,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "",
@@ -29443,7 +29439,7 @@
         "translation_state": "no",
         "safe": 1,
         "languages": [],
-        "status": "obsolete",
+        "status": "missing",
         "last_update": "2016-04",
         "tp2": ""
     },
@@ -29727,7 +29723,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "missing",
         "last_update": "",
@@ -29966,7 +29962,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2013-02",
@@ -30145,7 +30141,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
         "status": "obsolete",
         "last_update": "2008-01",
@@ -30443,7 +30439,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "missing",
         "last_update": "",
@@ -30900,7 +30896,7 @@
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. À installer à vos risques et périls."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2016-10",
@@ -31683,7 +31679,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "",
         "tp2": ""
     },
@@ -31845,14 +31841,16 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "temnix"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
-        "last_update": "",
+        "status": "missing",
+        "last_update": "2020-12",
         "tp2": ""
     },
     {
@@ -31973,7 +31971,7 @@
         "translation_state": "no",
         "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "wip",
         "last_update": "",
         "tp2": ""
     },
@@ -33287,7 +33285,7 @@
             "Attention : Ce mod nécessite l'installation du mod [[Geomantic Sorcerer kit]]."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2024-11",
@@ -33310,7 +33308,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "",
@@ -33399,11 +33397,11 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2023-01",
         "tp2": "TobEx_AfterLife"
     },
@@ -33816,7 +33814,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2023-04",
@@ -34049,13 +34047,11 @@
             "Lava Del'Vortel"
         ],
         "team": [],
-        "notes": [
-            "Attention : ce mod a été archivé par Lava qui ne le maintient plus."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "archived",
         "last_update": "2020-07",
         "tp2": ""
     },
@@ -34181,7 +34177,7 @@
             "Ce mod a été rendu complètement obsolète par [[Sword Coast Stratagems]]."
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "obsolete",
         "last_update": "",
@@ -34424,7 +34420,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 0,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2009-02",
@@ -34451,9 +34447,9 @@
             "A été intégré à [[Super Ultimate portrait pack]]"
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "",
         "tp2": ""
     },
@@ -34481,7 +34477,7 @@
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "",
@@ -34504,7 +34500,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "missing",
         "last_update": "",
@@ -34864,12 +34860,12 @@
             "Graoumf"
         ],
         "notes": [
-            "Ce mod est désormais obsolète. Préférez-lui le composant `Récipients uniques` du mod [[The Tweaks Anthology]], qui, de plus, est compatible avec les jeux EE !"
+            "Préférez-lui le composant `Récipients uniques` du mod [[The Tweaks Anthology]], qui, de plus, est compatible avec les jeux EE !"
         ],
         "translation_state": "yes",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2009-12",
         "tp2": ""
     },
@@ -34949,7 +34945,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2019-07",
@@ -35123,7 +35119,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2013-11",
@@ -35206,7 +35202,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2014-07",
@@ -35622,7 +35618,7 @@
             "Attention : ce mod est obsolète depuis son intégration dans le [[Glam's NPC Pack]]."
         ],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
         "status": "embed",
         "last_update": "2019-08",
@@ -35998,7 +35994,7 @@
             "La version EET est présente via le lien github."
         ],
         "translation_state": "yes",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "fr"
@@ -36121,7 +36117,7 @@
         "tp2": "weasels!"
     },
     {
-        "name": "Weavescale Sorcerer and Alarin NPC (WIP)",
+        "name": "Weavescale Sorcerer and Alarin NPC",
         "description": "",
         "urls": [
             "https://forums.beamdog.com/discussion/66640/wip-weavescale-sorcerer-kit-available-for-testing-and-alarin-npc/p1"
@@ -36137,9 +36133,7 @@
             "Arunsun"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est toujours en phase de développement."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 0,
         "languages": [],
@@ -36480,16 +36474,18 @@
             "BG2EE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Grammarsalad"
+        ],
         "team": [],
         "notes": [
-            "Mis à jour pour la dernière fois en 2015, il n'est certainement plus compatible avec les versions récentes du jeu. À installer à vos risques et périls. Heureusement pour vous, il existe une alternative beaucoup plus récente et plus complète : le mod [[The Chaos Sorcerer: A Wild Magic Kit for Sorcerers]]."
+            "Il existe une alternative beaucoup plus récente et plus complète : le mod [[The Chaos Sorcerer: A Wild Magic Kit for Sorcerers]]."
         ],
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
-        "last_update": "",
+        "status": "obsolete",
+        "last_update": "2015-08",
         "tp2": ""
     },
     {
@@ -37325,7 +37321,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2009-06",
@@ -37357,7 +37353,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "09-2021",
+        "last_update": "2021-09",
         "tp2": "iiItemMod"
     },
     {
@@ -37386,7 +37382,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "09-2021",
+        "last_update": "2021-09",
         "tp2": "iiKeyNames"
     },
     {
@@ -37512,7 +37508,7 @@
             "en",
             "es"
         ],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2021-09",
         "tp2": "iiTweak"
     },
@@ -38499,7 +38495,7 @@
             "Le lien de téléchargement ne fonctionne plus."
         ],
         "translation_state": "no",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
         "status": "missing",
         "last_update": "2004-06",
@@ -38669,7 +38665,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2006-03",
@@ -40217,7 +40213,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2019-09",
@@ -40560,7 +40556,7 @@
             "Pour les versions EE, privilégiez [[Random rolls using RDRAND]]."
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2023-07",
@@ -40940,7 +40936,7 @@
     },
     {
         "name": "Orelios",
-        "description": "Orelios est un moine sans kit d'Aglarond qui a longtemps combattu Thay avant d'opter pour un mode de vie plus contemplatif. C'est du moins ce qu'il prétend... Il gagne des compétences spéciales au fil des niveaux. Il possède sa propre voix.",
+        "description": "Orelios est un moine sans kit d'Aglarond qui a longtemps combattu Thay avant d'opter pour un mode de vie plus contemplatif. C'est du moins ce qu'il prétend... Il gagne des compétences spéciales au fil des niveaux. Il possède sa propre voix. FOR 15, DEX 18, CON 16, INT 13, SAG 17, CHA 8.",
         "urls": [
             "https://github.com/PaulaMigrate/Orelios"
         ],
@@ -40956,12 +40952,9 @@
             "Danzig"
         ],
         "team": [],
-        "notes": [
-            "FOR 15, DEX 18, CON 16, INT 13, SAG 17, CHA 8",
-            "Ce mod est peu connu, il est possible qu'il créé des incompatibilités."
-        ],
+        "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
@@ -41378,7 +41371,7 @@
             "Une extension est prévue pour BG2."
         ],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -41730,7 +41723,7 @@
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "archived",
         "last_update": "2022-09",
         "tp2": ""
     },
@@ -42060,7 +42053,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
@@ -42086,7 +42079,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en",
             "de",
@@ -42289,7 +42282,7 @@
     },
     {
         "name": "Crevs' impressively small Fixpack",
-        "description": "Un petit fix pack fait par CrevsDaak. Il propose notamment un composant contre les dégâts infinis de la barrière de lame, il supprime des effets pouvant faire crasher les jeux ToB et un composant contre les boucles de dégâts des boucliers de feu.",
+        "description": "Un petit fix pack fait par Crevs Daak. Il propose notamment un composant contre les dégâts infinis de la barrière de lame, il supprime des effets pouvant faire crasher les jeux ToB et un composant contre les boucles de dégâts des boucliers de feu.",
         "urls": [
             "https://github.com/CrevsDaak/c7-fixpack"
         ],
@@ -42567,7 +42560,7 @@
             "Le premier lien permet de faire perdre 500 PO par jour, le second 1000."
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
