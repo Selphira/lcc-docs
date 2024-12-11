@@ -123,8 +123,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 
 `status` : la raison peut être indiquée dans les `notes`, actuellement sans impact
  - `"active"` : mod actif
- - `"draft"` : mod en cours d'ajout mais pas encore finalisé
- - `"inactive"` : mod à ne pas afficher pour une autre raison à indiquer dans `notes`
+ - `"archived"` : mod est archivé et donc non maintenu
  - `"obsolete"` : incompatible avec les dernières versions des jeux originaux ou/et EE (exemple d'un mod fait sous EE 1.3 mais jamais upgrade depuis)
  - `"embed"` : intégré en tant que composant (et maintenu) dans un autre mod ou pack
  - `"missing"` : lien de téléchargement disparu

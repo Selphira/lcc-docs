@@ -125,21 +125,55 @@ class Mod:
         description = self._convert_pipe(description)
         return self._convert_quote(description)
 
+    @property
+    def safe_note(self) -> int:
+        note = 2
+        if self.is_outdated:
+            note -= 1
+        if not self.is_weidu:
+            note -= 1
+        if "temnix" in self.authors:  # déso
+            note -= 1
+        if self.status == "archived":
+            note -= 1
+        elif self.status in {"embed", "obsolete"}:
+            note = 0
+        elif self.status in {"wip", "missing"}:
+            note = min(1, note)
+        return max(0, note)
+
+    @property
+    def is_EE(self) -> bool:
+        return bool(set(self.games) & set(Games.BG_EE()))
+
+    @property
+    def is_outdated(self) -> bool:
+        return bool(
+            self.last_update
+            and (
+                self.last_update < "2007-01"
+                or (self.last_update < "2019-01" and self.is_EE)
+            )
+        )
+
     def get_auto_notes(self) -> list:
         auto_notes = list()
-        if (
-            self.last_update
-            and self.last_update < "2021-06"
-            and self.safe <= 1
-            and set(self.games) & set(Games.BG_EE())
-        ):
+        if self.is_outdated and self.safe <= 1:
             year, _ = self.last_update.split("-")
-            auto_notes.append(
-                f"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec la dernière version du jeu."
-            )
-        if self.tp2 == "non-weidu":
+            if self.is_EE:
+                auto_notes.append(
+                    f"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec la dernière version du jeu."
+                )
+            else:
+                auto_notes.append(f"⚠️ : La dernière mise à jour date de {year}.")
+
+        if not self.is_weidu:
             auto_notes.append(
                 "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls."
+            )
+        if self.status == "archived":
+            auto_notes.append(
+                "Ce mod a été archivé par son auteur qui ne semble pas vouloir lui donner suite."
             )
         return auto_notes
 
