@@ -144,7 +144,9 @@ class Mod:
 
     @property
     def is_EE(self) -> bool:
-        return bool(set(self.games) & set(Games.BG_EE()))
+        return bool(
+            set(self.games) & set(Games.BG_EE() + Games.IWD_EE() + (Games.SOD,))
+        )
 
     @property
     def is_outdated(self) -> bool:
@@ -175,6 +177,8 @@ class Mod:
             auto_notes.append(
                 "Ce mod a été archivé par son auteur qui ne semble pas vouloir lui donner suite."
             )
+        elif self.status == "wip":
+            auto_notes.append("Ce mod est toujours en cours de réalisation.")
         return auto_notes
 
     @property

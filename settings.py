@@ -91,6 +91,10 @@ class Games(enum.StrEnum):
     def BG_EE(cls) -> tuple:
         return (cls.BGEE, cls.BG2EE, cls.EET)
 
+    @classmethod
+    def IWD_EE(cls) -> tuple:
+        return (cls.IWDEE, cls.IWD2EE)
+
 
 categorie_names = [
     "Patch non officiel",
