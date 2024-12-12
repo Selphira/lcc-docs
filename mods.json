@@ -6139,7 +6139,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2018-03",
@@ -6353,7 +6353,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Il a été retiré des sites de téléchargement en 2007 à cause d'un bug bloquant qui semblait impossible à résoudre. Plus d'infos <a href=\"http://www.clandlan.net/foros/topic/21972-mod-para-baldurs-gate-1/\">ici</a>."
+            "Il a été retiré des sites de téléchargement en 2007 à cause d'un bug bloquant qui semblait impossible à résoudre."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -6536,7 +6536,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2017-04",
@@ -6792,7 +6792,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2017-06",
         "tp2": ""
     },
     {
@@ -7274,7 +7274,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "missing",
+        "status": "obsolete",
         "last_update": "",
         "tp2": ""
     },
@@ -7330,26 +7330,27 @@
     },
     {
         "name": "Cloakwood Squares",
-        "description": "Ce mod est inspiré de deux fanfics de J. Compton (à qui on doit [[Kelsey NPC]], Keto et bien d'autres modules fabuleux). Il offre une longue scènette réjouissante et rigolote en proposant une sorte de \"Qui veut gagner des millions\" réunissant les PNJ du jeu : Keldorn en Jean-Pierre Foucault, Salvanas, Viconia, Imoen, Korgan... et bien d'autres. Pour assister à ce spectacle, il vous faudra rencontrer un certain Caffrey près de la Couronne de Cuivre.",
+        "description": "Ce mod est inspiré de deux fanfics de J. Compton (à qui on doit [[Kelsey NPC]], [[Keto NPC MOD For Baldur’s Gate 2]] et bien d'autres modules fabuleux). Il offre une longue scènette réjouissante et rigolote en proposant une sorte de \"Qui veut gagner des millions\" réunissant les PNJ du jeu : Keldorn en Jean-Pierre Foucault, Salvanas, Viconia, Imoen, Korgan... et bien d'autres. Pour assister à ce spectacle, il vous faudra rencontrer un certain Caffrey près de la Couronne de Cuivre.",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "jcompton"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2004-04",
         "tp2": ""
     },
     {
@@ -7422,10 +7423,11 @@
     {
         "name": "Compact Aura Cleanser",
         "description": "Ce mod semble avoir disparu...",
-        "urls": [],
+        "urls": [
+            "http://gamingnerdsrus.co/forum/index.php?action=downloads;sa=view;down=208"
+        ],
         "categories": [
-            "Sort et objet",
-            "Kit"
+            "Sort et objet"
         ],
         "games": [
             "BG2EE"
@@ -9687,11 +9689,11 @@
             "Ce mod est désormais inclus dans [[Interaction Expansion Project]]."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2023-05",
         "tp2": "dornfriendship"
     },
@@ -10960,7 +10962,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 0,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -11637,7 +11639,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2021-07",
         "tp2": ""
     },
     {
@@ -11653,15 +11655,22 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Riklaunim"
+        ],
         "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 2,
-        "languages": [],
+        "notes": [
+            "Il s'agit d'un mod override."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2009-05",
+        "tp2": "Evilness"
     },
     {
         "name": "Exnem's Addon",
@@ -12384,10 +12393,10 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
-        "team": [
+        "authors": [
             "temnix"
         ],
+        "team": [],
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
@@ -12395,7 +12404,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2020-03",
         "tp2": ""
     },
     {
@@ -14631,7 +14640,7 @@
         "name": "High Level Abilities as Innate Abilities",
         "description": "Ce mini mod transforme les HLA des mages et des prêtres en capacités innées, libérant ainsi la barre des sorts d'emplacements pour des sorts de niveau 7 ou 9.",
         "urls": [
-            "https://forums.beamdog.com/discussion/34002/high-level-abilities-as-innate-abilities"
+            "https://forums.beamdog.com/discussion/34002/high-level-abilities-as-innate-abilities#Comment_543076"
         ],
         "categories": [
             "Gameplay"
@@ -14644,12 +14653,12 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2014-08",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "High Moor Shaman w/leveling Familiar",
@@ -14730,7 +14739,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "missing",
         "last_update": "",
@@ -14992,7 +15001,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2015-10",
@@ -15528,7 +15537,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -16055,7 +16064,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2018-08",
@@ -16494,7 +16503,7 @@
         "description": "Anciennement Restored BG1 Sounds, ce petit mod pour Baldur's Gate II restaure de nombreux effets sonores utilisés dans le jeu Baldur's Gate original pour le simple plaisir d'une \"expérience BG1\" un peu plus complète dont certains joueurs semblent nostalgiques.|Certains fichiers audio restaurés ont été nettoyés des artefacts de compression audibles ou de tout degré d'écrêtage. Les voix originales du lanceur de sorts étaient particulièrement affectées et souvent désagréables à écouter.|Installez-le après tout autre mod qui modifie les sorts.",
         "urls": [
             "http://www.shsforums.net/files/file/1081-infinity-sounds/",
-            "https://github.com/skellytz/infinity-sounds"
+            "https://github.com/Spellhold-Studios/Infinity-Sounds"
         ],
         "categories": [
             "Portrait et son"
@@ -16662,7 +16671,7 @@
         "tp2": ""
     },
     {
-        "name": "Isaac NPC (WIP)",
+        "name": "Isaac NPC",
         "description": "",
         "urls": [
             "https://skitias-stories.com/mods-view.php?name=Isaac"
@@ -16997,7 +17006,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2015-10",
@@ -17273,7 +17282,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "missing",
         "last_update": "",
@@ -17361,7 +17370,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2015-03",
@@ -17537,7 +17546,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2017-07",
@@ -17643,11 +17652,11 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 0,
+        "safe": 1,
         "languages": [
             "es"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "",
         "tp2": "non-weidu"
     },
@@ -17768,7 +17777,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2016-04",
@@ -18343,7 +18352,7 @@
             "L'installation de [[Generalized Biffing]] est fortement recommandée."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en",
             "de"
@@ -18786,11 +18795,11 @@
         "name": "Legion of Hell",
         "description": "Ce mod ajoute cinq nouveaux profils tirés des chapitres interdits (D&amp;D 3e édition) : Disciple de Dispater (guerrier), Disciple de Mammon (voleur), Disciple de Méphistophélès (guerrier), Disciple de Belzébuth (voleur) et Disciple d'Asmodée (prêtre).",
         "urls": [
+            "http://www.shsforums.net/topic/55145-bwp-v112-released/page-6#entry557184",
             "https://www.mediafire.com/file/383n6bzz0lmnzla/LOHMod.zip/file"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -18805,7 +18814,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2013-04",
         "tp2": ""
     },
     {
@@ -19598,7 +19607,7 @@
             "Le lien semble avoir disparu."
         ],
         "translation_state": "yes",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "fr"
         ],
@@ -19976,11 +19985,11 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "es"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -20253,7 +20262,7 @@
     },
     {
         "name": "Menace sur le Royaume de Diamant Éternel",
-        "description": "Vous avez tous adoré Excalibur, mais vous êtes-vous jamais demandé pourquoi les seules femmes présentes y sont nuisibles ? Guenièvre l'adultère, Morgane la méchante... Pourquoi les Ordres de Paladins ne comportent-ils que des hommes ? Et si tout ceci n'était qu'une fable racontée par les hommes pour dissimuler la vérité ?|Ce mod tente de rétablir la vérité, du moins SA VÉRITÉ... L'aventure se situe dans une autre dimension, dans le Royaume de Diamant Éternel, dirigé par une famille de paladins que tente de renverser une paladine renégate. Cette dernière a passé un pacte plutôt spécial avec des \"forces\" pour le moins particulières... La richesse du Royaume provient de ses mines et sa puissance de la protection que lui a toujours accordée Diamantor, le (\"Demi-\" ?) Dieu Dragon d'Argent. Il s'agira ici de combattre - entre autres - des Dragons et de leur redonner toute leur place et bon nombre de leurs pouvoirs de destruction...|Développé sur notre site, ce mod est toujours en phase de construction. Les deux premiers chapitres devraient parâitre dans le courant de l'année.",
+        "description": "Vous avez tous adoré Excalibur, mais vous êtes-vous jamais demandé pourquoi les seules femmes présentes y sont nuisibles ? Guenièvre l'adultère, Morgane la méchante... Pourquoi les Ordres de Paladins ne comportent-ils que des hommes ? Et si tout ceci n'était qu'une fable racontée par les hommes pour dissimuler la vérité ?|Ce mod tente de rétablir la vérité, du moins SA VÉRITÉ... L'aventure se situe dans une autre dimension, dans le Royaume de Diamant Éternel, dirigé par une famille de paladins que tente de renverser une paladine renégate. Cette dernière a passé un pacte plutôt spécial avec des \"forces\" pour le moins particulières... La richesse du Royaume provient de ses mines et sa puissance de la protection que lui a toujours accordée Diamantor, le (\"Demi-\" ?) Dieu Dragon d'Argent. Il s'agira ici de combattre - entre autres - des Dragons et de leur redonner toute leur place et bon nombre de leurs pouvoirs de destruction...",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/menace-sur-le-royaume-de-diamant-eternel/"
         ],
@@ -20274,7 +20283,7 @@
         ],
         "notes": [],
         "translation_state": "yes",
-        "safe": 0,
+        "safe": 1,
         "languages": [
             "fr"
         ],
@@ -20859,7 +20868,7 @@
         "languages": [
             "es"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "",
         "tp2": "non-weidu"
     },
@@ -21084,7 +21093,7 @@
             "Seul le second lien de téléchargement, fourni par deratiseur, contient la traduction française. Sa version est par ailleurs aussi compatible avec le jeu BG2 original."
         ],
         "translation_state": "yes",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en",
             "fr"
@@ -21409,7 +21418,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2013-03",
@@ -21658,7 +21667,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2018-12",
         "tp2": ""
     },
@@ -21744,7 +21753,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2019-06",
@@ -22189,7 +22198,7 @@
             "Choississez le premier lien pour la version BG2/BGT et le second pour la version BG2EE/EET."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
@@ -22505,7 +22514,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2014-03",
@@ -22558,7 +22567,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2015-12",
@@ -23004,7 +23013,7 @@
     },
     {
         "name": "One Pixel Productions High-Quality Music for BGT",
-        "description": "Créé par pro5, ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable du mod BGTMusic, notamment le composant `Musique intégrale de Baldur's Gat`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT.",
+        "description": "Créé par pro5, ce mod remplace l'ancienne procédure plutôt alambiquée pour remplacer automatiquement les musiques du jeu dans BGT par les mêmes, mais de meilleure qualité, à 44,1 kHz. Il affecte tous les fichiers audio .acm du jeu.|Vous devez extraire les deux paquets 1PP High-Quality Music for Tutu/ToSC et for SoA/ToB dans votre répertoire BGT SANS les installer, puis installer ce mod.|Son composant optionnel qui corrige les pistes musicales dans les zones nécessite l'installation préalable du mod BGTMusic, notamment le composant `Musique intégrale de Baldur's Gate`. Ce mod doit être installé après tous les mods qui ajoutent des fichiers audio .acm dans le jeu.|Cerise sur le gâteau, un nouveau composant permet de restaurer le thème du menu principal de BG2 après la transition BGT.",
         "urls": [
             "http://www.shsforums.net/topic/50032-1pp-high-quality-music-for-soatob-tututosc-iwd-pst/page-4#entry567024"
         ],
@@ -23020,10 +23029,10 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2014-02",
         "tp2": ""
     },
     {
@@ -23044,7 +23053,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2011-07",
@@ -23068,7 +23077,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2012-08",
@@ -23092,7 +23101,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2012-08",
@@ -23116,7 +23125,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2012-08",
@@ -23620,7 +23629,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2018-12",
         "tp2": "palemaster"
     },
@@ -24579,6 +24588,7 @@
         "name": "Polymorph fixes for IWD:EE",
         "description": "Components:|- Polymorph fixes for IWD:EE|- Polymorph fixes for IWD:EE|- Patch for nymph.BCS (fixes crash with [[EEex]])|- Should shapeshift movement bonuses bypass Free Action?|- Increase movement speed of Winter Wolf and Polar Bear forms|- Uncap Crippling Strike (capped at -7 in v2.5 and v2.6.6)|- Patch shortbows to use shortbow visuals (as in classic IWD)|- Object.ids - Add identifiers if missing (for scripting)|- Minor AI tweak (enemies and invisible PCs)||Install info:|- All components can be installed independently and in any order.|- Component 1 assumes you are using vanilla Shapechange forms. Install before mods that change creature stats (ex. Improved HoF)|- Components 3-6 will not conflict with similar components in the mod [[Better IWD Pregen]].||<a href=\"https://github.com/D2-mods/Polymorph-fixes-for-IWDEE/blob/main/README.md#additional-info\">See additional info...</a>",
         "urls": [
+            "https://forums.beamdog.com/discussion/82676/",
             "https://github.com/D2-mods/Polymorph-fixes-for-IWDEE"
         ],
         "categories": [
@@ -28934,7 +28944,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "",
@@ -40160,7 +40170,7 @@
         "tp2": "yoshimo"
     },
     {
-        "name": "Talents of Faerûn (WIP)",
+        "name": "Talents of Faerûn",
         "description": "Ce très gros mod est une collection de plusieurs dizaines de mods. Il contient de nombreux ajustements optionnels à diverses parties du jeu, se concentrant sur l'expansion et le rééquilibrage des capacités du joueur. Il comprend des dizaines de HLA, une révision des kits existants, un système de sous-race etc",
         "urls": [
             "https://www.gibberlings3.net/files/file/1041-talents-of-faer%C3%BBn/",
@@ -40178,9 +40188,7 @@
             "DavidW"
         ],
         "team": [],
-        "notes": [
-            "Le mod est encore en bêta. Wait and See."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -42959,5 +42967,237 @@
         "status": "active",
         "last_update": "2021-08",
         "tp2": "ConvenienceScript"
+    },
+    {
+        "name": "Voices Voices Extravaganza - AI dialog voiceovers",
+        "description": "Mod Weidu qui ajoute des voix off en anglais générées par l'IA pour tous les personnages de Baldur's Gate 1.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38809-bg1-voices-voices-extravaganza-ai-dialog-voiceovers/",
+            "https://github.com/ColossusChang/VoicesVoicesExtravaganza"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG",
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "Colossus"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-10",
+        "tp2": ""
+    },
+    {
+        "name": "BG More Faster Better",
+        "description": "Ce mod augmente la vitesse de déplacement des membres du groupe qui portent des bottes. Des bottes de base peuvent être achetées dans certains magasins pour équiper les membres du groupe.",
+        "urls": [
+            "http://www.shsforums.net/topic/56532-bg-more-faster-better/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG"
+        ],
+        "authors": [
+            "Eirinjas"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2013-08",
+        "tp2": ""
+    },
+    {
+        "name": "No Fences",
+        "description": "Ce mod désactive la possibilité de vendre des objets volés (uniquement aux marchands) dans BG2. Les objets volés à la tire aux PNJ peuvent toujours être vendus normalement. La valeur de la marge du magasin des contrebandiers d'Amketheran est également fixée.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/45",
+            "http://www.shsforums.net/topic/59084-no-fences/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "ikonomov"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-09",
+        "tp2": ""
+    },
+    {
+        "name": "Minions clear fog of war, travel between areas and set off traps",
+        "description": "Ce mod contient plusieurs composants.|Les invocations et les créatures charmées dissipent le brouillard de guerre.|Les invocations peuvent voyager entre les zones.|Tout le monde (y compris les ennemis) peuvent activer les pièges.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/82634/mod-summonsfow-minions-clear-fog-of-war-travel-between-areas-and-set-off-traps",
+            "https://github.com/Endarire/Summons-and-charmed-creatures-clear-FoW-Fog-of-War-"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Allbrother"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2023-09",
+        "tp2": ""
+    },
+    {
+        "name": "Lore Friendly Easy Mod",
+        "description": "Ce mod ajoute 3 capacités spéciales au joueur afin de rendre le jeu un peu plus facile : Résurrection, Sanctuaire et Soin des blessures graves. Pour obtenir ces sorts, il faut boire la potion violette posée dans l'étagère à l'auberge de Château-Suif.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/22"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Ian"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-03",
+        "tp2": ""
+    },
+    {
+        "name": "Show HP on NPC",
+        "description": "Par défaut, le fait d'appuyer sur la touche TAB n'affiche les HP que sur les membres du groupe, ce tweak modifie le fichier exécutable principal pour afficher les HP sur les autres PNJ également.",
+        "urls": [
+            "http://www.shsforums.net/topic/60653-show-hp-on-npc/"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Insomniator"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2020-10",
+        "tp2": ""
+    },
+    {
+        "name": "EEScript",
+        "description": "",
+        "urls": [
+            "https://github.com/hybridgame/EEScript"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "hybridgame"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-10",
+        "tp2": "EEScript"
+    },
+    {
+        "name": "Diablofication",
+        "description": "Diablofication est une modification de l'Infinity Engine qui vise à implémenter certains des mécanismes connus et amusants des jeux Diablo dans Baldur's Gate Enhanced Edition. L'objectif n'étant pas de bouleverser le jeu mais de le rendre plus attrayant. Lisez bien le README.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/35393-diablofication/",
+            "https://github.com/m-architek/Diablofication"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "marchitek"
+        ],
+        "team": [],
+        "notes": [
+            "Seule la version 2.6 de BGEE fonctionne, sans SoD. Windows uniquement."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en",
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2024-08",
+        "tp2": "Diablofication"
+    },
+    {
+        "name": "Premade Party Adder",
+        "description": "Permet au joueur d'ajouter des parties personnalisées à l'écran de la nouvelle partie.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/83709/mod-premade-party-adder-iwd-ee-iwd2-black-pits-1-2",
+            "https://github.com/D2-mods/Premade-Party-Adder/"
+        ],
+        "categories": [],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Dan_P"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-08",
+        "tp2": "d2-party-adder"
     }
 ]
