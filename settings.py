@@ -89,11 +89,15 @@ class Games(enum.StrEnum):
 
     @classmethod
     def BG_EE(cls) -> tuple:
-        return (cls.BGEE, cls.BG2EE, cls.EET)
+        return (cls.BGEE, cls.BG2EE, cls.EET, cls.SOD)
 
     @classmethod
     def IWD_EE(cls) -> tuple:
         return (cls.IWDEE, cls.IWD2EE)
+
+    @classmethod
+    def EE(cls) -> tuple:
+        return cls.BG_EE() + cls.IWD_EE() + (cls.PSTEE,)
 
 
 categorie_names = [

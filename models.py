@@ -144,9 +144,7 @@ class Mod:
 
     @property
     def is_EE(self) -> bool:
-        return bool(
-            set(self.games) & set(Games.BG_EE() + Games.IWD_EE() + (Games.SOD,))
-        )
+        return bool(set(self.games) & set(Games.EE()))
 
     @property
     def is_outdated(self) -> bool:
