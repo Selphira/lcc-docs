@@ -43425,5 +43425,393 @@
         "status": "active",
         "last_update": "2017-01",
         "tp2": "MindAndSoul"
+    },
+    {
+        "name": "Hexblade",
+        "description": "L'Hexblade est un Barde combinant les pouvoirs dynamiques des prouesses martiales et de la puissance des arcanes, l'hexblade représente un défi mortel pour les adversaires qui n'ont pas l'habitude d'un tel adversaire. L'hexblade équilibre ses talents de combat et d'incantation des arcanes. Bien qu'elle soit capable de se battre en mêlée, l'hexblade compte sur l'utilisation opportuniste de ses sorts et de ses capacités spéciales pour renforcer son rôle au sein du groupe. Un hexblade ayant choisi les bonnes compétences peut faire un bon chef pour un groupe qui se sent à l'aise avec son style.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/34958/bg-ee-kit-mod-hexblade"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "DarkDogg"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2014-09",
+        "tp2": ""
+    },
+    {
+        "name": "Laphysique Kit Pack for Baldur's Gate - Enhanced Edition",
+        "description": "Ce repo contient 4 kits séparemment :|`Cruiser` : un mage qui se concentre sur le tir de missiles magiques améliorés.|`Priest of Sun Wukong` : un clerc pour les races de petit taille qui se concentre sur les compétences de combat avec des bâtons.|`Grenadier` : un barde axé sur les fléchettes, les météores et les lames d'énergie.|`Pyroheretic` : un sorcier axé sur la magie du feu.",
+        "urls": [
+            "https://github.com/laphysique/baldursgate-mods"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [],
+        "authors": [
+            "Wisp"
+        ],
+        "team": [],
+        "notes": [
+            "La compatibilité est à définir : EE minimum."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-06",
+        "tp2": "Cruiser"
+    },
+    {
+        "name": "Bushi-Kit",
+        "description": "Les Bushi sont des guerriers sans maître, des hommes sans lien avec un seigneur, un temple ou un monastère. Ce sont généralement des mercenaires, des bandits de grand chemin ou des vagabonds, qui gagnent leur vie comme ils le peuvent. On les trouve au service des samouraïs, protégeant la cour, ou grossissant les rangs des armées. Quelques-uns peuvent être des kensaïs tombés en chemin. La plupart, cependant, sont des hommes de basse naissance qui ont choisi la voie du guerrier pour progresser dans le monde.",
+        "urls": [
+            "https://github.com/Greener-Mods/Bushi-Kit"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Greener-Mods"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-10",
+        "tp2": ""
+    },
+    {
+        "name": "Battlerager-Kit",
+        "description": "Le batailleur occupe une place particulière dans la société et la culture naines. C'est un guerrier intrépide, capable de créer en lui une rage folle qui augmente sa capacité de combat et déforme ses traits physiques. Lorsqu'il est enragé, son visage se déforme et ses dents grincent. Des crachats s'échappent de sa bouche et coulent le long de sa barbe. Ses yeux s'agrandissent, se gonflent et deviennent injectés de sang. Sa taille augmente au fur et à mesure que ses muscles se gonflent et que son corps s'étend. Sa capacité de combat devient impressionnante, lui permettant de se battre plus longtemps et plus durement que n'importe quel autre nain. Dans sa rage, il est presque impossible de l'arrêter. Ennemi dangereux, il est une menace pour ses amis comme pour ses ennemis.",
+        "urls": [
+            "https://github.com/Greener-Mods/Battlerager-Kit"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Greener-Mods"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-10",
+        "tp2": ""
+    },
+    {
+        "name": "Samurai-Kit",
+        "description": "Les samouraïs sont des guerriers professionnels, membres de la classe noble, formés aux arts de la guerre. Ils ne sont pas seulement formés pour leur rôle dans la société, ils sont nés dans un système d'allégeance, de loyauté et d'honneur qui influence chaque étape de leur vie. Un samouraï détaché de ce système n'est plus un samouraï ; c'est un combattant ordinaire, un ronin sans honneur et sans statut dans la société.",
+        "urls": [
+            "https://github.com/Greener-Mods/Samurai-Kit"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Greener-Mods"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-10",
+        "tp2": ""
+    },
+    {
+        "name": "Adventurer-Kit",
+        "description": "Un aventurier est un touche-à-tout qui n'est maître de rien. Il utilise sa large base de connaissances et ses diverses compétences pour créer ses propres opportunités. Il est souvent préféré par de nombreux groupes d'aventuriers, car il connaît la valeur de la confiance et de la coopération et est moins susceptible de voler ou de trahir ses propres compagnons.",
+        "urls": [
+            "https://github.com/Greener-Mods/Adventurer-Kit"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Greener-Mods"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-10",
+        "tp2": ""
+    },
+    {
+        "name": "Singing Mage",
+        "description": "Ce mod coréen propose un kit de mage. Le barde est une classe intermédiaire entre le voleur et le mage. Les Singing Mage sont à la fois Voleur et Mage, mais ils chantent toujours des chants bardiques.",
+        "urls": [
+            "https://github.com/hybridgame/SingingMage"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "HybridGame"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "kr"
+        ],
+        "status": "active",
+        "last_update": "2019-10",
+        "tp2": "s#mage"
+    },
+    {
+        "name": "Diablo2Kits",
+        "description": "Ce mod coréen propose deux kits inspirés de Diablo2 : le paladin et le barbare.",
+        "urls": [
+            "https://github.com/hybridgame/Diablo2Kits"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2EE",
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "HybridGame"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "kr"
+        ],
+        "status": "active",
+        "last_update": "2019-10",
+        "tp2": "d2#pal"
+    },
+    {
+        "name": "KnightDefender",
+        "description": "Le KnightDefender tient en première ligne de la bataille, se sacrifiant pour protéger ses alliés. Ce kit inspiré des Défenseurs nains, propose une alternative (très puissante) pour les humains d'alignement bon ou neutre.",
+        "urls": [
+            "https://github.com/hybridgame/KnightDefender"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2EE",
+            "BGEE"
+        ],
+        "authors": [
+            "HybridGame"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "kr"
+        ],
+        "status": "active",
+        "last_update": "2022-10",
+        "tp2": "K#D"
+    },
+    {
+        "name": "DeathKnight",
+        "description": "Un paladin qui ne respecte pas son honneur est maudit par les dieux et devient un DeathKnight. Sa forte volonté de haïr le mal le maintient dans un état de chaos, bien qu'il ne soit pas devenu complètement mauvais. Il possède une force de 18/00, une protection de 75% à la magie, une immunité au feu et une immunité aux effets de mort ou de drain de niveau. De plus, il a accès à quelques sorts profanes. En contrepartie, il a un alignement Chaotique Neutre, il ne peut maîtriser que les épées longues, bâtardes ou à deux mains et en peut utiliser les capacités des Paladins (excepté Repousser les morts-vivants).",
+        "urls": [
+            "https://github.com/hybridgame/DeathKnight"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2EE",
+            "EET",
+            "BGEE"
+        ],
+        "authors": [
+            "HybridGame"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "kr"
+        ],
+        "status": "active",
+        "last_update": "2019-10",
+        "tp2": "death#kn"
+    },
+    {
+        "name": "The G3 Community Item Pack",
+        "description": "Un mod pour former les moddeurs en herbe. Une chose recommandée à faire en premier, est un pack d'objets. Cela permet d'acquérir un peu d'expérience dans la création d'objets, de créatures et de magasins, ainsi que dans l'écriture de scripts et de dialogues. C'est ce que l'on trouve ici. Un mod sous la forme d'un tutoriel en direct et d'un projet collaboratif.",
+        "urls": [
+            "https://github.com/Gibberlings3/G3_Community_Item_Pack"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE",
+            "BGT",
+            "EET"
+        ],
+        "authors": [
+            "Gibberlings3"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-11",
+        "tp2": "g3cip"
+    },
+    {
+        "name": "DancingSwordMod",
+        "description": "Ce mod crée une épée dansante.",
+        "urls": [
+            "https://github.com/AaronKummer/DancingSwordMod"
+        ],
+        "categories": [],
+        "games": [
+            "Sort et objet"
+        ],
+        "authors": [
+            "Aaron Kummer"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2021-07",
+        "tp2": "DancingSword"
+    },
+    {
+        "name": "Dwarven Item Pack",
+        "description": "Ce pack d'objet ajoute des équipements optimisés pour les nains.",
+        "urls": [
+            "https://github.com/Greener-Mods/Dwarven-Item-Pack"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Greener-Mods"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-11",
+        "tp2": ""
+    },
+    {
+        "name": "Ohlo's Miscellany Store",
+        "description": "Le mod est une combinaison de deux mods. Une moitié du mod est un magasin et l'autre moitié sont les histoires que le propriétaire raconte. Les objets du magasin sont un peu surpuissants et beaucoup trop chers, pour équilibrer la surpuissance. Quatre histoires se mêlent aux achats effectués dans le magasin.",
+        "urls": [
+            "http://www.shsforums.net/topic/61018-ohlos-miscellany-store/"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Truman"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2020-12",
+        "tp2": "OHLMISST"
+    },
+    {
+        "name": "Classic-BG-UI",
+        "description": "Une interface qui essaye de refaire l'interface utilisateur green stone UI de l'original Baldur's Gate pour l'Enhanced Edition.",
+        "urls": [
+            "https://github.com/dive-bomber/Classic-BG-UI"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "dive-bomber"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2023-01",
+        "tp2": "non-weidu"
     }
 ]
