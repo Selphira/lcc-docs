@@ -43721,10 +43721,10 @@
         "urls": [
             "https://github.com/AaronKummer/DancingSwordMod"
         ],
-        "categories": [],
-        "games": [
+        "categories": [
             "Sort et objet"
         ],
+        "games": [],
         "authors": [
             "Aaron Kummer"
         ],
@@ -43792,7 +43792,7 @@
     },
     {
         "name": "Classic-BG-UI",
-        "description": "Une interface qui essaye de refaire l'interface utilisateur green stone UI de l'original Baldur's Gate pour l'Enhanced Edition.",
+        "description": "Une interface qui essaye de recréer l'interface utilisateur green stone UI de l'original Baldur's Gate pour l'Enhanced Edition.",
         "urls": [
             "https://github.com/dive-bomber/Classic-BG-UI"
         ],
@@ -43813,5 +43813,296 @@
         "status": "active",
         "last_update": "2023-01",
         "tp2": "non-weidu"
+    },
+    {
+        "name": "Lilarcor NPC",
+        "description": "Tout le monde aime Lilarcor. Tout le monde aime le sort de l'Épée de Mordenkainen. Et tout le monde aime les PNJ. Alors pourquoi ne pas faire de Lilarcor un PNJ, l'épée flottante ?|Il s'agit d'un simple mod qui vous permet de transformer Lilarcor en un membre du groupe en parlant avec l'épée. Il flottera autour de vous, frappera vos ennemis et prononcera ses lignes de dialogue habituelles.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/74334/lilarcor-npc-mod-v1-0"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "semiticgod"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2019-01",
+        "tp2": ""
+    },
+    {
+        "name": "Kerry",
+        "description": "Un mod qui ajoute Kerry en tant que npc. Le personnage n'a ni dialogue ni quête.",
+        "urls": [
+            "https://github.com/AaronKummer/baldursgatemod-kerry"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [],
+        "authors": [
+            "Aaron Kummer"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-06",
+        "tp2": "Kerry"
+    },
+    {
+        "name": "Amros NPC",
+        "description": "Amros est un paladin Chasseur de mort-vivants.|FOR 16, DEX 12, CON 17, INT 12, SAG 13, CHA 18",
+        "urls": [
+            "https://github.com/slashfox/AmrosNPC"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Slashfox"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en",
+            "es"
+        ],
+        "status": "active",
+        "last_update": "2016-10",
+        "tp2": "AmrosNPC"
+    },
+    {
+        "name": "Morg NPC",
+        "description": "Morg est un guerrier/nécromancien nain (Duergar) maléfique. En raison de sa race, il peut lancer l'invisibilité comme une capacité innée. Il n'a pas encore de banters.|FOR 15, DEX  8, CON 18, INT 15, SAG 16, CHA 7.|Le mod ajoute également un petit donjon supplémetaire, voir le README pour plus d'informations.",
+        "urls": [
+            "https://github.com/toopok4k3/Morg_BG1"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "toopok4k3"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-09",
+        "tp2": "k4morgul"
+    },
+    {
+        "name": "Erevain Blacksheaf NPC",
+        "description": "Erevain Blacksheaf est un PNJ rencontré dans le jeu original IWD2 ainsi que dans le mod [[Never Ending Journey]]. Erevain est un elfe Guerrier/Mage/Voleur avec un kit Infiltrator.|FOR 18/50, DEX 18, CON 12, INT 17, SAG 15, CHA 11",
+        "urls": [
+            "https://github.com/billbisco/erevainmod"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Bill Bisco"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2016-05",
+        "tp2": "Erevain"
+    },
+    {
+        "name": "Sister of Bhaalspawn",
+        "description": "Ce mod pour ToB vous permet de rencontrer votre sœur dans l'Antichambre'. Allez-vous vous comporter comme un membre de la famille bienveillant ou succomberez-vous à l'appel de Bhaal en l'assassinant ? Le nouveau PNJ a 3 types d'épilogues et sa présence ajoute deux choix supplémentaires pour le final.",
+        "urls": [
+            "http://www.shsforums.net/files/file/1243-sister-of-bhaalspawn-for-eet/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "Lassal"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [],
+        "status": "wip",
+        "last_update": "2021-04",
+        "tp2": ""
+    },
+    {
+        "name": "Theil",
+        "description": "",
+        "urls": [
+            "https://github.com/chickensquack/Theil"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [],
+        "authors": [
+            "chickensquack"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod n'est pas utilisable en l'état et ne contient qu'un fichier dialogue."
+        ],
+        "translation_state": "no",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2020-04",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Anurgath moving",
+        "description": "Ce mod ajoute un PNJ (Anurgath) pour se déplacer de Lonelywood à Kuldahar.",
+        "urls": [
+            "https://github.com/podprad/IEMods/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "rakoo"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en",
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2016-07",
+        "tp2": "MRAN"
+    },
+    {
+        "name": "NPC Opine Again",
+        "description": "Ce mod permet d'entendre plus régulièrement les personnages du groupe lorsque la réputation du groupe diffère de leur alignement moral, avant le point de rupture.",
+        "urls": [
+            "http://www.shsforums.net/topic/59234-npc-opine-again/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG"
+        ],
+        "authors": [
+            "temnix"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2017-04",
+        "tp2": ""
+    },
+    {
+        "name": "The Heart of Baldur's Gate",
+        "description": "Un puissant artefact a été découvert sous la ville de Baldur's Gate - « The Heart of Baldur's Gate ». Les rumeurs disent que cet artefact est responsable de la protection de Baldur's Gate contre les forces du mal. Le cœur serait assez puissant pour lancer une multitude de sorts, de l'arcane au divin, ainsi que pour invoquer des êtres, y compris des dragons. Les devins en ont déduit que le détenteur de cet artefact (même un paysan) serait plus puissant que Jon Irenicus ou Bhaal lui-même (et potentiellement aussi fort que Mélissanne). Une lutte de pouvoir triangulaire s'engage - une course pour obtenir cet artefact (actuellement gardé par le Gardien du Cœur, un sorcier aux pouvoirs immenses et à l'origine indéterminée). Accompagné de 5 personnages aux pouvoirs complémentaires, vous allez tenter de triompher.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/36224-the-first-ai-designed-mod-the-heart-of-baldurs-gate/",
+            "https://github.com/ahungry/ahungry_heart"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Ahungry"
+        ],
+        "team": [],
+        "notes": [
+            "Seuls les personnages semblent créés. Les personnages, l'histoire et les dialogues ont été générés par IA."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2023-01",
+        "tp2": "ahungry_heart"
+    },
+    {
+        "name": "Mercenaries of the Sword Coast",
+        "description": "L'idée principale de ce mod est de permettre au joueur d'engager des mercenaires de races et de types différents, qui n'existent pas en tant que PNJ recrutables.|Pour l'instant, ces mercenaires ne parlent pas avec le protagoniste, seuls les dialogues d'embauche existent.",
+        "urls": [
+            "http://www.shsforums.net/topic/59496-mod-mercenaries-of-sword-coast-for-eet",
+            "https://github.com/Endarire/Mercenaries-of-the-Sword-Coast-for-EET"
+        ],
+        "categories": [
+            "Personnage recrutable"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "Lassal"
+        ],
+        "team": [],
+        "notes": [
+            "EET est requis. Seul le lien github permet de télécharger le mod."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2017-10",
+        "tp2": ""
     }
 ]
