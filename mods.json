@@ -3,7 +3,7 @@
         "name": "\"Don't Delete my gear\" script",
         "description": "Ce mod permet au personnage de conserver son équipement et son or au début de la partie.",
         "urls": [
-            "https://forums.beamdog.com/discussion/32192/dont-delete-my-gear-script-mod-that-will-keep-all-your-stuff-at-start"
+            "https://forums.beamdog.com/discussion/32192/"
         ],
         "categories": [
             "Gameplay"
@@ -28,7 +28,7 @@
         "description": "Il s'agit d'une collection de mini mods écrits par Redbane pour appliquer certaines règles de AD&amp;D 3.5e et Pathfinder dans les jeux IE. Elle comprend pour l'instant trois volets :|- Modification de la table de progression des TAC0.|- Harmonisation de la table de progression des bonus de PV selon la Constitution.|- Dés de vie plus élevés pour les mages, sorciers, voleurs et bardes.|- Rééquilibrage des styles d'arme.",
         "urls": [
             "http://www.shsforums.net/topic/59169-35-edition-pathfinder-style-tweaks-collection-thac0-constitution",
-            "https://forums.beamdog.com/discussion/63741/mod-3-5-edition-pathfinder-style-tweaks-collection-thac0-constitution-hit-dice/p1"
+            "https://forums.beamdog.com/discussion/63741/"
         ],
         "categories": [
             "Gameplay"
@@ -114,7 +114,7 @@
         "description": "Ce mod rééquilibre les quatre compétences de \"style d'arme\" pour les rendre plus conformes à leur fonctionnement dans AD&amp;D 3.5 et Pathfinder, et pour corriger le déséquilibre assez important entre les styles d'armes dans BG2, dans lequel investir 2 étoiles dans tout autre style que \"2 armes\" était plutôt inutile et le double maniement presque toujours la construction optimale pour un guerrier. Il propose les 5 composants optionnels suivants :|- Rééquilibrage des styles de combat (3.5 Édition) : deux étoiles suffisent à obtenir la spécialisation maximale, presque toutes les classes peuvent placer au moins un point de compétence dans chaque style.|- Styles d'armes étendus pour les non-guerriers : permet aux voleurs et aux bardes d'investir 2 points dans le style à deux armes et le style à une arme.|- Les bâtons ne peuvent pas effectuer d'attaques sournoises.|- Les rôdeurs n'ont pas de pénalité de toucher en main gauche.|- Mise à jour de la cape de Montolio : pour être en harmonie avec le composant précédent.",
         "urls": [
             "http://www.shsforums.net/files/file/1205-35-edition-weapon-style-rebalance/",
-            "https://forums.beamdog.com/discussion/69412/mod-3-5-edition-weapon-style-rebalance/p1"
+            "https://forums.beamdog.com/discussion/69412/"
         ],
         "categories": [
             "Gameplay"
@@ -329,7 +329,7 @@
         "name": "APR on Spec",
         "description": "Ce mod est obsolète. Comme de plus, il s'agit d'un mod override, préférez-lui le composant `Tout le monde obtient le bonus d'attaque par round de spécialisation` de [[The Tweaks Anthology]].",
         "urls": [
-            "https://forums.beamdog.com/discussion/36197/mod-release-apr-on-spec/p1"
+            "https://forums.beamdog.com/discussion/36197/"
         ],
         "categories": [
             "Gameplay"
@@ -493,7 +493,7 @@
         "name": "Add Morningstar of Action +4 to random treasure list",
         "description": "Ce mod ajoute l'étoile du matin d'action dans la liste des trésors aléatoires disponibles.",
         "urls": [
-            "https://forums.beamdog.com/discussion/36798/add-morningstar-of-action-4-to-random-treasure-list-no-longer-supported/p1"
+            "https://forums.beamdog.com/discussion/36798/"
         ],
         "categories": [
             "Sort et objet"
@@ -667,7 +667,7 @@
         "name": "Aerie in BG:EE",
         "description": "Ce petit mod fait apparaître Aerie dans BG1. Si vous la connaissez déjà de BG2, vous savez déjà où vous avez le plus de chances de la trouver. Sinon... eh bien, c'est à la foire de Nashkel (dans BG2, elle dit que le cirque avait l'habitude d'y aller...). Elle n'est pas recrutable, mais vous pourrez effectuer de petites quêtes pour elle, à l'issue desquelles elle s'installera dans la tente de Benta et fournira ses services (temple et magasin).",
         "urls": [
-            "https://forums.beamdog.com/discussion/38824/aerie-in-bg-ee-v1-1/p1",
+            "https://forums.beamdog.com/discussion/38824/",
             "https://github.com/The-Gate-Project/AerieBG1"
         ],
         "categories": [
@@ -863,7 +863,7 @@
         "name": "Akuns-Gear",
         "description": "C'est un mod d'objets qui contient 2 katanas enchantés et 1 armure pour Tueur de magiciens. Tous les objets ne peuvent être équipés que par un Tueur de magiciens de niveau 4.||Les objets peuvent être achetés auprès du marchand Erdane dans la zone de la Tour de Durlag. Le marchand vend les objets directement à partir de son stock (pas d'options de dialogue). Le prix est de plusieurs milliers de PO par objet.",
         "urls": [
-            "https://forums.beamdog.com/discussion/87411/item-mod-akuns-gear",
+            "https://forums.beamdog.com/discussion/87411/",
             "https://github.com/Incrementis/Akuns-Gear-"
         ],
         "categories": [
@@ -959,7 +959,7 @@
         "name": "Alchemist kit for mages",
         "description": "Ce mod ajoute un nouveau profil de mage : l'alchimiste. Il dispose de moins d'emplacements de sorts que les autres mages, mais peut créer des potions uniques très différentes de celles que l'on trouve dans les jeux originaux, ainsi que plusieurs types de grenades hautement volatiles. Ce mod ajoute 34 nouveaux objets avec des effets inédits, depuis une potion de guérison écœurante sous forme de lait de vampire jusqu'à une adorable boule de mousse qui peut ressusciter les morts, en passant par des choses plus bizarres comme des baguettes de tendon d'elfe, de la lymphe de serpent, des gouttes d'os, du nectar de sang, de l'huile de fée et des engins de guerre apocalyptiques de 100 kg. Toutes les icônes sont tirées d'Icewind Dale 2 pour leur donner un aspect unique.|L'alchimiste est un personnage de soutien unique qui peut faire une variété de choses différentes, mais obtenir le maximum de ses objets coûte des centaines d'or au début du jeu, et des milliers, voire des dizaines de milliers d'or à la fin du jeu. Mais cela en vaut la peine.",
         "urls": [
-            "https://forums.beamdog.com/discussion/63483/alchemist-kit-for-mages-v1-1"
+            "https://forums.beamdog.com/discussion/63483/"
         ],
         "categories": [
             "Kit"
@@ -1608,7 +1608,7 @@
         "name": "Animus",
         "description": "Ce mod ajoute une nouvelle épée télépathique dans le jeu : Animus. Contrairement à Lilarcor, Animus est raisonnablement intelligente et capable de tenir une vraie conversation. Il s'agit d'une arme +1 sans avantages particuliers, mais lorsque vous en saurez un peu plus sur votre héritage, elle pourra être améliorée en une épée longue +2 avec quelques avantages supplémentaires, au prix de sa capacité à converser. Vous pourrez l'acquérir pour un prix raisonnable dans le magasin général de Nashkel.",
         "urls": [
-            "https://forums.beamdog.com/discussion/22982/animus-sentient-weapon-mod-released/p1",
+            "https://forums.beamdog.com/discussion/22982/",
             "https://github.com/BartVanBeurden/bgee-animus"
         ],
         "categories": [
@@ -1857,7 +1857,7 @@
         "name": "Arcane Archer Redone",
         "description": "Ce mod ajoute un nouveau profil dans le jeu : un guerrier ou un guerrier/mage spécialisé dans les attaques à distance et qui peut créer des flèches spéciales.",
         "urls": [
-            "https://forums.beamdog.com/discussion/52606/v2-0-arcane-archer-a-ranged-fighter-and-fighter-mage-kit/p1"
+            "https://forums.beamdog.com/discussion/52606/"
         ],
         "categories": [
             "Kit"
@@ -1912,7 +1912,7 @@
         "name": "Arcane Treasury",
         "description": "Ce mod ajoute 60 nouveaux objets à la série Baldur's Gate, dont beaucoup sont destinés aux mages, les plaçant dans des boutiques, des conteneurs et les inventaires des ennemis.",
         "urls": [
-            "https://forums.beamdog.com/discussion/81703/arcane-treasury-mod-new-items-for-bg1ee-sod-bg2ee-eet/p1",
+            "https://forums.beamdog.com/discussion/81703/",
             "https://github.com/Alexander12-creator/Arcane-Treasury-mod"
         ],
         "categories": [
@@ -2122,7 +2122,7 @@
         "name": "Artaport",
         "description": "Version de [[PaintBG]] pour les jeux EE, ce mod modifie certains portraits de PNJ, attribue des portraits de Artrastrophe à des PNJ qui n'en avaient pas, etc...",
         "urls": [
-            "https://forums.beamdog.com/discussion/51904/mod-artaport-4-0/p1",
+            "https://forums.beamdog.com/discussion/51904/",
             "https://github.com/Eltamin/artaport"
         ],
         "categories": [
@@ -2916,7 +2916,7 @@
         "description": "Créé par deratiseur, ce petit mod bien pratique permet de simuler un repos sans avoir besoin de dormir 8 h. Vous pouvez bien évidemment choisir la qualité du repos. Désormais, il peut aussi rendre les pj immortels.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/33320-mod-baldur-s-gate-2-la-sauce-pillars-eternity.html",
-            "https://forums.beamdog.com/discussion/73318/a-mod-for-auto-resting/p1",
+            "https://forums.beamdog.com/discussion/73318/",
             "https://github.com/Deratiseur/AutoRest"
         ],
         "categories": [
@@ -2977,7 +2977,7 @@
         "description": "Ayden est avant tout un mod PNJ, mais il est livré avec un ensemble de composants supplémentaires :|- Profil de Warlock pour la classe des voleurs, basée sur la classe Warlock de la troisième édition de D&amp;D. |- Ayden NPC : un PNJ recrutable avec ses propres dialogues, badinages et quêtes.|- Marche dans l'ombre : une capacité permettant de réduire la vitesse de déplacement.|- L'abri d'Ayden : un plan de poche où le groupe peut se reposer et stocker des objets.|- Création d'objets : un système simple de création d'objets, sous forme de dialogue avec le PNJ.|- Baguettes pour les voleurs : permet l'utilisation des baguettes pour tous les profils de voleur.|- Compétences des voleurs : tous les profils de voleurs peuvent utiliser des masses et des lances.|Le projet Ayden est toujours en cours de développement. N'oubliez pas de vérifier le site pour télécharger sa dernière version.",
         "urls": [
             "https://keneth-dev.github.io/bgee-ayden/",
-            "https://forums.beamdog.com/discussion/82847/mod-ayden-project"
+            "https://forums.beamdog.com/discussion/82847/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -3055,7 +3055,7 @@
         "name": "B!Tweaks",
         "description": "Il s'agit de la collection d'ajustements de règles de berelinde.",
         "urls": [
-            "https://forums.beamdog.com/discussion/46580/download-berelinde-b-tweaks-full-mod",
+            "https://forums.beamdog.com/discussion/46580/",
             "https://www.mediafire.com/file/2twjt48ffgsfzkk/b%2521tweak_lite-v4.exe/file"
         ],
         "categories": [
@@ -3820,7 +3820,7 @@
         "name": "BG2EE AI Denoised Areas",
         "description": "Ce mod améliore grandement la qualité graphique des zones du jeu. L'auteur a soumis toutes les cartes du jeu (les fichiers images) à une IA d'amélioration graphique, pour un résultat plus vibrant et bien plus net, en particulier lors de l'utilisation du zoom (Des images de comparaison sont disponibles sur la page GitHub ou dans le fil de discussion du mod sur les forums Beamdog).",
         "urls": [
-            "https://forums.beamdog.com/discussion/83893/mod-beta-ee-ai-denoised-areas/p1",
+            "https://forums.beamdog.com/discussion/83893/",
             "https://github.com/WillScarlettOhara/BG2EE_AI_Denoised_Areas"
         ],
         "categories": [
@@ -3848,7 +3848,7 @@
         "name": "BG2:EE GUI To BG:EE",
         "description": "Ce mod de Kerozevok modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements.",
         "urls": [
-            "https://forums.beamdog.com/discussion/55094/mod-bg2ee-gui-to-bgee"
+            "https://forums.beamdog.com/discussion/55094/"
         ],
         "categories": [
             "Interface"
@@ -3897,7 +3897,7 @@
         "name": "BGEE AI Denoised Areas",
         "description": "Ce mod améliore grandement la qualité graphique des zones du jeu. L'auteur a soumis toutes les cartes du jeu (les fichiers images) à une IA d'amélioration graphique, pour un résultat plus vibrant et bien plus net, en particulier lors de l'utilisation du zoom (Des images de comparaison sont disponibles sur la page GitHub ou dans le fil de discussion du mod sur les forums Beamdog).",
         "urls": [
-            "https://forums.beamdog.com/discussion/83893/mod-beta-ee-ai-denoised-areas/p1",
+            "https://forums.beamdog.com/discussion/83893/",
             "https://github.com/WillScarlettOhara/BGEE_AI_Denoised_Areas"
         ],
         "categories": [
@@ -3924,7 +3924,7 @@
         "name": "BG:EE Chargen Abilities Screen - show stored values and simple auto roller",
         "description": "Ce mod permet de stocker automatiquement le score de caractéristiques lors de la création d'un personnage en appuyant sur le nouveau bouton \"autoroll\". Ce dernier permet de lancer les dés automatiquement jusqu'à ce que vous obteniez le score souhaité.|Son installation nécessite une manipulation du fichier UI.menu décrite sur la page de téléchargement.",
         "urls": [
-            "https://forums.beamdog.com/discussion/63741/mod-3-5-edition-pathfinder-style-tweaks-collection-thac0-constitution-hit-dice/p1"
+            "https://forums.beamdog.com/discussion/63741/"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -4007,7 +4007,7 @@
         "name": "BGEE Leveled Spawns",
         "description": "Basé sur le composant `Créer des ennemis aléatoires en fonction du niveau (style Tutu)` du mod [[BGT Tweak Pack]], ce mod modifie le système par défaut de l'apparition aléatoire des créatures dans les zones de la Côté des Épées en en faisant évoluer la difficulté en fonction du niveau moyen du groupe. Chaque point d'apparition engendrera des groupes de 1 à 6 créatures, selon le niveau du groupe et la force des créatures. L'utilisateur peut sélectionner l'intervalle de temps entre les apparitions (de 4 heures à 1000 jours) ainsi que la probabilité qu'un déclenchement d'un point de rencontre aléatoire entraîne le peuplement de ce point.",
         "urls": [
-            "https://forums.beamdog.com/discussion/34840/bgee-leveled-spawns-mod-v0-3-updated-2014-12-27/p1",
+            "https://forums.beamdog.com/discussion/34840/",
             "https://github.com/GraionDilach/BGEESpawn"
         ],
         "categories": [
@@ -4037,7 +4037,7 @@
         "name": "BGEE NPC Tweaks",
         "description": "Ce mod harmonise et modifie de nombreux PNJ du jeu. Vous pouvez leur attribuer un portrait unique pour l'ensemble de la saga, modifier leur classe ou leur kit.",
         "urls": [
-            "https://forums.beamdog.com/discussion/58941/mod-bgeenpc-tweaks-for-bgee-sod-bg2ee-eet/p1"
+            "https://forums.beamdog.com/discussion/58941/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -4380,7 +4380,7 @@
         "name": "Bala's Axe Fix",
         "description": "Ce mini mod permet de rendre la Hache de Bala conforme à sa description et de pouvoir lancer Dissipation de la magie une fois par jour.",
         "urls": [
-            "https://forums.beamdog.com/discussion/23403/fix-balas-axe-wizard-slayer-now-dispels-magic-1-day"
+            "https://forums.beamdog.com/discussion/23403/"
         ],
         "categories": [
             "Patch non officiel"
@@ -4979,7 +4979,7 @@
         "name": "Battle Enhancer Mod",
         "description": "Ce mod combine plusieurs éléments pour augmenter la difficulté et varier l'expérience de jeu : des adversaires plus coriaces, des combats supplémentaires, des prix plus élevés dans les magasins, mais aussi des personnages recrutables au maximum de points de vie.",
         "urls": [
-            "https://forums.beamdog.com/discussion/19856/bg-ee-charan-s-harsh-faerun-mod-ver-1-33-released/p1"
+            "https://forums.beamdog.com/discussion/19856/"
         ],
         "categories": [
             "Gameplay"
@@ -5130,7 +5130,7 @@
         "name": "Better IWD Pregen",
         "description": "Script components:|Better IWD Pregen|Better AI for Call Woodland Beings (EEs, BG2)|Auto-assign script to new characters||Tweak components:|Adjust enemy damage at higher difficulties (classic IWD, IWD2)|Add or remove Avarine Decanter (IWD2)|Unnerf Animate Dead (IWD2)|Shapeshift movement bonuses bypass Free Action (EEs)|Increase movement speed of IWD shapeshifts (IWD1, IWD:EE)|Give party starting equipment (IWD games)|Give party a Bag of Holding at game start (classic and EEs)|All classes get full HP bonuses from Constitution (classic and EEs)|Fixes for backstab-related 2DA files (EEs)|Reduce delay for Sneak Attacks + uncap Crippling Strike (EEs)|Allow Minsc to use his Berserk ability at will (BG games)|Patch visuals for shortbows (IWD:EE) or scimitars (IWD-in-BG2)|Remove alignment restrictions for classes (classic and EEs)|Prevent paladins and rangers falling at low rep? (EEs)||<a href=\"https://github.com/D2-mods/Better-IWD-Pregen/blob/main/README.md\">See more detailed info in readme...</a>",
         "urls": [
-            "https://forums.beamdog.com/discussion/82947/mod-better-iwd-pregen-v7-5-a-minimalist-script-and-tweak-pack",
+            "https://forums.beamdog.com/discussion/82947/",
             "https://github.com/D2-mods/Better-IWD-Pregen"
         ],
         "categories": [
@@ -5168,7 +5168,7 @@
         "name": "Better Quick Loot",
         "description": "Ce mod modifie la barre de butin rapide qui devient compacte, peut être ouverte et fermée avec une touche de raccourci (E par défaut), dispose d'un indicateur d'encombrement des objets...",
         "urls": [
-            "https://forums.beamdog.com/discussion/58972/mod-better-quick-loot-v1-7"
+            "https://forums.beamdog.com/discussion/58972/"
         ],
         "categories": [
             "Interface"
@@ -5228,7 +5228,7 @@
         "name": "Better Stat Drain (STR, DEX, CON, INT, WIS, CHA)",
         "description": "Ce mod permet à nouveau de vaincre un ennemi en absorbant ses caractéristiques, exploit supprimé par les versions EE pour éviter de tuer accidentellement des personnages importants pour le scénario. Dorénavant, vous ne pourrez pas les tuer, mais les faire descendre à un point de vie et déclencher le script ou le dialogue prévu lors de leur défaite.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68502/better-stat-drain-str-dex-con-int-wis-cha/p1"
+            "https://forums.beamdog.com/discussion/68502/"
         ],
         "categories": [
             "Gameplay"
@@ -5751,7 +5751,7 @@
         "name": "Boots of Speed",
         "description": "Ce mini mod n'accorde aux Bottes de rapidité qu'une vitesse de déplacement doublée.",
         "urls": [
-            "https://forums.beamdog.com/discussion/51142/mod-boots-of-speed/p1"
+            "https://forums.beamdog.com/discussion/51142/"
         ],
         "categories": [
             "Sort et objet"
@@ -5988,7 +5988,7 @@
         "name": "Brick +2 mod",
         "description": "Ce mini mod supprime l'aura entropique du marteau La brique et rétablit le type de dégâts contondants qu'il inflige.",
         "urls": [
-            "https://forums.beamdog.com/discussion/28427/brick-2-mod/p1"
+            "https://forums.beamdog.com/discussion/28427/"
         ],
         "categories": [
             "Sort et objet"
@@ -6124,7 +6124,7 @@
         "name": "Bubb's Auto Looting",
         "description": "Ce mod vise à faciliter le ramassage du butin afin de réduire la quantité d'objets que le joueur rate et laisse sur le sol, en particulier les petits tas d'or. Vous pouvez filtrer le pillage automatique par objet critique, niveau d'enchantement des armes, or, prix et prix par poids. Pour le moment, le pillage automatique ne concerne que les objets au sol.",
         "urls": [
-            "https://forums.beamdog.com/discussion/69899/mod-bubbs-auto-looting"
+            "https://forums.beamdog.com/discussion/69899/"
         ],
         "categories": [
             "Gameplay"
@@ -6149,7 +6149,7 @@
         "name": "Bubb's Spell Menu",
         "description": "Ce mod remplace la barre de sélection rapide des sorts par une version bien plus ergonomique qui permet de trier les sorts en fonction de leur nom, de leur type et de leur niveau.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68958/mod-bubbs-spell-menu",
+            "https://forums.beamdog.com/discussion/68958/",
             "https://github.com/Bubb13/Bubbs-Spell-Menu-Normal"
         ],
         "categories": [
@@ -6180,7 +6180,7 @@
         "name": "Bubb's Spell Menu (Extended)",
         "description": "Si la vue des sorts en liste de la version normale de ce mod ne vous plaît pas, cette version pourrait bien vous plaire. Elle émule les emplacements de la sélection de sorts par défaut et les organise de telle sorte que tous les sorts soient visibles en même temps.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68958/mod-bubbs-spell-menu",
+            "https://forums.beamdog.com/discussion/68958/",
             "https://github.com/Bubb13/Bubbs-Spell-Menu-Extended"
         ],
         "categories": [
@@ -6235,7 +6235,7 @@
         "name": "Caina Fighter/Brigand NPC and Zarra Ranger/Archer NPC",
         "description": "Ce mod ajoute deux PNJ mauvais dans BG:EE :|- Caina est une mercenaire de Luskan. Vous pouvez la trouver à Bérégost dans un manoir au nord où elle travaille pour Gerard Travenhurst afin d'éponger ses dettes. Elle dispose d'un profil de brigand. Elle ne vous rejoindra qu'après avoir accompli sa quête. Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware. Si vous voyagez avec elle, elle donnera des cadeaux à Edwin, Xzar et Xan.|- Zarra est une drow de la ville de Sschindylryn (près de Cormyr). C'est une archère chasseuse de gobelins qui possède un animal compagnon, Auflaque. Elle est visiblement perdue et a besoin de votre aide pour retrouver un objet qui lui appartient. Vous la rencontrerez près de Nashkel (dans la première zone de quête de Dorn). Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware et une quête personnelle. Elle est très nerveuse et vulnérable, traitez-la bien ou elle partira.|Ce mod comprend 3 nouveaux donjons (10 nouvelles zones), de nouveaux ennemis et plus de 20 nouveaux objets.",
         "urls": [
-            "https://forums.beamdog.com/discussion/34279/bg-ee-mod-caina-fighter-brigand-npc-and-zarra-ranger-archer-npc",
+            "https://forums.beamdog.com/discussion/34279/",
             "https://www.mediafire.com/file/b9z8ladxpi5la64/BGEEDLJ_1.02.zip/file"
         ],
         "categories": [
@@ -6317,7 +6317,7 @@
         "name": "Card kit",
         "description": "Ce mod ajoute un nouveau profil de voleur inspiré du Maître des cartes de AD&amp;D 3.5e, et dont de nombreuses capacités ont été reprises du Tisseur de sorts du mod [[Wild Mage Additions]].",
         "urls": [
-            "https://forums.beamdog.com/discussion/36342/bg-ee-bg-ee-2-mod-card-kit-0-3v-wip-eng-pl/p1"
+            "https://forums.beamdog.com/discussion/36342/"
         ],
         "categories": [
             "Kit"
@@ -6521,7 +6521,7 @@
         "description": "Ce mod attribue à Sans Nom l'apparence des Hommes poussière. Il s'agit d'une modification esthétique qui n'affectera en rien le jeu.|Utilisez le lien Beamdog pour PST:EE.",
         "urls": [
             "https://sorcerers.net/Games/Torment/Platter/index.php?page=mods",
-            "https://forums.beamdog.com/discussion/64430/mod-change-tno-animation-to-dustman-disguise"
+            "https://forums.beamdog.com/discussion/64430/"
         ],
         "categories": [
             "Cosmétique"
@@ -6546,7 +6546,7 @@
         "name": "Change your Robe in a Yiffy!",
         "description": "Ce petit mod permet de changer l'apparence de votre robe en cliquant simplement sur une capacité dans le menu des objets à utiliser, sans avoir besoin d'utiliser l'inventaire. Il ne fonctionne qu'avec la robe installée par le mod.",
         "urls": [
-            "https://forums.beamdog.com/discussion/70975/mod-change-your-robe-in-a-yiffy/p1"
+            "https://forums.beamdog.com/discussion/70975/"
         ],
         "categories": [
             "Cosmétique"
@@ -6682,7 +6682,7 @@
         "name": "Charlatan",
         "description": "Ce mod vous permet d'installer un nouveau profil de barde spécialisé dans la manipulation et la duperie.|Dans BG:EE et EET, un composant optionnel permet de l'attribuer à Eldoth.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68297/bard-kit-charlatan-iwdee-eet-bgee-bg2ee/",
+            "https://forums.beamdog.com/discussion/68297/",
             "https://github.com/Raduziel/Charlatan-Kit"
         ],
         "categories": [
@@ -6799,7 +6799,7 @@
         "name": "Chatty Imoen",
         "description": "Imoen a été ajoutée tardivement dans le Baldur's Gate originel. Malheureusement, cela signifie qu'elle n'a pas de dialogue ou d'interaction avec les autres personnages. Ses répliques audio sont également limitées. Ce mod ajoute à Imoen des répliques audio en piochant dans les fichiers de BG1 et de BG2, ainsi que des dialogues avec les autres personnages recrutables.",
         "urls": [
-            "https://forums.beamdog.com/discussion/51443/chatty-imoen-v1-3/p1",
+            "https://forums.beamdog.com/discussion/51443/",
             "https://github.com/The-Gate-Project/ChattyImoen/"
         ],
         "categories": [
@@ -7233,7 +7233,7 @@
         "name": "Classkits for NPCs",
         "description": "Ce mod attribue des profils aux PNJ recrutables du jeu.",
         "urls": [
-            "https://forums.beamdog.com/discussion/12326/mod-giving-npcs-classkits-tool-version-alpha-6-mod-version-1-7/p1"
+            "https://forums.beamdog.com/discussion/12326/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -7282,7 +7282,7 @@
         "name": "Cloak of Displacement remove Blur effect mod",
         "description": "Ce mini mod supprime le désagréable effet visuel de la Cape de déplacement.",
         "urls": [
-            "https://forums.beamdog.com/discussion/40055/cloak-of-displacement-remove-blur-effect-mod/p1"
+            "https://forums.beamdog.com/discussion/40055/"
         ],
         "categories": [
             "Sort et objet"
@@ -7471,7 +7471,7 @@
         "name": "Congenio's Pebble Collection - Use Multiple Ioun Stones",
         "description": "Ce mod permet de porter plusieurs pierres ioniques en même temps.",
         "urls": [
-            "https://forums.beamdog.com/discussion/65624/mod-congenios-pebble-collection-use-multiple-ioun-stones/p1"
+            "https://forums.beamdog.com/discussion/65624/"
         ],
         "categories": [
             "Gameplay"
@@ -7501,7 +7501,7 @@
         "name": "Constitution bonuses for everyone above 16",
         "description": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires.|Ce mod écrase les fichiers HPCLASS.2da et HPCONBON.2da, et ne peut pas être désinstallé. De plus, comme un composant de [[Scales of Balance]] fait la même chose, privilégiez ce dernier.",
         "urls": [
-            "https://forums.beamdog.com/discussion/47856/mod-constitution-bonuses-for-everyone-above-16/p1"
+            "https://forums.beamdog.com/discussion/47856/"
         ],
         "categories": [
             "Gameplay"
@@ -7591,7 +7591,7 @@
         "name": "Continuous Viconia Appearance",
         "description": "Mod rendu obsolète par [[Continuous NPC Portraits]].",
         "urls": [
-            "https://forums.beamdog.com/discussion/56009/mod-continous-viconia-appearance-for-bg1ee-bg2ee-sod-and-eet"
+            "https://forums.beamdog.com/discussion/56009/"
         ],
         "categories": [
             "Portrait et son"
@@ -8097,7 +8097,7 @@
         "name": "Critter Parts",
         "description": "Ce mod permet de récupérer des objets sur les cadavres d'animaux sauvages que l'on rencontre (ours, chiens, loups, araignées...) : de la viande, des peaux, des os que l'on peut revendre ou consommer. Par ailleurs, il ajoute une quête qui permettra de faire fabriquer une armure par un nouveau PNJ. Dans Bois Manteau, un autre PNJ est intéressé par les restes d'araignées.",
         "urls": [
-            "https://forums.beamdog.com/discussion/47699/critter-parts-mini-mod-for-baldur-s-gate-ee/p1",
+            "https://forums.beamdog.com/discussion/47699/",
             "https://github.com/shadowhawk703/CritterParts"
         ],
         "categories": [
@@ -8409,7 +8409,7 @@
         "name": "The Big Metal Unit mod",
         "description": "Ce petit mod importe la grosse machine de métal de ToB dans des magasins de IWD:EE et dans IWD2, ainsi que le gros barreau de métal et une version amoindrie des munitions de cadence dans BG:EE et EET. Un composant optionnel permet de rééquilibrer les munitions du gros barreau de métal.",
         "urls": [
-            "https://forums.beamdog.com/discussion/82755/mod-the-big-metal-unit-mod-v4-5-bg-ee-bg2-ee-iwd-ee-iwd2-eet-bgt-iwd2ee",
+            "https://forums.beamdog.com/discussion/82755/",
             "https://github.com/D2-mods/D2-Mira"
         ],
         "categories": [
@@ -8554,7 +8554,7 @@
         "name": "Damian Soundset (BG:EE/BG2:EE/IWD:EE)",
         "description": "Pack de voix (en anglais) pour un guerrier ayant une tendance à dramatiser les choses, tiré du visual novel Requiescence.",
         "urls": [
-            "https://forums.beamdog.com/discussion/61522/damian-soundset-bgee-bg2ee-iwdee"
+            "https://forums.beamdog.com/discussion/61522/"
         ],
         "categories": [
             "Portrait et son"
@@ -9047,7 +9047,7 @@
         "name": "Delainy/Durlyle Same-Sex Romance Options",
         "description": "Il s'agit d'un mini mod qui permet une pseudo romance homosexuelle avec Delainie et Durlyle sans l'île de Baldurien en modifiant le script pour faire apparaître Delainie pour les PJ féminins et/ou Durlyle pour les PJ masculins.|Il devrait fonctionner avec n'importe quelle langue du jeu puisqu'il ne modifie pas les dialogues.",
         "urls": [
-            "https://forums.beamdog.com/discussion/37526/delainy-durlyle-same-sex-romance-options-mod-v0-91"
+            "https://forums.beamdog.com/discussion/37526/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -9258,7 +9258,7 @@
         "name": "Diablo characters Skin mod",
         "description": "Ce mod remplace certaines animations de créatures par celles de Diablo 2.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68567/skin-mod-for-iwd1-ee-bg1-ee-bg2-ee-diablo-character-skin-mod/p1"
+            "https://forums.beamdog.com/discussion/68567/"
         ],
         "categories": [
             "Cosmétique"
@@ -9318,7 +9318,7 @@
         "name": "Difficulty and Tweaks mod",
         "description": "Anciennement [[Mix Mod]], ce mod réunit une petite collection d'ajustements permettant soit de faciliter le jeu, soit de rendre les ennemis plus coriaces.|- Des composants permettent d'augmenter ou de réduire l'empilage des munitions, des gemmes, des bijoux, des potions et des parchemins.|- Une série de composants permet de booster les ennemis en leur accordant un bonus à la CA, au TAC0 et aux jets de sauvegarde (de 1 à 6).|- Une série de composants permet d'augmenter de 25 à 300 % les points de vie des ennemis.|- Un composant permet d'interdire le port des casques aux métamorphes.",
         "urls": [
-            "https://forums.beamdog.com/discussion/19928/release-difficulty-and-tweak-mod-ver-7"
+            "https://forums.beamdog.com/discussion/19928/"
         ],
         "categories": [
             "Gameplay"
@@ -9645,7 +9645,7 @@
         "name": "Don't wake up!",
         "description": "Ce mod restaurait la modification du patch 1.3 de BG2:EE qui interrompait les effets de sommeil lorsqu'une endormie subissait des dégâts.",
         "urls": [
-            "https://forums.beamdog.com/discussion/39228/mod-dont-wake-up-original-unconscious-sleep-behavior-for-bg1-ee-and-bg2-ee/p1"
+            "https://forums.beamdog.com/discussion/39228/"
         ],
         "categories": [
             "Gameplay"
@@ -9701,7 +9701,7 @@
         "name": "Dorn Romance Expansion",
         "description": "Ce mod est une extension de la romance de Dorn qui porte son contenu à environ 29 entretiens dans SoA et 6 dans ToB, y compris quelques interjections dans ToB. L'extension ajoute de nouvelles discussions, étend et modifie celles existantes, et change parfois leur ordre. Il ajoute l'enlèvement par Bodhi et des épilogues nouveaux/modifiés pour la romance de Dorn. Certaines des lignes vocales inutilisées de Dorn dans BG2:EE et quelques lignes vocales d'autres jeux (BG:EE et SoD) ont été ajoutées pour rendre les discussions plus vivantes.|Ce mod a été écrit pour Dorn qui s'est libéré de l'emprise de son patron. Sinon, cela n'aurait pas beaucoup de sens...",
         "urls": [
-            "https://forums.beamdog.com/discussion/47294/mod-v3-2-dorn-romance-expansion-for-bgii-ee/p1",
+            "https://forums.beamdog.com/discussion/47294/",
             "https://github.com/trinit2/Bg2Dorn/"
         ],
         "categories": [
@@ -9902,7 +9902,7 @@
         "name": "Drake NPC for BG:EE",
         "description": "Ce mod vous permet de recruter le prêtre de Tyr Drake Caulfield, d'alignement neutre bon. Vous le trouverez dans l'auberge du Magicien ardent dans BG1 et aux Trois vieux tonneaux dans SoD. Il a une quête de compagnon dans BG1 et initie une quête dans SoD sans avoir besoin de le recruter. L'achèvement de sa quête dans BG1 est obligatoire pour l'achèvement de la voie d'amitié.|Drake est grossier, sarcastique et ne mâche jamais ses mots. Exceptionnellement pragmatique et cynique pour un serviteur de la justice, il suit néanmoins les idéaux de la foi tyrienne, bien que souvent de manière... peu orthodoxe. Il préfère vivre la vie telle qu'elle est plutôt que telle qu'elle devrait être, et s'adonne abondamment à la boisson et aux insinuations. Cela le met en porte-à-faux avec ses pairs, et sa personnalité directe provoque souvent la même chose avec ses compagnons de voyage. Malgré tous ses défauts apparents, Drake est honnête, fiable et souvent plus intelligent que son comportement ne le suggère. Il a un sens aigu de la moralité et choisit de voir le monde autrement qu'en noir et blanc. Il est fortement dévoué à sa famille par-dessus tout, y compris à l'Ordre.|Drake peut se lier d'amitié avec n'importe quel PC d'alignement non-maléfique, et peut être flirté au cours de ses diverses conversations par un PC de n'importe quel sexe et de n'importe quelle race. Bien qu'il puisse répondre amicalement, il n'y a pas de voie romantique dans BG1. Dans Siege of Dragonspear, un PC non maléfique avec un Charisme de 16 ou plus peut flirter avec lui pendant son dialogue d'amitié, ce qui peut amorcer une branche romantique.",
         "urls": [
-            "https://forums.beamdog.com/discussion/62339/v1-61-drake-a-human-priest-of-tyr-npc-for-bg-ee-and-sod",
+            "https://forums.beamdog.com/discussion/62339/",
             "https://github.com/ArtemiusI/Drake"
         ],
         "categories": [
@@ -10109,7 +10109,7 @@
         "name": "Druid Grove makeover",
         "description": "Ce mod a pour but d'améliorer le visuel de la zone extérieure du bosquet des druides et de la rendre plus attrayante et adaptée à la thématique.",
         "urls": [
-            "https://forums.beamdog.com/discussion/62981/mod-druid-grove-makeover",
+            "https://forums.beamdog.com/discussion/62981/",
             "https://github.com/thisisulb/DruidGroveMakeover"
         ],
         "categories": [
@@ -10317,7 +10317,7 @@
         "name": "Duskblade",
         "description": "\"My blade and my magic are one and the same.\"||Ce mod ajoute un nouveau profil de guerrier, pouvant canaliser la magie dans ses armes.||The Duskblade blurs the line between spellcaster and warrior, marrying the power of magic with hand-to-hand combat prowess.A student of arcane spellcasting techniques, the Duskblade combines arcane spellcasting with the combat skills of a fighter.||Disadvantages:|- May only specialise 2 stars in weapons|- Can't dualclass|- Can't use bows and missile weapons|- Can't wear armor heavier than splint mail|- Min Intellect 14|- No Greater Whirlwind|- -13% EXP penalty||Advantages:|- Arcane Channelling|- Can use magic while wearing armor",
         "urls": [
-            "https://forums.beamdog.com/discussion/29633/mod-duskblade-kit-v1-1-for-bg1-ee-and-bg2-ee/p1"
+            "https://forums.beamdog.com/discussion/29633/"
         ],
         "categories": [
             "Kit"
@@ -10343,7 +10343,7 @@
         "name": "Duskblade (IWDEE)",
         "description": "\"My blade and my magic are one and the same.\"||Ce mod ajoute un nouveau profil de guerrier, pouvant canaliser la magie dans ses armes.||The Duskblade blurs the line between spellcaster and warrior, marrying the power of magic with hand-to-hand combat prowess.A student of arcane spellcasting techniques, the Duskblade combines arcane spellcasting with the combat skills of a fighter.||Disadvantages:|- May only specialise 2 stars in weapons|- Can't dualclass|- Can't use bows and missile weapons|- Can't wear armor heavier than splint mail|- Min Intellect 14|- No Greater Whirlwind|- -13% EXP penalty||Advantages:|- Arcane Channelling|- Can use magic while wearing armor",
         "urls": [
-            "https://forums.beamdog.com/discussion/36825/mod-duskblade-kit-v1-1-for-iwd-ee"
+            "https://forums.beamdog.com/discussion/36825/"
         ],
         "categories": [
             "Kit"
@@ -10418,7 +10418,7 @@
         "name": "Dwarven Defender Rebalancing",
         "description": "Ce mod modifie le profil de Protecteur nain en insistant sur ses capacités défensives.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68767/kit-mod-dwarven-defender-rebalancing/p1"
+            "https://forums.beamdog.com/discussion/68767/"
         ],
         "categories": [
             "Gameplay"
@@ -10446,7 +10446,7 @@
         "name": "EE Autoroller",
         "description": "Ce petit utilitaire lance automatiquement les dés pour déterminer les caractéristiques de votre personnage lors de sa création, et les stocke jusqu'à ce que le résultat vous convienne. Vous pouvez définir des valeurs minimum de force et de force exceptionnelle à obtenir.",
         "urls": [
-            "https://forums.beamdog.com/discussion/10937/utility-ee-autoroller/p1"
+            "https://forums.beamdog.com/discussion/10937/"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -10582,7 +10582,7 @@
         "name": "EEex",
         "description": "EEex est un extenseur d'exécutable pour l'édition améliorée du moteur Infinity de Beamdog. Son but est d'externaliser certaines parties du moteur afin d'accorder aux moddeurs un plus grand degré de contrôle sur des mécanismes autrement codés en dur. EEex ne modifie pas le gameplay lui-même, il permet simplement à d'autres mods de le faire.",
         "urls": [
-            "https://forums.beamdog.com/discussion/71798/mod-eeex-v0-9-3-alpha/p1",
+            "https://forums.beamdog.com/discussion/71798/",
             "https://github.com/Bubb13/EEex"
         ],
         "categories": [
@@ -10792,7 +10792,7 @@
         "name": "Edvin's Fixed items Mod",
         "description": "Ce mini mod modifie 6 objets du jeu.",
         "urls": [
-            "https://forums.beamdog.com/discussion/46023/eft-edvins-fixed-items/p1"
+            "https://forums.beamdog.com/discussion/46023/"
         ],
         "categories": [
             "Sort et objet"
@@ -10944,7 +10944,7 @@
         "name": "Eldritch Magic",
         "description": "Inspiré par le Manuel complet des elfes, les elfes d'Éternelle rencontre et d'autres manuels de AD&amp;D2, ce mod ajoute 15 profils dans les jeux EE : Abyssal Warrior (guerrier), Bladesinger (guerrier/mage ou barde), Collector (guerrier/mage/voleur), Eldritch Knight (guerrier/mage), Elven Minstrel (mage/voleur), Herbalist (clerc), Huntsman (guerrier/voleur), Infiltrator (guerrier/mage/voleur), Priest of Mystra (clerc/mage), Priestess of Lolth (clerc), Spellfilcher (mage/voleur), Undead Hunter (paladin), War Wizard (guerrier/mage), Wilderness Runner (rôdeur) et Windrider (guerrier).|Un composant optionnel permet de porter plusieurs pierres ioniques en même temps.",
         "urls": [
-            "https://forums.beamdog.com/discussion/49591/mod-eldritch-magic-bgee-bg2ee-iwdee/p1",
+            "https://forums.beamdog.com/discussion/49591/",
             "https://github.com/AbdelAdrian/Eldritch_Magic/"
         ],
         "categories": [
@@ -11060,7 +11060,7 @@
         "name": "Emily, a Half-Elf Archer",
         "description": "Emily est une femme noble originaire de Téthyr. Lasse des luttes politiques pour déterminer le prochain héritier de la maison Castella, elle est partie vers le nord pour retrouver sa mère biologique. Malheureusement, la fermeture de la route de Baldur's Gate et la présence de bandits l'ont poussée à rechercher un guide pour l'accompagner, en échange de ses compétences martiales. Elle peut être romancée.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Emily\">site de l'auteur</a>.",
         "urls": [
-            "https://forums.beamdog.com/discussion/74672/v1-63-emily-a-half-elf-archer-for-bg-ee-sod-and-eet/p1",
+            "https://forums.beamdog.com/discussion/74672/",
             "https://github.com/Skitia/Emily-BG1"
         ],
         "categories": [
@@ -11119,7 +11119,7 @@
         "name": "Enchant the Missile Launchers",
         "description": "Ce mod utilise la valeur de l'enchantement du lanceur de projectiles, et non pas celui des projectiles, pour savoir quel type de cible toucher, sauf si le projectile est plus puissant que le lanceur. Un composant optionnel permet d'utiliser des carquois de flèches, à capacité limitée, qui se rechargent après chaque repos.",
         "urls": [
-            "https://forums.beamdog.com/discussion/58374/enchant-the-missile-launchers-ranged-weapon-tweak/p1"
+            "https://forums.beamdog.com/discussion/58374/"
         ],
         "categories": [
             "Sort et objet"
@@ -11434,7 +11434,7 @@
         "name": "Epic Thieving",
         "description": "Ce mod permet d'étendre les capacités spéciales des voleurs dotés des compétences de voleur les plus élevées. Il ajoute des bonus supplémentaires pour la spécialisation des voleurs et améliore considérablement la qualité du jeu pour les personnages-voleurs :|- Crocheter certaines serrures du jeu, détecter et désamorcer certains pièges nécessitent désormais des compétences supérieures à 100 %.|- La puissance des pièges posés ne dépend plus du niveau du voleur, mais du nombre de points dont il dispose dans cette compétence.|- Il sera aussi possible de voler des objets auparavant protégés (comme les casques, boucliers, bottes ou armures équipés).|- Quant au vol à l'étage dans certains magasins, il sera soumis à un score de compétence supérieur à 100 %. Chaque point dépensé au dessus de 100 % dans la compétence Détection des illusions donnera 1 % de chance de détection automatique des illusions SANS avoir besoin d'activer cette compétence.|- Enfin, les voleurs disposeront de la nouvelle compétence Utilisation du poison si le mod [[EEex]] est installé.|En contrepartie, il ne sera plus possible de cumuler les effets des potions du Maître-voleur.",
         "urls": [
-            "https://forums.beamdog.com/discussion/74158/v3-5-epic-thieving-more-benefits-from-high-thieving-skills/p1",
+            "https://forums.beamdog.com/discussion/74158/",
             "https://github.com/OlvynChuru/Epic-Thieving/"
         ],
         "categories": [
@@ -11702,7 +11702,7 @@
         "name": "Expanded Classes and Kits",
         "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[War Hulk Kit]], [[Universal Archer]], Shapeshifter, Psionicist, Sword Dancer.|- Paladins : [[Universal Archer]], Kensai.|- Moines : Kensai, Stalker, Assassin, Psionicist, Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[Alchemist kit for mages]], [[Red soul and Green soul Kits]], Plasma Wizard, War Mage.|- Sorciers : [[Red soul and Green soul Kits]].|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : [[Seducer Kit for Thieves]], [[Universal Archer]], Kensai, Shapechanger.|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief.",
         "urls": [
-            "https://forums.beamdog.com/discussion/77859/expanded-classes-and-kits-massive-kit-compilation-mod",
+            "https://forums.beamdog.com/discussion/77859/",
             "https://github.com/Endarire/SemiticsExpandedClasses"
         ],
         "categories": [
@@ -11798,7 +11798,7 @@
         "name": "Experience cap remover and new HLA for F/M/C and F/M/T",
         "description": "",
         "urls": [
-            "https://forums.beamdog.com/discussion/26198/experience-cap-remover-and-new-high-level-ability-pools-for-f-m-c-and-f-m-t"
+            "https://forums.beamdog.com/discussion/26198/"
         ],
         "categories": [
             "Gameplay"
@@ -11857,7 +11857,7 @@
         "name": "Extra Expanded Enhanced Encounters!",
         "description": "Ce mod ajoute environ 10 nouvelles rencontres aléatoires dans BG1, ainsi que de nouveaux objets magiques et autres. Son objectif est de rendre \"plus intéressantes\" certaines zones du jeu vides de toute opposition.",
         "urls": [
-            "https://forums.beamdog.com/discussion/73749/extra-expanded-enhanced-encounters-module-download/p1",
+            "https://forums.beamdog.com/discussion/73749/",
             "https://github.com/GraionDilach/ExtraExpandedEnhancedEncounters"
         ],
         "categories": [
@@ -11890,7 +11890,7 @@
         "name": "FG Cleric Kits",
         "description": "Ce mod ajoute six nouveaux profils divins dans le jeu : Priest of Baervan, Priest of Baravar, Priest of Clangeddin, Priest of Aerdrie, Priest of Arvoreen et Priest of Gruumsh.",
         "urls": [
-            "https://forums.beamdog.com/discussion/46717/mod-fg-cleric-kits-now-with-bg-ee-2-0-compatability/p1"
+            "https://forums.beamdog.com/discussion/46717/"
         ],
         "categories": [
             "Kit"
@@ -11917,7 +11917,7 @@
         "name": "FG Kits",
         "description": "Ce mod ajoute dix nouveaux profils dans le jeu : Forest Warden (un guerrier orienté druide), Halfling Marshal (un guerrier au parfum paladinesque), Defender et Invader (druides), Cataphract et Artillier (rôdeurs), Novice, Trickster, Agent et Seeker (voleurs).",
         "urls": [
-            "https://forums.beamdog.com/discussion/51515/mod-fg-kits-updated-v1-2/p1"
+            "https://forums.beamdog.com/discussion/51515/"
         ],
         "categories": [
             "Kit"
@@ -12330,7 +12330,7 @@
         "name": "Fire Elemental (Monk kit)",
         "description": "Ce mod ajoute un profil de moine qui est... en fait un élémentaire de feu !",
         "urls": [
-            "https://forums.beamdog.com/discussion/64036/fire-elemental-monk-kit/p1"
+            "https://forums.beamdog.com/discussion/64036/"
         ],
         "categories": [
             "Kit"
@@ -12498,7 +12498,7 @@
         "name": "Foebane +3 and +5 improvement mod",
         "description": "Ce mini mod corrige les dégâts infligés par l'épée Sangplan contre les créatures extra planaires. Désormais, elles causera les mêmes dégâts supplémentaires contre les élémentaires, les githyankis, les diablotins, les génies et les tiefelins.",
         "urls": [
-            "https://forums.beamdog.com/discussion/31391/foebane-3-and-5-improvement-mod/p1"
+            "https://forums.beamdog.com/discussion/31391/"
         ],
         "categories": [
             "Sort et objet"
@@ -12960,7 +12960,7 @@
         "name": "Game Assistant Scripts",
         "description": "Ce mod ajoute trois nouveaux scripts automatiques pour les personnages : un script de bataille, un script de pause automatique et un script de pre-buff semi-automatique.",
         "urls": [
-            "https://forums.beamdog.com/discussion/72929/mod-game-assistant-scripts",
+            "https://forums.beamdog.com/discussion/72929/",
             "https://github.com/Sebastian-c4/Game_Assistant_Scripts"
         ],
         "categories": [
@@ -13440,7 +13440,7 @@
         "name": "Gesen Longbow Conversion",
         "description": "Ce mini mod transforme l'arc court de Gesen en arc long et lui donne un bonus de 5 au toucher.",
         "urls": [
-            "https://forums.beamdog.com/discussion/33259/a-little-mod-that-converts-gesen-bow-to-a-longbow/p1"
+            "https://forums.beamdog.com/discussion/33259/"
         ],
         "categories": [
             "Sort et objet"
@@ -14194,7 +14194,7 @@
         "name": "Haste Effects Overriding Improved Haste Fix",
         "description": "Créé à l'origine pour palier une incompatibilité avec l'épée longue +3 Rasoirnoir, ce mod empêche l'empilage des effets de hâte améliorée générés par les sorts.",
         "urls": [
-            "https://forums.beamdog.com/discussion/28572/haste-effects-overriding-improved-haste-fix-previously-blackrazor-revision/p1"
+            "https://forums.beamdog.com/discussion/28572/"
         ],
         "categories": [
             "Patch non officiel"
@@ -14308,7 +14308,7 @@
         "name": "Helarine, Doomguide of Kelemvor",
         "description": "Ce mod ajoute une nouvelle PNJ dans le jeu : la prêtresse Helarine, dotée d'un profil de Garde mortuaire de Kelemvor. Vous la trouverez à l'extérieur de l'auberge du Bras amical (BG:EE) ou dans le cimetière d'Athkatla (BG2:EE).",
         "urls": [
-            "https://forums.beamdog.com/discussion/15586/mod-npc-mod-for-bgee-helarine-doomguide-of-kelemvor-beta-v1/p1",
+            "https://forums.beamdog.com/discussion/15586/",
             "https://github.com/JackkelDragon/BGEE_Helarine"
         ],
         "categories": [
@@ -14339,7 +14339,7 @@
         "name": "Helga, a Dwarven Priestess of Haela Brightaxe",
         "description": "Helga sort de sa retraite après des années de service au temple de Haela et de garde d'enfants pour revivre ses jeunes années de combat. Dans BG1 et SoD, elle combattra volontiers aux côtés du protagoniste, à condition qu'il l'aide à protéger son peuple ou à chasser sa proie. Possédant une force remarquable malgré son âge, elle n'est pas aussi résistante que les autres guerriers. Capable d'appeler temporairement dans sa main une lame puissante, elle peut encore déchirer les lignes ennemies.|Elle se soucie peu des règles et des solutions pacifiques, et favorise des résultats plus violents et risqués dans vos choix. Elle n'est pas mauvaise, cependant, et la malveillance manifeste gagnera sa désapprobation. Pas de romance possible, mais une voie de l'amitié chaleureuse pour ceux qui aiment la bataille autant qu'elle.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Helga\">site de l'auteur</a>.",
         "urls": [
-            "https://forums.beamdog.com/discussion/76460/v1-53-helga-a-dwarven-priestess-of-haela-brightaxe-for-bg-ee-and-sod-and-eet/p1",
+            "https://forums.beamdog.com/discussion/76460/",
             "https://github.com/Skitia/Helga-BG1/"
         ],
         "categories": [
@@ -14640,7 +14640,7 @@
         "name": "High Level Abilities as Innate Abilities",
         "description": "Ce mini mod transforme les HLA des mages et des prêtres en capacités innées, libérant ainsi la barre des sorts d'emplacements pour des sorts de niveau 7 ou 9.",
         "urls": [
-            "https://forums.beamdog.com/discussion/34002/high-level-abilities-as-innate-abilities#Comment_543076"
+            "https://forums.beamdog.com/discussion/34002/#Comment_543076"
         ],
         "categories": [
             "Gameplay"
@@ -14664,7 +14664,7 @@
         "name": "High Moor Shaman w/leveling Familiar",
         "description": "Ce mod ajoute un shaman qui peut avoir un compagnon esprit : une panthère.",
         "urls": [
-            "https://forums.beamdog.com/discussion/15720/mod-high-moor-shaman-w-leveling-familiar-ver-1-00-updated-updated-link/p1"
+            "https://forums.beamdog.com/discussion/15720/"
         ],
         "categories": [
             "Kit",
@@ -14691,7 +14691,7 @@
         "name": "High Power Baldur's Gate",
         "description": "Ce mod a pour ambition de renouveler l'expérience du premier opus de la saga BG. Il donne de nouvelles capacités aux membres du groupe, ainsi qu'à la plupart des autres créatures du jeu. Il modifie aussi de nombreux objets et sorts et en ajoutent plein d'autres.",
         "urls": [
-            "https://forums.beamdog.com/discussion/60325/mod-high-power-baldurs-gate-v2-4-0/p1",
+            "https://forums.beamdog.com/discussion/60325/",
             "https://github.com/OlvynChuru/High-Power-Baldurs-Gate"
         ],
         "categories": [
@@ -14902,7 +14902,7 @@
         "name": "House Rules for IWD:EE (IWD:EE Tweak Pack)",
         "description": "Cette collection de corrections et de modifications est l'œuvre de smeagolheart. Elle comporte divers composants permettant de révéler l'emplacement des villes, de pouvoir acheter des munitions plus puissantes dans divers magasins, d'ajouter les marchands Koluv et Deirdre dans le jeu, etc.",
         "urls": [
-            "https://forums.beamdog.com/discussion/37290/house-rules-for-iwd-ee-iwdee-tweaks/p1",
+            "https://forums.beamdog.com/discussion/37290/",
             "http://www.shsforums.net/files/file/1101-house-rules-for-iwdee-iwdee-tweak-pack/"
         ],
         "categories": [
@@ -14986,7 +14986,7 @@
         "name": "Human Flesh Armor no longer disables spells",
         "description": "Ce mod permet de lancer des sorts lorsqu'on porte l'armure de chair humaine.",
         "urls": [
-            "https://forums.beamdog.com/discussion/44194/human-flesh-armor-no-longer-disables-spells/p1"
+            "https://forums.beamdog.com/discussion/44194/"
         ],
         "categories": [
             "Sort et objet"
@@ -15145,7 +15145,7 @@
         "name": "IWD Divine spells in BG:EE, SoD and BG2:EE",
         "description": "Ce mod porte tous les sorts divins de IWD:EE dans BG:EE et BG2:EE, en ajoute d'autres et en modifie certains.",
         "urls": [
-            "https://forums.beamdog.com/discussion/59668/iwd-divine-spells-in-bgee-sod-and-bg2ee/p1"
+            "https://forums.beamdog.com/discussion/59668/"
         ],
         "categories": [
             "Sort et objet"
@@ -15174,7 +15174,7 @@
         "name": "IWD GUI for BG2:EE and BG:EE",
         "description": "Ce mod remplace l'interface de BG:EE et BG2:EE par celle d'IWD.",
         "urls": [
-            "https://forums.beamdog.com/discussion/62974/mod-iwd-gui-for-bg2-ee-and-bg-ee-v1-2"
+            "https://forums.beamdog.com/discussion/62974/"
         ],
         "categories": [
             "Interface"
@@ -15408,7 +15408,7 @@
         "name": "IWD2 GUI for BG2:EE",
         "description": "Ce mod remplace l'interface de BG2:EE par celle d'IWD2.",
         "urls": [
-            "https://forums.beamdog.com/discussion/63354/mod-gui-for-bg2-ee-iwd2-theme-v1-3"
+            "https://forums.beamdog.com/discussion/63354/"
         ],
         "categories": [
             "Interface"
@@ -15522,7 +15522,7 @@
         "name": "IWD:EE Portrait Variations",
         "description": "Ce mod améliore la qualité des portraits dans IWD:EE en proposant des médaillons \"zoomés\" sur le visage des personnages et des variations des portraits existants.",
         "urls": [
-            "https://forums.beamdog.com/discussion/45897/mod-iwd-ee-portrait-variations",
+            "https://forums.beamdog.com/discussion/45897/",
             "https://github.com/Ineth2/iwd_portrait_variations"
         ],
         "categories": [
@@ -15549,7 +15549,7 @@
         "name": "IWDEE compatibility fixer",
         "description": "Si vous avez joué à IWDEE avec des kits de mods, vous avez peut-être remarqué que de nombreux kits ne sont pas compatibles avec IWDEE, même s'ils disent l'être. Les kits fonctionneront généralement, mais il leur manquera des capacités IWDEE, ou dans le cas des druides ou des paladins, ils auront des capacités complètement erronées.",
         "urls": [
-            "https://forums.beamdog.com/discussion/86804/mod-iwd-ee-compatibility-fixer-for-mod-kits-v0-8",
+            "https://forums.beamdog.com/discussion/86804/",
             "https://github.com/D2-mods/IWDEE-compatibility-fixer"
         ],
         "categories": [
@@ -16023,7 +16023,7 @@
         "name": "Improved Cloak of Non-Detection",
         "description": "Ce mod rend la cape de non-détection utile dans le jeu. Elle protège désormais contre tous les sorts dissipant l'illusion (Vision véritable, Oracle, Détection des illusions...).",
         "urls": [
-            "https://forums.beamdog.com/discussion/40116/mod-improved-cloak-of-non-detection/p1"
+            "https://forums.beamdog.com/discussion/40116/"
         ],
         "categories": [
             "Sort et objet"
@@ -16049,7 +16049,7 @@
         "name": "Improved Comet and Improved Meteor Swarm",
         "description": "Ce mod essaie de rendre le sort Comète bien plus différent que Souffle de dragon. Désormais, il inflige 10d10 points de dégâts de feu et 5d10 points de dégâts contondants, passe outre la résistance à la magie de la cible. Quant aux effets d'étourdissement, leur durée a été réduite de 1 round et ils ne sont plus soumis à un jet de sauvegarde.|De même, le sort Nuée de météores inflige désormais 4d10 points de dégâts de feu et 2d10 points de dégâts contondants, passe outre la résistance à la magie de la cible, et dure 5 rounds.",
         "urls": [
-            "https://forums.beamdog.com/discussion/27351/mod-improved-comet-and-improved-meteor-swarm/p1"
+            "https://forums.beamdog.com/discussion/27351/"
         ],
         "categories": [
             "Sort et objet"
@@ -16074,7 +16074,7 @@
         "name": "Improved GUI for BG:EE",
         "description": "Ce mod améliore l'interface graphique du mod [[BG2:EE GUI In BG:EE]] et est compatible avec les versions du jeu 2.0.",
         "urls": [
-            "https://forums.beamdog.com/discussion/40001/gui-mod-updated-improved-gui-for-baldurs-gate-enhanced-edition-v2-0/p1"
+            "https://forums.beamdog.com/discussion/40001/"
         ],
         "categories": [
             "Interface"
@@ -16136,7 +16136,7 @@
         "name": "Improved Heart of Fury Mode",
         "description": "Ce mod fournit une version plus intéressante du mode Cœur de furie d'Icewind Dale. Il offre un jeu nettement plus difficile, mais pas simplement en donnant de grandes quantités de points de vie aux ennemis ou en augmentant leurs caractéristiques (comme dans la version EE normale), mais en effectuant un rééquilibrage majeur des ennemis et de leurs capacités.|Les ennemis obtiennent de nouvelles capacités, une IA améliorée (inspirée de [[Sword Coast Stratagems]]), le renforcement de diverses caractéristiques et à certains endroits, ils sont plus nombreux. De nombreux ennemis voient leur capacité de base améliorée. Les trolls régénèrent plus rapidement, les scarabées bombardiers tirent plus souvent, les araignées sabre se déplacent et attaquent très rapidement, etc.|Comme dans le mode HoF d'Icewind Dale 2, la plupart des objets du jeu sont renforcés. Il apporte aussi de nombreux changements intéressants aux classes et aux kits, de nombreux nouveaux ajustements aux sorts, aux objets et à diverses autres choses dans le jeu.",
         "urls": [
-            "https://forums.beamdog.com/discussion/70717/mod-improved-heart-of-fury-mode-version-4-1-0/p1",
+            "https://forums.beamdog.com/discussion/70717/",
             "https://github.com/OlvynChuru/Improved-Heart-Of-Fury-Mode"
         ],
         "categories": [
@@ -16235,7 +16235,7 @@
         "description": "L'un des traits les plus importants de la classe du chaman est la Danse chamanique qui permet au chaman d'invoquer indéfiniment des esprits alliés pour se battre à ses côtés. Cependant, dans la version originale, le chaman se trouve pratiquement désactivé pendant qu'il danse.|Ce mod améliore cette capacité en permettant au chaman de se déplacer à vitesse réduite pendant la danse avec en contrepartie quelques contraintes. La Danse chamanique peut être améliorée par plusieurs composants optionnels. Le dernier composant disperse quelques objets chamaniques dans le jeu.",
         "urls": [
             "http://www.shsforums.net/topic/59265-mod-improved-shamanic-dance/",
-            "https://forums.beamdog.com/discussion/58676",
+            "https://forums.beamdog.com/discussion/58676/",
             "https://github.com/Argent77/A7-ImprovedShamanicDance/"
         ],
         "categories": [
@@ -16733,7 +16733,7 @@
         "name": "Ishlilka the Wizard Slayer",
         "description": "Ishlilka est une tueuse de magiciens nouvellement formée qui est venue dans cette partie de la Côte des Épées pour prouver qu'elle est digne de son père et de sa bande de mercenaires réputés. Noble de cœur, et seule face à un ennemi étrange, elle prend volontiers votre cause en échange de votre aide. Vous la trouverez à l'auberge du Bras amical. Le mod propose une voie de l'amitié, une romance et une quête pour SoD.",
         "urls": [
-            "https://forums.beamdog.com/discussion/63679/npc-mod-ishlilka-the-wizard-slayer-for-bg1-sod-full-version-1-4/p1",
+            "https://forums.beamdog.com/discussion/63679/",
             "https://sorcerers.net/community/resources/ishlilka-for-bg1-sod-1-3.97/updates",
             "https://github.com/The-Gate-Project/Ishlilka_The-Wizard-Slayer"
         ],
@@ -16991,7 +16991,7 @@
         "name": "Item changes for Defender of Easthaven and Blue Dragon Plate mod",
         "description": "Ce mod modifie ces deux objets (le premier étant jugé trop puissant et le second pas assez).",
         "urls": [
-            "https://forums.beamdog.com/discussion/44204/item-changes-for-defender-of-easthaven-and-blue-dragon-plate/p1"
+            "https://forums.beamdog.com/discussion/44204/"
         ],
         "categories": [
             "Sort et objet"
@@ -17112,7 +17112,7 @@
         "name": "Jaheira Recast",
         "description": "Comme Heidi Shannon (la voix originale de Jaheira) n'était pas joignable pour Siege of Dragonspear, Beamdog avait initialement choisi une nouvelle actrice pour le rôle. Finalement, ils ont décidé que la voix de la nouvelle actrice ne fonctionnait pas et ont laissé les lignes de Jaheira sans voix et avec son soundset original de BG1. Cependant, la plupart des lignes vocales de Jaheira et la quasi-totalité de son soundset sont inclus dans les fichiers SoD. Ce mod reconnecte donc ces fichiers aux lignes de dialogue et met à jour le soundset de Jaheira. Il comprend quatre composants :|- Restauration du nouveau soundset de SoD.|- Utilisation des soundsets de BG1 et de BG2 : ce composant conserve le soundset original de BG1 original, mais le complète avec des sons de BG2 pour les sons manquant dans le soundset de BG1 (par exemple, le son \"SPELL_FAILED\").|- Voix des dialogues : ce composant ajoute les lignes vocales disponibles dans les dialogues de Jaheira (environ 100 lignes de dialogues/banter).|- Donner à Jaheira son portrait de BG2 pour BG:EE et SoD.",
         "urls": [
-            "https://forums.beamdog.com/discussion/52633/jaheira-recast-v3-0/p1",
+            "https://forums.beamdog.com/discussion/52633/",
             "https://github.com/The-Gate-Project/JaheiraRecast/"
         ],
         "categories": [
@@ -17352,7 +17352,7 @@
         "name": "Jester song Enhancement",
         "description": "Ce mod modifie le Chant du bouffon.",
         "urls": [
-            "https://forums.beamdog.com/discussion/40263/jester-song-enhancement-gain-experience-from-mayhem-updated"
+            "https://forums.beamdog.com/discussion/40263/"
         ],
         "categories": [
             "Gameplay"
@@ -17380,7 +17380,7 @@
         "name": "Jimfix",
         "description": "Ce petit mod intégrait les modification d'IA de [[Sword Coast Stratagems]] dans [[Ascension]].",
         "urls": [
-            "https://forums.beamdog.com/discussion/66358/mod-jimfix-ascension-scs-fixes-general-tweaks/p1",
+            "https://forums.beamdog.com/discussion/66358/",
             "https://github.com/Banananaut/Jimfix"
         ],
         "categories": [
@@ -17437,7 +17437,7 @@
         "description": "Ce mod ajoute deux profils de guerrier : le Kenshei et l'Éliminateur de morts-vivants.",
         "urls": [
             "http://www.shsforums.net/files/file/965-jkits/",
-            "https://forums.beamdog.com/discussion/18607/jkits-v6-kenshei-undead-eliminator-amazon-1-26-16/p1"
+            "https://forums.beamdog.com/discussion/18607/"
         ],
         "categories": [
             "Kit"
@@ -17496,7 +17496,7 @@
         "name": "Journal Fixes",
         "description": "Ce mod modifie l'affichage des journaux en permettant notamment de filter les informations.",
         "urls": [
-            "https://forums.beamdog.com/discussion/60029/mod-journal-fixes-for-bgee-bg2ee-and-bgee-sod-v2-2"
+            "https://forums.beamdog.com/discussion/60029/"
         ],
         "categories": [
             "Interface"
@@ -17532,7 +17532,7 @@
         "name": "Journal Portrait Conversations for PST:EE",
         "description": "Ce mod affiche un portrait correspondant aux interlocuteurs dans les fenêtres de dialogue.",
         "urls": [
-            "https://forums.beamdog.com/discussion/64382/mod-journal-portrait-conversations-for-PSTee/p1"
+            "https://forums.beamdog.com/discussion/64382/"
         ],
         "categories": [
             "Cosmétique"
@@ -17556,7 +17556,7 @@
         "name": "K's Dual Class",
         "description": "Ce mod permet aux barbares de se jumeler en clerc, mage, voleur ou druide ; et aux entropistes de se jumeler en guerrier, clerc ou voleurs.",
         "urls": [
-            "https://forums.beamdog.com/discussion/13700/mod-ks-dual-class-mod-v1-1",
+            "https://forums.beamdog.com/discussion/13700/",
             "http://www.invarietateconcordia.de/bgee/BGEE.html#Downloads"
         ],
         "categories": [
@@ -17610,7 +17610,7 @@
         "name": "Kale, a Halfling Barbarian",
         "description": "Conteur de grandes aventures qu'il a peut-être eues ou non, Kale est une petite-personne de Gullykind, se prétendant \"héroïque\", avec un sourire rapide et une cape fringante. Cependant, il semble plus sombre qu'il n'y paraît, son sourire cachant ses frustrations face à l'incapacité d'être grand. Votre groupe lui offre une chance de faire ses preuves auprès de lui-même et du reste du monde, et il apportera volontiers sa capacité astucieuse à prendre beaucoup de coups et à rester debout.|Dans BG:EE, Kale est un barbare, mais dans BG2:EE et éventuellement dans BG:EE, il peut être doté d'un kit de gardien.|Dans SoD, il se trouve dans la taverne du Chant de l'Elfe. Comme il n'aime pas du tout l'idée de voyager avec un gobelin, il faudra le persuader de le supporter ou il ne quittera le groupe.|Dans BG2:EE, il se trouve à l'extérieur de la Couronne de Cuivre, peu de temps après avoir appris la mort de son père.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Kale\">site de l'auteur</a>.",
         "urls": [
-            "https://forums.beamdog.com/discussion/74630/v1-65-kale-a-halfling-barbarian-for-bg-ee-sod-and-eet/p1",
+            "https://forums.beamdog.com/discussion/74630/",
             "https://github.com/Skitia/Kale-BG1/"
         ],
         "categories": [
@@ -17762,7 +17762,7 @@
         "name": "Keldorn's Armor for Monks",
         "description": "Ce mini mod permet de restaurer le bug permettant aux moines de porter l'amure de Keldorn et supprimé dans les jeux EE.",
         "urls": [
-            "https://forums.beamdog.com/discussion/52283/mod-tweak-to-allow-monk-to-wear-keldorns-armor/p1"
+            "https://forums.beamdog.com/discussion/52283/"
         ],
         "categories": [
             "Sort et objet"
@@ -17847,7 +17847,7 @@
         "name": "Kensai Kit Revision Mod",
         "description": "Ce mod modifie le profil de Kensaï, selon les règles du manuel des Aventures orientales (AD&amp;D 1ère édition).",
         "urls": [
-            "https://forums.beamdog.com/discussion/41836/kensai-kit-revision-mod-new-version-v2-0/p1",
+            "https://forums.beamdog.com/discussion/41836/",
             "https://github.com/Plutonium-X/KIT_Kensai_Rev"
         ],
         "categories": [
@@ -19075,7 +19075,7 @@
         "name": "\"Level Up\" Icon Tweaks",
         "description": "Ce mini mod apporte une modification cosmétique de confort à l'interface de PST:EE. Vous pouvez configurer l'affichage ou non de l'icône de passage au niveau supérieur et choisir de la déplacer sur le portrait du personnage.|Le mod est aussi disponible sur <a href=\"http://www.shsforums.net/files/file/1222-level-up-icon-tweaks/\">Spellhold studios</a>.",
         "urls": [
-            "https://forums.beamdog.com/discussion/64259/mod-level-up-icon-tweaks",
+            "https://forums.beamdog.com/discussion/64259/",
             "https://github.com/Argent77/A7-LevelUpTweaks/"
         ],
         "categories": [
@@ -19108,7 +19108,7 @@
         "name": "Level adder",
         "description": "Ce mod permet de donner des niveaux supplémentaires à tous les personnages non recrutables (pas monstres) du jeu, suivant leur classe : 10 niveaux à tous les guerriers, 6 aux voleurs, 4 aux mages... Vous pouvez aussi multiplier les points de vie de tous les personnages/monstres par 3, 4, 5, 7, 10 ou 15.",
         "urls": [
-            "https://forums.beamdog.com/discussion/32334/level-adder-v0-5/p1"
+            "https://forums.beamdog.com/discussion/32334/"
         ],
         "categories": [
             "Gameplay"
@@ -19276,7 +19276,7 @@
         "name": "Long bow of Stealth +5",
         "description": "Ce mod ajoute un arc long +5 très puissant ainsi que des flèches acides +4 dans la cité elfique de Suldanessalar.",
         "urls": [
-            "https://forums.beamdog.com/discussion/34009/long-bow-of-stealth-5/p1"
+            "https://forums.beamdog.com/discussion/34009/"
         ],
         "categories": [
             "Sort et objet"
@@ -19433,7 +19433,7 @@
         "name": "Lost Druid Kit",
         "description": "Ce mod ajoute un nouveau profil de druide, le Druide déchu, tiré du Manuel complet du Druide.",
         "urls": [
-            "https://forums.beamdog.com/discussion/24865/bgee-bgee-2-mod-lost-druid-kit-1-3v/p1"
+            "https://forums.beamdog.com/discussion/24865/"
         ],
         "categories": [
             "Kit"
@@ -19510,7 +19510,7 @@
         "name": "Low Magic World",
         "description": "Ce mod limite l'utilisation de la magie dans le jeu en diminuant l'enchantement des armes, diminuant la durée et les dégâts infligés par des sorts, augmentant le prix des parchemins magiques...",
         "urls": [
-            "https://forums.beamdog.com/discussion/66662/mod-low-magic-world-for-bgee-sod-bg2ee-iwdee",
+            "https://forums.beamdog.com/discussion/66662/",
             "https://github.com/UnearthedArcana/Low_Magic"
         ],
         "categories": [
@@ -20163,7 +20163,7 @@
         "name": "Margarita Zelleod",
         "description": "Ce mod ajoute une nouvelle traqueuse halfelin qui voyage sur la Côte des Épées, bien qu'il soit évident qu'elle n'est pas de la région. Elle aime se faire passer pour une personne inutile, timide ou innocente, même si ce n'est pas tout à fait le cas. Vous pourrez la recruter dans les mines de Nashkel.",
         "urls": [
-            "https://forums.beamdog.com/discussion/15867/mod-npc-margarita-zelleod/p1",
+            "https://forums.beamdog.com/discussion/15867/",
             "https://www.mediafire.com/file/319iqtunuedckt5/Margarita.rar/file"
         ],
         "categories": [
@@ -20646,7 +20646,7 @@
         "name": "Minor NPC Portraits for IWD:EE",
         "description": "À l'instar des mods [[Gerri's NPC Portraits Pack]] et [[The BG1NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans IWD:EE.",
         "urls": [
-            "https://forums.beamdog.com/discussion/37001/mod-minor-npc-portraits-for-iwdee/p1",
+            "https://forums.beamdog.com/discussion/37001/",
             "https://github.com/smeagolheart/MinorNPCPortraitsforIWDEE"
         ],
         "categories": [
@@ -20825,7 +20825,7 @@
         "name": "Mod NPC",
         "description": "Ce mod permet d'enrôler des PNJ interactifs et de créer son propre groupe. Vous pourrez modifier n'importe quel PNJ recrutable à partir de personnages pré-générés (que vous aurez créés à partir du menu du jeu. Il et bien entendu possible de personnaliser ces changements. La configuration par défaut modifie tout sauf ce qui rend le PNJ unique, notamment son sexe, sa race, son portrait, son jeu de sons, son dialogue, ses capacités innées et ses objets. Un second composant supprime les pré-requis nécessaire pour utiliser les objets propres aux NPC.|Ainsi, vous pouvez transformer Jaheira en Prêtresse/Rôdeuse avec des points de compétences personnalisés, ou Minsc en véritable Berseker.",
         "urls": [
-            "https://forums.beamdog.com/discussion/61177/mod-mod-npc/p1"
+            "https://forums.beamdog.com/discussion/61177/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -20983,7 +20983,7 @@
         "name": "Mods Options",
         "description": "Essentiellement destiné aux moddeurs, ce mod ajoute de nouveaux boutons dans les écrans de lancement et d'options du jeu, qui permettent d'afficher les paramètres de mod, à condition qu'ils aient été définis comme complément de l'UI.",
         "urls": [
-            "https://forums.beamdog.com/discussion/59740/mod-mods-options-bg-ee-sod-and-bg2-ee-tob"
+            "https://forums.beamdog.com/discussion/59740/"
         ],
         "categories": [
             "Interface"
@@ -21035,7 +21035,7 @@
         "name": "Monastic Orders of Faerun",
         "description": "Ce mod rééquilibre la progression des moines afin d'assurer leur viabilité à la fois aux niveaux bas et élevés. Il révise les trois moines existants pour les équilibrer à tous les niveaux de jeu. Il ajoute également quatre nouveaux profils de moine, inspirés de divers ordres monastiques à travers les royaumes.",
         "urls": [
-            "https://forums.beamdog.com/discussion/18620/mod-beta-monastic-orders-of-faerun/p1",
+            "https://forums.beamdog.com/discussion/18620/",
             "https://github.com/aquadrizzt/MonasticOrders"
         ],
         "categories": [
@@ -21067,7 +21067,7 @@
         "name": "Monk Overhaul",
         "description": "Vous avez aimé le composant `Capacités de haut niveau du moine` du mod [[Oversight]] ? Alors, ce mod est pour vous.|Il reprend son contenu et le rend compatible avec les jeux EE. Il remplace la table des capacités de haut niveau des moines (qui était celle des guerriers) par une autre inspirée de celles utilisées par Balthazar dans ToB : Coup d'ombre, Frappe du tigre, Poing draconique, Plus vite que la lumière, Échanger les résistances, Position solaire, Position lunaire, Position d'ombre, Pieds du vent et Second souffle.",
         "urls": [
-            "https://forums.beamdog.com/discussion/33618/mod-monk-overhaul/p1",
+            "https://forums.beamdog.com/discussion/33618/",
             "https://github.com/Plutonium-X/KIT_Moine_Rev"
         ],
         "categories": [
@@ -21213,7 +21213,7 @@
         "name": "More Style for Mages",
         "description": "À l'origine, la vocation de ce mod était d'améliorer l'apparence des magiciens en les équipant de bâtons capables de lancer des projectiles magiques, de bandeaux, et en modifiant leurs robes. Puis, l'auteur s'est attaqué aux familiers en les personnalisant. Depuis, il ajoute régulièrement des modifications (bâtons de magiciens, contenants...).",
         "urls": [
-            "https://forums.beamdog.com/discussion/18108/item-mod-more-style-for-mages-ranged-wizards-staffs-circlets-robe-visual-tweaks-now-in-iwd-ee/p1",
+            "https://forums.beamdog.com/discussion/18108/",
             "https://github.com/Renegade0/msfm"
         ],
         "categories": [
@@ -21375,7 +21375,7 @@
         "name": "Mortuary-Be-Gone",
         "description": "This mod (inspired by the [[Dungeon-Be-Gone]] and [[Skip Chateau Irenicus]] mods for Baldur's Gate 2) allows Morte to whisk you through a portal at the very start of the game while still providing the items and experience you'd gain from a thorough exploration of the Mortuary. Narratively, you are implied to have done a \"normal\" playthrough of the Mortuary in your previous incarnation, who died shortly (and relatively non-traumatically) after escaping the Mortuary.||This mod makes a few assumptions about your previous incarnation's decisions within the Mortuary. As the Mortuary is still accessible after escaping from it, I have minimized the impact that you could have had while still completing secondary objectives. You are assumed to have looted every container, avoided combat and detection wherever possible, completed every available side quest, and not taken any actions that would influence your alignment. The Dustmen will have restocked any non-unique item should you return to the Mortuary later..",
         "urls": [
-            "https://forums.beamdog.com/discussion/87482/mod-mortuary-be-gone",
+            "https://forums.beamdog.com/discussion/87482/",
             "https://github.com/aquadrizzt/MortuaryBeGone"
         ],
         "categories": [
@@ -21404,7 +21404,7 @@
         "name": "Mr Pennyway's Cosmetic Changes",
         "description": "Réalisé par un employé de Beamdog, ce mod modifie les robes de mage et les armures afin, entre autres, d'appliquer les choix de couleur faits pour son personnage.",
         "urls": [
-            "https://forums.beamdog.com/discussion/14965/mr-pennyways-cosmetic-changes/p1"
+            "https://forums.beamdog.com/discussion/14965/"
         ],
         "categories": [
             "Cosmétique"
@@ -21455,7 +21455,7 @@
         "name": "Multi-Portrait",
         "description": "Ce mod remplace le sélecteur de portrait standard, image par image, par un écran qui affiche 10 portraits à la fois. Il fait également partie du mod \"EE UI Tweaks\".",
         "urls": [
-            "https://forums.beamdog.com/discussion/57176/mod-multi-portrait-mod-bg-sod-bg2-iwd-weidu-installation/p1"
+            "https://forums.beamdog.com/discussion/57176/"
         ],
         "categories": [
             "Interface"
@@ -21645,7 +21645,7 @@
         "name": "Mystic Fire Paladin Kit",
         "description": "Ce mod ajoute un nouveau profil de paladin, le Chevalier du feu mystique, suivant de Mystra, la déesse de la magie.",
         "urls": [
-            "https://forums.beamdog.com/discussion/52816/v1-0-mystic-fire-arcane-paladin-kit/p1"
+            "https://forums.beamdog.com/discussion/52816/"
         ],
         "categories": [
             "Kit"
@@ -21735,7 +21735,7 @@
         "name": "NPC Bodies",
         "description": "Ce mod est destiné à ceux qui jouent un jeu avec peu ou pas de rechargement (donc en utilisant les services de résurrection des temples au lieu de recharger lorsqu'un PNJ meurt) et comporte trois composants qui peuvent être installés indépendamment les uns des autres.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68547/npc-bodies-a-death-and-resurrection-overhaul-for-eet",
+            "https://forums.beamdog.com/discussion/68547/",
             "https://www.gibberlings3.net/forums/topic/28385-npc-bodies/"
         ],
         "categories": [
@@ -21821,7 +21821,7 @@
         "description": "N'avez-vous jamais regretté que le jeu ne vous permette de créer qu'une partie initiale composée du protagoniste et (avec un certain effort) d'un petit nombre de personnages supplémentaires ? Plus maintenant ! Ce mod vous permet d'installer des personnages pré-générés ou exportés en tant que PNJ ordinaires. Vous pouvez les rencontrer à des endroits prédéterminés où vous avez la possibilité de les inviter dans votre groupe ou de les faire vous suivre sans occuper de place dans le groupe, à n'importe quel moment du jeu. Les PNJ renvoyés peuvent recevoir l'ordre d'attendre ou de retourner au lieu de rencontre initial.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/31809-npc-generator-npc-creation-made-easy",
-            "https://forums.beamdog.com/discussion/80057",
+            "https://forums.beamdog.com/discussion/80057/",
             "https://github.com/Argent77/A7-NPCGenerator/"
         ],
         "categories": [
@@ -22241,7 +22241,7 @@
         "name": "Nerfed Ankheg Armor",
         "description": "Ce mini mod modifie l'armure d'ankheg en armure de plate d'ankheg (non magique, CA = 2, bonus de 1 contre les dégâts tranchants, perforants et projectiles) ou en armure d'ankheg +1 (magique, CA = 1, bonus de 2 contre les dégâts tranchants) qui ne peut pas être portée avec d'autres objets de protection.",
         "urls": [
-            "https://forums.beamdog.com/discussion/17091/weidu-mod-nerfed-ankheg-armor/p1",
+            "https://forums.beamdog.com/discussion/17091/",
             "https://github.com/Erg-os/Nerfed_Ankheg_Armor"
         ],
         "categories": [
@@ -22497,7 +22497,7 @@
         "name": "Ninja Kit",
         "description": "À ne pas confondre avec [[Ninja Kit mod]], ce mod ajoute le profil de ninja dans le jeu.",
         "urls": [
-            "https://forums.beamdog.com/discussion/28881/ninja-kit-weidu-compatible/p1"
+            "https://forums.beamdog.com/discussion/28881/"
         ],
         "categories": [
             "Kit"
@@ -22524,7 +22524,7 @@
         "name": "Ninja Kit mod",
         "description": "Ce mod ajoute le profil de Ninja, basé sur les règles des Aventures orientales de D&amp;D 3e édition.",
         "urls": [
-            "https://forums.beamdog.com/discussion/44011/mod-ninja-kit-v0-1/p1"
+            "https://forums.beamdog.com/discussion/44011/"
         ],
         "categories": [
             "Kit"
@@ -22552,7 +22552,7 @@
         "name": "Usable Scarlet-Ninja To",
         "description": "Ce mini mod rend le Ninja-to violet +3 utilisable par tout le monde.",
         "urls": [
-            "https://forums.beamdog.com/discussion/45241/file-usable-scarlet-ninja-to-3/p1"
+            "https://forums.beamdog.com/discussion/45241/"
         ],
         "categories": [
             "Sort et objet"
@@ -22633,7 +22633,7 @@
         "name": "No Race Restrictions Mod",
         "description": "Ce mod supprime les restrictions de race pour toutes les classes.",
         "urls": [
-            "https://forums.beamdog.com/discussion/62803/no-race-restrictions-mod-version-1-01-for-bg-ee-or-bg2-ee-version-2-0-and-later/"
+            "https://forums.beamdog.com/discussion/62803/"
         ],
         "categories": [
             "Gameplay"
@@ -22725,7 +22725,7 @@
         "description": "Ce mod est l'équivalent du mod [[One Pixel Productions]] pour les versions EE. Il restaure le graphisme du Baldur's Gate original dans les jeux EE :|- les animations de personnage, ainsi que leurs silhouettes dans les écrans de personnage et d'inventaire.|- les icônes des objets.|- et bien d'autres détails pour les nostalgiques de BG1.",
         "urls": [
             "http://www.shsforums.net/files/file/1283-nostalgia-pack/",
-            "https://forums.beamdog.com/discussion/82532/bg-ee-bgii-ee-nostalgia-pack-putting-the-bg-back-in-bg-ee",
+            "https://forums.beamdog.com/discussion/82532/",
             "https://github.com/SpellholdStudios/Nostalgia-Pack/"
         ],
         "categories": [
@@ -22881,7 +22881,7 @@
         "name": "OlvynSpells",
         "description": "Ce mod ajoute plus de 150 sorts dans les jeux EE, dont certains vous permettent de voler ou de traverser des murs. Mais il nécessite [[EEex]] qu'il faut installer avant. Il n'est donc disponible que pour les systèmes d'exploitation Windows.",
         "urls": [
-            "https://forums.beamdog.com/discussion/76732/v2-2-0-olvynspells-151-new-spells-for-bg-ee-bg2-ee-iwd-ee-and-eet/p1",
+            "https://forums.beamdog.com/discussion/76732/",
             "https://github.com/OlvynChuru/OlvynSpells"
         ],
         "categories": [
@@ -22910,7 +22910,7 @@
         "name": "Olvyn Tweaks",
         "description": "Ce mod propose une collection de 24 ajustements pour la plupart des jeux EE : diviser le montant total des XP de quêtes par nombre de membres du groupe, supprimer la limite de deux points de compétences martiales à la création du personnage, permettre aux guerriers d'acquérir plus rapidement des points de compétence martiale, permettre aux chamanes de se déplacer quand ils dansent, clercs et moines atteignent le niveau 9 avec seulement 160000 XP, les paladins et les rôdeurs lancent des sorts à leur niveau, utiliser les parchemins maudits contre les ennemis, augmenter la vitesse de déplacement de toutes les créatures, possibilité d'accéder à certaines zones par des passages auparavant interdits, possibilité d'attribuer 5 points dans certains types de combat...",
         "urls": [
-            "https://forums.beamdog.com/discussion/74322/mod-olvyntweaks-version-1-4/p1",
+            "https://forums.beamdog.com/discussion/74322/",
             "https://github.com/OlvynChuru/Olvyn-Tweaks"
         ],
         "categories": [
@@ -23165,7 +23165,7 @@
         "name": "Oozelord Cleric Kit",
         "description": "Ce mod ajoute un profil de prêtre inspiré de la classe de prestige Slime Lord de Pathfinder.",
         "urls": [
-            "https://forums.beamdog.com/discussion/80469/mod-oozelord-cleric-kit/p1",
+            "https://forums.beamdog.com/discussion/80469/",
             "https://github.com/Dracoqwerty/Oozelord-Cleric/"
         ],
         "categories": [
@@ -23352,7 +23352,7 @@
         "name": "P&P improved invisibility",
         "description": "Ce petit mod attribue à tous les sorts utilisant l'invisibilité majeure les règles papier de D&amp;D 2e édition.",
         "urls": [
-            "https://forums.beamdog.com/discussion/39063/pnp-improved-invisibility/p1"
+            "https://forums.beamdog.com/discussion/39063/"
         ],
         "categories": [
             "Sort et objet"
@@ -23517,7 +23517,7 @@
         "name": "PaintBG EE Portrait Pack",
         "description": "Il s'agit du pack de portraits [[PaintBG]] mis à jour par Artastrophe pour être utilisé dans les jeux des éditions améliorées. Les portraits sont toujours les mêmes que dans le PaintBG original, mais comprennent également de nouveaux portraits qu'Artastrophe a publié depuis la dernière version officielle.",
         "urls": [
-            "https://forums.beamdog.com/discussion/76592/mod-paintbg-ee-portrait-pack",
+            "https://forums.beamdog.com/discussion/76592/",
             "https://github.com/polysquirrel/bface/"
         ],
         "categories": [
@@ -23608,7 +23608,7 @@
         "name": "Pale Master Sorcerer",
         "description": "Ce mod ajoute un nouveau profil d'ensorceleur, le Pale Master, adepte de la nécromancie.",
         "urls": [
-            "https://forums.beamdog.com/discussion/64333/kit-mod-pale-master-sorcerer-kit-v1-4-5-re-upload/p1"
+            "https://forums.beamdog.com/discussion/64333/"
         ],
         "categories": [
             "Kit"
@@ -23662,7 +23662,7 @@
         "name": "Parangon Mode",
         "description": "Ce mod donne accès aux contenus des hauts niveaux de difficulté SANS en subir les dégâts démentiels et autres désagréments non role-playing.",
         "urls": [
-            "https://forums.beamdog.com/discussion/62360/mod-parangon-mode/p1"
+            "https://forums.beamdog.com/discussion/62360/"
         ],
         "categories": [
             "Gameplay"
@@ -23962,7 +23962,7 @@
         "name": "Phun Cheats Spell",
         "description": "Ce mod ajoute trois nouvelles capacités dans le jeu permettant de tricher en facilitant l'enchaînement et la mémorisation des sorts, et en permettant de lancer Arrêt du temps quasi à volonté.",
         "urls": [
-            "https://forums.beamdog.com/discussion/40510/mod-small-phun-cheat-spells/p1"
+            "https://forums.beamdog.com/discussion/40510/"
         ],
         "categories": [
             "Sort et objet"
@@ -23988,7 +23988,7 @@
         "name": "Pick Your Poison - Choices for Assassin and Blackguard poison weapon ability",
         "description": "Ce mod a disparu...",
         "urls": [
-            "https://forums.beamdog.com/discussion/54950/pick-your-poison-choices-for-assassin-and-blackguard-poison-weapon-ability/p1"
+            "https://forums.beamdog.com/discussion/54950/"
         ],
         "categories": [
             "Gameplay"
@@ -24072,7 +24072,7 @@
         "name": "Items of the Planes",
         "description": "Ce mod modifie de nombreux objets various (armes et équipement) dans PST:EE à la manière d'[[Item Revisions]], dans le but de rendre le choix de l'équipement et la gestion des combats beaucoup plus intéressants. Il uniformise les dégâts infligés par type d'armes, rend certaines armes conformes à leur description, et rééquilibre la puissance des objets selon les classes (par exemple, dans PST, les mages avaient plus de chances d'obtenir une bonne CA qu'un guerrier !).",
         "urls": [
-            "https://forums.beamdog.com/discussion/69700/mod-items-of-the-planes/p1",
+            "https://forums.beamdog.com/discussion/69700/",
             "https://github.com/aquadrizzt/PlanarItems"
         ],
         "categories": [
@@ -24261,7 +24261,7 @@
         "name": "Planetouched Races",
         "description": "Ce mod permet de jouer des tiefelins et des aasimars dans BG:EE.",
         "urls": [
-            "https://forums.beamdog.com/discussion/52430/mod-planetouched-races/p1"
+            "https://forums.beamdog.com/discussion/52430/"
         ],
         "categories": [
             "Kit",
@@ -24433,7 +24433,7 @@
     },
     {
         "name": "Pleasure & Pain Kits",
-        "description": "Ce mod ajoute trois nouveaux kits dans le jeu :|`Courtisan` (voleur), `Serial Killer` (voleur) et `Geisha` (barde).",
+        "description": "Ce mod ajoute trois nouveaux kits dans le jeu :|`Courtesan` (voleur), `Serial Killer` (voleur) et `Geisha` (barde).",
         "urls": [
             "http://www.shsforums.net/files/file/1242-pleasure-pain-kits-for-bg-eet/"
         ],
@@ -24643,7 +24643,7 @@
         "name": "Portrait Gender Separator",
         "description": "Portrait Gender Separator n'est pas un mod, mais un outil écrit avec WeiDU et s'installant comme un mod. Il ajoute vos portraits aux listes de portraits masculins ou féminins disponibles dans l'écran de création de personnage.|Son utilisation est très simple : il suffit de placer vos portraits soit dans le dossier Portraits du jeu, soit dans l'un des sous-dossiers du dossier du mod. Lancez ensuite le programme d'installation qui les copie dans le répertoire override et liste leurs noms dans le fichier .lua utilisé pour sélectionner un portrait dans l'écran de création de personnage.",
         "urls": [
-            "https://forums.beamdog.com/discussion/83575/mod-portrait-gender-separator/p1",
+            "https://forums.beamdog.com/discussion/83575/",
             "https://www.gibberlings3.net/forums/topic/34592-portrait-gender-separator-for-ees/",
             "https://github.com/D2-mods/Portrait-Gender-Separator-for-IE-games"
         ],
@@ -24702,7 +24702,7 @@
         "name": "Portrait Picker",
         "description": "Ce mod modifie l'interface de sélection des portraits.",
         "urls": [
-            "https://forums.beamdog.com/discussion/56916/mod-portrait-picker-for-bgee-sod-v2-1-and-bg2ee-v2-1/p1",
+            "https://forums.beamdog.com/discussion/56916/",
             "https://github.com/Mr2150/Portrait-Picker-for-BGEE-SOD-and-BG2EE"
         ],
         "categories": [
@@ -24767,7 +24767,7 @@
         "name": "Portraits from Icewind Dale II",
         "description": "Ce mod ajoute 24 portraits d'Icewind Dale II convertis à la résolution et au format EE. En voici la <a href=\"http://htmlpreview.github.io/?https://github.com/Ineth2/PortraitsFromIWD2/blob/main/PortraitsFromIWD2/readme.html\">liste</a>.",
         "urls": [
-            "https://forums.beamdog.com/discussion/81240/mod-portraits-from-iwd2",
+            "https://forums.beamdog.com/discussion/81240/",
             "https://github.com/Ineth2/PortraitsFromIWD2"
         ],
         "categories": [
@@ -24820,7 +24820,7 @@
         "name": "Power of Belief",
         "description": "Ce mod permet à Sans-Nom de devenir un prêtre tout en conservant ses niveaux de guerrier, mage et voleur.",
         "urls": [
-            "https://forums.beamdog.com/discussion/64577/mod-the-power-of-belief/p1",
+            "https://forums.beamdog.com/discussion/64577/",
             "https://github.com/aquadrizzt/PowerOfBelief"
         ],
         "categories": [
@@ -24919,7 +24919,7 @@
         "name": "Proficiencies Mod",
         "description": "Ce mod modifie le système d'attribution des points de compétence martiales.",
         "urls": [
-            "https://forums.beamdog.com/discussion/29698/proficiencies-mod"
+            "https://forums.beamdog.com/discussion/29698/"
         ],
         "categories": [
             "Gameplay"
@@ -25408,7 +25408,7 @@
         "name": "Random Character Generation",
         "description": "Vous en avez assez de jouer toujours les mêmes personnages ? Ce mini mod vous permettra de générer un personnage aléatoire parmi toutes les options disponibles. Il prédéfinit votre score de caractéristiques à un minimum de 85, et alloue ces points pour vous. Il choisit même vos compétences martiales, vos capacités et vos sorts.|Son installation nécessite une manipulation du fichier UI.menu décrite sur la page de téléchargement.",
         "urls": [
-            "https://forums.beamdog.com/discussion/58560/mini-mod-bgee-bgee-sod-bg2ee-random-character-generation"
+            "https://forums.beamdog.com/discussion/58560/"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -25472,7 +25472,7 @@
         "name": "Random No more Empty Containers",
         "description": "Ce mod remplit les conteneurs vides du jeu avec des objets. Pour les moddeurs, ils sont choisis aléatoirement dans les fichiers RNDTRE01.2da et RNDTRE02.2da.",
         "urls": [
-            "https://forums.beamdog.com/discussion/70083/mod-random-nomore-empty-containers"
+            "https://forums.beamdog.com/discussion/70083/"
         ],
         "categories": [
             "Gameplay"
@@ -25615,7 +25615,7 @@
         "name": "Recorder, a gnome lorekeeper NPC",
         "description": "Recorder est une ménestrel gnome, érudite, née dans la nation de Lantan, mais qui travaille pour l'Église d'Oghma en Amn. Bien qu'elle soit moins efficace avec les armes que les autres bardes, sa force réside dans son chant et sa magie, lui permettant de protéger son groupe des enchantements dangereux et de lancer plus de magie que les autres bardes. Elle possède un furet fougueux nommé Gustav qui pat bravement en éclaireur si on le lui demande.|Elle préfère l'approche douce, la miséricorde et la compréhension lorsque cela est possible, et les solutions non violentes, mais comprendra quand il n'y a pas le choix. Elle apprécie également l'art et la musique, et ceux qui apprécient son jeu et sont gentils avec elle gagneront son amitié et son affection.|On la rencontre d'abord à Château-Suif, mais on ne pourra la recruter qu'à l'entrée des ruines d'Ulcaster. Dans SoD, vous la trouverez à l'extérieur du Palais Ducal. Dans BG2, elle se trouve dans le temple d'Oghma, dans le quartier des docks.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Recorder\">site de l'auteur</a>.",
         "urls": [
-            "https://forums.beamdog.com/discussion/77784/v1-50-recorder-a-gnome-lorekeeper-npc-for-bg-ee-sod-and-eet/p1",
+            "https://forums.beamdog.com/discussion/77784/",
             "https://github.com/Skitia/Recorder-BG1/"
         ],
         "categories": [
@@ -25680,7 +25680,7 @@
         "name": "Red soul and Green soul Kits",
         "description": "Ce mod ajoute deux nouveaux profils, à la fois pour mage et pour ensorceleur. Les sorts lancés par le Red Soul infligent 50 % de dégâts supplémentaires au pris d'une durée diminuée de moitié, alors que ceux du Green Soul durent 50 % plus longtemps, mais infligent 50 % de dégâts en moins.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68705/red-soul-kit"
+            "https://forums.beamdog.com/discussion/68705/"
         ],
         "categories": [
             "Kit"
@@ -25904,7 +25904,7 @@
         "name": "Remove Equipment Colors",
         "description": "Ce mini-mod sans prétention supprime les couleurs de tous les équipements d'armure dans le jeu afin que seules les couleurs de base du personnage soient utilisées. Vous pouvez choisir à l'installation le type d'équipement que vous souhaitez voir affecté. Les choix sont : Toutes les armures, Tous les boucliers, et Tous les casques. Ni les armes, ni les effets lumineux des équipements qui en ont ne sont pas affectés.|Vous pouvez définir les couleurs de base (c-à-d la couleur de l'armure, du cuir et du métal) d'un personnage dans NearInfinity ou EEKeeper. Une fois cette opération effectuée, ces couleurs seront affichées quel que soit l'équipement porté.",
         "urls": [
-            "https://forums.beamdog.com/discussion/81123/mod-remove-colors-from-armor-items-so-that-only-base-character-colors-are-used/p1"
+            "https://forums.beamdog.com/discussion/81123/"
         ],
         "categories": [
             "Sort et objet"
@@ -26028,7 +26028,7 @@
         "name": "RestBeGone",
         "description": "Ce mini mod installe un nouveau système de récupération des sorts et des capacités inspiré de celui de PoE2. Ils sont désormais récupérés tous les deux rounds en dehors des combats. Il comporte toutefois un effet secondaire un peu ennuyeux : les effets de fatigue disparaissent totalement !",
         "urls": [
-            "https://forums.beamdog.com/discussion/81656/restbegone-per-encounter-spells-abilities/p1"
+            "https://forums.beamdog.com/discussion/81656/"
         ],
         "categories": [
             "Gameplay"
@@ -26083,7 +26083,7 @@
         "name": "High Quality soundclips for BG2:EE extended content",
         "description": "Depuis le patch v1.3; BG2:EE contient des fichiers sons en anglais de très basse qualité pour le contenu spécifique à BG2:EE, dont les fichiers de voix pour les nouveaux PNJ et pour la campagne des Fosses Noires.|Ce mod installe des fichiers sons de haute qualité tirés des fichiers originaux du patch v1.2 de BG2:EE. Ils ont été optimisés pour réduire leur taille de 60 %, en convertissant la stéréo en mono et en utilisant une fréquence d'échantillonnage de 24 kHz pour tous les clips. La différence de qualité ne devrait pas être perceptible. Il fournit aussi des clips sonores de haute qualité pour les PNJ de Beamdog qui ne sont plus disponibles depuis le patch v1.2 de BG2:EE.",
         "urls": [
-            "https://forums.beamdog.com/discussion/61849/mod-restore-hq-sound-clips-for-bg2ee-extended-content",
+            "https://forums.beamdog.com/discussion/61849/",
             "https://github.com/Argent77/HQ-SoundClips-BG2EE"
         ],
         "categories": [
@@ -26317,7 +26317,7 @@
         "name": "Reveal Hidden Gameplay Options",
         "description": "Ce mod permet de modifier la nouvelle interface de jeu de BG:EE et BG2:EE apparue avec la version 2.0 et Siege of Dragonspear. Il ajoute dans l'interface du jeu la possibilité de modifier des réglages déjà présents dans le fichier Baldur.lua mais qu'il fallait régler à la main, comme le \"célèbre\" panneau de débogage (ce qui vous dispensera de la manip indiquée dans le manuel d'installation du jeu), plusieurs paramétrages graphiques et de feedback, et d'autres encore.",
         "urls": [
-            "https://forums.beamdog.com/discussion/64524/mod-reveal-hidden-gameplay-options-for-all-ee-games-patched-to-v2-0-or-higher/p1",
+            "https://forums.beamdog.com/discussion/64524/",
             "https://github.com/Argent77/A7-HiddenGameplayOptions"
         ],
         "categories": [
@@ -26388,7 +26388,7 @@
         "name": "Revised Dragon Scale - UI tweaks for SoD and EET",
         "description": "Ce mod améliore l'interface graphique de Siege of Dragonspear.",
         "urls": [
-            "https://forums.beamdog.com/discussion/62618/mod-revised-dragon-scale-ui-tweaks-for-sod-and-eet-v4/p1"
+            "https://forums.beamdog.com/discussion/62618/"
         ],
         "categories": [
             "Interface"
@@ -26436,7 +26436,7 @@
         "name": "Reworked Reputation",
         "description": "Ce petit mod attribue à une réputation négative les mêmes avantages que ceux accordés à une réputation positive, aussi bien les réductions dans les magasins que l'ajustement à la réaction.",
         "urls": [
-            "https://forums.beamdog.com/discussion/42621/mod-reworked-reputation/p1"
+            "https://forums.beamdog.com/discussion/42621/"
         ],
         "categories": [
             "Gameplay"
@@ -26816,7 +26816,7 @@
         "name": "Round counter",
         "description": "Ce petit mod permet de compter le nombre de rounds écoulés pendant un combat. Pour cela, vous devez boire une potion, et le \"compteur\" commencera la prochaine fois que vous verrez un ennemi.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68678/round-counter-v1-0/p1"
+            "https://forums.beamdog.com/discussion/68678/"
         ],
         "categories": [
             "Gameplay"
@@ -26911,7 +26911,7 @@
         "name": "Runescarred Berserker",
         "description": "Ce mod ajoute un nouveau profil de guerrier capable de graver des runes magiques sur sa peau qui leur permettent de stocker des sorts.",
         "urls": [
-            "https://forums.beamdog.com/discussion/37373/mod-runescarred-berserker-v-1-0-for-iwd-ee/p1"
+            "https://forums.beamdog.com/discussion/37373/"
         ],
         "categories": [
             "Kit"
@@ -27091,7 +27091,7 @@
         "name": "Sacred Fist (Cleric) and Dragon Disciple (3e)",
         "description": "Ce mod ajoute un nouveau profil de clerc dans le jeu et modifie le Disciple du dragon lui permettant de se transformer en demi-dragon. Le Poings sacrés est un prêtre qui peut porter des coups dévastateurs avec ses poings.",
         "urls": [
-            "https://forums.beamdog.com/discussion/65995/kit-sacred-fist-cleric-and-dragon-disciple-3e-accurate/p1"
+            "https://forums.beamdog.com/discussion/65995/"
         ],
         "categories": [
             "Kit",
@@ -27119,7 +27119,7 @@
         "name": "Sacrifier Kit",
         "description": "Ce mod ajoute un nouveau profil de druide dans le jeu.",
         "urls": [
-            "https://forums.beamdog.com/discussion/70044/kit-mod-sacrificer/p1"
+            "https://forums.beamdog.com/discussion/70044/"
         ],
         "categories": [
             "Kit"
@@ -27217,7 +27217,7 @@
         "description": "Créé par Maurolava, ce mod ajoute le profil de samouraï dans le jeu.",
         "urls": [
             "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
-            "https://forums.beamdog.com/discussion/28053/mod-samurai-kit-v1-3-updated/p1"
+            "https://forums.beamdog.com/discussion/28053/"
         ],
         "categories": [
             "Kit"
@@ -27341,7 +27341,7 @@
         "description": "Ce mod rééquilibre les compétences du métamorphe en rendant progressive la puissance du loup-garou : sa force, ses dégâts, ses immunités, etc.",
         "urls": [
             "http://www.shsforums.net/files/file/1121-saradas-revisioned-shapeshifter/",
-            "https://forums.beamdog.com/discussion/28623/mod-eng-bg1-ee-soa-tob-saradas-revisioned-shapeshifter-v-1-1/p1"
+            "https://forums.beamdog.com/discussion/28623/"
         ],
         "categories": [
             "Kit",
@@ -27404,7 +27404,7 @@
         "name": "Sarevok Animation patch",
         "description": "Ce mod corrige simplement les animations vides (attaques à deux mains, attaques à deux armes et incantation) de l'avatar de Sarevok. Il n'est vraiment utile que si vous prévoyez d'utiliser l'animation pour un PC ou un personnage lanceur de sorts, car le Sarevok du jeu n'a jamais besoin de ces animations.",
         "urls": [
-            "https://forums.beamdog.com/discussion/65861/mod-sarevok-animation-patch"
+            "https://forums.beamdog.com/discussion/65861/"
         ],
         "categories": [
             "Cosmétique"
@@ -27983,7 +27983,7 @@
         "name": "Shapeshifter paw weapon tweak",
         "description": "Ce mod modifie les dégâts infligés par les griffes du métamorphe sous forme de loup-garou.",
         "urls": [
-            "https://forums.beamdog.com/discussion/26791/shapeshifter-paw-weapon-tweak/p1"
+            "https://forums.beamdog.com/discussion/26791/"
         ],
         "categories": [
             "Kit"
@@ -28254,7 +28254,7 @@
         "description": "Ce mod ajoute une nouvelle PNJ un peu spéciale : Sheena est une jeune femme... demi-dragonne. Oui, vous avez bien lu. Elle est pleine de passion et d'histoires. Souhaitez-vous partager votre aventure avec elle ? Ses caractéristiques sont FOR 16, DEX 12, CON 16, INT 15, SAG 10 et CHA 15. Elle a également 5 % de résistance magique, 50 % de résistance au feu et est immunisée aux sorts mentaux. Elle possède également une forme de dragon bien plus puissante. Elle a, fort heureusement, quelques inconvénients pour compenser cette puissance (notamment 10 % d'XP reçus en moins). Il s'agit d'une guerrière/mage multi-classée, neutre bonne, fort jolie (sous sa forme humaine). Vous pouvez la recruter dans le donjon de Firkraag après avoir découpé son papa en rondelles. Elle peut avoir une romance avec un PJ masculin d'alignement bon ou neutre, qui n'a pas déjà une autre romance en cours, et uniquement si Mazzy est également dans le groupe (d'ailleurs les banters entre l'immense demi-dragonne et le chevalier miniature, qui deviennent rapidement copines, sont assez drôles).|Utilisez le lien de Beamdog pour télécharger la version pour les jeux EE.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/download.php",
-            "https://forums.beamdog.com/discussion/60784/npc-mod-sheena-the-half-dragon-tale/p1"
+            "https://forums.beamdog.com/discussion/60784/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -28403,7 +28403,7 @@
         "name": "Silver Staff of Aule",
         "description": "Ce mod ajoute les propriétés d'argent et de fer froid, et un bonus aux dégâts au TAC0 contre les lycanthropes, au Bâton d'Aule qui est vendu dans l'auberge de la Barbe d'Ulgoth, fournissant une arme supplémentaire capable de blesser Karoug.",
         "urls": [
-            "https://forums.beamdog.com/discussion/16558/weidu-mod-silver-staff-of-aule/p1",
+            "https://forums.beamdog.com/discussion/16558/",
             "https://github.com/Erg-os/Silver_Staff_of_Aule"
         ],
         "categories": [
@@ -28522,7 +28522,7 @@
         "name": "Simple XP cap remover",
         "description": "Ce mod supprime la limite de niveaux dans SoD.",
         "urls": [
-            "https://forums.beamdog.com/discussion/10212/a-simple-xp-cap-remover-now-compatible-with-siege-of-dragonspear"
+            "https://forums.beamdog.com/discussion/10212/"
         ],
         "categories": [
             "Gameplay"
@@ -28845,7 +28845,7 @@
         "name": "Slayer Revisions",
         "description": "Ce mod crée une forme d'Écorcheur plus équilibrée et plus intéressante dont toutes les classes peuvent bénéficier (notamment, vous pouvez maintenant utiliser n'importe quelle arme lorsque vous êtes en forme d'Écorcheur). En outre, il modifie les capacités que vous obtenez dans BG1, les rendant plus appropriées à un enfant de Bhaal. Il rend également les bonus des neuf enfers plus intéressants et plus flexibles : votre alignement n'est plus modifié par vos actions, et vous obtenez un éventail plus diversifié de bonus... et de pénalités également. Blackrazor est également révisée : entre autres changements, elle peut désormais être utilisée par n'importe quel personnage, quelle que soit sa classe.|Enfin, si vous avez installé le mod [[Ascension]], il modifie également les récompenses des épreuves de l'Antichambre qui renforcent désormais la forme d'Écorcheur, la rendant de plus en plus effrayante et puissante au fil du temps.",
         "urls": [
-            "https://forums.beamdog.com/discussion/81344/slayer-revisions-revised-bhaalspawn-powers-slayer-change-hell-rewards-and-pocket-plane-bonuses/p1"
+            "https://forums.beamdog.com/discussion/81344/"
         ],
         "categories": [
             "Gameplay"
@@ -28958,7 +28958,7 @@
         "name": "Smooth Selling",
         "description": "Ce mod a pour but de rendre plus facile et moins longue l'exécution de tâches courantes dans la gestion des magasins et des sacs d'objets, comme vendre ou le déplacer des piles entières d'objets. Par exemple :|- Un simple clic sur un objet dans le volet Vente d'un magasin ou dans l'un ou l'autre volet d'un sac sélectionne la pile entière.|- Le montant par défaut des articles de la pile fractionnée est fixé à 1, de manière cohérente.",
         "urls": [
-            "https://forums.beamdog.com/discussion/59051/mod-smooth-selling-v1-3"
+            "https://forums.beamdog.com/discussion/59051/"
         ],
         "categories": [
             "Interface"
@@ -29433,7 +29433,7 @@
         "name": "Spell system tweak : Tattoos of Power + Sorcerers can change spells",
         "description": "Ce mod offre une alternative aux contingences, les tatouages de pouvoir, qui se déclenchent à chaque combat sans avoir besoin de les recréer.",
         "urls": [
-            "https://forums.beamdog.com/discussion/51495/mod-spell-system-tweak-tattoos-of-power-sorcerers-can-change-spells/p1"
+            "https://forums.beamdog.com/discussion/51495/"
         ],
         "categories": [
             "Gameplay"
@@ -29578,7 +29578,7 @@
         "name": "Spontaneous Casting For Clerics and Druids",
         "description": "Ce mod permet aux clercs et druides de bénéficier de la capacité d'incantation spontanée de D&amp;D 3e pour les sorts de soins, de blessures et de convocation. Il fonctionne avec BG:EE, BG2:EE, IWD:EE et EET. Il devrait être compatible avec d'autres mods qui ajoutent des sorts et des profils de clercs et druides à condition d'être installé après eux.|Techniquement, il implante trois capacités innées qui, une fois activées, transforment tous les sorts divins mémorisés du lanceur en sorts de soins, de dégâts ou d'invocation de leurs niveaux respectifs. Les clercs bons reçoivent des soins spontanés, les clercs mauvais des blessures spontanées, et les clercs neutres les deux. Les druides reçoivent des invocations spontanées. Cela dure 6 heures ou jusqu'à ce que le sort divin choisi soit lancé, puis tous les sorts sont retransformés.",
         "urls": [
-            "https://forums.beamdog.com/discussion/29604/mod-spontaneous-casting-for-clerics-and-druids-v1-32/p1",
+            "https://forums.beamdog.com/discussion/29604/",
             "https://github.com/Renegade0/SpontaneousCasting"
         ],
         "categories": [
@@ -29612,7 +29612,7 @@
         "name": "Staff of Withering",
         "description": "Ce mod ajoute un Bâton de flétrissement dans les ruines de l'école d'Ulcaster.",
         "urls": [
-            "https://forums.beamdog.com/discussion/18657/staff-of-withering/p1"
+            "https://forums.beamdog.com/discussion/18657/"
         ],
         "categories": [
             "Sort et objet"
@@ -29747,7 +29747,7 @@
         "name": "Storm Caller Shaman",
         "description": "Ce mod permet de jouer un nouveau profil de personnage, un chaman maîtrisant le pouvoir de la tempête. Avec leur capacité à évoquer de terribles tempêtes et à invoquer des éclairs sur leurs adversaires, ces chamanes sont de puissants ennemis et alliés, même s'ils connaissent moins les voies du monde des esprits que les autres de leur espèce. Leur danse chamanique ne convoque pas d'esprits, mais des éclairs du plan élémentaire de l'air qu'ils lancent sur leurs ennemis.",
         "urls": [
-            "https://forums.beamdog.com/discussion/55695/ulbs-shaman-package-new-kits-new-items-and-more-wip-updated-08-02-2017/p1",
+            "https://forums.beamdog.com/discussion/55695/",
             "https://github.com/thisisulb/StormCallerKit"
         ],
         "categories": [
@@ -29777,7 +29777,7 @@
         "name": "Stronger Creatures - Simple Difficulty Mod",
         "description": "Inspiré par l'ancien mod [[Mix Mod]] pour BG2, ce mod rend les ennemis plus coriaces : ils bénéficient de bonus aux PV, TAC0 et à la CA en fonction de leur race (par exemple, les humanoïdes obtiennent +3 en TAC0 et CA et un bonus de PV de 50 % ; tandis que les géants obtiennent +3 en TAC0, +1 en CA et des PV triplés).",
         "urls": [
-            "https://forums.beamdog.com/discussion/40026/stronger-creatures-simple-difficulty-mod"
+            "https://forums.beamdog.com/discussion/40026/"
         ],
         "categories": [
             "Gameplay"
@@ -30110,7 +30110,7 @@
         "name": "Sword Coast Customs",
         "description": "Baldur's Gate I possède deux armes puissantes dotées d'un enchantements à +2 et de dégâts élémentaires :l'épée longue Varscona et le marteau de guerre Ashideena. Cela implique que les épées longues etles marteaux de guerre sont les deux compétences les plus performantes du jeu, et qu'il est difficilede défendre le choix d'une autre compétence d'arme.|Le but de ce mod est de permettre un plus grand choix d'armes sans pour autant affecter l'équilibre etla difficulté.||Pour y parvenir, il offre aux joueurs la possibilité de commander une arme à Taërom Fuiruim dans la forgede « Grondemarteau » à Bérégost, puis de l'améliorer en lui conférant des dégâts grâce à Thalantyrle mage de Haute-Haie et Toubazar Drin, au Bazar Magique de la Porte de BaldurCela donnera au joueur la possibilité de créer une une hallebarde de froid, ou un ninjato acide, entre autre.||Il y a un composant supplémentaire et optionnel, bien qu'il soit fortement recommandé, permettant de supprimerou de déplacer plus tard dans le jeu Ashideena et Varscona, afin que l'ajout d'une autre armeinfligeant des dégâts élémentaires ne déséquilibre pas le jeu.",
         "urls": [
-            "https://forums.beamdog.com/discussion/87305/v0-4b-sword-coast-customs-a-mod-for-bg-ee/p1",
+            "https://forums.beamdog.com/discussion/87305/",
             "https://github.com/cgordon/customs"
         ],
         "categories": [
@@ -30244,7 +30244,7 @@
         "name": "Sword Saint Kit",
         "description": "Ce mod offre 15 versions du profil de Kensaï, chacune spécialisée dans le maniement d'un type d'arme.",
         "urls": [
-            "https://forums.beamdog.com/discussion/73207/mod-sword-saint/p1"
+            "https://forums.beamdog.com/discussion/73207/"
         ],
         "categories": [
             "Kit"
@@ -30410,7 +30410,7 @@
         "name": "T'was a Slow Boat from KaraTur",
         "description": "Ce mod apporte environ 30 nouveaux objets et un magasin, accessibles au travers de la réalisation d'une quête commençant au Brasamical.",
         "urls": [
-            "https://forums.beamdog.com/discussion/15959/mod-twas-a-slow-boat-from-kara-tur-queststorenew-items-release-90/p1",
+            "https://forums.beamdog.com/discussion/15959/",
             "https://github.com/The-Gate-Project/Kara-Tur"
         ],
         "categories": [
@@ -30491,7 +30491,7 @@
         "description": "Ce mod est basé sur les combats et la stratégie, et pratiquement rien d'autre. Il compile d'anciens mods d'amélioration de certains combats (comme le mod [[Slightly Improved Ilyich]], le mod Ritual, et d'autres) et ajoute les siens propres, et rend le jeu très difficile et tactique. À noter que vous pouvez installer chaque composant séparément. Il ajoute également deux profils (Archer pour les guerriers et Anti-paladin). Attention, ce mod est idéal pour rééquilibrer le jeu, mais ne rajoute que très peu de quêtes, le but est d'augmenter le niveau de difficulté, rien d'autre... il serait trop long de citer tous les composants de ce mod... Consultez le readme pour plus de précisions.",
         "urls": [
             "https://weidu.org/tactics.html",
-            "https://forums.beamdog.com/discussion/41242/tactics-mod-bg2ee-compatibility-conversion-and-beta-test/p1"
+            "https://forums.beamdog.com/discussion/41242/"
         ],
         "categories": [
             "Gameplay"
@@ -30971,7 +30971,7 @@
         "name": "TeamBG BG2:EE Weapon Pack",
         "description": "Ce mod installe le marchand nain Maltz sur la Promenade de Waukyne. Il vend des armes colorées, dont certaines de BG2, et de nouvelles armures magiques et très chères.",
         "urls": [
-            "https://forums.beamdog.com/discussion/14154/mod-teambgs-weapon-pack-for-bg-ee-bg2ee-bgt-amp-tutu",
+            "https://forums.beamdog.com/discussion/14154/",
             "http://downloads.chosenofmystra.net/bg2/BG2EEWv101.rar"
         ],
         "categories": [
@@ -31001,7 +31001,7 @@
         "name": "TeamBG BG:EE Armor Pack",
         "description": "Ce mod installe le marchand nain Kurtz Goldenaxe à l'extérieur de Brasamical. Il vend des armures colorées et de nouvelles armures magiques et très chères.",
         "urls": [
-            "https://forums.beamdog.com/discussion/13314/mod-teambgs-armor-pack-for-bg-ee-bg2ee-bgt-amp-tutu",
+            "https://forums.beamdog.com/discussion/13314/",
             "http://downloads.chosenofmystra.net/bg1/BGeeARv105.rar"
         ],
         "categories": [
@@ -31141,7 +31141,7 @@
         "name": "Tenya Thermidor",
         "description": "Bien qu'âgée d'une vingtaine d'années, Tenya est très puissante pour son âge, grâce à l'entraînement prodigué par sa mère pour la gloire d'Umberlie. Et elle est très en colère après le meurtre de sa mère... Elle dispose d'une mini-quête qui lui permettra d'utiliser son bol de contrôle élémentaire, et éventuellement de ramasser un ou deux autres objets en cours de route.",
         "urls": [
-            "https://forums.beamdog.com/discussion/33291/tenya-thermidor-v1-5/p1",
+            "https://forums.beamdog.com/discussion/33291/",
             "https://www.mediafire.com/file/ar99e68bb21ae7h/BGT_Converted_BWP_Tenya15c.zip/file"
         ],
         "categories": [
@@ -33042,7 +33042,7 @@
         "name": "Thieving Mod for IWD:EE",
         "description": "Ce mod permet de voler des bracelets, des ceintures, des armes, des munitions et des capes sur des cibles neutres ou amies. De plus, il rend volables les anneaux de résistance au feu d'Orrick et d'Oswald.",
         "urls": [
-            "https://forums.beamdog.com/discussion/36405/thieving-mod-for-iwdee/p1"
+            "https://forums.beamdog.com/discussion/36405/"
         ],
         "categories": [
             "Gameplay"
@@ -33231,7 +33231,7 @@
         "name": "Tiger Style monk",
         "description": "Ce mod ajoute un profil de moine basé sur les règles de la 2e édition de Greyhawk.",
         "urls": [
-            "https://forums.beamdog.com/discussion/14940/mod-tiger-style-monk-kit-1-3-staff-style-release-w-descriptions-moved-from-fighter-to-monk/p1"
+            "https://forums.beamdog.com/discussion/14940/"
         ],
         "categories": [
             "Kit"
@@ -33623,7 +33623,7 @@
         "name": "Tougher Enemies tweak",
         "description": "Ce mod permet de modifier les PV, jets de sauvegarde, attaques par round et la CA des ennemis.",
         "urls": [
-            "https://forums.beamdog.com/discussion/62321/mod-tougherenemies-tweak-1-0/p1"
+            "https://forums.beamdog.com/discussion/62321/"
         ],
         "categories": [
             "Gameplay"
@@ -33724,7 +33724,7 @@
         "name": "Trap Overhaul",
         "description": "Ce mod permet à vos personnages ayant la capacité de detection des pièges de les révéler automatiquement dés que ceux ci sont dans leur champ de vision. Il n'y a plus ce délai très pénible qui fait qu'on marche toujours sur les pièges, même avec un voleur en mode détection de pièges dans l'équipe. Par ailleurs, un autre composant permet de récupérer un piège quand on l'a désarmé, à condition d'être capable de le poser.",
         "urls": [
-            "https://forums.beamdog.com/discussion/71763/trap-detection-recovery-evasion/p1",
+            "https://forums.beamdog.com/discussion/71763/",
             "https://github.com/Plutonium-X/MISC_Traps"
         ],
         "categories": [
@@ -33812,7 +33812,7 @@
         "name": "Tresset's Choice Tweaks",
         "description": "Il s'agit d'une collection d'ajustements pour les jeux BG:EE et BG2:EE dont vous trouverez la liste dans le lien indiqué.",
         "urls": [
-            "https://forums.beamdog.com/discussion/61898/tressets-choice-tweaks/p1"
+            "https://forums.beamdog.com/discussion/61898/"
         ],
         "categories": [
             "Gameplay"
@@ -33838,7 +33838,7 @@
         "name": "Tresset's permanent Shapeshift Weapons",
         "description": "Ce mod avait pour objectif d'éviter que les armes naturelles du druide métamorphe ne disparaissent après 16 heures.",
         "urls": [
-            "https://forums.beamdog.com/discussion/33404/tressets-permanent-shapeshift-weapons-bg2-ee"
+            "https://forums.beamdog.com/discussion/33404/"
         ],
         "categories": [
             "Gameplay"
@@ -33957,7 +33957,7 @@
         "name": "True \"Use Any item Hla\"",
         "description": "Dérivé de [[Use Any NPC Item - Add-on for Use Any Item HLA]], ce mod permet aux voleurs d'utiliser les objets des PNJ de Bioware avec leur capacité Utilisation d'objet.",
         "urls": [
-            "https://forums.beamdog.com/discussion/26240/use-any-npc-item-add-on-for-use-any-item-hla/p2"
+            "https://forums.beamdog.com/discussion/26240/"
         ],
         "categories": [
             "Sort et objet"
@@ -33979,7 +33979,7 @@
         "name": "True Berserker Minsc",
         "description": "Ce mod attribue à Minsc un profil de Berserker rashemi (inspiré de la classe de prestige de Berserker frénétique) et ajoute une armure de peau améliorable à la Forge de Grondemarteau.",
         "urls": [
-            "https://forums.beamdog.com/discussion/65028/deprecated-true-berserker-minsc-a-berserker-ranger-kit-mod"
+            "https://forums.beamdog.com/discussion/65028/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -34073,7 +34073,7 @@
         "name": "Turald NPC",
         "description": "Encore en version beta, ce mod ajoute un nouveau PNJ dans IWD:EE : Turald Ironfist, un guerrier/prêtre nain neutre bon. Ce prêtre itinérant de Marthammor Duin considère les événements du Val de bise du point de vue des nains. En l'état, le mod inclut des dialogues avec le personnage principal, des interjections, des discussions initiées par le joueur et du contenu avec des PNJ d'autres mods, mais pas de romance. Vous le trouverez dans le temple de Tempus à Havredest.",
         "urls": [
-            "https://forums.beamdog.com/discussion/71342/turald-npc-mod-ver-0-9/p1"
+            "https://forums.beamdog.com/discussion/71342/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -34551,7 +34551,7 @@
         "name": "Unbiased Ir'revrykal",
         "description": "Ce mod modifie les propriétés de Carsomyr et de Ir'revrykal (son équivalente maléfique introduite dans BG2:EE).|Le lien de téléchargement se trouve dans les derniers messages du fil.",
         "urls": [
-            "https://forums.beamdog.com/discussion/32456/unbiased-irrevrykal-5-mod/p1#Comment_819740"
+            "https://forums.beamdog.com/discussion/32456/#Comment_819740"
         ],
         "categories": [
             "Sort et objet"
@@ -34575,7 +34575,7 @@
         "name": "Undead Hunter Revision",
         "description": "Ce mod modifie le profil de Chasseur de mort-vivants.",
         "urls": [
-            "https://forums.beamdog.com/discussion/65617/kit-mod-undead-hunter-revision-paladin-kit-for-iwdee-eet-bgee-and-bg2ee/p1"
+            "https://forums.beamdog.com/discussion/65617/"
         ],
         "categories": [
             "Gameplay"
@@ -34667,7 +34667,7 @@
         "name": "Undivided: Keeping NPCs Around",
         "description": "Ce mod transforme Vhailor et Ignus en compagnons plutôt qu'en membres du groupe. Il permet ainsi aux joueurs d'avoir les sept compagnons présents au fur et à mesure de leur progression dans le jeu. Ils suivront le groupe, interviendront toujours et seront identifiés comme membres du groupe par les scripts et dialogues, et progresseront en niveaux en même temps que Sans Nom.|Cependant, pour des raisons techniques, ce mod souffre de quelques limitations détaillées dans le lien de téléchargement.",
         "urls": [
-            "https://forums.beamdog.com/discussion/65205/mod-undivided-keeping-npcs-around/p1",
+            "https://forums.beamdog.com/discussion/65205/",
             "https://github.com/aquadrizzt/Undivided"
         ],
         "categories": [
@@ -34794,7 +34794,7 @@
         "name": "Unhide Chargen Options",
         "description": "Ce mod restaure les options non disponibles lors de la création de personnages qui avaient disparu avec le patch v2.0. Par exemple, si vous choisissez la race halfling, seules les 4 classes sont disponibles dans la sélection des classes, alors les versions précédentes permettaient de voir toutes les options désactivées. Les éléments suivants seront donc de nouveau affichés :|- Classes exclues par votre sélection de race.|- Le montant par défaut des articles de la pile fractionnée est fixé à 1, de manière cohérente.|- Kits exclus par votre sélection de race.|- Alignements exclus par vos sélections de classes/kits.|- Compétences d'armes exclues par votre sélection de classe/kit.",
         "urls": [
-            "https://forums.beamdog.com/discussion/59647/mod-unhide-chargen-options"
+            "https://forums.beamdog.com/discussion/59647/"
         ],
         "categories": [
             "Interface"
@@ -34887,7 +34887,7 @@
         "name": "Universal Archer",
         "description": "Voici un kit d'Archer mais disponible aussi bien pour les guerriers que pour les paladins et les voleurs.|Deux différences majeures avec le kit de rôdeur :|Le bonus de dégâts continuent à croitre au-delà du niveau 18 (et jusqu'au niveau 50).|Les archers peuvent se spécialiser dans les frondes, les fléchettes, les arcs et les arbalètes.",
         "urls": [
-            "https://forums.beamdog.com/discussion/68089/universal-archer-kit-v1-0-archer-kit-for-fighters-and-paladins/p1"
+            "https://forums.beamdog.com/discussion/68089/"
         ],
         "categories": [
             "Kit"
@@ -34969,7 +34969,7 @@
         "name": "Unlimited Pixel Works",
         "description": "",
         "urls": [
-            "https://forums.beamdog.com/discussion/63834/portrait-pack-unlimited-pixel-works-v2-updated-2017-09-09"
+            "https://forums.beamdog.com/discussion/63834/"
         ],
         "categories": [
             "Cosmétique"
@@ -34999,7 +34999,7 @@
         "name": "Unofficial Item Pack",
         "description": "Ce mod donne des capacités à une trentaine objets qui n'en avaient pas (comme l'œil de spectateur, le sang de kuo-toa...), ajoute de nouveaux objets, importe des objets de SoD dans l'échoppe de Ribald, etc.",
         "urls": [
-            "https://forums.beamdog.com/discussion/56567/bgii-ee-unofficial-item-pack/p1"
+            "https://forums.beamdog.com/discussion/56567/"
         ],
         "categories": [
             "Sort et objet"
@@ -35047,7 +35047,7 @@
         "name": "Upgradable Dak'kon's Blade",
         "description": "Ce mod ajoute une petite quête dans le jeu et vous permet d'améliorer la lame Zerth de Dak'kon en insistant sur l'un de ses aspects : attaque, défense et magie. Rendez-vous dans l'Ombreterre.",
         "urls": [
-            "https://forums.beamdog.com/discussion/29328/upgradable-dakkons-blade/p1"
+            "https://forums.beamdog.com/discussion/29328/"
         ],
         "categories": [
             "Quête"
@@ -35119,7 +35119,7 @@
         "name": "Use Any NPC Item - Add-on for Use Any Item HLA",
         "description": "Ce mod permet à tous les personnages de porter l'équipement des PNJ de Bioware.",
         "urls": [
-            "https://forums.beamdog.com/discussion/26240/use-any-npc-item-add-on-for-use-any-item-hla/p1"
+            "https://forums.beamdog.com/discussion/26240/"
         ],
         "categories": [
             "Sort et objet"
@@ -35143,7 +35143,7 @@
         "name": "Useful Plot Items for BG2EE",
         "description": "Ce petit mod donne quelques capacités à certains objets de quête : le masque du roi Strohm III, la pierre gardienne du dragon d'ombre et le symbole d'Amaunator.",
         "urls": [
-            "https://forums.beamdog.com/discussion/54090/useful-plot-items-for-bg2-ee/p1"
+            "https://forums.beamdog.com/discussion/54090/"
         ],
         "categories": [
             "Sort et objet"
@@ -35480,7 +35480,7 @@
         "name": "Vienxay, an Elven Shadowdancer Mage",
         "description": "Difficile à vivre, Vienxay est une elfette magicienne maîtresse des ombres neutre mauvaise qui a été bannie de sa contrée. Faussement accusée de meurtre, du moins selon elle, elle erre sur la Côte des Épées, d'abord en quête de vengeance, puis d'un but, puis de la recherche d'un foyer. Dans la saga, vous pouvez l'aider ou entraver chacune de ces étapes, comme bon vous semble, même si elle se plaindra si elle n'est pas d'accord.|Son alignement peut pencher vers le neutre absolu dans BG1 et SoD ainsi que dans BG2. Son alignement n'étant pas mémorisé lors du passage à BG2, elle retombera dans ses vieilles habitudes et ses choix dangereux dans BG2 et aura besoin des conseils et de l'amitié ou de l'amour du protagoniste pour surmonter sa propre noirceur.|Vous la trouverez à l'extérieur du Bras amical dans BG1, et dans une cellule dans SoD. Dans BG2, elle se trouve sur la Promenade juste devant le Marché des Aventuriers, sur le point d'être arrêtée. Vous pouvez alors intervenir et la recruter, ou la retrouver et la recruter plus tard dans la prison.|Plus d'informations sur le <a href=\"https://skitias-stories.com/mods-view.php?name=Vienxay\">site de l'auteur</a>.",
         "urls": [
-            "https://forums.beamdog.com/discussion/74701/v1-62-vienxay-a-elven-shadowmage-npc-for-bg-ee-sod-and-eet/p1",
+            "https://forums.beamdog.com/discussion/74701/",
             "https://github.com/Skitia/Vienxay-BG1/"
         ],
         "categories": [
@@ -35788,7 +35788,7 @@
         "name": "Wand Case",
         "description": "Ce mod ajoute un étui à baguettes dans un magasin spécifique à chaque jeu : chez Thalantyr dans BG:EE, tutu, BGT et EET ; chez Ribald et dans la taverne de Saradush (uniquement pour ToB) dans BG2, BG2:EE, BGT et EET.",
         "urls": [
-            "https://forums.beamdog.com/discussion/22472/item-mod-wand-case/p1"
+            "https://forums.beamdog.com/discussion/22472/"
         ],
         "categories": [
             "Sort et objet"
@@ -35820,7 +35820,7 @@
         "name": "War Hulk Kit",
         "description": "Ce mod ajoute un profil pour guerrier. C'est un combattant indiscipliné, sauvage, et féroce. Alors que la plupart des guerriers développent leurs compétences dans les arts martiaux, le War Hulk ne recherche que la force brute. Il évite la stratégie et les tactiques, préférant concentrer toute son énergie dans un seul coup massif.",
         "urls": [
-            "https://forums.beamdog.com/discussion/63481/war-hulk-kit-for-fighters-v1-1/p1"
+            "https://forums.beamdog.com/discussion/63481/"
         ],
         "categories": [
             "Kit"
@@ -35849,7 +35849,7 @@
         "name": "Warhorn Shaman: a battle shaman kit",
         "description": "Ce mod ajoute un nouveau profil de chaman.",
         "urls": [
-            "https://forums.beamdog.com/discussion/71241/v1-1-warhorn-shaman-a-battle-shaman-kit/p1"
+            "https://forums.beamdog.com/discussion/71241/"
         ],
         "categories": [
             "Kit"
@@ -35910,7 +35910,7 @@
         "name": "Warlock Kit (voleur)",
         "description": "Ce mod ajoute un nouveau profil de voleur : le Warlock.",
         "urls": [
-            "https://forums.beamdog.com/discussion/62232/warlock-kit-beta-release-v0-2-2/p1"
+            "https://forums.beamdog.com/discussion/62232/"
         ],
         "categories": [
             "Kit"
@@ -35935,7 +35935,7 @@
         "name": "Warrior Monk",
         "description": "Ce mod rend les moines plus efficaces comme combattants de première ligne.",
         "urls": [
-            "https://forums.beamdog.com/discussion/62614/warrior-monk-mod-version-1-06-for-bg1-ee-final-version-i-hope/p1"
+            "https://forums.beamdog.com/discussion/62614/"
         ],
         "categories": [
             "Gameplay"
@@ -36046,7 +36046,7 @@
         "description": "",
         "urls": [
             "https://artisans-corner.com/way-of-the-assassin/",
-            "https://forums.beamdog.com/discussion/64119/v1-4-way-of-the-assassin-an-assassin-kit-rework/p1"
+            "https://forums.beamdog.com/discussion/64119/"
         ],
         "categories": [
             "Kit"
@@ -36077,7 +36077,7 @@
         "description": "Ce mod ajoute un nouveau profil de moine, avec un système de points ki qui gère le nombre de capacités qu'il peut utiliser en un temps donné.",
         "urls": [
             "http://www.shsforums.net/files/file/1157-way-of-the-fist/",
-            "https://forums.beamdog.com/discussion/62445/kit-way-of-the-fist-1-3-testers-requiered/p1"
+            "https://forums.beamdog.com/discussion/62445/"
         ],
         "categories": [
             "Kit"
@@ -36134,7 +36134,7 @@
         "name": "Weavescale Sorcerer and Alarin NPC",
         "description": "",
         "urls": [
-            "https://forums.beamdog.com/discussion/66640/wip-weavescale-sorcerer-kit-available-for-testing-and-alarin-npc/p1"
+            "https://forums.beamdog.com/discussion/66640/"
         ],
         "categories": [
             "Kit",
@@ -36570,7 +36570,7 @@
         "name": "Witcher kit pack",
         "description": "Ce mod ajoute cinq profils de witchers : Viper witcher, Cat witcher, Bear witcher, Manticore Witcher, Griffin witcher. Il est en constante évolution et propose désormais trois profils supplémentaires de mage (Dearg Ruadhri, Sorceress of the Lodge et Aen Saevherne). À terme, il comprendra une quête spécifique.",
         "urls": [
-            "https://forums.beamdog.com/discussion/69586/kit-pack-witcher-kit-pack/p1"
+            "https://forums.beamdog.com/discussion/69586/"
         ],
         "categories": [
             "Kit"
@@ -36597,7 +36597,7 @@
         "name": "Wizard Slayer Overhaul",
         "description": "Ce mod modifie le profil de Tueur de magiciens.",
         "urls": [
-            "https://forums.beamdog.com/discussion/37503/wizard-slayer-2-0/p1"
+            "https://forums.beamdog.com/discussion/37503/"
         ],
         "categories": [
             "Kit"
@@ -36738,7 +36738,7 @@
         "name": "World Map Unlock",
         "description": "Ce mod débloque toutes les zones des cartes au début du jeu.",
         "urls": [
-            "https://forums.beamdog.com/discussion/16039/modworld-map-unlock"
+            "https://forums.beamdog.com/discussion/16039/"
         ],
         "categories": [
             "Gameplay"
@@ -36939,7 +36939,7 @@
         "name": "Xan's New Groove",
         "description": "Ce mod a pour but de rendre Xan plus amusant à jouer avec des objets utiles et une chance de réaliser son potentiel sur la Côte des Épées. Le coffre de Mulahey contient donc une Lame de lune +3 personnalisée et de nouveaux objets magiques qui lui permettront de mieux prendre part au combat, ainsi que des sorts cruciaux pour le début du jeu qui conviennent parfaitement à l'enchanteur Xan et à son livre de sorts limité.",
         "urls": [
-            "https://forums.beamdog.com/discussion/73654/n-p-c-item-pack-xans-new-groove-version-1-0-release/p1"
+            "https://forums.beamdog.com/discussion/73654/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -37531,7 +37531,7 @@
         "description": "Il s'agit d'une compilation de corrections et d'ajustements des règles du jeu. Ce mod modifie aussi légèrement une petite partie du contenu (comme le composant `Noober's Game` qui propose un dialogue avec Neeber dans Les Fosses sombres 2. Attention ce dialogue est un des plus longs et des plus complexes du jeu, vous êtes prévenu !).|L'auteur du mod s'est efforcé de ne pas interférer avec les composants de [[The Tweaks Anthology]].",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/34110-jmerrys-tweak-collection",
-            "https://forums.beamdog.com/discussion/83360/mod-jmerrys-tweak-collection/p1"
+            "https://forums.beamdog.com/discussion/83360/"
         ],
         "categories": [
             "Gameplay"
@@ -37582,7 +37582,7 @@
         "name": "so Cromwell does NOT take a day?",
         "description": "",
         "urls": [
-            "https://forums.beamdog.com/discussion/39906/mod-so-cromwell-does-not-take-a-day"
+            "https://forums.beamdog.com/discussion/39906/"
         ],
         "categories": [
             "Gameplay"
@@ -38519,7 +38519,7 @@
         "name": "MegaMod: Mazzy Romance, Clara NPC...",
         "description": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc-Neera Romance.| - Flying Aerie.| - Dorn-HaerDalis Romance| - Jaheira-Wilson Romance.| - For The Evil!| - For The Good!| - Et bien d'autres petits composants...",
         "urls": [
-            "https://forums.beamdog.com/discussion/71473/mod-all-things-mazzy-version-1-049-mazzy-expansion-and-keepable-clara/p1"
+            "https://forums.beamdog.com/discussion/71473/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -39554,7 +39554,7 @@
         "name": "Illo le tatoueur",
         "description": "Un marchand qui vend 74 tatouages à usage unique qui fonctionnent comme des tomes, mais en version ++.|Vous vous rappelez des tatouages de PST ? Il y a les mêmes, et plein d'autres.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88006/illo-the-tattooist-a-new-module-for-bg2-bg2ee-eet-and-iwdee#first",
+            "https://forums.beamdog.com/discussion/88006/",
             "https://github.com/Deratiseur/Tatoos"
         ],
         "categories": [
@@ -39588,7 +39588,7 @@
         "name": "Illumisfhityroc",
         "description": "Une extra-terrestre qui loue des objets temporaires +4 pour 200 pos et 1000 xps.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88141/mod-illumisfhityroc-an-alien-in-bgee-and-iwdee",
+            "https://forums.beamdog.com/discussion/88141/",
             "https://github.com/Deratiseur/Illumisfhityroc"
         ],
         "categories": [
@@ -39620,7 +39620,7 @@
         "name": "Wares of the Planes",
         "description": "Ce mod introduit un grand nombre d'armes et d'accessoires de l'univers Planescape dans la série Baldur's Gate. Les objets peuvent être achetés auprès d'un marchand ambulant qui est disponible tout au long du jeu.|Plusieurs objets de Planescape : Torment ont été légèrement modifiés pour mieux s'intégrer à la série BG car les objets de l'univers de Planescape sont généralement plus puissants et uniques que leurs équivalents des Royaumes oubliés.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88361/wares-of-the-planes-planescape-items-for-baldurs-gate",
+            "https://forums.beamdog.com/discussion/88361/",
             "https://github.com/Argent77/A7-WaresOfThePlanes"
         ],
         "categories": [
@@ -40269,7 +40269,7 @@
         "name": "Sharpening filter",
         "description": "Ce mod vise à utiliser des opérations de couleur plus cohérentes, des filtres d'accentuation et de mise à l'échelle alternatifs via les fichiers de shaders introduits dans BG(2)EE.",
         "urls": [
-            "https://forums.beamdog.com/discussion/87794/mod-sharpening-filter-bgee1-3-like-look-and-more-via-shaders/p1",
+            "https://forums.beamdog.com/discussion/87794/",
             "https://github.com/dtiefling/dshaders"
         ],
         "categories": [
@@ -40366,7 +40366,7 @@
         "name": "Graion's Soundsets",
         "description": "Collection de son pour tous les jeux en version 2.6. Cette dernière a apporté de nouvelles options intéressantes, malheureusement tout en étant incompatible avec les collections des versions précédentes. Téléchargez bien la collection correspondante à votre jeu.",
         "urls": [
-            "https://forums.beamdog.com/discussion/82008/graions-soundsets-pst-iwd-iwd2-bg-bg2-bgnpc-30-for-bg-sod-bg2-iwd-eet-ee-2-6/p1"
+            "https://forums.beamdog.com/discussion/82008/"
         ],
         "categories": [
             "Portrait et son"
@@ -40406,7 +40406,7 @@
         "name": "Awesome Soundsets Mods Master",
         "description": "Collection de 4 sons avec sous-titres qui peuvent être utilisés pour les personnages joueurs.",
         "urls": [
-            "https://forums.beamdog.com/discussion/38319/mods-awesome-soundsets-mods-master-thread-custom-soundsets-for-bgee-bg2ee-and-iwdee"
+            "https://forums.beamdog.com/discussion/38319/"
         ],
         "categories": [
             "Portrait et son"
@@ -40434,7 +40434,7 @@
         "name": "Black Hearts",
         "description": "Black Hearts est un mod de quête pour BG:EE qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas).",
         "urls": [
-            "https://forums.beamdog.com/discussion/82484/released-black-hearts-bg1/p1"
+            "https://forums.beamdog.com/discussion/82484/"
         ],
         "categories": [
             "Quête"
@@ -40807,7 +40807,7 @@
         "name": "Call of the Lost Goddess",
         "description": "Ce mod ajoute une grosse quête d'une dizaine d'heures. Près de 50 nouvelles zones sont créées avec de nouveaux monstres. Cette quête est librement inspirée du module d'aventure de la seconde édition \"For Duty and Deity\" écrit par Dale Donovan.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88425/released-mod-call-of-the-lost-goddess-a-quest-mod-for-bg2ee"
+            "https://forums.beamdog.com/discussion/88425/"
         ],
         "categories": [
             "Quête"
@@ -41036,7 +41036,7 @@
         "name": "Project Infinity",
         "description": "Project Infinity est un gestionnaire de mods pour les versions EE de l'Infinity Engine. Project Infinity a pour but de fournir presque les mêmes fonctionnalités que BWS, mais sans avoir besoin d'une maintenance constante 24/7 de l'outil lui-même, pour le coût de quelques actions supplémentaires à effectuer par ses utilisateurs.",
         "urls": [
-            "https://forums.beamdog.com/discussion/74335/project-infinity-public-beta-for-all/p1",
+            "https://forums.beamdog.com/discussion/74335/",
             "https://github.com/ALIENQuake/ProjectInfinity"
         ],
         "categories": [
@@ -41094,7 +41094,7 @@
         "name": "BG2 Radar Overlay",
         "description": "Un programme externe montrant les ennemis les plus proches ainsi que leurs résistances, leurs buffs et les durées restantes. Les vidéos seront plus explicites qu'un long texte.",
         "urls": [
-            "https://forums.beamdog.com/discussion/84149/2-6-bg2-radar-overlay-released",
+            "https://forums.beamdog.com/discussion/84149/",
             "https://github.com/tapahob/BG2RadarOverlay"
         ],
         "categories": [
@@ -41124,7 +41124,7 @@
         "name": "Seducer Kit for Thieves",
         "description": "Le kit Séducteur permet au joueur de charmer littéralement TOUT ce qui se trouve dans le jeu. Mais comme pour mes autres kits, cette puissante capacité est contrebalancée par des inconvénients rédhibitoires, à savoir une incapacité totale à accomplir les tâches normales du voleur du groupe, et les pires défenses de toutes les classes du jeu.",
         "urls": [
-            "https://forums.beamdog.com/discussion/63566/seducer-kit-for-thieves-v1-1",
+            "https://forums.beamdog.com/discussion/63566/",
             "https://github.com/Endarire/Seducer-Kit-for-BG"
         ],
         "categories": [
@@ -41184,7 +41184,7 @@
         "name": "Dual to Kit",
         "description": "Ce mod permet de choisir un kit lors du jumelage d'un personnage.",
         "urls": [
-            "https://forums.beamdog.com/discussion/66521/enable-dual-classing-into-kits-now-with-proficiency-fix"
+            "https://forums.beamdog.com/discussion/66521/"
         ],
         "categories": [
             "Gameplay"
@@ -41241,7 +41241,7 @@
         "name": "Infinity UI",
         "description": "Ce mod modifie complètement l'interface utilisateur originale. Il est issu du mod [[Dragonspear UI++]].",
         "urls": [
-            "https://forums.beamdog.com/discussion/87209/mod-infinity-ui-beta-v0-51-iwd-compatible",
+            "https://forums.beamdog.com/discussion/87209/",
             "https://github.com/Renegade0/InfinityUI"
         ],
         "categories": [
@@ -41338,7 +41338,7 @@
         "name": "Warlock 3.5",
         "description": "Ce mod tente de recréer la classe Warlock de l'édition 3.5. Notamment en créant un système de sorts modulaire. Nul doute qu'une description sommaire ne suffira pas à tout expliquer.",
         "urls": [
-            "https://forums.beamdog.com/discussion/38113/class-kit-attempt-warlock/p1"
+            "https://forums.beamdog.com/discussion/38113/"
         ],
         "categories": [
             "Kit"
@@ -41479,7 +41479,7 @@
         "description": "Enfin la suite de la romance de Nalia pour ToB. Ce mod est compatible avec [[De'Arnise Romance]] même si ce dernier n'est pas obligatoire. Il rajoute plusieurs dialogues, des flirts et des banters supplémentaires avec les autres personnages BioWare.",
         "urls": [
             "https://skitias-stories.com/mods-view.php?name=Nalia%20At%20Last",
-            "https://forums.beamdog.com/discussion/86653/v1-12-nalia-at-last-a-romance-mod-for-bg2-ee-throne-of-bhaal",
+            "https://forums.beamdog.com/discussion/86653/",
             "https://github.com/Skitia/Nalia_At_Last"
         ],
         "categories": [
@@ -41511,7 +41511,7 @@
         "name": "BG1 NPC in SoA&ToB",
         "description": "Ce mod ambitieux ajoute une nouvelle zone dans Athkatla où se réunissent tous vos anciens amis de BG1. Que font-ils là-bas ? Ils papotent, ils se détentent et boivent. Des milliers de lignes de dialogues qui changent à chaque conversation. Des variations selon l'heure du jour (ou de la nuit). Ce mod permet aux autres moddeurs d'ajouter eux-mêmes des PNJ. Il y a aussi quelques surprises.",
         "urls": [
-            "https://forums.beamdog.com/discussion/82463/mod-bg1-npcs-for-soa-tob/p1",
+            "https://forums.beamdog.com/discussion/82463/",
             "https://github.com/SpellholdStudios/BG1_NPCs_for_SoA_-_ToB"
         ],
         "categories": [
@@ -41571,7 +41571,7 @@
         "name": "Lichdom",
         "description": "À travers les royaumes et les plans, beaucoup sont déjà devenus des Liches ou des Demi-liches d'une façon ou d'une autre. Peut-être recherchaient-ils l'immortalité. Peut-être en ont-ils eu assez de devoir manger et respirer. Peut-être étaient-ils fatigués d'être congelés, étourdis, malades, enchevêtrés, drainés, paralysés, pétrifiés, empoisonnés, polymorphiés en écureuil, assommés… Quel que soit leur raisonnement, avec ce mod, vous pouvez vous aussi devenir une Liche avec l'aide du Gravetender Morris dans le District du Cimetière d'Athkatla (SoA) ou à Saradush (ToB).|Mais le vouloir ne suffit pas. Il faut en payer le prix (120 000 PO), être au minimum de niveau 12, avoir l'alignement adéquat, réussir une série de quête etc. Pour devenir une définitivement une liche.|Les gains physiques sont importants, immunité aux armes non magiques, au poison, au froid et à l'électricité… Consultez le readme pour en savoir plus.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88122/lichdom-for-bg2ee-eet-merry-lichmas",
+            "https://forums.beamdog.com/discussion/88122/",
             "https://github.com/LCA-EET/Lichdom"
         ],
         "categories": [
@@ -41602,7 +41602,7 @@
         "name": "BG1 Icons pack mod",
         "description": "Ce mod contient de nouvelles icônes pour les objets de quête et les objets d'intrigue dans BG1:EE. Dans BG2 la plupart des objets de quête ont une image qui leur sont propres alors que ce n'est pas le cas dans BG1.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88871/bg1-icons-pack-mod-released",
+            "https://forums.beamdog.com/discussion/88871/",
             "https://github.com/Alexander12-creator/bg1_icons_pack_mod/"
         ],
         "categories": [
@@ -41742,7 +41742,7 @@
         "name": "Classic Spellbook for BG:EE, SoD and BG2:EE",
         "description": "Ce mod rétablit l'interface des livres de Mage et de Prêtre d'avant la version 2.0.",
         "urls": [
-            "https://forums.beamdog.com/discussion/63434/mod-classic-spellbook-for-bg-ee-sod-and-bg2-ee"
+            "https://forums.beamdog.com/discussion/63434/"
         ],
         "categories": [
             "Interface"
@@ -41768,7 +41768,7 @@
         "name": "BG2EE GUI To BGEE",
         "description": "Le but de ce mod est d'importer l'interface graphique de BG2EE vers BGEE avec quelques changements.",
         "urls": [
-            "https://forums.beamdog.com/discussion/55094/mod-bg2ee-gui-to-bgee/p1"
+            "https://forums.beamdog.com/discussion/55094/"
         ],
         "categories": [
             "Interface"
@@ -41793,7 +41793,7 @@
         "name": "Restricting Specialist's extra Spell Slots to Specialist's School Spells",
         "description": "Ce mod vise à mettre en place des restrictions d'emplacements de sorts pour les mages spécialistes, les obligeant à choisir un sort de leur école pour leurs emplacements de sorts bonus.",
         "urls": [
-            "https://forums.beamdog.com/discussion/63421/restricting-specialists-extra-spell-slots-to-specialists-school-spells"
+            "https://forums.beamdog.com/discussion/63421/"
         ],
         "categories": [
             "Gameplay"
@@ -41821,7 +41821,7 @@
         "name": "Disable EE NPCs, EE items available in shops",
         "description": "Ce mod permet de jouer aux versions EE sans voir les nouveaux PNJ apportés. Il apporte deux fonctionnalités :|La première rend certains nouveaux objets introduits par BG:EE disponibles dans les boutiques, de sorte que vous n'ayez pas à recruter de nouveaux PNJ pour les obtenir.|La seconde vous permet de supprimer les nouveaux PNJ EE (chaque personnage peut être sélectionné unitairement via un composant).",
         "urls": [
-            "https://forums.beamdog.com/discussion/30322/bg-ee-mod-disable-ee-npcs-ee-items-available-in-shops"
+            "https://forums.beamdog.com/discussion/30322/"
         ],
         "categories": [
             "Gameplay"
@@ -41848,7 +41848,7 @@
         "name": "Convenient Enhanced Edition NPCs",
         "description": "Les nouveaux PNJ introduits dans les EE diffèrent quelque peu de la distribution originale et peuvent ne pas être du goût de tout le monde. Ce mod propose un certain nombre d'options pour les adapter à votre niveau de confort. Vous pouvez rendre leur première apparition plus passive, ce qui vous donne plus de contrôle sur le moment et l'opportunité d'établir le premier contact. Un petit nombre d'événements seront légèrement modifiés pour rendre cela possible. Il est également possible de supprimer un ou plusieurs PNJ du jeu. Dans ce cas, vous avez la possibilité de rendre leurs objets personnels ou liés aux quêtes accessibles à tous dans les magasins ou sous forme de butin.",
         "urls": [
-            "https://forums.beamdog.com/discussion/43074/mod-disable-enhanced-edition-npcs-for-bg-ee-bg2-ee"
+            "https://forums.beamdog.com/discussion/43074/"
         ],
         "categories": [
             "Gameplay"
@@ -42158,7 +42158,7 @@
         "name": "Korax the Ghoul NPC Mod",
         "description": "Korax est un monstre grossier et laid. Il a oublié depuis longtemps qui il était dans la vie, mais la perte de son ancienne identité ne semble pas le déranger. Sous son visage tordu et pourrissant et sous l'odeur putride de la mort, c'est une « personne » plutôt joyeuse et étonnamment amicale. Pourtant, chaque fois que vous le surprenez à vous fixer de ses yeux morts sans ciller, vous ne pouvez pas vous défaire de l'impression qu'il pense à manger votre chair.|En tant que goule, Korax est immunisé contre bien des afflications mais semble incapable de manier une arme, de s'habiller ou de boire une potion. Ses attaques, en revanche, paralysent ses adversaires.",
         "urls": [
-            "https://forums.beamdog.com/discussion/74491/korax-the-ghoul-npc-mod"
+            "https://forums.beamdog.com/discussion/74491/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -42185,7 +42185,7 @@
         "name": "Custom NPC Kits",
         "description": "Un mod qui attribut un kit aux différents PNJ de BG1, à la [[NPC Kit Pack]] mais en assurant une distinction plus importante entre les PNJ un peu trop similaire dans le jeu. Notamment lorque certains PNJ ont des traits un peu trop proche (comme Imoen et Alora dans BG1) afin de leur donner un second souffle ou un nouvel intérêt.",
         "urls": [
-            "https://forums.beamdog.com/discussion/20240/mod-custom-npc-kits"
+            "https://forums.beamdog.com/discussion/20240/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -42408,7 +42408,7 @@
         "name": "Better Enchanted Weapon",
         "description": "Ce mod fait évoluer le sort `Arme enchantée` en fonction des niveaux. Un lanceur de sorts d'un niveau suffisamment élevé peut maintenant laisser un combattant frapper Kangaxx à poings nus, si pour une raison ou une autre vous le souhaitez.",
         "urls": [
-            "https://forums.beamdog.com/discussion/69170/better-enchanted-weapon"
+            "https://forums.beamdog.com/discussion/69170/"
         ],
         "categories": [
             "Sort et objet"
@@ -42583,7 +42583,7 @@
         "name": "XPSync - a BG(2)EE mod for matching XP for party members",
         "description": "Ce mod a pour but de synchroniser avec précision l'expérience des membres du groupe dans Baldur's Gate Enhanced Edition (BGEE) et Baldur's Gate II Enhanced Edition (BG2EE).",
         "urls": [
-            "https://forums.beamdog.com/discussion/87837/release-bg-2-ee-xpsync",
+            "https://forums.beamdog.com/discussion/87837/",
             "https://github.com/Dapbler/BGEE-XPSync/"
         ],
         "categories": [
@@ -42733,7 +42733,7 @@
         "name": "Dragon Breath visual animation fix",
         "description": "Ce mod propose de corriger les animations de souffle des dragons. Vous trouverez des comparatifs plus parlant sur le forum.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88856/mod-fix-dragon-breath-visual-animation-fix"
+            "https://forums.beamdog.com/discussion/88856/"
         ],
         "categories": [
             "Cosmétique"
@@ -42758,7 +42758,7 @@
         "name": "More Scrolls For Icewind Dale",
         "description": "Les mages ont toujours eu la vie dure dans Icewind Dale. Les parchemins sont extrêmement rares (au point qu'il n'existe qu'un seul exemplaire de nombreux parchemins dans le jeu) et les parchemins de haut niveau ne sont disponibles que tard dans le jeu. Ce mod corrige cela. Désormais, Orrick vend une seule copie de chaque parchemin du jeu, ainsi que tous ses objets normaux.",
         "urls": [
-            "https://forums.beamdog.com/discussion/69213/more-scrolls-for-icewind-dale"
+            "https://forums.beamdog.com/discussion/69213/"
         ],
         "categories": [
             "Sort et objet"
@@ -42810,7 +42810,7 @@
         "name": "Jack Of All Planes - Play as a Fighter/Mage/Thief",
         "description": "Ce mod n'a qu'une seule fonction : il retravaille la progression de The Nameless One pour en faire un Guerrier/Mage/Voleur. Il peut manier n'importe quelle arme, utiliser les compétences de voleur et lancer des sorts d'arcane, le tout sans avoir à changer de classe auprès de l'un des formateurs de classe.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88544/mod-jack-of-all-planes-play-as-a-fighter-mage-thief",
+            "https://forums.beamdog.com/discussion/88544/",
             "https://github.com/aquadrizzt/JackOfAllPlanes"
         ],
         "categories": [
@@ -42838,7 +42838,7 @@
         "name": "A mod for BG2:EE that lets you keep your stuff from BG1",
         "description": "Vous permet de conserver tous vos objets au début de BG2. Reproduit l'exploit du jeu original qui permettait de mettre en pause et de laisser tomber ses objets au début d'une nouvelle partie.",
         "urls": [
-            "https://forums.beamdog.com/discussion/45114/keep-your-bg1-items-at-the-start-of-bg2-www-urstuff2athkatla-com",
+            "https://forums.beamdog.com/discussion/45114/",
             "https://github.com/CrevsDaak/www.urstuff2athkatla.com"
         ],
         "categories": [
@@ -43051,7 +43051,7 @@
         "name": "Minions clear fog of war, travel between areas and set off traps",
         "description": "Ce mod contient plusieurs composants.|Les invocations et les créatures charmées dissipent le brouillard de guerre.|Les invocations peuvent voyager entre les zones.|Tout le monde (y compris les ennemis) peuvent activer les pièges.",
         "urls": [
-            "https://forums.beamdog.com/discussion/82634/mod-summonsfow-minions-clear-fog-of-war-travel-between-areas-and-set-off-traps",
+            "https://forums.beamdog.com/discussion/82634/",
             "https://github.com/Endarire/Summons-and-charmed-creatures-clear-FoW-Fog-of-War-"
         ],
         "categories": [
@@ -43179,7 +43179,7 @@
         "name": "Premade Party Adder",
         "description": "Permet au joueur d'ajouter des parties personnalisées à l'écran de la nouvelle partie.",
         "urls": [
-            "https://forums.beamdog.com/discussion/83709/mod-premade-party-adder-iwd-ee-iwd2-black-pits-1-2",
+            "https://forums.beamdog.com/discussion/83709/",
             "https://github.com/D2-mods/Premade-Party-Adder/"
         ],
         "categories": [],
@@ -43262,7 +43262,7 @@
         "name": "WeissMod Tweaks",
         "description": "Ce mod propose trois composants : un pour payer pour se reposer, un pour garder son or entre les parties, et un qui redéfini la mécanique d'arrêt du temps.",
         "urls": [
-            "https://forums.beamdog.com/discussion/87418/mod-for-bg2ee-eet-weissmod-tweaks-pay-gold-to-rest-keep-gold-between-bgs-time-stop-nerf",
+            "https://forums.beamdog.com/discussion/87418/",
             "https://github.com/BG-Weiss/WeissMod-Tweaks"
         ],
         "categories": [
@@ -43377,7 +43377,7 @@
         "name": "Dialog Tags",
         "description": "Dialog Tags est un mod qui ajoute des tags de dialogue vous informant de la façon dont les scores de capacité, les compétences et l'alignement de Nameless One peuvent interagir avec certaines options de dialogue.",
         "urls": [
-            "https://forums.beamdog.com/discussion/82129/mod-dialog-tags",
+            "https://forums.beamdog.com/discussion/82129/",
             "https://github.com/aquadrizzt/DialogTags"
         ],
         "categories": [
@@ -43433,7 +43433,7 @@
         "name": "Hexblade",
         "description": "L'Hexblade est un Barde combinant les pouvoirs dynamiques des prouesses martiales et de la puissance des arcanes, l'hexblade représente un défi mortel pour les adversaires qui n'ont pas l'habitude d'un tel adversaire. L'hexblade équilibre ses talents de combat et d'incantation des arcanes. Bien qu'elle soit capable de se battre en mêlée, l'hexblade compte sur l'utilisation opportuniste de ses sorts et de ses capacités spéciales pour renforcer son rôle au sein du groupe. Un hexblade ayant choisi les bonnes compétences peut faire un bon chef pour un groupe qui se sent à l'aise avec son style.",
         "urls": [
-            "https://forums.beamdog.com/discussion/34958/bg-ee-kit-mod-hexblade"
+            "https://forums.beamdog.com/discussion/34958/"
         ],
         "categories": [
             "Kit"
@@ -43821,7 +43821,7 @@
         "name": "Lilarcor NPC",
         "description": "Tout le monde aime Lilarcor. Tout le monde aime le sort de l'Épée de Mordenkainen. Et tout le monde aime les PNJ. Alors pourquoi ne pas faire de Lilarcor un PNJ, l'épée flottante ?|Il s'agit d'un simple mod qui vous permet de transformer Lilarcor en un membre du groupe en parlant avec l'épée. Il flottera autour de vous, frappera vos ennemis et prononcera ses lignes de dialogue habituelles.",
         "urls": [
-            "https://forums.beamdog.com/discussion/74334/lilarcor-npc-mod-v1-0"
+            "https://forums.beamdog.com/discussion/74334/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -44361,7 +44361,7 @@
         "name": "AI Portraits for Dark Horizons Mod Main NPC",
         "description": "Ce mod propose 11 portraits pour Nikita.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88752/portraits-ai-portraits-for-dark-horizons-mod-main-npc#latest"
+            "https://forums.beamdog.com/discussion/88752/"
         ],
         "categories": [
             "Portrait et son"
