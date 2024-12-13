@@ -39106,7 +39106,7 @@
             "EET"
         ],
         "authors": [
-            "shohysie"
+            "Shohy"
         ],
         "team": [],
         "notes": [
@@ -42220,7 +42220,7 @@
         ],
         "authors": [
             "mirado",
-            "shohy"
+            "Shohy"
         ],
         "team": [],
         "notes": [],
@@ -42619,7 +42619,7 @@
             "EET"
         ],
         "authors": [
-            "shohysie"
+            "Shohy"
         ],
         "team": [],
         "notes": [
@@ -43199,5 +43199,231 @@
         "status": "active",
         "last_update": "2023-08",
         "tp2": "d2-party-adder"
+    },
+    {
+        "name": "Recharge Wands",
+        "description": "Ce mod permet de recharger les baguettes à tout moment soit avec de l'or (moins cher que la vente/achat) soit avec de l'xp. Pour ce faire, faites un clic droit sur la baguette dans l'inventaire et cliquez sur le bouton « Recharge Wand ». Une boîte de dialogue s'ouvrira avec le coût affiché et vous pourrez confirmer.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/84"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Allbrother"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2023-10",
+        "tp2": "wl_RechargeWands"
+    },
+    {
+        "name": "Improved Anvil Tweaks",
+        "description": "Ce mod est un ensemble de divers patchs pour [[Improved Anvil]]. Il a été conçu pour les joueurs qui souhaitent faciliter, simplifier ou personnaliser leur expérience avec IA.",
+        "urls": [
+            "http://forums.blackwyrmlair.net/index.php?showforum=9",
+            "https://github.com/SparrowJacek/ImprovedAnvilTweaks"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "el.critto"
+        ],
+        "team": [],
+        "notes": [
+            "[[Improved Anvil]] est requis."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-04",
+        "tp2": "IATweaks"
+    },
+    {
+        "name": "WeissMod Tweaks",
+        "description": "Ce mod propose trois composants : un pour payer pour se reposer, un pour garder son or entre les parties, et un qui redéfini la mécanique d'arrêt du temps.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/87418/mod-for-bg2ee-eet-weissmod-tweaks-pay-gold-to-rest-keep-gold-between-bgs-time-stop-nerf",
+            "https://github.com/BG-Weiss/WeissMod-Tweaks"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Weiss"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-08",
+        "tp2": "WeissMod"
+    },
+    {
+        "name": "Shohy's Weapon Style Rebalance and Extra Ability Modifier",
+        "description": "Après avoir étudié de nombreux combats armés réels, l'auteur a cherché à rééquilibrer les styles d'armes à deux mains, d'épée et de bouclier, d'arme unique et d'arme à deux mains, afin que tous les styles d'armes soient utiles. L'Intelligence/Sagesse/Charisme apporte également des modificateurs supplémentaires. Tous les ajustements ne prennent effet qu'en combat. Vous pouvez cliquer sur le bouton de changement de mode sur la barre de compétences du protagoniste pour activer ou non le mécanisme. Le bouton est obtenu lors du premier combat.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37220-shohys-weapon-style-rebalance-and-extra-ability-modifier-v10/",
+            "https://github.com/shohysie/Weapon_Style_Rebalance"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Shohy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2024-11",
+        "tp2": "Shohy's_Weapon_Style_Rebalance"
+    },
+    {
+        "name": "Ahungry Silent Hero",
+        "description": "Donne au protagoniste la possibilité d'être un héros silencieux.",
+        "urls": [
+            "https://github.com/ahungry/ahungry_silent_hero"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "BGEE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "Ahungry"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-10",
+        "tp2": "ahungry_silent_hero"
+    },
+    {
+        "name": "5th-Edition-Overhaul",
+        "description": "Ce mod tente d'implémenter les règles D&D 5 édition dans l'Infinity Engine.",
+        "urls": [
+            "https://github.com/aquadrizzt/5th-Edition-Overhaul"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "BGEE",
+            "IWDEE"
+        ],
+        "authors": [
+            "aquadrizzt"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2017-01",
+        "tp2": "SetUp-5EO"
+    },
+    {
+        "name": "Dialog Tags",
+        "description": "Dialog Tags est un mod qui ajoute des tags de dialogue vous informant de la façon dont les scores de capacité, les compétences et l'alignement de Nameless One peuvent interagir avec certaines options de dialogue.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/82129/mod-dialog-tags",
+            "https://github.com/aquadrizzt/DialogTags"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "PSTEE"
+        ],
+        "authors": [
+            "aquadrizzt"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "pr",
+            "en",
+            "pl",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2021-07",
+        "tp2": "DialogTags"
+    },
+    {
+        "name": "MindAndSoul",
+        "description": "",
+        "urls": [
+            "https://github.com/aquadrizzt/MindAndSoul"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [],
+        "authors": [
+            "aquadrizzt"
+        ],
+        "team": [],
+        "notes": [
+            "Mod à compléter."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2017-01",
+        "tp2": "MindAndSoul"
     }
 ]
