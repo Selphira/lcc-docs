@@ -1874,7 +1874,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
+            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's Kitpack]] du même auteur."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -2106,7 +2106,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est incompatible avec [[De'Arnise Romance]]."
+            "Ce mod est incompatible avec [[de'Arnise Romance]]."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -2672,7 +2672,7 @@
     },
     {
         "name": "Auril's Bane (version TotL)",
-        "description": "Cet énorme mod combine les deux anciens mods Project Auril et Winter's Bane. Il ajoute un tas d'objets, de sorts et de créatures, quelques quêtes et de nouvelles fonctionnalités et correctifs.|Évitez son composant `Correction d'IWD par Grog` en faveur de [[Icewind Dale Fixpack]]. Par ailleurs, le composant principal possède également sa propre version de la quête \"la Voix de Durdel Anatha\", ce qui le rend incompatible avec le composant du même nom du mod [[Unfinished Business for IWD]].|Enfin, ce mod existe en deux versions, l'un pour Heart of Winter, l'autre pour [[Trials of the Luremaster]]. Seule la seconde est traduite en français.",
+        "description": "Cet énorme mod combine les deux anciens mods Project Auril et Winter's Bane. Il ajoute un tas d'objets, de sorts et de créatures, quelques quêtes et de nouvelles fonctionnalités et correctifs.|Évitez son composant `Correction d'IWD par Grog` en faveur de [[Icewind Dale Fixpack]]. Par ailleurs, le composant principal possède également sa propre version de la quête \"la Voix de Durdel Anatha\", ce qui le rend incompatible avec le composant du même nom du mod [[Unfinished Business for Icewind Dale]].|Enfin, ce mod existe en deux versions, l'un pour Heart of Winter, l'autre pour [[Trials of the Luremaster (IWD)]]. Seule la seconde est traduite en français.",
         "urls": [
             "http://downloads.chosenofmystra.net/iwd/AB_TotL.rar",
             "http://downloads.chosenofmystra.net/iwd/AB_HoW.exe"
@@ -3261,7 +3261,7 @@
     },
     {
         "name": "The BG1NPC Project",
-        "description": "Ce mod apporte une interaction des personnages tout à fait comparable à celle de Baldur's Gate II. En raison des différences de capacités techniques de Baldur's Gate et de son petit frère, le mod ne peut fonctionner qu'avec Baldur's Gate II, ce qui rend obligatoire l'installation de BG1Tutu ou de Baldur's Gate Trilogy afin d'en profiter, ou d'un jeu EE.|Il développe les relations entre le personnage principal et ses équipiers ou entre membres du groupe pour tous les personnages recrutables de Baldur's Gate, ainsi que des romances pour Ajantis, Branwen, Coran, Dynahéir, Shar-Teel et Xan. Certains personnages ont aussi une quête personnelle à accomplir, et tous ajoutent aussi leur grain de sel dans les discussions avec les personnages que le groupe rencontre.|Pour en bénéficier pleinement, il vous faudra également télécharger et installer le mod [[BG1 NPC Project Music Pack]] (à installer après BG1 NPC Project).",
+        "description": "Ce mod apporte une interaction des personnages tout à fait comparable à celle de Baldur's Gate II. En raison des différences de capacités techniques de Baldur's Gate et de son petit frère, le mod ne peut fonctionner qu'avec Baldur's Gate II, ce qui rend obligatoire l'installation de BG1Tutu ou de Baldur's Gate Trilogy afin d'en profiter, ou d'un jeu EE.|Il développe les relations entre le personnage principal et ses équipiers ou entre membres du groupe pour tous les personnages recrutables de Baldur's Gate, ainsi que des romances pour Ajantis, Branwen, Coran, Dynahéir, Shar-Teel et Xan. Certains personnages ont aussi une quête personnelle à accomplir, et tous ajoutent aussi leur grain de sel dans les discussions avec les personnages que le groupe rencontre.|Pour en bénéficier pleinement, il vous faudra également télécharger et installer le mod [[BG1 NPC Project Music pack]] (à installer après BG1 NPC Project).",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/bg1npc/",
             "https://github.com/Gibberlings3/BG1NPC"
@@ -4257,7 +4257,7 @@
     },
     {
         "name": "Back to Brynnlaw MOD for Baldur's Gate II (BGII, BGT, BGII:EE, and EET)",
-        "description": "Le mod débute au chapitre 6 lorsqu'un messager vous intercepte près du Marché de l'Aventurier. Vous devrez accompagner un mage cagoulé afin de l'aider à secourir une autre victime des expérimentations d'Irenicus. Le mod dispose de contenu supplémentaire pour Imoen et pour le mod [[Xan for BG2]].",
+        "description": "Le mod débute au chapitre 6 lorsqu'un messager vous intercepte près du Marché de l'Aventurier. Vous devrez accompagner un mage cagoulé afin de l'aider à secourir une autre victime des expérimentations d'Irenicus. Le mod dispose de contenu supplémentaire pour Imoen et pour le mod [[Xan NPC MOD for Baldur's Gate II]].",
         "urls": [
             "https://www.pocketplane.net/back-to-brynnlaw/",
             "https://github.com/Pocket-Plane-Group/Back_to_Brynnlaw"
@@ -4694,7 +4694,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[Never Ending Journey]] et/ou [[Tortured Souls-BP]]. Dans ce cas, téléchargez le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+            "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[Never Ending Journey]] et/ou [[Tortured Souls-BP]]. Dans ce cas, téléchargez le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[berelinde's Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -4760,7 +4760,7 @@
             "Freddy_Gwendo"
         ],
         "notes": [
-            "Incompatible avec [[Interaction Expansion Project Banters]]."
+            "Incompatible avec [[IEP Extended Banters]]."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -5251,7 +5251,7 @@
     },
     {
         "name": "Beyond the Law",
-        "description": "Ce mod propose deux PNJ recrutables, Kiyone (rôdeuse demi-elfe loyal bon) et Kova (mage/voleuse demi-elfe chaotique bon), non-séparables (comme [[Kiara-Zaiya]]) qui ont une romance potentielle (entre eux), des banters avec tout le monde, et une très intéressante quête sur les liens entre les Cagoulés, les Voleurs de l'Ombre et le Conseil des Six, sans parler d'un tas de combats tout au long de SoA (et désormais des interjections dans la Tour de Garde et plusieurs épilogues de romance dans ToB).",
+        "description": "Ce mod propose deux PNJ recrutables, Kiyone (rôdeuse demi-elfe loyal bon) et Kova (mage/voleuse demi-elfe chaotique bon), non-séparables (comme [[Kiara Zaiya]]) qui ont une romance potentielle (entre eux), des banters avec tout le monde, et une très intéressante quête sur les liens entre les Cagoulés, les Voleurs de l'Ombre et le Conseil des Six, sans parler d'un tas de combats tout au long de SoA (et désormais des interjections dans la Tour de Garde et plusieurs épilogues de romance dans ToB).",
         "urls": [
             "http://www.shsforums.net/forum/325-beyond-the-law",
             "https://github.com/SpellholdStudios/Beyond_the_Law"
@@ -5883,7 +5883,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Perils of Branwen]], [[Branwen for BG2]] et [[Baldur's Gate 1 NPCs in SoA & ToB]]."
+            "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Perils of Branwen]], [[Branwen NPC for BGII]] et [[BG1 NPC in SoA&ToB]]."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -5918,7 +5918,7 @@
             "jazira"
         ],
         "notes": [
-            "Attention : ce mod est incompatible avec les mods qui introduisent aussi Branwen dans BG2, comme [[Perils of Branwen]], [[Branwen NPC]] et [[Baldur's Gate 1 NPCs in SoA & ToB]]."
+            "Attention : ce mod est incompatible avec les mods qui introduisent aussi Branwen dans BG2, comme [[Perils of Branwen]], [[Branwen NPC]] et [[BG1 NPC in SoA&ToB]]."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -6167,7 +6167,7 @@
         ],
         "team": [],
         "notes": [
-            "Cette version n'est plus maintenue et ne fonctionne plus depuis le patch 2.6. Préférez-lui [[Bubb's Spell Menu Extended]]."
+            "Cette version n'est plus maintenue et ne fonctionne plus depuis le patch 2.6. Préférez-lui [[Bubb's Spell Menu (Extended)]]."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -6504,7 +6504,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est désormais inclu dans [[Interaction Expansion Project]]."
+            "Ce mod est désormais inclu dans [[IEP Extended Banters]]."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -7330,7 +7330,7 @@
     },
     {
         "name": "Cloakwood Squares",
-        "description": "Ce mod est inspiré de deux fanfics de J. Compton (à qui on doit [[Kelsey NPC]], [[Keto NPC MOD For Baldur’s Gate 2]] et bien d'autres modules fabuleux). Il offre une longue scènette réjouissante et rigolote en proposant une sorte de \"Qui veut gagner des millions\" réunissant les PNJ du jeu : Keldorn en Jean-Pierre Foucault, Salvanas, Viconia, Imoen, Korgan... et bien d'autres. Pour assister à ce spectacle, il vous faudra rencontrer un certain Caffrey près de la Couronne de Cuivre.",
+        "description": "Ce mod est inspiré de deux fanfics de J. Compton (à qui on doit [[Kelsey NPC MOD for Baldur’s Gate 2]], [[Keto NPC MOD For Baldur’s Gate 2]] et bien d'autres modules fabuleux). Il offre une longue scènette réjouissante et rigolote en proposant une sorte de \"Qui veut gagner des millions\" réunissant les PNJ du jeu : Keldorn en Jean-Pierre Foucault, Salvanas, Viconia, Imoen, Korgan... et bien d'autres. Pour assister à ce spectacle, il vous faudra rencontrer un certain Caffrey près de la Couronne de Cuivre.",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -7488,12 +7488,12 @@
         ],
         "team": [],
         "notes": [
-            "Il est obsolète depuis qu'il a été inclus dans le mod [[Eldricht Magic]]."
+            "Il est obsolète depuis qu'il a été inclus dans le mod [[Eldritch Magic]]."
         ],
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "obsolete",
+        "status": "embed",
         "last_update": "2017-07",
         "tp2": ""
     },
@@ -8070,7 +8070,7 @@
     },
     {
         "name": "Creslyn's BG2 Custom Items",
-        "description": "Ce mod ajoute de nombreux objets dans le jeu. Certains, un peu trop puissants, seront cependant difficile à obtenir (comme le bâton de la Gorgone dans la Cité illithild) ou hors de prix.|Cependant, il a été inclus comme composant du mod [[Sorcerer's Place Collection]].",
+        "description": "Ce mod ajoute de nombreux objets dans le jeu. Certains, un peu trop puissants, seront cependant difficile à obtenir (comme le bâton de la Gorgone dans la Cité illithild) ou hors de prix.|Cependant, il a été inclus comme composant du mod [[The Sorcerer's Place Collection]].",
         "urls": [
             "https://sorcerers.net/Games/BG2/index_mods_hosted_items_spells2.php"
         ],
@@ -8865,7 +8865,7 @@
             "Mornagest"
         ],
         "notes": [
-            "Ce mod est incompatible avec [[Arnel's Nalia Romance revision]].",
+            "Ce mod est incompatible avec [[Arnel Nalia Romance revision]].",
             "Une suite dans ToB est proposée dans [[Nalia At Last]]."
         ],
         "translation_state": "yes",
@@ -9686,7 +9686,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est désormais inclus dans [[Interaction Expansion Project]]."
+            "Ce mod est désormais inclus dans [[IEP Extended Banters]]."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -10931,7 +10931,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : ce mod est incompatible avec les autres mods qui introduisent aussi Eldoth dans BG2, comme [[Baldur's Gate 1 NPCs in SoA & ToB]]."
+            "Attention : ce mod est incompatible avec les autres mods qui introduisent aussi Eldoth dans BG2, comme [[BG1 NPC in SoA&ToB]]."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -11341,7 +11341,7 @@
     },
     {
         "name": "Enhanced Powergaming Scripts",
-        "description": "Ce mod est une collection de scripts d'IA de joueur conçus pour être utilisés dans BG:EE, BG2:EE, EET et IWD:EE. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche (\"B\"), un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[IWDification]], [[Sword Coast Stratagems]], [[Dark Side of the Sword Coast]], [[Song and Silence]], [[Tome and Blood]], [[Faiths and Powers]], ainsi que les modifications effectuées par [[Spell Revisions Revised]] et [[Item Revisions Revised]].",
+        "description": "Ce mod est une collection de scripts d'IA de joueur conçus pour être utilisés dans BG:EE, BG2:EE, EET et IWD:EE. Avec ces scripts, vous pouvez vous concentrer sur le combat tandis qu'ils s'occupent de tout en arrière-plan. Ils permettent un pré-buff facile de tous les personnages avec une touche (\"B\"), un de-buff intelligent des protections ennemies et une utilisation intelligente des sorts et capacités de défense. Le mod prend en compte les sorts installés par [[IWDification]], [[Sword Coast Stratagems]], [[Dark Side of the Sword Coast]], [[Song and Silence: A Mod for Bards and Thieves]], [[Tome and Blood]], [[Faiths and Powers]], ainsi que les modifications effectuées par [[Spell Revisions Revised]] et [[Item Revisions Revised]].",
         "urls": [
             "https://www.morpheus-mart.com/enhanced-powergaming-scripts"
         ],
@@ -11362,7 +11362,7 @@
             "JohnBob"
         ],
         "notes": [
-            "Incompatible avec [[Olvyn Spells]]."
+            "Incompatible avec [[OlvynSpells]]."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -12107,7 +12107,7 @@
     },
     {
         "name": "Faren",
-        "description": "\"Logé\" à la prison de Franc-Marché, ce guerrier/voleur neutre strict est peu loquace sur son passé. Il aurait grandi à Franc-Marché, faisant un temps parti de sa milice, et voyagé vers Luskan avec quelques aventuriers. Femme, homme, quelle que soit la race ou la classe, Faren ne fait pas de jaloux : sa romance est accessible à tous. Il dispose également de contenu pour des joueurs ne recherchant pas ce type de relations. Des banters sont possibles avec [[Chloe Romance]] et [[Fade]], en sus des PNJ Bioware. Le mod couvre les parties SoA et ToB.",
+        "description": "\"Logé\" à la prison de Franc-Marché, ce guerrier/voleur neutre strict est peu loquace sur son passé. Il aurait grandi à Franc-Marché, faisant un temps parti de sa milice, et voyagé vers Luskan avec quelques aventuriers. Femme, homme, quelle que soit la race ou la classe, Faren ne fait pas de jaloux : sa romance est accessible à tous. Il dispose également de contenu pour des joueurs ne recherchant pas ce type de relations. Des banters sont possibles avec [[Chloe Romance]] et [[Fade NPC]], en sus des PNJ Bioware. Le mod couvre les parties SoA et ToB.",
         "urls": [
             "http://www.shsforums.net/files/file/1125-faren/"
         ],
@@ -13072,7 +13072,7 @@
         ],
         "team": [],
         "notes": [
-            "De par son contenu, il est incompatible avec [[Garrick : les contes d'un troubadour]]."
+            "De par son contenu, il est incompatible avec [[Garrick: Tales of a Troubadour]]."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -13413,7 +13413,7 @@
     },
     {
         "name": "Gerri's NPC Portraits Pack",
-        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalon's Questpack]], [[Assassinations]], [[Baldur's Gate Mini Quests and Encounters]], [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[Baldur's Gate Romantic Encounters Modification (BG1RE)]], [[Romantic Encounters MOD for Baldur's Gate II]], [[The Secret of Bone Hill]], [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
+        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalon's Questpack]], [[Assassinations]], [[Baldur's Gate Mini Quests and Encounters Modification]], [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[Baldur's Gate Romantic Encounters Modification (BG1RE)]], [[Romantic Encounters MOD for Baldur's Gate II]], [[Secret of Bone Hill]], [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
         "urls": [
             "https://github.com/gboeck/NSC-Portraits"
         ],
@@ -13465,7 +13465,7 @@
     },
     {
         "name": "Getting Rid of Anomen",
-        "description": "Basé sur l'histoire du même nom, ce mod ajoute une cinématique à la romance de [[Kelsey NPC]]. Irenicus n'est plus qu'un lointain souvenir et la vie de Kelsey avec sa bien-aimée est merveilleuse... sauf pour le prétendant qui ne veut tout simplement pas partir... Ce mod nécessite [[Keto NPC]] et le mod [[Kelsey NPC]].",
+        "description": "Basé sur l'histoire du même nom, ce mod ajoute une cinématique à la romance de [[Kelsey NPC MOD for Baldur’s Gate 2]]. Irenicus n'est plus qu'un lointain souvenir et la vie de Kelsey avec sa bien-aimée est merveilleuse... sauf pour le prétendant qui ne veut tout simplement pas partir... Ce mod nécessite [[Keto NPC MOD For Baldur’s Gate 2]] et le mod [[Kelsey NPC MOD for Baldur’s Gate 2]].",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -13506,7 +13506,7 @@
         ],
         "team": [],
         "notes": [
-            "[[Kelsey NPC]] semble requis.",
+            "[[Kelsey NPC MOD for Baldur’s Gate 2]] semble requis.",
             "Attention, le contenu est explicite."
         ],
         "translation_state": "no",
@@ -13766,7 +13766,7 @@
         "tp2": ""
     },
     {
-        "name": "Grey Acumen's Kit Improvements (beta)",
+        "name": "Grey Acumen's Kit Improvements",
         "description": "Ce mod ajoute le profil de Mime (barde), modifie les profils de Tueur de magiciens et de Belluaire, ainsi que quelques sorts.",
         "urls": [
             "http://america.iegmc.net/greyacumen/"
@@ -13783,10 +13783,10 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
-        "status": "active",
-        "last_update": "",
+        "status": "wip",
+        "last_update": "2006-05",
         "tp2": ""
     },
     {
@@ -15103,7 +15103,7 @@
     },
     {
         "name": "IEP Extended Banters",
-        "description": "Ce projet a pour intention de développer le réalisme et l'intérêt des PNJ de Bioware en les dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires. 13 mods sont d'ores et déjà issus de ce projet ambitieux. Il s'agit de : |IEP Extended Banters, [[Cernd Friendship]], [[Dorn Friendship]], [[Haer'Dalis Friendship]], [[Hexxat Frienship]], [[Imoen Friendship]], [[Korgan Friendship]], [[Mazzy Friendship]], [[Minsc Friendship]], [[Sarevok Friendship]], [[Valygar Friendship]], [[Viconia Friendship]] et [[Yoshimo Friendship]]. Seuls 5 d'entre eux ont été traduits.",
+        "description": "Ce projet a pour intention de développer le réalisme et l'intérêt des PNJ de Bioware en les dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires. 13 mods sont d'ores et déjà issus de ce projet ambitieux. Il s'agit de : |IEP Extended Banters, [[Cernd Friendship]], [[Dorn Friendship]], [[Haer'dalis Friendship]], [[Hexxat Friendship]], [[Imoen Friendship]], [[Korgan Friendship]], [[Mazzy Friendship]], [[Minsc Friendship]], [[Sarevok Friendship]], [[Valygar Friendship]], [[Viconia Friendship]] et [[Yoshimo Friendship]]. Seuls 5 d'entre eux ont été traduits.",
         "urls": [
             "http://www.spellholdstudios.net/ie/npciep",
             "https://github.com/SpellholdStudios/IEP_Extended_Banter"
@@ -15614,7 +15614,7 @@
     },
     {
         "name": "Icewind Dale Fixpack",
-        "description": "Le IWD FixPack est le fixpack le plus complet à ce jour, totalement WeiDU et en français. Il corrige plusieurs les bugs et erreurs qui subsistent dans le jeu après l'application des correctifs officiels, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation. Il fonctionne avec ou sans les extensions Heart of Winter et [[Trials of the Luremaster IWD)]].|Plus d'infos dans le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-iwdfixpack.html\">readme</a>.",
+        "description": "Le IWD FixPack est le fixpack le plus complet à ce jour, totalement WeiDU et en français. Il corrige plusieurs les bugs et erreurs qui subsistent dans le jeu après l'application des correctifs officiels, vous assurant d'avoir un jeu parfaitement propre. C'est le fixpack non officiel que vous devriez toujours installer sauf si vous avez une excellente raison d'en installer un autre à la place. Notez que certains mods exigent son installation. Il fonctionne avec ou sans les extensions Heart of Winter et [[Trials of the Luremaster (IWD)]].|Plus d'infos dans le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-iwdfixpack.html\">readme</a>.",
         "urls": [
             "https://www.gibberlings3.net/mods/fixes/iwd_fixpack/",
             "https://github.com/Gibberlings3/iwdfixpack"
@@ -17896,7 +17896,7 @@
             "Raphaël Mizrahi"
         ],
         "notes": [
-            "Ce mod est obsolète depuis qu'il a été intégré dans le [[Quest Pack]] de PPG."
+            "Ce mod est obsolète depuis qu'il a été intégré dans le [[Ding0's Quest Pack]] de PPG."
         ],
         "translation_state": "yes",
         "safe": 0,
@@ -17907,7 +17907,7 @@
     },
     {
         "name": "Keto NPC MOD For Baldur’s Gate 2",
-        "description": "Keto est une barde neutre bonne humaine, avec un penchant certain pour la bouteille et les histoires, que vous trouverez aux Cinq Chopes. Très bavarde, elle dispose de nombreux dialogues avec les PNJ recrutables, avec une myriade de PNJ de passage, et commente plus d'une aventure quand elle ne se fend pas d'un conte. Considéré comme un des meilleurs modules de PNJ (deux ans et demi d'élaboration), Keto dispose également de sa quête personnelle et possède son propre set de voix plus des sets de plusieurs intervenants (400). Elle n'est cependant pas romançable et n'est probablement pas le personnage rêvé pour les fêlés d'optimisation.|Qu'elle n'ait pas de contenu pour ToB est un atout, car elle peut sans scrupule être remplacée dans ToB par Sarevok ou Irenicus (mods [[Redemption]] ou [[The longer Road]]).",
+        "description": "Keto est une barde neutre bonne humaine, avec un penchant certain pour la bouteille et les histoires, que vous trouverez aux Cinq Chopes. Très bavarde, elle dispose de nombreux dialogues avec les PNJ recrutables, avec une myriade de PNJ de passage, et commente plus d'une aventure quand elle ne se fend pas d'un conte. Considéré comme un des meilleurs modules de PNJ (deux ans et demi d'élaboration), Keto dispose également de sa quête personnelle et possède son propre set de voix plus des sets de plusieurs intervenants (400). Elle n'est cependant pas romançable et n'est probablement pas le personnage rêvé pour les fêlés d'optimisation.|Qu'elle n'ait pas de contenu pour ToB est un atout, car elle peut sans scrupule être remplacée dans ToB par Sarevok ou Irenicus (mods [[Redemption]] ou [[The Longer Road]]).",
         "urls": [
             "https://www.pocketplane.net/keto-npc/",
             "https://github.com/Pocket-Plane-Group/Keto"
@@ -20812,7 +20812,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Notez que ce mod a été rendu obsolète par [[TobEX]]."
+            "Notez que ce mod a été rendu obsolète par [[TobEx]]."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -21662,7 +21662,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
+            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's Kitpack]] du même auteur."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -21785,7 +21785,7 @@
     },
     {
         "name": "NPC Enhanced for Everyone",
-        "description": "Ce mod se veut le successeur du fantastique mod \"Level 1 NPCs\" qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[Divine Remix]], [[Song and Silence]], ou encore [[Scales of Balance]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que L1NPCs, mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier).",
+        "description": "Ce mod se veut le successeur du fantastique mod \"Level 1 NPCs\" qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[Divine Remix]], [[Song and Silence: A Mod for Bards and Thieves]], ou encore [[Scales of Balance]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que L1NPCs, mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27526-npc_ee-new-class-and-kit-options-for-bgee-and-bg2ee-npcs/",
             "https://github.com/UnearthedArcana/NPC_EE/"
@@ -22063,7 +22063,7 @@
     },
     {
         "name": "Nathaniel",
-        "description": "Kensai gay (uniquement romançable par un PJ mâle) de son état, c'est un guerrier compétent bien qu'il souffre d'un manque de confiance en soi probablement dû à sa fragilité physique. Il dispose de contenu pour SoA et ToB. On le trouve dans le quartier des Docks ; il viendra vers vous pour vous demander de l'aide. Nathaniel romancera un personnage masculin humain, elfe ou demi-elfe, d'alignement bon ou loyal neutre, à condition qu'il ne soit pas un voleur. Nathaniel dispose de contenu pour [[Kelsey NPC]] si ce mod est installé.",
+        "description": "Kensai gay (uniquement romançable par un PJ mâle) de son état, c'est un guerrier compétent bien qu'il souffre d'un manque de confiance en soi probablement dû à sa fragilité physique. Il dispose de contenu pour SoA et ToB. On le trouve dans le quartier des Docks ; il viendra vers vous pour vous demander de l'aide. Nathaniel romancera un personnage masculin humain, elfe ou demi-elfe, d'alignement bon ou loyal neutre, à condition qu'il ne soit pas un voleur. Nathaniel dispose de contenu pour [[Kelsey NPC MOD for Baldur’s Gate 2]] si ce mod est installé.",
         "urls": [
             "http://www.shsforums.net/files/file/734-nathaniel/"
         ],
@@ -22278,7 +22278,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Ce mod nécessite d'installer auparavant le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
+            "Ce mod nécessite d'installer auparavant le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[berelinde's Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -23624,7 +23624,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
+            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's Kitpack]] du même auteur."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -23888,7 +23888,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Branwen NPC]], [[Branwen for BG2]] et [[Baldur's Gate 1 NPCs in SoA & ToB]]."
+            "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Branwen NPC]], [[Branwen NPC for BGII]] et [[BG1 NPC in SoA&ToB]]."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -25339,7 +25339,7 @@
     },
     {
         "name": "RTT Kit Pack",
-        "description": "Ce mod rend disponibles les 33 profils du module de conversion [[Return To Trademeet]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
+        "description": "Ce mod rend disponibles les 33 profils du module de conversion [[Return to Trademeet]]. Quelques exemples ? Allez, c'est parti : Amazone, Gladiateur, Samourai (guerriers), Anti-paladin, Messie et Paladin noir (paladins) ; Gardien du temps et Élémentaliste (rôdeurs) ; Ninja et Chasseur de trésors (voleurs) ; Conteur, Jongleur et Maître des golems (bardes), Druide de l'ombre, et bien d'autres.",
         "urls": [
             "http://www.shsforums.net/files/file/51-return-to-trademeet-kit-pack/",
             "https://github.com/Plutonium-X/KIT_RTT"
@@ -32508,7 +32508,7 @@
         "tp2": ""
     },
     {
-        "name": "Secret of Bone Hill (EET)",
+        "name": "Secret of Bone Hill",
         "description": "Qu'est-ce que Secret of Bone Hill ? Hé bien c'est un gros mod de quête pour BG1 (BGT requis), créé par Sir BillyBob, qui adapte deux scénarios de jeu de rôle papier : L1 et L2 dans l'univers Greyhawk. Au programme : des dizaines de nouvelles cartes, des magasins, des quêtes et un personnage recrutable (Fabio).|L'histoire en elle-même se passe sur l'île de Lendore, à proximité de la ville de Restenford. Pelltar, un mage que vous rencontrez dans le temple de Lathandre au chapitre 4 (dès que vous avez fini les mines de Nashkel et que vous pouvez vous rendre au camp des bandits), sera à même de vous y téléporter et de vous en sortir, une fois votre aide apportée au village.|La 1ère partie est pré-requise pour débloquer la 2nde que vous pourrez atteindre après votre sortie des catacombes de Château-Suif. Vous rencontrerez là Fabio (un barde humain) ou Pelltar qui vous demanderont de retourner à Restenford avec eux, pour élucider cette fois-ci un mystérieux meurtre...",
         "urls": [
             "http://www.shsforums.net/files/file/1076-the-secret-of-bonehill/",
@@ -32547,7 +32547,7 @@
         ],
         "status": "active",
         "last_update": "2024-11",
-        "tp2": "BoneHillEET"
+        "tp2": "BoneHill"
     },
     {
         "name": "The Sellswords MOD for Baldur's Gate II",
@@ -33296,7 +33296,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Ce mod nécessite l'installation du mod [[Geomantic Sorcerer kit]]."
+            "Attention : Ce mod nécessite l'installation du mod [[Geomantic Sorcerer Kit]]."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -33392,7 +33392,7 @@
     },
     {
         "name": "TobEx AfterLife",
-        "description": "Il s'agit d'une version personnalisée de [[TobEx]] v26/v28 tirée du mod [[BG2 Improved GUI]] d'Insomniator, mais qui n'active que les corrections et ajustements de TobEx.|Même s'il n'est pas incompatible avec ToBEx puisqu'il s'installe parfaitement après TobEX, préférez-lui le mod [[BG2 Improved GUI]] qui installe une version complète de ce patch.",
+        "description": "Il s'agit d'une version personnalisée de [[TobEx]] v26/v28 tirée du mod [[BG2 Improved GUI]] d'Insomniator, mais qui n'active que les corrections et ajustements de TobEx.|Même s'il n'est pas incompatible avec ToBEx puisqu'il s'installe parfaitement après TobEx, préférez-lui le mod [[BG2 Improved GUI]] qui installe une version complète de ce patch.",
         "urls": [
             "http://www.shsforums.net/files/file/1274-tobex-afterlife/",
             "https://github.com/SpellholdStudios/TobEx_AfterLife"
@@ -33546,7 +33546,7 @@
     },
     {
         "name": "Tortured Soul",
-        "description": "Le concepteur d'origine a poursuivi le développement du mod dans une version stand-alone, avec moults remaniements de textes. Cependant, bien que compatible avec [[Baldurdash-WeiDU]] 1.75 (obligatoire) et avec les autres mods de Vlad que sont Keldorn's Romance (fortement recommandé) et [[Never Ending Journey]]3 (obligatoire), elle est incompatible avec la plupart des mods WeiDU y compris le [[BG2 Fixpack]] !",
+        "description": "Le concepteur d'origine a poursuivi le développement du mod dans une version stand-alone, avec moults remaniements de textes. Cependant, bien que compatible avec [[Baldurdash-WeiDU]] 1.75 (obligatoire) et avec les autres mods de Vlad que sont Keldorn's Romance (fortement recommandé) et [[Never Ending Journey]]3 (obligatoire), elle est incompatible avec la plupart des mods WeiDU y compris le [[BG2 FixPack]] !",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394"
         ],
@@ -33994,7 +33994,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
+            "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's Kitpack]] du même auteur."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -34592,7 +34592,7 @@
         ],
         "team": [],
         "notes": [
-            "Il est obsolète depuis qu'il a été inclus dans le mod [[I Hate Undead Kitpack]] du même auteur."
+            "Il est obsolète depuis qu'il a été inclus dans le mod [[I Hate Undead]] du même auteur."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -34905,7 +34905,7 @@
         "team": [],
         "notes": [
             "Ce mod est devenu obsolète depuis son intégration dans le mod [[Expanded Classes and Kits]].",
-            "Peut être remplacé par [[Improved Archer]] d'Argent77."
+            "Peut être remplacé par [[Improved Archer Kit]] d'Argent77."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -35398,7 +35398,7 @@
     },
     {
         "name": "Verr'Sza (BG2EE)",
-        "description": "Ce mod amène Verr'Sza, le compagnon rakshasa, dans Baldur's Gate 2. C'est une continuation du mod [[Verr'Sza BG:EE]], du même auteur. Cependant, si les mods ont été écrits pour permettre la poursuite du partenariat entre l'Enfant de Bhaal et Verr'Sza, il est possible de démarrer une toute nouvelle relation avec Verr'Sza, au lieu de continuer le contenu de BG.|Verr'Sza est un rôdeur maléfique ; pas toujours très préoccupé par la loi des hommes. Il est pragmatique, et suit les règles qu'il s'est lui-même fixées et son idée de la façon dont les choses doivent être faites. Pourtant, il s'intéresse aussi à l'apprentissage. Il n'est pas grossier. Il n'est pas imprudent, même s'il n'est pas un exemple de patience, il comprend que certaines questions nécessitent différents types d'actions et d'attitudes. Le mod inclut la romance (pour les enfants de Bhaal, quel que soit leur sexe), qui peut différer légèrement, selon que vous poursuivez ou non votre romance depuis BG1.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes.",
+        "description": "Ce mod amène Verr'Sza, le compagnon rakshasa, dans Baldur's Gate 2. C'est une continuation du mod [[Verr'Sza (BG1EE)]], du même auteur. Cependant, si les mods ont été écrits pour permettre la poursuite du partenariat entre l'Enfant de Bhaal et Verr'Sza, il est possible de démarrer une toute nouvelle relation avec Verr'Sza, au lieu de continuer le contenu de BG.|Verr'Sza est un rôdeur maléfique ; pas toujours très préoccupé par la loi des hommes. Il est pragmatique, et suit les règles qu'il s'est lui-même fixées et son idée de la façon dont les choses doivent être faites. Pourtant, il s'intéresse aussi à l'apprentissage. Il n'est pas grossier. Il n'est pas imprudent, même s'il n'est pas un exemple de patience, il comprend que certaines questions nécessitent différents types d'actions et d'attitudes. Le mod inclut la romance (pour les enfants de Bhaal, quel que soit leur sexe), qui peut différer légèrement, selon que vous poursuivez ou non votre romance depuis BG1.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes.",
         "urls": [
             "https://downloads.weaselmods.net/download/verrsza-bg2ee/"
         ],
@@ -35423,7 +35423,7 @@
     },
     {
         "name": "Verr'Sza (BG1EE)",
-        "description": "Verr'Sza est un chasseur rakshasa d'alignement mauvais que l'on peut recruter à l'auberge de Brasamical. Le mod est compatible avec Siege of Dragonspear et dispose de contenu propre à cette extension, ainsi qu'en rapport avec le mod [[Sirene NPC]].|Il comprend quelques quêtes, ainsi qu'une romance pour les personnages masculins et féminins (la seule condition est de ne pas être d'alignement loyal bon). Bien qu'il s'agisse techniquement d'une romance, Verr'Sza n'est pas un personnage très romantique. Il s'agit plutôt de le faire vous respecter et de ne pas essayer de le lier de quelque façon que ce soit. Il peut être protecteur à sa manière tordue et brutale.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes.",
+        "description": "Verr'Sza est un chasseur rakshasa d'alignement mauvais que l'on peut recruter à l'auberge de Brasamical. Le mod est compatible avec Siege of Dragonspear et dispose de contenu propre à cette extension, ainsi qu'en rapport avec le mod [[Sirene NPC for BG:EE]].|Il comprend quelques quêtes, ainsi qu'une romance pour les personnages masculins et féminins (la seule condition est de ne pas être d'alignement loyal bon). Bien qu'il s'agisse techniquement d'une romance, Verr'Sza n'est pas un personnage très romantique. Il s'agit plutôt de le faire vous respecter et de ne pas essayer de le lier de quelque façon que ce soit. Il peut être protecteur à sa manière tordue et brutale.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes.",
         "urls": [
             "https://downloads.weaselmods.net/download/verrsza-bg1ee/"
         ],
@@ -35629,7 +35629,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Attention : ce mod est obsolète depuis son intégration dans le [[Glam's NPC Pack]]."
+            "Attention : ce mod est obsolète depuis son intégration dans le [[Glam NPC Pack]]."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -35866,7 +35866,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : il est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
+            "Attention : il est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's Kitpack]] du même auteur."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -36063,7 +36063,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's kitpack]] du même auteur."
+            "Ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's Kitpack]] du même auteur."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -36283,7 +36283,7 @@
     },
     {
         "name": "Wheels of Prophecy",
-        "description": "Ce petit mod tente d'apporter un peu moins de linéarité et des opportunités rôlistes différentes dans ToB, et notamment le chapitre 9. Plus besoin d'attendre d'en avoir décousu avec Sendaï et Abazigal pour pouvoir entrer dans le monastère de Balthazar. Les dialogues de ces 3 protagonistes s'adapteront alors en conséquence à vos choix de jeu. Des dialogues supplémentaires avec Amélissane et Elminster ont été ajoutés, et ceux avec Carras, Saemon, Faheed, Zahee, et Le Solaire modifiés. Bien que le mod ne soit pas présenté comme un challenge tactique, il ajoute quelques rencontres supplémentaires pendant vos négociations avec les membres de la Main. Enfin, il inclut le mini-mod [[Restored Tob Heads]] (restaure une conversation avec les visages de pierre dans la forêt du Nord), et de manière plus générale ajoute de petites modifications pour implémenter du contenu qui ne l'est pas dans le jeu original (notamment avec les contrebandiers d'Amkethran).",
+        "description": "Ce petit mod tente d'apporter un peu moins de linéarité et des opportunités rôlistes différentes dans ToB, et notamment le chapitre 9. Plus besoin d'attendre d'en avoir décousu avec Sendaï et Abazigal pour pouvoir entrer dans le monastère de Balthazar. Les dialogues de ces 3 protagonistes s'adapteront alors en conséquence à vos choix de jeu. Des dialogues supplémentaires avec Amélissane et Elminster ont été ajoutés, et ceux avec Carras, Saemon, Faheed, Zahee, et Le Solaire modifiés. Bien que le mod ne soit pas présenté comme un challenge tactique, il ajoute quelques rencontres supplémentaires pendant vos négociations avec les membres de la Main. Enfin, il inclut le mini-mod [[Restored ToB Heads]] (restaure une conversation avec les visages de pierre dans la forêt du Nord), et de manière plus générale ajoute de petites modifications pour implémenter du contenu qui ne l'est pas dans le jeu original (notamment avec les contrebandiers d'Amkethran).",
         "urls": [
             "https://www.gibberlings3.net/files/file/971-wheels-of-prophecy/",
             "https://github.com/Gibberlings3/WheelsOfProphecy"
@@ -39165,7 +39165,7 @@
     },
     {
         "name": "SubtleD's Spell Tweaks",
-        "description": "Ce mod est un regroupement des tweaks de subtledoctor que l'on peut retrouver dans d'autres mods de cet auteur comme [[Scales of Balance]], [[Tome and Blood]] ou encore [[SubtleDoctor's Random Tweak]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod.",
+        "description": "Ce mod est un regroupement des tweaks de subtledoctor que l'on peut retrouver dans d'autres mods de cet auteur comme [[Scales of Balance]], [[Tome and Blood]] ou encore [[SubtleDoctor's Random Tweaks]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/37238-subtlemods-subtleds-spell-tweaks/",
             "https://github.com/subtledoctor/SubtleD_Spell_Tweaks"
@@ -41476,7 +41476,7 @@
     },
     {
         "name": "Nalia At Last",
-        "description": "Enfin la suite de la romance de Nalia pour ToB. Ce mod est compatible avec [[De'Arnise Romance]] même si ce dernier n'est pas obligatoire. Il rajoute plusieurs dialogues, des flirts et des banters supplémentaires avec les autres personnages BioWare.",
+        "description": "Enfin la suite de la romance de Nalia pour ToB. Ce mod est compatible avec [[de'Arnise Romance]] même si ce dernier n'est pas obligatoire. Il rajoute plusieurs dialogues, des flirts et des banters supplémentaires avec les autres personnages BioWare.",
         "urls": [
             "https://skitias-stories.com/mods-view.php?name=Nalia%20At%20Last",
             "https://forums.beamdog.com/discussion/86653/",
