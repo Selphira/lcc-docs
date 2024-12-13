@@ -173,7 +173,7 @@ class Mod:
             )
         if self.status == "archived":
             auto_notes.append(
-                "Ce mod a été archivé par son auteur qui ne semble pas vouloir lui donner suite."
+                "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite."
             )
         elif self.status == "wip":
             auto_notes.append("Ce mod est toujours en cours de réalisation.")
