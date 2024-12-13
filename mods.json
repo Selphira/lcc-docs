@@ -24432,8 +24432,8 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Pleasure & Pain Kits for BG2:EE and EET",
-        "description": "Ce mod ajoute trois nouveaux profils dans le jeu : Courtisan (voleur), Serial Killer (voleur) et Geisha (barde).",
+        "name": "Pleasure & Pain Kits",
+        "description": "Ce mod ajoute trois nouveaux kits dans le jeu :|`Courtisan` (voleur), `Serial Killer` (voleur) et `Geisha` (barde).",
         "urls": [
             "http://www.shsforums.net/files/file/1242-pleasure-pain-kits-for-bg-eet/"
         ],
@@ -24448,11 +24448,15 @@
             "Lassal"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Certains contenus sont explicites, notamment pour le kit `Courtesan`."
+        ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
-        "status": "active",
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
         "last_update": "2018-09",
         "tp2": ""
     },
@@ -40972,7 +40976,7 @@
     },
     {
         "name": "Sir Neh'taniel",
-        "description": "Neh'taniel est un paladin qui possède son propre kit. Il possède sa voix et peut être romancé par des hommes d'alignement bon. Il dispose d'une quête et son épée a la particularité de pouvoir dialoguer.",
+        "description": "Neh'taniel est un paladin qui possède son propre kit. Il possède sa voix et peut être romancé par des hommes d'alignement bon. Il dispose d'une quête et son épée a la particularité de pouvoir dialoguer.|FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19",
         "urls": [
             "https://www.nexusmods.com/baldursgate2ee/mods/60"
         ],
@@ -40988,7 +40992,6 @@
         ],
         "team": [],
         "notes": [
-            "FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19",
             "La compatibilité EET n'est pas testée."
         ],
         "translation_state": "no",
@@ -44081,7 +44084,7 @@
             "https://github.com/Endarire/Mercenaries-of-the-Sword-Coast-for-EET"
         ],
         "categories": [
-            "Personnage recrutable"
+            "PNJ recrutable"
         ],
         "games": [
             "BGEE",
@@ -44104,5 +44107,306 @@
         "status": "wip",
         "last_update": "2017-10",
         "tp2": ""
+    },
+    {
+        "name": "Caelar's Fall",
+        "description": "Il s'agit d'une démo d'un mod destiné à faire de Caelar Argent un PNJ joignable.|Pour que Caelar Argent vous rejoigne, vous devez tuer Belhifet avant elle.",
+        "urls": [
+            "http://www.shsforums.net/files/file/1212-caelars-fall/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "Lassal"
+        ],
+        "team": [],
+        "notes": [
+            "Incompatible avec [[Shine On Caelar]]."
+        ],
+        "translation_state": "no",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2018-07",
+        "tp2": ""
+    },
+    {
+        "name": "Wilson spider transformation",
+        "description": "Ce mod complète la transformation du groupe en drow par Adalon, en lui permettant de transformer l'ours Wilson en araignée.",
+        "urls": [
+            "https://github.com/badungu/Wilson_spider_transformation"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "badungu"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod est incompatible avec le composant `No Drow Avatars On Party In Underdark` de [[The Tweaks Anthology]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2017-06",
+        "tp2": "wilsonudspid"
+    },
+    {
+        "name": "SkitiaBG2RomanceTweaks",
+        "description": "Ce mod ajuste les romances originales de BG2 pour qu'elles soient un peu moins dures lorsque vous vous séparez d'un compagnon romancé pendant un certain temps. Il apporte des modifications notamment pour les romances de Aerie, Anomen, Viconia et Jaheira.",
+        "urls": [
+            "https://github.com/Skitia/SkitiaBG2RomanceTweaks"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "Skitia"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru",
+            "it"
+        ],
+        "status": "active",
+        "last_update": "2023-03",
+        "tp2": "SkitiaRomanceTweak"
+    },
+    {
+        "name": "Dualadins - Paladins can dual-class",
+        "description": "Ce mod propose de lever des restrictions du moteur jeu qui empêche les Paladins d'être multiclassé. Même l'utilisation d'éditeurs de sauvegardes entraînait un plantage du jeu.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/75",
+            "https://github.com/DataForInfinity/Sword-Coast-Infinity"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "AvA"
+        ],
+        "team": [],
+        "notes": [
+            "Peut avoir des incompatibilités avec [[Dual to Kit]]."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en",
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2024-09",
+        "tp2": "SCI-Dualadins"
+    },
+    {
+        "name": "Inventor",
+        "description": "Ce mod introduit un nouveau kit pour le voleur. Il est légèrement inspiré du jeu Arcanum : Of Steamworks and Magick Obscura. Les inventeurs sont des voleurs qui se sont consacrés à l'étude des sciences et de l'artisanat. Avec l'expérience, ils peuvent créer et développer des inventions de plus en plus complexes, que l'on peut qualifier de synthétiques et d'avant-gardistes compte tenu des réalités du royaume. Souvent inspirés par les doctrines de Gond, ils peuvent créer de véritables chefs-d'œuvre techniques à partir de tout ce qu'ils rencontrent au cours de leurs voyages. Seuls les gnomes peuvent devenir des inventeurs.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/82"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [],
+        "authors": [
+            "Ruffle_truffle"
+        ],
+        "team": [],
+        "notes": [
+            "Le lien semble avoir disparu de nexusmod pour l'instant car considéré comme suspicieux."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [],
+        "status": "missing",
+        "last_update": "2024-12",
+        "tp2": ""
+    },
+    {
+        "name": "Phase Spider Kit",
+        "description": "Le kit de l'araignée de phase est un kit très étrange disponible pour n'importe quelle classe de base. Essentiellement, ce kit transforme votre personnage en Araignée de phase, qui peut lancer Porte dimensionnelle à volonté. Le kit de l'Araignée de phase est accompagné d'une variété d'autres bonus (y compris un effet constant d'Enchaînement !), mais souffre également de quelques inconvénients très sévères pour l'équilibrer (y compris une immunité aux bonus de vitesse d'incantation de l'Amulette de puissance et de la Robe de Vecna).",
+        "urls": [
+            "http://www.shsforums.net/topic/58328-phase-spider-kit/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2",
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "semiticgod"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2015-09",
+        "tp2": "PhaseSpiderKit"
+    },
+    {
+        "name": "Witcher soundsets for Infinity Engine games",
+        "description": "Soundsets pour les jeux infinity engine, mettant en scène les personnages des jeux Witcher.",
+        "urls": [
+            "https://github.com/ColossusChang/witcher-infinity-soundsets"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "ColossusChang"
+        ],
+        "team": [],
+        "notes": [
+            "Compatibilité BGT/EET non testée."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-11",
+        "tp2": ""
+    },
+    {
+        "name": "Soundset for the enhanced edition Infinity Engine games",
+        "description": "",
+        "urls": [
+            "https://github.com/Boooof/Zapp-Brannigan-Soundset"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Boooof"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-12",
+        "tp2": ""
+    },
+    {
+        "name": "No SoD Sounds Mod for SoD and EET",
+        "description": "Ce mods permet aux NPCs vanilla de garder leurs sons BG1 originaux pendant SoD.|Cela concerne uniquement : Dynaheir, Minsc, Khalid, Edwin, Safan, Viconia.",
+        "urls": [
+            "https://github.com/thisisulb/NoSoDSound"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "Ulb"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2019-01",
+        "tp2": "NoSoDSound"
+    },
+    {
+        "name": "AI Portraits for Dark Horizons Mod Main NPC",
+        "description": "Ce mod propose 11 portraits pour Nikita.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88752/portraits-ai-portraits-for-dark-horizons-mod-main-npc#latest"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2EE",
+            "BGEE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Babalooch23"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-09",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Ensrick Portraits",
+        "description": "Ce mod propose des portraits alternatifs de qualité pour les personnages BG puis un bon nombre utilisables pour le protagoniste.",
+        "urls": [
+            "https://github.com/dark0dave/ensrick_portraits"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "EET",
+            "BG2EE",
+            "BGEE"
+        ],
+        "authors": [
+            "ensrick"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2023-12",
+        "tp2": "ensrick_portraits"
     }
 ]
