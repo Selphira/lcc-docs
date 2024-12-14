@@ -32802,7 +32802,7 @@
     },
     {
         "name": "The Undying",
-        "description": "Ce mod ajoute deux PNJ, Callisto T'sarran (elfe femme berserker neutre mauvaise) et Ninafer (elfe guerrière/mage loyale neutre). De nouvelles rencontres en rapport avec la quête de Callisto (anciennement [[Desecration of Souls]]), sept nouveaux magasins, trois nouvelles quêtes, banters et interjections sont également au programme.",
+        "description": "Ce mod ajoute deux PNJ, Callisto T'sarran (elfe femme berserker neutre mauvaise) et [[Ninafer]] (elfe guerrière/mage loyale neutre). De nouvelles rencontres en rapport avec la quête de Callisto (anciennement [[Desecration of Souls]]), sept nouveaux magasins, trois nouvelles quêtes, banters et interjections sont également au programme.",
         "urls": [
             "http://downloads.chosenofmystra.net/bg2/TheUndying2_53.rar",
             "https://github.com/Endarire/The-Undying-Mod-for-BG2EE-EET"
@@ -34527,27 +34527,39 @@
         "tp2": ""
     },
     {
-        "name": "Umbra of TROW - Arena v1.0",
-        "description": "Cet ancien mod chinois organisait des combats d'arène contre de puissantes créatures extra planaires. Le but était simple : vaincre ou mourir ! Son lien de téléchargement a disparu.",
+        "name": "Umbra of TROW - Arena",
+        "description": "Cet ancien mod chinois organisait des combats d'arène contre de puissantes créatures extra planaires. Le but était simple : vaincre ou mourir ! Le combat contre le grand maître est le seul qui peut vous rapporter des objets.|Quelques puissants objets sont également en vente.",
         "urls": [
-            "https://trow.cc/board/index.php?showtopic=13329"
+            "https://trow.cc/board/index.php?showtopic=13329",
+            "https://github.com/Plutonium-X/FIGHT_Umbra_Of_T.R.O.W"
         ],
         "categories": [
             "Quête"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
-        "authors": [],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
-        "safe": 1,
-        "languages": [],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "authors": [
+            "inthel"
+        ],
+        "team": [
+            "deratiseur"
+        ],
+        "notes": [
+            "Le lien a disparu du forum officiel et n'est désormais téléchargeable que via le lien github."
+        ],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "cn",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "UoT"
     },
     {
         "name": "Unarmed Adjustments",
@@ -44473,5 +44485,41 @@
         "status": "wip",
         "last_update": "2024-11",
         "tp2": "TheEnemyWithin"
+    },
+    {
+        "name": "Ninafer",
+        "description": "Ninafer est une guerrière/mage loyal neutre disponible à la Couronne de Cuivre et créée dans la forge chosenofmystra.|Elle dispose d'un anneau magique innamovible très puissant ainsi qu'une épée performante.|Elle dispose de peu de banters et est entièrement vocalisée en anglais.|Ce mod ajoute également deux marchands, l'un dans le quartier du Temple, l'autre à Franc-Marché.|FOR 15, DEX 19, CON 12, INT 18, SAG 9, CHA 11.",
+        "urls": [
+            "https://davelevy.info/wiki/ninafer-a-bg1-mod/",
+            "https://github.com/Plutonium-X/1D_NPC_Ninafer"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Melkor"
+        ],
+        "team": [
+            "deratiseur"
+        ],
+        "notes": [
+            "Seul le lien github est compatible avec les versions EE.",
+            "Elle est également disponible dans le mod [[The Undying]]."
+        ],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "nina"
     }
 ]
