@@ -2,6 +2,7 @@
 document.addEventListener("DOMContentLoaded", () => {
   document.querySelector("#search-text").value = ""
   document.querySelector("#translation-all").checked = true
+  document.querySelector("#quality-all").checked = true
   document.querySelector("#game-all").checked = true
   document.querySelector("#category-all").checked = true
   updateCategoryCount()
@@ -21,6 +22,7 @@ function filterMod() {
   let modByName = filterByName(mods)
   let modByGame = filterByGame(mods)
   let modByTranslation = filterByTranslation(mods)
+  let modByQuality = filterByQuality(mods)
   let modsFiltered = mods
 
   if (modByName !== null) {
@@ -31,6 +33,9 @@ function filterMod() {
   }
   if (modByTranslation !== null) {
     modsFiltered = modByTranslation.filter(elt => new Set(modsFiltered).has(elt))
+  }
+  if (modByQuality !== null) {
+    modsFiltered = modByQuality.filter(elt => new Set(modsFiltered).has(elt))
   }
 
   mods.forEach(mod => mod.classList.add("hidden"))
@@ -76,6 +81,14 @@ function filterByTranslation(mods) {
     return null
   }
   return Array.from(mods).filter(mod => mod.querySelector(".icons").textContent.includes(currentTranslation))
+}
+
+function filterByQuality(mods) {
+  const currentQuality = document.querySelector("#quality-select input:checked").value
+  if (currentQuality == "") {
+    return null
+  }
+  return Array.from(mods).filter(mod => mod.querySelector(".icons").textContent.includes(currentQuality))
 }
 
 function filterByCategory() {

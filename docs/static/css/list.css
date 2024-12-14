@@ -252,6 +252,7 @@ label {
 
 #search .search_game_items input:checked~label,
 #search_translate input:checked~label,
+#search_quality input:checked~label,
 #search .search_category_items input:checked~label {
     border: 1px solid var(--color-primary);
     background-color: #000;
@@ -259,7 +260,8 @@ label {
 
 #search_game input,
 #search_category input,
-#search_translate input {
+#search_translate input,
+#search_quality input {
     display: none;
 }
 

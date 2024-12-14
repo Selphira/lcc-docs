@@ -280,7 +280,46 @@
                 </div>
         </div>
     </div>
-
+    <div id="search_quality">
+        <fieldset id="quality-select">
+            <legend>
+                <h3>Qualité du mod</h3>
+            </legend>
+            <div>
+                <input type="radio"
+                       id="quality-all"
+                       name="quality"
+                       value=""
+                       oninput="filterMod()"
+                       checked />
+                <label for="quality-all">Tous</label>
+            </div>
+                <div>
+                    <input type="radio"
+                           id="quality-1"
+                           name="quality"
+                           value="🟢"
+                           oninput="filterMod()" />
+                    <label for="quality-1">🟢 Mod de qualité</label>
+                </div>
+                <div>
+                    <input type="radio"
+                           id="quality-2"
+                           name="quality"
+                           value="🟡"
+                           oninput="filterMod()" />
+                    <label for="quality-2">🟡 Mod pouvant poser des problèmes</label>
+                </div>
+                <div>
+                    <input type="radio"
+                           id="quality-3"
+                           name="quality"
+                           value="🔴"
+                           oninput="filterMod()" />
+                    <label for="quality-3">🔴 Mod à éviter ou obsolète</label>
+                </div>
+        </fieldset>
+    </div>
     <div id="search_text">
         <h3>Nom :</h3>
         <input id="search-text"

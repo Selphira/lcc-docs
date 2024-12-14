@@ -19,9 +19,10 @@ Cette version propose plusieurs améliorations techniques notables :
 * Script de génération de la page `index.html`
 * Les mods peuvent être dans plusieurs catégories
 * Du responsive (un tableau ça a des limites)
-* Une facilité de lecteure accrue (taille de police, des images etc)
+* Une facilité de lecture accrue (taille de police, des images etc)
 * Modification aisée de la structure de la donnée (et des mods qui vont avec)
 * Filtre par nom
+* Filtre par qualité de mod
 * …
 
 ## Limites

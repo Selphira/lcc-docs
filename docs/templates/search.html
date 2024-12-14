@@ -55,7 +55,32 @@
             {% endfor %}
         </div>
     </div>
-
+    <div id="search_quality">
+        <fieldset id="quality-select">
+            <legend>
+                <h3>Qualité du mod</h3>
+            </legend>
+            <div>
+                <input type="radio"
+                       id="quality-all"
+                       name="quality"
+                       value=""
+                       oninput="filterMod()"
+                       checked />
+                <label for="quality-all">Toutes</label>
+            </div>
+            {% for icon_data in attrs_icon_data.safe.values() %}
+                <div>
+                    <input type="radio"
+                           id="quality-{{ loop.index }}"
+                           name="quality"
+                           value="{{ icon_data.icon }}"
+                           oninput="filterMod()" />
+                    <label for="quality-{{ loop.index }}">{{ icon_data.icon }} {{ icon_data.label }}</label>
+                </div>
+            {% endfor %}
+        </fieldset>
+    </div>
     <div id="search_text">
         <h3>Nom :</h3>
         <input id="search-text"
