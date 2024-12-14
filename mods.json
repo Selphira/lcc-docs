@@ -37165,10 +37165,10 @@
     },
     {
         "name": "Yikari",
-        "description": "Ce mod ajoute un nouveau PNJ, un moine qui possède sa propre quête ainsi que des interactions avec chaque personnage. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe. Un aperçu de ses caractéristiques : FOR 16, DEX 18, CON 14, INT 8, SAG 19 et CHA 4.",
+        "description": "Ce mod ajoute un nouveau PNJ, un moine qui possède sa propre quête ainsi que des interactions avec chaque personnage. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe. Un aperçu de ses caractéristiques : FOR 16, DEX 18, CON 14, INT 8, SAG 18 et CHA 4.",
         "urls": [
             "http://www.shsforums.net/files/file/34-yikari-v-17/",
-            "http://www.shedplant.net/assets/bg2mods/Yikari-v1.7.exe"
+            "https://www.spellholdstudios.net/ie/yikari/"
         ],
         "categories": [
             "PNJ One Day"
@@ -44521,5 +44521,62 @@
         "status": "active",
         "last_update": "2024-12",
         "tp2": "nina"
+    },
+    {
+        "name": "Golden Horse Mercenary Company",
+        "description": "Ce mod introduit un PNJ recrutable, Revan Artecratos, avec une histoire, de nouveaux objets et des rencontres. De plus, plusieurs PNJ mineurs sont disponibles à la location en tant que mercenaires.|La classe du personnage peut être choisie par des composants, les choix sont : Assassin/Mage, Voleur/Mage ou Guerrier/Mage/Voleur.|FOR 14, DEX 16, CON 15, INT 16, SAG 15, CHA 15.",
+        "urls": [
+            "https://github.com/Spellhold-Studios/Golden-Horse"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "svj"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-10",
+        "tp2": "golden_horse"
+    },
+    {
+        "name": "Iylos NPC",
+        "description": "Iylos Mirdan est originaire d'Amkethran, une ville du désert proche de la frontière du Téthyr. C'est un homme très sérieux au premier abord, mais une seconde montre qu'il a un sens de l'humour ironique et légèrement tordu qui ne correspond pas exactement à l'idée que l'on se fait d'un moine. Il se bat de manière offensive et agressive, cherchant les faiblesses de l'adversaire avant de l'éliminer le plus rapidement et le plus efficacement possible, et possède un tempérament quelque peu acariâtre. Iylos est un moine envoyé par Balthazar, il viendra vous rencontrer à Saradush.|FOR 16, DEX 17, CON 14, INT 15, SAG 12, CHA 14.",
+        "urls": [
+            "https://www.spellholdstudios.net/ie/iylos/",
+            "https://github.com/Spellhold-Studios/Iylos-NPC"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "K'aeloree"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2021-12",
+        "tp2": "iylos"
     }
 ]
