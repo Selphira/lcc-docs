@@ -25,7 +25,7 @@
     },
     {
         "name": "3.5 Edition / Pathfinder style Tweaks Collection",
-        "description": "Il s'agit d'une collection de mini mods écrits par Redbane pour appliquer certaines règles de AD&amp;D 3.5e et Pathfinder dans les jeux IE. Elle comprend pour l'instant trois volets :|- Modification de la table de progression des TAC0.|- Harmonisation de la table de progression des bonus de PV selon la Constitution.|- Dés de vie plus élevés pour les mages, sorciers, voleurs et bardes.|- Rééquilibrage des styles d'arme.",
+        "description": "Il s'agit d'une collection de mini mods écrits par Redbane pour appliquer certaines règles de AD&D 3.5e et Pathfinder dans les jeux IE. Elle comprend pour l'instant trois volets :|- Modification de la table de progression des TAC0.|- Harmonisation de la table de progression des bonus de PV selon la Constitution.|- Dés de vie plus élevés pour les mages, sorciers, voleurs et bardes.|- Rééquilibrage des styles d'arme.",
         "urls": [
             "http://www.shsforums.net/topic/59169-35-edition-pathfinder-style-tweaks-collection-thac0-constitution",
             "https://forums.beamdog.com/discussion/63741/"
@@ -53,7 +53,7 @@
     },
     {
         "name": "3.5e Pathfinder Thac0 Progression",
-        "description": "Ce mini mod modifie la table de progression des TAC0 pour correspondre à celles de A&amp;D 3.5e et Pathfinder. Celle des guerriers reste inchangée, mais celles des voleurs et des prêtres avancent d'un point par niveau pendant 3 niveaux, puis restent stables le niveaux suivant, et ainsi de suite, jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). Celle des mages avance maintenant de 1 tous les deux niveaux jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). La table THAC0.2da s'étend jusqu'au niveau 50. Nouvelle table <a href=\"http://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29456\">ici</a>.",
+        "description": "Ce mini mod modifie la table de progression des TAC0 pour correspondre à celles de A&D 3.5e et Pathfinder. Celle des guerriers reste inchangée, mais celles des voleurs et des prêtres avancent d'un point par niveau pendant 3 niveaux, puis restent stables le niveaux suivant, et ainsi de suite, jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). Celle des mages avance maintenant de 1 tous les deux niveaux jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). La table THAC0.2da s'étend jusqu'au niveau 50. Nouvelle table <a href=\"http://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29456\">ici</a>.",
         "urls": [
             "http://www.shsforums.net/files/file/1172-35epathfinder-thac0-progression/"
         ],
@@ -111,7 +111,7 @@
     },
     {
         "name": "3.5e Weapon Style Rebalance",
-        "description": "Ce mod rééquilibre les quatre compétences de \"style d'arme\" pour les rendre plus conformes à leur fonctionnement dans AD&amp;D 3.5 et Pathfinder, et pour corriger le déséquilibre assez important entre les styles d'armes dans BG2, dans lequel investir 2 étoiles dans tout autre style que \"2 armes\" était plutôt inutile et le double maniement presque toujours la construction optimale pour un guerrier. Il propose les 5 composants optionnels suivants :|- Rééquilibrage des styles de combat (3.5 Édition) : deux étoiles suffisent à obtenir la spécialisation maximale, presque toutes les classes peuvent placer au moins un point de compétence dans chaque style.|- Styles d'armes étendus pour les non-guerriers : permet aux voleurs et aux bardes d'investir 2 points dans le style à deux armes et le style à une arme.|- Les bâtons ne peuvent pas effectuer d'attaques sournoises.|- Les rôdeurs n'ont pas de pénalité de toucher en main gauche.|- Mise à jour de la cape de Montolio : pour être en harmonie avec le composant précédent.",
+        "description": "Ce mod rééquilibre les quatre compétences de \"style d'arme\" pour les rendre plus conformes à leur fonctionnement dans AD&D 3.5 et Pathfinder, et pour corriger le déséquilibre assez important entre les styles d'armes dans BG2, dans lequel investir 2 étoiles dans tout autre style que \"2 armes\" était plutôt inutile et le double maniement presque toujours la construction optimale pour un guerrier. Il propose les 5 composants optionnels suivants :|- Rééquilibrage des styles de combat (3.5 Édition) : deux étoiles suffisent à obtenir la spécialisation maximale, presque toutes les classes peuvent placer au moins un point de compétence dans chaque style.|- Styles d'armes étendus pour les non-guerriers : permet aux voleurs et aux bardes d'investir 2 points dans le style à deux armes et le style à une arme.|- Les bâtons ne peuvent pas effectuer d'attaques sournoises.|- Les rôdeurs n'ont pas de pénalité de toucher en main gauche.|- Mise à jour de la cape de Montolio : pour être en harmonie avec le composant précédent.",
         "urls": [
             "https://forums.beamdog.com/discussion/69412/",
             "http://www.shsforums.net/files/file/1205-35-edition-weapon-style-rebalance/"
@@ -140,7 +140,7 @@
     },
     {
         "name": "5E-style spellcasting",
-        "description": "Ce mod a pour ambition de remplacer les mécanismes de lancement de sorts des jeux IE par les règles de D&amp;D 5e (lancement de sort\" \"semi-instantané\" ). Plus d'informations <a href=\"https://github.com/UnearthedArcana/5E_spellcasting/blob/master/README.md\" i=\"\">ici</a>",
+        "description": "Ce mod a pour ambition de remplacer les mécanismes de lancement de sorts des jeux IE par les règles de D&D 5e (lancement de sort\" \"semi-instantané\" ). Plus d'informations <a href=\"https://github.com/UnearthedArcana/5E_spellcasting/blob/master/README.md\" i=\"\">ici</a>",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32551-5e-spellcasting-rules-conversion/",
             "https://github.com/UnearthedArcana/5E_spellcasting/"
@@ -1749,7 +1749,7 @@
     },
     {
         "name": "Apprentice",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : Apprentice (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil d'expert en épées.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : Apprentice (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil d'expert en épées.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -1837,7 +1837,7 @@
     },
     {
         "name": "Arcane Archer",
-        "description": "Ce mod adapte la classe de prestige d'Archer-mage de D&amp;D3 comme profil de guerrier pour Baldur's Gate II. Réservé aux elfes, il permet de créer des flèches spéciales.",
+        "description": "Ce mod adapte la classe de prestige d'Archer-mage de D&D3 comme profil de guerrier pour Baldur's Gate II. Réservé aux elfes, il permet de créer des flèches spéciales.",
         "urls": [
             "http://www.shsforums.net/files/file/994-arcane-archer/"
         ],
@@ -1892,7 +1892,7 @@
     },
     {
         "name": "Arcane Fist",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), Arcane Fist (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de moine/mage.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), Arcane Fist (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de moine/mage.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -2832,7 +2832,7 @@
     },
     {
         "name": "Authentic Mischievous Fairy Dragon",
-        "description": "Ce mod vous propose de prendre comme familier un dragon fée, un peu renforcé et surtout plus proche dans l'esprit de l'original d'AD&amp;D : il dispose d'un potentiel de farces et mauvais tours assez important. Vous allez certainement vous amuser, vos adversaires beaucoup moins... Ce familier n'apparaitra que pour un magicien chaotique bon, si bien sûr il ne possède pas encore de familier.",
+        "description": "Ce mod vous propose de prendre comme familier un dragon fée, un peu renforcé et surtout plus proche dans l'esprit de l'original d'AD&D : il dispose d'un potentiel de farces et mauvais tours assez important. Vous allez certainement vous amuser, vos adversaires beaucoup moins... Ce familier n'apparaitra que pour un magicien chaotique bon, si bien sûr il ne possède pas encore de familier.",
         "urls": [
             "http://www.shsforums.net/files/file/141-authentic-mischievous-fairy-dragon/",
             "https://github.com/Plutonium-X/MISC_Fairy"
@@ -2995,7 +2995,7 @@
     },
     {
         "name": "Ayden Project",
-        "description": "Ayden est avant tout un mod PNJ, mais il est livré avec un ensemble de composants supplémentaires :|- Profil de Warlock pour la classe des voleurs, basée sur la classe Warlock de la troisième édition de D&amp;D. |- Ayden NPC : un PNJ recrutable avec ses propres dialogues, badinages et quêtes.|- Marche dans l'ombre : une capacité permettant de réduire la vitesse de déplacement.|- L'abri d'Ayden : un plan de poche où le groupe peut se reposer et stocker des objets.|- Création d'objets : un système simple de création d'objets, sous forme de dialogue avec le PNJ.|- Baguettes pour les voleurs : permet l'utilisation des baguettes pour tous les profils de voleur.|- Compétences des voleurs : tous les profils de voleurs peuvent utiliser des masses et des lances.|Le projet Ayden est toujours en cours de développement. N'oubliez pas de vérifier le site pour télécharger sa dernière version.",
+        "description": "Ayden est avant tout un mod PNJ, mais il est livré avec un ensemble de composants supplémentaires :|- Profil de Warlock pour la classe des voleurs, basée sur la classe Warlock de la troisième édition de D&D. |- Ayden NPC : un PNJ recrutable avec ses propres dialogues, badinages et quêtes.|- Marche dans l'ombre : une capacité permettant de réduire la vitesse de déplacement.|- L'abri d'Ayden : un plan de poche où le groupe peut se reposer et stocker des objets.|- Création d'objets : un système simple de création d'objets, sous forme de dialogue avec le PNJ.|- Baguettes pour les voleurs : permet l'utilisation des baguettes pour tous les profils de voleur.|- Compétences des voleurs : tous les profils de voleurs peuvent utiliser des masses et des lances.|Le projet Ayden est toujours en cours de développement. N'oubliez pas de vérifier le site pour télécharger sa dernière version.",
         "urls": [
             "https://keneth-dev.github.io/bgee-ayden/",
             "https://forums.beamdog.com/discussion/82847/"
@@ -5084,7 +5084,7 @@
     },
     {
         "name": "Below & Below Inn",
-        "description": "Ce mod ajoute un nouveau lieu dans IWD:EE : l'Auberge Dessous &amp; Dessous. Vous y trouverez de nombreux services : endroit pour vous reposer entre les batailles, de nouveaux objets sympa, du travail... Dans Kuldahar, l'écrivain vous indiquera où la trouver.",
+        "description": "Ce mod ajoute un nouveau lieu dans IWD:EE : l'Auberge Dessous & Dessous. Vous y trouverez de nombreux services : endroit pour vous reposer entre les batailles, de nouveaux objets sympa, du travail... Dans Kuldahar, l'écrivain vous indiquera où la trouver.",
         "urls": [
             "https://downloads.weaselmods.net/download/below-below-inn/"
         ],
@@ -6358,7 +6358,7 @@
     },
     {
         "name": "Card kit",
-        "description": "Ce mod ajoute un nouveau profil de voleur inspiré du Maître des cartes de AD&amp;D 3.5e, et dont de nombreuses capacités ont été reprises du Tisseur de sorts du mod [[Wild Mage Additions]].",
+        "description": "Ce mod ajoute un nouveau profil de voleur inspiré du Maître des cartes de AD&D 3.5e, et dont de nombreuses capacités ont été reprises du Tisseur de sorts du mod [[Wild Mage Additions]].",
         "urls": [
             "https://forums.beamdog.com/discussion/36342/"
         ],
@@ -7101,7 +7101,7 @@
     },
     {
         "name": "gMinion",
-        "description": "Il s'agit d'une collection de scripts d'IA qui améliorent l'intelligence des créatures invoquées par les sorts et les objets, de sorte qu'elles se comportent plus en accord avec les intentions originales de Bioware et de plus de puristes joueurs D&amp;D. Elle comprend :|- des fichiers BCS (Baldurs Character Script) qui remplacent les fichiers BCS en jeu.|- des scripts BCS qui remplacent les invocations alliées.|- des fichiers auxiliaires qui corrigent les problèmes avec les créatures et les sorts (fichiers CRE et SPL).|Remarque : L'IA ne s'applique qu'aux monstres du groupe et n'augmente pas l'intelligence des créatures \"sauvages\" ou ennemies.|Veuillez consulter le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-gminion.html\">readme</a> pour plus détails.",
+        "description": "Il s'agit d'une collection de scripts d'IA qui améliorent l'intelligence des créatures invoquées par les sorts et les objets, de sorte qu'elles se comportent plus en accord avec les intentions originales de Bioware et de plus de puristes joueurs D&D. Elle comprend :|- des fichiers BCS (Baldurs Character Script) qui remplacent les fichiers BCS en jeu.|- des scripts BCS qui remplacent les invocations alliées.|- des fichiers auxiliaires qui corrigent les problèmes avec les créatures et les sorts (fichiers CRE et SPL).|Remarque : L'IA ne s'applique qu'aux monstres du groupe et n'augmente pas l'intelligence des créatures \"sauvages\" ou ennemies.|Veuillez consulter le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-gminion.html\">readme</a> pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/717-cirerreks-ai-scripts-gminion/"
         ],
@@ -7182,7 +7182,7 @@
     },
     {
         "name": "Cirerrek's AI Scripts: uScript",
-        "description": "uScript ou \"Universal\" Script est un script d'IA pour joueur de BG2 SoA &amp; ToB créé par Rich Martel. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le <a href=\"https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html\">readme</a> pour plus détails.",
+        "description": "uScript ou \"Universal\" Script est un script d'IA pour joueur de BG2 SoA & ToB créé par Rich Martel. Il peut être utilisé par n'importe quelle classe de personnage.|Veuillez consulter le <a href=\"https://gibberlings3.github.io/Documentation/readmes/uScript-readme.html\">readme</a> pour plus détails.",
         "urls": [
             "https://www.gibberlings3.net/files/file/894-cirerreks-ai-scripts-uscript/"
         ],
@@ -7231,7 +7231,7 @@
     },
     {
         "name": "Classic Adventures",
-        "description": "Décliné en une série de volets et d'ajouts divers, ce mod propose de démarrer l'aventure au niveau 1 dans une citadelle dont il faut nettoyer les occupants maléfiques. Suit un deuxième chapitre, et peu à peu le module se complète. Il s'agit également d'inclure de nombreuses règles respectueuses du système AD&amp;D 2. Vous pouvez également consulter son <a href=\"http://classicadventuresmod.com/\">nouveau site officiel</a> pour en apprendre plus à son sujet.",
+        "description": "Décliné en une série de volets et d'ajouts divers, ce mod propose de démarrer l'aventure au niveau 1 dans une citadelle dont il faut nettoyer les occupants maléfiques. Suit un deuxième chapitre, et peu à peu le module se complète. Il s'agit également d'inclure de nombreuses règles respectueuses du système AD&D 2. Vous pouvez également consulter son <a href=\"http://classicadventuresmod.com/\">nouveau site officiel</a> pour en apprendre plus à son sujet.",
         "urls": [
             "http://www.shsforums.net/files/file/916-classic-adventures-053/"
         ],
@@ -8255,7 +8255,7 @@
     },
     {
         "name": "Crusader",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), Crusader (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de paladin.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), Crusader (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de paladin.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -9063,7 +9063,7 @@
     },
     {
         "name": "Deities of Faerûn",
-        "description": "Ce mod a pour vocation d'importer dans les jeux EE l'ensemble des divinités de Féérune et de leur assigner à chacune un profil aussi proche que possible de leur version P&amp;P. Il utilise un système de 25 sphères et propose pour l'instant 53 profils. Des composants optionnels permettent de les assigner à des PNJ recrutables du jeu et de mods.",
+        "description": "Ce mod a pour vocation d'importer dans les jeux EE l'ensemble des divinités de Féérune et de leur assigner à chacune un profil aussi proche que possible de leur version P&P. Il utilise un système de 25 sphères et propose pour l'instant 53 profils. Des composants optionnels permettent de les assigner à des PNJ recrutables du jeu et de mods.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30780-kit-pack-deities-of-faer%C3%BBn-bgee-bg2ee-iwdee-and-eet/",
             "https://github.com/Raduziel/Deities-Of-Faerun"
@@ -9634,7 +9634,7 @@
     },
     {
         "name": "Baldur's Gate DnD 3.5",
-        "description": "Ce mod s'efforce de remplacer les règles des jeux EE (AD&amp;D2) par celles utilisés par D&amp;D 3.5 (avec quelques éléments de Pathfinder) dans la limite de ce que permet le moteur.",
+        "description": "Ce mod s'efforce de remplacer les règles des jeux EE (AD&D2) par celles utilisés par D&D 3.5 (avec quelques éléments de Pathfinder) dans la limite de ce que permet le moteur.",
         "urls": [
             "https://forums.beamdog.com/discussion/66842/",
             "https://github.com/Holic75/Baldurs-gate-dnd-3.5"
@@ -9850,7 +9850,7 @@
     },
     {
         "name": "Dragon Dancer",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), Dragon Dancer (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de guerrier.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), Dragon Dancer (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de guerrier.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -10038,7 +10038,7 @@
     },
     {
         "name": "Drizzt & Friends Tweak",
-        "description": "Ce mod redonne à Drizzt et ses amis leurs caractéristiques originales de AD&amp;D. De plus, il remplace certaines de leurs armes trop puissantes et en renomme d'autres pour que Malchor Harpell ne les récupère plus.",
+        "description": "Ce mod redonne à Drizzt et ses amis leurs caractéristiques originales de AD&D. De plus, il remplace certaines de leurs armes trop puissantes et en renomme d'autres pour que Malchor Harpell ne les récupère plus.",
         "urls": [
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=190"
         ],
@@ -10060,7 +10060,7 @@
     },
     {
         "name": "Drizzt AD&D Stats",
-        "description": "Ce mod redonne à Drizzt ses caractéristiques originales de AD&amp;D. Pour ceux qui ne supportent pas son statut de \"demi-dieu\" in-tuable.",
+        "description": "Ce mod redonne à Drizzt ses caractéristiques originales de AD&D. Pour ceux qui ne supportent pas son statut de \"demi-dieu\" in-tuable.",
         "urls": [
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=183"
         ],
@@ -11019,7 +11019,7 @@
     },
     {
         "name": "Eldritch Magic",
-        "description": "Inspiré par le Manuel complet des elfes, les elfes d'Éternelle rencontre et d'autres manuels de AD&amp;D2, ce mod ajoute 15 profils dans les jeux EE : Abyssal Warrior (guerrier), Bladesinger (guerrier/mage ou barde), Collector (guerrier/mage/voleur), Eldritch Knight (guerrier/mage), Elven Minstrel (mage/voleur), Herbalist (clerc), Huntsman (guerrier/voleur), Infiltrator (guerrier/mage/voleur), Priest of Mystra (clerc/mage), Priestess of Lolth (clerc), Spellfilcher (mage/voleur), Undead Hunter (paladin), War Wizard (guerrier/mage), Wilderness Runner (rôdeur) et Windrider (guerrier).|Un composant optionnel permet de porter plusieurs pierres ioniques en même temps.",
+        "description": "Inspiré par le Manuel complet des elfes, les elfes d'Éternelle rencontre et d'autres manuels de AD&D2, ce mod ajoute 15 profils dans les jeux EE : Abyssal Warrior (guerrier), Bladesinger (guerrier/mage ou barde), Collector (guerrier/mage/voleur), Eldritch Knight (guerrier/mage), Elven Minstrel (mage/voleur), Herbalist (clerc), Huntsman (guerrier/voleur), Infiltrator (guerrier/mage/voleur), Priest of Mystra (clerc/mage), Priestess of Lolth (clerc), Spellfilcher (mage/voleur), Undead Hunter (paladin), War Wizard (guerrier/mage), Wilderness Runner (rôdeur) et Windrider (guerrier).|Un composant optionnel permet de porter plusieurs pierres ioniques en même temps.",
         "urls": [
             "https://forums.beamdog.com/discussion/49591/",
             "https://github.com/AbdelAdrian/Eldritch_Magic/"
@@ -11049,7 +11049,7 @@
     },
     {
         "name": "Elementalist Kit",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist Kit (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist Kit (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -11294,7 +11294,7 @@
     },
     {
         "name": "Enhanced BG2",
-        "description": "À l'origine, le contenu de ce mod polonais devait faire partie d'un projet plus important, mais qui n'a jamais été terminé. Il apporte plusieurs modifications au jeu, sensées le rendre plus attrayant. Il contient plusieurs composants :|- sur la Promenade de Waukyne, le marchand ambulant Alyoud vend 7 objets magiques puissants.|- ajout et modification d'interactions entre personnages.|- ajout de tomes et de manuels dans des contenants vides ou sans intérêt.|- Donjon d'Irenicus : il est possible de négocier avec le génie pour obtenir la cape de Baldurien.|- ajout de nouveaux portraits pour votre personnage.|- restauration de descriptions d'objets manquantes (Plate Mail +3 : 'The Practical Defense', Sling +3 : 'Arla's Dragonbane').|- bonus aux sets d'objets : un personnage équipé de tous les objets draconiques forgés par Wormsor ou de l'équipement de Baldurien reçoit des bonus supplémentaires.|- ajout de 5 nouvelles races ennemies : gnoll, squelette, wiverne, yuan-ti et zombie.|- ajout de 10 profils dont certains proviennent des classes de prestige de AD&amp;D3 : guerrier (Chevalier, Duelliste, Gladiateur, Légionnaire), rôdeur (Globe-trotter), paladin (Croisé, Terreur des liches, Tueur de dragon), voleur (Tueur silencieux) et clerc (Prêtresse d'Aurile).|- diverses modifications mineures dans le Donjon d'Irenicus.",
+        "description": "À l'origine, le contenu de ce mod polonais devait faire partie d'un projet plus important, mais qui n'a jamais été terminé. Il apporte plusieurs modifications au jeu, sensées le rendre plus attrayant. Il contient plusieurs composants :|- sur la Promenade de Waukyne, le marchand ambulant Alyoud vend 7 objets magiques puissants.|- ajout et modification d'interactions entre personnages.|- ajout de tomes et de manuels dans des contenants vides ou sans intérêt.|- Donjon d'Irenicus : il est possible de négocier avec le génie pour obtenir la cape de Baldurien.|- ajout de nouveaux portraits pour votre personnage.|- restauration de descriptions d'objets manquantes (Plate Mail +3 : 'The Practical Defense', Sling +3 : 'Arla's Dragonbane').|- bonus aux sets d'objets : un personnage équipé de tous les objets draconiques forgés par Wormsor ou de l'équipement de Baldurien reçoit des bonus supplémentaires.|- ajout de 5 nouvelles races ennemies : gnoll, squelette, wiverne, yuan-ti et zombie.|- ajout de 10 profils dont certains proviennent des classes de prestige de AD&D3 : guerrier (Chevalier, Duelliste, Gladiateur, Légionnaire), rôdeur (Globe-trotter), paladin (Croisé, Terreur des liches, Tueur de dragon), voleur (Tueur silencieux) et clerc (Prêtresse d'Aurile).|- diverses modifications mineures dans le Donjon d'Irenicus.",
         "urls": [
             "http://baldur.cob-bg.pl/download/bg2/multi/Enhanced_BG2_v1.1.rar"
         ],
@@ -11483,7 +11483,7 @@
     },
     {
         "name": "Epic Endeavors",
-        "description": "Cette conversion totale de Shadows of Amn respecte les règles d'AD&amp;D 2 mais mélange les genres en multipliant les clins d'œil à des jeux ou à des films.|L'histoire se déroule dans un monde imaginaire n'ayant aucun rapport avec les Royaumes Oubliés. Vous êtes à la tête d'une petite unité de commandos devant accomplir une série de missions, certaines particulièrement originales, visant à empêcher un fou furieux de régner sur votre monde. Le jeu se déroule au fil des missions qu'on vous confie, avant de partir pour le grand combat final.|Le mod rajoute de nombreuses nouvelles créatures et de nouveaux objets, 60 cartes, 13 grandes quêtes, 20 heures environ de temps de jeu rajouté, et un combat final assez redoutable à ce qu'il parait, avec 200 créatures à combattre... Le jeu a une grande dimension tactique (impossible de foncer dans le tas...).|Il s'agit d'un mod WeiDU, ce qui signifie qu'il est désinstallable/installable facilement et compatible avec Throne of Bhaal ce qui n'était pas le cas dans la version originale. Il faut une installation propre de SoA avec ou sans ToB (sans autre mod, seulement le patch officiel et éventuellement un des patches non officiels). Vous pouvez néanmoins installer, après [[Epic Endeavors]], des mods \"mineurs\" influant sur les règles du jeu comme le BG2 Tweaks, mais tout mod ajoutant du contenu (PNJ, quêtes, ...) sera inutile et incompatible.",
+        "description": "Cette conversion totale de Shadows of Amn respecte les règles d'AD&D 2 mais mélange les genres en multipliant les clins d'œil à des jeux ou à des films.|L'histoire se déroule dans un monde imaginaire n'ayant aucun rapport avec les Royaumes Oubliés. Vous êtes à la tête d'une petite unité de commandos devant accomplir une série de missions, certaines particulièrement originales, visant à empêcher un fou furieux de régner sur votre monde. Le jeu se déroule au fil des missions qu'on vous confie, avant de partir pour le grand combat final.|Le mod rajoute de nombreuses nouvelles créatures et de nouveaux objets, 60 cartes, 13 grandes quêtes, 20 heures environ de temps de jeu rajouté, et un combat final assez redoutable à ce qu'il parait, avec 200 créatures à combattre... Le jeu a une grande dimension tactique (impossible de foncer dans le tas...).|Il s'agit d'un mod WeiDU, ce qui signifie qu'il est désinstallable/installable facilement et compatible avec Throne of Bhaal ce qui n'était pas le cas dans la version originale. Il faut une installation propre de SoA avec ou sans ToB (sans autre mod, seulement le patch officiel et éventuellement un des patches non officiels). Vous pouvez néanmoins installer, après [[Epic Endeavors]], des mods \"mineurs\" influant sur les règles du jeu comme le BG2 Tweaks, mais tout mod ajoutant du contenu (PNJ, quêtes, ...) sera inutile et incompatible.",
         "urls": [
             "http://www.shsforums.net/files/file/45-epic-endeavors/"
         ],
@@ -11599,7 +11599,7 @@
     },
     {
         "name": "Ethereal Blademaster",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), Ethereal Blademaster (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), Ethereal Blademaster (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -12383,7 +12383,7 @@
     },
     {
         "name": "FinnJO's Subrace",
-        "description": "Ce mod ajoute dans le jeu des sous-races basées en partie sur les règles D&amp;D de la 3e édition, comme dans Icewind Dale II, et en partie sur les règles AD&amp;D de la 2e édition. Après avoir créé un personnage et démarré une nouvelle partie (ou chargé une ancienne), une boîte de dialogue apparaîtra avec la possibilité de sélectionner une sous-race de votre personnage parmi les suivantes : aasimar, tiefelin, genasi (d'air, d'eau, de feu et de terre), nain (arctique, d'or, des montagnes, duergar), elfe (drow, lunaire, sauvage, solaire et sylvain) ainsi que les demi-elfes correspondants, gnome des roches, svirfneblin, halfelin (costaud, pieds-velus et ghostwise). Un composant permet aussi de modifier la sous-race de certains PNJ.",
+        "description": "Ce mod ajoute dans le jeu des sous-races basées en partie sur les règles D&D de la 3e édition, comme dans Icewind Dale II, et en partie sur les règles AD&D de la 2e édition. Après avoir créé un personnage et démarré une nouvelle partie (ou chargé une ancienne), une boîte de dialogue apparaîtra avec la possibilité de sélectionner une sous-race de votre personnage parmi les suivantes : aasimar, tiefelin, genasi (d'air, d'eau, de feu et de terre), nain (arctique, d'or, des montagnes, duergar), elfe (drow, lunaire, sauvage, solaire et sylvain) ainsi que les demi-elfes correspondants, gnome des roches, svirfneblin, halfelin (costaud, pieds-velus et ghostwise). Un composant permet aussi de modifier la sous-race de certains PNJ.",
         "urls": [
             "http://downloads.chosenofmystra.net/bg2/FinnjoBGII_Subrace.rar"
         ],
@@ -13003,7 +13003,7 @@
     },
     {
         "name": "Gambler",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), Gambler (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), Gambler (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -13447,7 +13447,7 @@
     },
     {
         "name": "Geomantic Sorcerer Kit",
-        "description": "Ce mod s'inspire largement du [[Druidic Sorcerer Kit]], réalisé par Constant Gaw, et est librement adapté de la classe de prestige de la 3ème édition D&amp;D : le Géomancien. Le profil combine les sorts et méthodes d'incantation du sorcier, avec des sorts, capacités et caractéristiques druidiques. De plus, il utilise ses propres sorts et HLA. Le mod dispose également d'options permettant de sélectionner des portraits spécifiques pour le Géomancien, comme pour les métamorphoses dont il se servira : ours, chat, chien, léopard, orignal, panthère, rat, serpent et loup.",
+        "description": "Ce mod s'inspire largement du [[Druidic Sorcerer Kit]], réalisé par Constant Gaw, et est librement adapté de la classe de prestige de la 3ème édition D&D : le Géomancien. Le profil combine les sorts et méthodes d'incantation du sorcier, avec des sorts, capacités et caractéristiques druidiques. De plus, il utilise ses propres sorts et HLA. Le mod dispose également d'options permettant de sélectionner des portraits spécifiques pour le Géomancien, comme pour les métamorphoses dont il se servira : ours, chat, chien, léopard, orignal, panthère, rat, serpent et loup.",
         "urls": [
             "https://www.gibberlings3.net/files/file/716-geomantic-sorcerer-kit/",
             "https://github.com/Gibberlings3/Geomantic_Sorcerer"
@@ -15451,7 +15451,7 @@
     },
     {
         "name": "IWD2 Bonus Merchant",
-        "description": "Ce mod ajoute un nouveau marchand dans IWD2. Il s'agit de Ribald Barterman qui vend plusieurs objets extraits de BG2. Vous le trouverez à Targos (poste de commerce Galaway) et à Kuldahar (forgeron Conway).|Vous pourrez ainsi vous procurer des armes très bourrines, à des prix très élevés : Le fléau de l'éternité, la lame de lune de Solaufein, l'Égaliseur, l'armure de Jan, celle de Keldorn, celle de Valygar, le katana de Valygar, l'arc court de Gesen, l'épée courte d'Arvoreen, etc. Tout ça disponible dans IWD2, adapté aux règles D&amp;D3.",
+        "description": "Ce mod ajoute un nouveau marchand dans IWD2. Il s'agit de Ribald Barterman qui vend plusieurs objets extraits de BG2. Vous le trouverez à Targos (poste de commerce Galaway) et à Kuldahar (forgeron Conway).|Vous pourrez ainsi vous procurer des armes très bourrines, à des prix très élevés : Le fléau de l'éternité, la lame de lune de Solaufein, l'Égaliseur, l'armure de Jan, celle de Keldorn, celle de Valygar, le katana de Valygar, l'arc court de Gesen, l'épée courte d'Arvoreen, etc. Tout ça disponible dans IWD2, adapté aux règles D&D3.",
         "urls": [
             "https://weidu.org/iwd2.html"
         ],
@@ -17952,7 +17952,7 @@
     },
     {
         "name": "Kensai Kit Revision Mod",
-        "description": "Ce mod modifie le profil de Kensaï, selon les règles du manuel des Aventures orientales (AD&amp;D 1ère édition).",
+        "description": "Ce mod modifie le profil de Kensaï, selon les règles du manuel des Aventures orientales (AD&D 1ère édition).",
         "urls": [
             "https://forums.beamdog.com/discussion/41836/",
             "https://github.com/Plutonium-X/KIT_Kensai_Rev"
@@ -17987,7 +17987,7 @@
     },
     {
         "name": "Kensai Ryu's Restored Drow Innates Abilities",
-        "description": "Ce petit mod restaure les capacités innées des elfes noirs prévues par AD&amp;D, mais seulement dans l'Ombreterre : Globe d'obscurité, Globe d'obscurité amélioré, Lueurs dansantes et Feu féerique.",
+        "description": "Ce petit mod restaure les capacités innées des elfes noirs prévues par AD&D, mais seulement dans l'Ombreterre : Globe d'obscurité, Globe d'obscurité amélioré, Lueurs dansantes et Feu féerique.",
         "urls": [
             "http://academia.clandlan.net/?page=academia/view&id=116"
         ],
@@ -18472,7 +18472,7 @@
     },
     {
         "name": "Knights kits",
-        "description": "À l'origine un mod pour BG, ce mod a depuis été récrit pour BG2 et BGT. Il modifie grandement les règles du jeu pour les rapprocher au plus près de celles d'AD&amp;D, notamment en ce qui concerne le personnage, son équipement et le système de magie :|- modification des classes et des races.|- réorganisation du système de magie des prêtres.|- nouveaux sorts divins et profanes.|- plus de 100 nouveaux profils issus des sources officielles d'AD&amp;D. |- modification de la puissance des armes, en fonction de la taille de l'adversaire et ajout de 6 nouveaux types d'armes.|- modification du système d'armure et ajout d'un nouveau type d'armure.",
+        "description": "À l'origine un mod pour BG, ce mod a depuis été récrit pour BG2 et BGT. Il modifie grandement les règles du jeu pour les rapprocher au plus près de celles d'AD&D, notamment en ce qui concerne le personnage, son équipement et le système de magie :|- modification des classes et des races.|- réorganisation du système de magie des prêtres.|- nouveaux sorts divins et profanes.|- plus de 100 nouveaux profils issus des sources officielles d'AD&D. |- modification de la puissance des armes, en fonction de la taille de l'adversaire et ajout de 6 nouveaux types d'armes.|- modification du système d'armure et ajout d'un nouveau type d'armure.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/knights-kits.11/"
         ],
@@ -18904,7 +18904,7 @@
     },
     {
         "name": "Legion of Hell",
-        "description": "Ce mod ajoute cinq nouveaux profils tirés des chapitres interdits (D&amp;D 3e édition) : Disciple de Dispater (guerrier), Disciple de Mammon (voleur), Disciple de Méphistophélès (guerrier), Disciple de Belzébuth (voleur) et Disciple d'Asmodée (prêtre).",
+        "description": "Ce mod ajoute cinq nouveaux profils tirés des chapitres interdits (D&D 3e édition) : Disciple de Dispater (guerrier), Disciple de Mammon (voleur), Disciple de Méphistophélès (guerrier), Disciple de Belzébuth (voleur) et Disciple d'Asmodée (prêtre).",
         "urls": [
             "http://www.shsforums.net/topic/55145-bwp-v112-released/page-6#entry557184",
             "https://www.mediafire.com/file/383n6bzz0lmnzla/LOHMod.zip/file"
@@ -19303,7 +19303,7 @@
     },
     {
         "name": "Light of Selune",
-        "description": "En plus d'apporter de nombreux nouveaux objets (environ 145) et 4 nouveaux marchands (deux à Targos, un dans le Village itinérant et un à Kuldahar), le mod met à jour les classes du rôdeur et du barde afin de les faire correspondre à l'édition 3.5 des règles AD&amp;D (utilisées pour IWD2), améliore la quasi totalité des armures et des boucliers originaux, de même qu'il corrige la prise en charge des dégâts des arcs et ajoute un pré-requis de Force pour pouvoir les utiliser. Les pièges enfin ont été améliorés afin d'être plus coriaces et plus pernicieux (augmentation des dégâts).",
+        "description": "En plus d'apporter de nombreux nouveaux objets (environ 145) et 4 nouveaux marchands (deux à Targos, un dans le Village itinérant et un à Kuldahar), le mod met à jour les classes du rôdeur et du barde afin de les faire correspondre à l'édition 3.5 des règles AD&D (utilisées pour IWD2), améliore la quasi totalité des armures et des boucliers originaux, de même qu'il corrige la prise en charge des dégâts des arcs et ajoute un pré-requis de Force pour pouvoir les utiliser. Les pièges enfin ont été améliorés afin d'être plus coriaces et plus pernicieux (augmentation des dégâts).",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/le-monastere-du-corbeau-noir-icewind-dale-2/31236-traduction-du-mod-Light-selune.html"
         ],
@@ -19524,7 +19524,7 @@
     },
     {
         "name": "Lost Crossroads Spellpack",
-        "description": "Ce mod améliore certains sortilèges dans le jeu, pour les rapprocher de leur version AD&amp;D papier ou simplement leur donner plus de logique (par exemple, la Sphère d'Otiluke peut être lancée sur un allié ou le mage lui-même sans qu'il doive rater son jet de sauvegarde). Par ailleurs, il améliore considérablement leurs effets graphiques. Ce mod est en version beta, donc attention aux bugs éventuels. N'hésitez pas à consulter le <a href=\"http://galactygon.blackwyrmlair.net/SpellPack/README.html\">readme</a> qui recense les sortilèges modifiés.",
+        "description": "Ce mod améliore certains sortilèges dans le jeu, pour les rapprocher de leur version AD&D papier ou simplement leur donner plus de logique (par exemple, la Sphère d'Otiluke peut être lancée sur un allié ou le mage lui-même sans qu'il doive rater son jet de sauvegarde). Par ailleurs, il améliore considérablement leurs effets graphiques. Ce mod est en version beta, donc attention aux bugs éventuels. N'hésitez pas à consulter le <a href=\"http://galactygon.blackwyrmlair.net/SpellPack/README.html\">readme</a> qui recense les sortilèges modifiés.",
         "urls": [
             "http://forums.blackwyrmlair.net/index.php?showtopic=98&st=257#"
         ],
@@ -19882,7 +19882,7 @@
     },
     {
         "name": "Made in Heaven - Encounters & Quests",
-        "description": "Ce mod permet de rendre un peu plus épicées les rencontres dans BG:EE et BG2:EE, et devrait être compatible avec BG2 original, BGT et EET. Il modifie diverses rencontres et quêtes, et en ajoute même de nouvelles, accorde de nouvelles capacités P&amp;P à certains monstres (dragons, golems, liches, lycanthropes, vampires, morts-vivants incorporels...). Il en profite pour modifier certaines quêtes, voire les étendre. Il fait partie de la série \"Made in Heaven\" (avec les objets, les sorts et les tweaks).",
+        "description": "Ce mod permet de rendre un peu plus épicées les rencontres dans BG:EE et BG2:EE, et devrait être compatible avec BG2 original, BGT et EET. Il modifie diverses rencontres et quêtes, et en ajoute même de nouvelles, accorde de nouvelles capacités P&P à certains monstres (dragons, golems, liches, lycanthropes, vampires, morts-vivants incorporels...). Il en profite pour modifier certaines quêtes, voire les étendre. Il fait partie de la série \"Made in Heaven\" (avec les objets, les sorts et les tweaks).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/29992-my-new-made-in-heaven-mods/",
             "https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests/"
@@ -20964,7 +20964,7 @@
     },
     {
         "name": "Mod Popurrí",
-        "description": "Inspiré du mod [[Tactics]], ce \"Pot-pourri\" de corrections de règles AD&amp;D propose toute une série de modifications et améliorations pour BG2 et ToB : nouveaux scripts, rencontres plus difficiles, deux nouveaux profils (Gardien de la Forêt pour les elfes druides et Nain protecteur), boss et quêtes plus coriaces...",
+        "description": "Inspiré du mod [[Tactics]], ce \"Pot-pourri\" de corrections de règles AD&D propose toute une série de modifications et améliorations pour BG2 et ToB : nouveaux scripts, rencontres plus difficiles, deux nouveaux profils (Gardien de la Forêt pour les elfes druides et Nain protecteur), boss et quêtes plus coriaces...",
         "urls": [
             "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/Popurri"
         ],
@@ -21222,7 +21222,7 @@
     },
     {
         "name": "Monk Tweak",
-        "description": "Ce mini-mod devait implémenter la règle D&amp;D, inutilisée par jeu, selon laquelle les moines avec une grande sagesse reçoivent des bonus de classe d'armure. Ils devaient donc recevoir un bonus à la CA identique à celui conféré par la table de Dextérité.",
+        "description": "Ce mini-mod devait implémenter la règle D&D, inutilisée par jeu, selon laquelle les moines avec une grande sagesse reçoivent des bonus de classe d'armure. Ils devaient donc recevoir un bonus à la CA identique à celui conféré par la table de Dextérité.",
         "urls": [
             "http://www.shsforums.net/files/file/155-monk-tweak/"
         ],
@@ -22615,7 +22615,7 @@
     },
     {
         "name": "Ninja Kit mod",
-        "description": "Ce mod ajoute le profil de Ninja, basé sur les règles des Aventures orientales de D&amp;D 3e édition.",
+        "description": "Ce mod ajoute le profil de Ninja, basé sur les règles des Aventures orientales de D&D 3e édition.",
         "urls": [
             "https://forums.beamdog.com/discussion/44011/"
         ],
@@ -23445,7 +23445,7 @@
     },
     {
         "name": "PnP Improved invisibility",
-        "description": "Ce petit mod attribue à tous les sorts utilisant l'invisibilité majeure les règles papier de D&amp;D 2e édition.",
+        "description": "Ce petit mod attribue à tous les sorts utilisant l'invisibilité majeure les règles papier de D&D 2e édition.",
         "urls": [
             "https://forums.beamdog.com/discussion/39063/"
         ],
@@ -25149,7 +25149,7 @@
     },
     {
         "name": "Pseudo 3E Conversion Pack",
-        "description": "Ce mod propose une collection d'ajustements permettant d'établir les règles de jeu de D&amp;D 3e édition dans IWD : bonus et pénalités raciales, restriction des alignements pour les rôdeurs, les bardes et les druides, modifications des effets des caractéristiques des personnages sur le TAC0, les dégâts, la CA, le nombre de PV, modification de la table de progression de niveau...",
+        "description": "Ce mod propose une collection d'ajustements permettant d'établir les règles de jeu de D&D 3e édition dans IWD : bonus et pénalités raciales, restriction des alignements pour les rôdeurs, les bardes et les druides, modifications des effets des caractéristiques des personnages sur le TAC0, les dégâts, la CA, le nombre de PV, modification de la table de progression de niveau...",
         "urls": [
             "https://sorcerers.net/Games/IWD/index_mods.php"
         ],
@@ -25173,7 +25173,7 @@
     },
     {
         "name": "Psionics Unleashed",
-        "description": "Toujours en version beta, ce mod a pour but d'ajouter un système complet de gestion psionique (classe, IA, effets...) basé sur les règles D&amp;D 3.5. Plus de détails dans le <a href=\"http://www.shsforums.net/topic/55711-readme/\">readme</a> et sur les <a href=\"http://www.shsforums.net/topic/55713-psionic-power-list/\">capacités psioniques</a>.",
+        "description": "Toujours en version beta, ce mod a pour but d'ajouter un système complet de gestion psionique (classe, IA, effets...) basé sur les règles D&D 3.5. Plus de détails dans le <a href=\"http://www.shsforums.net/topic/55711-readme/\">readme</a> et sur les <a href=\"http://www.shsforums.net/topic/55713-psionic-power-list/\">capacités psioniques</a>.",
         "urls": [
             "http://www.shsforums.net/files/file/1037-psionics-unleashed/"
         ],
@@ -25655,7 +25655,7 @@
     },
     {
         "name": "Recargador",
-        "description": "Votre visite de la Promenade de Waukyne ne serait pas complète sans rencontrer Victor Cacgomval, un mage clerc capable de recharger des objets magiques avant qu'ils ne soient réduits en poussière, comme il est possible de faire dans les manuels P&amp;P. ",
+        "description": "Votre visite de la Promenade de Waukyne ne serait pas complète sans rencontrer Victor Cacgomval, un mage clerc capable de recharger des objets magiques avant qu'ils ne soient réduits en poussière, comme il est possible de faire dans les manuels P&P. ",
         "urls": [
             "http://www.shsforums.net/files/file/847-recargador-v23/"
         ],
@@ -26745,7 +26745,7 @@
     },
     {
         "name": "Rogue Rebalancing",
-        "description": "Ce mod modifie le gameplay pour Baldur's Gate 2: Throne of Bhaal et s'efforce de rapprocher les classes de roublard (bardes et voleurs) et leurs profils respectifs de leurs homologues P&amp;P d'AD&amp;D. Il comprend plusieurs composants qui peuvent tous être installés séparément et sont complètement indépendants les uns des autres.|RR met à jour les compétences de combat à deux armes des voleurs et des bardes, révise/améliore leurs profils, révise leurs capacités de haut niveau, restaure les ajustements raciaux appropriés pour les capacités de voleur, ainsi que la table de progression des sorts PnP propre aux bardes.|Il empêche les effets des potions de voleur de se cumuler avec la possibilité de les remplacer par des potions de la version papier.|Il rend également beaucoup plus difficile l'affrontement avec la guilde des Voleurs de l'Ombre dans le chapitre 3.|Il ajoute enfin des objets supplémentaires pour les voleurs et les bardes (dans la guilde des voleurs) ainsi qu'une rencontre avec des fidèles de Cyric dans le chapitre 6.",
+        "description": "Ce mod modifie le gameplay pour Baldur's Gate 2: Throne of Bhaal et s'efforce de rapprocher les classes de roublard (bardes et voleurs) et leurs profils respectifs de leurs homologues P&P d'AD&D. Il comprend plusieurs composants qui peuvent tous être installés séparément et sont complètement indépendants les uns des autres.|RR met à jour les compétences de combat à deux armes des voleurs et des bardes, révise/améliore leurs profils, révise leurs capacités de haut niveau, restaure les ajustements raciaux appropriés pour les capacités de voleur, ainsi que la table de progression des sorts PnP propre aux bardes.|Il empêche les effets des potions de voleur de se cumuler avec la possibilité de les remplacer par des potions de la version papier.|Il rend également beaucoup plus difficile l'affrontement avec la guilde des Voleurs de l'Ombre dans le chapitre 3.|Il ajoute enfin des objets supplémentaires pour les voleurs et les bardes (dans la guilde des voleurs) ainsi qu'une rencontre avec des fidèles de Cyric dans le chapitre 6.",
         "urls": [
             "http://www.shsforums.net/files/category/62-rogue-rebalancing/",
             "https://github.com/FredrikLindgren/rr"
@@ -29686,7 +29686,7 @@
     },
     {
         "name": "Spontaneous Casting For Clerics and Druids",
-        "description": "Ce mod permet aux clercs et druides de bénéficier de la capacité d'incantation spontanée de D&amp;D 3e pour les sorts de soins, de blessures et de convocation. Il fonctionne avec BG:EE, BG2:EE, IWD:EE et EET. Il devrait être compatible avec d'autres mods qui ajoutent des sorts et des profils de clercs et druides à condition d'être installé après eux.|Techniquement, il implante trois capacités innées qui, une fois activées, transforment tous les sorts divins mémorisés du lanceur en sorts de soins, de dégâts ou d'invocation de leurs niveaux respectifs. Les clercs bons reçoivent des soins spontanés, les clercs mauvais des blessures spontanées, et les clercs neutres les deux. Les druides reçoivent des invocations spontanées. Cela dure 6 heures ou jusqu'à ce que le sort divin choisi soit lancé, puis tous les sorts sont retransformés.",
+        "description": "Ce mod permet aux clercs et druides de bénéficier de la capacité d'incantation spontanée de D&D 3e pour les sorts de soins, de blessures et de convocation. Il fonctionne avec BG:EE, BG2:EE, IWD:EE et EET. Il devrait être compatible avec d'autres mods qui ajoutent des sorts et des profils de clercs et druides à condition d'être installé après eux.|Techniquement, il implante trois capacités innées qui, une fois activées, transforment tous les sorts divins mémorisés du lanceur en sorts de soins, de dégâts ou d'invocation de leurs niveaux respectifs. Les clercs bons reçoivent des soins spontanés, les clercs mauvais des blessures spontanées, et les clercs neutres les deux. Les druides reçoivent des invocations spontanées. Cela dure 6 heures ou jusqu'à ce que le sort divin choisi soit lancé, puis tous les sorts sont retransformés.",
         "urls": [
             "https://forums.beamdog.com/discussion/29604/",
             "https://github.com/Renegade0/SpontaneousCasting"
@@ -30159,7 +30159,7 @@
     },
     {
         "name": "Surprise",
-        "description": "Ce mod introduit un hybride de deux mécanismes du Manuel du joueur d'AD&amp;D : la surprise et l'embuscade. La plupart des créatures et des personnages peuvent désormais être surpris s'ils tombent soudainement sur un ennemi, et les neutres peuvent également être surpris. Les personnages du groupe peuvent se mettre dans un mode d'attente où ils peuvent surprendre mais ne pas être surpris (embuscade). En outre, les voleurs et les bardes ont la capacité de détecter les bruits, ce qui leur permet parfois de discerner des créatures au-delà des obstacles et de préparer une embuscade.",
+        "description": "Ce mod introduit un hybride de deux mécanismes du Manuel du joueur d'AD&D : la surprise et l'embuscade. La plupart des créatures et des personnages peuvent désormais être surpris s'ils tombent soudainement sur un ennemi, et les neutres peuvent également être surpris. Les personnages du groupe peuvent se mettre dans un mode d'attente où ils peuvent surprendre mais ne pas être surpris (embuscade). En outre, les voleurs et les bardes ont la capacité de détecter les bruits, ce qui leur permet parfois de discerner des créatures au-delà des obstacles et de préparer une embuscade.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30805-surprise-mod-for-ee/"
         ],
@@ -30378,7 +30378,7 @@
     },
     {
         "name": "Sword and Fist",
-        "description": "À l'origine devant faire partie d'un projet plus vaste, \"Lands of Intrigue\", ce mod propose une révision de la classe de moine afin de la rapprocher de sa version papier de AD&amp;D 3ème du nom, mais rajoute aussi des kits de guerrier :|- Champion occultiste : croisement maléfique entre un guerrier et un magicien et spécialiste notoire dans le lancement de malédictions.|- Duelliste : guerrier vif et intelligent dédaignant les armures lourdes pour une meilleure maîtrise de l'esquive, des réflexes et du combat en général.|- Poing de l'Ordre : guerrier brutal et maléfique, mais néanmoins efficace et loyal.|- Chevalier noir : un combattant avec un background et des aptitudes opposées à celles du paladin.|- Magelame : guerrier qui a appris à lancer des sorts de magie profane en armure.",
+        "description": "À l'origine devant faire partie d'un projet plus vaste, \"Lands of Intrigue\", ce mod propose une révision de la classe de moine afin de la rapprocher de sa version papier de AD&D 3ème du nom, mais rajoute aussi des kits de guerrier :|- Champion occultiste : croisement maléfique entre un guerrier et un magicien et spécialiste notoire dans le lancement de malédictions.|- Duelliste : guerrier vif et intelligent dédaignant les armures lourdes pour une meilleure maîtrise de l'esquive, des réflexes et du combat en général.|- Poing de l'Ordre : guerrier brutal et maléfique, mais néanmoins efficace et loyal.|- Chevalier noir : un combattant avec un background et des aptitudes opposées à celles du paladin.|- Magelame : guerrier qui a appris à lancer des sorts de magie profane en armure.",
         "urls": [
             "https://www.gibberlings3.net/files/file/890-sword-and-fist/"
         ],
@@ -31003,7 +31003,7 @@
     },
     {
         "name": "Taunt Spell",
-        "description": "Ce mod ajoute un petit sort d'enchantement présent dans la 1ère édition d'AD&amp;D, tiré d'un numéro de 1983 du magazine Dragon. Il ne change en rien la donne, et son effet est similaire à celui du sort de PsT. Il obligera les ennemis affectés à poursuivre le lanceur pendant trois rounds, en ignorant le reste du monde. Le mod comprend aussi une version de Charme personne sans jet de sauvegarde et accessible aux ensorceleurs : elle transforme les cibles en alliés.",
+        "description": "Ce mod ajoute un petit sort d'enchantement présent dans la 1ère édition d'AD&D, tiré d'un numéro de 1983 du magazine Dragon. Il ne change en rien la donne, et son effet est similaire à celui du sort de PsT. Il obligera les ennemis affectés à poursuivre le lanceur pendant trois rounds, en ignorant le reste du monde. Le mod comprend aussi une version de Charme personne sans jet de sauvegarde et accessible aux ensorceleurs : elle transforme les cibles en alliés.",
         "urls": [
             "http://www.shsforums.net/files/file/1151-taunt-spell-for-bgee/"
         ],
@@ -32075,7 +32075,7 @@
     },
     {
         "name": "The Fields of the Dead",
-        "description": "Fields of the Dead est un mod qui étend et met à jour Baldur's Gate Tales of the Sword Coast. Il reprend un grand nombre de règles du jeu pour les rendre aussi proches que possible de celles de la deuxième édition d'AD&amp;D, dans la mesure où l'Infinity Engine le permet. Il s'agit de modifications, mais aussi d'ajouts. Ceci inclut notamment les caractéristiques des créatures et des sorts.|Il ajoute aussi de nouveaux éléments dans le même esprit, aussi bien des créatures que des sorts ou des objets, répartis un peu partout dans le jeu (adversaires, magasins). L'IA a été entièrement revue pour que les adversaires exploitent les possibilités du jeu (coopération, meilleur usage des potions et des sorts).|Les changements affecteront également l'intelligence artificielle de toutes les créatures : ennemis et alliés.|Enfin, le mod ajoute une nouvelle zone sur la carte du monde (Battle of Bones) accessible à tout moment, mais il est recommandé de l'explorer avec un groupe expérimenté.",
+        "description": "Fields of the Dead est un mod qui étend et met à jour Baldur's Gate Tales of the Sword Coast. Il reprend un grand nombre de règles du jeu pour les rendre aussi proches que possible de celles de la deuxième édition d'AD&D, dans la mesure où l'Infinity Engine le permet. Il s'agit de modifications, mais aussi d'ajouts. Ceci inclut notamment les caractéristiques des créatures et des sorts.|Il ajoute aussi de nouveaux éléments dans le même esprit, aussi bien des créatures que des sorts ou des objets, répartis un peu partout dans le jeu (adversaires, magasins). L'IA a été entièrement revue pour que les adversaires exploitent les possibilités du jeu (coopération, meilleur usage des potions et des sorts).|Les changements affecteront également l'intelligence artificielle de toutes les créatures : ennemis et alliés.|Enfin, le mod ajoute une nouvelle zone sur la carte du monde (Battle of Bones) accessible à tout moment, mais il est recommandé de l'explorer avec un groupe expérimenté.",
         "urls": [
             "https://www.pocketplane.net/the-fields-of-the-dead/"
         ],
@@ -32468,7 +32468,7 @@
     },
     {
         "name": "The Old Gold",
-        "description": "Ce mod ajoute de nouveaux objets dans le jeu, en s'efforçant d'apporter un sentiment de nostalgie chaleureuse et confortable à ceux qui ont connu les anciens jeux D&amp;D sur PC.",
+        "description": "Ce mod ajoute de nouveaux objets dans le jeu, en s'efforçant d'apporter un sentiment de nostalgie chaleureuse et confortable à ceux qui ont connu les anciens jeux D&D sur PC.",
         "urls": [
             "http://www.shsforums.net/files/file/1201-the-old-gold/"
         ],
@@ -34723,7 +34723,7 @@
     },
     {
         "name": "Undead Warrior",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation &amp; add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et Undead Warrior (par Gafgarion).|Celui-ci installe un profil de guerrier.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et Undead Warrior (par Gafgarion).|Celui-ci installe un profil de guerrier.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -36087,7 +36087,7 @@
     },
     {
         "name": "Warrior kit pack",
-        "description": "Ce mod ajoute sept nouveaux profils, la plupart tirés des classes de prestige de la troisième édition de D&amp;D :|- paladins : Chevalier hospitalier, Chevalier templier et Chevalier religieux.|- guerriers : Archer hors pair (tireur d'élite) et Briseur de hordes.|- rôdeurs : Éclaireur sauvage et Gardien de la forêt.",
+        "description": "Ce mod ajoute sept nouveaux profils, la plupart tirés des classes de prestige de la troisième édition de D&D :|- paladins : Chevalier hospitalier, Chevalier templier et Chevalier religieux.|- guerriers : Archer hors pair (tireur d'élite) et Briseur de hordes.|- rôdeurs : Éclaireur sauvage et Gardien de la forêt.",
         "urls": [
             "http://baldur.cob-bg.pl/download/bg2/kits/Warrior_Kit_Pack_v1.zip"
         ],
@@ -36662,7 +36662,7 @@
     },
     {
         "name": "Will to Power",
-        "description": "Ce mod s'efforce d'ajouter un système psionique inspiré des règles de AD&amp;D2 et quatre profiles qui peuvent l'utiliser : un voleur psion (Psionicist), un guerrier psion (Soublade), un rôdeur psion (Psypher) et un mage psion (Cerebremancer).|Cependant, comme le moteur du jeu n'a pas été conçu pour, ce mod est toujours expérimental, même s'il est activement maintenu. Mais il devrait vous permettre de jouer un personnage doté de nouveaux types de capacités. Alors n'hésitez pas à l'essayer !",
+        "description": "Ce mod s'efforce d'ajouter un système psionique inspiré des règles de AD&D2 et quatre profiles qui peuvent l'utiliser : un voleur psion (Psionicist), un guerrier psion (Soublade), un rôdeur psion (Psypher) et un mage psion (Cerebremancer).|Cependant, comme le moteur du jeu n'a pas été conçu pour, ce mod est toujours expérimental, même s'il est activement maintenu. Mais il devrait vous permettre de jouer un personnage doté de nouveaux types de capacités. Alors n'hésitez pas à l'essayer !",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/31024-will-to-power-a-2e-inspired-psionics-mod/",
             "https://github.com/UnearthedArcana/Will_to_Power/"
