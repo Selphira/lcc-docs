@@ -1005,9 +1005,7 @@
         "authors": [
             "Mathrim Cauthon"
         ],
-        "team": [
-            "Mathrim Cauthon"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -1698,9 +1696,7 @@
         "authors": [
             "Anomaly"
         ],
-        "team": [
-            "Anomaly"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -2509,9 +2505,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -2542,9 +2536,7 @@
         "authors": [
             "Thot"
         ],
-        "team": [
-            "Thot"
-        ],
+        "team": [],
         "notes": [
             "Choississez le lien github pour la version BG2EE/EET."
         ],
@@ -2886,9 +2878,7 @@
         "authors": [
             "mirandir"
         ],
-        "team": [
-            "mirandir"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -2918,9 +2908,7 @@
         "authors": [
             "Selphira"
         ],
-        "team": [
-            "Selphira"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -2954,9 +2942,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -3380,9 +3366,7 @@
         "authors": [
             "Anomaly"
         ],
-        "team": [
-            "Anomaly"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -5390,9 +5374,7 @@
         "authors": [
             "Selphira"
         ],
-        "team": [
-            "Selphira"
-        ],
+        "team": [],
         "notes": [
             "Attention : Cette version gère exclusivement une installation avec EET."
         ],
@@ -6140,12 +6122,9 @@
             "EET"
         ],
         "authors": [
-            "DrAzTiK",
-            "Freddy_Gwendo"
-        ],
-        "team": [
             "DrAzTiK"
         ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -6637,9 +6616,7 @@
         "authors": [
             "Misdrha'al Hymmet"
         ],
-        "team": [
-            "Misdrha'al Hymmet"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -7915,12 +7892,7 @@
             "Mera",
             "rivvers"
         ],
-        "team": [
-            "lefreut",
-            "jazira",
-            "Mera",
-            "rivvers"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -7951,11 +7923,7 @@
             "jazira",
             "rivvers"
         ],
-        "team": [
-            "lefreut",
-            "jazira",
-            "rivvers"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -8971,9 +8939,7 @@
         "authors": [
             "Deecy"
         ],
-        "team": [
-            "Deecy"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -9202,9 +9168,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -9235,9 +9199,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -11914,10 +11876,7 @@
             "Akadis",
             "Kasumi"
         ],
-        "team": [
-            "Akadis",
-            "Kasumi"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -13261,9 +13220,7 @@
         "authors": [
             "Zyl"
         ],
-        "team": [
-            "Zyl"
-        ],
+        "team": [],
         "notes": [
             "Choississez le lien github pour la version BG2EE/EET."
         ],
@@ -16714,9 +16671,7 @@
         "authors": [
             "Luren"
         ],
-        "team": [
-            "Luren"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -18211,7 +18166,6 @@
             "Grenouillebleue"
         ],
         "team": [
-            "Grenouillebleue",
             "deratiseur"
         ],
         "notes": [],
@@ -18570,9 +18524,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -18603,9 +18555,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -18740,9 +18690,7 @@
         "authors": [
             "Cocrane"
         ],
-        "team": [
-            "Cocrane"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -18975,9 +18923,7 @@
         "authors": [
             "Armand"
         ],
-        "team": [
-            "Armand"
-        ],
+        "team": [],
         "notes": [
             "Attention, ce mod est réputé bogué. Téléchargez-le à vos risques et périls."
         ],
@@ -19716,9 +19662,7 @@
         "authors": [
             "Klare"
         ],
-        "team": [
-            "Klare"
-        ],
+        "team": [],
         "notes": [
             "Le lien semble avoir disparu."
         ],
@@ -20231,9 +20175,7 @@
         "authors": [
             "Dargor"
         ],
-        "team": [
-            "Dargor"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -20395,9 +20337,7 @@
         "authors": [
             "Freddy_Gwendo"
         ],
-        "team": [
-            "Freddy_Gwendo"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 1,
@@ -20494,9 +20434,7 @@
         "authors": [
             "Archfiend"
         ],
-        "team": [
-            "Archfiend"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -21004,9 +20942,6 @@
             "EET"
         ],
         "authors": [
-            "Isaya"
-        ],
-        "team": [
             "La Voix 2 la Sagesse",
             "Isaya",
             "Freddy_Gwendo",
@@ -21021,6 +20956,7 @@
             "Cruller",
             "Leninator"
         ],
+        "team": [],
         "notes": [
             "Ce mod est prévu pour fonctionner avec BG2:EE v2.3.67.3 et v2.5.16.6.",
             "Depuis la sortie du mod [[Correction de la traduction de BG2:EE]], ce mod a été rendu obsolète pour les jeux dotés du patch 2.6 ou ultérieur."
@@ -21807,9 +21743,7 @@
         "authors": [
             "Akadis"
         ],
-        "team": [
-            "Akadis"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -23771,9 +23705,7 @@
         "authors": [
             "shadowlich"
         ],
-        "team": [
-            "shadowlich"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 1,
@@ -23861,12 +23793,7 @@
             "Isaya",
             "Freddy_Gwendo"
         ],
-        "team": [
-            "Mornagest",
-            "Zekflop",
-            "Isaya",
-            "Freddy_Gwendo"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -24155,9 +24082,7 @@
         "authors": [
             "Huxaltec"
         ],
-        "team": [
-            "Huxaltec"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -25105,9 +25030,7 @@
         "authors": [
             "esprit"
         ],
-        "team": [
-            "esprit"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -25134,9 +25057,7 @@
         "authors": [
             "Zakinster"
         ],
-        "team": [
-            "Zakinster"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -27178,9 +27099,7 @@
         "authors": [
             "esprit"
         ],
-        "team": [
-            "esprit"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -27714,9 +27633,7 @@
         "authors": [
             "Selphira"
         ],
-        "team": [
-            "Selphira"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -27868,9 +27785,7 @@
         "authors": [
             "Coyote"
         ],
-        "team": [
-            "Coyote"
-        ],
+        "team": [],
         "notes": [
             "Seul le second lien est compatible avec BG2:EE."
         ],
@@ -29357,9 +29272,7 @@
         "authors": [
             "Finrod Felagund"
         ],
-        "team": [
-            "Finrod Felagund"
-        ],
+        "team": [],
         "notes": [
             "Attention : Ce mod est au format tbg et nécessite un vieil outil de modding pour s'installer. Évitez-le !"
         ],
@@ -33556,9 +33469,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -34840,7 +34751,6 @@
             "Angel Gryph"
         ],
         "team": [
-            "Barren",
             "Daneghar",
             "DarkWintermoon",
             "Elissa Keens",
@@ -38046,9 +37956,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 1,
@@ -38079,9 +37987,7 @@
         "authors": [
             "JohnBob"
         ],
-        "team": [
-            "JohnBob"
-        ],
+        "team": [],
         "notes": [
             "Installez ce mod après EET et les mods ajoutant de nouvelles zones à la CluaConsole et si possible après les mods d'interface. Lisez le readme du projet pour en savoir plus."
         ],
@@ -38236,9 +38142,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -38268,9 +38172,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -38301,9 +38203,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -39706,9 +39606,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -39738,9 +39636,7 @@
         "authors": [
             "deratiseur"
         ],
-        "team": [
-            "deratiseur"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -39859,9 +39755,7 @@
         "authors": [
             "Selphira"
         ],
-        "team": [
-            "Selphira"
-        ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -40256,9 +40150,7 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [
-            "JohnBob"
-        ],
+        "authors": [],
         "team": [
             "JohnBob"
         ],
