@@ -26379,16 +26379,20 @@
     },
     {
         "name": "Revised Battles",
-        "description": "Remix d'[[Improved Battles]], ce mod augmente la difficulté d'un certain nombres de combats (Drizzt, Firkraag, etc...). Il ajoute par ailleurs quatre nouveaux profils de guerrier (Bâtard, Chevalier Démon, Maître d'armes et Vengeur des arcanes).|Le composant Firkraag amélioré est incompatible avec le mod [[Super Firkraag]], le composant Donjon amélioré est incompatible avec le composant Illych amélioré de Weimer [[Tactics]].",
+        "description": "Remix d'[[Improved Battles]], ce mod augmente la difficulté d'un certain nombre de combats (Drizzt, Firkraag, etc...), il augmente également les drops. Il ajoute par ailleurs quatre nouveaux kits de guerrier :|`Bâtard` : immunisé aux attaques sournoises, il gagne des compétences qui le booste de façon provisoire.|`Chevalier Démon` : immunisé à la peur et à l'immobilisation, il possède également 40% de résistance au feu et une résistance à la magie qui augmente au fil des niveaux.|`Maître d'armes` : il améliore son Tac0, ses dégâts ainsi que sa CA au fil des niveaux, il peut utiliser Kai et a un léger bonus de vitesse de déplacement.|`Vengeur des arcanes` : il a un gros bonus de Tac0 et de dégâts contre les mages et les sorciers ainsi qu'à ses jets de sauvegarde contre les sorts. Il dispose également de deux sorts lui permettant de dissiper les invisibilités et de dévier les sorts pendant plusieurs rounds.",
         "urls": [
-            "http://www.shsforums.net/files/file/655-revised-battles-v63/"
+            "http://www.shsforums.net/files/file/655-revised-battles-v63/",
+            "https://github.com/Plutonium-X/FIGHT_Battles"
         ],
         "categories": [
-            "Gameplay"
+            "Gameplay",
+            "Kit"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Erebusant"
@@ -26397,13 +26401,22 @@
             "Thot",
             "Maël"
         ],
-        "notes": [],
+        "notes": [
+            "Le composant `Firkraag amélioré` est incompatible avec le mod [[Super Firkraag]], le composant `Donjon amélioré` est incompatible avec le composant `Illych amélioré` de [[Tactics]].",
+            "La version EE est disponible via le second lien."
+        ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "es",
+            "it"
+        ],
         "status": "active",
-        "last_update": "2008-08",
-        "tp2": ""
+        "last_update": "2024-12",
+        "tp2": "RevisedBattles"
     },
     {
         "name": "Revised Dragon Scale - UI tweaks for SoD and EET",
