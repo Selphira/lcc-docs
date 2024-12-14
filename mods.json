@@ -44523,5 +44523,65 @@
         "status": "active",
         "last_update": "2023-12",
         "tp2": "ensrick_portraits"
+    },
+    {
+        "name": "Eve of War",
+        "description": "Il s'agit d'un mod non terminé qui apporte des modifications à la quête principale de Baldur's Gate Enhanced Edition. Il propose des composants qui intègrent le matériel des livres originaux dans le jeu - comme Volo's Guide to the Sword Coast et Lands of Intrigue ont à dire sur ces régions. Il fournit également des zones et des jo...",
+        "urls": [
+            "https://forums.beamdog.com/discussion/37704/",
+            "https://github.com/yellow-hat-elminster/Eve-Of-War"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "elminster"
+        ],
+        "team": [],
+        "notes": [
+            "En l'état, ce mod n'est pas en état d'être utilisable. L'auteur laisse champ libre à d'éventuels repreneurs."
+        ],
+        "translation_state": "no",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2021-12",
+        "tp2": "k9EveOfWar"
+    },
+    {
+        "name": "The Enemy Within",
+        "description": "Ce mod est inachevé. L'intrigue commencera par une conversation avec le Seigneur Kuldak à la taverne de la Vieille Charrue dans le village de Cragmyr et par une demande d'aide de sa part.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/46446/",
+            "https://github.com/ZansoHel/TheEnemyWithin"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Zanso"
+        ],
+        "team": [],
+        "notes": [
+            "L'auteur laisse champ libre à d'éventuels repreneurs. Les cartes sont fonctionnelles et les quêtes ont un peu de contenu."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2024-11",
+        "tp2": "TheEnemyWithin"
     }
 ]
