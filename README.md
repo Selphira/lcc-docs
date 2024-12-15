@@ -86,6 +86,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
  - Sort et objet
  - Kit
  - Gameplay
+ - Script et tactique
  - Personnalisation du groupe
 
 `games` : liste des jeux sur lesquels le mod est fonctionnel. Valeurs possibles :

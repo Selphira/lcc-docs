@@ -115,6 +115,7 @@ categorie_names = [
     "Sort et objet",
     "Kit",
     "Gameplay",
+    "Script et tactique",
     "Personnalisation du groupe",
 ]
 

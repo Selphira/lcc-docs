@@ -25,7 +25,7 @@
     },
     {
         "name": "3.5 Edition / Pathfinder style Tweaks Collection",
-        "description": "Il s'agit d'une collection de mini mods écrits par Redbane pour appliquer certaines règles de AD&D 3.5e et Pathfinder dans les jeux IE. Elle comprend pour l'instant trois volets :|- Modification de la table de progression des TAC0.|- Harmonisation de la table de progression des bonus de PV selon la Constitution.|- Dés de vie plus élevés pour les mages, sorciers, voleurs et bardes.|- Rééquilibrage des styles d'arme.",
+        "description": "Il s'agit d'une collection de mini mods écrits par Reddbane pour appliquer certaines règles de AD&D 3.5e et Pathfinder dans les jeux IE. Elle comprend pour l'instant trois volets :|- Modification de la table de progression des TAC0.|- Harmonisation de la table de progression des bonus de PV selon la Constitution.|- Dés de vie plus élevés pour les mages, sorciers, voleurs et bardes.|- Rééquilibrage des styles d'arme.",
         "urls": [
             "http://www.shsforums.net/topic/59169-35-edition-pathfinder-style-tweaks-collection-thac0-constitution",
             "https://forums.beamdog.com/discussion/63741/"
@@ -2279,7 +2279,7 @@
         ],
         "categories": [
             "Quête",
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -2830,7 +2830,7 @@
             "https://github.com/Plutonium-X/MISC_Fairy"
         ],
         "categories": [
-            "Gameplay"
+            "PNJ (autre)"
         ],
         "games": [
             "BGEE",
@@ -3012,7 +3012,7 @@
             "http://www.shsforums.net/files/file/658-azenmod-v5/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -3354,7 +3354,7 @@
             "https://www.baldursgateworld.fr/viewtopic.php?t=24228"
         ],
         "categories": [
-            "Gameplay"
+            "PNJ (autre)"
         ],
         "games": [
             "BG",
@@ -4017,7 +4017,7 @@
             "https://github.com/GraionDilach/BGEESpawn"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -4093,13 +4093,13 @@
     },
     {
         "name": "BGSpawn System",
-        "description": "Ce mod propose une gestion alternative de l'apparition aléatoire des créatures dans les zones de la Côté des Épées. Il remplace les créatures aléatoires (mais figées zone par zone) par un système complètement nouveau basé sur le niveau et le nombre de membres du groupe. Vous pouvez choisir l'intervalle entre les apparitions de créatures. En option, vous pouvez aussi installer une nouvelle créature, le Seigneur Loup vampirique (repris du Loup d'Ulcaster de [[Sword Coast Stratagems]]), parmi ces créatures aléatoires.|<span style=\"color: red;\">Nécessite une mise à jour de la traduction.</span>",
+        "description": "Ce mod propose une gestion alternative de l'apparition aléatoire des créatures dans les zones de la Côté des Épées. Il remplace les créatures aléatoires (mais figées zone par zone) par un système complètement nouveau basé sur le niveau et le nombre de membres du groupe. Vous pouvez choisir l'intervalle entre les apparitions de créatures. En option, vous pouvez aussi installer une nouvelle créature, le Seigneur Loup vampirique (repris du Loup d'Ulcaster de [[Sword Coast Stratagems]]), parmi ces créatures aléatoires.",
         "urls": [
             "http://www.shsforums.net/files/file/740-bgspawn/",
             "https://github.com/SpellholdStudios/BGSpawn"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -4194,7 +4194,7 @@
             "http://www.shsforums.net/files/file/1025-bp-series-party-ai-for-bg/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -4246,7 +4246,7 @@
         "description": "Ce mod avait pour vocation de rendre les adversaires beaucoup plus forts dans Baldur's Gate (il modifiait plus de 130 créatures). Il nécessitait TotSC et le mod [[Dark Side of the Sword Coast]].|Son lien de téléchargement a disparu.",
         "urls": [],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG"
@@ -4269,8 +4269,7 @@
             "https://github.com/Pocket-Plane-Group/Back_to_Brynnlaw"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -4307,7 +4306,7 @@
             "http://www.shsforums.net/topic/31516-two-mini-mods/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "Tutu"
@@ -4996,7 +4995,7 @@
             "https://forums.beamdog.com/discussion/19856/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE"
@@ -6113,7 +6112,7 @@
             "https://github.com/The-Gate-Project/butchery"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -6987,7 +6986,7 @@
             "https://www.gibberlings3.net/mods/other/cirerrek/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -7051,7 +7050,7 @@
             "https://www.gibberlings3.net/files/file/708-cirerreks-ai-scripts-eseries/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -7083,7 +7082,7 @@
             "https://www.gibberlings3.net/files/file/717-cirerreks-ai-scripts-gminion/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -7115,7 +7114,7 @@
             "https://www.gibberlings3.net/files/file/720-cirerreks-ai-scripts-iseries/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "IWD2"
@@ -7139,7 +7138,7 @@
             "https://www.gibberlings3.net/files/file/892-cirerreks-ai-scripts-tseries/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "PST",
@@ -7164,7 +7163,7 @@
             "https://www.gibberlings3.net/files/file/894-cirerreks-ai-scripts-uscript/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -7387,7 +7386,7 @@
             "https://github.com/The-Gate-Project/Com_encounters"
         ],
         "categories": [
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -7427,8 +7426,7 @@
             "https://www.weaselmods.net/showthread.php?tid=26"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -8366,7 +8364,7 @@
             "http://www.shsforums.net/files/file/613-ds-enemy-upgrade/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -8930,7 +8928,7 @@
             "https://akadis.baldursgateworld.fr/Deecy_Patch/Deecy_Patch.html"
         ],
         "categories": [
-            "Gameplay"
+            "Cosmétique"
         ],
         "games": [
             "BG2",
@@ -8952,12 +8950,12 @@
     },
     {
         "name": "Deeper Shadows of Amn",
-        "description": "Version WeiDU du mod de Kensai Ryu, ce mod rend certaines rencontres beaucoup plus difficiles. Un nouveau garde apparaît dans le mausolée de Kangaxx qui, lui-même, devient un adversaire plus dangereux (beaucoup plus. La quête pour libérer les esclaves de la Couronne de Cuivre devient un peu plus difficile. Le Roi de la crypte devient un adversaire beaucoup plus coriace. Le Dragon d'ombre devient spectral.|Le mod ajoute par ailleurs de nouvelles rencontres : Un nouveau dragon rouge, Grothgar, apparaît. Un gnome guerrier/illusionniste recherche Valygar et attaquera tous ceux qui se trouvent sur son chemin. Un nouveau Seigneur de l'ombre fait son apparition dans Athkatla.",
+        "description": "Version WeiDU du mod de Kensai Ryu, ce mod rend certaines rencontres beaucoup plus difficiles. Un nouveau garde apparaît dans le mausolée de Kangaxx qui, lui-même, devient un adversaire plus dangereux (beaucoup plus). La quête pour libérer les esclaves de la Couronne de Cuivre devient un peu plus difficile. Le Roi de la crypte devient un adversaire beaucoup plus coriace. Le Dragon d'ombre devient spectral.|Le mod ajoute par ailleurs de nouvelles rencontres : Un nouveau dragon rouge, Grothgar, apparaît. Un gnome guerrier/illusionniste recherche Valygar et attaquera tous ceux qui se trouvent sur son chemin. Un nouveau Seigneur de l'ombre fait son apparition dans Athkatla.",
         "urls": [
             "http://www.shsforums.net/files/file/120-deeper-shadows-of-amn/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -9336,7 +9334,7 @@
             "https://forums.beamdog.com/discussion/19928/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG",
@@ -9480,7 +9478,7 @@
             "https://www.nexusmods.com/baldursgate2ee/mods/5"
         ],
         "categories": [
-            "Gameplay"
+            "Portrait et son"
         ],
         "games": [
             "BG2",
@@ -9750,7 +9748,7 @@
     },
     {
         "name": "Double XP On Insane Difficulty",
-        "description": "Un petit fichier de rien du tout (MONCRATE.2da modifié) à rajouter dans le dossier override, et l'expérience gagnée doublera tout au long du jeu. C'est une imitation du mode cœur de Furie de IWD 1, qui doublait toutes les statistiques des monstres ET l'XP gagnée. Dans le mode cœur de Furie d'IWD 2, l'expérience ne double pas. Sauf avec ceci. NB: cela permet donc de commencer plus sereinement une partie niveau 1 en mode Cœur de Furie",
+        "description": "Un petit fichier de rien du tout (MONCRATE.2da modifié) à rajouter dans le dossier override, et l'expérience gagnée doublera tout au long du jeu. C'est une imitation du mode Heart of Fury de IWD 1, qui doublait toutes les statistiques des monstres ET l'XP gagnée. Dans le mode Heart of Fury d'IWD 2, l'expérience ne double pas. Sauf avec ceci. NB: cela permet donc de commencer plus sereinement une partie niveau 1 en mode Heart of Fury",
         "urls": [
             "https://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/Moncrate.zip"
         ],
@@ -10005,7 +10003,7 @@
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=190"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2EE"
@@ -10027,7 +10025,7 @@
             "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=183"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE"
@@ -10049,7 +10047,7 @@
             "https://forums.beamdog.com/discussion/comment/265692/#Comment_265692"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE"
@@ -10118,12 +10116,12 @@
     },
     {
         "name": "Drows",
-        "description": "Ce mod modifie les portraits des PNJ du groupe en elfes noirs après qu'Adalon ait lancé un sort de métamorphose sur le groupe. Le changement de portraits durera jusqu'à ce qu'elle vous retransforme ou que vous la tuiez, ou jusqu'à ce que vous soyez découvert soit par Ardulace, soir par le Seigneur Démon, Phaere ou Solaufein. Bien évidemment, ils retrouveront leur portrait initial lorsque vous atteindrez la sortie de l'Ombreterre.",
+        "description": "Ce mod modifie les portraits des PNJ du groupe en elfes noirs après qu'Adalon ait lancé un sort de métamorphose sur le groupe. Le changement de portraits durera jusqu'à ce qu'elle vous retransforme ou que vous la tuiez, ou jusqu'à ce que vous soyez découvert soit par Ardulace, soit par le Seigneur Démon, Phaere ou Solaufein. Bien évidemment, ils retrouveront leur portrait initial lorsque vous atteindrez la sortie de l'Ombreterre.",
         "urls": [
             "http://www.shsforums.net/files/file/944-drows/"
         ],
         "categories": [
-            "Gameplay"
+            "Portrait et son"
         ],
         "games": [
             "BG2",
@@ -10176,7 +10174,6 @@
             "https://www.mediafire.com/file/vj699du6a4ka55j/phord_druidkits.zip/file"
         ],
         "categories": [
-            "Kit",
             "Gameplay"
         ],
         "games": [
@@ -10541,7 +10538,7 @@
     },
     {
         "name": "Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks)",
-        "description": "Ce mod propose une collection d'ajustements pour les jeux IE. Bien que conçus à l'origine pour EET, certains de ces composants sont universels et peuvent fonctionner avec BG1, BG2, IWD, IWD2, Tutu, BGT, CA, IWD-in-BG2, BG:EE, BG2:EE et IWD:EE.|Il permet entre autres d'harmoniser l\"apparence des PNJ recrutables pendant la trilogie ou de modifier la limitation d'XP. Lisez bien le <a href=\"http://htmlpreview.github.io/?https://github.com/K4thos/EET_Tweaks/blob/master/EET_Tweaks/readme-EET_Tweaks.html\">readme</a> pour plus de détails.",
+        "description": "Ce mod propose une collection d'ajustements pour les jeux IE. Bien que conçus à l'origine pour EET, certains de ces composants sont universels et peuvent fonctionner avec BG1, BG2, IWD, IWD2, Tutu, BGT, CA, IWD-in-BG2, BG:EE, BG2:EE et IWD:EE.|Il permet entre autres d'harmoniser l'apparence des PNJ recrutables pendant la trilogie ou de modifier la limitation d'XP. Lisez bien le <a href=\"http://htmlpreview.github.io/?https://github.com/K4thos/EET_Tweaks/blob/master/EET_Tweaks/readme-EET_Tweaks.html\">readme</a> pour plus de détails.",
         "urls": [
             "https://www.gibberlings3.net/forums/forum/196-eet-tweaks/",
             "https://github.com/K4thos/EET_Tweaks"
@@ -10812,7 +10809,7 @@
             "http://www.usoutpost31.com/easytutu/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "Tutu"
@@ -11230,7 +11227,7 @@
             "https://github.com/GuardianAnubite/bg_enemy_randomizer"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG",
@@ -11288,7 +11285,7 @@
             "http://dragonshoard.blackwyrmlair.net/download.php"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "Tutu"
@@ -11386,7 +11383,7 @@
             "https://www.morpheus-mart.com/enhanced-powergaming-scripts"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -11656,7 +11653,7 @@
             "https://www.gibberlings3.net/forums/topic/32233-everybody-is-just-so-scary-mod/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG",
@@ -12252,7 +12249,7 @@
             "https://www.baldursgateworld.fr/lacouronne/le-festival-de-nashkel-les-modules-bg1/9349-mod-All-npcs-beginning.html"
         ],
         "categories": [
-            "Gameplay"
+            "PNJ (autre)"
         ],
         "games": [
             "BG"
@@ -12993,7 +12990,7 @@
             "https://github.com/Sebastian-c4/Game_Assistant_Scripts"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -13803,8 +13800,7 @@
             "http://america.iegmc.net/greyacumen/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -13913,7 +13909,7 @@
             "https://sorcerers.net/Games/IWD/index_mods.php"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "IWD"
@@ -14185,7 +14181,7 @@
             "http://swordcoastkeeper.chez-alice.fr/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG"
@@ -14257,12 +14253,12 @@
     },
     {
         "name": "Heart of Fury",
-        "description": "S'inspirant du mode Cœur de furie d'Icewind Dale, ce mod est très semblable à Harder BG1. Il rend les adversaires plus difficiles à tuer en augmentant leurs points de vie (HP x 3 + 50), mais aussi en les rendant plus difficiles à toucher (-5 à la CA) et plus compétents au combat (-5 au TAC0). Même un simple grouilleux devient dangereux !",
+        "description": "S'inspirant du mode Heart of Fury d'Icewind Dale, ce mod est très semblable à Harder BG1. Il rend les adversaires plus difficiles à tuer en augmentant leurs points de vie (HP x 3 + 50), mais aussi en les rendant plus difficiles à toucher (-5 à la CA) et plus compétents au combat (-5 au TAC0). Même un simple grouilleux devient dangereux !",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=BG&f=BG/BG1-HoF.zip"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG"
@@ -14322,8 +14318,7 @@
             "http://www.shsforums.net/files/file/759-heartwarder-of-sune-cleric-kit-v11/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -14403,7 +14398,7 @@
     },
     {
         "name": "Hell Recollection",
-        "description": "Ce mod permet d'obtenir les bonus gagnés en Enfer lorsqu'on commence une partie ToB. Au début du jeu, vous recevrez un objet qui vous permettra de vous souvenir de se que vous avez fait six pieds sous terre.",
+        "description": "Ce mod permet d'obtenir les bonus gagnés en Enfer lorsqu'on commence une partie ToB. Au début du jeu, vous recevrez un objet qui vous permettra de vous souvenir de ce que vous avez fait six pieds sous terre.",
         "urls": [
             "http://www.shsforums.net/files/file/1089-hell-recollection/"
         ],
@@ -14511,7 +14506,7 @@
         ],
         "categories": [
             "Kit",
-            "Gameplay"
+            "Forgeron et marchand"
         ],
         "games": [
             "BG2",
@@ -14709,8 +14704,7 @@
             "https://forums.beamdog.com/discussion/15720/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE"
@@ -15902,7 +15896,9 @@
             "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=54"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique",
+            "Quête",
+            "Forgeron et marchand"
         ],
         "games": [
             "BG2",
@@ -15972,7 +15968,7 @@
             "https://github.com/SpellholdStudios/Improved_Asylum"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -16031,7 +16027,7 @@
             "http://baldur.cob-bg.pl/download/bg2/challenges/Improved_Battles_v6.zip"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -16190,13 +16186,13 @@
     },
     {
         "name": "Improved Heart of Fury Mode",
-        "description": "Ce mod fournit une version plus intéressante du mode Cœur de furie d'Icewind Dale. Il offre un jeu nettement plus difficile, mais pas simplement en donnant de grandes quantités de points de vie aux ennemis ou en augmentant leurs caractéristiques (comme dans la version EE normale), mais en effectuant un rééquilibrage majeur des ennemis et de leurs capacités.|Les ennemis obtiennent de nouvelles capacités, une IA améliorée (inspirée de [[Sword Coast Stratagems]]), le renforcement de diverses caractéristiques et à certains endroits, ils sont plus nombreux. De nombreux ennemis voient leur capacité de base améliorée. Les trolls régénèrent plus rapidement, les scarabées bombardiers tirent plus souvent, les araignées sabre se déplacent et attaquent très rapidement, etc.|Comme dans le mode HoF d'Icewind Dale 2, la plupart des objets du jeu sont renforcés. Il apporte aussi de nombreux changements intéressants aux classes et aux kits, de nombreux nouveaux ajustements aux sorts, aux objets et à diverses autres choses dans le jeu.",
+        "description": "Ce mod fournit une version plus intéressante du mode Heart of Fury d'Icewind Dale. Il offre un jeu nettement plus difficile, mais pas simplement en donnant de grandes quantités de points de vie aux ennemis ou en augmentant leurs caractéristiques (comme dans la version EE normale), mais en effectuant un rééquilibrage majeur des ennemis et de leurs capacités.|Les ennemis obtiennent de nouvelles capacités, une IA améliorée (inspirée de [[Sword Coast Stratagems]]), le renforcement de diverses caractéristiques et à certains endroits, ils sont plus nombreux. De nombreux ennemis voient leur capacité de base améliorée. Les trolls régénèrent plus rapidement, les scarabées bombardiers tirent plus souvent, les araignées sabre se déplacent et attaquent très rapidement, etc.|Comme dans le mode HoF d'Icewind Dale 2, la plupart des objets du jeu sont renforcés. Il apporte aussi de nombreux changements intéressants aux classes et aux kits, de nombreux nouveaux ajustements aux sorts, aux objets et à diverses autres choses dans le jeu.",
         "urls": [
             "https://forums.beamdog.com/discussion/70717/",
             "https://github.com/OlvynChuru/Improved-Heart-Of-Fury-Mode"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "IWDEE"
@@ -17440,7 +17436,7 @@
             "https://github.com/Banananaut/Jimfix"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -17644,7 +17640,7 @@
             "http://www.shsforums.net/files/file/126-difficult-brown-dragon/"
         ],
         "categories": [
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -17698,7 +17694,7 @@
             "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/kangaxx_mejorado"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -18237,8 +18233,7 @@
             "https://github.com/D2-mods/Kit-Mule-kit-for-IE-games-"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -19716,7 +19711,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "macholy"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -19757,7 +19754,7 @@
             "https://trow.cc/board/showtopic=15651&hl=Macholy"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -19790,7 +19787,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "macholy"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -19830,7 +19829,7 @@
             "https://github.com/AngelGryph/MadeInHeaven_EncountersAndQuests/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -19959,7 +19958,7 @@
             "https://github.com/UnearthedArcana/magic_battles_revised/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -20160,12 +20159,12 @@
     },
     {
         "name": "Map Notes",
-        "description": "Créé par Dargor, ce mod français permet de donner un nom à toutes les les zones du jeu afin de remédier au problème connu de [[BG1Tutu]] qui affiche toutes les zones de la même couleur, qu'elles soient ou non déjà visitées par le joueur. Les zones connues mais inaccessibles (comme la Porte de Baldur en début de partie) seront affichées en gris, les zones pas encore visitées (découvertes en sortant d'une carte) en bleu, et les zones visitées en blanc. Deux composants optionnels vous permettent d'afficher seulement les villes (masque la Barbe d'Ulgoth, le Festival et les Mines de Nashkel. Comme le joueur n'est pas censé les connaître ces zones, il devra les découvrir par lui-même) ou d'afficher toutes les zones (marque toutes les zones de la carte comme visitées. Fortement déconseillé).",
+        "description": "Créé par Dargor, ce mod français permet de donner un nom à toutes les zones du jeu afin de remédier au problème connu de [[BG1Tutu]] qui affiche toutes les zones de la même couleur, qu'elles soient ou non déjà visitées par le joueur. Les zones connues mais inaccessibles (comme la Porte de Baldur en début de partie) seront affichées en gris, les zones pas encore visitées (découvertes en sortant d'une carte) en bleu, et les zones visitées en blanc. Deux composants optionnels vous permettent d'afficher seulement les villes (masque la Barbe d'Ulgoth, le Festival et les Mines de Nashkel. Comme le joueur n'est pas censé les connaître ces zones, il devra les découvrir par lui-même) ou d'afficher toutes les zones (marque toutes les zones de la carte comme visitées. Fortement déconseillé).",
         "urls": [
             "http://athanatos.free.fr/BG1TUTU/MapNotes/mapnotes_v102.exe"
         ],
         "categories": [
-            "Gameplay"
+            "Cosmétique"
         ],
         "games": [
             "Tutu"
@@ -20353,8 +20352,7 @@
             "https://github.com/Raduziel/Mercenary-Kit"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -20386,7 +20384,7 @@
             "https://www.gibberlings3.net/forums/topic/31295-mercy-mod/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -20905,7 +20903,7 @@
             "http://corellon.clandlan.net/index.php?page=corellon/bgiwd/Popurri"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -21091,8 +21089,7 @@
             "https://github.com/aquadrizzt/MonasticOrders"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -21243,7 +21240,7 @@
             "https://www.baldurs-gate.de/index.php?threads/morenco-more-encounters-quest-mod-f%C3%BCr-bg1.45214/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGT",
@@ -21255,9 +21252,9 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "wip",
         "last_update": "",
         "tp2": ""
     },
@@ -21576,7 +21573,7 @@
             "https://github.com/lzenner/mptweaks"
         ],
         "categories": [
-            "Gameplay"
+            "Patch non officiel"
         ],
         "games": [
             "BG",
@@ -21987,7 +21984,7 @@
             "https://github.com/Gibberlings3/NPCTweak"
         ],
         "categories": [
-            "Gameplay"
+            "PNJ (autre)"
         ],
         "games": [
             "BG2",
@@ -25183,7 +25180,7 @@
         ],
         "categories": [
             "Quête",
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -26385,7 +26382,7 @@
             "https://github.com/Plutonium-X/FIGHT_Battles"
         ],
         "categories": [
-            "Gameplay",
+            "Script et tactique",
             "Kit"
         ],
         "games": [
@@ -27522,7 +27519,7 @@
         "name": "Save Nordom Tweak from Qwinn's Tweakpack updated for PST:EE",
         "description": "Ce mod n'est rien d'autre que le composant `Sauvez Nordom !` du [[Qwinn's Planescape: Torment Tweak Pack]] adapté pour PsT:EE.",
         "urls": [
-            "https://github.com/badungu/PST-SaveNordomTweak"
+            "https://github.com/vandervecken/PST-SaveNordomTweak"
         ],
         "categories": [
             "Gameplay"
@@ -27538,9 +27535,7 @@
             "mirandir",
             "Zyl"
         ],
-        "notes": [
-            "Attention : il semble être bogué, mais voici <a href=\"https://forums.beamdog.com/discussion/68451/has-anyone-tested-the-save-nordom-tweak\">une solution</a> qui devrait régler le problème."
-        ],
+        "notes": [],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -27981,7 +27976,7 @@
         ],
         "categories": [
             "Quête",
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -28504,16 +28499,18 @@
         "name": "Simple Scripts",
         "description": "Il s'agit d'une petite collection de scripts d'IA pour les jeux originaux. Il n'a pas d'installateur WeiDU : extrayez les fichiers .bs dans le répertoire scripts de votre jeu, puis assignez-les à vos personnages.",
         "urls": [
-            "http://www.shsforums.net/files/file/1129-simple-scripts/"
+            "https://www.nexusmods.com/baldursgate/mods/42"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG",
             "BG2",
             "Tutu",
-            "BGT"
+            "BGT",
+            "BGEE",
+            "BG2EE"
         ],
         "authors": [
             "ikonomov"
@@ -28521,36 +28518,11 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
-    },
-    {
-        "name": "Simple Scripts for BG:EE, SoD & BG2:EE",
-        "description": "Il s'agit d'une petite collection de scripts d'IA pour les jeux EE. Il n'a pas d'installateur WeiDU : extrayez les fichiers .bs dans le répertoire scripts ed votre jeu, puis assignez-les à vos personnages.",
-        "urls": [
-            "http://www.shsforums.net/files/file/1143-simple-scripts-bgee-bgsod-bg2ee/"
-        ],
-        "categories": [
-            "Gameplay"
-        ],
-        "games": [
-            "BGEE",
-            "BG2EE",
-            "SoD",
-            "EET"
-        ],
-        "authors": [],
-        "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 2,
-        "languages": [],
-        "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-06",
+        "tp2": "non-weidu"
     },
     {
         "name": "Simple XP cap remover",
@@ -28945,7 +28917,7 @@
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=178"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -29814,7 +29786,7 @@
             "https://forums.beamdog.com/discussion/40026/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "IWDEE"
@@ -30025,7 +29997,7 @@
             "https://github.com/SpellholdStudios/Super_Firkraag"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -30232,7 +30204,7 @@
             "https://github.com/Gibberlings3/SwordCoastStratagems"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -30307,8 +30279,7 @@
             "https://www.gibberlings3.net/files/file/890-sword-and-fist/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -30529,7 +30500,7 @@
             "https://forums.beamdog.com/discussion/41242/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -30563,7 +30534,7 @@
             "https://www.morpheus-mart.com/tactics-remix"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2EE",
@@ -30605,7 +30576,7 @@
             "https://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/Tactics4IWD2.rar"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "IWD2"
@@ -30932,7 +30903,7 @@
             "http://www.shsforums.net/files/file/1151-taunt-spell-for-bgee/"
         ],
         "categories": [
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BGEE"
@@ -31501,7 +31472,7 @@
             "http://www.shsforums.net/files/file/546-the-big-picture-v181/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -31882,12 +31853,12 @@
     },
     {
         "name": "The Demon in Ust Natha",
-        "description": "Ce mod n'est pas disponible, l'auteur tentant de corriger ses bugs...",
+        "description": "Ce mod permet aux joueurs de négocier avec le démon du Rituel quelque soit son alignement.|Ce mod n'est pas disponible, l'auteur tentant de corriger ses bugs...",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32261-the-demon-in-ust-natha-mod-for-bg2ee/"
         ],
         "categories": [
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2EE"
@@ -32131,7 +32102,7 @@
             "http://www.shsforums.net/files/file/1159-the-horde-beta/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG",
@@ -33139,11 +33110,10 @@
         "name": "Throne of Bhaal Revisited beta",
         "description": "Vous n'aimez pas l'extension du Trône de Bhaal ? Vous en avez assez de devoir de suivre une histoire linéaire avec des personnages vides ? Ce mod a pour but d'y remédier.|Il comprend quatre sections principales : personnages, non-linéarité, lieux et quêtes. Chaque section est indépendante, comme le sont chacun de leurs composants :|- Personnages : Vous avez maintenant une chance de raisonner Gromnir, même si c'est difficile. Mélissane possède désormais une amulette magique qui la protège des sorts de détection d'alignement. C'est le Solaire, et non Sarevok, qui ouvre le premier défi. S'il y voit un avantage, Yaga Shura vous demandera de tuer Gromnir et, si cela ne brise pas le siège, le capitaine Samand.|- Non-linéarité : C'est Ellesime qui vous mènera à la clairière des anciens. Votre Antichambre ne vous téléportera plus que dans les endroits que vous avez déjà visités. Vous pouvez combattre les Cinq dans n'importe quel ordre.|- Lieux : Si Saradush n'est pas encore tombé, vous verrez un côté plus paisible de l'Oasis. Il y a beaucoup plus d'Enfants de Bhaal à Saradush. Dans les égouts de Saradush vous trouverez de nouvelles créatures et comprendrez certainement mieux pourquoi il y a autant d'ombres. Les trésors les plus précieux ont été déplacés et mieux gardés dans le temple de Yara Shura.|- Quêtes : Une prêtresse de Kelemvor cherche à nettoyer le temple de Bhaal en ruines. Une sorcière capricieuse vit désormais dans la forêt de Téthyr.",
         "urls": [
-            "https://sites.google.com/site/bgiimods/",
             "https://www.dropbox.com/s/t0egjd5662gxen3/Throne%20of%20Bhaal%20Revisited%20beta4%20FIX.rar?dl=0"
         ],
         "categories": [
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -33153,15 +33123,16 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Attention : adaptation du projet de mod présenté dans le premier lien, il s'agit d'un travail en cours de développement et toujours en version beta. Pour télécharger le mod, utilisez le second lien."
-        ],
+        "notes": [],
         "translation_state": "no",
-        "safe": 2,
-        "languages": [],
-        "status": "active",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "wip",
         "last_update": "",
-        "tp2": ""
+        "tp2": "tobr"
     },
     {
         "name": "Thrown Hammers",
@@ -33494,7 +33465,7 @@
     },
     {
         "name": "Tome and Blood",
-        "description": "Ce mod introduit un ensemble de modifications pour les mages/sorciers/bardes, ainsi que des règles, sorts et kits les concernant. Il propose une foultitude de composants que l'on peut ranger dans trois catégories : modifications de sorts, ajout ou modification de profils, modification du gameplay.|- Profils d'ensorceleurs : Amorphous Disciple, Favored Soul, Magus, Revenant Disciple, Sylvan Disciple.|- Profils d'ensorceleurs multi-classés : Arcanist, Mana Sorcerer.|En perpétuel développement, ce mod est régulièrement mis à jour.",
+        "description": "Ce mod introduit un ensemble de modifications pour les mages/sorciers/bardes, ainsi que des règles, sorts et kits les concernant. Il propose une foultitude de composants que l'on peut ranger dans trois catégories : modifications de sorts, ajout ou modification de profils, modification du gameplay.|- Profils d'ensorceleurs : Amorphous Disciple, Favored Soul, Magus, Revenant Disciple, Sylvan Disciple.|- Profils d'ensorceleurs multi-classés : Arcanist, Mana Sorcerer.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30797-unearthed-arcana-present-tome-blood-more-options-for-arcane-casters/",
             "https://github.com/UnearthedArcana/TomeAndBlood"
@@ -33666,7 +33637,7 @@
             "https://forums.beamdog.com/discussion/62321/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -34222,7 +34193,7 @@
             "https://forums.pocketplane.net/index.php/topic,22037.0.html"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "Tutu"
@@ -34999,7 +34970,7 @@
             "https://forums.beamdog.com/discussion/65032/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -36243,12 +36214,12 @@
     },
     {
         "name": "Weimar's Undead Targos",
-        "description": "Targos est à présent envahie par des morts-vivants et quelques gobelins. Dur, mais passionnant (il faut le faire au niveau 1, ou alors commencer une nouvelle partie en mode Cœur de Furie). Ce mod rajoute également de la difficulté dans le combat contre Torak, le leader du clan de la truc tordue, car il est accompagné de nouveaux compagnons...",
+        "description": "Targos est à présent envahie par des morts-vivants et quelques gobelins. Dur, mais passionnant (il faut le faire au niveau 1, ou alors commencer une nouvelle partie en mode Heart of Fury). Ce mod rajoute également de la difficulté dans le combat contre Torak, le leader du clan de la truc tordue, car il est accompagné de nouveaux compagnons...",
         "urls": [
             "https://weidu.org/iwd2.html"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "IWD2"
@@ -37087,7 +37058,7 @@
             "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/beholders.zip"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -37265,8 +37236,7 @@
             "http://www.shsforums.net/files/file/825-zalnoya-and-the-shadow-thieves/"
         ],
         "categories": [
-            "Quête",
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -37735,7 +37705,7 @@
             "http://www.shsforums.net/topic/54556-xminion-12-release/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -37760,7 +37730,7 @@
             "http://www.shsforums.net/topic/54552-xparty-14-release/"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BG2",
@@ -41770,7 +41740,7 @@
             "https://www.nexusmods.com/baldursgate/mods/47/"
         ],
         "categories": [
-            "Gameplay"
+            "Portrait et son"
         ],
         "games": [
             "BG",
@@ -41905,7 +41875,7 @@
             "https://github.com/qvni/misc_ex-v1"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -42981,7 +42951,7 @@
             "https://github.com/pcurrivan/ConvenienceScript"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -43157,7 +43127,7 @@
             "https://github.com/hybridgame/EEScript"
         ],
         "categories": [
-            "Gameplay"
+            "Script et tactique"
         ],
         "games": [
             "BGEE",
@@ -43265,7 +43235,7 @@
         "description": "Ce mod est un ensemble de divers patchs pour [[Improved Anvil]]. Il a été conçu pour les joueurs qui souhaitent faciliter, simplifier ou personnaliser leur expérience avec IA.",
         "urls": [
             "http://forums.blackwyrmlair.net/index.php?showforum=9",
-            "https://github.com/SparrowJacek/ImprovedAnvilTweaks"
+            "https://github.com/critto-bg/ImprovedAnvilTweaks"
         ],
         "categories": [
             "Gameplay"
@@ -43286,7 +43256,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-04",
+        "last_update": "2024-06",
         "tp2": "IATweaks"
     },
     {
