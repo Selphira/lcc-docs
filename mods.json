@@ -2467,7 +2467,7 @@
         "name": "Astral Warrior",
         "description": "Ce mod ajoute un profil de guerrier qui, pour une raison inconnue, \"réagit\" très bien à la magie de téléportation, et est capable de voyager dans les plans avec une grande facilité. Avec le temps, il peut se téléporter sur de petites distances.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/kits/Astral_Warrior.exe"
+            "https://baldur.cob-bg.pl/node/945"
         ],
         "categories": [
             "Kit"
@@ -2476,7 +2476,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Zaboleq"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -2612,7 +2614,7 @@
         "name": "Auramaster Druid",
         "description": "Ce mod ajoute un profil de druide assez puissant qui peut utiliser l'énergie magique flottant dans la nature pour lancer des sorts plus rapidement et plus fréquemment. Il peut aussi lancer des sorts profanes et divins non disponibles pour les autres druides.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/kits/Auramaster_druid_kit.zip",
+            "https://baldur.cob-bg.pl/node/893",
             "https://github.com/Plutonium-X/KIT_Auramaster"
         ],
         "categories": [
@@ -2627,7 +2629,7 @@
             "IWDEE"
         ],
         "authors": [
-            "sikret_the_great"
+            "Sikret"
         ],
         "team": [],
         "notes": [
@@ -2958,7 +2960,8 @@
         "name": "Avi Maya Project",
         "description": "Ce mod en polonais ajoute une femme spectrale nommée Avi Maya. C'est une barde mort-vivante qui est impatiente de rejoindre votre groupe. Elle a ses propres quêtes, peut être romancée et dispose d'interactions avec les autres membres du groupe. Selon l'auteur, les dialogues ont été écrit avec beaucoup d'humour noir.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/npc/Avi_Maya_Project_v6.zip"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=2996",
+            "https://baldur.cob-bg.pl/node/1161"
         ],
         "categories": [
             "PNJ recrutable"
@@ -2967,7 +2970,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -2976,8 +2981,8 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2009-09",
+        "tp2": "AviM"
     },
     {
         "name": "Ayden Project",
@@ -8546,8 +8551,7 @@
         "name": "Dale Keeper2",
         "description": "Cet utilitaire vous permet d'éditer vos sauvegardes de IWD2.",
         "urls": [
-            "http://donniedarko2006.free.fr/dalekeeper2.html",
-            "http://donniedarko2006.free.fr/DK2-Beta-5.zip"
+            "http://donniedarko2006.free.fr/dalekeeper2.html"
         ],
         "categories": [
             "Utilitaire"
@@ -8667,7 +8671,7 @@
         "name": "Dark Ritual",
         "description": "Désormais inclus dans [[Vampire Tales]], ce mini mod ajoutait le marchand Asgrim dans le Temple de Talos, avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2. De plus, il améliorait le Culte de l'Œil Aveugle et le bâtiment des Ménestrels. Ses 26 nouveaux objets étaient principalement répartis dans le magasin d'Asgrim et sur le corps de Lilith.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/items/Dark_Ritual_v1.01.zip"
+            "https://www.baldur.cob-bg.pl/node/749"
         ],
         "categories": [
             "Forgeron et marchand",
@@ -8677,7 +8681,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Dark Raven"
+        ],
         "team": [
             "Panaka"
         ],
@@ -10219,7 +10225,7 @@
     },
     {
         "name": "Dudleyfix pour BG (et ToSC)",
-        "description": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\". Le <a href=\"http://www.forgottenwars.com/dudleyfix/bg1fixes/archive/DFxBG1_FixPack-1.zip\">FixPack #1</a> est celui contenant les corrections essentielles. Ces patchs ne sont pas à proprement parler traduits, mais la plupart n'ont pas besoin de traduction (ils n'ajoutent et ne modifient aucun texte).",
+        "description": "Surnommé Dudleyville, ce fixpack a pour vocation de corriger tous les bugs du jeu identifiés et non résolus par Baldurdash (de Kevin Dorner). Il contient plus de 700 correctifs et patches (la plupart mineurs), dont certaines modifications ayant pour but de proposer une expérience de jeu plus proche de celle des règles papier.|Les patches sont à récupérer dans la partie \"Dudleyfix BG1 Fixes\" puis \"Completed Fixpack\". Ces patchs ne sont pas à proprement parler traduits, mais la plupart n'ont pas besoin de traduction (ils n'ajoutent et ne modifient aucun texte).",
         "urls": [
             "http://www.forgottenwars.com/dudleyfix/fixpacks.htm"
         ],
@@ -10676,10 +10682,10 @@
         "tp2": ""
     },
     {
-        "name": "Ease-of-use pack for BG1",
+        "name": "Ease-of-use Pack for BG1",
         "description": "Ce mod simplifie la vie du joueur en proposant un sac de contenance comme dans Baldur's Gate II, en permettant des piles d'objets plus importantes, en maximisant les points de vie à chaque gain de niveau, en facilitant l'apprentissage des sorts, en empêchant les personnages de partir à cause de la réputation...",
         "urls": [
-            "https://www.sorcerers.net/Games/dl.php?s=BG&f=BG/BG1-ease.zip"
+            "https://sorcerers.net/Games/BG/index_mods2.php"
         ],
         "categories": [
             "Gameplay"
@@ -10687,7 +10693,9 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "Tioma"
+        ],
         "team": [],
         "notes": [
             "Il est désormais obsolète après avoir été remplacé par le mod [[The Tweaks Anthology]]."
@@ -11071,7 +11079,7 @@
         "name": "Elvanshalee NPC",
         "description": "Ce mod allemand ajoute un nouveau PNJ, Elvanshalee, une drow chaotique good, prêtresse d'Elistraée, que vous trouverez dans le quartier du gouvernement. Elle utilise une épée que seules les prêtresses d'Elistraée peuvent manier.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/npc/ElvanA01.zip"
+            "https://www.baldur.cob-bg.pl/node/1201"
         ],
         "categories": [
             "PNJ recrutable"
@@ -11080,7 +11088,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Seradin"
+        ],
         "team": [],
         "notes": [
             "Attention : Ce mod est réputé quelque peu bogué, Elvanshalee ayant la fâcheuse tendance à répéter les mêmes dialogues."
@@ -11255,7 +11265,8 @@
         "name": "Enhanced BG2",
         "description": "À l'origine, le contenu de ce mod polonais devait faire partie d'un projet plus important, mais qui n'a jamais été terminé. Il apporte plusieurs modifications au jeu, sensées le rendre plus attrayant. Il contient plusieurs composants :|- sur la Promenade de Waukyne, le marchand ambulant Alyoud vend 7 objets magiques puissants.|- ajout et modification d'interactions entre personnages.|- ajout de tomes et de manuels dans des contenants vides ou sans intérêt.|- Donjon d'Irenicus : il est possible de négocier avec le génie pour obtenir la cape de Baldurien.|- ajout de nouveaux portraits pour votre personnage.|- restauration de descriptions d'objets manquantes (Plate Mail +3 : 'The Practical Defense', Sling +3 : 'Arla's Dragonbane').|- bonus aux sets d'objets : un personnage équipé de tous les objets draconiques forgés par Wormsor ou de l'équipement de Baldurien reçoit des bonus supplémentaires.|- ajout de 5 nouvelles races ennemies : gnoll, squelette, wiverne, yuan-ti et zombie.|- ajout de 10 profils dont certains proviennent des classes de prestige de AD&D3 : guerrier (Chevalier, Duelliste, Gladiateur, Légionnaire), rôdeur (Globe-trotter), paladin (Croisé, Terreur des liches, Tueur de dragon), voleur (Tueur silencieux) et clerc (Prêtresse d'Aurile).|- diverses modifications mineures dans le Donjon d'Irenicus.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/multi/Enhanced_BG2_v1.1.rar"
+            "https://baldur.cob-bg.pl/node/891",
+            "https://baldur.cob-bg.pl/download/bg2/multi/Enhanced_BG2_v1.1.rar"
         ],
         "categories": [
             "Kit",
@@ -11266,7 +11277,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Nastian"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -11507,7 +11520,8 @@
         "name": "Er'vonyrah: Pieśń Władającej",
         "description": "Parfois appelé Sovereign, ce mod polonais (Song of the Mistress/Ruler) ajoute plus de 40 nouvelles cinématiques et de nombreux dialogues. Une nuit, vous faites un cauchemar et vous rêvez d'un homme qui veut passer un contrat avec vous. Le lendemain, vous vous réveillez dans votre lit, un parchemin à la main... Cette histoire insolite vous mènera du donjon d'Irenicus jusqu'à ToB",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/quests/ervonyrah_v1.3.4.rar"
+            "https://baldur.cob-bg.pl/node/1261",
+            "https://baldur.cob-bg.pl/download/bg2/quests/ervonyrah_v1.3.4.rar"
         ],
         "categories": [
             "Quête"
@@ -11516,7 +11530,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "L`f"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod n'est pas compatible avec le composant `Cinématiques et rêves des chapitres 1 et 2 accélérés` de [[The Tweaks Anthology]] à cause de l'usage intensif qu'il fait des cinématiques."
@@ -12244,9 +12260,9 @@
     },
     {
         "name": "Filipe_FR's All NPCs at the Beginning",
-        "description": "Ce mod français change l'emplacement de certains personnages recrutables de façon à ce qu'on puisse les rencontrer (et donc les embaucher) dès les premiers chapitres du jeu. Fonctionne avec Baldur's Gate et Tales of the Sword Coast. Il existe une <a href=\"http://www.baldursgateworld.fr/lacouronne/attachments/le-festival-de-nashkel-les-modules-bg1/6405d1330340547-mod-all-npcs-beginning-anpcatb_dsotsc_v1.0.zip\">version compatible avec [[Dark Side of the Sword Coast]]</a>.",
+        "description": "Ce mod français change l'emplacement de certains personnages recrutables de façon à ce qu'on puisse les rencontrer (et donc les embaucher) dès les premiers chapitres du jeu. Fonctionne avec Baldur's Gate et Tales of the Sword Coast. Sur cette page, vous trouverez aussi une version compatible avec [[Dark Side of the Sword Coast]].",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/le-festival-de-nashkel-les-modules-bg1/9349-mod-All-npcs-beginning.html"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=9349"
         ],
         "categories": [
             "PNJ (autre)"
@@ -13109,7 +13125,7 @@
         "name": "GateKeeper",
         "description": "Cet utilitaire vous permet d'éditer vos sauvegardes de BG.",
         "urls": [
-            "https://www.baldursgateworld.fr/filesmods/GateKeeper.zip"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24092"
         ],
         "categories": [
             "Utilitaire"
@@ -13659,7 +13675,7 @@
         "name": "Gloran NPC",
         "description": "Ce mod polonais ajoute un guerrier nain chaotique bon. On peut trouver Gloran aux portes de la ville. Malheureusement, ce mod n'a plus été développé depuis l'annonce de sa parution.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/npc/Gloran_v3.zip"
+            "https://baldur.cob-bg.pl/gloran"
         ],
         "categories": [
             "PNJ recrutable"
@@ -13668,7 +13684,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Gloran"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -14253,7 +14271,7 @@
     },
     {
         "name": "Heart of Fury",
-        "description": "S'inspirant du mode Heart of Fury d'Icewind Dale, ce mod est très semblable à Harder BG1. Il rend les adversaires plus difficiles à tuer en augmentant leurs points de vie (HP x 3 + 50), mais aussi en les rendant plus difficiles à toucher (-5 à la CA) et plus compétents au combat (-5 au TAC0). Même un simple grouilleux devient dangereux !",
+        "description": "S'inspirant du mode Heart of Fury d'Icewind Dale, ce mod est très semblable à [[Harder BG1 Patch]]. Il rend les adversaires plus difficiles à tuer en augmentant leurs points de vie (HP x 3 + 50), mais aussi en les rendant plus difficiles à toucher (-5 à la CA) et plus compétents au combat (-5 au TAC0). Même un simple grouilleux devient dangereux !",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=BG&f=BG/BG1-HoF.zip"
         ],
@@ -14502,7 +14520,7 @@
         "name": "Heroes of Amn",
         "description": "Ce mod polonais ajoute :|- 6 nouveaux profils : Tueur de démons, Chevalier erroné, Prêtre de Sunie, Prêtre de Kelevmor, Prêtre de Gargauth et Silencieux.|- 6 nouveaux PNJ non recrutables avec lesquels parler.|- de nouveaux portraits, principalement pour les PNJ.|- 2 nouveaux magasins (l'un d'eux dans le cimetière) et le marchand Lisz.|- environ 20 nouveaux objets (certains à acheter dans les magasins, d'autres à trouver).|- plusieurs personnages originaux auront leurs propres portraits.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/multi/HoA.rar"
+            "https://baldur.cob-bg.pl/node/890"
         ],
         "categories": [
             "Kit",
@@ -14512,7 +14530,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Kallen"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -16024,7 +16044,7 @@
         "name": "Improved Battles",
         "description": "Très ancien (2005), ce mod avait pour vocation d'augmenter la difficulté d'un certain nombres de combats (Drizzt, Firkraag, etc.). Il ajoutait par ailleurs quatre nouveaux profils de guerrier.|Si vous tenez vraiment à le tester, préférez-lui son descendant [[Revised Battles]].",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/challenges/Improved_Battles_v6.zip"
+            "https://baldur.cob-bg.pl/node/1090"
         ],
         "categories": [
             "Script et tactique"
@@ -16033,7 +16053,10 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Moonfruit",
+            "Tyrus"
+        ],
         "team": [
             "Thot"
         ],
@@ -17952,7 +17975,7 @@
             "Raphaël Mizrahi"
         ],
         "notes": [
-            "Ce mod est obsolète depuis qu'il a été intégré dans le [[Ding0's Quest Pack]] de PPG."
+            "Ce mod est obsolète depuis qu'il a été intégré dans le [[Ding0's Quest Pack]] de PPG. De plus le site l'hébergeant n'est plus disponible."
         ],
         "translation_state": "yes",
         "safe": 0,
@@ -18052,7 +18075,7 @@
         "name": "Kiara Zaiya",
         "description": "Ce mod d'Alan MC ajoute 2 nouveaux personnages féminins, une mage chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de [[Tactics]] ou d'[[Ascension]] pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd).",
         "urls": [
-            "https://www.baldursgateworld.fr/filesmods/ModsBGtraduits/kiara-zaiya-v2.0.1.zip",
+            "http://www.shsforums.net/topic/61123-kiara-zaiya-npcs-updated-to-v201-ee-compatible/",
             "https://github.com/SpellholdStudios/Kiara-Zaiya"
         ],
         "categories": [
@@ -18618,7 +18641,7 @@
         "name": "Larsha NPC",
         "description": "Larsha est une dryade qui cherche son arbre, avec lequel elle s'unira pour gagner un grand pouvoir sous la forme d'un sort très intéressant. Une romance est aussi possible. Vous la trouverez dans les Collines de Lancevent.",
         "urls": [
-            "http://baldur.cob-bg.pl/larsha"
+            "https://baldur.cob-bg.pl/larsha"
         ],
         "categories": [
             "PNJ recrutable"
@@ -18627,7 +18650,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Marcin Kijo"
+        ],
         "team": [],
         "notes": [
             "Ce mod est en polonais."
@@ -18847,8 +18872,7 @@
         "name": "Legion of Hell",
         "description": "Ce mod ajoute cinq nouveaux profils tirés des chapitres interdits (D&D 3e édition) : Disciple de Dispater (guerrier), Disciple de Mammon (voleur), Disciple de Méphistophélès (guerrier), Disciple de Belzébuth (voleur) et Disciple d'Asmodée (prêtre).",
         "urls": [
-            "http://www.shsforums.net/topic/55145-bwp-v112-released/page-6#entry557184",
-            "https://www.mediafire.com/file/383n6bzz0lmnzla/LOHMod.zip/file"
+            "http://www.shsforums.net/topic/55145-bwp-v112-released/page-6#entry557184"
         ],
         "categories": [
             "Kit"
@@ -18933,7 +18957,7 @@
         "name": "Lester NPC",
         "description": "Vous rencontrerez le guerrier Bons, amateur de bière, au deuxième niveau du donjon d'Irenicus. Lorsqu'il est ivre, il a des capacités spéciales - et parfois des problèmes avec l'alcool.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/npc/Lester.zip"
+            "https://www.baldur.cob-bg.pl/lester"
         ],
         "categories": [
             "PNJ recrutable"
@@ -18942,7 +18966,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Shaggie"
+        ],
         "team": [],
         "notes": [
             "Ce mod est en polonais."
@@ -22018,10 +22044,10 @@
         "tp2": "npc_tweak"
     },
     {
-        "name": "Najebawszy Mod",
+        "name": "Najebawszy",
         "description": "Ce mod polonais corrige et améliore certains objets du jeu, en affaiblit aussi quelques uns. Un composant limite le nombre d'objets magiques uniques que l'on peut trouver facilement (ils sont remplacés par des objets de même niveau de magie, à quelques exceptions près). Enfin, d'autres composants ajoutent plusieurs profils.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/items/Najebawszy,_wersja_1.exe"
+            "https://baldur.cob-bg.pl/node/796"
         ],
         "categories": [
             "Sort et objet",
@@ -22031,7 +22057,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Yarpen"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -23573,8 +23601,7 @@
         "name": "Paladins of Faerun Kitpack",
         "description": "Issu du projet de mega mod tchèque éponyme, ce mod ajoute pas moins de 18 profils (3 dans chaque classe de guerrier, paladin, rôdeur, voleur, barde et druide), provenant généralement des versions papier et retouchés par le concepteur.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/kits/PoF_Kitpack_V5.rar",
-            "http://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=20636"
+            "https://baldur.cob-bg.pl/node/902"
         ],
         "categories": [
             "Kit"
@@ -23583,17 +23610,23 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Yarpen"
+        ],
         "team": [],
         "notes": [
             "Attention : en l'état, il supprime l'accès aux profils originaux lors de la création du personnage."
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "cz"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2007-05",
+        "tp2": "PofKits"
     },
     {
         "name": "Paladins of Faerûn Quest Pack",
@@ -23661,7 +23694,7 @@
         "name": "Pamiątki z Północy",
         "description": "Ce mod polonais (Souvenirs du Nord) modifie 33 objets de BG2 pour les rendre plus utiles, et ajoute 35 objets de [[Northern Tales of the Sword Coast]] à l'échoppe de Mira sur la Promenade de Waukyne. Par ailleurs, il ajoute les vendeurs Deidre et Joluv, et modifie quelque peu l'environnement de l'Antichambre.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/items/Pamiatki_z_Polnocy_v1.0.zip"
+            "https://baldur.cob-bg.pl/node/763"
         ],
         "categories": [
             "Sort et objet"
@@ -23670,7 +23703,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Riklaunim"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -25519,7 +25554,7 @@
         "name": "Raziel NPC",
         "description": "Ce mod polonais ajoute un nouveau personnage recrutable qui, lui-aussi, a été capturé et emprisonné par Irenicus.",
         "urls": [
-            "http://baldur.cob-bg.pl/raziel"
+            "https://baldur.cob-bg.pl/raziel"
         ],
         "categories": [
             "PNJ recrutable"
@@ -25528,7 +25563,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Nastian"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -26535,7 +26572,7 @@
         "name": "Riklaunim's Crazy Remixes (Szalone Remixy)",
         "description": "Ce mod polonais (traduit en anglais) propose toute une collection d'ajustements des règles : il modifie les sorts protégeant contre les armes magiques, remplace certaines espèces de créatures par d'autres (golem de sable, vampires...), rend plus forts les fanatiques qui veulent brûler Viconia, et ajoute des PNJ recrutables (mais sans aucun dialogue !).",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/challenges/Szalone_Remiksy_v2.5.zip"
+            "https://baldur.cob-bg.pl/download/bg2/challenges/Szalone_Remiksy_v2.5.zip"
         ],
         "categories": [
             "Gameplay"
@@ -26544,17 +26581,20 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Riklaunim"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "pl"
+            "pl",
+            "en"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2007-06",
+        "tp2": "crazy"
     },
     {
         "name": "Rjali Romance",
@@ -26970,7 +27010,7 @@
         "name": "Runic Bladesinger Elven Kit",
         "description": "Ce mod installe le profil de Chantelame runique, uniquement pour les guerrier elfes. En polonais.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/kits/Runiczny_v2.0.zip"
+            "https://baldur.cob-bg.pl/download/bg2/kits/Runiczny_v2.0.zip"
         ],
         "categories": [
             "Kit"
@@ -26979,7 +27019,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Riklaunim"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -26988,8 +27030,8 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2003-11",
+        "tp2": "Run"
     },
     {
         "name": "Rupert the Dye Merchant",
@@ -27035,7 +27077,7 @@
         "name": "Rycerz Światłości",
         "description": "Ce mod installe le profil de paladin Chevalier de la lumière. En polonais.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/kits/Rycerz_Swiatlosci_v1.0.2.rar"
+            "https://baldur.cob-bg.pl/node/915"
         ],
         "categories": [
             "Kit"
@@ -27044,7 +27086,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Alvarez"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -34288,7 +34332,7 @@
         "name": "Twist Pack",
         "description": "Ce mod proposait toute une collection d'ajustements de règles du jeu.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/tweaks/Twist_Pack.zip"
+            "https://baldur.cob-bg.pl/node/1592"
         ],
         "categories": [
             "Gameplay"
@@ -34297,7 +34341,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "aWoundedLion"
+        ],
         "team": [],
         "notes": [
             "Il est désormais obsolète car il a été inclus dans le mod [[Morrow Gate]]."
@@ -35991,7 +36037,7 @@
         "name": "Warrior kit pack",
         "description": "Ce mod ajoute sept nouveaux profils, la plupart tirés des classes de prestige de la troisième édition de D&D :|- paladins : Chevalier hospitalier, Chevalier templier et Chevalier religieux.|- guerriers : Archer hors pair (tireur d'élite) et Briseur de hordes.|- rôdeurs : Éclaireur sauvage et Gardien de la forêt.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/kits/Warrior_Kit_Pack_v1.zip"
+            "https://baldur.cob-bg.pl/node/932"
         ],
         "categories": [
             "Kit"
@@ -36000,7 +36046,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "the only dragon"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -36695,10 +36743,10 @@
         "tp2": "wsr"
     },
     {
-        "name": "Wladca Zywiolow",
+        "name": "Władca Żywiołów",
         "description": "Ce mod ajoute un profil de druide, le Maître des éléments. En polonais...",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/kits/WLadca.zip"
+            "https://baldur.cob-bg.pl/node/944"
         ],
         "categories": [
             "Kit"
@@ -36707,7 +36755,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Aroc"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -36716,8 +36766,8 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-08",
+        "tp2": "wladca"
     },
     {
         "name": "Wolf Lord: Shapeshifter Upgrade",
@@ -36763,7 +36813,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2008-03",
         "tp2": ""
@@ -36999,7 +37051,7 @@
         "description": "Créé par igi, Xando est un mod assez particulier puisque c'est l'unique conversion totale a avoir été réalisée en un jour ! Bref, c'est... très spécial.",
         "urls": [
             "http://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=21887",
-            "http://baldur.cob-bg.pl/node/1495"
+            "https://baldur.cob-bg.pl/node/1495"
         ],
         "categories": [
             "Conversion"
