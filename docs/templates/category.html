@@ -24,12 +24,12 @@
                     {% for game in mod.games %}<p>{{ game }}</p>{% endfor %}
                 </div>
                 <div class="team">
-                    {% if mod.team|length <= 2 %}
-                        {% for user in mod.team %}<p>{{ user }}</p>{% endfor %}
+                    {% if mod.authors|length <= 2 %}
+                        {% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}
                     {% else %}
-                        <input type="checkbox" id="{{ mod.id }}·{{ category.id }}·team" class="read-more-state">
-                        <label for="{{ mod.id }}·{{ category.id }}·team">Équipe</label>
-                        <div class="read-more-target">{% for user in mod.team %}<p>{{ user }}</p>{% endfor %}</div>
+                        <input type="checkbox" id="{{ mod.id }}·{{ category.id }}·author" class="read-more-state">
+                        <label for="{{ mod.id }}·{{ category.id }}·author">Équipe</label>
+                        <div class="read-more-target">{% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}</div>
                     {% endif %}
                 </div>
                 <div class="desc">

@@ -176,7 +176,20 @@ class Mod:
             )
         elif self.status == "wip":
             auto_notes.append("Ce mod est toujours en cours de réalisation.")
+        if self.team:
+            auto_notes.append(
+                f"Traducteur{'s' * (len(self.team) > 1)} 🇲🇫 : {self.get_team_str()}"
+            )
         return auto_notes
+
+    def get_team_str(self) -> str:
+        match len(self.team):
+            case 0:
+                return ""
+            case 1:
+                return self.team[0]
+            case _:
+                return ", ".join(self.team[:-1]) + " et " + self.team[-1]
 
     @property
     def notes(self) -> list:
