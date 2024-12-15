@@ -3419,7 +3419,7 @@
         ],
         "authors": [
             "Japheth",
-            "Weimer"
+            "Wes Weimer"
         ],
         "team": [
             "Trouveur"
@@ -3447,7 +3447,12 @@
         "games": [
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "SimDing0",
+            "Ghreyfain",
+            "CamDawg",
+            "Andyr"
+        ],
         "team": [
             "Graoumf",
             "Sanctifer"
@@ -3455,10 +3460,13 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2013-04",
+        "tp2": "tutufix"
     },
     {
         "name": "BG1 Tweaks Pack",
@@ -26181,15 +26189,17 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "SimDing0"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-08",
+        "tp2": "tutusounds"
     },
     {
         "name": "Restored Rhynn Lanthorn Quest",
@@ -39027,7 +39037,7 @@
             "EET"
         ],
         "authors": [
-            "Weimer"
+            "Wes Weimer"
         ],
         "team": [
             "Ly Meng",
