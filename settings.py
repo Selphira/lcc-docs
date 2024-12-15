@@ -103,8 +103,7 @@ class Games(enum.StrEnum):
 categorie_names = [
     "Patch non officiel",
     "Utilitaire",
-    "Conversion partielle",
-    "Conversion totale",
+    "Conversion",
     "Interface",
     "Cosmétique",
     "Portrait et son",

@@ -74,8 +74,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 `categories`: liste des catégories dans lesquelles le mod est placé. Valeurs possibles :
  - Patch non officiel
  - Utilitaire
- - Conversion partielle
- - Conversion totale
+ - Conversion
  - Interface
  - Cosmétique
  - Portrait et son
