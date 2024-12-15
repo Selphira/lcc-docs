@@ -6261,8 +6261,7 @@
         "name": "Caina Fighter/Brigand NPC and Zarra Ranger/Archer NPC",
         "description": "Ce mod ajoute deux PNJ mauvais dans BG:EE :|- Caina est une mercenaire de Luskan. Vous pouvez la trouver à Bérégost dans un manoir au nord où elle travaille pour Gerard Travenhurst afin d'éponger ses dettes. Elle dispose d'un profil de brigand. Elle ne vous rejoindra qu'après avoir accompli sa quête. Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware. Si vous voyagez avec elle, elle donnera des cadeaux à Edwin, Xzar et Xan.|- Zarra est une drow de la ville de Sschindylryn (près de Cormyr). C'est une archère chasseuse de gobelins qui possède un animal compagnon, Auflaque. Elle est visiblement perdue et a besoin de votre aide pour retrouver un objet qui lui appartient. Vous la rencontrerez près de Nashkel (dans la première zone de quête de Dorn). Elle a beaucoup d'interactions et quelques badinages avec les PNJ de Bioware et une quête personnelle. Elle est très nerveuse et vulnérable, traitez-la bien ou elle partira.|Ce mod comprend 3 nouveaux donjons (10 nouvelles zones), de nouveaux ennemis et plus de 20 nouveaux objets.",
         "urls": [
-            "https://forums.beamdog.com/discussion/34279/",
-            "https://www.mediafire.com/file/b9z8ladxpi5la64/BGEEDLJ_1.02.zip/file"
+            "https://forums.beamdog.com/discussion/34279/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -21431,7 +21430,7 @@
             "BG2EE"
         ],
         "authors": [
-            "hlidskialf"
+            "Mortis"
         ],
         "team": [
             "BohemianReader"
@@ -21444,7 +21443,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2010-05",
-        "tp2": ""
+        "tp2": "Mortis"
     },
     {
         "name": "Mortuary Be Gone",
@@ -23925,8 +23924,7 @@
         "name": "Perils of Branwen",
         "description": "Ce mod ajoute Branwen (le PNJ du Baldur's Gate original) dans le district du Pont d'Athkatla, mais propose très peu de contenu.",
         "urls": [
-            "http://davelevy.info/bg2/Branwen/POB.html",
-            "http://www.davelevy.info/bg2/Branwen/POB_v0.9.zip "
+            "https://davelevy.info/bg2/Branwen/POB.html"
         ],
         "categories": [
             "PNJ recrutable"
@@ -23935,17 +23933,22 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Lennon"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Branwen NPC]], [[Branwen NPC for BGII]] et [[BG1 NPC in SoA&ToB]]."
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2009-06",
+        "tp2": "POB"
     },
     {
         "name": "Petsy",
@@ -24851,7 +24854,7 @@
     },
     {
         "name": "Power Action Leprechaun Annah",
-        "description": "Il s'agit de fichiers modifiant l'apparence d'Annah : elle porte désormais une armure de cuir verte, un chapeau de lutin, et est armées de trèfles au lieu de poignards.|Les fichiers sont à extraire dans le répertoire override du jeu.",
+        "description": "Il s'agit de fichiers modifiant l'apparence d'Annah : elle porte désormais une armure de cuir verte, un chapeau de lutin, et est armée de trèfles au lieu de poignards.|Les fichiers sont à extraire dans le répertoire override du jeu.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=PST&f=Torment/annah_patty.zip"
         ],
@@ -24865,11 +24868,11 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Power of Belief",
@@ -27990,7 +27993,7 @@
         "name": "ShadowKeeper",
         "description": "Cet utilitaire vous permet d'éditer vos sauvegardes de BG2.",
         "urls": [
-            "https://www.baldursgateworld.fr/filesmods/ShadowKeeper.zip"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24092"
         ],
         "categories": [
             "Utilitaire"
@@ -29981,7 +29984,7 @@
         "name": "Summon Bhaalspawn (Sandra NPC)",
         "description": "Ce mod vous permet de recruter sur les quais cette paladine chasseuse de mort-vivants. Pas de romance et des dialogues embryonnaires, mais quelques banters et une surprise spéciale pour Imoen. Efficace comme tank anti-vampire.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/SBS-v3.zip"
+            "https://github.com/GwendolyneFreddy/Summon_Bhaalspawn"
         ],
         "categories": [
             "PNJ One Day"
@@ -30002,8 +30005,8 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2012-07",
-        "tp2": "SBS"
+        "last_update": "2021-12",
+        "tp2": "sbs"
     },
     {
         "name": "Sun Soul Monk kit",
@@ -30637,8 +30640,7 @@
         "name": "Taim NPC",
         "description": "Ce petit mod sans dialogues, ni quêtes, n'a qu'un seul intérêt : enrôler un voleur d'alignement bon dans son équipe. À vous de voir...",
         "urls": [
-            "http://www.shsforums.net/files/file/483-taim-npc/",
-            "http://downloads.chosenofmystra.net/bg2/MTSTaim-2.zip"
+            "http://www.shsforums.net/files/file/483-taim-npc/"
         ],
         "categories": [
             "PNJ One Day"
@@ -31187,10 +31189,9 @@
     },
     {
         "name": "Tenya Thermidor",
-        "description": "Bien qu'âgée d'une vingtaine d'années, Tenya est très puissante pour son âge, grâce à l'entraînement prodigué par sa mère pour la gloire d'Umberlie. Et elle est très en colère après le meurtre de sa mère... Elle dispose d'une mini-quête qui lui permettra d'utiliser son bol de contrôle élémentaire, et éventuellement de ramasser un ou deux autres objets en cours de route.",
+        "description": "Bien qu'âgée d'une vingtaine d'années, Tenya est très puissante pour son âge, grâce à l'entraînement prodigué par sa mère pour la gloire d'Umberlie. Et elle est très en colère après le meurtre de sa mère... Elle dispose d'une mini-quête qui lui permettra d'utiliser son bol de contrôle élémentaire, et éventuellement de ramasser un ou deux autres objets en cours de route. C'est une clerc d'alignement Chaotique Neutre avec un talent inné pour l'élément eau. Elle compense ses caractéristiques assez moyennes par des objets efficaces.|FOR 9, DEX 16, CON 14, INT 12, SAG 16, CHA 13.",
         "urls": [
-            "https://forums.beamdog.com/discussion/33291/",
-            "https://www.mediafire.com/file/ar99e68bb21ae7h/BGT_Converted_BWP_Tenya15c.zip/file"
+            "https://forums.beamdog.com/discussion/33291/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -32710,8 +32711,7 @@
         "name": "The Stone of Askavar",
         "description": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir.|Depuis la version 1.9, il est désormais réuni dans un seul package pour BG1, BG1Tutu, BGT, BG:EE avec ou sans SoD.|<a href=\"http://www.users.totalise.co.uk/~bluerift/\">Site du développeur</a>.",
         "urls": [
-            "http://www.users.totalise.co.uk/~bluerift/#Downloads",
-            "http://downloads.chosenofmystra.net/bg1/tsoaV2_2.zip"
+            "http://www.users.totalise.co.uk/~bluerift/#Downloads"
         ],
         "categories": [
             "Quête"
@@ -34462,15 +34462,19 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Rabain"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2007-09",
+        "tp2": "sagaman"
     },
     {
         "name": "Ultimate Shapeshifting and Rebalancing Fix",
