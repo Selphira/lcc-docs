@@ -1,7 +1,6 @@
 import os
 import re
 import unicodedata
-from typing import List
 
 from settings import (
     FLAG_DIR,
@@ -83,7 +82,7 @@ class Mod:
         return [Url(url) for url in self.urls]
 
     @property
-    def icons(self) -> List[Icon]:
+    def icons(self) -> list[Icon]:
         icons = list()
         for attr, data_icons in attrs_icon_data.items():
             value = getattr(self, attr)

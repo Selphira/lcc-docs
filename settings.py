@@ -1,6 +1,5 @@
 import enum
 import os
-from typing import Dict
 
 STATIC_ROOT = os.path.join("docs", "static")
 IMG_ROOT = os.path.join(STATIC_ROOT, "img")
@@ -12,7 +11,7 @@ IMG_ROOT = os.path.join(STATIC_ROOT, "img")
     - installation difficile
     - mod en version bêta ou wip
 """
-attrs_icon_data: Dict[str, Dict[tuple, Dict[str, str]]] = {
+attrs_icon_data: dict[str, dict[tuple, dict[str, str]]] = {
     "safe": {
         (2, "2"): {
             "icon": "🟢",
