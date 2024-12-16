@@ -441,7 +441,7 @@ a.discret:link {
 }
 
 .table .team,
-.table .team .read-more-target {
+.table .team .content {
     display: grid;
     gap: 1px;
     justify-items: center;
@@ -449,15 +449,14 @@ a.discret:link {
 }
 
 @media screen and (max-width: 900px) {
-    .table .team .read-more-target {
+    .table .team .content {
         display: flex;
         flex-wrap: wrap;
     }
 }
 
-.table .team label {
+.team summary {
     font-size: var(--font-size-medium);
-    z-index: 1;
 }
 
 @media screen and (max-width: 900px) {
@@ -519,38 +518,23 @@ a.discret:link {
     }
 }
 
-.read-more-state {
-    display: none;
-}
-
-.read-more-target {
-    opacity: 0;
-    max-height: 0;
-    font-size: 0;
-    transition: .3s ease-in-out;
-}
-
-.read-more-state:checked~.read-more-target {
-    opacity: 1;
-    font-size: inherit;
-    max-height: 999em;
-}
-
-.read-more-state~label {
+summary {
     color: var(--color-primary);
     cursor: pointer;
     font-weight: bold;
+    padding: 4px;
+    margin-bottom: 4px;
 }
 
-.read-more-state~label:hover {
+summary:hover {
     background-color: #473f34;
 }
 
-.read-more-state~label::before {
+details summary::marker {
     content: '▶ ';
 }
 
-.read-more-state:checked~label::before {
+details[open] summary::marker {
     content: '▼ ';
 }
 
