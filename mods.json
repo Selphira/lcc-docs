@@ -44626,5 +44626,35 @@
         "status": "active",
         "last_update": "2021-12",
         "tp2": "iylos"
+    },
+    {
+        "name": "Can I stab you?",
+        "description": "Ce mod répond de façon très modulaire à vos préférences en ce qui concerne l'immunité aux attaques sournoises. On se plaint souvent de ne pas pouvoir sournoisement poignarder de nombreux ennemis, y compris dans ToB, ce qui réduit la puissance des Voleurs (surtout en classe unique), qui sont déjà sous-puissants, alors que ces coups sont l'un des principaux, voire le seul moyen d'exceller et d'apporter une contribution majeure au combat.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38971-royalprotectors-backstab-immunity-tweaks-zs_canistabyou-100/",
+            "https://github.com/szaumoor/ZS_CanIStabYou-Mod"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "RoyalProtector"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "ZS_CanIStabYou"
     }
 ]
