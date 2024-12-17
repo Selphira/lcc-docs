@@ -4056,7 +4056,8 @@
         "name": "BGEE NPC Tweaks",
         "description": "Ce mod harmonise et modifie de nombreux PNJ du jeu. Vous pouvez leur attribuer un portrait unique pour l'ensemble de la saga, modifier leur classe ou leur kit.",
         "urls": [
-            "https://forums.beamdog.com/discussion/58941/"
+            "https://forums.beamdog.com/discussion/58941/",
+            "https://github.com/mleduque/s9-S9BGEENPCTWEAKS"
         ],
         "categories": [
             "PNJ (autre)"
@@ -4074,7 +4075,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-09",
         "tp2": "S9BGEENPCTweaks"
@@ -5118,14 +5121,16 @@
             "BG2",
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Drew"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2006-03",
         "tp2": ""
     },
     {
@@ -6072,7 +6077,7 @@
     },
     {
         "name": "Britt, the One-Hour Unjoinable NPC",
-        "description": "Fruit d'une collaboration d'une heure environ entre St. Joséphine et jcompton, Britt est une jeune femme enthousiaste qui dit qu'elle veut être une aventurière. Sauf que ça ne semble jamais vraiment marcher...",
+        "description": "Fruit d'une collaboration d'une heure environ entre St. Joséphine et jcompton, Britt est une jeune femme enthousiaste qui dit qu'elle veut être une aventurière. Elle a sa propre voix. Sauf que ça ne semble jamais vraiment marcher... Pour gagner du temps, ils sont partis du personnage de Nalia, elle possède certaines de ses compétences.|En revanche, toutes ses caractéristiques sont à 25.",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -6087,13 +6092,17 @@
             "jcompton"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Note de l'auteur : `It's not a good mod.`."
+        ],
         "translation_state": "no",
-        "safe": 2,
-        "languages": [],
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2004-10",
+        "tp2": "britt"
     },
     {
         "name": "Bruce, the Cockney Barfighter",
@@ -6764,16 +6773,20 @@
             "BGT"
         ],
         "authors": [
-            "Immortality"
+            "Sergiond"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "sp",
+            "it"
+        ],
         "status": "active",
         "last_update": "2010-07",
-        "tp2": ""
+        "tp2": "Charli"
     },
     {
         "name": "Charmed, I'm Sure",
@@ -7458,25 +7471,30 @@
     },
     {
         "name": "Compact Aura Cleanser",
-        "description": "Ce mod semble avoir disparu...",
+        "description": "Ce mod ajoute un marchand dans les Bas-Quartiers, appelé Barthemus. Celui-ci vend un parchemin d'Enchaînement permanent ! En théorie : il n'a que 1% de chances de fonctionner. Mais il semblerait que le parchemin fonctionne à chaque fois…",
         "urls": [
-            "http://gamingnerdsrus.co/forum/index.php?action=downloads;sa=view;down=208"
+            "https://america.iegmc.com/ultimastudios/"
         ],
         "categories": [
             "Sort et objet"
         ],
         "games": [
-            "BG2EE"
+            "BG2",
+            "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Lord Jyssev"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2005-07",
+        "tp2": "Aura"
     },
     {
         "name": "Conductor Kit for Bards",
@@ -7535,7 +7553,7 @@
     },
     {
         "name": "Constitution bonuses for everyone above 16",
-        "description": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires.|Ce mod écrase les fichiers HPCLASS.2da et HPCONBON.2da, et ne peut pas être désinstallé. De plus, comme un composant de [[Scales of Balance]] fait la même chose, privilégiez ce dernier.",
+        "description": "Ce mod permet à tous les personnages ayant plus de 15 de Constitution de bénéficier de points de vie supplémentaires.|Ce mod écrase les fichiers HPCLASS.2da et HPCONBON.2da, et ne peut pas être désinstallé. De plus, comme un composant de [[SubtleD's Stat Overhauls]] fait la même chose, privilégiez ce dernier.",
         "urls": [
             "https://forums.beamdog.com/discussion/47856/"
         ],
@@ -7556,7 +7574,7 @@
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2016-02",
         "tp2": "non-weidu"
     },
@@ -9119,7 +9137,9 @@
         "team": [
             "deratiseur"
         ],
-        "notes": [],
+        "notes": [
+            "À noter : il refuse de s'installer après des mods modifiant les mages (comme [[Sword Coast Stratagems]])."
+        ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -23254,7 +23274,7 @@
     },
     {
         "name": "Orcish Scout Kit",
-        "description": "",
+        "description": "Ces orcs sont généralement utilisés comme éclaireurs et doivent faire preuve d'une grande intelligence, afin de pouvoir se souvenir de ce qu'ils recueillent, d'une grande dextérité, afin de pouvoir se cacher lorsque quelqu'un regarde dans leur direction, et enfin, de force, afin de pouvoir se débarrasser de leurs ennemis lorsqu'ils sont vus. Ces orcs sont mortels et résistants.",
         "urls": [
             "http://america.iegmc.net/ultimastudios/"
         ],
@@ -23265,15 +23285,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Lord Jyssev"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le mod est compressé en .ace, il existe des convertisseurs en ligne qui vous permettront de l'ouvrir."
+        ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-03",
+        "tp2": "OrcScout"
     },
     {
         "name": "Orra",
@@ -25590,9 +25616,10 @@
     },
     {
         "name": "Realm of the Bhaalspawn Armor Set",
-        "description": "Ce petit mod ajoute un nouveau marchand sur la Promenade de Waukyne qui propose huit nouveaux types d'armures.",
+        "description": "Ce petit mod ajoute un nouveau marchand sur la Promenade de Waukyne qui propose huit objets défensifs : quelques armures très performantes mais aussi une robe pour moine.",
         "urls": [
-            "http://www.shsforums.net/files/file/1267-realm-of-the-bhaalspawn-armor-set/"
+            "http://www.shsforums.net/files/file/1267-realm-of-the-bhaalspawn-armor-set/",
+            "https://america.iegmc.com/ultimastudios/"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -25602,7 +25629,7 @@
             "BGT"
         ],
         "authors": [
-            "Insomniator"
+            "Lord Jyssev"
         ],
         "team": [],
         "notes": [],
@@ -25612,7 +25639,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2021-04",
+        "last_update": "2005-07",
         "tp2": "RotBArmorSet"
     },
     {
@@ -28699,8 +28726,8 @@
         "tp2": "Sirene"
     },
     {
-        "name": "Six's Kitpack",
-        "description": "Partant du constat que les classes et les profils du jeu sont moins puissantes que les jumelage ou multi-classages, ce mod s'efforce de rétablir l'équilibre en les améliorant un peu (spécialisations martiales comme 3 étoiles pour les paladins, capacités de haut niveau, utilisation des objets...). ToB est requis.|Des composants optionnels permettent de modifier le profil d'Archer et d'en installer 7 autres : Bowman et Shieldbearer (guerrier), Martyr et Mystic Marksman (paladin), Huntsman of Silvanus (druide), Spellshafter (barde) et Sniper (voleur).À l'origine, le mod avait pour ambition de proposer 22 nouveaux profils, mais il n'est plus développé depuis belle lurette...",
+        "name": "Six’s Kitpack",
+        "description": "Partant du constat que les classes et les profils du jeu sont moins puissantes que les jumelage ou multi-classages, ce mod s'efforce de rétablir l'équilibre en les améliorant un peu (spécialisations martiales comme 3 étoiles pour les paladins, capacités de haut niveau, utilisation des objets...). ToB est requis.|Des composants optionnels permettent de modifier le profil d'Archer et d'en installer 7 autres : Bowman et Shieldbearer (guerrier), Martyr et Mystic Marksman (paladin), Huntsman of Silvanus (druide), Spellshafter (barde) et Sniper (voleur). À l'origine, le mod avait pour ambition de proposer 22 nouveaux profils, mais il n'est plus développé depuis belle lurette...",
         "urls": [
             "https://www.pocketplane.net/sixs-kitpack/"
         ],
@@ -44656,5 +44683,138 @@
         "status": "active",
         "last_update": "2024-12",
         "tp2": "ZS_CanIStabYou"
+    },
+    {
+        "name": "The Shieldbearer",
+        "description": "Les `Shieldbearer` sont formés dès leur plus jeune âge à l'utilisation souvent sous-estimée des boucliers. Alors que certains guerriers pourraient l'abandonner au profit d'une seconde arme ou d'une lame plus grande, le Shieldbearer reste fidèle à sa voie. Pour sa persévérance et son dévouement à l'art, il est récompensé par les connaissances nécessaires pour transformer un simple bouclier en une extension inestimable, et souvent mortelle.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/61127",
+            "https://github.com/Lafein/Shieldbearer-kit-for-BGEE"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Lafein"
+        ],
+        "team": [],
+        "notes": [
+            "À ne pas confondre avec le Shieldbearer du mod [[Six’s Kitpack]] créé par SixOfSpades."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2016-08",
+        "tp2": ""
+    },
+    {
+        "name": "M'Khiin NPC",
+        "description": "Ce mod ajoute M'Khiin Grubdoubler, le compagnon gobelin de Siege of Dragonspear, à BG2EE en tant que PNJ recrutable. Charname peut choisir de la connaître ou de la rencontrer à nouveau dans SOA. Elle peut être recrutée dans le district du Temple. Elle possède plusieurs banters, bon nombre d'interactions ainsi qu'une petite quête.",
+        "urls": [
+            "https://github.com/bucketfulofsunshine/mkhiinbg2"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "bucketfulofsunshine"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [],
+        "status": "wip",
+        "last_update": "2024-12",
+        "tp2": ""
+    },
+    {
+        "name": "Reactivity Pack",
+        "description": "Ce mod ajoute de la subtilité dans les réponses de Charname en fonction de sa race, de sa classe ou de son kit. Cela ne modifie pas le résultat du dialogue mais permet de varier les réponses et finalement de redonner du goût à des dialogues lus et relus.",
+        "urls": [
+            "https://github.com/bucketfulofsunshine/bfs-reactivity-pack"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "bucketfulofsunshine"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2024-11",
+        "tp2": "reactivitypack"
+    },
+    {
+        "name": "Therrin NPC",
+        "description": "Therrin est un rôdeur elfe d'alignement neutre mauvais, exilé de Suldanessalar. On peut le trouver à l'auberge aux portes de la ville d'Athkatla. Sa race ennemie est le rakshasa. Il n'a pas de voix et n'a de contenu que pour SoA, bien qu'il soit testé sur une installation SoA+ToB entièrement patchée de BGII. Il possède le minimum de dialogue et une amulette.|FOR 18/15, DEX 17, CON 17, INT 13, SAG 14, CHA 10.",
+        "urls": [
+            "https://america.iegmc.com/shard/"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Jonathan Phipps"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2005-11",
+        "tp2": "Shard_Therrin"
+    },
+    {
+        "name": "One-handed crossbows",
+        "description": "Ce mod propose de modifier les arbalètes légères pour les rendre utilisable à une main et ainsi pouvoir les cumuler avec un bouclier.",
+        "urls": [
+            "http://www.shsforums.net/files/file/1158-one-handed-crossbows-for-bgee-and-sod/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "SoD"
+        ],
+        "authors": [
+            "temnix"
+        ],
+        "team": [],
+        "notes": [
+            "Privilégiez-lui le `Functional Weapon Tweaks` de [[SubtleD's Item Tweaks]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [],
+        "status": "obsolete",
+        "last_update": "2016-12",
+        "tp2": "non-weidu"
     }
 ]
