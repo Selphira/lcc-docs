@@ -990,7 +990,7 @@
         "name": "Alcool",
         "description": "Ce mod d'expansion ajoute un dialogue à l'initiative de Korgan pour passer une soirée dans une taverne avant de partir pour Spellhold.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24079-mods-crees-delire-alcool-v0-12-a.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24079",
             "https://github.com/The-Gate-Project/Alcool"
         ],
         "categories": [
@@ -2523,7 +2523,7 @@
         "name": "Au service d'Oghma",
         "description": "Thot a développé un petit mod sympathique qui ajoute une quête, donnée par un moine du temple d'Oghma, dans les Docks.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24078-mods-crees-Quete-au-service-d-oghma-v1-7-a.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24078",
             "https://github.com/Plutonium-X/Quete_Oghma"
         ],
         "categories": [
@@ -2926,7 +2926,7 @@
         "name": "AutoRest",
         "description": "Créé par deratiseur, ce petit mod bien pratique permet de simuler un repos sans avoir besoin de dormir 8 h. Vous pouvez bien évidemment choisir la qualité du repos. Désormais, il peut aussi rendre les pj immortels.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/33320-mod-baldur-s-gate-2-la-sauce-pillars-eternity.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=33320",
             "https://forums.beamdog.com/discussion/73318/",
             "https://github.com/Deratiseur/AutoRest"
         ],
@@ -5378,7 +5378,7 @@
         "name": "Big World Setup FR (BWS-FR)",
         "description": "Développé par Selphira sur votre forum préféré, BWS-FR est un fork du défunt <a href=\"https://github.com/BigWorldSetup/BigWorldSetup\">Big World Setup</a> spécialisé dans l'installation des mods traduits en Français et compatibles avec BGT (il installe aussi certains mods anglais qui n'ajoutent pas de texte dans le jeu).|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative fonctionnelle à l'outil Project Infinity, toujours en phase de développement, dont l'utilisation est pour le moins peu intuitive et qui est encore très loin d'être au point.|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.|- Il applique des corrections sur certains mods.|Vous pouvez consultez le <a href=\"https://www.baldursgateworld.fr/viewforum.php?f=757\">Forum dédié</a> pour de plus ample informations et accéder aux Guides d'utilisation.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/mega-mods-big-picture-darkest-day-shadow-over-soubar-tortured-souls-check-bodies/33140-bwp-fr-big-world-setup-fr.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=33140",
             "https://github.com/Selphira/BigWorldSetupFR"
         ],
         "categories": [
@@ -6619,7 +6619,7 @@
         "name": "Chantelame",
         "description": "Créé par Misdrhaal, ce mod ajoute un nouveau profil de guerrier destiné aux elfes, une sorte de guerrier/mage/clerc spécial... deratiseur l'a converti au format WeiDU, ce qui le rend largement plus compatible avec la plupart des mods récents, et il n'écrase plus le dialog.tlk à l'installation.|Note : ce profil porte le nom de Bladesinger en anglais.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24080-mods-crees-kit-chantelame-v6.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24080",
             "https://github.com/Plutonium-X/KIT_Chantelame"
         ],
         "categories": [
@@ -9184,7 +9184,7 @@
         "name": "Derat's Unused Kits Pack (DUKP)",
         "description": "Ce mod français regroupe tous les profils créés par deratiseur. Vous y retrouverez avec plaisir le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Sorcelier (ensorceleur combattant), le Seigneur de guerre (kit pour jumelé guerrier-&gt;mage) et bien d'autres.|Son contenu évolue selon l'humeur de deratiseur (ajout ou retrait de profils).",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/derat-s-unused-kits-pack/19490-liens-de-telechargement.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=19490",
             "https://github.com/Deratiseur/DUKP"
         ],
         "categories": [
@@ -9248,7 +9248,7 @@
         "name": "Desecration of Souls",
         "description": "Ce mod ajoute des monstres (avec des rencontres scénarisées et un clin d'œil assez amusant avec les \"Hammer Brothers\" - pour ceux qui connaissent Nintendo... ce mod est fait avec humour), des sorts, des scripts, des objets, 2 magasins et une nouvelle quête, plus une nouvelle auberge à explorer à Athkatla. Bref, une nouvelle expérience de jeu sous le signe du fun.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24006-mods-traduits-quete-desecration-souls-v2-61-a.html"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24006"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -9257,7 +9257,10 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "CoM_Solaufein",
+            "Sir BillyBob"
+        ],
         "team": [
             "Egrevyn",
             "La Voix 2 la Sagesse"
@@ -9267,10 +9270,15 @@
         ],
         "translation_state": "yes",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it"
+        ],
         "status": "embed",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2008-05",
+        "tp2": "dos"
     },
     {
         "name": "Detect Magic/Intimidation",
@@ -10543,7 +10551,7 @@
     },
     {
         "name": "EE Keeper",
-        "description": "Cet utilitaire vous permet d'éditer vos sauvegardes des jeux EE.|Vous trouverez sa procédure d'installation et de paramétrage <a href=\"https://www.baldursgateworld.fr/lacouronne/bg1-ee/26750-bgee-ee-keeper-ou-shadow-keeper-version-bgee.html\">ici</a>.",
+        "description": "Cet utilitaire vous permet d'éditer vos sauvegardes des jeux EE.|Vous trouverez sa procédure d'installation et de paramétrage <a href=\"https://www.baldursgateworld.fr/viewtopic.php?t=26750\">ici</a>.",
         "urls": [
             "https://sourceforge.net/projects/eekeeper/"
         ],
@@ -10557,7 +10565,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Troodon80"
+        ],
         "team": [
             "Isaya"
         ],
@@ -10566,10 +10576,16 @@
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn",
+            "fr",
+            "it",
+            "kr"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2017-06",
+        "tp2": "n/a"
     },
     {
         "name": "Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks)",
@@ -13245,7 +13261,7 @@
         "name": "Gemma",
         "description": "Créé sur La Couronne de Cuivre, ce mod ajoute une nouvelle PNJ recrutable. Adepte d'Umberlie, Gemma n'est pas vraiment le genre de naine à passer son temps à chanter de joyeuses chansons, une chope de bière en main. Non, son truc, c'est utiliser de la rhétorique pour frapper de plein fouet l'hérétique qui ne s'y attend pas. Quand la rhétorique passe par le marteau, c'est sûr, les gens sont plus réceptifs (et morts). Gemma patiente tranquillement (non) sur les Docks d'Athkatla.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/24917-personnage-non-joueur-one-day-npc-Gemma.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24917",
             "https://github.com/Plutonium-X/1D_NPC_Gemma"
         ],
         "categories": [
@@ -13304,7 +13320,7 @@
             "Isaya"
         ],
         "notes": [
-            "Attention : De par sa nature, il s'installera généralement en dernier, mais je vous invite fortement à lire <a href=\"https://www.baldursgateworld.fr/lacouronne/le-bazar-de-l-aventurier/23052-sortie-de-generalized-biffing-en-francais.html\">ce sujet</a> avant de songer à l'utiliser."
+            "Attention : De par sa nature, il s'installera généralement en dernier, mais je vous invite fortement à lire <a href=\"https://www.baldursgateworld.fr/viewtopic.php?t=23052\">ce sujet</a> avant de songer à l'utiliser."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -18553,7 +18569,7 @@
         "name": "L'interplan",
         "description": "Ce mod français a été créé par deratiseur. L'interplan est un magasin qui vend des objets magiques et des sorts originaux. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE.|L'installation de ce mod ajoute en tout 65 nouveaux sorts sélectionnables par l'ensorceleur.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31563-magasin-l-interplan-un-magasin-dedie-la-magie.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=31563",
             "https://github.com/Deratiseur/Interplan"
         ],
         "categories": [
@@ -18584,7 +18600,7 @@
         "name": "L'ogre et le gnome, une histoire de Bleu",
         "description": "Créé par deratiseur, ce petit module français vous fera rencontrer deux protagonistes inhabituels : l'un est un ogre PNJ que vous pourrez enrôler (pour l'instant il est muet s'il est engagé) et l'autre un marchand gnome. Pour trouvez l'un et l'autre, posez vous les questions : où pourrait se cacher un ogre qui ne souhaite pas être vu et où pourrait se trouver un marchand ?",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/l-ogre-et-le-gnome/28812-presentation-generale-du-module.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=28812",
             "https://github.com/Deratiseur/Ogre"
         ],
         "categories": [
@@ -18726,7 +18742,7 @@
         "name": "Le Champion De Bhaal",
         "description": "Créé par Cocrane sur ce site, ce mod français, fait partie d'un projet plus important, \"Le protecteur de Baldur\", en cours de réalisation, qui est une suite de BG1 après la mort de Sarevok. L'aventure commence à l'auberge du Heaume et de la cape où vous pourrez recruter vos fidèles compagnons de BG1 (3 nouveaux PNJ sont proposés). Vous rechercherez une sortie dans un donjon entouré de mystères liés à votre père, Bhaal. Le mod contient 16 nouvelles cartes pour environ 10 heures de jeu.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/le-champion-de-bhaal/32721-Telechargement-du-mod.html"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=32721"
         ],
         "categories": [
             "Quête"
@@ -18740,11 +18756,11 @@
         "team": [],
         "notes": [],
         "translation_state": "yes",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "fr"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -18957,7 +18973,7 @@
         "name": "Les Exilés de Lunargent",
         "description": "Conçu et développé par Armand sur le forum <a href=\"http://weiducommando.forumsactifs.com/f50-les-exiles-de-lunargent-v01\">Légendes</a>, ce mod français vous permettra de vivre une nouvelle histoire au sein de Baldur's Gate 2. Vous y ferez la connaissance de nombreux personnages aux caractères assez différents. C'est à la suite d'un étrange rendez-vous qui vous est donné au tout début du jeu que vous aurez l'opportunité de découvrir une mystérieuse confrérie qui semble agir en Amn dans le plus grand secret. Réussirez-vous à en apprendre davantage sur leur compte ? Pour le savoir jouez au mod !|Ce mod fait la part belle aux personnages d'alignement mauvais, au travers de nouvelles quêtes réservées à cet alignement, de nouveaux objets sur le thème du mod, une nouvelle zone où se déroulera une partie de l'action, quantités de nouveaux combats, un nouveau familier d'un genre inédit et une cinquantaine de nouveaux personnages.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/28954-mods-crees-quete-les-exiles-de-lunargent-v1-0-a.html"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=28954"
         ],
         "categories": [
             "Quête"
@@ -18971,7 +18987,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention, ce mod est réputé bogué. Téléchargez-le à vos risques et périls."
+            "Attention, ce mod est réputé bogué. Installez-le à vos risques et périls."
         ],
         "translation_state": "yes",
         "safe": 1,
@@ -18979,8 +18995,8 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2010-04",
+        "tp2": "Devin"
     },
     {
         "name": "Lester NPC",
@@ -19299,7 +19315,7 @@
         "name": "Light of Selune",
         "description": "En plus d'apporter de nombreux nouveaux objets (environ 145) et 4 nouveaux marchands (deux à Targos, un dans le Village itinérant et un à Kuldahar), le mod met à jour les classes du rôdeur et du barde afin de les faire correspondre à l'édition 3.5 des règles AD&D (utilisées pour IWD2), améliore la quasi totalité des armures et des boucliers originaux, de même qu'il corrige la prise en charge des dégâts des arcs et ajoute un pré-requis de Force pour pouvoir les utiliser. Les pièges enfin ont été améliorés afin d'être plus coriaces et plus pernicieux (augmentation des dégâts).",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/le-monastere-du-corbeau-noir-icewind-dale-2/31236-traduction-du-mod-Light-selune.html"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=31236"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -19307,7 +19323,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Crucis"
+        ],
         "team": [
             "Luren"
         ],
@@ -19324,7 +19342,7 @@
         "description": "Anciennement appelé \"Zulu kit\", ce mod ajoute un profil de rôdeur qui combine des compétences de combat mortelles avec des dons de survie en milieu sauvage, et un fort lien avec la nature. Il ne peut pas porter d'armure et utiliser d'armes de trait, mais compense par sa grande maîtrise, 2 sorts supplémentaires par niveau, des bonus mineurs à la CA, au toucher et aux dégâts, et peut se métamorphoser en un lion TRÈS MÉCHANT.",
         "urls": [
             "http://www.shsforums.net/topic/31691-the-lion-warrior-kit-formerly-zulu-still-a-ranger/",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=31643"
         ],
         "categories": [
             "Kit"
@@ -19696,9 +19714,9 @@
     },
     {
         "name": "Lysre, la dragonne de poche",
-        "description": "Ce mod français propose une nouvelle PNJ un peu spéciale : Lyzre, dragonne noire juvénile et Disciple de Tiamat de son état (profil d'ensorceleur). Malgré sa taille de 60 cm, Lysre vous toise de haut, avec mépris, comme si vous n'étiez qu'une salissure sur ses écailles. C'est une dragonne noire, fière, arrogante, cupide. Pour elle, vous et vos proches n'êtes que de vulgaires et méprisables \"bipèdes\", des \"puces\" dont elle doit supporter la présence. Elle ne vous supporte que pour assouvir sa quête de vengeance et se montre rarement agréable. En fait, ses propos ne sont qu'injures et mépris, et nul ne semble trouver grace a ses yeux. Elles dispose d'objets personnels, de quelques interactions avec les PNJ, et d'un quête (encore en version beta) consistant à créer un temple de Tiamat.|N'hésitez-pas à essayer ce mod et à poster vos commentaires sur le lien proposé plus haut.",
+        "description": "Ce mod français propose une nouvelle PNJ un peu spéciale : Lyzre, dragonne noire juvénile et Disciple de Tiamat de son état (profil d'ensorceleur). Malgré sa taille de 60 cm, Lysre vous toise de haut, avec mépris, comme si vous n'étiez qu'une salissure sur ses écailles. C'est une dragonne noire, fière, arrogante, cupide. Pour elle, vous et vos proches n'êtes que de vulgaires et méprisables \"bipèdes\", des \"puces\" dont elle doit supporter la présence. Elle ne vous supporte que pour assouvir sa quête de vengeance et se montre rarement agréable. En fait, ses propos ne sont qu'injures et mépris, et nul ne semble trouver grace a ses yeux. Elles dispose d'objets personnels, de quelques interactions avec les PNJ, et d'un quête (encore en version beta) consistant à créer un temple de Tiamat.|FOR 8, DEX 21, CON 8, INT 17, SAG 12, CHA 16.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/idees/25036-npc-klare.html"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=25036"
         ],
         "categories": [
             "PNJ recrutable"
@@ -20375,7 +20393,7 @@
         "name": "Menace sur le Royaume de Diamant Éternel",
         "description": "Vous avez tous adoré Excalibur, mais vous êtes-vous jamais demandé pourquoi les seules femmes présentes y sont nuisibles ? Guenièvre l'adultère, Morgane la méchante... Pourquoi les Ordres de Paladins ne comportent-ils que des hommes ? Et si tout ceci n'était qu'une fable racontée par les hommes pour dissimuler la vérité ?|Ce mod tente de rétablir la vérité, du moins SA VÉRITÉ... L'aventure se situe dans une autre dimension, dans le Royaume de Diamant Éternel, dirigé par une famille de paladins que tente de renverser une paladine renégate. Cette dernière a passé un pacte plutôt spécial avec des \"forces\" pour le moins particulières... La richesse du Royaume provient de ses mines et sa puissance de la protection que lui a toujours accordée Diamantor, le (\"Demi-\" ?) Dieu Dragon d'Argent. Il s'agira ici de combattre - entre autres - des Dragons et de leur redonner toute leur place et bon nombre de leurs pouvoirs de destruction...",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/menace-sur-le-royaume-de-diamant-eternel/"
+            "https://www.baldursgateworld.fr/viewforum.php?f=635"
         ],
         "categories": [
             "Quête"
@@ -20470,7 +20488,7 @@
         "name": "Mersetek le joaillier",
         "description": "Vous trouverez ce marchand d'un genre particulier dans votre Antichambre. Il vous permettra de pallier le manque de gemmes nécessaires pour la réalisation d'objets du mod [[Item Upgrade]]. Création originale de Kay'est.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/23998-mods-crees-mag-mersetek-le-joaillier-v1-3-1-a.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=23998",
             "https://github.com/Plutonium-X/SHOP_Mersetek"
         ],
         "categories": [
@@ -20982,7 +21000,7 @@
         "name": "Mod semi-officiel de traduction partielle de BG2:EE",
         "description": "Comme son nom l'indique, ce mod propose une traduction partielle de BG2:EE. Pour l'instant, il comprend :|- les textes de SoA et ToB corrigés par le patch précédent.|- la quête de Rasaad dans SoA : dialogues, lieux, personnages (des noms de créatures peuvent ne pas être traduits).|- les sous-titres des voix pour le personnage principal et pour Rasaad.|- les objets ajoutés par BG2:EE.|- les sorts ajoutés par BG2:EE.|- les textes ajoutés par le patch 2.5, notamment le kit de prêtre de Tempus.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/bg2-ee/31540-moD-semi-officiel-de-traduction-partielle-de-bg2ee-v2-5-a.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=31540",
             "https://github.com/Isaya/bg2eetrans"
         ],
         "categories": [
@@ -23515,7 +23533,7 @@
         "name": "Packs de voix partielles pour BG2:EE",
         "description": "Ces packs de voix permettent de passer le jeu entièrement en français, sans entendre les voix anglaise. Les archives de sons sont faites pour être extraites à partir du répertoire lang car elles contiennent le dossier fr_FR. Il est préférable d'installer d'abord le mod de traduction, même si l'ordre n'a pas d'importance.|À cause de la manière dont les versions du jeu gèrent les voix, il existe deux packs de voix : un pour les versions 1.2, 1.3, 2.0, 2.1, 2.2 et 2.3 ; un autre pour la version 2.5.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/bg2-ee/31540-moD-semi-officiel-de-traduction-partielle-de-bg2ee-v2-5-a.html"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=31540"
         ],
         "categories": [
             "Patch non officiel"
@@ -24132,7 +24150,7 @@
         "name": "Pirate Kit",
         "description": "Création originale d'Huxaltec, ce profil de voleur (très bien documenté et inspiré) est exclusivement réservé au personnage principal et permet d'incarner un pirate de la Côte des Épées. Un don régional, selon l'origine géographique du pirate (choisie à l'installation du kit), lui octroie certains avantages. Comme tout pirate qui se respecte, il a son propre perroquet (capable d'aller chercher des trésors aléatoires une fois par jour) et stocke son trésor dans un coffre qu'il emporte partout.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=31643",
             "https://github.com/Plutonium-X/KIT_Pirate"
         ],
         "categories": [
@@ -24226,7 +24244,6 @@
         "description": "Publié à l'origine sur <a href=\"http://mods.jo-ge.net/bg/index.htm\">ce site</a>, ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
         "urls": [
             "http://www.shsforums.net/files/file/130-planarsphere-return/",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html",
             "https://github.com/Plutonium-X/MISC_Planar-teleport"
         ],
         "categories": [
@@ -25080,7 +25097,7 @@
         "name": "Prêtre de Bhaal",
         "description": "Ce mod français créé sur <a href=\"https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/12344-kit-pretre-de-bhaal-clerc.html\">LCC</a> ajoute un profil de clerc mauvais qui peut lancer Chaos, simili Boule de feu et simili Chaîne d'éclairs, et est immunisé au poison. Il a des HLA personnalisées.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=12344",
             "https://github.com/Plutonium-X/KIT_Bhaal"
         ],
         "categories": [
@@ -26572,7 +26589,6 @@
         "description": "Fatigués de devoir se taper la moitié de la carte aventure et de mettre une heure pour retourner au Marché de l'Aventurier pour dépenser vos deniers chèrement gagnés ? Désormais, une fois que vous lui aurez parlé cinq fois, Ribald vous donnera une flûte qui vous permettra de convoquer un génie. Celui-ci pourra vous téléporter directement au Marché de l'Aventurier (ou convoquer Ribald) pour commercer, et vous ramener à votre destination d'origine si vous le souhaitez. Si vous le lui demandez, il pourra aussi faire venir d'autres marchands.|Le génie ne peut malheureusement pas être invoqué durant le chapitre 5 (ni à Suldanessalar ou en Enfer). Il ne peut pas non plus être invoqué dans la prison planaire d'Haer'Dalis ou dans le plan démoniaque vers lequel la Sphère planaire vous mène.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/download/RGenie/Ribalds%20Genie%20V2.7.exe",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-Vieux-mods-en-francais-convertis-pour-bg2ee.html",
             "https://github.com/Plutonium-X/MISC_Genie"
         ],
         "categories": [
@@ -27261,7 +27277,7 @@
     },
     {
         "name": "Saerileth",
-        "description": "Saerileth est une Paladine de Tyr âgée de 15 ans, et fort jolie. Ce mod est complet avec du contenu pour SoA/ToB, une romance (pour les humains, elfes et demi-elfes), plusieurs quêtes (apportant 3 nouvelles maps). Il est très bien écrit, mais réservé aux loyaux bons en quête d'amour courtois, le flirt avec Saerileth n'étant pas franchement... viconiesque.|<span style=\"color:red;\">Nécessite une <a href=\"https://www.baldursgateworld.fr/lacouronne/la-chambre-des-scribes/18950-Sortie-du-mod-saerileth-en-francais.html\">sérieuse relecture de la traduction</a>.</span>",
+        "description": "Saerileth est une Paladine de Tyr âgée de 15 ans, et fort jolie. Ce mod est complet avec du contenu pour SoA/ToB, une romance (pour les humains, elfes et demi-elfes), plusieurs quêtes (apportant 3 nouvelles maps). Il est très bien écrit, mais réservé aux loyaux bons en quête d'amour courtois, le flirt avec Saerileth n'étant pas franchement... viconiesque.",
         "urls": [
             "https://smolderingmodsbar.com/saerileth-bg2-ee/",
             "https://github.com/PaulaMigrate/Saerileth"
@@ -27763,7 +27779,6 @@
         "description": "Ce mod ajoute une marchande, la Dame des Mystères, adoratrice de Mystra, qui vend un manuel de magie donnant accès à une trentaine de sorts divins, dont un inédit. Seuls les lanceurs de sorts profanes peuvent en bénéficier au prix de -2 en Force et Constitution. En d'autres termes, grâce à ce mod, à vous les multi-classes sorcier/prêtre, barde/prêtre, guerrier/mage/prêtre (classe de base guerrier/mage et lecture du livre d'où un gain d'XP conséquent), kensaï/mage (clerc), ensorceleur (clerc) ou scalde (clerc), par exemple... et le très fameux guerrier/mage/voleur/prêtre. Attention cependant, il y a des restrictions : toutes les infos sont dans le readme. Vous la trouverez au nord du Marché de l'Aventurier sur la Promenade de Waukyne, et dans l'Antichambre.",
         "urls": [
             "http://www.shsforums.net/files/category/33-smm-rm/",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html",
             "https://github.com/Plutonium-X/KIT_Semi_Multi"
         ],
         "categories": [
@@ -27860,7 +27875,7 @@
         "name": "Severian de Demerya",
         "description": "Anciennement connu sous le nom des Chroniques de Severian, Severian de Demerya est un mod PNJ français conçu et développé par Coyote. Il vous propose d'enrôler Severian Stark, un Hors-la-loi (kit de rôdeur) de race Halfshade pour vos parties de BG2 : SoA et ToB. Il existe à Féérune des hommes qui ne défendent aucune cause si ce n'est la leur, rançonnant et pillant les marchands et voyageurs osant traverser leurs forêts. Severian est un de ces hors-la-loi. La rumeur court que cette fine lame réputée serait récemment arrivée à Athkatla et séjournerait parfois à l'auberge du Bon repos, sur la Promenade de Waukyne...|D'alignement chaotique neutre, Severian s'est fait une spécialité du maniement des armes blanches, peut se rendre invisible, et apprécie particulièrement la gente féminine. Des banters, des interjections et des items à foison, un flirtpack, une quête agrémentée de nombreux combats, une romance très tendre et plus de 6000 lignes de texte : c'est ce que vous propose Severian de Demerya depuis les tréfonds de l'Amn jusqu'au sommet du Trône de Bhaal. Attention, bien lire le Readme !",
         "urls": [
-            "https://www.baldursgateworld.fr/filesmods/ModsBG/severiandedemeryav02a.rar",
+            "https://www.baldursgateworld.fr/viewforum.php?f=645",
             "https://github.com/The-Gate-Project/Severian-de-Demerya/"
         ],
         "categories": [
@@ -29328,7 +29343,7 @@
         "name": "Sorts infinis",
         "description": "Ce mod ajoute le nouveau sort \"Puissance des Arcanes\" qui permet à un magicien de se rappeler un sort de niveau 9 déjà lancé.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/modules-crees-ou-en-cours-de-developpement/17540-misc-Sorts-infinis.html#post180700"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=17540#post_content180700"
         ],
         "categories": [
             "Sort et objet"
@@ -33515,7 +33530,7 @@
         "name": "Todd le super Gars testeur",
         "description": "Ce mod français de deratiseur ajoute un marchand anachronique qui vend les objets de Morrowind et d'Arcanum. Il attend les aventuriers à différents endroits selon le jeu.|Note : comme la raison d'être du module est de proposer de manière anachronique tous les objets venant d'autres jeux, il ne fait pas de distinction entre les objets inutiles, les objets équilibrés et les objets surpuissants. Installez-le en connaissance de cause. Si vous cherchez des objets équilibrés, voyez plutôt du côté de [[L'interplan]].",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31924-marchand-todd-le-super-gars-testeur.html",
+            "https://www.baldursgateworld.fr/viewtopic.php?t=31924",
             "https://github.com/Deratiseur/Todd"
         ],
         "categories": [
@@ -33995,7 +34010,7 @@
         "name": "Trials of the Luremaster (IWD)",
         "description": "Il s'agit du patch/extension destiné à Icewind Dale avec Heart of Winter. Il installe la deuxième extension gratuite Trial of the Luremaster (« Les Épreuves du Maître des Leurres ») ainsi que les derniers correctifs en date pour l'ensemble du jeu. Si vous disposez de Heart of Winter, ce patch est le seul nécessaire.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24779-patch-icewind-dale-heart-winter-v1-42-incluant-Trial-luremaster.html"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24779"
         ],
         "categories": [
             "Quête"
