@@ -40,7 +40,7 @@
                     {% for url in mod.urls_instance %}
                         <a href="{{ url.url }}" target="{% if url.is_external %}_blank{% else %}_self{% endif %}">
                         {% if url.img %}
-                            <img src="{{ static }}{{ url.img.src }}" alt="{{ url.img.alt }}" width="{{ url.img.width }}" height="{{ url.img.height }}" title="{{ url.img.title }}" lazy="loading">
+                            <img src="{{ static }}{{ url.img.src }}" alt="{{ url.img.alt|default('Lien vers le mod') }}" width="{{ url.img.width }}" height="{{ url.img.height }}" title="{{ url.img.title }}" lazy="loading">
                         {% else %}
                             Lien
                         {% endif %}
