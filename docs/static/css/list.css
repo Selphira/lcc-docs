@@ -161,9 +161,9 @@ label {
     }
 }
 
-#header .nav-1,
 #header .nav-2 {
     display: flex;
+    align-items: center;
 }
 
 @media screen and (max-width: 900px) {
@@ -180,12 +180,6 @@ label {
 #header h1 {
     text-align: center;
     text-shadow: 0.1rem 0.1rem 0.25rem black;
-}
-
-#header .credits {
-    justify-self: center;
-    align-self: center;
-    width: 100%;
 }
 
 .intro {
