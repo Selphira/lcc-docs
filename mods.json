@@ -4707,7 +4707,7 @@
     },
     {
         "name": "Baldurdash-WeiDU",
-        "description": "Baldurdash-WeiDU est une version remasterisée du Baldurdash classique (de Kevin Dorner). Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[Never Ending Journey]] et [[Tortured Souls-BP]].|<strong>Dans les autres cas, préférez le [[BG2 FixPack]]</strong>.",
+        "description": "Baldurdash-WeiDU est une version remasterisée du Baldurdash classique (de Kevin Dorner). Il existe deux versions :|- la version classique|- la version 1.76, qui est très spécifique aux mods [[Never Ending Journey]] et [[Tortured Souls-BP]].|Dans les autres cas, préférez le [[BG2 FixPack]].",
         "urls": [
             "http://america.iegmc.net/baldurdash-weidu"
         ],
@@ -5457,7 +5457,7 @@
     },
     {
         "name": "Black Pits in BGEE",
-        "description": "Rendez vous dans les Fosses Noires pendant la campagne de BG1, pour BGEE, SoD et EET.||Ce mod ajoute quelques lignes de dialogue lors de votre première rencontre avec Baeloth dans BGEE.||Si vous choisissez une des nouvelles lignes de dialogue, alors l'histoire est modifiée ; Baeloth est à la surface pour une campagne de recrutement, à la recherche d'un groupe de héros||Il est vivement recommandé de ne pas vous rendre aux Fosses noires avant le niveau 5, voire le niveau 7. Les derniers combats peuvent être particulièrement difficiles.||<strong>Remarque importante :</strong>|Parce que le mod change nécessairement le timing et l'histoire, <strong>Baeloth ne pourra pas rejoindre votre groupe si vous décidez de vous rendre aux Fosses noires.</strong> Il disparaîtra donc de la campagne BG1 et ne pourra pas rejoindre Charname dans la campagne de Siege of Dragonspear, <strong>pas plus que M'Khiin la gobline shaman.</strong>||<a href=\"https://github.com/UnearthedArcana/BP_in_BG/blob/master/README.French.md\">Voir le readme pour les détails du mod....</a>",
+        "description": "Rendez vous dans les Fosses Noires pendant la campagne de BG1, pour BGEE, SoD et EET.||Ce mod ajoute quelques lignes de dialogue lors de votre première rencontre avec Baeloth dans BGEE.||Si vous choisissez une des nouvelles lignes de dialogue, alors l'histoire est modifiée ; Baeloth est à la surface pour une campagne de recrutement, à la recherche d'un groupe de héros||Il est vivement recommandé de ne pas vous rendre aux Fosses noires avant le niveau 5, voire le niveau 7. Les derniers combats peuvent être particulièrement difficiles.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/35843-lets-put-the-black-pits-1-into-bgee/",
             "https://github.com/UnearthedArcana/BP_in_BG"
@@ -5476,7 +5476,9 @@
         "team": [
             "JohnBob"
         ],
-        "notes": [],
+        "notes": [
+            "Remarque importante :|Parce que le mod change nécessairement le timing et l'histoire, Baeloth ne pourra pas rejoindre votre groupe si vous décidez de vous rendre aux Fosses noires.|Il disparaîtra donc de la campagne BG1 et ne pourra pas rejoindre Charname dans la campagne de Siege of Dragonspear, pas plus que M'Khiin la gobline shaman.|<a href=\"https://github.com/UnearthedArcana/BP_in_BG/blob/master/README.French.md\">Voir le readme pour les détails du mod....</a>"
+        ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -9896,7 +9898,7 @@
     },
     {
         "name": "Dragonspear UI++",
-        "description": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais.||- <strong>La <a href=\"https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit\">version d'Anongit</a>, basée sur celle de Pecca / Renegade, elle se concentre sur la compatibilité avec EET et d'autres corrections.</strong>",
+        "description": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais.||- La <a href=\"https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit\">version d'Anongit</a>, basée sur celle de Pecca / Renegade, elle se concentre sur la compatibilité avec EET et d'autres corrections.",
         "urls": [
             "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit/releases/tag/Anongit"
         ],
@@ -23808,7 +23810,7 @@
         "name": "Patch correctif des erreurs de texte pour BG (et ToSC)",
         "description": "Ce mod propose une correction de nombreuses erreurs dans la version française de Baldur's Gate 1 ainsi que son extension, Tales of the Sword Coast. Il ne nécessite pas l'extension pour fonctionner.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24081-moDs-crees-patch-patch-correctif-des-textes-pour-baldur-s-gate-1-et-totsc-en-vf.html"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24081"
         ],
         "categories": [
             "Patch non officiel"
@@ -23818,12 +23820,12 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
-        "team": [
+        "authors": [
             "Mornagest",
             "Zekflop",
             "Isaya"
         ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -23831,14 +23833,14 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2017-12",
         "tp2": ""
     },
     {
         "name": "Patch correctif des textes pour BG2",
-        "description": "Ce mod propose une correction des fautes et des défauts de traduction de la version française de BG2. Réalisé par zekflop, puis par Mornagest, désormais assisté de Freddy_Gwendo.",
+        "description": "Ce mod propose une correction des fautes et des défauts de traduction de la version française de BG2.",
         "urls": [
-            "https://www.baldursgateworld.fr/lacouronne/la-zone-de-telechargement/24082-moDs-crees-patch-patch-correctif-des-textes-pour-baldur-s-gate-2-et-tob-en-vf.html"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24082"
         ],
         "categories": [
             "Patch non officiel"
@@ -23862,7 +23864,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2017-08",
         "tp2": ""
     },
     {
@@ -23878,10 +23880,10 @@
             "PST",
             "PSTEE"
         ],
-        "authors": [],
-        "team": [
+        "authors": [
             "mirandir"
         ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -23889,7 +23891,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2017-05",
         "tp2": ""
     },
     {
@@ -31454,7 +31456,7 @@
     },
     {
         "name": "The Athkatlan Grounds",
-        "description": "Développés par Lava Del'Vortel, ces mods s'inscrivent dans une série basée sur l'ajout de nouveaux quartiers dans Athkatla. Pour l'heure, 4 nouveaux quartiers sont disponibles. Et ils sont tous traduits. 😉|<strong>Un nouveau quartier a été ajouté, [[Alabaster Sands]], il n'est pas encore traduit</strong>",
+        "description": "Développés par Lava Del'Vortel, ces mods s'inscrivent dans une série basée sur l'ajout de nouveaux quartiers dans Athkatla. Pour l'heure, 4 nouveaux quartiers sont disponibles.|On y retrouve notamment [[Alabaster Sands]].",
         "urls": [
             "https://www.weaselmods.net/forumdisplay.php?fid=5"
         ],
@@ -37557,7 +37559,7 @@
     },
     {
         "name": "iiProjectile Retrieval",
-        "description": "Créé par igi, ce petit mod permet au joueur de récupérer les projectiles qu'il a lancés et qui ont atteint leur cible, les autres étant perdus. Des options permettent de personnaliser l'installation :|- Chance de récupérer les projectiles.|- Quel type de projectile est récupéré : seulement les projectiles non magiques, tous les projectiles, tous les projectiles sont récupérés dans leur version normale (ex: on tire une flèche +1 et on récupère une flèche normale), les projectiles magiques sont récupérés dégradés (ex: on tire une flèche +2 et on récupère une flèche +1, on tire une flèche +1 et on récupère une flèche normale...).|<strong>Ce mod n'est compatible qu'avec Easy Tutu, pas BG1Tutu.</strong>|<span style=\"color: lime\">En cours de ré-écriture et de traduction.</span>",
+        "description": "Créé par igi, ce petit mod permet au joueur de récupérer les projectiles qu'il a lancés et qui ont atteint leur cible, les autres étant perdus. Des options permettent de personnaliser l'installation :|- Chance de récupérer les projectiles.|- Quel type de projectile est récupéré : seulement les projectiles non magiques, tous les projectiles, tous les projectiles sont récupérés dans leur version normale (ex: on tire une flèche +1 et on récupère une flèche normale), les projectiles magiques sont récupérés dégradés (ex: on tire une flèche +2 et on récupère une flèche +1, on tire une flèche +1 et on récupère une flèche normale...).",
         "urls": [
             "https://github.com/btigi/iiProjectileR"
         ],
@@ -37574,7 +37576,8 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod a un effet pervers que vous découvrirez si vous faites larder de flèches..."
+            "Ce mod a un effet pervers que vous découvrirez si vous faites larder de flèches...",
+            "Ce mod n'est compatible qu'avec Easy Tutu, pas BG1Tutu."
         ],
         "translation_state": "no",
         "safe": 2,
