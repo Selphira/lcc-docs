@@ -147,11 +147,14 @@ class Mod:
 
     @property
     def is_outdated(self) -> bool:
+        # EE 2.0 sortie en avril 2016, on considère que tous les mods EE faits avant cette date sont incompatibles
+        # EE 2.6 sortie en avril 2021 : sont outdated les mods d'interface et de modification d'exe (pas de catégorie associée)
         return bool(
             self.last_update
+            and self.is_EE
             and (
-                self.last_update < "2007-01"
-                or (self.last_update < "2019-01" and self.is_EE)
+                self.last_update < "2016-04"
+                or (self.last_update < "2021-04" and "Interface" in self.categories)
             )
         )
 
@@ -163,8 +166,6 @@ class Mod:
                 auto_notes.append(
                     f"⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec la dernière version du jeu."
                 )
-            else:
-                auto_notes.append(f"⚠️ : La dernière mise à jour date de {year}.")
 
         if not self.is_weidu:
             auto_notes.append(
