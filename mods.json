@@ -434,11 +434,11 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "Date de 2002."
+        "authors": [
+            "Tioma"
         ],
+        "team": [],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -1920,11 +1920,13 @@
             "Drizzt1180"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod a été converti en WeiDU et intégré dans [[The Sorcerer's Place Collection]]."
+        ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "",
         "tp2": "non-weidu"
     },
@@ -2864,7 +2866,7 @@
             "IWDEE"
         ],
         "authors": [
-            "Badgert"
+            "Jog"
         ],
         "team": [
             "Le Marquis"
@@ -3911,7 +3913,7 @@
     },
     {
         "name": "BG2:EE portraits",
-        "description": "",
+        "description": "Un (gros?) pack de portraits.",
         "urls": [
             "https://www.nexusmods.com/baldursgate2ee/mods/1"
         ],
@@ -3921,14 +3923,16 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Xaevyn"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2015-01",
         "tp2": "non-weidu"
     },
     {
@@ -6395,7 +6399,7 @@
             "EET"
         ],
         "authors": [
-            "zupsky"
+            "Zupsky"
         ],
         "team": [],
         "notes": [],
@@ -8116,7 +8120,7 @@
     },
     {
         "name": "Creslyn's BG2 Custom Items",
-        "description": "Ce mod ajoute de nombreux objets dans le jeu. Certains, un peu trop puissants, seront cependant difficile à obtenir (comme le bâton de la Gorgone dans la Cité illithild) ou hors de prix.|Cependant, il a été inclus comme composant du mod [[The Sorcerer's Place Collection]].",
+        "description": "Ce mod ajoute de nombreux objets dans le jeu. Certains, un peu trop puissants, seront cependant difficile à obtenir (comme le bâton de la Gorgone dans la Cité illithild) ou hors de prix.",
         "urls": [
             "https://sorcerers.net/Games/BG2/index_mods_hosted_items_spells2.php"
         ],
@@ -8127,10 +8131,12 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Creslyn"
+        ],
         "team": [],
         "notes": [
-            "Attention ! Ce mod n'est pas au format WeiDU. Il vous faudra utiliser de vieux outils de modding pour les installer. Bref, à éviter si vous n'êtes pas un moddeur pur et dur !"
+            "Ce mod a été converti en WeiDU et intégré dans [[The Sorcerer's Place Collection]]."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -8252,7 +8258,7 @@
     },
     {
         "name": "Crusader",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), Crusader (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de paladin.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]], Crusader (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de paladin.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -9857,7 +9863,7 @@
     },
     {
         "name": "Dragon Dancer",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), Dragon Dancer (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de guerrier.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]], [[Crusader]] (par Hansoo), Dragon Dancer (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de guerrier.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -11064,7 +11070,7 @@
     },
     {
         "name": "Elementalist Kit",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist Kit (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]], [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist Kit (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -11623,7 +11629,7 @@
     },
     {
         "name": "Ethereal Blademaster",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), Ethereal Blademaster (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]], [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), Ethereal Blademaster (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -11802,7 +11808,7 @@
     },
     {
         "name": "Expanded Classes and Kits",
-        "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[War Hulk Kit]], [[Universal Archer]], Shapeshifter, Psionicist, Sword Dancer.|- Paladins : [[Universal Archer]], Kensai.|- Moines : Kensai, Stalker, Assassin, Psionicist, Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[Alchemist kit for mages]], [[Red soul and Green soul Kits]], Plasma Wizard, War Mage.|- Sorciers : [[Red soul and Green soul Kits]].|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : [[Seducer Kit for Thieves]], [[Universal Archer]], Kensai, Shapechanger.|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief.",
+        "description": "Il s'agit de la compilation des profils créés par semiticgoddess :|- Guerriers : [[War Hulk Kit]], [[Universal Archer]], <a href='https://forums.beamdog.com/discussion/69127/shapeshifter-kit-for-fighters' target='_blank'>Shapeshifter</a>, <a href='https://forums.beamdog.com/discussion/76756/simplified-psionicist-kit' target='_blank'>Simplified Psionicist</a>, <a href='https://forums.beamdog.com/discussion/75696/sword-dancer-kit-for-fighters-paladins-and-monks' target='_blank'>Sword Dancer</a>.|- Paladins : [[Universal Archer]], Kensai.|- Moines : Kensai, Stalker, Assassin, <a href='https://forums.beamdog.com/discussion/76756/simplified-psionicist-kit' target='_blank'>Simplified Psionicist</a>, Flare Dancer, Sky Dancer, Fighter/Monk.|- Mages : [[Alchemist kit for mages]], [[Red soul and Green soul Kits]], <a href='https://forums.beamdog.com/discussion/77517/plasma-wizard-kit-infinite-lightning-bolts-and-fireballs' target='_blank'>Plasma Wizard</a>, War Mage.|- Sorciers : [[Red soul and Green soul Kits]].|- Clercs : Cleric/Druid, Seer.|- Druides : Seer.|- Voleurs : [[Seducer Kit for Thieves]], [[Universal Archer]], Kensai, <a href='https://forums.beamdog.com/discussion/74379/shapechanger-kit-for-thieves-v0-9' target='_blank'>Shapechanger</a>.|- Cleric/Mage : Druid/Mage, Cleric/Druid/Mage.|- Mage/Thief : Druid/Thief.|- Fighter/Mage/Thief : Fighter/Cleric/Druid/Mage/Thief.",
         "urls": [
             "https://forums.beamdog.com/discussion/77859/",
             "https://github.com/Endarire/SemiticsExpandedClasses"
@@ -11893,11 +11899,11 @@
         "languages": [],
         "status": "active",
         "last_update": "2010-07",
-        "tp2": ""
+        "tp2": "n/a"
     },
     {
         "name": "Experience cap remover and new HLA for F/M/C and F/M/T",
-        "description": "",
+        "description": "Ce mod retire les limites d'expérience et rend les HLA disponibles pour les triclassés.",
         "urls": [
             "https://forums.beamdog.com/discussion/26198/"
         ],
@@ -11912,18 +11918,18 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2013-11",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Extension de la quête de Jan",
         "description": "Vous ne manquez jamais d'inclure Jan Jansen dans votre groupe. Vous vous délectez de ses répliques abracadabrantes, mais sa quête personnelle vous laisse sur votre faim. Vous avez envie de connaître la fin de l'histoire concernant l'ancienne compagne du voleur illusionniste le plus loufoque d'Athkatla, et de Vaelag, le mari violent de cette dernière ?|L'Extension de la quête de Jan (et oui, c'est un mod français, développé sur La Couronne de Cuivre) propose une suite à cette quête originale sous la forme de deux très courtes missions agrémentées de dialogues typiques et de rencontres inopinées avec de nouveaux personnages secondaires. En trame de fond, le mod tente modestement de jeter un éclairage nouveau sur certaines des organisations les plus influentes de la cité.|Découvrez la fin de l'histoire sans avoir besoin de recommencer une partie. La difficulté du mod étant adaptée à des personnages de faible niveau, nous vous conseillons malgré tout d'en profiter sur une partie pas trop avancée.|Le mod comporte entre autres 2 nouvelles missions qui peuvent être faite dans l'ordre de votre choix et 2 nouvelles histoires de Jan.",
         "urls": [
-            "https://akadis.baldursgateworld.fr/Jan/JansQuestFr.html"
+            "https://akadis.baldursgateworld.fr/Jan/JansQuestRemixFr.html"
         ],
         "categories": [
             "Quête"
@@ -11945,10 +11951,11 @@
         "languages": [
             "fr",
             "en",
-            "de"
+            "de",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2019-08",
+        "last_update": "2022-05",
         "tp2": "JanQuest"
     },
     {
@@ -12006,10 +12013,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-04",
-        "tp2": ""
+        "tp2": "FG_ClericKits"
     },
     {
         "name": "FG Kits",
@@ -12034,10 +12043,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-04",
-        "tp2": ""
+        "tp2": "FG_Kits"
     },
     {
         "name": "Fade NPC",
@@ -12158,7 +12169,7 @@
     },
     {
         "name": "Fake Import Mod Drizzt May Live Edition",
-        "description": "Ne vous trompez pas, ce mod ne simule aucune importation de personnage depuis BG1, comme il le prétend, mais il ajoute des objets dans le donjon d'Irenicus : les pantalons dorés et les tomes de caractéristiques sont derrière le portrait, le groupe gagne 65455 XP.",
+        "description": "Ne vous trompez pas, ce mod ne simule aucune importation de personnage depuis BG1, comme il le prétend, mais il ajoute des objets dans le donjon d'Irenicus : les pantalons dorés et les tomes de caractéristiques sont derrière le portrait, le groupe gagne 65.455 XP, Illyich porte une cotte de mailles +3.",
         "urls": [
             "http://www.shsforums.net/files/file/1059-fake-import-mod/"
         ],
@@ -12174,14 +12185,14 @@
         ],
         "team": [],
         "notes": [
-            "Attention : ce mod est bogué ! La première cutscene fige le jeu. En attendant une mise à jour du mod, ouvrez le fichier setup-fakeimport.tp2 dans un éditeur de texte et insérer la ligne <span class=\"tp2\">Continue()</span> après les lignes 66 et 136, et avant END."
+            "Attention : ce mod est bogué ! La première cutscene fige le jeu. En attendant une mise à jour du mod, ouvrez le fichier setup-fakeimport.tp2 dans un éditeur de texte et insérer la ligne `Continue()` après les lignes 66 et 136, et avant END."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2013-04",
-        "tp2": ""
+        "tp2": "fakeimport"
     },
     {
         "name": "Faldorn BG2EE",
@@ -12260,7 +12271,7 @@
     },
     {
         "name": "Fhaugy",
-        "description": "Fhaugy is a neutral half-orc monk, a member of the Twin Tusks circle, which unites individuals who hope to achieve balance — not just the one of nature, but that between inner peace and the will to impact the world. While there is still some anger and burdening experience he finds hard to forget, he does not want to give in to his darker side but find a way to keep things in check. He also has a sense of humor he will gladly share with you, his potential leader and friend.||The Fhaugy mod includes personal quests (1 in SoA and 1 in ToB), friendship talks, and a romance option for a male protagonist of any alignment except for chaotic evil and with 13+ Charisma. Furthermore, Fhaugy has his own custom monk kit (Twin Tusks Monk) and a new half-orc monk inventory paperdoll.||You can find Fhaugy in the Umar Inn in Imnesvale.",
+        "description": "Fhaugy est un moine demi-orque neutre. Bien qu'il ait encore de la colère et des expériences pénibles qu'il a du mal à oublier, il ne veut pas céder à son côté sombre, mais trouver un moyen de garder les choses sous contrôle. Le mod propose une quête personnelle dans SoA et dans ToB ainsi qu'une romance avec un personnage masculin. Il possède son propre kit.",
         "urls": [
             "https://downloads.weaselmods.net/download/fhaugy/"
         ],
@@ -12285,7 +12296,7 @@
     },
     {
         "name": "Fiars Beta",
-        "description": "Ce petit mod, toujours en version beta, ajoute un nouveau PNJ dans le jeu. Pour le rencontrez, parlez à Lenna dans la Couronne de Cuivre et acceptez sa quête.",
+        "description": "Ce petit mod, toujours en version beta, ajoute un nouveau PNJ dans le jeu. Pour le rencontrer, parlez à Lenna dans la Couronne de Cuivre et acceptez sa quête.",
         "urls": [
             "http://www.shsforums.net/files/file/1015-fiars-beta/"
         ],
@@ -12302,10 +12313,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2012-12",
-        "tp2": ""
+        "tp2": "fiars"
     },
     {
         "name": "Filipe_FR's All NPCs at the Beginning",
@@ -12431,7 +12444,7 @@
     },
     {
         "name": "Fire Elemental (Monk kit)",
-        "description": "Ce mod ajoute un profil de moine qui est... en fait un élémentaire de feu !",
+        "description": "Ce mod ajoute un profil de moine qui est... en fait un élémentaire de feu !|Il ne peut porter d'armure, il est immunisé au feu et possède un bonus de force +1.",
         "urls": [
             "https://forums.beamdog.com/discussion/64036/"
         ],
@@ -12451,10 +12464,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2017-04",
-        "tp2": ""
+        "tp2": "FireElemental"
     },
     {
         "name": "Firewalker",
@@ -12468,7 +12483,9 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "Jason Higgins"
+        ],
         "team": [],
         "notes": [
             "Le mod s'installe avec IEES ou IE Editor Pro (vous trouverez les liens pour ces outils dans le forum de la Forge de GrondeMarteau). Évitez-le comme la peste."
@@ -12477,8 +12494,8 @@
         "safe": 0,
         "languages": [],
         "status": "obsolete",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2008-01",
+        "tp2": "non-weidu"
     },
     {
         "name": "First Aid",
@@ -12642,10 +12659,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-08",
-        "tp2": ""
+        "tp2": "cliffhistory"
     },
     {
         "name": "Font Mod",
@@ -13029,7 +13048,7 @@
     },
     {
         "name": "Gambler",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), Gambler (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]], [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), Gambler (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -13097,17 +13116,25 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Salk"
+        ],
         "team": [
             "Galathée"
         ],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "es",
+            "ru",
+            "de",
+            "fr",
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2017-12",
+        "tp2": "nogameover"
     },
     {
         "name": "Garrick: Tales of a Troubadour",
@@ -13195,7 +13222,7 @@
         "languages": [],
         "status": "active",
         "last_update": "",
-        "tp2": ""
+        "tp2": "n/a"
     },
     {
         "name": "Gavin BG1",
@@ -17850,7 +17877,7 @@
     },
     {
         "name": "Keenmarker",
-        "description": "Ce mod ajoute un profil de rôdeur spécialisé dans le maniement des arcs.",
+        "description": "Les Keenmarkers sont des rôdeurs uniques, spécialisés dans les arcs et les flèches. Ils passent la plupart de leur temps à s'entraîner et à se former, tant au combat qu'à la sagesse. En outre, leur expérience repose principalement sur la vie réelle : des batailles difficiles et des conditions difficiles.|Il peut devenir grand maître en maîtrise de l'arc ou de l'arbalète.|+1 au Tac0 et aux dégâts pour les armes à distance tous les deux niveaux.|CA -1 tous les 6 niveaux.|Immunité à la peur et la rupture de moral au niveau 7.|Coup critique à 18…|Capacité de créer des flèches.|En contrepartie, il subit un malus de 1 aux jets de sauvegarde contre les sorts tous les 6 niveaux.|Malus de 1 au Tac0 tous les 5 niveaux pour les armes de mêlée.|Lire le readme pour en savoir plus.",
         "urls": [
             "http://www.shsforums.net/topic/31873-keenmarker-ranger-kit-for-bg2tob/"
         ],
@@ -17862,16 +17889,18 @@
             "BGT"
         ],
         "authors": [
-            "ilhami"
+            "İlhami"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2008-02",
-        "tp2": ""
+        "tp2": "Storm"
     },
     {
         "name": "Keep All BG1 Items On Imported Character",
@@ -19436,10 +19465,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2014-08",
-        "tp2": ""
+        "tp2": "7C#BowArrows"
     },
     {
         "name": "Lord Draco Vlasavius",
@@ -19563,19 +19594,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Galactygon"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2011-05",
+        "tp2": "SpellPackB6"
     },
     {
         "name": "Lost Druid Kit",
-        "description": "Ce mod ajoute un nouveau profil de druide, le Druide déchu, tiré du Manuel complet du Druide.",
+        "description": "Ce mod ajoute un nouveau kit de druide, le Druide déchu, tiré du Manuel complet du Druide. Il dispose de 6 nouveaux sorts (du niveau 1 au niveau 6). Il peut également invoquer un Dread Wolf à partir du niveau 6.",
         "urls": [
             "https://forums.beamdog.com/discussion/24865/"
         ],
@@ -19592,16 +19625,21 @@
             "IWDEE"
         ],
         "authors": [
-            "zupsky"
+            "Zupsky"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "La traduction russe est disponible sur le post mais n'a pas été intégrée au mod."
+        ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2016-04",
-        "tp2": ""
+        "tp2": "Lost Druid Kit"
     },
     {
         "name": "Lost Items",
@@ -19615,7 +19653,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "barren50"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -19623,7 +19663,7 @@
         "languages": [],
         "status": "active",
         "last_update": "",
-        "tp2": ""
+        "tp2": "items"
     },
     {
         "name": "Lost Party Members Fix",
@@ -19637,7 +19677,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Platter"
+        ],
         "team": [
             "mirandir",
             "Zyl"
@@ -19647,7 +19689,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2002-11",
         "tp2": "non-weidu"
     },
     {
@@ -19695,15 +19737,17 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Luiz"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2007-09",
+        "tp2": "Luizmods"
     },
     {
         "name": "Lyric Bard",
@@ -19718,18 +19762,20 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Biubid_boy"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-03",
+        "tp2": "LyricKit"
     },
     {
-        "name": "Lysre, la dragonne de poche",
+        "name": "Lysre, dragonne de poche",
         "description": "Ce mod français propose une nouvelle PNJ un peu spéciale : Lyzre, dragonne noire juvénile et Disciple de Tiamat de son état (profil d'ensorceleur). Malgré sa taille de 60 cm, Lysre vous toise de haut, avec mépris, comme si vous n'étiez qu'une salissure sur ses écailles. C'est une dragonne noire, fière, arrogante, cupide. Pour elle, vous et vos proches n'êtes que de vulgaires et méprisables \"bipèdes\", des \"puces\" dont elle doit supporter la présence. Elle ne vous supporte que pour assouvir sa quête de vengeance et se montre rarement agréable. En fait, ses propos ne sont qu'injures et mépris, et nul ne semble trouver grace a ses yeux. Elles dispose d'objets personnels, de quelques interactions avec les PNJ, et d'un quête (encore en version beta) consistant à créer un temple de Tiamat.|FOR 8, DEX 21, CON 8, INT 17, SAG 12, CHA 16.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=25036"
@@ -19754,7 +19800,7 @@
             "fr"
         ],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2020-05",
         "tp2": ""
     },
     {
@@ -19900,15 +19946,19 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Ron Joyal"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
-        "languages": [],
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2015-09",
+        "tp2": "RJMadLum"
     },
     {
         "name": "Made in Heaven - Encounters & Quests",
@@ -20141,7 +20191,7 @@
     },
     {
         "name": "Make Bows usable by Cleric Rangers",
-        "description": "Comme son nom l'indique, ce petit mod permet aux prêtres rôdeurs d'utiliser les arcs.|Si vous avez l'intention d'installer un mod qui ajoute des arcs et/ou des flèches au jeu, faites-le avant celui-ci. Mais attention : son code était assez basique, vous ne pourrez utiliser que les arcs dont le nom de code commence par \"bow\".",
+        "description": "Comme son nom l'indique, ce petit mod permet aux prêtres rôdeurs d'utiliser les arcs.|Si vous avez l'intention d'installer un mod qui ajoute des arcs et/ou des flèches au jeu, faites-le avant celui-ci. Mais attention : son code était assez basique, vous ne pourrez utiliser que les arcs dont le code commencent par \"bow\" et les flèches qui commencent par \"arow\".",
         "urls": [
             "http://www.shsforums.net/files/file/686-make-bows-usable-by-cleric-rangers/"
         ],
@@ -20162,7 +20212,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2008-10",
-        "tp2": ""
+        "tp2": "#!CR_Bows"
     },
     {
         "name": "Mal des Vampirismus",
@@ -20235,16 +20285,19 @@
             "BGT"
         ],
         "authors": [
-            "SlidMang0"
+            "SlidMang0",
+            "Almateria"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2013-04",
-        "tp2": ""
+        "tp2": "hiphop"
     },
     {
         "name": "Map Notes",
@@ -20269,8 +20322,8 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-02",
+        "tp2": "mapnotes"
     },
     {
         "name": "March Arrows",
@@ -20302,7 +20355,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2020-03",
-        "tp2": ""
+        "tp2": "March Arrows"
     },
     {
         "name": "Margarita Zelleod",
@@ -20344,18 +20397,20 @@
             "BGT"
         ],
         "authors": [
-            "Immortality"
+            "Mawgul"
         ],
         "team": [],
-        "notes": [
-            "Ce mod est en espagnol"
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "it"
+        ],
         "status": "active",
         "last_update": "2011-02",
-        "tp2": ""
+        "tp2": "MawgulNPC"
     },
     {
         "name": "Max HP on Level Up",
@@ -20400,10 +20455,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2010-12",
-        "tp2": ""
+        "tp2": "MegaModKits"
     },
     {
         "name": "Menace sur le Royaume de Diamant Éternel",
@@ -20499,7 +20556,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2020-04",
         "tp2": ""
     },
     {
@@ -20647,7 +20704,7 @@
         "tp2": "MilitiaOfficer"
     },
     {
-        "name": "Mindchild's Custom dll Fixes And Tweaks",
+        "name": "Custom dll Fixes And Tweaks",
         "description": "Ce mod apporte des modifications de règles à IWD2 : les paladins de Mystra peuvent se multi-classer en mage et sorcier, les paladins de Helm en Clerc de Helm, les moines peuvent porter des robes et conserver leur bonus de sagesse à la CA, les codes de triches sont implantés, possibilité de sauvegarder les points de compétence entre plusieurs montées de niveau... Pour plus d'information, lire <a href=\"https://sorcerers.net/community/threads/bug-fixing.26533/\">ceci</a>.|Vous pouvez personnaliser l'installation en modifiant les paramètres du fichier config.txt.",
         "urls": [
             "https://sorcerers.net/Games/IWD2/index_editors.php"
@@ -20658,7 +20715,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Mindchild"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -20909,8 +20968,8 @@
         "safe": 0,
         "languages": [],
         "status": "obsolete",
-        "last_update": "2006-03",
-        "tp2": ""
+        "last_update": "2005-09",
+        "tp2": "Mixmod"
     },
     {
         "name": "Mod Hospitality",
@@ -21469,7 +21528,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Wounded Lion"
+        ],
         "team": [
             "Shaywen",
             "Zooloo"
@@ -23819,11 +23880,12 @@
         "translation_state": "yes",
         "safe": 1,
         "languages": [
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "active",
         "last_update": "2016-11",
-        "tp2": ""
+        "tp2": "ParangonMode"
     },
     {
         "name": "Parting Ways",
@@ -24319,8 +24381,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2000-07",
+        "tp2": "non-weidu"
     },
     {
         "name": "Planescape: Torment Ultimate WeiDU Fixpack",
@@ -29067,7 +29129,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Razfallow"
+        ],
         "team": [
             "Lothringen"
         ],
@@ -29315,14 +29379,14 @@
     },
     {
         "name": "The Sorcerer's Place Collection",
-        "description": "Ce mod ajoute six nouveaux profils (Mystique sylvain, Maître-Lame, Chevalier de la mort, Ninja Wushi, Archer de Sylvanus, Poing des arcanes), ainsi que de nouveaux objets ([[Creslyn's BG2 Custom Items]]) dans des magasins déjà existants. Tous ces éléments proviennent de packs d'objets et de profils publiés sur le site Sorcerer's Place convertis au format WeiDU pour faciliter leur installation.",
+        "description": "Ce mod ajoute six nouveaux kits créés par Drizzt1180 ([[Sylvan Mystic Kit]], `Blade Master`, `Death Knight`, `Wushi Ninja`, `Archer of Sylvanus`, [[Arcane Fist]]), ainsi que de nouveaux objets ([[Creslyn's BG2 Custom Items]]) dans des magasins déjà existants. Tous ces éléments proviennent de packs d'objets et de profils publiés sur le site Sorcerer's Place convertis au format WeiDU pour faciliter leur installation.",
         "urls": [
             "https://www.gibberlings3.net/mods/kits/spc/",
             "https://github.com/Gibberlings3/SP_Collection"
         ],
         "categories": [
             "Kit",
-            "Gameplay"
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -29342,7 +29406,7 @@
             "Saiko"
         ],
         "notes": [
-            "Attention : le profil Archer de Sylvanus semble poser de <a href=\"https://www.baldursgateworld.fr/viewtopic.php?t=17083\">nombreux problèmes</a> avec les classes et les autres profils."
+            "Attention : le kit `Archer of Sylvanus` semble poser de <a href=\"https://www.baldursgateworld.fr/viewtopic.php?t=17083\">nombreux problèmes</a> avec les classes et les autres profils."
         ],
         "translation_state": "yes",
         "safe": 1,
@@ -30411,10 +30475,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2018-11",
-        "tp2": ""
+        "tp2": "SwordSaint"
     },
     {
         "name": "Sword and Fist",
@@ -30506,10 +30572,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2008-01",
-        "tp2": ""
+        "tp2": "1Syml"
     },
     {
         "name": "Sylvan Mystic Kit",
@@ -30524,13 +30592,17 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Polar Bear"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod a été converti en WeiDU et intégré dans [[The Sorcerer's Place Collection]]."
+        ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "",
         "tp2": "non-weidu"
     },
@@ -31974,7 +32046,7 @@
     },
     {
         "name": "The Demon in Ust Natha",
-        "description": "Ce mod permet aux joueurs de négocier avec le démon du Rituel quelque soit son alignement.|Ce mod n'est pas disponible, l'auteur tentant de corriger ses bugs...",
+        "description": "Ce mod permet aux joueurs de négocier avec le démon du Rituel quelque soit son alignement.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32261-the-demon-in-ust-natha-mod-for-bg2ee/"
         ],
@@ -31988,7 +32060,9 @@
             "temnix"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod n'est pas disponible, l'auteur tentant de corriger ses bugs..."
+        ],
         "translation_state": "no",
         "safe": 0,
         "languages": [],
@@ -32293,13 +32367,12 @@
     },
     {
         "name": "The Journey to the Whin Hill",
-        "description": "The Journey to the Whin Hill is an IWD-style adventure for BG2EE, in which you are sent to find a man in a new area known as the Whin Hill. However beware, as the place is known to be a home for wyverns, but... that's not the only threat you will find there. Also... why would anyone live in such a place? Find out, by visiting this new area and following the path under the hill.||There is also a bonus component: the mod includes a secret optional companion you may add to your game: Afu-Zuuvi, a chaotic neutral cleric/thief. He has less content than fully-fledged companions, but still includes a few short talks with the PC, 1 banter talk with each BioWare / Beamdog NPC in SoA and 1 in ToB. He also includes some interjections, a personal kit, soundset and a couple of items. You may also install basic player-initiated dialogues (an optional component).",
+        "description": "The Journey to the Whin Hill est une aventure de type IWD pour BG2EE, dans laquelle vous êtes envoyé à la recherche d'un homme dans une nouvelle région connue sous le nom de Whin Hill. Mais attention, l'endroit est connu pour abriter des wyverns, mais ce n'est pas la seule menace que vous y trouverez. De plus, pourquoi quelqu'un voudrait-il vivre dans un tel endroit ? Découvrez-le en visitant cette nouvelle zone et en suivant le chemin sous la colline.|Ce mod contient également, un personnage recrutable secret : Afu-Zuuvi, un clerc/voleur chaotique neutre. Il possède son propre kit, sa voix et ses propres capacités ainsi que quelques banters avec les personnages Bioware.",
         "urls": [
             "https://downloads.weaselmods.net/download/the-journey-to-the-whin-hill/"
         ],
         "categories": [
-            "Quête",
-            "PNJ recrutable"
+            "Quête"
         ],
         "games": [
             "BG2EE",
@@ -35001,10 +35074,17 @@
         ],
         "translation_state": "yes",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "it",
+            "es",
+            "fr",
+            "ru"
+        ],
         "status": "obsolete",
         "last_update": "2009-12",
-        "tp2": ""
+        "tp2": "contain"
     },
     {
         "name": "Universal Archer",
@@ -35090,7 +35170,7 @@
     },
     {
         "name": "Unlimited Pixel Works",
-        "description": "",
+        "description": "Avez-vous déjà voulu utiliser les anciens portraits des Royaumes oubliés : Unlimited Adventures ? Non ? Les voici en tout cas, exportés au format BMP 24 bits et upscalés 4x au plus proche voisin pour ces délicieux pixels nets dont vous ne vouliez pas !",
         "urls": [
             "https://forums.beamdog.com/discussion/63834/"
         ],
@@ -41340,7 +41420,7 @@
         "team": [],
         "notes": [
             "Attention : l'ordre d'installation est très important, lisez bien les instructions.",
-            "[[EE Keeper]] permet de réaliser la même chose par un autre moyen."
+            "[[EE Keeper]] permet de réaliser la même chose par un autre moyen et sans conflits avec d'autres mods."
         ],
         "translation_state": "n/a",
         "safe": 2,
@@ -42583,7 +42663,7 @@
     },
     {
         "name": "Made in Heaven - Fixes & Restorations",
-        "description": "",
+        "description": "Collecte et modernisation des corrections et restaurations pour BG1 et BG2.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/29992-my-new-made-in-heaven-mods/",
             "https://github.com/AngelGryph/MadeInHeaven_FixesAndRestorations"
@@ -45386,5 +45466,111 @@
         "status": "active",
         "last_update": "2024-10",
         "tp2": ""
+    },
+    {
+        "name": "Yovaneth's Scripts",
+        "description": "Ce pack de script contient 1 version pour chaque jeu. Il met en avant plusieurs concepts intéressants :|Guérison coopérative en combat|Guérison du poison|Évaluation du niveau de menace|Utilisation de baguette|Backstab pour les classes de voleur|Et plus encore !",
+        "urls": [
+            "http://www.shsforums.net/forum/279-yovaneths-scripts/"
+        ],
+        "categories": [
+            "Script et tactique"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "IWD",
+            "IWD2"
+        ],
+        "authors": [
+            "Yovaneth"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2006-03",
+        "tp2": ""
+    },
+    {
+        "name": "Applesauce",
+        "description": "Ce mod est un hommage au défunt lapin Applesauce de l'auteur. Il change le nom et le portrait du lapin familier en son honneur.",
+        "urls": [
+            "http://www.shsforums.net/topic/61086-applesauce-mod/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Almateria"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en",
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2021-07",
+        "tp2": "applesauce"
+    },
+    {
+        "name": "Initiative",
+        "description": "Ce mod introduit un système d'initiative adapté du jeu papier AD&D aux jeux Infinity Engine. Il fonctionne comme suit : 2 secondes après le début d'un combat, une gamme aléatoire de bonus et de pénalités est appliquée au groupe, aux alliés et aux ennemis. Ils affectent les vitesses de déplacement, d'arme et d'incantation, les accélérant ou les ralentissant, parfois légèrement, parfois radicalement. Les changements durent un round, suivi de 2 secondes de « temps libre », et ainsi de suite jusqu'à la fin du combat.",
+        "urls": [
+            "http://www.shsforums.net/files/file/1156-initiative/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "temnix"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2016-12",
+        "tp2": "initiative"
+    },
+    {
+        "name": "The Dragon of Umar Hills",
+        "description": "Ce mod permet aux joueurs de négocier avec le dragon des collines d'Umar en fonction de son niveau. Le combat est également modifié.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/35177-the-dragon-of-umar-hills-mod-for-bg2ee/"
+        ],
+        "categories": [
+            "Script et tactique"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "temnix"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-04",
+        "tp2": "The Dragon of Umar Hills"
     }
 ]
