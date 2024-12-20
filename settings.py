@@ -66,7 +66,6 @@ class Games(enum.StrEnum):
     IWD = "IWD"
     IWD2 = "IWD2"
     IWDEE = "IWDEE"
-    IWD2EE = "IWD2EE"
     PST = "PST"
     PSTEE = "PSTEE"
 
@@ -76,7 +75,7 @@ class Games(enum.StrEnum):
 
     @classmethod
     def iwd(cls) -> list:
-        return [cls.IWD, cls.IWD2, cls.IWDEE, cls.IWD2EE]
+        return [cls.IWD, cls.IWD2, cls.IWDEE]
 
     @classmethod
     def bg2(cls) -> list:
@@ -92,7 +91,7 @@ class Games(enum.StrEnum):
 
     @classmethod
     def IWD_EE(cls) -> tuple:
-        return (cls.IWDEE, cls.IWD2EE)
+        return (cls.IWDEE,)
 
     @classmethod
     def EE(cls) -> tuple:
