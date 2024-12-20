@@ -1293,7 +1293,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Moongaze"
+        ],
         "team": [],
         "notes": [
             "Notez que le portrait n'a pas été converti au standard des jeux EE.",
@@ -1767,7 +1769,7 @@
     },
     {
         "name": "Apprentice",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : Apprentice, [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil d'expert en épées.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : Apprentice, [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]], [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil d'expert en épées.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -1910,7 +1912,7 @@
     },
     {
         "name": "Arcane Fist",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], Arcane Fist, [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de moine/mage.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], Arcane Fist, [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]], [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de moine/mage.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -2046,28 +2048,33 @@
         "name": "Ariena the Half Orc",
         "description": "En version beta déjà jouable, ce mod fait partie d'un projet plus ambitieux, le The Mod for the Wicked. Combattante des tunnels demi-orque, Ariena est dotée d'une voix à la Angela Gossow d'Arch Enemy avec déjà pas mal de banters, d'une sorte de quête et d'un langage broken english amusant. Son petit dialogue avec Salvanas à la Couronne vaut le détour...",
         "urls": [
-            "http://www.shsforums.net/files/file/511-ariena-version-22/"
+            "http://www.shsforums.net/files/file/511-ariena-version-22/",
+            "https://github.com/RoxanneSHS/ArienaEE"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Deathsangel"
         ],
         "team": [],
         "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+            "Choississez le lien github pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2008-09",
-        "tp2": ""
+        "last_update": "2022-09",
+        "tp2": "Ariena"
     },
     {
         "name": "Armiger Kit for BG2: ToB",
@@ -8271,7 +8278,7 @@
     },
     {
         "name": "Crusader",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], Crusader, [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de paladin.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], Crusader, [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]], [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de paladin.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -8296,7 +8303,7 @@
     },
     {
         "name": "Crusader Pack",
-        "description": "Ce mod ajoute trois nouveaux profils (Champion of Torm, Energist et Adventurer) et trois nouveaux objets dans le jeu.",
+        "description": "Ce mod ajoute trois nouveaux profils|`Champion of Torm` : bonus aux jets de sauvegarde +3, +3 aux dégâts et au tac0 pendant 5 rounds, une Imposition des mains supplémentaire par jour tous les 4 niveaux. Ne peut utiliser des armes à distance.|`Energist` : Possède 5 compétences spéciales, CA +2 tous les 10 niveaux. Ne peut utiliser des armes à distance ou porter une armure.|`Adventurer` : bonus de 20 au Crochetage et à la Détection de pièges. Connaissance +30. Pas de bonus multiplicateur d'attaque sournoise.|Ajoute aussi trois nouveaux objets dans le jeu.",
         "urls": [
             "http://america.iegmc.net/moongaze/"
         ],
@@ -8308,15 +8315,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Corayo Raumoheru"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `Crusade_v4.rar`."
+        ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-03",
+        "tp2": "Crusade"
     },
     {
         "name": "Cursed Items Revision",
@@ -9876,7 +9889,7 @@
     },
     {
         "name": "Dragon Dancer",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], Dragon Dancer, [[Elementalist Kit]], [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de guerrier.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], Dragon Dancer, [[Elementalist Kit]], [[Ethereal Blademaster]], [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de guerrier.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -10290,8 +10303,7 @@
             "http://www.forgottenwars.com/dudleyfix/fixpacks.htm"
         ],
         "categories": [
-            "Patch non officiel",
-            "Conversion"
+            "Patch non officiel"
         ],
         "games": [
             "BG"
@@ -10305,7 +10317,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2006-07",
         "tp2": ""
     },
     {
@@ -11083,7 +11095,7 @@
     },
     {
         "name": "Elementalist Kit",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], Elementalist Kit, [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], Elementalist Kit, [[Ethereal Blademaster]], [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -11642,7 +11654,7 @@
     },
     {
         "name": "Ethereal Blademaster",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], Ethereal Blademaster (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], Ethereal Blademaster, [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -13927,15 +13939,19 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "GreyAcumen"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `GreyA_KI.zip`."
+        ],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
         "status": "wip",
-        "last_update": "2006-05",
-        "tp2": ""
+        "last_update": "2006-07",
+        "tp2": "GreyA"
     },
     {
         "name": "BG2:EE GUI In BG:EE",
@@ -17840,7 +17856,7 @@
     },
     {
         "name": "Kari the Kobold",
-        "description": "Cette métisse humaine/kobold est druidesse de son état. Toujours en beta (sa romance n'a pas été écrite), ce mod a créé la polémique sur les sites américains. Un clan de gardiens de la vertu, parmi lesquels Jason Compton, grand moddeur qu'on a connu mieux inspiré, a tenté d'empêcher par tous les moyens la romance d'être écrite au motif que romancer une demi-kobold serait \"moralement répugnant et inapproprié\". Y en a qui oublient que c'est un jeu... En l'état, Kari est déjà jouable et très attachante, une sorte d'Aerie en moins chouineuse.",
+        "description": "Cette métisse humaine/kobold est druidesse de son état. Toujours en beta (sa romance n'a pas été écrite), ce mod a créé la polémique sur les sites américains. En l'état, Kari est déjà jouable et très attachante, une sorte d'Aerie en moins chouineuse.",
         "urls": [
             "http://america.iegmc.net/moongaze/"
         ],
@@ -17851,15 +17867,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Moongaze"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `Kariv1-3b.rar`."
+        ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-08",
+        "tp2": "Kari"
     },
     {
         "name": "Karihi NPC",
@@ -20977,7 +20999,8 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Cependant, comme ce mod est très ancien, préférez-lui d'autres plus récents et plus performants comme le [[Difficulty and Tweaks mod]], sa version révisée et compatible avec les jeux EE, ou [[The Tweaks Anthology]]."
+            "Cependant, comme ce mod est très ancien, préférez-lui d'autres plus récents et plus performants comme le [[Difficulty and Tweaks mod]], sa version révisée et compatible avec les jeux EE, ou [[The Tweaks Anthology]].",
+            "Fichier `MixModv5.exe`."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -27621,7 +27644,7 @@
     },
     {
         "name": "Sarah NPC Romance Mod for BG2: ToB",
-        "description": "Cette rôdeuse chaotique bonne provient des bas quartiers de la Porte de Baldur, et a grandi avec son oncle, à Bois-Manteau. Timide (mais pas tellement avec les PJ féminins visiblement (romance disponible pour les demoiselles), ses statistiques sont équilibrées et intéressantes.",
+        "description": "Cette rôdeuse chaotique bonne provient des bas quartiers de la Porte de Baldur, et a grandi avec son oncle, à Bois-Manteau. Timide (mais pas tellement avec les PJ féminins visiblement : romance disponible pour les demoiselles), ses statistiques sont équilibrées et intéressantes.|FOR 16, DEX 17, CON 15, INT 14, SAG 12, CHA 10.",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/sarah/",
             "https://github.com/Gibberlings3/Sarah"
@@ -27875,7 +27898,7 @@
         "name": "Selune's Armoury",
         "description": "Ce petit mod ajoute plusieurs nouveaux objets de protection dans Baldur's Gate II. ToB est nécessaire.",
         "urls": [
-            "http://america.iegmc.net/moongaze/SeluneArmoury_v1.rar"
+            "http://america.iegmc.net/moongaze/"
         ],
         "categories": [
             "Sort et objet"
@@ -27884,15 +27907,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Moongaze"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `SeluneArmoury_v1.rar`."
+        ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-03",
+        "tp2": "SeluneArmoury"
     },
     {
         "name": "Semi-multi clerics mod (semi-multi mod)",
@@ -29955,17 +29984,20 @@
             "IWD2",
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Ardanis"
+        ],
         "team": [],
         "notes": [
-            "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod [[Aurora's Shoes and Boots]]."
+            "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod [[Aurora's Shoes and Boots]].",
+            "Fichier `StorePrices.rar `."
         ],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-11",
+        "tp2": "StorePrices"
     },
     {
         "name": "Store mod for IWD2",
@@ -34841,7 +34873,7 @@
     },
     {
         "name": "Undead Warrior",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et Undead Warrior.|Celui-ci installe un profil de guerrier.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]], [[Gambler]] et Undead Warrior.|Celui-ci installe un profil de guerrier.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -35619,7 +35651,7 @@
         "tp2": "vecna"
     },
     {
-        "name": "Vedran's Lost Items",
+        "name": "Lost Items",
         "description": "Ce mod implante plusieurs objets de BG2 and BG1Tutu et dans la partie BG de BGT, essentiellement des contenants et des armes exotiques. D'autres composants transforment Xan en sorcier, améliore les moines et Viconia, et proposent d'autres ajustements cosmétiques comme des nouveaux portraits pour les PNJ recrutables.",
         "urls": [
             "http://america.iegmc.net/lostitems/"
@@ -35631,15 +35663,18 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Aramis",
+            "Vedran"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-11",
+        "tp2": "LostItems"
     },
     {
         "name": "Verr’Sza (BG2EE)",
@@ -36673,15 +36708,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Moongaze"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `wikaede_v34.rar`."
+        ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2008-01",
+        "tp2": "Wikaede"
     },
     {
         "name": "Wild Mage Additions",
@@ -38934,15 +38975,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "notasophist"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `SarevokBeGoneV2.zip`."
+        ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2006-03",
-        "tp2": ""
+        "tp2": "SarevokBeGone"
     },
     {
         "name": "Sarevok Restore (Sarevok Wiederherstellung)",
@@ -39034,25 +39081,35 @@
         "name": "Solaufein NPC",
         "description": "Parfois appelé Weimer's Solaufein, ce mod ajoute un PNJ recrutable guerrier/mage elfe noir dont l'alignement dépend du vôtre (chaotique bon si votre personnage est bon ou neutre, chaotique neutre s'il est mauvais)... C'est le Solaufein d'Ust Natha que vous embauchez à la sortie de la cité... Ses caractéristiques sont les suivantes : FOR 18/21, DEX 18, CON 10, INT 18, SAG 10 et CHA 16.|À noter qu'il est très agréable, qu'il dispose de plusieurs défis (combats difficiles), récompenses (que je vous laisse découvrir) et d'une romance (aucune restriction de sexe, de race ou même d'autres romances en cours). Enfin il ajoute deux scripts Solo auto buff et Party auto buff (l'un pour une partie en solo, l'autre pour une partie en groupe). Cela fait attaquer les ennemis, boire les potions de soins, détecter les pièges et permet aux mages, aux clercs, aux bardes et aux druides de lancer tous leurs sorts de défense en une fraction de seconde (si aucun ennemi n'est présent).",
         "urls": [
-            "https://weidu.org/"
+            "https://weidu.org/",
+            "https://github.com/RoxanneSHS/Solaufein"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Wes Weimer"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version EE et le lien l'autre pour les versions originelles. La version EE n'est pas officielle."
+        ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru",
+            "cn"
+        ],
         "status": "active",
-        "last_update": "2009-08",
+        "last_update": "2024-12",
         "tp2": "solaufein"
     },
     {
