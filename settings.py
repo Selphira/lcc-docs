@@ -154,7 +154,7 @@ domain_to_image = {
 image_data = {
     "artisans-32.avif": {"title": "The Artisan Corner", "width": 32, "height": 32},
     "logocc.png": {"title": "La Courrone de Cuivre", "width": 32, "height": 32},
-    "teambg.png": {"title": "TeamBG", "width": 32, "height": 32},
+    "teambg.png": {"title": "TeamBG", "width": 32, "height": 13},
     "beamdog.png": {"title": "Beamdog", "width": 32, "height": 32},
     "bwl.gif": {"title": "The Black Wyrm's Lair", "width": 32, "height": 32},
     "g3icon-32.avif": {"title": "Gibberlings3", "width": 32, "height": 32},
