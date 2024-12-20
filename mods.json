@@ -139,7 +139,7 @@
         "tp2": "35weaponstyle"
     },
     {
-        "name": "5E-style spellcasting",
+        "name": "5E Spellcasting",
         "description": "Ce mod a pour ambition de remplacer les mécanismes de lancement de sorts des jeux IE par les règles de D&D 5e (lancement de sort\" \"semi-instantané\" ). Plus d'informations <a href=\"https://github.com/UnearthedArcana/5E_spellcasting/blob/master/README.md\" i=\"\">ici</a>",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32551-5e-spellcasting-rules-conversion/",
@@ -1416,8 +1416,8 @@
         "tp2": ""
     },
     {
-        "name": "Amazon Kit",
-        "description": "Ce mod ajoute un profil de combattante, l'Amazone (très) librement adapté de celui du Manuel complet du guerrier, et disponible pour un personnage humain, demi-elfe ou demi-orque. Il propose aussi un portrait basé sur une photo de Keira Knightley que vous pouvez utiliser pour votre personnage.",
+        "name": "Amazon Fighter kit",
+        "description": "Ce mod ajoute un profil de combattante, l'Amazone (très) librement adapté de celui du Manuel complet du guerrier, et disponible pour un personnage humain, demi-elfe ou demi-orque. Il propose aussi un portrait basé sur une photo de Keira Knightley que vous pouvez utiliser pour votre personnage.|Elles possèdent un bonus de vitesse de déplacement, une maîtrise du combat à deux armes, Charme animal, certaines immunités sont gagnées au fil des niveaux.|En contrepartie, elle ne peut se spécialiser que dans l'arc long, la lance et la hache, et ne peut porter d'armures métalliques.",
         "urls": [
             "https://arcanecoast.ru/mod/amazon-kit",
             "https://america.iegmc.com/amazonkit/"
@@ -1429,18 +1429,23 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Hansoo"
+        ],
         "team": [],
         "notes": [
             "Pour le premier lien, il faut s'inscrire sur le forum arcanecoast pour pouvoir le télécharger.",
-            "Le second lien permet de télécharger le mod sans avoir à s'inscrire."
+            "Le second lien permet de télécharger le mod sans avoir à s'inscrire.",
+            "Le premier lien doit proposer une version russe contrairement au second, à vérifier qu'il s'agisse du même mod."
         ],
         "translation_state": "no",
-        "safe": 0,
-        "languages": [],
-        "status": "wip",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
         "last_update": "2006-05",
-        "tp2": ""
+        "tp2": "amazon"
     },
     {
         "name": "Amber",
@@ -1762,7 +1767,7 @@
     },
     {
         "name": "Apprentice",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : Apprentice (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil d'expert en épées.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : Apprentice, [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil d'expert en épées.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -1905,7 +1910,7 @@
     },
     {
         "name": "Arcane Fist",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), Arcane Fist (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de moine/mage.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], Arcane Fist, [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de moine/mage.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -2653,7 +2658,9 @@
         "authors": [
             "Sikret"
         ],
-        "team": [],
+        "team": [
+            "Graoumf"
+        ],
         "notes": [
             "Ce profil a été inclus dans les dernières versions du mod [[Improved Anvil]].",
             "La version EE est disponible via le second lien."
@@ -3035,30 +3042,37 @@
         "name": "Azengaard Tactical Encounter",
         "description": "Ce mod ajoute des rencontres sympathiques et variées à différents endroits de SoA... entre autres. Lisez bien le readme contenu dans l'archive pour plus de détails (il y a pas mal d'ajouts). Il nécessite ToB.",
         "urls": [
-            "http://www.shsforums.net/files/file/658-azenmod-v5/"
+            "http://www.shsforums.net/files/file/658-azenmod-v5/",
+            "https://github.com/RoxanneSHS/AzengaardEE"
         ],
         "categories": [
             "Script et tactique"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
-            "Erebusant"
+            "Josh Clue"
         ],
         "team": [
             "Galathée"
         ],
         "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et à en modifier le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+            "Choisissez le lien github pour la version EE et le lien l'autre pour les versions originelles. La seconde version est non officielle."
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "2009-01",
-        "tp2": ""
+        "last_update": "2022-10",
+        "tp2": "Azengaard"
     },
     {
         "name": "Azure NPC Romance",
@@ -8258,7 +8272,7 @@
     },
     {
         "name": "Crusader",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]], Crusader (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de paladin.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], Crusader, [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de paladin.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -9863,7 +9877,7 @@
     },
     {
         "name": "Dragon Dancer",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]], [[Crusader]] (par Hansoo), Dragon Dancer (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de guerrier.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], Dragon Dancer, [[Elementalist Kit]], [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de guerrier.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -11070,7 +11084,7 @@
     },
     {
         "name": "Elementalist Kit",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]], [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), Elementalist Kit (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], Elementalist Kit, [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de druide protégé contre les énergies élémentaires et spécialisé dans la convocation d'élémentaires.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -11629,7 +11643,7 @@
     },
     {
         "name": "Ethereal Blademaster",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]], [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), Ethereal Blademaster (par Medivh), [[Gambler]] (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], Ethereal Blademaster (par Medivh), [[Gambler]] et [[Undead Warrior]].|Celui-ci installe un profil de rôdeur. ToB est nécessaire.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -12989,7 +13003,7 @@
         "tp2": ""
     },
     {
-        "name": "\"The Gibberlings Three Anniversary Mod\"",
+        "name": "The Gibberlings Three Anniversary Mod",
         "description": "Publié à l'occasion de la célébration de l'anniversaire du site, ce mini mod est le fruit de la collaboration de plusieurs moddeurs de G3. Il ajoute une quête mi-sérieuse, mi-amusante qui débute avec la rencontre d'un certain Drini à la Couronne de Cuivre. Prêts à vous lancer dans une tournée des pubs ?",
         "urls": [
             "https://www.gibberlings3.net/files/file/932-gibberlings-three-anniversary-mod/",
@@ -13048,7 +13062,7 @@
     },
     {
         "name": "Gambler",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]], [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), Gambler (par Gafgarion) et [[Undead Warrior]] (par Gafgarion).|Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]], Gambler et [[Undead Warrior]].|Celui-ci installe un profil pour tous ceux qui pensent avoir de la chance.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -20229,14 +20243,16 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Nicolas Peters"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2020-09",
         "tp2": ""
     },
     {
@@ -20359,7 +20375,7 @@
     },
     {
         "name": "Margarita Zelleod",
-        "description": "Ce mod ajoute une nouvelle traqueuse halfelin qui voyage sur la Côte des Épées, bien qu'il soit évident qu'elle n'est pas de la région. Elle aime se faire passer pour une personne inutile, timide ou innocente, même si ce n'est pas tout à fait le cas. Vous pourrez la recruter dans les mines de Nashkel.",
+        "description": "Ce mod ajoute une nouvelle traqueuse halfelin qui voyage sur la Côte des Épées, bien qu'il soit évident qu'elle n'est pas de la région. Elle aime se faire passer pour une personne inutile, timide ou innocente, même si ce n'est pas tout à fait le cas. Vous pourrez la recruter dans les mines de Nashkel.|FOR 15, DEX 17, CON 15, INT 12, SAG 14, CHA 15.",
         "urls": [
             "https://forums.beamdog.com/discussion/15867/",
             "https://www.mediafire.com/file/319iqtunuedckt5/Margarita.rar/file"
@@ -26036,9 +26052,7 @@
             "Wiskas"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -26768,15 +26782,20 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "nullset"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2021-12",
+        "tp2": "Rjali"
     },
     {
         "name": "Road to Discovery for SoD",
@@ -28494,7 +28513,8 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Edvin",
@@ -29514,28 +29534,41 @@
     },
     {
         "name": "Spell 50",
-        "description": "Ce mod permet de favoriser énormément les magiciens dans le jeu, mais par conséquent les liches ou vos ennemis aussi. En fait, tous les sorts du type Flétrissure d'Abi-Dalzim qui prennent en compte le niveau du personnage, peuvent dépasser la limite règlementaire (20) jusqu'au niveau 50 (on peut facilement atteindre ce niveau en solo avec le XP Cap remover ou Throne of Bhaal)... Ce qui peut faire des dégâts assez monstrueux, type 25d8....|Le développement de ce mod a été repris, sans l'accord de son auteur ni de la communauté, par un autre moddeur. Vous pouvez trouver la version 12 dans ce <a href=\"http://www.shsforums.net/topic/30919-spell50-version-8/page-3#entry559154\">sujet</a> ; à vos risques et périls toutefois.",
+        "description": "Ce mod permet de favoriser énormément les magiciens dans le jeu, mais par conséquent les liches ou vos ennemis aussi. En fait, tous les sorts du type Flétrissure d'Abi-Dalzim qui prennent en compte le niveau du personnage, peuvent dépasser la limite règlementaire (20) jusqu'au niveau 50 (on peut facilement atteindre ce niveau en solo avec le XP Cap remover ou Throne of Bhaal)... Ce qui peut faire des dégâts assez monstrueux, type 25d8....",
         "urls": [
-            "https://weidu.org/spell50.html"
+            "https://weidu.org/spell50.html",
+            "https://github.com/Pocket-Plane-Group/spell50"
         ],
         "categories": [
             "Sort et objet"
         ],
         "games": [
+            "BG",
             "BG2",
-            "BGT"
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWD",
+            "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Wes Weimer",
+            "CamDawg"
+        ],
         "team": [],
         "notes": [
-            "Attention : il n'est pas conseillé d'installer ce mod en l'état, car il est incompatible avec la majorité des autres mods modifiant les sorts."
+            "Attention : le premier lien n'est pas conseillé, car il est incompatible avec la majorité des autres mods modifiant les sorts.",
+            "Le second lien renvoie vers une version EE compatible et à jour."
         ],
         "translation_state": "no",
-        "safe": 1,
-        "languages": [],
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-12",
+        "tp2": "spell50"
     },
     {
         "name": "Spell Revisions",
@@ -32593,7 +32626,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD"
+            "SoD",
+            "EET"
         ],
         "authors": [
             "Utopolyst"
@@ -33053,6 +33087,7 @@
         "name": "The Vault",
         "description": "À l'origine, ce mod était surtout centré sur des nouveaux objets répartis un peu partout dans le jeu (monstres, magasins). Avec le temps il s'est agrémenté de plusieurs quêtes accessibles à des groupes de différents niveaux, afin d'accommoder les objets du mod à l'univers BG. Les quêtes restent ardues, tant dans leur résolution que dans les combats qui les peuplent. L'auteur annonce environ deux heures de jeu pour les quatre quêtes, mais vous passerez peut-être plus de temps à vous triturer les méninges pour les résoudre.|\"Retour à Nashkel\" commence lorsque le duc Eltan téléporte le groupe à Château Suif. Elle vous conduit à retourner dans les mines de Nashkel investies de pièges, d'araignées et d'elfes noirs. \"Le Vestibule\" : rendez-vous dans le petit bâtiment attenant au temple de Lathandre et parlez (plusieurs fois) aux prêtres qui s'y trouvent. La quête est constituée de deux combats particulièrement ardus (niveau 8-9 minimum), il faut renvoyer dans les abysses le démon Lestraubimat qui n'apparaîtra que si c'est la première fois que vous pénétrez sur un certain lieu (vous pouvez toutefois visiter la carte sous réserve de ne pas explorer la zone où le démon doit apparaître). \"Les Ogres de Gullykin, le village halfelin\" : une invasion et de gros combats... \"Le Caveau\", ou quête cachée : lisez attentivement les descriptifs des objets trouvés, et rassemblez l'idole de Kozah et l'armure du chevalier maudit du labyrinthe avant de les présenter au fantôme d'Ulcaster, qui vous donne l'épée de la Revanche du vampire en échange. Recherchez une personne qui pourrait vous aider à vous narrer l'histoire de cette épée.|Combiné à [[Sword Coast Stratagems]], ce mod peut rapidement relever de l'impossible, notamment lors de la quête \"Retour à Nashkel\" dans laquelle vous combattrez des hordes d'araignées.|Le lien concerne la version BGT et BG:EE. La <a href=\"http://www.angelfire.com/rpg2/azenmod/#Vault\">version BG1-Tutu</a> ne possède pas de traduction française.",
         "urls": [
+            "http://www.shsforums.net/topic/55129-the-vault-for-bgt-v72-released/",
             "https://github.com/RoxanneSHS/VaultEE"
         ],
         "categories": [
@@ -33067,7 +33102,9 @@
             "EET"
         ],
         "authors": [
-            "Roxanne"
+            "Josh Clue",
+            "Erebusant",
+            "Adanedhel"
         ],
         "team": [
             "Galathée",
@@ -33773,28 +33810,33 @@
         "name": "Touchstone NPC",
         "description": "Touchstone est un elfe sauvage guerrier qui semble ne pouvoir s'exprimer en langue commune qu'avec efforts, mais qui tentera cependant de se lier avec vous. Pas de romance néanmoins, il est annoncé comme étant sociable, même si apparemment il n'a pas énormément d'interactions avec les personnages du jeu. Vous le trouverez sur les Docks d'Athkatla. Un composant optionnel permet de lui attribuer un kit de guerrier elfe sauvage.|Le lien pointe vers un téléchargement alternatif de ce mod de Rabain publié à l'origine sur le site Borderkingdoms.net aujourd'hui indisponible.",
         "urls": [
-            "http://www.shsforums.net/topic/56148-touchstone-a-mod-from-rabain/"
+            "http://www.shsforums.net/topic/56148-touchstone-a-mod-from-rabain/",
+            "https://github.com/RoxanneSHS/Touchstone"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Rabain"
         ],
         "team": [],
         "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+            "Le lien github est compatible avec EE et est une version non officielle."
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2013-05",
-        "tp2": ""
+        "last_update": "2022-02",
+        "tp2": "touched"
     },
     {
         "name": "Tougher Enemies tweak",
@@ -34800,7 +34842,7 @@
     },
     {
         "name": "Undead Warrior",
-        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]] (par Shin), [[Arcane Fist]] (par Drizzt1180), [[Crusader]] (par Hansoo), [[Dragon Dancer]] (par Ripper123), [[Elementalist Kit]] (par Daemon), [[Ethereal Blademaster]] (par Medivh), [[Gambler]] (par Gafgarion) et Undead Warrior (par Gafgarion).|Celui-ci installe un profil de guerrier.",
+        "description": "Ce mod fait partie d'une série de huit profils créés sur le vieux site IE customisation & add-ons : [[Apprentice]], [[Arcane Fist]], [[Crusader]], [[Dragon Dancer]], [[Elementalist Kit]], [[Ethereal Blademaster]] (par Medivh), [[Gambler]] et Undead Warrior.|Celui-ci installe un profil de guerrier.",
         "urls": [
             "http://www.rpgcron.karoo.net/soa/kits.htm"
         ],
@@ -37389,23 +37431,26 @@
     },
     {
         "name": "Zakrion",
-        "description": "Ce mod ajoute Zakrion, un vrai duelliste humain neutre, près de l'épave du navire le le long de la Côte des Épées. Il dispose d'une voie de l'amitié et d'une \"semi-romance\".|Le mod est toujours en développement, et du contenu pour BG2 est planifié.",
+        "description": "Ce mod ajoute Zakrion, un vrai duelliste humain neutre, près de l'épave du navire le long de la Côte des Épées. Il dispose d'une voie de l'amitié et d'une \"semi-romance\".",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1020-zakrion/"
+            "https://www.gibberlings3.net/files/file/1020-zakrion/",
+            "https://www.gibberlings3.net/files/file/1040-zakrion-for-bg2/"
         ],
         "categories": [
             "PNJ recrutable"
         ],
         "games": [
-            "Tutu",
-            "BGT",
-            "BGEE"
+            "BGEE",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "jmaeq"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le premier lien renvoie vers une version BGEE, la seconde vers la version BG2EE."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
@@ -39633,7 +39678,7 @@
         "tp2": ""
     },
     {
-        "name": "Fight the heaven",
+        "name": "Fight the Heavens",
         "description": "Il s'agit d'un petit mod permettant à un joueur d'alignement mauvais d'accomplir la quête ToB de Dorn sans que ce dernier ne fasse partie du groupe. Pour commencer la quête, vous devez être d'alignement mauvais avec une réputation de 8 ou moins et vous aventurer jusqu'à l'Oasis. Une fois que vous aurez quitté l'Oasis, vous commencerez la quête normalement.",
         "urls": [
             "https://www.morpheus-mart.com/fight-the-heavens"
@@ -41649,7 +41694,8 @@
             "PNJ (autre)"
         ],
         "games": [
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Glittergear"
@@ -45430,7 +45476,7 @@
             "Ce mod est devenu obsolète depuis son intégration dans [[Dark Horizons]]."
         ],
         "translation_state": "yes",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en",
             "fr"
@@ -45572,5 +45618,210 @@
         "status": "active",
         "last_update": "2022-04",
         "tp2": "The Dragon of Umar Hills"
+    },
+    {
+        "name": "Mod_Tweaker",
+        "description": "Ce mod permet revisite légèrement de vieux mods en leur donnant plus de cohérence. Tous les composants sont optionnels et les mods doivent être installés avant celui-ci. On retrouve notamment : [[Horace]], [[Chiara NPC]], [[Moddie the vixen]], [[Ninafer]], [[Thael]], [[Sub-zero]], [[Yikari]], [[Umbra of TROW - Arena]], [[Jamella's Diablo2 Item Store]].",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34693",
+            "https://github.com/Deratiseur/Mod_Tweaker/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "deratiseur"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "Derats_Mods_Tweaker"
+    },
+    {
+        "name": "Caravans of Faerun",
+        "description": "Ce mod ajoute une nouvelle façon de voyager à travers la Côte de l'Épée, en ajoutant des Maîtres de Caravane que vous pouvez engager pour vous amener à certains endroits sur la carte avec seulement la moitié du temps de voyage et sans risque de rencontres aléatoires. Vous arriverez sur place bien reposé, avec vos sorts et vos capacités restaurés, ce qui vous permettra d'économiser des heures, voire des jours de jeu. Cependant, ce genre de service n'est pas gratuit, car vous devez payer 10 or par heure de voyage pour chaque membre du groupe. Les frais de déplacement ne sont pas donnés, après tout.",
+        "urls": [
+            "https://artisans-corner.com/caravans-of-faerun/",
+            "https://github.com/ArtemiusI/Caravans-of-Faerun"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-07",
+        "tp2": "ArtisansCaravans"
+    },
+    {
+        "name": "Constient Portraits",
+        "description": "Un ensemble de portraits pour PNJ pour les éditions EE, plus d'informations <a href='https://zenosziggurat.com/rpg-character-sketches-baldurs-gate-revisited-6/' target='_blank'>ici</a>.",
+        "urls": [
+            "https://github.com/dark0dave/bmp_portraits"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "dark0dave"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-11",
+        "tp2": "bmpp"
+    },
+    {
+        "name": "Heart of Winter",
+        "description": "L'extension Heart of Winter de Icewind Dale, disponible pour BG1:EE+SoD et EET. L'aventure commence après avoir parlé à Yollder dans la Barbe d'Ulgoth.|S'il est installé sur EET, le mod doit être installé après EET et avant d'installer le mod [[Trials of the Luremaster for Baldur's Gate]]. Sinon, le mod n'affecte pas les fichiers du jeu qui pourraient nuire à la compatibilité avec d'autres mods.",
+        "urls": [
+            "https://arcanecoast.ru/forum/viewtopic.php?f=31&t=1247"
+        ],
+        "categories": [
+            "Conversion"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "tipun"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2021-12",
+        "tp2": ""
+    },
+    {
+        "name": "IE Snippets",
+        "description": "Plusieurs petits mods/utilités pour l'Infinity Engine tels que : Amélioration du Pathfinding, Suppression de l'effet Stone Skin d'Imoen, etc.",
+        "urls": [
+            "https://github.com/Bubb13/IE-Snippets"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "Bubb"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2023-05",
+        "tp2": "multiple"
+    },
+    {
+        "name": "Neverwinter Night for Baldur's Gate",
+        "description": "Le mod reprend, avec des modifications mineures, l'intrigue du jeu « Neverwinter Nights ». Il ajoute de nombreux lieux, des personnages connus depuis l'enfance, des quêtes, des boutiques et Lady Aribeth. Pour commencer à passer le mod, il faut que le personnage principal ait un niveau d'expérience d'au moins 1350000 XP. Lorsque vous atteignez ce niveau d'expérience, un messager de Neverwinter vous aborde dans n'importe quel quartier d'Athkatla et vous demande de l'aide.",
+        "urls": [
+            "https://arcanecoast.ru/forum/viewtopic.php?f=31&t=1773",
+            "https://www.gibberlings3.net/forums/topic/37267-neverwinter-night-for-baldurs-gate-mod",
+            "https://github.com/abalabokhin/NWNForBG/"
+        ],
+        "categories": [
+            "Conversion"
+        ],
+        "games": [
+            "BGT",
+            "BG2",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "AGKanevchev",
+            "paladin84"
+        ],
+        "team": [],
+        "notes": [
+            "La traduction française est partielle (issue de NWN) et demande une relecture."
+        ],
+        "translation_state": "todo",
+        "safe": 2,
+        "languages": [
+            "ru",
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-07",
+        "tp2": "NWNForBG"
+    },
+    {
+        "name": "Remastered Spell Icons",
+        "description": "Ce mod modifie toutes les icônes de sorts et de capacités spéciales, ainsi que les icônes de défilement.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88266/",
+            "https://github.com/Renegade0/RemasteredSpellIcons/"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "Pecca"
+        ],
+        "team": [],
+        "notes": [
+            "Le mod est compatible avec les lefreut's Enhanced UI."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-02",
+        "tp2": "remastered_spell_icons"
     }
 ]
