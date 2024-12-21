@@ -156,7 +156,7 @@ image_data = {
     "logocc.png": {"title": "La Courrone de Cuivre", "width": 32, "height": 32},
     "teambg.png": {"title": "TeamBG", "width": 32, "height": 13},
     "beamdog.png": {"title": "Beamdog", "width": 32, "height": 32},
-    "bwl.gif": {"title": "The Black Wyrm's Lair", "width": 32, "height": 32},
+    "bwl.gif": {"title": "The Black Wyrm's Lair", "width": 32, "height": 29},
     "g3icon-32.avif": {"title": "Gibberlings3", "width": 32, "height": 32},
     "github-32.png": {"title": "GitHub", "width": 32, "height": 32},
     # TODO: raccourcir cet icône
@@ -172,6 +172,6 @@ image_data = {
     "sf.png": {"title": "SourceForge", "width": 32, "height": 32},
     "weasel-32.png": {"title": "Weasel Mods", "width": 32, "height": 32},
     "weidu.ico": {"title": "WeiDU", "width": 16, "height": 16},
-    "bgforge.svg": {"title": "BG Forge", "width": 32, "heigth": 32},
+    "bgforge.svg": {"title": "BG Forge", "width": 32, "height": 32},
     "-flag-32.png": {"title": "Mod %s", "width": 32, "height": 21},
 }

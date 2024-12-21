@@ -12,7 +12,7 @@
 }
 
 body {
-    background: #000 url('../img/bg_lcc2.png');
+    background: #000 url('../img/bg_lcc2.avif');
     color: #D1D1D1;
     padding-inline: 70px;
 }
@@ -134,7 +134,7 @@ hr {
 
 .background {
     background-repeat: repeat-x;
-    background: url("../img/fond_entete_forum.jpg");
+    background: url("../img/fond_entete_forum.avif");
 }
 
 label {
@@ -271,7 +271,7 @@ label {
 #maindiv .content {
     color: #deded9;
     background-color: #5F5F5F;
-    background: url("../img/fond_descr_forum.jpg");
+    background: url("../img/fond_descr_forum.avif");
     padding: 0 0 25px 0;
     margin: 50px auto;
     border-width: 2px 2px 4px 10px;
