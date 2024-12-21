@@ -9038,7 +9038,7 @@
         "tp2": ""
     },
     {
-        "name": "Deidre and Joluv in BG:EE",
+        "name": "Deidre and Joluv",
         "description": "Deirdre et Joluv, les commerçants bonus de BG2, ont fait une halte à la Porte de Baldur sur leur chemin vers l'Amn. Vous trouverez Deidre dans la taverne du Chant de l'elfe et Joluv aux Sorcelleries diverses, où vous pourrez essayer d'acheter leur fabuleux stock.",
         "urls": [
             "http://downloads.chosenofmystra.net/bg1/"
@@ -9047,6 +9047,7 @@
             "Forgeron et marchand"
         ],
         "games": [
+            "BGT",
             "BGEE"
         ],
         "authors": [
@@ -9054,34 +9055,8 @@
         ],
         "team": [],
         "notes": [
-            "Fichier `BGeeWmart3.7z`."
-        ],
-        "translation_state": "no",
-        "safe": 1,
-        "languages": [
-            "en",
-            "pl"
-        ],
-        "status": "active",
-        "last_update": "2015-10",
-        "tp2": "wmart"
-    },
-    {
-        "name": "Deidre and Joluv in BGT",
-        "description": "Deirdre et Joluv, les marchands bonus de BG2, ont fait une halte à la Porte de Baldur sur leur chemin vers l'Amn. Vous trouverez Deidre dans la taverne du Chant de l'elfe et Joluv aux Sorcelleries diverses, où vous pourrez essayer d'acheter leur fabuleux stock.",
-        "urls": [
-            "http://downloads.chosenofmystra.net/bg1/"
-        ],
-        "categories": [
-            "Forgeron et marchand"
-        ],
-        "games": [
-            "BGT"
-        ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "Fichier `BGTWmart1.rar`."
+            "BG1 : Fichier `BGeeWmart3.7z`.",
+            "BGT : Fichier `BGTWmart1.rar`."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -9944,7 +9919,8 @@
         "name": "Dragonspear UI++",
         "description": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais.||- La <a href=\"https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit\">version d'Anongit</a>, basée sur celle de Pecca / Renegade, elle se concentre sur la compatibilité avec EET et d'autres corrections.",
         "urls": [
-            "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit/releases/tag/Anongit"
+            "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit/releases/tag/Anongit",
+            "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Artifox/releases/tag/Artifox"
         ],
         "categories": [
             "Interface"
@@ -9953,41 +9929,7 @@
             "BGEE",
             "BG2EE",
             "SoD",
-            "EET"
-        ],
-        "authors": [
-            "Pecca"
-        ],
-        "team": [
-            "Shodead"
-        ],
-        "notes": [
-            "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour."
-        ],
-        "translation_state": "yes",
-        "safe": 2,
-        "languages": [
-            "br",
-            "en",
-            "fr",
-            "it",
-            "pl",
-            "ru"
-        ],
-        "status": "active",
-        "last_update": "2023-06",
-        "tp2": "dragonspear_ui++"
-    },
-    {
-        "name": "Dragonspear UI++ (IWDEE)",
-        "description": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais.||- <strong>La <a href=\"https://github.com/11jo/French-Translation_For_Dragonspear-UI_Artifox\">version d'Artifox</a>, basée sur celle d'Anongit, elle se concentre sur la compatibilité avec IWDEE et sur de nouvelles corrections.</strong>",
-        "urls": [
-            "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Artifox/releases/tag/Artifox"
-        ],
-        "categories": [
-            "Interface"
-        ],
-        "games": [
+            "EET",
             "IWDEE"
         ],
         "authors": [
@@ -9997,7 +9939,9 @@
             "Shodead"
         ],
         "notes": [
-            "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour."
+            "Attention : Pecca, l'auteur, a cédé la maintenance de son mod à un autre moddeur, meowdog. C'est pourquoi son dépôt <a href=\"https://github.com/Renegade0/DragonspearUI/releases\">GitHub</a> n'est pas à jour.",
+            "Le premier lien est compatible avec les BG(EE) et EET",
+            "Le second lien est compatible avec IWDEE"
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -13786,7 +13730,7 @@
     },
     {
         "name": "Gloran NPC",
-        "description": "Ce mod polonais ajoute un guerrier nain chaotique bon. On peut trouver Gloran aux portes de la ville. Malheureusement, ce mod n'a plus été développé depuis l'annonce de sa parution.",
+        "description": "Ce mod polonais ajoute un guerrier nain chaotique bon, grand maître de la hallebarde. On peut trouver Gloran aux portes de la ville. Il possède quelques objets et quelques banters avec les autres personnages.|FOR 18/94, DEX 16, CON 17, INT 10, SAG 12, CHA 7.",
         "urls": [
             "https://baldur.cob-bg.pl/gloran"
         ],
@@ -13808,8 +13752,8 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-04",
+        "tp2": "gloran"
     },
     {
         "name": "Glory of Istar",
@@ -13836,8 +13780,8 @@
         "tp2": ""
     },
     {
-        "name": "Goblinmod for BG:EE",
-        "description": "Ce mod en allemand ajoute dans le jeu le guerrier gobelin chaotique mauvais Shuk que l'on peut invoquer une fois par jour avec une pierre gobeline (elle se trouve dans l'enceinte de la taverne du Bras amical). Il est considéré comme un familier, ce qui lui permet de changer de région et d'explorer la carte, mais le joueur ne subit pas de dégâts permanents à sa Constitution lorsqu'il meurt. S'il est invoqué pendant plus de dix-huit heures de suite, il souffre d'épuisement.|Son niveau est égal à la moitié de l'expérience du personnage principal. Ses compétences peuvent être améliorées en interagissant avec lui, dans certaines situations et en accomplissant des tâches.",
+        "name": "Goblinmod Shuk",
+        "description": "Ce mod en allemand ajoute dans le jeu le guerrier gobelin chaotique mauvais Shuk que l'on peut invoquer une fois par jour avec une pierre gobeline (elle se trouve dans l'enceinte de la taverne du Bras amical). Il est considéré comme un familier, ce qui lui permet de changer de région et d'explorer la carte, mais le joueur ne subit pas de dégâts permanents à sa Constitution lorsqu'il meurt. S'il est invoqué pendant plus de dix-huit heures de suite, il souffre d'épuisement.|Son niveau est égal à la moitié de l'expérience du personnage principal. Ses compétences peuvent être améliorées en interagissant avec lui, dans certaines situations et en accomplissant des tâches.|FOR 15, DEX 17, CON 10, INT 12, SAG 9, CHA 14.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/genwas-goblinmod-bg1-ee.39/"
         ],
@@ -13845,10 +13789,13 @@
             "PNJ recrutable"
         ],
         "games": [
+            "BGT",
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Genwa"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -13857,8 +13804,8 @@
             "de"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-12",
+        "tp2": "SHUKBG1EE"
     },
     {
         "name": "Golem Construction for Spellcasters",
@@ -17363,7 +17310,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2010-01",
-        "tp2": "D2kits"
+        "tp2": ""
     },
     {
         "name": "Jan's Alchemy",
@@ -19682,7 +19629,7 @@
         "tp2": "Lost Druid Kit"
     },
     {
-        "name": "Lost Items",
+        "name": "Lost Items (PST)",
         "description": "Ce petit mod restaure le Charme de rat et l'Œil de Vecna dans le jeu. Vous pouvez les obtenir respectivement chez Aboyant-Plusauvage et Vrischika.",
         "urls": [
             "https://sorcerers.net/Games/dl.php?s=PST&f=Torment/items.zip"
@@ -19700,9 +19647,11 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2004-03",
         "tp2": "items"
     },
     {
@@ -27592,7 +27541,7 @@
             "https://github.com/The-Gate-Project/Saradas_Magic"
         ],
         "categories": [
-            "Quête"
+            "Forgeron et marchand"
         ],
         "games": [
             "BGT",
@@ -27617,13 +27566,14 @@
         "tp2": "saradas_magic"
     },
     {
-        "name": "Saradas Magic BG2",
+        "name": "Saradas Magic for BG2",
         "description": "Ce mod ajoute un nouveau PNJ, Saradas l'archimage, qui interagit de diverses manières avec le groupe de l'Enfant de Bhaal. Dans Shadows of Amn, c'est un PNJ non recrutable qui offre de nombreux services. Il se trouve dans le temple de Lathandre, dans le quartier des temples d'Athkatla. En plus d'avoir plusieurs dialogues exclusifs qui se déroulent au fur et à mesure que l'intrigue prend forme, sa boutique vaut le détour. De plus, Saradas est un collectionneur d'artefacts. Si vous trouvez un artefact ancien, vous pouvez le lui apporter et il l'enchantera pour vous, conférant des propriétés magiques à l'objet.|Dans ToB, Saradas est enfin un PNJ recrutable ! Vous pouvez l'invoquer via l'Esprit du destin dans votre antichambre. C'est un prêtre humain de Lathandre jumelé mage.",
         "urls": [
             "http://www.shsforums.net/files/file/1139-saradas-magic-for-bg2/",
-            "https://github.com/The-Gate-Project/Saradas_Magic_for_BGEE"
+            "https://github.com/SpellholdStudios/Saradas_Magic_for_BG2"
         ],
         "categories": [
+            "Forgeron et marchand",
             "PNJ recrutable"
         ],
         "games": [
@@ -27641,12 +27591,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "it",
             "cn"
         ],
         "status": "active",
-        "last_update": "2023-07",
-        "tp2": "saradas_magic"
+        "last_update": "2021-07",
+        "tp2": "saradas_magic_2"
     },
     {
         "name": "Saradas Revisioned Shapeshifter",
@@ -34009,7 +33958,7 @@
     },
     {
         "name": "Trap Overhaul",
-        "description": "Ce mod permet à vos personnages ayant la capacité de detection des pièges de les révéler automatiquement dés que ceux ci sont dans leur champ de vision. Il n'y a plus ce délai très pénible qui fait qu'on marche toujours sur les pièges, même avec un voleur en mode détection de pièges dans l'équipe. Par ailleurs, un autre composant permet de récupérer un piège quand on l'a désarmé, à condition d'être capable de le poser.",
+        "description": "Ce mod permet à vos personnages ayant la capacité de detection des pièges de les révéler automatiquement dès que ceux-ci sont dans leur champ de vision. Il n'y a plus ce délai très pénible qui fait qu'on marche toujours sur les pièges, même avec un voleur en mode détection de pièges dans l'équipe. Par ailleurs, un autre composant permet de récupérer un piège quand on l'a désarmé, à condition d'être capable de le poser.",
         "urls": [
             "https://forums.beamdog.com/discussion/71763/",
             "https://github.com/Plutonium-X/MISC_Traps"
