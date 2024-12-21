@@ -472,7 +472,7 @@
             "Le Marquis"
         ],
         "notes": [],
-        "translation_state": "yes",
+        "translation_state": "todo",
         "safe": 2,
         "languages": [
             "cz",
@@ -1905,7 +1905,9 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2018-12",
         "tp2": ""
@@ -21920,7 +21922,9 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2018-12",
         "tp2": ""
@@ -23870,7 +23874,9 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2018-12",
         "tp2": "palemaster"
@@ -27392,13 +27398,12 @@
     },
     {
         "name": "Sacred Fist (Cleric) and Dragon Disciple (3e)",
-        "description": "Ce mod ajoute un nouveau profil de clerc dans le jeu et modifie le Disciple du dragon lui permettant de se transformer en demi-dragon. Le Poings sacrés est un prêtre qui peut porter des coups dévastateurs avec ses poings.",
+        "description": "Ce mod ajoute un nouveau profil de clerc dans le jeu et modifie le Disciple du dragon lui permettant de se transformer en demi-dragon. Le Sacred Fist est un prêtre qui peut porter des coups dévastateurs avec ses poings.",
         "urls": [
             "https://forums.beamdog.com/discussion/65995/"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BGEE",
@@ -27410,11 +27415,15 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Attention : ce mod est obsolète depuis qu'il a été inclus dans le mod [[The Artisan's Kitpack]] du même auteur."
+        ],
         "translation_state": "no",
-        "safe": 1,
-        "languages": [],
-        "status": "active",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "embed",
         "last_update": "2017-08",
         "tp2": ""
     },
@@ -31645,7 +31654,7 @@
     },
     {
         "name": "The Artisan's Kitpack",
-        "description": "Ce mod ajoute plusieurs profils dans le jeu et en modifie certains :|- Guerriers : Arcane Archer, Barbare, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (pour Khalid).|- Rôdeurs : Dark Hunter, Rashemi Berserker Ranger (pour Minsc).|- Paladins : Divine Champion (Keldorn, Ajantis, Sirene), Knight of the Mystic Fire, Way of the Anti-Paladin (Chevalier noir).|- Druides : Elementalist, Hivemaster.|- Voleurs : [[Way of the Assassin]] (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).|- Ensorceleurs : Dragon Disciple, Pale Master.|- Shaman : Warhorn Shaman.",
+        "description": "Ce mod ajoute plusieurs profils dans le jeu et en modifie certains :|- Guerriers : [[Arcane Archer Redone]], Barbare, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (pour Khalid).|- Rôdeurs : Dark Hunter, [[Rashemi Berserker Ranger]] (pour Minsc).|- Paladins : Divine Champion (Keldorn, Ajantis, Sirene), [[Mystic Fire Paladin Kit]], Way of the Anti-Paladin (Chevalier noir).|- Druides : Elementalist, Hivemaster.|- Voleurs : [[Way of the Assassin]] (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).|- Ensorceleurs : Dragon Disciple, [[Pale Master Sorcerer]], Enlightened Fist.|- Shaman : [[Warhorn Shaman]].|-Clerc : Sacred Fist.",
         "urls": [
             "https://artisans-corner.com/the-artisans-kitpack/",
             "https://github.com/ArtemiusI/The-Artisan-s-Kitpack"
@@ -31664,13 +31673,17 @@
             "AionZ"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "L'auteur semble peu enclin à faire traduire ce mod."
+        ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-05",
-        "tp2": "ArtisansKitpack_npc"
+        "tp2": "ArtisansKitpack"
     },
     {
         "name": "Bear Walker Kit",
@@ -34252,7 +34265,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "True Berserker Minsc",
+        "name": "Rashemi Berserker Ranger",
         "description": "Ce mod attribue à Minsc un profil de Berserker rashemi (inspiré de la classe de prestige de Berserker frénétique) et ajoute une armure de peau améliorable à la Forge de Grondemarteau.",
         "urls": [
             "https://forums.beamdog.com/discussion/65028/"
@@ -34274,7 +34287,9 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2018-08",
         "tp2": ""
@@ -36160,7 +36175,7 @@
         "tp2": ""
     },
     {
-        "name": "Warhorn Shaman: a battle shaman kit",
+        "name": "Warhorn Shaman",
         "description": "Ce mod ajoute un nouveau profil de chaman.",
         "urls": [
             "https://forums.beamdog.com/discussion/71241/"
@@ -36184,8 +36199,10 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
-        "status": "obsolete",
+        "languages": [
+            "en"
+        ],
+        "status": "embed",
         "last_update": "2018-12",
         "tp2": ""
     },
@@ -36359,9 +36376,8 @@
     },
     {
         "name": "Way of the Assassin",
-        "description": "",
+        "description": "Way of the Assassin est une profession redoutée, à juste titre. Maître dans l'art de tuer, l'assassin se distingue par sa capacité à tuer un homme vivant d'un seul coup calculé ou de la moindre coupure avec une lame empoisonnée. Aucun homme vivant n'est capable de tuer une cible d'autant de façons qu'un assassin, et une fois qu'un assassin a marqué une cible choisie, son destin est souvent scellé. Si l'acte d'assassinat exige rapidité et ruse, la compétence la plus importante d'un assassin est la patience ; la patience d'analyser sa cible, d'observer ses faiblesses et de trouver le moyen le plus efficace de la tuer et de s'éclipser sans être vu.",
         "urls": [
-            "https://artisans-corner.com/way-of-the-assassin/",
             "https://forums.beamdog.com/discussion/64119/"
         ],
         "categories": [
@@ -36383,8 +36399,10 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
-        "status": "obsolete",
+        "languages": [
+            "en"
+        ],
+        "status": "embed",
         "last_update": "2018-12",
         "tp2": ""
     },
@@ -45947,5 +45965,33 @@
         "status": "active",
         "last_update": "2024-02",
         "tp2": "iwd1_eet;iwd2_eet;iwd_eet_end"
+    },
+    {
+        "name": "The Artisan's Shaman Tweaks",
+        "description": "Ce mod cherche à rendre cohérente la classe du Shaman en calquant sa progression en expérience sur celle du Clerc plutôt que sur celle de l'Ensorceleur. Il ajuste également sa vitesse d'apprentissage de sorts et le nombre d'incancations quotidiennes à un rythme plus cohérent.",
+        "urls": [
+            "https://github.com/ArtemiusI/Artisans-Shaman-Tweaks/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-07",
+        "tp2": "ArtisansShamanTweaks"
     }
 ]
