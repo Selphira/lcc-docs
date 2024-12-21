@@ -8752,7 +8752,7 @@
     },
     {
         "name": "Dark Side of the Sword Coast",
-        "description": "Dark Side of the Sword Coast est un mod pour Baldur's Gate + Tales of the Sword Coast. Il ajoute 5 quêtes (plus ou moins importantes) comportant de nouvelles zones, de nouveaux monstres (des morts-vivants en particulier) et 9 nouveaux personnages recrutables. Il ajoute aussi de nouveaux sorts et objets répartis un peu partout dans le jeu, soit sur des adversaires existants, soit sur de nouveaux personnages, soit encore dans des magasins ou des lieux.|La version BG1 (v106) est traduite en français, la version BG:EE (v102) de Red Carnelian ne l'est pas. <span style=\"color: red;\">Malheureusement, à l'installation de la version BG1, le français n'est plus disponible...</span>",
+        "description": "Dark Side of the Sword Coast est un mod pour Baldur's Gate + Tales of the Sword Coast. Il ajoute 5 quêtes (plus ou moins importantes) comportant de nouvelles zones, de nouveaux monstres (des morts-vivants en particulier) et 9 nouveaux personnages recrutables. Il ajoute aussi de nouveaux sorts et objets répartis un peu partout dans le jeu, soit sur des adversaires existants, soit sur de nouveaux personnages, soit encore dans des magasins ou des lieux.|La version BG1 (v106) est traduite en français, la version BG:EE (v102) de Red Carnelian ne l'est pas.",
         "urls": [
             "http://www.spellholdstudios.net/ie/dsotsc",
             "https://github.com/SpellholdStudios/DSotSC"
@@ -8779,7 +8779,8 @@
             "Mornagest"
         ],
         "notes": [
-            "Attention : Il existe des versions spécifiques à BG, BG:EE, BGT et EET, via des téléchargements différents. Prenez garde à télécharger la version appropriée !"
+            "Attention : Il existe des versions spécifiques à BG, BG:EE, BGT et EET, via des téléchargements différents. Prenez garde à télécharger la version appropriée !",
+            "Malheureusement, à l'installation de la version BG1, le français n'est plus disponible..."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -15752,7 +15753,7 @@
     },
     {
         "name": "IWDification",
-        "description": "Ce mod importe certains éléments de Icewind Dale dans la série de jeux Baldur's Gate, dont environ 70 sortilèges profanes et divins, les chanson du barde, les haches à deux mains... N'hésitez pas à lire son readme pour plus de détails.|Notez que ce mod est inutile si vous décider d'installer [[Sword Coast Stratagems]].</span>",
+        "description": "Ce mod importe certains éléments de Icewind Dale dans la série de jeux Baldur's Gate, dont environ 70 sortilèges profanes et divins, les chanson du barde, les haches à deux mains... N'hésitez pas à lire son readme pour plus de détails.|Notez que ce mod est inutile si vous décidez d'installer [[Sword Coast Stratagems]].",
         "urls": [
             "https://www.gibberlings3.net/files/file/948-iwdification/",
             "https://github.com/Gibberlings3/iwdification"
@@ -15776,7 +15777,9 @@
             "Freddy_Gwendo",
             "mickabouille"
         ],
-        "notes": [],
+        "notes": [
+            "Le composant `IWD Class Updates: Ranger: Tracking` n'est pas traduit."
+        ],
         "translation_state": "todo",
         "safe": 2,
         "languages": [
@@ -24798,7 +24801,7 @@
     },
     {
         "name": "PnP Potions",
-        "description": "Ce mod utilise le système de cumuls de potions des règles papier. Lorsque vous buvez une potion alors qu'une autre est encore active, il peut arriver ceci :|- 1% de chances d'exploser (5d10 dégâts de feu sur le buveur, + 1d10 dégâts de feu dans un rayon de 5').|- 2 % de chances de mourir instantanément par empoisonnement.|- 5 % de chances de perdre 1 point de Force et de Dextérité.|- 7 % de chances d'annuler/supprimer tous les effets de la potion active.|- 10 % de chances que la potion ne fasse rien.|- 10 % de chances que la potion ait une efficacité réduite de moitié.|- 8 % de chances que la potion ait une efficacité accrue de 50 %.|- 1 % de chances que la potion ait une efficacité permanente ou doublée.|Les potions permanentes, comme les potions de guérison, sont considérées comme toujours en vigueur pendant 1 tour (60 secondes) après leur consommation.|Les événements spéciaux susmentionnés ne peuvent se produire qu'en buvant des potions. Par conséquent, il n'y a aucun risque à utiliser 1 huile et 1 potion, puisque les huiles sont appliquées sur la peau, et non consommées, et qu'elles ne se mélangent donc pas.|<span style=\"color: red;\">Ce mod ayant été traduit sur le net, il nécessite à minima une bonne relecture !</span>",
+        "description": "Ce mod utilise le système de cumuls de potions des règles papier. Lorsque vous buvez une potion alors qu'une autre est encore active, il peut arriver ceci :|- 1% de chances d'exploser (5d10 dégâts de feu sur le buveur, + 1d10 dégâts de feu dans un rayon de 5').|- 2 % de chances de mourir instantanément par empoisonnement.|- 5 % de chances de perdre 1 point de Force et de Dextérité.|- 7 % de chances d'annuler/supprimer tous les effets de la potion active.|- 10 % de chances que la potion ne fasse rien.|- 10 % de chances que la potion ait une efficacité réduite de moitié.|- 8 % de chances que la potion ait une efficacité accrue de 50 %.|- 1 % de chances que la potion ait une efficacité permanente ou doublée.|Les potions permanentes, comme les potions de guérison, sont considérées comme toujours en vigueur pendant 1 tour (60 secondes) après leur consommation.|Les événements spéciaux susmentionnés ne peuvent se produire qu'en buvant des potions. Par conséquent, il n'y a aucun risque à utiliser 1 huile et 1 potion, puisque les huiles sont appliquées sur la peau, et non consommées, et qu'elles ne se mélangent donc pas.",
         "urls": [
             "https://forums.beamdog.com/discussion/82300/",
             "https://github.com/4Luke4/PnP-Potions"
@@ -24816,7 +24819,9 @@
             "Luke"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "La traduction a été automatisée, elle nécessite à minima une bonne relecture."
+        ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -30463,7 +30468,7 @@
     },
     {
         "name": "Sword Coast Map Labels",
-        "description": "Ce mini-mod attribue des étiquettes \"canon\" à toutes les zones de la partie du jeu Baldur's Gate I (Côte des Épées). Si une zone n'a pas de références dans le matériel canon PnP, le mod lui attribuera le label Dudleyville. Dans la mesure du possible, les étiquettes tentent d'éviter les spoilers. Consultez le <a href=\"http://www.farseek.com/bg/mapnames-english.html\">readme</a> pour plus d'informations.|Un composant met à jour le texte sur les pierres de marquage dans les zones \"Chutes de la dryade\" et \"Forêt des feuilles écarlates\" pour ces étiquettes de zone plutôt que \"Pics Brumeux\" qui commencent en fait un peu plus au sud et continuent à l'est de Nashkel.|Un dernier composant corriger les étiquettes de carte des parties sauvegardées.|<span style=\"color: red;\">Les traductions ne sont pas encore incluses. <span style=\"color: lime;\">En cours par Freddy_Gwendo.</span></span>",
+        "description": "Ce mini-mod attribue des étiquettes \"canon\" à toutes les zones de la partie du jeu Baldur's Gate I (Côte des Épées). Si une zone n'a pas de références dans le matériel canon PnP, le mod lui attribuera le label Dudleyville. Dans la mesure du possible, les étiquettes tentent d'éviter les spoilers. Consultez le <a href=\"http://www.farseek.com/bg/mapnames-english.html\">readme</a> pour plus d'informations.|Un composant met à jour le texte sur les pierres de marquage dans les zones \"Chutes de la dryade\" et \"Forêt des feuilles écarlates\" pour ces étiquettes de zone plutôt que \"Pics Brumeux\" qui commencent en fait un peu plus au sud et continuent à l'est de Nashkel.|Un dernier composant corriger les étiquettes de carte des parties sauvegardées.",
         "urls": [
             "http://www.shsforums.net/files/file/940-sword-coast-map-labels/"
         ],
@@ -30482,12 +30487,14 @@
             "Mornagest"
         ],
         "notes": [],
-        "translation_state": "todo",
+        "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2010-12",
-        "tp2": ""
+        "tp2": "mapnames"
     },
     {
         "name": "Sword Coast Stratagems",
@@ -31136,9 +31143,10 @@
     },
     {
         "name": "Tashia NPC",
-        "description": "Ce mod ajoute un nouveau PNJ, une elfe sorcière issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue. ToB est indispensable pour ce mod. Rapide coup d'œil aux caractéristiques : FOR 11, DEX 19, CON 15, INT 16, SAG 14 et CHA 12.|Et la nouvelle version \"Remix\", non disponible en français, mais maintenue; compatible EE, et ajoutant beaucoup de dialogues donc de contenu (près du triple par rapport à l'ancienne version 2,05g). Fourni par deratiseur, c'est le second lien qui permet de jouer l'ancienne version 2.05g en français dans BG2:EE.",
+        "description": "Ce mod ajoute un nouveau PNJ, une elfe sorcière issue du grand nord, sortie tout droit de l'Épine dorsale du monde, avec une romance possible avec un PJ masculin. De plus, cette romance continue dans ToB. Il y a 3 épilogues différents pour cette romance à la fin de Throne of Bhaal, suivant le choix que l'on effectue.|FOR 11, DEX 19, CON 15, INT 15, SAG 14 et CHA 12.",
         "urls": [
-            "http://america.iegmc.net/tashia/",
+            "http://www.shsforums.net/files/file/33-tashia/",
+            "https://github.com/Spellhold-Studios/Tashia-NPC/",
             "https://github.com/Plutonium-X/NPC_Tashia"
         ],
         "categories": [
@@ -31151,52 +31159,27 @@
             "EET"
         ],
         "authors": [
-            "Michael \"Arian\" Lyashenko",
+            "Michael Lyashenko",
             "Bri",
             "Lord Ernie"
         ],
         "team": [
-            "Yoho"
+            "Yoho",
+            "deratiseur"
         ],
-        "notes": [],
+        "notes": [
+            "La mise à jour de la traduction française est disponible sur le dernier lien de Plutonium."
+        ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
-            "fr",
-            "de",
-            "it",
-            "es"
+            "ru",
+            "fr"
         ],
         "status": "active",
         "last_update": "2024-11",
         "tp2": "Tashia"
-    },
-    {
-        "name": "Tashia Remix",
-        "description": "Il s'agit de la version \"Remix\" de [[Tashia NPC]] qui ajoute de nombreux textes et qui n'est pas entièrement traduite, et est compatible avec les jeux EE.|Il existe une autre version du mod, la version 2.05g originelle, traduite, et disponible plus haut.|<span style=\"color:red;\">Nécessite une mise à jour de la traduction (près du triple par rapport à l'ancienne version 2,05g).</span>",
-        "urls": [
-            "http://www.shsforums.net/files/file/33-tashia/"
-        ],
-        "categories": [
-            "PNJ recrutable"
-        ],
-        "games": [
-            "BG2",
-            "BGT",
-            "BG2EE"
-        ],
-        "authors": [
-            "Lord Ernie"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "todo",
-        "safe": 2,
-        "languages": [],
-        "status": "active",
-        "last_update": "2024-11",
-        "tp2": ""
     },
     {
         "name": "Taunt Spell",
@@ -33859,13 +33842,21 @@
             "BGT"
         ],
         "authors": [
+            "Vlad Papper",
+            "Domi Sotto",
+            "Bill Harper",
             "King Diamond"
         ],
         "team": [],
         "notes": [],
-        "translation_state": "wip",
+        "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "de",
+            "es"
+        ],
         "status": "active",
         "last_update": "2007-06",
         "tp2": ""
@@ -37740,7 +37731,7 @@
     },
     {
         "name": "iiLearn Through Use Mod",
-        "description": "Créé par igi, ce petit mod s'efforce d'ajouter un peu de réalisme dans le jeu en modifiant le processus d'acquisition de points de compétences martiales. Le joueur ne les obtiendra plus pour des armes qu'il n'a jamais vues, et encore moins utilisées. Désormais, ils ne dépendront plus du niveau des personnages, mais de l'arme et de la durée pendant laquelle ils se sont battus (alors que les compétences seront limitées par les limites de classe). Si vous utilisez certaines armes assez longtemps, vous apprendrez à mieux les manier, même si vous ne tuez pas plusieurs milliers de créatures ou n'accomplissez pas plusieurs quêtes.|Un point de compétence est accordé après un nombre déterminé de coups réussis. Le programme d'installation vous permet de choisir le nombre de coups nécessaires pour obtenir chacun des 5 points de compétences martiales. De plus, en option, vous pouvez décider de rendre obligatoire un entraînement avant de valider vos points, gratuitement ou pas.|<span style=\"color: lime\">En cours de ré-écriture et de traduction.</span>",
+        "description": "Créé par igi, ce petit mod s'efforce d'ajouter un peu de réalisme dans le jeu en modifiant le processus d'acquisition de points de compétences martiales. Le joueur ne les obtiendra plus pour des armes qu'il n'a jamais vues, et encore moins utilisées. Désormais, ils ne dépendront plus du niveau des personnages, mais de l'arme et de la durée pendant laquelle ils se sont battus (alors que les compétences seront limitées par les limites de classe). Si vous utilisez certaines armes assez longtemps, vous apprendrez à mieux les manier, même si vous ne tuez pas plusieurs milliers de créatures ou n'accomplissez pas plusieurs quêtes.|Un point de compétence est accordé après un nombre déterminé de coups réussis. Le programme d'installation vous permet de choisir le nombre de coups nécessaires pour obtenir chacun des 5 points de compétences martiales. De plus, en option, vous pouvez décider de rendre obligatoire un entraînement avant de valider vos points, gratuitement ou pas.",
         "urls": [
             "https://github.com/btigi/iiLearnThroughUse"
         ],
