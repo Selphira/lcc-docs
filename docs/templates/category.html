@@ -6,13 +6,13 @@
             <p>Compatibilités</p>
             <p>Auteurs</p>
             <p>Description / Notes</p>
-            <img src="{{ static }}img/download.png" title="Téléchargement" alt="Image de téléchargement" width="42"height="42">
+            <img src="{{ static }}img/download.png" title="Téléchargement" alt="Image de téléchargement" width="42" height="42">
         </div>
         {% for mod in category.mods %}
             <div class="row mod" id="{{ mod.id }}">
                 <div class="title">
-                    <a class="discret" href="#{{ mod.id }}"><p class="name">{{ mod.name }}</p></a>
-                    <p class="icons">{% for icon in mod.icons %}<span class='infobulle' aria-label='{{ icon.label }}'>{{ icon.icon }} </span>{% endfor %}</p>
+                    <a class="discret" href="#{{ mod.id }}">{{ mod.name }}</a>
+                    <p class="icons">{% for icon in mod.icons %}<span aria-label='{{ icon.label }}'>{{ icon.icon }}</span>{% endfor %}</p>
                 </div>
                 <div class="jeu">
                     {% for game in mod.games %}<p>{{ game }}</p>{% endfor %}

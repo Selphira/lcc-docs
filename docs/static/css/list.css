@@ -401,6 +401,11 @@ a.discret:link {
     margin-block: 2px;
 }
 
+.table .row .icons {
+    display: flex;
+    column-gap: 10px;
+}
+
 .table .jeu {
     display: flex;
     flex-wrap: wrap;
@@ -535,7 +540,7 @@ details[open] summary::marker {
 /* ------------ *
  *  Info-bulle  *
  * ------------ */
-.infobulle {
+.icons [aria-label] {
     /*les .infobulles deviennent référentes*/
     position: relative;
     cursor: help;
@@ -543,8 +548,8 @@ details[open] summary::marker {
     color: var(--color-primary);
 }
 
-.infobulle:hover::after,
-.infobulle:focus::after {
+.icons [aria-label]:hover::after,
+.icons [aria-label]:focus::after {
     /* on affiche aria-label */
     content: attr(aria-label);
     font-size: var(--font-size-medium);
@@ -561,6 +566,6 @@ details[open] summary::marker {
     border-radius: 4px;
 }
 
-[aria-label]:focus {
+.icons [aria-label]:focus {
     outline: none;
 }
