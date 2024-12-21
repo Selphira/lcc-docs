@@ -2416,10 +2416,15 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2008-01",
+        "tp2": "AshesofEmbers"
     },
     {
         "name": "Askaria Quest NPC & Chaos Knight kit",
@@ -7053,39 +7058,6 @@
         "tp2": "Chloe"
     },
     {
-        "name": "Cirerrek's AI Scripts",
-        "description": "Il s'agit de plusieurs collections de scripts d'IA pour les jeux IE et EE :|- eSeries : collection de scripts pour Baldur's Gate II: Shadows of Amn avec ou sans l'extension Throne of Bhaal.|- gMinion : collection de scripts qui améliorent l'intelligence des créatures invoquées par les sorts et les objets.|- iSeries : collection de scripts en version beta pour Icewind Dale II.|- Sequencer Memory : petit script permettant au joueur de se rappeler ce qu'il a enregistré dans ses séquenceurs et déclencheurs de sorts.|- tSeries : collection de scripts pour Planescape: Torment.|- uScript : script universel pour tous les personnages.",
-        "urls": [
-            "https://www.gibberlings3.net/mods/other/cirerrek/"
-        ],
-        "categories": [
-            "Script et tactique"
-        ],
-        "games": [
-            "BG2",
-            "Tutu",
-            "BGT",
-            "BGEE",
-            "BG2EE",
-            "SoD",
-            "EET",
-            "IWD",
-            "IWDEE"
-        ],
-        "authors": [
-            "Cirerrek",
-            "CamDawg"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
-        "safe": 2,
-        "languages": [],
-        "status": "active",
-        "last_update": "",
-        "tp2": "eseries"
-    },
-    {
         "name": "Sequencer Memory",
         "description": "Ce petit script permet au joueur de se rappeler ce qu'il a enregistré dans ses séquenceurs et déclencheurs de sorts.|Veuillez consulter le <a href=\"https://gibberlings3.github.io/Documentation/readmes/readme-sequencer_memory.html\">readme</a> pour plus détails.",
         "urls": [
@@ -7268,7 +7240,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Platter"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -7767,7 +7741,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Platter"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -8255,10 +8231,11 @@
         "tp2": "crossmodbg2"
     },
     {
-        "name": "Crossmod Banter Pack for IWD",
-        "description": "Comme dans son homologue pour BG2, ce mod ajoute des dialogues entre les PNJ ajoutés par des mods (les 5 personnages de [[IWD NPC Project]] ; [[Minerva NPC]] et [[Karihi NPC]] de AionZ ; [[Dendjelion]], [[Dusky NPC]], [[Ina]], [[Oak-Maw]], [[Orra]], [[Tipps]], [[T’viy]], [[Urchin]], [[L'anna NPC]] et [[Hommet]] de Lava Del'Vortel), ainsi que des querelles dues à des conflits d'intérêt et de romance. L'occasion d'en apprendre un peu plus sur leur caractère, mais aussi, de voir leur réaction en cas de conflit de romance !",
+        "name": "Icewind Dale Crossmod Banter Pack",
+        "description": "Comme dans son homologue pour BG2, ce mod ajoute des dialogues entre les PNJ ajoutés par des mods (les 5 personnages de [[IWD NPC Project]] ; [[Minerva NPC]] et [[Karihi NPC]] de AionZ ; [[Dendjelion]], [[Dusky NPC]], [[Ina]], [[Oak-Maw]], [[Orra]], [[Tipps]], [[T’viy]], [[Urchin]], [[L'anna NPC]], [[Xikâsz’s Grove of Chaos]], [[Bethany]] et [[Hommet]] de Lava Del'Vortel), ainsi que des querelles dues à des conflits d'intérêt et de romance. L'occasion d'en apprendre un peu plus sur leur caractère, mais aussi, de voir leur réaction en cas de conflit de romance !",
         "urls": [
-            "https://www.gibberlings3.net/mods/npcs/crossmod_iwd/"
+            "https://www.gibberlings3.net/mods/npcs/crossmod_iwd/",
+            "https://github.com/Gibberlings3/iwdcrossmod"
         ],
         "categories": [
             "PNJ (autre)"
@@ -8266,15 +8243,21 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Multiple"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le mod s'installe après les mods des PNJ concernés."
+        ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-05",
+        "tp2": "iwdcrossmodpack"
     },
     {
         "name": "Crusader",
@@ -8345,23 +8328,33 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Salk"
+        ],
         "team": [
             "Le Marquis"
         ],
-        "notes": [],
+        "notes": [
+            "Ce mod est compatible avec tous les autres mods WeiDU qui n'altèrent pas le contenu des fichiers des objets maudits. Plus d'informations dans le README."
+        ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-06",
+        "tp2": "cursed_items"
     },
     {
-        "name": "Custom Kits: The Spellsword",
-        "description": "Ce mod ajoute un profil de guerrier, le magelame, qui peut peut créer une arme spirituelle, invoquer une épée spirituelle qui combat à ses côtés pendant un tour, et se cloner pendant une petite période.",
+        "name": "Custom Kits: Spellsword",
+        "description": "Ce mod ajoute un kit de guerrier : le Magelame, qui peut invoquer une épée spirituelle qui combat à ses côtés pendant un tour. À haut niveau, il peut également se cloner pendant une petite période, un peu comme un Simulacre.",
         "urls": [
-            "http://www.shsforums.net/files/file/913-custom-kits-the-spellsword/"
+            "http://www.shsforums.net/files/file/913-custom-kits-the-spellsword/",
+            "https://github.com/Argent77/A7-CustomKits"
         ],
         "categories": [
             "Kit"
@@ -8382,7 +8375,9 @@
         "team": [
             "deratiseur"
         ],
-        "notes": [],
+        "notes": [
+            "La version shs n'est plus maintenue, privilégiez-lui la version github."
+        ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -8391,8 +8386,8 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2022-08",
-        "tp2": ""
+        "last_update": "2023-10",
+        "tp2": "A7-CustomKits"
     },
     {
         "name": "Custom Soundsets : The Comedic Paladin",
@@ -8595,7 +8590,9 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "Aaron O'Neil"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -9213,7 +9210,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2024-01",
-        "tp2": ""
+        "tp2": "dendjelion"
     },
     {
         "name": "Derat's Unused Kits Pack (DUKP)",
@@ -15037,7 +15034,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2024-01",
-        "tp2": ""
+        "tp2": "hommet"
     },
     {
         "name": "Horace",
@@ -16549,7 +16546,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "ina"
     },
     {
         "name": "Indira NPC",
@@ -17885,7 +17882,7 @@
     },
     {
         "name": "Karihi NPC",
-        "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Karihi, une génasi du feu pyromancienne chaotique neutre, originaire de la terre éloignée du Gélointain (Frozenfar). C'est une noble déchu au passé plutôt désagréable. Comme il sied à son héritage de genasi du feu, elle est fougueuse, autoritaire, colérique et prompte à s'offenser, ainsi que sûre d'elle et arrogante, mais ses compétences en tant que pyromancienne et érudite sont indéniablement impressionnantes. Et elle ferait un puissant mage... à condition que l'on puisse tolérer son arrogance et ses plaintes sans fin à l'égard du froid et des longues randonnées à travers l'Épine dorsale du Monde. Vous la trouverez à Havredest, devant l'auberge des congères... grelottante et se plaignant du vent d'hiver.|Karihi a une série de dialogues d'amitié tout au long du jeu, et un PC masculin humain, elfe ou demi-elfe avec au moins de 9 de Charisme peut commencer une romance avec elle. Par ailleurs, un PC mage pourra apprendre quelques sorts de pyromancie.",
+        "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : Karihi, une génasi du feu pyromancienne chaotique neutre, originaire de la terre éloignée du Gélointain (Frozenfar). C'est une noble déchu au passé plutôt désagréable. Comme il sied à son héritage de genasi du feu, elle est fougueuse, autoritaire, colérique et prompte à s'offenser, ainsi que sûre d'elle et arrogante, mais ses compétences en tant que pyromancienne et érudite sont indéniablement impressionnantes. Et elle ferait un puissant mage... à condition que l'on puisse tolérer son arrogance et ses plaintes sans fin à l'égard du froid et des longues randonnées à travers l'Épine dorsale du Monde. Vous la trouverez à Havredest, devant l'auberge des congères... grelottante et se plaignant du vent d'hiver.|Karihi a une série de dialogues d'amitié tout au long du jeu, et un PC masculin humain, elfe ou demi-elfe avec au moins de 9 de Charisme peut commencer une romance avec elle. Par ailleurs, un PC mage pourra apprendre quelques sorts de pyromancie.|FOR 10, DEX 18, CON 16, INT 19, SAG 13, CHA 13.",
         "urls": [
             "https://artisans-corner.com/karihi/",
             "https://github.com/ArtemiusI/KarihiNPC"
@@ -18643,7 +18640,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2024-04",
-        "tp2": ""
+        "tp2": "lanna"
     },
     {
         "name": "L'interplan",
@@ -19419,10 +19416,10 @@
     },
     {
         "name": "Lion Warrior kit",
-        "description": "Anciennement appelé \"Zulu kit\", ce mod ajoute un profil de rôdeur qui combine des compétences de combat mortelles avec des dons de survie en milieu sauvage, et un fort lien avec la nature. Il ne peut pas porter d'armure et utiliser d'armes de trait, mais compense par sa grande maîtrise, 2 sorts supplémentaires par niveau, des bonus mineurs à la CA, au toucher et aux dégâts, et peut se métamorphoser en un lion TRÈS MÉCHANT.",
+        "description": "Anciennement appelé \"Zulu kit\", ce mod ajoute un profil de rôdeur qui combine des compétences de combat mortelles avec des dons de survie en milieu sauvage, et un fort lien avec la nature. Il ne peut pas porter d'armure ou de bracelets et utiliser d'armes de trait, mais compense par sa grande maîtrise, 2 sorts supplémentaires par niveau, des bonus mineurs à la CA, au toucher et aux dégâts, et peut se métamorphoser au niveau 13 en un lion TRÈS MÉCHANT.",
         "urls": [
             "http://www.shsforums.net/topic/31691-the-lion-warrior-kit-formerly-zulu-still-a-ranger/",
-            "https://www.baldursgateworld.fr/viewtopic.php?t=31643"
+            "https://github.com/Plutonium-X/KIT_Lion"
         ],
         "categories": [
             "Kit"
@@ -19444,14 +19441,17 @@
             "deratiseur"
         ],
         "notes": [
-            "Utilisez le second lien (LCC) pour télécharger la version de deratiseur qui est aussi compatible avec les jeux EE."
+            "Utilisez le second lien pour télécharger la version traduite qui est aussi compatible avec les jeux EE."
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": "active",
-        "last_update": "2008-12",
-        "tp2": ""
+        "last_update": "2024-12",
+        "tp2": "JL#ZULU"
     },
     {
         "name": "Lol's RezMod",
@@ -20766,7 +20766,7 @@
     },
     {
         "name": "Minerva NPC",
-        "description": "Pour ceux qui ont aimé voyager avec Aura dans BG:EE (ainsi que pour ceux qui attendent la suite de BG2), voici une autre compagne dans la même veine pour IWD:EE : Minerva Gwyndoline Glimmershine, une gnome guerrière neutre bonne. Minerva Glimmershine est la grand-mère paternelle d'Aura et une aventurière à l'esprit libre. Sûre d'elle, audacieuse et pleine d'entrain, elle sautera sur l'occasion de rejoindre le groupe à Havredest, et sera une compagne précieuse grâce à ses talents d'artificière, son expertise du lancer de couteau et son optimisme sans limite. Le mod comprend une voie d'amitié et une romance.",
+        "description": "Pour ceux qui ont aimé voyager avec Aura dans BG:EE (ainsi que pour ceux qui attendent la suite de BG2), voici une autre compagne dans la même veine pour IWD:EE : Minerva Gwyndoline Glimmershine, une gnome guerrière neutre bonne. Minerva Glimmershine est la grand-mère paternelle d'Aura et une aventurière à l'esprit libre. Sûre d'elle, audacieuse et pleine d'entrain, elle sautera sur l'occasion de rejoindre le groupe à Havredest, et sera une compagne précieuse grâce à ses talents d'artificière, son expertise du lancer de couteau et son optimisme sans limite. Le mod comprend une voie d'amitié et une romance.|FOR 12, DEX 17, CON 15, INT 19, SAG 10, CHA 16.",
         "urls": [
             "https://artisans-corner.com/minerva/",
             "https://github.com/ArtemiusI/MinervaNPC"
@@ -21048,14 +21048,18 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Idobek"
+        ],
         "team": [],
         "notes": [
             "Notez que ce mod a été rendu obsolète par [[TobEx]]."
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "obsolete",
         "last_update": "",
         "tp2": ""
@@ -23026,7 +23030,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2024-09",
-        "tp2": ""
+        "tp2": "oakmaw"
     },
     {
         "name": "Octavian's Drizzt",
@@ -24657,7 +24661,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Platter"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -24755,17 +24761,22 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "it",
+            "ru",
+            "es"
+        ],
         "status": "active",
         "last_update": "2010-02",
-        "tp2": ""
+        "tp2": "freeact"
     },
     {
         "name": "PnP Kit Requirements, Half-Orcs, Spells and Charisma",
-        "description": "Ce petit mod modifie  les pré-requis de profils, la race de semi-orque, les tables de progression des sorts et de modification de scores de Charisme pour les rendre conformes aux règles papier.|Le second lien est un lien de téléchargement direct.",
+        "description": "Ce petit mod modifie  les pré-requis de profils, la race de semi-orque, les tables de progression des sorts et de modification de scores de Charisme pour les rendre conformes aux règles papier.",
         "urls": [
-            "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
-            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/Fels_PnP.rar"
+            "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php"
         ],
         "categories": [
             "Gameplay"
@@ -24773,7 +24784,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Felinoid"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -24869,16 +24882,18 @@
             "BGT"
         ],
         "authors": [
-            "polytope"
+            "Polytope"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-02",
-        "tp2": ""
+        "tp2": "polytweak"
     },
     {
         "name": "Portrait Gender Separator",
@@ -25049,11 +25064,13 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il est intégré dans [[Qwinn's Planescape: Torment Tweak Pack]]."
+        ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "",
         "tp2": "non-weidu"
     },
@@ -25257,7 +25274,7 @@
     },
     {
         "name": "Prêtre de Mystra",
-        "description": "Ce mod français réalisé par Zakinster ajoute un nouveau profil de clerc : le Prêtre de Mystra.",
+        "description": "Ce mod français réalisé par Zakinster ajoute un nouveau kit de clerc : le Prêtre de Mystra. Il gagne 1% de résistance à la magie par niveau, il a accès à Déviation de sorts à partir du niveau 10 et à la Lame noire du désastre à partir du niveau 20.",
         "urls": [
             "https://akadis.baldursgateworld.fr/Mystra/Mystra.html"
         ],
@@ -25279,8 +25296,8 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-07",
+        "tp2": "Mystra"
     },
     {
         "name": "Pseudo 3E Conversion Pack",
@@ -25445,21 +25462,26 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Mike"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, ce mod semble vraiment bogué. À éviter dans la mesure du possible."
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-12",
+        "tp2": "Questor"
     },
     {
         "name": "Qwinn's Planescape: Torment Tweak Pack",
-        "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[Power Action Leprechaun Annah]], Easter Egg Morte, repos quelle que soit la zone (non recommandé), grimoire de triche (non recommandé) et les robes des Hommes-Poussière.",
+        "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[Power Action Leprechaun Annah]], <a href='https://sorcerers.net/Games/Torment/Platter/index.php?page=mods' target='_blank'>Easter Egg Morte</a>, repos quelle que soit la zone (non recommandé), grimoire de triche (non recommandé) et <a href='https://sorcerers.net/Games/Torment/Platter/index.php?page=mods' target='_blank'>Dustman Robe</a>.",
         "urls": [
             "http://www.shsforums.net/files/file/649-qwinns-pst-tweak-pack-v412/",
             "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/psttweak_v412_correctfr.7z"
@@ -29389,8 +29411,7 @@
             "https://github.com/Gibberlings3/SongAndSilence"
         ],
         "categories": [
-            "Kit",
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -31376,10 +31397,10 @@
     },
     {
         "name": "Teleport Spell",
-        "description": "Ce mod ajoute au stock de Dame Yurth, au fond du Marché de l'Aventurier, un sort de niveau 7 permettant de se téléporter dans toutes les zones précédemment visitées. Il marche aussi pour ToB, mais pas pour les zones introduites par des mods.",
+        "description": "Ce mod ajoute au stock de Dame Yurth, au fond du Marché de l'Aventurier ainsi qu'au stock de Lazarus Librarus, aux Archives de l'Arcane, un sort de niveau 7 permettant de se téléporter dans toutes les zones précédemment visitées. Malheureusement, il ne fonctionne pas pour les zones introduites par des mods.",
         "urls": [
             "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/Teleport.rar",
-            "https://www.baldursgateworld.fr/lacouronne/l-atelier-du-deratiseur/31643-vieux-mods-en-francais-convertis-pour-bg2ee.html"
+            "https://github.com/Plutonium-X/SORT_Teleport"
         ],
         "categories": [
             "Sort et objet"
@@ -31387,21 +31408,33 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Razfallow"
+        ],
         "team": [
             "SkipCool"
         ],
         "notes": [
-            "Seul le lien EE permet de télécharger la version de deratiseur qui est aussi compatible avec BG2:EE. Notez qu'il existe une version pour BG2:EE sur <a href=\"https://forums.beamdog.com/discussion/29872/teleport-spell-mod-for-bg2-ee\">Beamdog</a>, mais évitez-là car elle gère très mal l'installation en langue non anglaise !"
+            "Seul le lien github permet de télécharger la version EE."
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "cz",
+            "en",
+            "fr",
+            "de",
+            "it",
+            "pl",
+            "ru",
+            "es"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-12",
+        "tp2": "Teleport"
     },
     {
         "name": "Tempest",
@@ -33550,7 +33583,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "tipps"
     },
     {
         "name": "ToB Juggernaut Golem",
@@ -35365,7 +35398,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2024-01",
-        "tp2": ""
+        "tp2": "urchin"
     },
     {
         "name": "Usability Fixer",
@@ -35500,10 +35533,10 @@
     },
     {
         "name": "Vampire Tales",
-        "description": "Les mods Miriam (PNJ vampire aux stats moins bourrines que celles de Valen, mais semblant disposer d'un caractère tout aussi lunatique et violent) et [[Dark Ritual]] (ajoutant un marchand avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2, initialement traduit par Panaka) sont désormais réunis dans ce mod qui améliore en outre la quête de l'Œil Aveugle, la rencontre avec les Ménestrels, et ajoute une nouvelle rencontre dans le donjon de Firkraag. ToB est requis.",
+        "description": "Les mods Miriam (PNJ vampire aux stats moins bourrines que celles de [[Valen NPC]], mais semblant disposer d'un caractère tout aussi lunatique et violent) et [[Dark Ritual]] (ajoutant un marchand avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2, initialement traduit par Panaka) sont désormais réunis dans ce mod qui améliore en outre la quête de l'Œil Aveugle, la rencontre avec les Ménestrels, et ajoute une nouvelle rencontre dans le donjon de Firkraag. ToB est requis.",
         "urls": [
             "https://github.com/The-Gate-Project/VampireTales",
-            "http://downloads.chosenofmystra.net/bg2/VampireTalesForBG2EE105.rar"
+            "http://downloads.chosenofmystra.net/bg2/"
         ],
         "categories": [
             "PNJ recrutable",
@@ -35522,7 +35555,9 @@
             "Shaywen",
             "Zooloo"
         ],
-        "notes": [],
+        "notes": [
+            "Fichier `VampireTalesForBG2EE105.rar`."
+        ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -36663,7 +36698,7 @@
             "https://github.com/Gibberlings3/widescreen"
         ],
         "categories": [
-            "Interface"
+            "Utilitaire"
         ],
         "games": [
             "BG",
@@ -39593,7 +39628,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2024-05",
-        "tp2": ""
+        "tp2": "bethany"
     },
     {
         "name": "Xikâsz’s Grove of Chaos",
@@ -39618,7 +39653,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2024-04",
-        "tp2": ""
+        "tp2": "groveofchaos"
     },
     {
         "name": "Jaheira Friendship",
@@ -45879,5 +45914,47 @@
         "status": "active",
         "last_update": "2024-02",
         "tp2": "remastered_spell_icons"
+    },
+    {
+        "name": "IWD1-IWD2-EET",
+        "description": "Cette conversion permet de jouer à IWD1 et IWD2 depuis [[Enhanced Edition Trilogy]].",
+        "urls": [
+            "https://arcanecoast.ru/forum/viewtopic.php?f=31&t=1247",
+            "https://github.com/The-Gate-Project/IWD1_EET",
+            "https://github.com/The-Gate-Project/IWD2_EET",
+            "https://github.com/The-Gate-Project/IWD_EET_End"
+        ],
+        "categories": [
+            "Conversion"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "tipun"
+        ],
+        "team": [],
+        "notes": [
+            "[[Enhanced Edition Trilogy]] est requis.",
+            "Le second lien renvoie vers la version IWD1, le troisième vers la version IWD2, le quatrième vers la version à installer à la fin.",
+            "Attention à l'ordre d'installation du mod : lire le readme.",
+            "Attention : certains mods semblent avoir été ajoutés par défaut dans l'installation de IWD1.",
+            "Certains mods complètent celui-ci : <a href='https://github.com/subtledoctor/IWD_EET_Integration' target='_blank'>SubtleDoctor's IWD EET Integration</a> et <a href='https://github.com/thisisulb/IWD-IN-EET-ICONS' target='_blank'>IWD-IN-EET-ICONS</a>."
+        ],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "ru",
+            "en",
+            "de",
+            "fr",
+            "es",
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2024-02",
+        "tp2": "iwd1_eet;iwd2_eet;iwd_eet_end"
     }
 ]
