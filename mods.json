@@ -16904,10 +16904,11 @@
     },
     {
         "name": "Isra NPC for BG",
-        "description": "Suivante de Sunie Cheveux-de-flamme, déité chaotique, Isra est une paladine atypique dans le sens où elle fréquente de nombreuses maisons empruntes d'une certaine gaieté et manque de ce fait de la gravité classique propre à cette classe de personnage. Comme tous les paladins, elle tient en haute estime tout ce qui touche à l'honneur, à la discipline et à l'ordre, mais elle tend à estimer davantage le code de conduite de sa classe que les exigences de sa déesse. De ce fait, elle sera plus laxiste envers certains comportements chaotiques. Une voie de l'amitié est possible et quelques flirts sont également disponibles. Sa romance est prévue, mais dans BG2. Isra dispose de contenu supplémentaire si BG:EE est installé (banters).",
+        "description": "Suivante de Sunie Cheveux-de-flamme, déité chaotique, Isra est une paladine atypique dans le sens où elle fréquente de nombreuses maisons empruntes d'une certaine gaieté et manque de ce fait de la gravité classique propre à cette classe de personnage. Comme tous les paladins, elle tient en haute estime tout ce qui touche à l'honneur, à la discipline et à l'ordre, mais elle tend à estimer davantage le code de conduite de sa classe que les exigences de sa déesse. De ce fait, elle sera plus laxiste envers certains comportements chaotiques. Une voie de l'amitié est possible et quelques flirts sont également disponibles. Sa romance est prévue, mais dans BG2. Isra dispose de contenu supplémentaire si BG:EE est installé (banters).|FOR 16, DEX 12, CON 16, INT 13, SAG 14, CHA 17.",
         "urls": [
             "http://www.shsforums.net/files/file/1042-isra/",
-            "https://github.com/SpellholdStudios/Isra_NPC"
+            "https://github.com/SpellholdStudios/Isra_NPC",
+            "https://github.com/11jo/Isra_NPC/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -16922,14 +16923,19 @@
         "authors": [
             "Rhaella"
         ],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
+        "team": [
+            "Streen"
+        ],
+        "notes": [
+            "Le dernier lien propose la version française."
+        ],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
             "ru",
-            "it"
+            "it",
+            "fr"
         ],
         "status": "active",
         "last_update": "2021-06",
@@ -27567,7 +27573,7 @@
     },
     {
         "name": "Saradas Magic for BG2",
-        "description": "Ce mod ajoute un nouveau PNJ, Saradas l'archimage, qui interagit de diverses manières avec le groupe de l'Enfant de Bhaal. Dans Shadows of Amn, c'est un PNJ non recrutable qui offre de nombreux services. Il se trouve dans le temple de Lathandre, dans le quartier des temples d'Athkatla. En plus d'avoir plusieurs dialogues exclusifs qui se déroulent au fur et à mesure que l'intrigue prend forme, sa boutique vaut le détour. De plus, Saradas est un collectionneur d'artefacts. Si vous trouvez un artefact ancien, vous pouvez le lui apporter et il l'enchantera pour vous, conférant des propriétés magiques à l'objet.|Dans ToB, Saradas est enfin un PNJ recrutable ! Vous pouvez l'invoquer via l'Esprit du destin dans votre antichambre. C'est un prêtre humain de Lathandre jumelé mage.",
+        "description": "Ce mod ajoute un nouveau PNJ, Saradas l'archimage, qui interagit de diverses manières avec le groupe de l'Enfant de Bhaal. Dans Shadows of Amn, c'est un PNJ non recrutable qui offre de nombreux services. Il se trouve dans le temple de Lathandre, dans le quartier des temples d'Athkatla. En plus d'avoir plusieurs dialogues exclusifs qui se déroulent au fur et à mesure que l'intrigue prend forme, sa boutique vaut le détour. De plus, Saradas est un collectionneur d'artefacts. Si vous trouvez un artefact ancien, vous pouvez le lui apporter et il l'enchantera pour vous, conférant des propriétés magiques à l'objet.|Dans ToB, Saradas est enfin un PNJ recrutable ! Vous pouvez l'invoquer via l'Esprit du destin dans votre antichambre. C'est un humain prêtre de Lathandre jumelé mage.|FOR 10, DEX 13, CON 14, INT 18, SAG 20, CHA 15.",
         "urls": [
             "http://www.shsforums.net/files/file/1139-saradas-magic-for-bg2/",
             "https://github.com/SpellholdStudios/Saradas_Magic_for_BG2"
@@ -40747,7 +40753,9 @@
         "name": "Black Hearts",
         "description": "Black Hearts est un mod de quête pour BG:EE qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas).",
         "urls": [
-            "https://forums.beamdog.com/discussion/82484/"
+            "https://forums.beamdog.com/discussion/82484/",
+            "https://github.com/A-Wizard-Did-It/Black-Hearts-EET",
+            "https://github.com/11jo/Black-Hearts/"
         ],
         "categories": [
             "Quête"
@@ -40761,13 +40769,17 @@
             "AWizardDidIt"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le dernier lien github propose de nombreux fixs mais n'a pas de release officielle."
+        ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2023-01",
-        "tp2": "Blackhearts EET"
+        "last_update": "2023-02",
+        "tp2": "Blackhearts"
     },
     {
         "name": "Blood And Faith",
