@@ -4410,10 +4410,16 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "es",
+            "ru",
+            "it"
+        ],
         "status": "active",
         "last_update": "2010-04",
-        "tp2": ""
+        "tp2": "bagbonus"
     },
     {
         "name": "Bags of Torment",
@@ -4480,7 +4486,7 @@
         "name": "Baldur's Gate 2 SoA Item Import [BG2SoA]",
         "description": "Totalement inutile si ToB est installé, ce mod permet de tricher en important des objets de BG dans le Donjon d'Irenicus pour rendre SoA plus facile à jouer.",
         "urls": [
-            "http://america.iegmc.net/kh_mods/BG2SoA_v3.rar"
+            "http://america.iegmc.net/kh_mods/"
         ],
         "categories": [
             "Sort et objet"
@@ -4488,17 +4494,20 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "ronin69hof"
+        ],
         "team": [],
         "notes": [
-            "Comme ce mod fait exactement la même chose que le composant `Importer davantage d'objets dans Shadows of Amn` de [[BGT Tweak Pack]]."
+            "Comme ce mod fait exactement la même chose que le composant `Importer davantage d'objets dans Shadows of Amn` de [[BGT Tweak Pack]].",
+            "Fichier `BG2SoA_v3.rar`."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "embed",
         "last_update": "2006-07",
-        "tp2": ""
+        "tp2": "BG2SoA"
     },
     {
         "name": "Baldur's Gate Fixpack",
@@ -4659,18 +4668,18 @@
             "BGT"
         ],
         "authors": [
-            "AnnabelleRose"
+            "MajorTomSawyer"
         ],
-        "team": [
-            "Le Marquis"
-        ],
+        "team": [],
         "notes": [],
-        "translation_state": "yes",
+        "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2008-11",
-        "tp2": ""
+        "last_update": "2006-03",
+        "tp2": "GTBGT"
     },
     {
         "name": "Baldur's Goth",
@@ -4685,22 +4694,22 @@
             "BG2"
         ],
         "authors": [
-            "AnnabelleRose"
+            "SConrad"
         ],
-        "team": [
-            "Le Marquis"
-        ],
+        "team": [],
         "notes": [],
-        "translation_state": "yes",
+        "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2008-11",
-        "tp2": ""
+        "last_update": "2005-08",
+        "tp2": "BGothII"
     },
     {
         "name": "Baldur's Goth Tutu",
-        "description": "Cette version du mod concerne uniquement les installations Tutu.",
+        "description": "Ce mod modifie l'aspect des mannequins et des portraits afin de les rendre d'apparence plus gothiques, et se décline en 4 versions. Cette version du mod concerne uniquement les installations Tutu.",
         "urls": [
             "http://www.shsforums.net/files/file/887-baldurs-goth-for-tutu-v3/"
         ],
@@ -4711,18 +4720,21 @@
             "Tutu"
         ],
         "authors": [
-            "AnnabelleRose"
+            "MajorTomSawyer"
         ],
         "team": [
             "Le Marquis"
         ],
         "notes": [],
-        "translation_state": "yes",
+        "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2010-02",
-        "tp2": ""
+        "tp2": "Tutu_BGoth"
     },
     {
         "name": "BS Balduran's Seatower",
@@ -4978,10 +4990,14 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2021-08",
-        "tp2": ""
+        "tp2": "BardSong_BG2_IWD"
     },
     {
         "name": "Bardic Appraisal",
@@ -5178,10 +5194,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2006-03",
-        "tp2": ""
+        "tp2": "MinscKit"
     },
     {
         "name": "Bestial Animations",
@@ -5195,7 +5213,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Galactygon"
+        ],
         "team": [],
         "notes": [
             "La sortie d'[[Infinity Animations]] l'a rendu complètement obsolète."
@@ -5324,10 +5344,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2018-01",
-        "tp2": ""
+        "tp2": "BetterStatDrain"
     },
     {
         "name": "Beyond the Law",
