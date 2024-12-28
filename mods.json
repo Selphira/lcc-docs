@@ -8207,18 +8207,16 @@
             "BGT"
         ],
         "authors": [
-            "AnnabelleRose"
+            "MajorTomSawer"
         ],
-        "team": [
-            "Le Marquis"
-        ],
+        "team": [],
         "notes": [],
-        "translation_state": "yes",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2008-11",
-        "tp2": ""
+        "last_update": "2007-10",
+        "tp2": "CGoth"
     },
     {
         "name": "Crossmod Banter Pack for Baldur's Gate II",
@@ -11471,7 +11469,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2024-12",
         "tp2": "Enhanced-Powergaming-Scripts"
     },
     {
@@ -21569,18 +21567,20 @@
     },
     {
         "name": "Mortis Mini Mod / The Forgotten Children",
-        "description": "Ce mod ajoute deux magasins (l'un dans le donjon d'Irenicus derrière la cellule de Jaheira et l'autre dans les ruines de l'ombre - temple d'Amaunator) qui vendent des potions vous permettant de vous transformer en diverses créatures : limon, vampire, minotaure, spectateur... C'est un mod ténébreux basé sur les morts-vivants, les liches, etc.",
+        "description": "Ce mod ajoute deux magasins (l'un dans le donjon d'Irenicus derrière la cellule de Jaheira et l'autre dans les ruines de l'ombre - temple d'Amaunator) qui vendent des potions vous permettant de vous transformer en diverses créatures : limon, vampire, minotaure, spectateur... C'est un mod ténébreux basé sur les morts-vivants, les liches, etc. Les potions sont seulement utilisables par des humains de classe guerrier, clerc, mage ou voleur.",
         "urls": [
             "http://www.shsforums.net/files/file/145-mortis/",
-            "https://www.mediafire.com/file/zieaqnbzkykd15y/Mortis_Mini_Mod_2.34.zip/file"
+            "https://github.com/Plutonium-X/MISC_Mortis"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Forgeron et marchand",
+            "Gameplay"
         ],
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Mortis"
@@ -21589,13 +21589,17 @@
             "BohemianReader"
         ],
         "notes": [
-            "Pour installer le mod sur un jeu EE, utilisez le second lien. Il semble très buggé sur ces versions, à installer en connaissance de cause."
+            "Pour installer le mod sur un jeu EE, utilisez le second lien.",
+            "Lisez bien le readme avant de vous laisser tenter par des potions de toutes les couleurs."
         ],
         "translation_state": "yes",
-        "safe": 1,
-        "languages": [],
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": "active",
-        "last_update": "2010-05",
+        "last_update": "2024-12",
         "tp2": "Mortis"
     },
     {
@@ -28955,10 +28959,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2024-04",
-        "tp2": "skiecost"
+        "tp2": "SkieCost"
     },
     {
         "name": "Skie BG2 NPC Redone",
@@ -31387,7 +31395,8 @@
             "SkipCool"
         ],
         "notes": [
-            "Seul le lien github permet de télécharger la version EE."
+            "Seul le lien github permet de télécharger la version EE.",
+            "Pour les versions EE, il est possible d'utiliser [[Revisit The Old Haunt]] qui autorise la téléportation des autres mods."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -45976,5 +45985,94 @@
         "status": "active",
         "last_update": "2024-07",
         "tp2": "ArtisansShamanTweaks"
+    },
+    {
+        "name": "Revisit The Old Haunt",
+        "description": "Ce mod permet grâce à un sort de Souhait ou de Souhait mineur, de se téléporter dans une zone déjà visitée.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/38986-revisit-the-old-haunt-v01-teleporting-to-areas-youve-already-visited/",
+            "https://github.com/shohysie/RevisitOldHaunt"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Shohy"
+        ],
+        "team": [
+            "JohnBob"
+        ],
+        "notes": [
+            "Contrairement à [[Teleport Spell]] il permet de se téléporter y compris dans les zones ajoutées par des mods."
+        ],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "RevisitOldHaunt"
+    },
+    {
+        "name": "uScript v2",
+        "description": "Cette version revue de uScript par son créateur original (20 ans après) propose un script générique pour tous les personnages Bioware.",
+        "urls": [
+            "https://github.com/RichMartel/uscript"
+        ],
+        "categories": [
+            "Script et tactique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Cirerrek"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "true",
+        "last_update": "2021-02",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "XPexchange",
+        "description": "Pour les BGEET qui intègrent plus de campagnes, un personnage de classe unique peut atteindre le plafond de niveau tôt et se sentir seul face à ses coéquipiers qui montent en niveau plus tard. Ce mod permet d'échanger les points d'expérience superflus contre des capacités supplémentaires.|Lorsqu'un coéquipier a suffisamment de points d'expérience, lancez un sort de Souhait ou de Souhait mineur et de nouvelles options d'échange apparaîtront. Cependant, il y a quelques limites :|1. le personnage doit être de classe unique (le composant 2 supprime cette restriction)|2. le personnage doit avoir plus de 6 millions de points d'expérience (7,5 ou 15 millions pour le mode Legacy of Bhaal, en fonction du plafond d'EXP).",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/39001-xpexchange-v09-to-exchange-superfluous-experience-points-for-more-abilities/",
+            "https://github.com/shohysie/XPexchange"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Shohy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "wip",
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": "true",
+        "last_update": "2024-12",
+        "tp2": "XPexchange"
     }
 ]
