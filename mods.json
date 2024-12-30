@@ -719,7 +719,7 @@
             "Argent77"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Dans IWD:EE, il ne dialogue pas avec le PNJ, mais échange seulement quelques propos avec un PNJ drow associé. Il n'y a également pas de nouveaux lieux."
@@ -918,7 +918,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -1113,7 +1113,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Almateria"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, l'auteur a retiré son mod."
@@ -1163,7 +1165,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Almateria"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -1181,7 +1185,6 @@
             "https://github.com/SpellholdStudios/Almaterias_Restoration_Project"
         ],
         "categories": [
-            "Quête",
             "Gameplay"
         ],
         "games": [
@@ -2286,7 +2289,7 @@
             "jastey"
         ],
         "team": [
-            "deratiseur",
+            "Deratiseur",
             "tonton-thon",
             "jazira"
         ],
@@ -2546,7 +2549,7 @@
             "EET"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -2785,7 +2788,7 @@
             "Aeviannce"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Choisissez le lien github pour la version EE."
@@ -2966,10 +2969,9 @@
     },
     {
         "name": "AutoRest",
-        "description": "Créé par deratiseur, ce petit mod bien pratique permet de simuler un repos sans avoir besoin de dormir 8 h. Vous pouvez bien évidemment choisir la qualité du repos. Désormais, il peut aussi rendre les pj immortels.",
+        "description": "Créé par Deratiseur, ce petit mod bien pratique permet de simuler un repos sans avoir besoin de dormir 8 h. Vous pouvez bien évidemment choisir la qualité du repos. Désormais, il peut aussi rendre les pj immortels.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33320",
-            "https://forums.beamdog.com/discussion/73318/",
             "https://github.com/Deratiseur/AutoRest"
         ],
         "categories": [
@@ -2984,7 +2986,7 @@
             "IWDEE"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -3075,7 +3077,7 @@
             "Galathée"
         ],
         "notes": [
-            "Choisissez le lien github pour la version EE et le lien l'autre pour les versions originelles. La seconde version est non officielle."
+            "Choisissez le lien github pour la version EE et le l'autre lien pour les versions originelles. La seconde version est non officielle."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -3102,7 +3104,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Victor Georgiev"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -3865,7 +3869,9 @@
         "authors": [
             "Magus"
         ],
-        "team": [],
+        "team": [
+            "Deratiseur"
+        ],
         "notes": [
             "La version française est disponible via le second lien."
         ],
@@ -4349,7 +4355,7 @@
             "jastey"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -5021,8 +5027,7 @@
             "IWD",
             "IWD2",
             "IWDEE",
-            "PST",
-            "PSTEE"
+            "PST"
         ],
         "authors": [
             "CamDawg"
@@ -5163,7 +5168,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -5247,8 +5252,7 @@
             "IWD",
             "IWD2",
             "IWDEE",
-            "PST",
-            "PSTEE"
+            "PST"
         ],
         "authors": [
             "Dan_P"
@@ -5600,7 +5604,9 @@
     {
         "name": "Black Rose Part I: Market Prices",
         "description": "Ce mod ajoute une quête initiée par le magicien Menelaun, dans l'auberge des Sept Vaux, sur la Promenade de Waukyne.",
-        "urls": [],
+        "urls": [
+            "http://baldur.cob-bg.pl/download/bg2/quests/MarketPrices.zip"
+        ],
         "categories": [
             "Quête"
         ],
@@ -5616,9 +5622,7 @@
         "team": [
             "DarkWintermoon"
         ],
-        "notes": [
-            "À la demande de Baronius, ce mod a été supprimé de la zone de téléchargement du forum de The Black Wyrm's Lair. Si vous y tenez vraiment, n'hésitez pas à le chercher sur le net..."
-        ],
+        "notes": [],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -5762,7 +5766,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "olimikrig"
+        ],
         "team": [],
         "notes": [
             "Utilisez le lien polonais pour un jeu original, et l'autre pour un jeu EE."
@@ -6692,7 +6698,7 @@
     },
     {
         "name": "Chantelame",
-        "description": "Créé par Misdrhaal, ce mod ajoute un nouveau profil de guerrier destiné aux elfes, une sorte de guerrier/mage/clerc spécial... deratiseur l'a converti au format WeiDU, ce qui le rend largement plus compatible avec la plupart des mods récents, et il n'écrase plus le dialog.tlk à l'installation.|Note : ce profil porte le nom de Bladesinger en anglais.",
+        "description": "Créé par Misdrhaal, ce mod ajoute un nouveau profil de guerrier destiné aux elfes, une sorte de guerrier/mage/clerc spécial... Deratiseur l'a converti au format WeiDU, ce qui le rend largement plus compatible avec la plupart des mods récents, et il n'écrase plus le dialog.tlk à l'installation.|Note : ce profil porte le nom de Bladesinger en anglais.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=24080",
             "https://github.com/Plutonium-X/KIT_Chantelame"
@@ -6749,7 +6755,7 @@
             "Adul"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Choisissez le lien github pour la version EE et le lien shs pour les versions originelles."
@@ -6784,7 +6790,7 @@
             "Argent77"
         ],
         "team": [
-            "deratiseur",
+            "Deratiseur",
             "JohnBob"
         ],
         "notes": [],
@@ -7024,7 +7030,7 @@
             "octavian"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Le mod original semblait perdu… mais il a subitement réapparu !",
@@ -8395,7 +8401,7 @@
             "Argent77"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "La version shs n'est plus maintenue, privilégiez-lui la version github."
@@ -8482,7 +8488,7 @@
             "Duality"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Choisissez le lien github pour la version française."
@@ -9167,7 +9173,7 @@
             "Freddy_Gwendo"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "À noter : il refuse de s'installer après des mods modifiant les mages (comme [[Sword Coast Stratagems]])."
@@ -9212,7 +9218,7 @@
     },
     {
         "name": "Derat's Unused Kits Pack (DUKP)",
-        "description": "Ce mod français regroupe tous les profils créés par deratiseur. Vous y retrouverez avec plaisir le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Sorcelier (ensorceleur combattant), le Seigneur de guerre (kit pour jumelé guerrier-&gt;mage) et bien d'autres.|Son contenu évolue selon l'humeur de deratiseur (ajout ou retrait de profils).",
+        "description": "Ce mod français regroupe tous les profils créés par Deratiseur. Vous y retrouverez avec plaisir le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Sorcelier (ensorceleur combattant), le Seigneur de guerre (kit pour jumelé guerrier-&gt;mage) et bien d'autres.|Son contenu évolue selon l'humeur de Deratiseur (ajout ou retrait de profils).",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=19490",
             "https://github.com/Deratiseur/DUKP"
@@ -9229,7 +9235,7 @@
             "IWDEE"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -9244,7 +9250,7 @@
         "tp2": "Derats_kits"
     },
     {
-        "name": "Derats DAWAP",
+        "name": "Derat's DAWAP",
         "description": "Derat's Abolute Wacky Arcanists Pack. Et oui, encore des kits.||Au menu, uniquement pour les jeux EE, des arcanistes qui vous feront changer votre façon de jouer.||Le détail des kits est disponible en suivant le lien de téléchargement",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33790",
@@ -9260,7 +9266,7 @@
             "IWDEE"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -10307,7 +10313,7 @@
             "jastey"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Ce mod vous fait combattre beaucoup de golems : prévoyez donc des armes contondantes si vos ne voulez pas finir en bouillie..."
@@ -10540,7 +10546,9 @@
             "Freche"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il en existe une version plus rapide et directement intégrée dans [[EEUITweaks]]."
+        ],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
@@ -11562,7 +11570,7 @@
     },
     {
         "name": "Er'vonyrah: Pieśń Władającej",
-        "description": "Parfois appelé Sovereign, ce mod polonais (Song of the Mistress/Ruler) ajoute plus de 40 nouvelles cinématiques et de nombreux dialogues. Une nuit, vous faites un cauchemar et vous rêvez d'un homme qui veut passer un contrat avec vous. Le lendemain, vous vous réveillez dans votre lit, un parchemin à la main... Cette histoire insolite vous mènera du donjon d'Irenicus jusqu'à ToB",
+        "description": "Parfois appelé The Sovereign's Song, ce mod polonais ajoute plus de 40 nouvelles cinématiques et de nombreux dialogues. Une nuit, vous faites un cauchemar et vous rêvez d'un homme qui veut passer un contrat avec vous. Le lendemain, vous vous réveillez dans votre lit, un parchemin à la main... Cette histoire insolite vous mènera du donjon d'Irenicus jusqu'à ToB",
         "urls": [
             "https://baldur.cob-bg.pl/node/1261",
             "https://baldur.cob-bg.pl/download/bg2/quests/ervonyrah_v1.3.4.rar"
@@ -11691,7 +11699,7 @@
             "CamDawg"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -12321,10 +12329,10 @@
         "games": [
             "BG"
         ],
-        "authors": [],
-        "team": [
+        "authors": [
             "Filipe_FR"
         ],
+        "team": [],
         "notes": [
             "Le mod dispose d'un programme d'installation spécifique. De plus, comme il déplaçait l'essentiel des PNJ au Bras amical, nous vous conseillons de lui privilégier l'excellent mod d'Anomaly, [[BG1 NPCs at Beginning]], plus flexible et, qui plus est, compatible avec BGT et BG:EE."
         ],
@@ -12394,7 +12402,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -12729,7 +12737,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -13879,7 +13887,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ghreyfain"
+        ],
         "team": [
             "Galathée"
         ],
@@ -14398,7 +14408,7 @@
             "Freddy_Gwendo"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -15074,7 +15084,9 @@
     {
         "name": "Houyi - Luan's high-quality archery store",
         "description": "Ce mod (en chinois) ajoute de nombreuses munitions gros-bill dans le jeu.",
-        "urls": [],
+        "urls": [
+            "https://www.baldursgateworld.fr/download/file.php?id=10407"
+        ],
         "categories": [
             "Sort et objet"
         ],
@@ -15082,19 +15094,19 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
-        "team": [],
-        "notes": [
-            "Ce mod semble avoir disparu."
+        "authors": [
+            "lighting_cat"
         ],
+        "team": [],
+        "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "cn"
         ],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "status": "yes",
+        "last_update": "2004-10",
+        "tp2": "houyi"
     },
     {
         "name": "Hubelpot the Vegetable Merchant NPC",
@@ -15362,7 +15374,7 @@
         ],
         "team": [
             "Graoumf",
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Pour BG2:EE, utilisez le lien github. Cette version contient le fix pour que les objets ne se changent plus en or."
@@ -16441,7 +16453,7 @@
         "description": "Vous êtes du genre à envoyer une armée de chair à canon à l'assaut de vos ennemis ? Vous cherchez des solaires plus puissants ? Vous désirez invoquer des spectateurs à la place de ces ridicules vers charognards ? Vous préférez les vampires aux wivernes et regrettez que vos mort-vivants ne soient pas un peu plus costauds ? Ce mod est fait pour vous !",
         "urls": [
             "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
-            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/Improved_Summons.rar"
+            "https://github.com/Plutonium-X/SORTS_Summons"
         ],
         "categories": [
             "Gameplay"
@@ -16450,12 +16462,14 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Wu Min"
+        ],
         "team": [
             "Galathée"
         ],
         "notes": [
-            "Attention : Ce mod est incompatible avec la plupart des mods modifiant les sorts, notamment [[Spell Revisions]] et [[Sword Coast Stratagems]]."
+            "Attention : Ce mod override les sorts et est donc incompatible avec les mods modifiant les sorts vanilla, notamment [[Spell Revisions]], [[IWDification]] et [[Sword Coast Stratagems]]."
         ],
         "translation_state": "yes",
         "safe": 1,
@@ -16467,8 +16481,8 @@
             "sp"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-12",
+        "tp2": "ImprovedSummons"
     },
     {
         "name": "In Love, Undeath",
@@ -16753,7 +16767,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Jarl"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -17433,10 +17449,11 @@
         "tp2": "JA#BGT_AdvPack"
     },
     {
-        "name": "Jarls Tweak Pack",
-        "description": "Anciennement `Jarls BGT TweakPack`, ce mod propose une collection d'ajustements pour BGT, BG:EE et EET. Il permet de donner aux PNJ de Bioware leurs portraits et jeux de son de BG2 dans la partie BG, modifier la couleur de leurs avatars, modifier leurs statistiques, leurs profils ou classes (BGT uniquement), leurs alignements, leurs compétences martiales (BGT). Dans BGT, des composants permettent de donner de nouveaux équipements à certains PNJ, d'ajouter de nouvelles armes dans le jeu.|Enfin, vous pourrez effectuer certains ajustements au jeu comme pouvoir pénétrer dans le cimetière de Nashkel, devoir trouver un crâne spécial pour la quête de Mélicamp...",
+        "name": "Jarl's Tweak Pack",
+        "description": "Anciennement `Jarl's BGT TweakPack`, ce mod propose une collection d'ajustements pour BGT, BG:EE et EET. Il permet de donner aux PNJ de Bioware leurs portraits et jeux de son de BG2 dans la partie BG, modifier la couleur de leurs avatars, modifier leurs statistiques, leurs profils ou classes (BGT uniquement), leurs alignements, leurs compétences martiales (BGT). Dans BGT, des composants permettent de donner de nouveaux équipements à certains PNJ, d'ajouter de nouvelles armes dans le jeu.|Enfin, vous pourrez effectuer certains ajustements au jeu comme pouvoir pénétrer dans le cimetière de Nashkel, devoir trouver un crâne spécial pour la quête de Mélicamp...",
         "urls": [
-            "https://baldurs-gate.de/index.php?threads/jarls-tweak-pack-v2-0-0.44590/"
+            "https://baldurs-gate.de/index.php?threads/jarls-bgt-tweakpack.39703/",
+            "https://www.gibberlings3.net/forums/topic/38887-help-with-jarls-tweak-pack-and-project-infinity/#findComment-343917"
         ],
         "categories": [
             "Gameplay"
@@ -17447,13 +17464,17 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Jarl"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le second lien propose un fix par Jastey."
+        ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
-        "status": "missing",
+        "status": "yes",
         "last_update": "",
         "tp2": ""
     },
@@ -17925,7 +17946,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Kevin Derner"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod a été signalé comme posant des problèmes dans BGT..."
@@ -18044,7 +18067,7 @@
             "Greener"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "La version française est disponible via le second lien."
@@ -18285,7 +18308,7 @@
             "Grenouillebleue"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -18554,7 +18577,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Knight"
+        ],
         "team": [],
         "notes": [
             "En allemand uniquement. De par sa nature, ce mod n'est quasiment pas compatible avec tout autre mod ajoutant ou modifiant des profils, des sorts divins, des armes ou des armures du jeu original."
@@ -18622,7 +18647,7 @@
     },
     {
         "name": "L'interplan",
-        "description": "Ce mod français a été créé par deratiseur. L'interplan est un magasin qui vend des objets magiques et des sorts originaux. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE.|L'installation de ce mod ajoute en tout 65 nouveaux sorts sélectionnables par l'ensorceleur.",
+        "description": "Ce mod français a été créé par Deratiseur. L'interplan est un magasin qui vend des objets magiques et plus d'une centaine de sorts originaux. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE.|L'installation de ce mod ajoute en tout 65 nouveaux sorts sélectionnables par l'ensorceleur.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=31563",
             "https://github.com/Deratiseur/Interplan"
@@ -18638,7 +18663,7 @@
             "IWDEE"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -18653,7 +18678,7 @@
     },
     {
         "name": "L'ogre et le gnome, une histoire de Bleu",
-        "description": "Créé par deratiseur, ce petit module français vous fera rencontrer deux protagonistes inhabituels : l'un est un ogre PNJ que vous pourrez enrôler (pour l'instant il est muet s'il est engagé) et l'autre un marchand gnome. Pour trouvez l'un et l'autre, posez vous les questions : où pourrait se cacher un ogre qui ne souhaite pas être vu et où pourrait se trouver un marchand ?",
+        "description": "Créé par Deratiseur, ce petit module français vous fera rencontrer deux protagonistes inhabituels : l'un est un ogre PNJ que vous pourrez enrôler (pour l'instant il est muet s'il est engagé) et l'autre un marchand gnome. Pour trouvez l'un et l'autre, posez vous les questions : où pourrait se cacher un ogre qui ne souhaite pas être vu et où pourrait se trouver un marchand ?",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=28812",
             "https://github.com/Deratiseur/Ogre"
@@ -18669,7 +18694,7 @@
             "IWDEE"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -19094,7 +19119,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "TheMightySor"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -19108,7 +19135,7 @@
         "name": "Level 40 Rule Set in BG:EE",
         "description": "Ce mod vous permet d'atteindre le niveau 40 dans BG:EE. Une fois installé, vous devrez aussi installer le mod [[High Level Abilities]] qui restaure les capacités de haut niveau non présentes dans le jeu.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg1/BG_EE_L40.rar"
+            "http://downloads.chosenofmystra.net/bg1/"
         ],
         "categories": [
             "Gameplay"
@@ -19118,7 +19145,9 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `BG_EE_L40.rar`."
+        ],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -19130,7 +19159,7 @@
         "name": "High Level Abilities",
         "description": "Ce mod vous permet de tirer pleinement partie du mod [[Level 40 Rule Set in BG:EE]]. Il restaure les capacités de haut niveau non présentes dans le jeu.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg1/BG_EE_HLAs106.rar"
+            "http://downloads.chosenofmystra.net/bg1/"
         ],
         "categories": [
             "Gameplay"
@@ -19140,7 +19169,9 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `BG_EE_HLAs106.rar`."
+        ],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -19160,7 +19191,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Avenger"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -19284,7 +19317,7 @@
     },
     {
         "name": "Level adder",
-        "description": "Ce mod permet de donner des niveaux supplémentaires à tous les personnages non recrutables (pas monstres) du jeu, suivant leur classe : 10 niveaux à tous les guerriers, 6 aux voleurs, 4 aux mages... Vous pouvez aussi multiplier les points de vie de tous les personnages/monstres par 3, 4, 5, 7, 10 ou 15.",
+        "description": "Ce mod permet de donner des niveaux supplémentaires à tous les personnages non recrutables (pas monstres) du jeu, suivant leur classe : 10 niveaux à tous les guerriers, 6 aux voleurs, 4 aux mages... Il n'est vraiment efficace que si couplé avec [[Sword Coast Stratagems]].",
         "urls": [
             "https://forums.beamdog.com/discussion/32334/"
         ],
@@ -19303,9 +19336,7 @@
             "Crevs Daak"
         ],
         "team": [],
-        "notes": [
-            "Attention : Ce mod fait planter l'entrée dans le siège du gouvernement d'Athkatla quand le mod Xan est installé."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
@@ -19416,7 +19447,7 @@
             "vilkacis"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Utilisez le second lien pour télécharger la version traduite qui est aussi compatible avec les jeux EE."
@@ -19997,7 +20028,7 @@
             "Angel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "wip",
@@ -20094,7 +20125,7 @@
             "Angel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -20162,7 +20193,7 @@
             "Argent77"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -21156,7 +21187,7 @@
         ],
         "authors": [],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Choississez le lien github pour la version BG2EE/EET."
@@ -21311,7 +21342,7 @@
         ],
         "notes": [
             "Le composant `Révision du poing du moine`, qui modifie la table de progression de leur puissance, ne fonctionne que sur EE.",
-            "Seul le second lien de téléchargement, fourni par deratiseur, contient la traduction française. Sa version est par ailleurs aussi compatible avec le jeu BG2 original."
+            "Seul le second lien de téléchargement, fourni par Deratiseur, contient la traduction française. Sa version est par ailleurs aussi compatible avec le jeu BG2 original."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -21486,7 +21517,7 @@
             "Aroc"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -22075,14 +22106,13 @@
             "BG2EE",
             "SoD",
             "EET",
-            "IWDEE",
-            "PSTEE"
+            "IWDEE"
         ],
         "authors": [
             "Argent77"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -22256,10 +22286,10 @@
         ],
         "team": [
             "Althéa",
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
-            "Le lien github permet de télécharger une version compatible EE avec de nouveaux objets créés par deratiseur."
+            "Le lien github permet de télécharger une version compatible EE avec de nouveaux objets créés par Deratiseur."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -22630,7 +22660,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -23151,7 +23181,7 @@
             "Olvyn Churu"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Bien que compatible PsTEE, la plupart des composants ne s'installent pas."
@@ -23366,7 +23396,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur",
+            "Deratiseur",
             "Mornagest"
         ],
         "notes": [],
@@ -25052,9 +25082,12 @@
             "Cosmétique"
         ],
         "games": [
-            "PST"
+            "PST",
+            "PSTEE"
         ],
-        "authors": [],
+        "authors": [
+            "Mr. Spells Madman"
+        ],
         "team": [],
         "notes": [
             "Il est intégré dans [[Qwinn's Planescape: Torment Tweak Pack]]."
@@ -25064,7 +25097,7 @@
         "languages": [],
         "status": "embed",
         "last_update": "",
-        "tp2": "non-weidu"
+        "tp2": "n/a"
     },
     {
         "name": "Power of Belief",
@@ -25115,7 +25148,7 @@
             "Inesius"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Choississez le lien github pour la version BG2EE/EET."
@@ -25429,7 +25462,7 @@
             "Wisp"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Attention : le composant `Nouveau destin pour les glands des Dryades` empêche d'accéder au donjon de Firkraag tant que la quête n'est pas résolue."
@@ -25579,7 +25612,7 @@
         ],
         "team": [
             "SkipCool",
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Pour un jeu EE, utilisez le lien github."
@@ -26727,11 +26760,13 @@
             "Edvin"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il existe un composant identique dans [[The Tweaks Anthology]]."
+        ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2021-07",
         "tp2": "non-weidu"
     },
@@ -26758,7 +26793,7 @@
             "La Voix 2 la Sagesse"
         ],
         "notes": [
-            "Pour un jeu EE, utilisez le second ou le troisième lien de téléchargement fourni par deratiseur.",
+            "Pour un jeu EE, utilisez le second ou le troisième lien de téléchargement fourni par Deratiseur.",
             "Attention, une fois le portail ouvert vous DEVEZ l'emprunter dans le sens inverse pour le désactiver. Si vous ne le faite pas et sortez de la zone en marchant, le portail reste en place et vous ne pouvez pas en créer d'autre."
         ],
         "translation_state": "yes",
@@ -28249,8 +28284,7 @@
             "BGEE",
             "BG2EE",
             "EET",
-            "IWDEE",
-            "PSTEE"
+            "IWDEE"
         ],
         "authors": [
             "CBisson"
@@ -29282,7 +29316,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -29563,7 +29597,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur",
+            "Deratiseur",
             "Mornagest"
         ],
         "notes": [],
@@ -30116,7 +30150,7 @@
             "Kevmus"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -30940,7 +30974,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -31100,7 +31134,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur",
+            "Deratiseur",
             "Mornagest"
         ],
         "notes": [],
@@ -31159,7 +31193,7 @@
         ],
         "team": [
             "Yoho",
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "La mise à jour de la traduction française est disponible sur le dernier lien de Plutonium."
@@ -31395,7 +31429,7 @@
             "SkipCool"
         ],
         "notes": [
-            "Seul le lien github permet de télécharger la version EE.",
+            "Seul le lien github permet de télécharger la version EE, qui est à jour.",
             "Pour les versions EE, il est possible d'utiliser [[Revisit The Old Haunt]] qui autorise la téléportation des autres mods."
         ],
         "translation_state": "yes",
@@ -31483,7 +31517,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -31511,7 +31545,7 @@
             "Argent77"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -31617,7 +31651,7 @@
             "Crevs Daak"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Une extension existe pour BGEE : [[Thalantyr Item Upgrade Extensions]]."
@@ -31910,7 +31944,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -32035,11 +32069,13 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Cette quête a été ajoutée à [[PS:T Unfinished Business - Reloaded]] et PSTEE."
+        ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "",
         "tp2": "non-weidu"
     },
@@ -32730,7 +32766,7 @@
             "Lava Del'Vortel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
@@ -32828,7 +32864,7 @@
             "jastey"
         ],
         "team": [
-            "deratiseur",
+            "Deratiseur",
             "rivvers"
         ],
         "notes": [],
@@ -33020,17 +33056,18 @@
             "Cosmétique"
         ],
         "games": [
-            "PST"
+            "PST",
+            "PSTEE"
         ],
         "authors": [],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "",
-        "tp2": ""
+        "tp2": "n/a"
     },
     {
         "name": "The Undying",
@@ -33054,7 +33091,7 @@
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien github pour la version EE et le lien l'autre pour les versions originelles."
+            "Choisissez le lien github pour la version EE et le l'autre lien pour les versions originelles."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -33681,7 +33718,7 @@
     },
     {
         "name": "Todd le super Gars testeur",
-        "description": "Ce mod français de deratiseur ajoute un marchand anachronique qui vend les objets de Morrowind et d'Arcanum. Il attend les aventuriers à différents endroits selon le jeu.|Note : comme la raison d'être du module est de proposer de manière anachronique tous les objets venant d'autres jeux, il ne fait pas de distinction entre les objets inutiles, les objets équilibrés et les objets surpuissants. Installez-le en connaissance de cause. Si vous cherchez des objets équilibrés, voyez plutôt du côté de [[L'interplan]].",
+        "description": "Ce mod français de Deratiseur ajoute un marchand anachronique qui vend les objets de Morrowind et d'Arcanum. Il attend les aventuriers à différents endroits selon le jeu.|Note : comme la raison d'être du module est de proposer de manière anachronique tous les objets venant d'autres jeux, il ne fait pas de distinction entre les objets inutiles, les objets équilibrés et les objets surpuissants. Installez-le en connaissance de cause. Si vous cherchez des objets équilibrés, voyez plutôt du côté de [[L'interplan]].",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=31924",
             "https://github.com/Deratiseur/Todd"
@@ -33698,7 +33735,7 @@
             "IWDEE"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -34013,7 +34050,7 @@
             "kjeron"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Attention : Comme il patche toutes les zones, il est recommandé de l'installer à la fin.",
@@ -34800,7 +34837,7 @@
             "inthel"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "La version officielle est disponible via premier lien mais elle nécessite un enregistrement. La seconde version, compatible EE est téléchargeable via le lien github."
@@ -36779,7 +36816,7 @@
         ],
         "team": [
             "Darien",
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Seule la version GitHub est mise à jour et est compatible EE."
@@ -37448,14 +37485,17 @@
         "description": "Ce mod ajoute un nouveau PNJ, un moine qui possède sa propre quête ainsi que des interactions avec chaque personnage. Le fait d'avoir Furie Céleste ou non, version +3 ou +5, affecte ses réactions. Sans Furie Céleste, il ne rejoindra pas l'équipe. Un aperçu de ses caractéristiques : FOR 16, DEX 18, CON 14, INT 8, SAG 18 et CHA 4.",
         "urls": [
             "http://www.shsforums.net/files/file/34-yikari-v-17/",
-            "https://www.spellholdstudios.net/ie/yikari/"
+            "https://www.spellholdstudios.net/ie/yikari/",
+            "https://github.com/Plutonium-X/1D_NPC_Yikari"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Shed"
@@ -37464,13 +37504,20 @@
             "Egrevyn",
             "Galathée"
         ],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version EE et le l'autre lien pour les versions originelles."
+        ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "it",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "2012-01",
-        "tp2": ""
+        "last_update": "2024-12",
+        "tp2": "Yiakri"
     },
     {
         "name": "Yvette Romance",
@@ -37594,7 +37641,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Zyraen"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -37915,7 +37964,7 @@
     },
     {
         "name": "so Cromwell does NOT take a day?",
-        "description": "",
+        "description": "Ce mod permet de supprimer le temps nécessaire par Cromwell pour forger un objet : la forge devient instantannée.",
         "urls": [
             "https://forums.beamdog.com/discussion/39906/"
         ],
@@ -38102,7 +38151,7 @@
             "Thor Thunderfist"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Utilisez le second lien pour la version française."
@@ -38233,7 +38282,7 @@
     },
     {
         "name": "Follower_It",
-        "description": "Ce mod permet de transformer n'importe quel compagnon en suiveur (qui ne compte pas la limite de groupe). Il perd toute possibilité de dialogues, discutions, quête. Mais il existe des solutions à cette problématique, lisez le readme pour en connaître plus sur ce mod.",
+        "description": "Ce mod permet de transformer n'importe quel compagnon en suiveur (qui ne compte pas la limite de groupe). Il perd toute possibilité de dialogues, discutions, quête. Plusieurs options permettent de rendre les suiveurs immortels, pour que vous n'ayez pas à gérer leur résurrection et le lot d'inconvénients qui vont avec.|Lisez le readme pour en connaître plus sur ce mod.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?f=749&t=34651&p=518215#p518215",
             "https://github.com/Deratiseur/Follower_It"
@@ -38250,7 +38299,7 @@
             "IWDEE"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -38436,7 +38485,7 @@
             "EET"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -38458,7 +38507,7 @@
             "https://github.com/Deratiseur/Jazon/"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ One Day"
         ],
         "games": [
             "BG2EE",
@@ -38466,7 +38515,7 @@
             "IWDEE"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -38497,7 +38546,7 @@
             "IWDEE"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -39128,7 +39177,7 @@
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien github pour la version EE et le lien l'autre pour les versions originelles. La version EE n'est pas officielle."
+            "Choisissez le lien github pour la version EE et le l'autre lien pour les versions originelles. La version EE n'est pas officielle."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -39751,7 +39800,7 @@
             "morpheus562"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "L'auteur a retiré la traduction française et n'est pas disposé à la rajouter."
@@ -39908,7 +39957,7 @@
     },
     {
         "name": "Illo le tatoueur",
-        "description": "Un marchand qui vend 74 tatouages à usage unique qui fonctionnent comme des tomes, mais en version ++.|Vous vous rappelez des tatouages de PST ? Il y a les mêmes, et plein d'autres.",
+        "description": "Un marchand qui vend près d'une centaine de tatouages à usage unique qui fonctionnent comme des tomes, mais en version ++.|Vous vous rappelez des tatouages de PST ? Il y a les mêmes, et plein d'autres.",
         "urls": [
             "https://forums.beamdog.com/discussion/88006/",
             "https://github.com/Deratiseur/Tatoos"
@@ -39924,7 +39973,7 @@
             "IWDEE"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -39954,7 +40003,7 @@
             "IWDEE"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
@@ -44806,7 +44855,7 @@
             "Melkor"
         ],
         "team": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "notes": [
             "Seul le lien github est compatible avec les versions EE.",
@@ -45346,7 +45395,7 @@
     },
     {
         "name": "Jonathan Schattke",
-        "description": "Ce mod ajoute un demi-elfe guerrier / mage / voleur, il recrutable à l'auberge de Feldpost. Il est entièrement vocalisé mais il a peu de dialogue. Il possède quelques objets lui permettant de se protéger et d'améliorer sa capacité à lancer des sorts.|FOR 18/69, DEX 15, CON 15, INT 18, SAG 9, CHA 13.",
+        "description": "Ce mod ajoute un demi-elfe guerrier / mage / voleur, il recrutable à l'auberge de Feldpost. Il est entièrement vocalisé mais il a peu de dialogue. Il possède des bracelets lui permettant de se protéger et d'améliorer sa capacité à lancer des sorts.|FOR 18/69, DEX 15, CON 15, INT 18, SAG 9, CHA 13.",
         "urls": [
             "https://america.iegmc.com/mts/"
         ],
@@ -45728,7 +45777,7 @@
             "EET"
         ],
         "authors": [
-            "deratiseur"
+            "Deratiseur"
         ],
         "team": [],
         "notes": [],
