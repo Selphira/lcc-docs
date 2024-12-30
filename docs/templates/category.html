@@ -11,7 +11,7 @@
         {% for mod in category.mods %}
             <div class="row mod" id="{{ mod.id }}">
                 <div class="title">
-                    <a class="discret" href="#{{ mod.id }}">{{ mod.name }}</a>
+                    <a class="discret name" href="#{{ mod.id }}">{{ mod.name }}</a>
                     <p class="icons">{% for icon in mod.icons %}<span aria-label='{{ icon.label }}'>{{ icon.icon }}</span>{% endfor %}</p>
                 </div>
                 <div class="jeu">
