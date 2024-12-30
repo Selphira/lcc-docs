@@ -46047,7 +46047,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "XPexchange",
+        "name": "Experience Purchaser",
         "description": "Pour les BGEET qui intègrent plus de campagnes, un personnage de classe unique peut atteindre le plafond de niveau tôt et se sentir seul face à ses coéquipiers qui montent en niveau plus tard. Ce mod permet d'échanger les points d'expérience superflus contre des capacités supplémentaires.|Lorsqu'un coéquipier a suffisamment de points d'expérience, lancez un sort de Souhait ou de Souhait mineur et de nouvelles options d'échange apparaîtront. Cependant, il y a quelques limites :|1. le personnage doit être de classe unique (le composant 2 supprime cette restriction)|2. le personnage doit avoir plus de 6 millions de points d'expérience (7,5 ou 15 millions pour le mode Legacy of Bhaal, en fonction du plafond d'EXP).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/39001-xpexchange-v09-to-exchange-superfluous-experience-points-for-more-abilities/",
