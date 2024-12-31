@@ -2095,16 +2095,18 @@
             "BGT"
         ],
         "authors": [
-            "yarpen"
+            "Yarpen"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2009-05",
-        "tp2": ""
+        "tp2": "Armiger"
     },
     {
         "name": "Armors and robes for PST",
@@ -15110,7 +15112,7 @@
     },
     {
         "name": "Hubelpot the Vegetable Merchant NPC",
-        "description": "Il y des gens destinés à un avenir grandiose, d'autres remplis de pouvoir et de talents, enfin d'autres plus sexy-que-moi-tu-meurs. Mais tous ont besoin d'un bon cuistot : d'où l'utilité de notre druide marchand de légumes Hubelpot. Vous pouvez le trouver dans le magasin de fruits et légumes d'Enge sur la promenade de Waukyne. Hubelpot propose une trentaine de plaisanteries, aucune ne brise le 4e mur et aucune ne comporte le mot \"navet\". Il interagit avec tous les PNJ Bioware à l'exception de Sarevok. Dans ToB, il est encore assez silencieux, ne parlant que lorsqu'il est appelé, avec Volo et à la fin de ToB. Il dispose aussi d'une quête riche en rebondissements, avec avec une récompense inhabituelle.",
+        "description": "Il y des gens destinés à un avenir grandiose, d'autres remplis de pouvoir et de talents, enfin d'autres plus sexy-que-moi-tu-meurs. Mais tous ont besoin d'un bon cuistot : d'où l'utilité de notre druide marchand de légumes Hubelpot. Vous pouvez le trouver dans le magasin de fruits et légumes d'Enge sur la promenade de Waukyne. Hubelpot propose une trentaine de plaisanteries, aucune ne brise le 4e mur et aucune ne comporte le mot \"navet\". Il interagit avec tous les PNJ Bioware à l'exception de Sarevok. Dans ToB, il est encore assez silencieux, ne parlant que lorsqu'il est appelé, avec Volo et à la fin de ToB. Il dispose aussi d'une quête riche en rebondissements, avec avec une récompense inhabituelle.|FOR 12, DEX 8, CON 10, INT 10, SAG 14, CHA 13.",
         "urls": [
             "http://www.shsforums.net/files/file/31-hubelpot-the-vegetable-merchant/",
             "https://github.com/SpellholdStudios/Hubelpot_the_Vegetable_Merchant_NPC"
@@ -39617,14 +39619,15 @@
         "team": [],
         "notes": [
             "FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18.",
-            "Le lien github est compatible avec EET."
+            "Le lien github est compatible avec EET.",
+            "Le mod [[Mods_Tweaker]] rend les caractéristiques du personnage plus RP."
         ],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2023-05",
-        "tp2": ""
+        "tp2": "Sub-Zero"
     },
     {
         "name": "The Return of Xzar and Montaron",
@@ -45397,12 +45400,14 @@
         "name": "Jonathan Schattke",
         "description": "Ce mod ajoute un demi-elfe guerrier / mage / voleur, il recrutable à l'auberge de Feldpost. Il est entièrement vocalisé mais il a peu de dialogue. Il possède des bracelets lui permettant de se protéger et d'améliorer sa capacité à lancer des sorts.|FOR 18/69, DEX 15, CON 15, INT 18, SAG 9, CHA 13.",
         "urls": [
+            "https://america.iegmc.com/wizwom/",
             "https://america.iegmc.com/mts/"
         ],
         "categories": [
             "PNJ One Day"
         ],
         "games": [
+            "Tutu",
             "BGT"
         ],
         "authors": [
@@ -45410,7 +45415,8 @@
         ],
         "team": [],
         "notes": [
-            "Fichier `Jonathan_NPC_BGT.rar`."
+            "Le premier lien propose la version Tutu : fichier `WizWomJonTutu.zip`.",
+            "Le second la version BGT : fichier `Jonathan_NPC_BGT.rar`."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -45761,11 +45767,11 @@
         "tp2": "The Dragon of Umar Hills"
     },
     {
-        "name": "Mod_Tweaker",
+        "name": "Mods_Tweaker",
         "description": "Ce mod permet revisite légèrement de vieux mods en leur donnant plus de cohérence. Tous les composants sont optionnels et les mods doivent être installés avant celui-ci. On retrouve notamment : [[Horace]], [[Chiara NPC]], [[Moddie the vixen]], [[Ninafer]], [[Thael]], [[Sub-zero]], [[Yikari]], [[Umbra of TROW - Arena]], [[Jamella's Diablo2 Item Store]].",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34693",
-            "https://github.com/Deratiseur/Mod_Tweaker/"
+            "https://github.com/Deratiseur/Mods_Tweaker/"
         ],
         "categories": [
             "Gameplay"
@@ -46123,5 +46129,111 @@
         "status": "true",
         "last_update": "2024-12",
         "tp2": "XPexchange"
+    },
+    {
+        "name": "Interjection lister",
+        "description": "Ce petit mod Weidu permet de créer un fichier out.txt qui liste toutes les interactions avec un PNJ Bioware.",
+        "urls": [
+            "http://www.shsforums.net/topic/40412-interjection-lister-utility/",
+            "http://www.shsforums.net/files/file/765-interjection-lister-utility/"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "SConrad"
+        ],
+        "team": [],
+        "notes": [
+            "Pourrait être compatible EE mais le mod datant de 2009, les personnages EE ne sont pas pris en compte."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "true",
+        "last_update": "2009-05",
+        "tp2": "sc#intjlister"
+    },
+    {
+        "name": "Kalah",
+        "description": "Ce mod polonais modifie la quête du cirque en y ajoutant de petites épreuves. Le résultat de ces épreuves influencent la difficulté du combat final. Un autre composant rend à Aerie métamorphosée son apparence originellement prévue par les développeurs (spoil : ce n'est pas un ogre).",
+        "urls": [
+            "http://baldur.cob-bg.pl/node/1936"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Picollo"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "true",
+        "last_update": "2010-09",
+        "tp2": "Kalah"
+    },
+    {
+        "name": "Resurection mod",
+        "description": "Ce mod polonais supprime Résurrection du jeu (les sorts comme le sceptre) et le remplace par un sort qui a ente 20 et 40% de fonctionner (selon le niveau du lanceur de sort) et 10% de chance de détruire le corps. Un composant augmente le prix des services de résurrection dans les temples de 1K par niveau de la peronne morte (ie : 15K pour un perso de lvl 15). Un autre fait que les elfes ne peuvent pas être ressuscités (Aerie / Viconia / Haer'dalis).",
+        "urls": [
+            "http://baldur.cob-bg.pl/download/bg2/tweaks/ResurectionMod.zip"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Yarpen"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "true",
+        "last_update": "2006-10",
+        "tp2": "RessurectMod"
+    },
+    {
+        "name": "Wychowanek Goriona",
+        "description": "Ce mod polonais propose une dizaine de tweaks pour ToB. Il propose notamment d'invoquer Cespenar pour qu'il puisse forger des objets sans avoir à revenir dans l'Antichambre. L'Esprit du Destin n'invoque plus les personnages mais c'est Charname qui voyage jusqu'à eux, restaurations des cinématiques de la Main…",
+        "urls": [
+            "http://athkatla.cob-bg.pl/viewtopic.php?t=5139",
+            "http://baldur.cob-bg.pl/node/1923"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Picollo"
+        ],
+        "team": [],
+        "notes": [
+            "Le mod a disparu."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [],
+        "status": "missing",
+        "last_update": "2013-09",
+        "tp2": "WychowanekGoriona"
     }
 ]
