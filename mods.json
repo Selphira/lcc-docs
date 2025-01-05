@@ -3079,7 +3079,7 @@
             "Galathée"
         ],
         "notes": [
-            "Choisissez le lien github pour la version EE et le l'autre lien pour les versions originelles. La seconde version est non officielle."
+            "Choisissez le lien github pour la version EE et l'autre lien pour les versions originelles. La seconde version est non officielle."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -20435,31 +20435,39 @@
     },
     {
         "name": "Mawgul NPC",
-        "description": "Mawgul est un Guerrier/Mage elfe neutre absolu, servant de Heaum disposant d'un équipement appréciable, ainsi que de capacités spéciales semblables à celles des prêtres de Helm. Ce mod a peu de contenu.",
+        "description": "Mawgul est un Guerrier/Mage elfe neutre absolu, servant de Heaum disposant d'un équipement très puissant, ainsi que de capacités spéciales semblables à celles des prêtres de Helm. Ce mod a peu de contenu.",
         "urls": [
-            "http://www.shsforums.net/files/file/767-mawgul-npc-v22/"
+            "http://www.shsforums.net/files/file/767-mawgul-npc-v22/",
+            "https://github.com/Plutonium-X/1D_NPC_Mawgul"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Mawgul"
         ],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
+        "team": [
+            "Deratiseur"
+        ],
+        "notes": [
+            "Choisissez le lien github pour la version EE (et traduite en français) et l'autre lien pour la version originelle."
+        ],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
             "es",
-            "it"
+            "it",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2011-02",
+        "last_update": "2025-01",
         "tp2": "MawgulNPC"
     },
     {
@@ -33023,16 +33031,19 @@
     },
     {
         "name": "The Tortured Soul Quest",
-        "description": "À ne pas confondre avec le méga mod [[Tortured Souls-BP]], ce mod ajoute une petite quête, à la fin de laquelle vous obtenez un objet inédit intéressant. Pour la démarrer, parlez à un étranger dans l'une des cryptes du cimetière d'Athkatla.",
+        "description": "À ne pas confondre avec le méga mod [[Tortured Souls-BP]], ce mod ajoute une petite quête, à la fin de laquelle vous obtenez un objet inédit qui vous permet d'invoquer Baenwuld le Tueur de magicien à volonté. Celui-ci peut-être libéré de son esclavage pour rejoindre votre groupe. Pour la démarrer, parlez à un étranger dans l'une des cryptes du cimetière d'Athkatla.",
         "urls": [
-            "http://www.shsforums.net/files/file/149-the-tortured-soul-quest/"
+            "http://www.shsforums.net/files/file/149-the-tortured-soul-quest/",
+            "https://github.com/Plutonium-X/1D_NPC_Tortured"
         ],
         "categories": [
-            "Quête"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Badgert"
@@ -33040,13 +33051,22 @@
         "team": [
             "Fouinto"
         ],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version EE et l'autre lien pour la version originelle."
+        ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de",
+            "en",
+            "fr",
+            "it",
+            "ru",
+            "sp"
+        ],
         "status": "active",
-        "last_update": "2009-10",
-        "tp2": ""
+        "last_update": "2025-01",
+        "tp2": "TTSQ"
     },
     {
         "name": "The Ultimate Easter Egg (Morte)",
@@ -33093,7 +33113,7 @@
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien github pour la version EE et le l'autre lien pour les versions originelles."
+            "Choisissez le lien github pour la version EE et l'autre lien pour les versions originelles."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -33982,9 +34002,7 @@
         "team": [
             "Le Marquis"
         ],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -37507,7 +37525,7 @@
             "Galathée"
         ],
         "notes": [
-            "Choisissez le lien github pour la version EE et le l'autre lien pour les versions originelles."
+            "Choisissez le lien github pour la version EE et l'autre lien pour les versions originelles."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -39179,7 +39197,7 @@
         ],
         "team": [],
         "notes": [
-            "Choisissez le lien github pour la version EE et le l'autre lien pour les versions originelles. La version EE n'est pas officielle."
+            "Choisissez le lien github pour la version EE et l'autre lien pour les versions originelles. La version EE n'est pas officielle."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -39515,18 +39533,19 @@
         "authors": [
             "Shohy"
         ],
-        "team": [],
-        "notes": [
-            "La traduction française a été proposée par Selphira mais n'a pas encore été acceptée."
+        "team": [
+            "Selphira"
         ],
-        "translation_state": "wip",
+        "notes": [],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
-            "cn"
+            "cn",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2024-12",
         "tp2": "Isaac's_Missile_Storm"
     },
     {
