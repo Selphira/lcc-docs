@@ -505,11 +505,13 @@
             "elminster"
         ],
         "team": [],
-        "notes": [],
-        "translation_state": "no",
-        "safe": 1,
+        "notes": [
+            "Incompatible avec les versions 2.5+."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2019-12",
         "tp2": "non-weidu"
     },
@@ -614,7 +616,7 @@
         "tp2": "aip"
     },
     {
-        "name": "Aeon NPC",
+        "name": "Aeon",
         "description": "Aeon est un jeune abjurateur/voleur fougueux, heureux possesseur d'une épée de lune. Dénichez-le au fin fond du cimetière pour découvrir pourquoi cet humain peut porter une telle arme. Vous pourrez également expérimenter un nouveau genre de relations basée sur la fraternité ; cette voie étant réservée à des PJ mâles uniquement.",
         "urls": [
             "https://downloads.weaselmods.net/download/aeon/"
@@ -657,7 +659,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "missing",
         "last_update": "",
@@ -696,7 +698,7 @@
         ],
         "status": "active",
         "last_update": "2023-11",
-        "tp2": "bg1aerie"
+        "tp2": "BG1Aerie"
     },
     {
         "name": "Afaaq, the Djinni Companion",
@@ -806,7 +808,7 @@
         "tp2": "ajantisbg1"
     },
     {
-        "name": "Ajantis NPC for BG2",
+        "name": "Ajantis NPC for BGII",
         "description": "Avec ce mod, Ajantis, le paladin de l'Ordre du Cœur Radieux dans BG1, peut intégrer le groupe après le combat dans les Collines de Lancevent. Il comporte une romance qui poursuit celle du [[The BG1NPC Project]] (en cas de trilogie), ou toute une nouvelle, ainsi que la possibilité de développer une profonde amitié avec lui. Le mod suppose qu'Ajantis a voyagé avec le PC dans BG1 pendant un certain temps. C'est là qu'Ajantis a gagné suffisamment d'honneur pour être fait chevalier.|Il existe un <a href=\"https://www.gibberlings3.net/files/file/994-ajantis-portrait-pack/\">mod complémentaire</a> proposant un certain nombre de portraits alternatifs pour Ajantis, réalisés par des membres de la communauté.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jasteys-sir-ajantis-f%C3%BCr-bgii-npc.9/",
@@ -1970,7 +1972,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2022-08",
+        "last_update": "2024-12",
         "tp2": "arcane-treasury-mod"
     },
     {
@@ -3089,7 +3091,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2022-10",
+        "last_update": "2022-11",
         "tp2": "Azengaard"
     },
     {
@@ -5566,7 +5568,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-12",
         "tp2": "BP_in_BG"
     },
     {
@@ -7310,7 +7312,7 @@
         "tp2": ""
     },
     {
-        "name": "Classic Gameplay windows for BG:EE",
+        "name": "Classic gameplay windows for BG:EE",
         "description": "Ce mod rétablit l'interface graphique de Baldur's Gate original dans BG:EE.",
         "urls": [
             "http://www.shsforums.net/files/file/1017-classic-gameplay-windows-for-bgee/"
@@ -7755,7 +7757,8 @@
             "fr",
             "de",
             "pl",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-03",
@@ -7869,7 +7872,11 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de",
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2022-09",
         "tp2": "coranbgfriend"
@@ -8030,7 +8037,7 @@
         "tp2": "corthalaromantique"
     },
     {
-        "name": "Corwin NPC (for BG:EE and EET)",
+        "name": "Corwin",
         "description": "Ce mod rend la capitaine Corwin Poing Enflammé disponible en tant que PNJ recrutable dès que vous entrez dans la ville de La Porte de Baldur. Scar vous la présente lors de votre première rencontre, et vous pouvez la recruter pour vous aider dans les affaires qui agitent sa ville natale. Cependant, elle vous quittera lors de votre départ vers Amn, car elle est loyale envers sa ville, ses habitants et le Poing Flamboyant, et ne les abandonnera pas. Ce mod contient :|- des interactions avec le protagoniste pour étoffer l'amitié initiale (ou non) qui se transforme en une possible romance dans SoD.|- Des rencontres et des cinématiques qui enrichissent l'histoire de Corwin.|- Une Corwin continue : Elle vous suivra dans le premier donjon de SoD. Elle gardera son rôle original accompagnatrice sans vous rejoindre, mais ses dialogues et réactions refléteront le fait qu'elle vous connaît déjà et a voyagé avec vous. Elle redevient à nouveau recrutable dès que vous quittez la ville et elle continuera à jouer le même rôle que dans BG1.|- Le contenu original de SoD (y compris la romance) est préservé, mais adapté à la possibilité qu'elle connaisse déjà le protagoniste avant la croisade. Dans l'ensemble, le contenu pré-SoD est destiné à donner à Corwin une personnalité plus profonde et à rendre ses actions et décisions dans SoD plus transparentes.|Note : Corwin est une archère utile dans BG1. Elle conservera donc ses gains de statistiques, son XP, son équipement, etc., lorsqu'elle vous rejoint à nouveau dans SoD.",
         "urls": [
             "https://github.com/RoxanneSHS/Corwin"
@@ -8262,7 +8269,7 @@
     },
     {
         "name": "Icewind Dale Crossmod Banter Pack",
-        "description": "Comme dans son homologue pour BG2, ce mod ajoute des dialogues entre les PNJ ajoutés par des mods (les 5 personnages de [[IWD NPC Project]] ; [[Minerva NPC]] et [[Karihi NPC]] de AionZ ; [[Dendjelion]], [[Dusky NPC]], [[Ina]], [[Oak-Maw]], [[Orra]], [[Tipps]], [[T’viy]], [[Urchin]], [[L'anna NPC]], [[Xikâsz’s Grove of Chaos]], [[Bethany]] et [[Hommet]] de Lava Del'Vortel), ainsi que des querelles dues à des conflits d'intérêt et de romance. L'occasion d'en apprendre un peu plus sur leur caractère, mais aussi, de voir leur réaction en cas de conflit de romance !",
+        "description": "Comme dans son homologue pour BG2, ce mod ajoute des dialogues entre les PNJ ajoutés par des mods (les 5 personnages de [[IWD NPC Project]] ; [[Minerva NPC]] et [[Karihi NPC]] de AionZ ; [[Dendjelion]], [[Dusky]], [[Ina]], [[Oak-Maw]], [[Orra]], [[Tipps]], [[T’viy]], [[Urchin]], [[L’anna]], [[Xikâsz’s Grove of Chaos]], [[Bethany]] et [[Hommet]] de Lava Del'Vortel), ainsi que des querelles dues à des conflits d'intérêt et de romance. L'occasion d'en apprendre un peu plus sur leur caractère, mais aussi, de voir leur réaction en cas de conflit de romance !",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/crossmod_iwd/",
             "https://github.com/Gibberlings3/iwdcrossmod"
@@ -8283,10 +8290,11 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2024-05",
+        "last_update": "2024-12",
         "tp2": "iwdcrossmodpack"
     },
     {
@@ -8556,9 +8564,9 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
-            "IWDEE"
+            "IWDEE",
+            "PSTEE"
         ],
         "authors": [
             "Dan_P"
@@ -8571,7 +8579,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2024-12",
         "tp2": "d2-weapon"
     },
     {
@@ -8683,7 +8691,7 @@
         "tp2": ""
     },
     {
-        "name": "Darian NPC",
+        "name": "Darian",
         "description": "Archer elfe loyal bon de la race des Avariels, Darian se trouve à Athkatla suite à des rumeurs d'emprisonnement d'un de ses compatriotes, mais les choses ne se passent pas comme il s'y attendait. D'un abord méfiant, notamment à l'égard des petites personnes, nains et autres rase-mottes, ce cœur noble sera difficile à apprivoiser. Seules les elfes, demi-elfes et humaines d'alignement bon parviendront peut-être à percer sa coquille. Il développera également une amitié avec Aerie. Il dispose de contenu pour SoA et ToB. Ses caractéristiques sont FOR 12, DEX 19, CON 14, INT 11, SAG 17 et CHA 12. Retrouvez-le à l'extérieur de la Couronne de Cuivre.",
         "urls": [
             "http://www.shsforums.net/files/file/948-darian/"
@@ -8723,6 +8731,7 @@
             "BG2",
             "BGT",
             "BGEE",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -9537,7 +9546,10 @@
             "Matt",
             "Graoumf"
         ],
-        "notes": [
+        "notes": [],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
             "de",
             "en",
             "es",
@@ -9545,9 +9557,6 @@
             "jp",
             "pl"
         ],
-        "translation_state": "yes",
-        "safe": 2,
-        "languages": [],
         "status": "active",
         "last_update": "2020-03",
         "tp2": "d0tweak"
@@ -9646,7 +9655,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -10450,7 +10458,7 @@
         "tp2": ""
     },
     {
-        "name": "Dusky NPC",
+        "name": "Dusky",
         "description": "Ce mod ajoute un nouveau PNJ recrutable dans IWD:EE : Dusky, un clerc/voleur demi-orque d'alignement chaotique neutre que vous trouverez près de l'entrée de la grotte, aux environ de Havredest. Il est ouvert à toute romance avec tout personnage masculin ayant au moins 11 de Charisme 11. Il n'aura aucun problème à rejoindre une équipe bonne, neutre ou mauvaise. Le mod comprend aussi une voie d'amitié et quelques interjections.",
         "urls": [
             "https://downloads.weaselmods.net/download/dusky-iwdee-npc/"
@@ -10982,7 +10990,7 @@
         "tp2": "Ehlastra"
     },
     {
-        "name": "Eilistraee's Song",
+        "name": "Eilistraee’s Song",
         "description": "Un mod de quête pour BG2, créé par Lava, qui se déclenche si vous décidez d'épargner la vie de Solaufein et de le laisser s'enfuir d'Ust Natha. Il vous remerciera après votre évasion d'Ust Natha, et vous parlera d'un nouvel endroit, où vous pourrez demander de l'aide afin de récupérer votre âme... Le mod inclut 6 nouvelles cartes, 21 nouveaux objets et bien entendu de nouvelles quêtes secondaires en marge de celle de votre âme.",
         "urls": [
             "https://downloads.weaselmods.net/download/eilistraees-song/"
@@ -11050,7 +11058,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "IWDEE"
         ],
         "authors": [
@@ -12167,7 +12174,7 @@
         "tp2": "faiths_and_powers"
     },
     {
-        "name": "Fake Import Mod Drizzt May Live Edition",
+        "name": "Fake Import Mod",
         "description": "Ne vous trompez pas, ce mod ne simule aucune importation de personnage depuis BG1, comme il le prétend, mais il ajoute des objets dans le donjon d'Irenicus : les pantalons dorés et les tomes de caractéristiques sont derrière le portrait, le groupe gagne 65.455 XP, Illyich porte une cotte de mailles +3.",
         "urls": [
             "http://www.shsforums.net/files/file/1059-fake-import-mod/"
@@ -12876,7 +12883,7 @@
         "tp2": "fr_rov"
     },
     {
-        "name": "Freely Resizeable Combat Log",
+        "name": "Freely resizeable combat log for PST:EE",
         "description": "Ce mod permet de redimensionner dans toutes les directions le journal de combat de PST:EE qui ne pouvait l'être que sur l'axe vertical.",
         "urls": [
             "http://www.shsforums.net/files/file/1221-freely-resizeable-combat-log-for-PSTee/",
@@ -13755,7 +13762,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2020-05",
+        "last_update": "2019-07",
         "tp2": "GlamNPCPack"
     },
     {
@@ -13933,7 +13940,7 @@
         "tp2": "GreyA"
     },
     {
-        "name": "BG2:EE GUI In BG:EE",
+        "name": "BG2:EE GUI in BG:EE",
         "description": "Ce mod permettait de jouer BG:EE avec l'interface de BG2:EE dont le fameux bouton \"loot\" permettant de ramasser plus simplement ce qui traîne au sol à proximité. Ce mod modifie l'apparence de pierre du fond des écrans de BG:EE pour leur donner un aspect gris clair plutôt que bleuté.",
         "urls": [
             "http://www.shsforums.net/files/file/1082-bg2ee-gui-in-bgee/"
@@ -14271,8 +14278,8 @@
         "tp2": ""
     },
     {
-        "name": "Harden Coonors Tutu-AddOn (allemand)",
-        "description": "",
+        "name": "Harden Coonors Tutu-AddOn",
+        "description": "Ce mod allemand semble avec disparu.",
         "urls": [],
         "categories": [
             "Gameplay"
@@ -16251,7 +16258,7 @@
     },
     {
         "name": "Improved GUI for BG:EE",
-        "description": "Ce mod améliore l'interface graphique du mod [[BG2:EE GUI In BG:EE]] et est compatible avec les versions du jeu 2.0.",
+        "description": "Ce mod améliore l'interface graphique du mod [[BG2:EE GUI in BG:EE]] et est compatible avec les versions du jeu 2.0.",
         "urls": [
             "https://forums.beamdog.com/discussion/40001/"
         ],
@@ -16476,11 +16483,11 @@
         "translation_state": "yes",
         "safe": 1,
         "languages": [
-            "ch",
+            "cn",
             "en",
             "fr",
             "ru",
-            "sp"
+            "es"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -16533,7 +16540,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-12",
         "tp2": "ina"
     },
     {
@@ -17477,7 +17484,7 @@
         "safe": 2,
         "languages": [],
         "status": "yes",
-        "last_update": "",
+        "last_update": "2024-11",
         "tp2": ""
     },
     {
@@ -17787,16 +17794,18 @@
             "BGT"
         ],
         "authors": [
-            "hlidskialf"
+            "Kensai Ryu"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2007-04",
-        "tp2": ""
+        "last_update": "2003-05",
+        "tp2": "BrownDragon"
     },
     {
         "name": "Kale, a Halfling Barbarian",
@@ -17905,7 +17914,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2021-11",
+        "last_update": "2024-12",
         "tp2": "KarihiNPC"
     },
     {
@@ -18597,7 +18606,7 @@
     },
     {
         "name": "Konalan's Tweaks",
-        "description": "Ce mod propose une collection d'ajustements pour BG2. Il est modulaire et contient des correctifs de profils, d'objets, des ajouts amusants, et des modifications de règles. Veuillez bien lire son readme avant d'installer ses composants.|Il inclue notamment les anciens mods [[The Butter Knife of Balduran]], [[Rod of Refuge]] et Konalan's Wizard Slayer Enhancements, du même auteur.",
+        "description": "Ce mod propose une collection d'ajustements pour BG2. Il est modulaire et contient des correctifs de profils, d'objets, des ajouts amusants, et des modifications de règles. Veuillez bien lire son readme avant d'installer ses composants.|Il inclue notamment les anciens mods [[Butter Knife of Balduran]], [[Rod of Refuge]] et Konalan's Wizard Slayer Enhancements, du même auteur.",
         "urls": [
             "http://www.shsforums.net/files/file/706-konalans-tweaks/"
         ],
@@ -18624,7 +18633,7 @@
         "tp2": ""
     },
     {
-        "name": "L'anna NPC",
+        "name": "L’anna",
         "description": "Ce mod ajoute une nouvelle PNJ dans IWD:EE : L'anna Falthisslar, une paladine elfe - Mythseeker of Mythrien Sarath. Aidez-la à trouver la lame sacrée connue sous le nom de Mythalass-Teel. Parlez-lui, apprenez-en plus sur son passé et sur les anciens lieux elfiques comme Myth Drannor, Myth Ondath ou Myth Rhynn. Aidez-la, et elle vous aidera dans enquête sur les événements étranges auxquels le Val de bise est confronté. Elle peut engager une romance avec les hommes elfes non mauvais. Vous pouvez la recruter dans la taverne de la Cave aux racines, à Kuldahar.",
         "urls": [
             "https://downloads.weaselmods.net/download/lanna/"
@@ -19347,7 +19356,7 @@
         "tp2": ""
     },
     {
-        "name": "Lhannd Valdove",
+        "name": "Lhannd",
         "description": "Meet Lhannd Valdove, a chaotic good fallen ranger. He hails from a once-noble Athkatlan family who lost their legacy and drowned in problems. Will you lend a hand in breaking what others perceive as a curse, or will the chain of unfortunate events continue?||The mod comprises quests that expand Athkatla's Government District, including the addition of the Valdove Estate, situated above the local prison. If you are open to offering Lhannd a sympathetic ear, you may embark on a friendship or romance path that will help you get to know him even better, and... perhaps see his other side. Both men and women may romance him, however, the player character can't be of chaotic evil alignment for the romance to start.||To find Lhannd, venture into the Crooked Crane tavern located at the City Gates. The initial encounter serves as the starting point for his first quest.",
         "urls": [
             "https://downloads.weaselmods.net/download/lhannd/"
@@ -19485,7 +19494,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "es",
+            "de"
+        ],
         "status": "active",
         "last_update": "2012-10",
         "tp2": "RezMod"
@@ -20036,17 +20050,14 @@
         "translation_state": "wip",
         "safe": 2,
         "languages": [
-            "en",
-            "fr",
-            "ru",
-            "es"
+            "en"
         ],
         "status": "active",
         "last_update": "2021-09",
         "tp2": "mih_eq"
     },
     {
-        "name": "Made in Heaven - ItemPack",
+        "name": "Made in Heaven - Item Pack",
         "description": "Ce mod fait partie de la série \"Made in Heaven\" (avec les sorts, les tweaks et les quêtes). Il ajoute plus d'une centaine d'objets dans Baldur's Gate 1 et 2. Des composants permettent aussi de modifier certains objets du jeu.|Dans BG, un marchand est ajouté dans l'une des maisons inoccupées à gauche de l'auberge du Bras amical. Mais il ne vous vendra pas facilement son stock...",
         "urls": [
             "https://github.com/AngelGryph/MadeInHeaven_ItemPack"
@@ -20077,7 +20088,7 @@
         "tp2": "mih_ip"
     },
     {
-        "name": "Made in Heaven - SpellPack",
+        "name": "Made in Heaven - Spell Pack",
         "description": "Ce mod fait partie de la série \"Made in Heaven\" (avec les objets, les tweaks et les quêtes). Il ajoute de nouveaux sorts dans Baldur's Gate 1 et 2, ainsi que quelques options pour les paladins. La plupart proviennent soit du Manuel du Joueur, soit de sources officielles sur les Royaumes Oubliés. Quelques-uns sont des créations de l'auteur.",
         "urls": [
             "https://github.com/AngelGryph/MadeInHeaven_SpellPack"
@@ -20100,7 +20111,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-12",
         "tp2": "mih_sp"
@@ -20132,7 +20145,10 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2022-12",
         "tp2": "mih_tweaks"
@@ -20315,10 +20331,11 @@
         "safe": 2,
         "languages": [
             "de",
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-01",
         "tp2": "Malthis"
     },
     {
@@ -20494,7 +20511,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "MegamodKits",
+        "name": "MegaModKits",
         "description": "Ce mod ambitieux installe 30 profils de mega-mods utilisés pour la plupart seulement une fois par un PNJ. Ils sont désormais utilisables par tous et par toutes les races de personnage. Vous pouvez les installer séparément.|Vous pouvez consulter la liste de ces profils sur la page de téléchargement.",
         "urls": [
             "http://www.shsforums.net/files/file/905-megamodkits/"
@@ -21195,7 +21212,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Bardess"
+        ],
         "team": [
             "Deratiseur"
         ],
@@ -21211,7 +21230,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-12",
         "tp2": "FoxMonster"
     },
     {
@@ -23146,7 +23165,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -23157,7 +23175,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-05",
         "tp2": "MESpells"
@@ -23792,7 +23812,7 @@
             "EET"
         ],
         "authors": [
-            "polymorphedsquirrel"
+            "polysquirrel"
         ],
         "team": [],
         "notes": [],
@@ -23843,7 +23863,7 @@
         "description": "Cette conversion de Paladins of Faerûn contient toutes les quêtes du mod tchèque original, mais n'en est pas une copie exacte. De nombreux bugs ont été corrigés et le passage à WeiDU a permis d'en rationaliser le code.|Le mod contient une grande quête principale \"Paladins of Faerûn\" et deux quêtes secondaires, \"Ordre et Chaos\" et \"Enlèvement et Politique\". De nouvelles aventures vous attendent également dans les villes de Padhiver, La Porte de Baldur, Eauprofonde, Targos (centre ville, docks), Siluvaned (cité elfique) et Har Al-Dur (cité des prêtres) - chacune d'entre elles ayant sa propre quête urbaine, principalement pour apporter une aide quelconque à la cité, ou même la sauver. En outre, il y a plus de 20 petites quêtes individuelles. Le mod commence dans le donjon d'Irenicus.",
         "urls": [
             "http://www.shsforums.net/topic/60732-paladins-of-faerun-quest-pack/?p=608853",
-            "https://github.com/GraionDilach/Paladins-of-Faerun-Quest-Pack"
+            "https://github.com/11jo/Paladins-of-Faerun-Quest-Pack"
         ],
         "categories": [
             "Conversion"
@@ -23868,7 +23888,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2023-05",
+        "last_update": "2022-11",
         "tp2": "PoFQuestPack"
     },
     {
@@ -24277,7 +24297,7 @@
         "tp2": ""
     },
     {
-        "name": "Pickpocket Option",
+        "name": "Pickpocket Options",
         "description": "Ce petit mod ajoute la capacité \"search body\" qui oblige les créatures inconscientes à laisser tomber leur équipement.",
         "urls": [
             "http://www.shsforums.net/topic/31945-pickpocket-options/page-2"
@@ -24303,7 +24323,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2008-03",
+        "last_update": "2008-02",
         "tp2": "W_3kradziej"
     },
     {
@@ -24332,10 +24352,11 @@
         "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-01",
         "tp2": "Pirate"
     },
     {
@@ -24367,7 +24388,7 @@
     },
     {
         "name": "The Planar Sphere Mod",
-        "description": "Ce mod augmente la durée de la quête de classe liée à la sphère et, donc l'intérêt de jouer un mage. Une grande quête supplémentaire ainsi que plusieurs petites et une sphère peuplée d'apprentis. À noter aussi la présence de 39 nouveaux sorts.|N'hésitez pas à aussi installer le mini mod complémentaire [[PlanarSphere Return]] (aussi appelé PlanarSphere Teleporter) qui vous permettra de vous téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
+        "description": "Ce mod augmente la durée de la quête de classe liée à la sphère et, donc l'intérêt de jouer un mage. Une grande quête supplémentaire ainsi que plusieurs petites et une sphère peuplée d'apprentis. À noter aussi la présence de 39 nouveaux sorts.|N'hésitez pas à aussi installer le mini mod complémentaire [[Planar Sphere Teleporter]] (aussi appelé PlanarSphere Return) qui vous permettra de vous téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
         "urls": [
             "http://www.shsforums.net/files/file/131-planarsphere/",
             "https://github.com/The-Gate-Project/PlanarSphere"
@@ -24400,7 +24421,7 @@
         "tp2": "planarspheremod"
     },
     {
-        "name": "PlanarSphere Return",
+        "name": "Planar Sphere Teleporter",
         "description": "Publié à l'origine sur <a href=\"http://mods.jo-ge.net/bg/index.htm\">ce site</a>, ce mini mod ajoute un objet, donné par Lavok, permettant de se téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
         "urls": [
             "http://www.shsforums.net/files/file/130-planarsphere-return/",
@@ -25301,10 +25322,11 @@
         "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-01",
         "tp2": "P!Bhaal"
     },
     {
@@ -25767,7 +25789,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-12",
         "tp2": "zgtweaks"
     },
     {
@@ -27214,7 +27236,7 @@
     },
     {
         "name": "Rukrakia",
-        "description": "Ce mod ajoute un nouveau PNJ, Rukrakia, originaire des montagnes du Calimshan. Généralement amicale et sympathique, c'est aussi une guerrière/voleuse compétente qui se sert impitoyablement de son couteau. Elle est ouverte à une romance avec un personnage masculin et dispose de ses propres quêtes. De nombreuses heures de jeu, de nouvelles zones (ToB uniquement). Voici son <a href=\"https://cafe.naver.com/nextrealm/16939\">site officiel</a>.",
+        "description": "Ce mod ajoute un nouveau PNJ, Rukrakia, originaire des montagnes du Calimshan. Généralement amicale et sympathique, c'est aussi une guerrière/voleuse compétente qui se sert impitoyablement de son couteau. Elle est ouverte à une romance avec un personnage masculin et dispose de ses propres quêtes. De nombreuses heures de jeu, de nouvelles zones (ToB uniquement).",
         "urls": [
             "http://www.shsforums.net/files/file/1269-rukrakia/"
         ],
@@ -27225,17 +27247,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "darktn"
+        ],
         "team": [],
         "notes": [
             "Ce mod est en coréen."
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "kr"
+        ],
         "status": "active",
-        "last_update": "2021-04",
-        "tp2": ""
+        "last_update": "2011-06",
+        "tp2": "rukrakia"
     },
     {
         "name": "Runescarred Berserker",
@@ -28173,7 +28199,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2024-12",
         "tp2": "sotsc"
     },
     {
@@ -29009,7 +29035,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-04",
+        "last_update": "2024-12",
         "tp2": "SkieCost"
     },
     {
@@ -29311,7 +29337,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Snowytoes Halmet",
+        "name": "Snowytoes Hamlet",
         "description": "Les étendues neigeuses du Val de bise cachent de nombreux secrets. Et vous y trouverez peut-être un refuge sûr. Pas seulement Kuldahar, mais aussi de plus petits hameaux comme Snowytoes - une colonie de halflings qui ont décidé que même les vents glacés et les animaux sauvages ne les effraieraient pas. Allez visiter ce lieu, parlez à ses habitants et voyez si vous pouvez les aider à rendre leur vie un peu plus facile... car une étrange puissance se réveille sous la neige dans une vallée voisine.",
         "urls": [
             "https://downloads.weaselmods.net/download/snowytoes-hamlet/"
@@ -29621,7 +29647,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2024-12",
         "tp2": "southernedge"
     },
     {
@@ -31064,7 +31090,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2024-12",
         "tp2": "totdg"
     },
     {
@@ -31152,7 +31178,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2024-12",
         "tp2": "tangledisle"
     },
     {
@@ -31213,7 +31239,9 @@
         "languages": [
             "en",
             "ru",
-            "fr"
+            "fr",
+            "it",
+            "es"
         ],
         "status": "active",
         "last_update": "2024-11",
@@ -31632,10 +31660,11 @@
         "languages": [
             "fr",
             "es",
-            "de"
+            "de",
+            "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-01",
         "tp2": "Thael"
     },
     {
@@ -31995,7 +32024,7 @@
         "tp2": "LensHunt"
     },
     {
-        "name": "The Butter Knife of Balduran",
+        "name": "Butter Knife of Balduran",
         "description": "Ce mini mod ajoute une nouvelle version du Couteau à beurre de Baldurien dans l'échoppe de Deidre (Marché de l'Aventurier) Il s'agit d'une dague +1 qui peut ralentir sa cible à chaque coup porté.",
         "urls": [
             "http://www.shsforums.net/topic/38119-butter-knife-of-balduran/"
@@ -32512,7 +32541,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-04",
+        "last_update": "2024-12",
         "tp2": "whinhill"
     },
     {
@@ -32850,7 +32879,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-12",
         "tp2": "BoneHill"
     },
     {
@@ -33062,7 +33091,7 @@
             "fr",
             "it",
             "ru",
-            "sp"
+            "es"
         ],
         "status": "active",
         "last_update": "2025-01",
@@ -33263,7 +33292,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2024-12",
         "tp2": "whitequeen"
     },
     {
@@ -33739,7 +33768,7 @@
         "tp2": "TobEx_AfterLife"
     },
     {
-        "name": "Todd le super Gars testeur",
+        "name": "Todd le super gars testeur",
         "description": "Ce mod français de Deratiseur ajoute un marchand anachronique qui vend les objets de Morrowind et d'Arcanum. Il attend les aventuriers à différents endroits selon le jeu.|Note : comme la raison d'être du module est de proposer de manière anachronique tous les objets venant d'autres jeux, il ne fait pas de distinction entre les objets inutiles, les objets équilibrés et les objets surpuissants. Installez-le en connaissance de cause. Si vous cherchez des objets équilibrés, voyez plutôt du côté de [[L'interplan]].",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=31924",
@@ -34424,7 +34453,7 @@
         "safe": 1,
         "languages": [],
         "status": "wip",
-        "last_update": "2021-07",
+        "last_update": "2021-09",
         "tp2": "turaldnpc"
     },
     {
@@ -34838,7 +34867,7 @@
         "tp2": ""
     },
     {
-        "name": "Umbra of TROW - Arena",
+        "name": "Umbra of T.R.O.W.",
         "description": "Cet ancien mod chinois organisait des combats d'arène contre de puissantes créatures extra planaires. Le but était simple : vaincre ou mourir ! Le combat contre le grand maître est le seul qui peut vous rapporter des objets.|Quelques puissants objets sont également en vente.",
         "urls": [
             "https://trow.cc/board/index.php?showtopic=13329",
@@ -34860,16 +34889,17 @@
             "Deratiseur"
         ],
         "notes": [
-            "La version officielle est disponible via premier lien mais elle nécessite un enregistrement. La seconde version, compatible EE est téléchargeable via le lien github."
+            "La version officielle est disponible via premier lien mais elle nécessite un enregistrement. La seconde version, compatible EE et avec une traduction anglaise est téléchargeable via le lien github."
         ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
             "cn",
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-01",
         "tp2": "UoT"
     },
     {
@@ -35782,7 +35812,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2023-01",
+        "last_update": "2024-12",
         "tp2": "verrbg2"
     },
     {
@@ -36911,7 +36941,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-01",
         "tp2": "willowisp"
     },
     {
@@ -36946,7 +36976,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-01",
         "tp2": "Will_to_Power"
     },
     {
@@ -37035,7 +37065,6 @@
             "en",
             "ru",
             "fr",
-            "cn",
             "de",
             "es",
             "pl",
@@ -37537,7 +37566,7 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "Yiakri"
+        "tp2": "Yikari"
     },
     {
         "name": "Yvette Romance",
@@ -37803,7 +37832,7 @@
         "tp2": "iiKeyNames"
     },
     {
-        "name": "iiLearn Through Use Mod",
+        "name": "iiLearn Through Use",
         "description": "Créé par igi, ce petit mod s'efforce d'ajouter un peu de réalisme dans le jeu en modifiant le processus d'acquisition de points de compétences martiales. Le joueur ne les obtiendra plus pour des armes qu'il n'a jamais vues, et encore moins utilisées. Désormais, ils ne dépendront plus du niveau des personnages, mais de l'arme et de la durée pendant laquelle ils se sont battus (alors que les compétences seront limitées par les limites de classe). Si vous utilisez certaines armes assez longtemps, vous apprendrez à mieux les manier, même si vous ne tuez pas plusieurs milliers de créatures ou n'accomplissez pas plusieurs quêtes.|Un point de compétence est accordé après un nombre déterminé de coups réussis. Le programme d'installation vous permet de choisir le nombre de coups nécessaires pour obtenir chacun des 5 points de compétences martiales. De plus, en option, vous pouvez décider de rendre obligatoire un entraînement avant de valider vos points, gratuitement ou pas.",
         "urls": [
             "https://github.com/btigi/iiLearnThroughUse"
@@ -37862,7 +37891,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2011-11",
+        "last_update": "2011-09",
         "tp2": "iiProjectileR"
     },
     {
@@ -38516,7 +38545,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-12",
         "tp2": "Derats_Combino"
     },
     {
@@ -38937,7 +38966,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-05",
+        "last_update": "2024-12",
         "tp2": "AllThingsMazzy"
     },
     {
@@ -39422,7 +39451,7 @@
             "jp"
         ],
         "status": "active",
-        "last_update": "2024-04",
+        "last_update": "2024-12",
         "tp2": "WilsonChronicles"
     },
     {
@@ -39579,7 +39608,8 @@
             "it",
             "pl",
             "ru",
-            "es"
+            "es",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-11",
@@ -39718,7 +39748,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-04",
+        "last_update": "2024-12",
         "tp2": "groveofchaos"
     },
     {
@@ -39745,11 +39775,12 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2024-11",
-        "tp2": "jaheirafriendship"
+        "last_update": "2024-12",
+        "tp2": "JaheiraFriendship"
     },
     {
         "name": "The Bloodied Stings of Barovia",
@@ -39774,7 +39805,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-12",
         "tp2": ""
     },
     {
@@ -40006,7 +40037,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-03",
+        "last_update": "2024-12",
         "tp2": "Derats_Illo"
     },
     {
@@ -40036,7 +40067,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-03",
+        "last_update": "2024-12",
         "tp2": "Derats_Illum"
     },
     {
@@ -40714,7 +40745,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2023-11",
+        "last_update": "2023-10",
         "tp2": "drunkshaders"
     },
     {
@@ -40820,7 +40851,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-11",
+        "last_update": "2024-12",
         "tp2": ""
     },
     {
@@ -41604,7 +41635,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-01",
         "tp2": "lca"
     },
     {
@@ -41697,7 +41728,7 @@
             "cz"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-12",
         "tp2": "infinity_ui"
     },
     {
@@ -41901,7 +41932,7 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "0dbae"
+        "tp2": "zdbae"
     },
     {
         "name": "Nalia At Last",
@@ -41970,7 +42001,7 @@
         "tp2": "BG1NPCSoA"
     },
     {
-        "name": "AskiiKits",
+        "name": "Askii's Kits",
         "description": "Ce mod contient 4 kits.|Le `Capitaine`, guerrier charismatique qui se sert de son autorité pour optimiser les performances de son équipe ou briser moralement son adversaire, doté d'une capacité de résistance importante et d'une protection contre la confusion.|Le `Lanceur de flèchettes`, voleur adroit, sournois et amateur de boisson alcoolisée, il est capable de détourner l'attention de ses adversaires et de lancer des bombes littéralement enivrantes.|Le `Prêtre de Mystra` profite quand à lui d'un bonus sur les temps d'incantation des sorts, il peut également, pendant un tour, augmenter drastiquement le niveau d'enchantement d'une arme. Il a également accès à quelques sorts supplémentaires.|Le `Virtuose` est un mage aussi talentueux que spécialisé, sous entendu inapte à autre chose que lancer des sorts (mais laissons les autres tâches de moindre importance aux gens de moindre importance ?). Il possède un bonus sur les temps d'incantation des sorts et un bonus sur le niveau de mage, en plus de pouvoir mémoriser plus de sorts que ces congénères. En contrepartie, il a un malus sur sa classe d'armure et sur ses jets de sauvegardes (qui augmentent au fil des niveaux). Il ne peut apprendre à manier une arme et subit un malus de 4 en Sagesse.",
         "urls": [
             "https://github.com/fmugra/AskiiKits"
@@ -44998,10 +45029,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2024-12",
-        "tp2": ""
+        "tp2": "mkhiinbg2"
     },
     {
         "name": "Reactivity Pack",
@@ -45676,7 +45709,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2024-12",
         "tp2": ""
     },
     {
@@ -45787,7 +45820,7 @@
     },
     {
         "name": "Mods_Tweaker",
-        "description": "Ce mod permet revisite légèrement de vieux mods en leur donnant plus de cohérence. Tous les composants sont optionnels et les mods doivent être installés avant celui-ci. On retrouve notamment : [[Horace]], [[Chiara NPC]], [[Moddie the vixen]], [[Ninafer]], [[Thael]], [[Sub-zero]], [[Yikari]], [[Umbra of TROW - Arena]], [[Jamella's Diablo2 Item Store]].",
+        "description": "Ce mod permet revisite légèrement de vieux mods en leur donnant plus de cohérence. Tous les composants sont optionnels et les mods doivent être installés avant celui-ci. On retrouve notamment : [[Horace]], [[Chiara NPC]], [[Moddie the vixen]], [[Ninafer]], [[Thael]], [[Sub-zero]], [[Yikari]], [[Umbra of T.R.O.W.]], [[Jamella's Diablo2 Item Store]].",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=34693",
             "https://github.com/Deratiseur/Mods_Tweaker/"
@@ -45920,7 +45953,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2023-05",
+        "last_update": "2023-03",
         "tp2": "multiple"
     },
     {
