@@ -644,7 +644,7 @@
         "name": "Aerie Portrait Pack",
         "description": "Contrairement à ce que son nom suggère, ce mod install toute une série de portraits utilisables par vos personnages, ainsi que des portraits alternatifs pour la plupart des PNJ recrutables de BG et de BG2.",
         "urls": [
-            "http://www.shsforums.net/files/file/947-aerie-portait-pack/"
+            "http://www.shsforums.net/topic/46830-aerie-portait-pack/"
         ],
         "categories": [
             "Portrait et son"
@@ -655,14 +655,16 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Lady of payne"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2011-01",
         "tp2": ""
     },
     {
@@ -1495,7 +1497,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Tioma"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, les derniers composants qui les installent dans des magasins écrasent les fichiers .sto et rendent donc ce mod incompatible avec d'autres. À installer à vos risques et périls."
@@ -2122,7 +2126,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Razfallow"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -3233,7 +3239,9 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "Ólafur J. Straumland"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -3610,7 +3618,9 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "trebusze"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -3807,7 +3817,9 @@
             "BGT",
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Victor"
+        ],
         "team": [
             "Corran001"
         ],
@@ -5115,7 +5127,9 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Elhoe"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -5768,7 +5782,8 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE"
         ],
         "authors": [
             "olimikrig"
@@ -6006,7 +6021,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "aWoundedLion"
+        ],
         "team": [],
         "notes": [
             "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Perils of Branwen]], [[Branwen NPC for BGII]] et [[BG1 NPC in SoA&ToB]]."
@@ -6077,7 +6094,7 @@
             "EET"
         ],
         "authors": [
-            "LadeJarl"
+            "Brendan Bellina"
         ],
         "team": [],
         "notes": [],
@@ -6415,7 +6432,7 @@
     },
     {
         "name": "Calin",
-        "description": "Ce mod ajoute Calin, un maître-lame humain dans BG2. Calin est neutre et bon et romancera une femme elfe, demi-elfe, humaine et d'alignement non-maléfique. Il a des banters avec tous les PNJ de Bioware; ainsi qu'une voie de l'amitié. Il a un sérieux problème avec les voleurs, et ses commentaires dans le jeu sont durs, mais il a une raison pour cela. Il fera la cour aux voleuses, mais il demandera au PC de faire un sacrifice pour que la romance ait lieu si le PC a la guilde des voleurs... Sinon, il quittera le groupe.",
+        "description": "Ce mod ajoute Calin, un maître-lame humain dans BG2. Calin est neutre et bon et romancera une femme elfe, demi-elfe, humaine et d'alignement non-maléfique. Il a des banters avec tous les PNJ de Bioware; ainsi qu'une voie de l'amitié. Il a un sérieux problème avec les voleurs, et ses commentaires dans le jeu sont durs, mais il a une raison pour cela. Il fera la cour aux voleuses, mais il demandera au PC de faire un sacrifice pour que la romance ait lieu si le PC s'est affilié à la guilde des voleurs... Sinon, il quittera le groupe.",
         "urls": [
             "https://www.gibberlings3.net/files/file/1010-calin/"
         ],
@@ -7424,7 +7441,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Tapio Kivikkola"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -7803,10 +7822,13 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Aion"
+        ],
         "team": [],
         "notes": [
-            "Malheureusement, il semble avoir disparu. Le lien proposé est un miroir, et peut disparaître à tout moment."
+            "Malheureusement, il semble avoir disparu. Le lien proposé est un miroir, et peut disparaître à tout moment.",
+            "Attention : il utilise le même portrait que [[Moddie the vixen]]."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -8326,7 +8348,8 @@
         "name": "Crusader Pack",
         "description": "Ce mod ajoute trois nouveaux profils|`Champion of Torm` : bonus aux jets de sauvegarde +3, +3 aux dégâts et au tac0 pendant 5 rounds, une Imposition des mains supplémentaire par jour tous les 4 niveaux. Ne peut utiliser des armes à distance.|`Energist` : Possède 5 compétences spéciales, CA +2 tous les 10 niveaux. Ne peut utiliser des armes à distance ou porter une armure.|`Adventurer` : bonus de 20 au Crochetage et à la Détection de pièges. Connaissance +30. Pas de bonus multiplicateur d'attaque sournoise.|Ajoute aussi trois nouveaux objets dans le jeu.",
         "urls": [
-            "http://america.iegmc.net/moongaze/"
+            "http://america.iegmc.net/moongaze/",
+            "http://www.mediafire.com/download/2u3exty5yene14r/CrusaderPack4.3.rar"
         ],
         "categories": [
             "Kit",
@@ -8341,7 +8364,8 @@
         ],
         "team": [],
         "notes": [
-            "Fichier `Crusade_v4.rar`."
+            "Fichier `Crusade_v4.rar`.",
+            "Le lien mediafire propose la version 4.3."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -8441,7 +8465,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "AdamRundolf001"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -8652,7 +8678,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Aaron O'Neil"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -8878,7 +8906,9 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Kailu"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -9580,7 +9610,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "yummy1"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -9627,7 +9659,9 @@
         "games": [
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "Macready"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -9848,7 +9882,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Baezlebub"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -10239,7 +10275,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "phordicus"
+        ],
         "team": [],
         "notes": [
             "Attention : Le lien de téléchargement médiafire est temporaire. Prévenez-nous s'il disparaît !"
@@ -10810,7 +10848,9 @@
             "IWD2",
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "drake127"
+        ],
         "team": [],
         "notes": [
             "Il est désormais obsolète et a été remplacé par [[The Tweaks Anthology]]."
@@ -12263,7 +12303,9 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "Eirinjas"
+        ],
         "team": [],
         "notes": [
             "Malheureusement, il s'installe avec IEES ou IE Editor Pro, de vieux outils de modding (vous trouverez leur liens de téléchargement dans le forum de la Forge de GrondeMarteau). Évitez-le comme la peste."
@@ -13128,7 +13170,9 @@
         "team": [
             "Galathée"
         ],
-        "notes": [],
+        "notes": [
+            "Il est existe un mod similaire pour les versions EE : [[Protagonist Can Die]]."
+        ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -13379,7 +13423,7 @@
     },
     {
         "name": "Genwas Bestienmod BG2:EE",
-        "description": "Ce mod en allemand d'acquérir des bêtes (gnoll, troll, troll fantôme, élémentaire de terre) à Ust Natha : elle peuvent changer de région, être invitées par dialogue à attendre ou à garder un endroit. Un nouveau dresseur peut augmenter leurs compétences et proposer des équipements spéciaux : cage à bestiaux (Permet de ranger les bestiaux), packs d'équipement (meilleur équipement pour les créatures), œil de Pomp (permet de voir à travers les yeux de la bête équipée)... Par ailleurs, vous pourrez également acheter à un garçon des bas quartiers d'Athkatla un furet entraîné au vol à la tire.",
+        "description": "Ce mod en allemand permet d'acquérir des bêtes (gnoll, troll, troll fantôme, élémentaire de terre) à Ust Natha : elle peuvent changer de région, être invitées par dialogue à attendre ou à garder un endroit. Un nouveau dresseur peut augmenter leurs compétences et proposer des équipements spéciaux : cage à bestiaux (Permet de ranger les bestiaux), packs d'équipement (meilleur équipement pour les créatures), œil de Pomp (permet de voir à travers les yeux de la bête équipée)... Par ailleurs, vous pourrez également acheter à un garçon des bas quartiers d'Athkatla un furet entraîné au vol à la tire.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/genwas-bestienmod-bg2-ee.43/"
         ],
@@ -13390,7 +13434,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Genwa"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -13416,7 +13462,9 @@
             "BG2",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Genwa"
+        ],
         "team": [],
         "notes": [
             "Utilisez le premier lien pour télécharger la version pour le jeu original, le second pour la version EE."
@@ -13441,7 +13489,9 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Genwa"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -13488,7 +13538,9 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "Genwa"
+        ],
         "team": [],
         "notes": [
             "Attention : Ce mod n'est pas compatible avec les composants `Envoyer les PNJ de BioWare dans une auberge` de [[The Tweaks Anthology]] et `Possibilité d'envoyer les PNJ attendre dans une auberge` du [[The BG1NPC Project]]."
@@ -14335,7 +14387,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Yarpen"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -14582,7 +14636,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Baronius"
+        ],
         "team": [
             "Tannerhell"
         ],
@@ -14607,7 +14663,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Baronius"
+        ],
         "team": [
             "Tannerhell"
         ],
@@ -15465,7 +15523,9 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "Victor"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -16036,7 +16096,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "el.critto"
+        ],
         "team": [],
         "notes": [
             "Non compatible avec le [[BG2 FixPack]], la version pour le jeu original est disponible dans le premier lien. Le second renvoie à la version pour les jeux EE."
@@ -17621,7 +17683,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "nullset"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -18096,9 +18160,7 @@
     {
         "name": "Kensai Ryu's Restored Drow Innates Abilities",
         "description": "Ce petit mod restaure les capacités innées des elfes noirs prévues par AD&D, mais seulement dans l'Ombreterre : Globe d'obscurité, Globe d'obscurité amélioré, Lueurs dansantes et Feu féerique.",
-        "urls": [
-            "http://academia.clandlan.net/?page=academia/view&id=116"
-        ],
+        "urls": [],
         "categories": [
             "Gameplay"
         ],
@@ -19248,7 +19310,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Giggling Gelugon"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -19631,7 +19695,9 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "trebusze"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -19933,7 +19999,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "macholy"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -20500,14 +20568,16 @@
             "BG",
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Grog"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2003-04",
         "tp2": "non-weidu"
     },
     {
@@ -21059,7 +21129,9 @@
         "games": [
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Starn"
+        ],
         "team": [],
         "notes": [
             "Son développement semble avoir été abandonné et il n'est plus possible de le télécharger."
@@ -21246,10 +21318,10 @@
             "IWD",
             "IWD2"
         ],
-        "authors": [],
-        "team": [
+        "authors": [
             "Luren"
         ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -21611,7 +21683,7 @@
             "BGT"
         ],
         "authors": [
-            "Wounded Lion"
+            "aWoundedLion"
         ],
         "team": [
             "Shaywen",
@@ -22943,7 +23015,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Daephon"
+        ],
         "team": [],
         "notes": [
             "Il s'agit d'un mod override. Lui préférer des mods plus sophistiqués comme [[The Tweaks Anthology]]."
@@ -23041,10 +23115,10 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
-        "team": [
+        "authors": [
             "Luren"
         ],
+        "team": [],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
@@ -26752,7 +26826,7 @@
     },
     {
         "name": "Revised Forgotten Wars Item Pack",
-        "description": "Ce mod tant aimé des premiers jours avait disparu avec son <a href=\"http://iem.rp-addict.com/mirrors/RFWIP.rar\">lien de téléchargement officiel</a>. Il est ressuscité avec bon nombre de corrections de bugs !",
+        "description": "Ce mod offre un pack d'objets très puissants.",
         "urls": [
             "http://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=30367"
         ],
@@ -26763,7 +26837,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "mrennigma"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -27236,7 +27312,7 @@
     },
     {
         "name": "Rukrakia",
-        "description": "Ce mod ajoute un nouveau PNJ, Rukrakia, originaire des montagnes du Calimshan. Généralement amicale et sympathique, c'est aussi une guerrière/voleuse compétente qui se sert impitoyablement de son couteau. Elle est ouverte à une romance avec un personnage masculin et dispose de ses propres quêtes. De nombreuses heures de jeu, de nouvelles zones (ToB uniquement).",
+        "description": "Ce mod ajoute un nouveau PNJ, Rukrakia, originaire des montagnes du Calimshan. Généralement amicale et sympathique, c'est aussi une guerrière/voleuse compétente qui se sert impitoyablement de son couteau. Elle est ouverte à une romance avec un personnage masculin et dispose de ses propres quêtes. De nombreuses heures de jeu, de nouvelles zones (ToB uniquement).|FOR 15, DEX 24, CON 16, INT 18, SAG 16, CHA 21.",
         "urls": [
             "http://www.shsforums.net/files/file/1269-rukrakia/"
         ],
@@ -27252,7 +27328,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est en coréen."
+            "Ce mod est en coréen mais la voix du personnage est en anglais."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -27598,7 +27674,8 @@
         ],
         "team": [],
         "notes": [
-            "Utilisez le lien github qui vous permettra de télécharger la version EE réalisée par Greener. Elle ne fonctionne pas sur les jeux originaux."
+            "La premier lien contient la version de Maurolava, compatible avec les jeux originaux.",
+            "Utilisez le lien github pour la version EE réalisée par Greener. Elle ne fonctionne pas sur les jeux originaux."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -28071,7 +28148,9 @@
             "IWD2",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Sentrizeal"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -28191,11 +28270,9 @@
         "authors": [
             "Lava Del'Vortel"
         ],
-        "team": [
-            "Shodead"
-        ],
+        "team": [],
         "notes": [],
-        "translation_state": "wip",
+        "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
@@ -28204,7 +28281,7 @@
     },
     {
         "name": "Shadi's Soundsets",
-        "description": "Pack de 4 voix (en anglais) : Merlin (Merlin l'Enchanteur), Robin des Bois (Sacré Robin des Bois), Oncle Iroh (Avatar, le dernier maître de l'air) et Garret (Thief II\").",
+        "description": "Pack de 4 voix (en anglais) : Merlin (Merlin l'Enchanteur), Robin des Bois (Sacré Robin des Bois), Oncle Iroh (Avatar, le dernier maître de l'air) et Garret (Thief II).",
         "urls": [
             "https://www.nexusmods.com/baldursgate2ee/mods/6"
         ],
@@ -28214,7 +28291,9 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "Shadibadoo"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -28471,7 +28550,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "CalicoCrow"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -28497,7 +28578,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "CalicoCrow"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -28523,7 +28606,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "CalicoCrow"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -28549,7 +28634,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "CalicoCrow"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -28575,7 +28662,9 @@
             "BGT",
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "CalicoCrow"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -28745,26 +28834,40 @@
     },
     {
         "name": "Sigil's Birthday Mod",
-        "description": "Plutôt amusant, ce mod ajoute dans votre inventaire une nouvelle amulette qui vous permet de convoquer des gens qui vous donneront certains bonus.",
+        "description": "Plutôt amusant, ce mod ajoute dans votre inventaire une nouvelle amulette qui vous permet de convoquer une des 12 célèbres personnalités du forum de Sigil. Chacune d'entre elle vous donnera un buff efficace si vous êtes hors combat ou un lancera un puissant sort offensif si vous êtes en combat.",
         "urls": [
-            "https://files.sigil.cz/mods/birthdaymod.rar"
+            "https://files.sigil.cz/mods/birthdaymod.rar",
+            "https://github.com/Plutonium-X/MISC_Sigil"
         ],
         "categories": [
             "Sort et objet"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET",
+            "IWDEE"
         ],
-        "authors": [],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
+        "authors": [
+            "Sigil"
+        ],
+        "team": [
+            "Deratiseur"
+        ],
+        "notes": [
+            "Choisissez le lien github pour la version EE (et traduite en français) et l'autre lien pour la version originelle."
+        ],
+        "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "cz",
+            "en",
+            "fr"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2025-01",
+        "tp2": "sigil_bd_mod"
     },
     {
         "name": "Silver Staff of Aule",
@@ -30239,7 +30342,7 @@
         "tp2": "subrace"
     },
     {
-        "name": "Subraces pack (de Tioma)",
+        "name": "Subraces pack",
         "description": "Ce mod ajoute deux nouvelles sous-races, les \"sun and wood\" elfes (elfes de soleil et elfes des bois), aux 6 sous-races déjà présentes (humain, aasimar, tiefelin, elfe de la lune, drow, elfe sauvage).",
         "urls": [
             "https://sorcerers.net/Games/IWD2/index_mods.php"
@@ -30250,7 +30353,9 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Tioma"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -30405,7 +30510,9 @@
             "SoD",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Rodman49"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -30820,8 +30927,10 @@
     },
     {
         "name": "TS25 MiniMod",
-        "description": "Ce mod japonais ajoutait 5 petites quêtes. Son lien de téléchargement a disparu.",
-        "urls": [],
+        "description": "Ce mod japonais ajoute plusieurs séries de petites quêtes et des évènements supplémentaires.|Un donjon est ajouté dans le Tertre des Trolls, disponible à la fin de quête de Franc-Marché.|L'odeur du Lotus Noir, une petite quête de recherche à Athkatla.|Une nouvelle quête offerte par un sorcier dans la Promenade de Waukyne.|Une femme requiert votre aide après la mort de Pimlico et la découverte du Livre de Gaza.",
+        "urls": [
+            "https://www.mediafire.com/file/tq96ggvsoxo1b4b/TS25MiniMod_v2_s35_n86.7z/file"
+        ],
         "categories": [
             "Quête"
         ],
@@ -30829,15 +30938,19 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "TS25"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
-        "languages": [],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "safe": 2,
+        "languages": [
+            "jp"
+        ],
+        "status": "active",
+        "last_update": "2009-03",
+        "tp2": "ts25mini"
     },
     {
         "name": "TWM_GUI",
@@ -30905,7 +31018,8 @@
         "name": "Tactics Remix",
         "description": "Ce mod est un remix de son prédécesseur [[Tactics]] adapté pour BG2EE et EET.",
         "urls": [
-            "https://www.morpheus-mart.com/tactics-remix"
+            "https://www.morpheus-mart.com/tactics-remix",
+            "https://github.com/zj11223344/Tactics-Remix"
         ],
         "categories": [
             "Script et tactique"
@@ -30915,11 +31029,6 @@
             "EET"
         ],
         "authors": [
-            "Wes Weimer",
-            "Kensai Ryu",
-            "Ishan",
-            "Gebhard Blucher",
-            "Xyx",
             "morpheus562"
         ],
         "team": [
@@ -30927,21 +31036,25 @@
             "Archange de la Redemption",
             "Laurent Duvernet",
             "Artemidore",
-            "Cocobard"
+            "Cocobard",
+            "JohnBob"
         ],
         "notes": [
-            "Incompatible avec [[Spell Revisions]]."
+            "Incompatible avec [[Spell Revisions]].",
+            "Le premier lien est officiel mais non traduit.",
+            "La version github est non officielle mais la traduction française est présente."
         ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
             "en",
             "cn",
-            "es"
+            "es",
+            "fr"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": "Tactics-Remix"
+        "last_update": "2024-05",
+        "tp2": "tactics-remix"
     },
     {
         "name": "Tactics4IWD2 par Wu Min",
@@ -31285,7 +31398,9 @@
         "games": [
             "PST"
         ],
-        "authors": [],
+        "authors": [
+            "Tchos"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
@@ -32273,6 +32388,7 @@
         "name": "The Elven Package",
         "description": "Ce mod ajoute deux profils de guerrier elfe : Bladesinger et Elven Knight.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/9227-racial-packages/",
             "http://iegmc.shphockey.com/racialpacks/elven_pack.rar"
         ],
         "categories": [
@@ -32282,14 +32398,16 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "St_Vitruvius"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2007-01",
         "tp2": ""
     },
     {
@@ -32845,6 +32963,7 @@
         "description": "Qu'est-ce que Secret of Bone Hill ? Hé bien c'est un gros mod de quête pour BG1 (BGT requis), créé par Sir BillyBob, qui adapte deux scénarios de jeu de rôle papier : L1 et L2 dans l'univers Greyhawk. Au programme : des dizaines de nouvelles cartes, des magasins, des quêtes et un personnage recrutable (Fabio).|L'histoire en elle-même se passe sur l'île de Lendore, à proximité de la ville de Restenford. Pelltar, un mage que vous rencontrez dans le temple de Lathandre au chapitre 4 (dès que vous avez fini les mines de Nashkel et que vous pouvez vous rendre au camp des bandits), sera à même de vous y téléporter et de vous en sortir, une fois votre aide apportée au village.|La 1ère partie est pré-requise pour débloquer la 2nde que vous pourrez atteindre après votre sortie des catacombes de Château-Suif. Vous rencontrerez là Fabio (un barde humain) ou Pelltar qui vous demanderont de retourner à Restenford avec eux, pour élucider cette fois-ci un mystérieux meurtre...",
         "urls": [
             "http://www.shsforums.net/files/file/1076-the-secret-of-bonehill/",
+            "http://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507",
             "https://github.com/RoxanneSHS/BoneHill"
         ],
         "categories": [
@@ -32865,6 +32984,7 @@
         ],
         "notes": [
             "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion. Le mod [[Worldmap]] est indispensable.",
+            "Le lien athkatla propose un fix pour les versions non EE.",
             "Choississez le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
@@ -33460,7 +33580,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "wildgirlmods"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -33567,7 +33689,9 @@
         "games": [
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Genwa"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -34526,7 +34650,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Ghreyfain"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -34824,7 +34950,9 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Rodman49"
+        ],
         "team": [],
         "notes": [
             "A été intégré à [[Super Ultimate portrait pack]]"
@@ -35325,7 +35453,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2009-12",
-        "tp2": ""
+        "tp2": "UCFOW"
     },
     {
         "name": "Universal party AI script",
@@ -35694,7 +35822,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "maus"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -35964,7 +36094,9 @@
         "games": [
             "BG2EE"
         ],
-        "authors": [],
+        "authors": [
+            "CalicoCrow"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -37116,7 +37248,9 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "aWoundedLion"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -39123,7 +39257,8 @@
         "name": "Sarevok Restore (Sarevok Wiederherstellung)",
         "description": "Dans ToB original, Sarevok n'a pas son équipement connu de Baldur's Gate, qui lui donne son apparence démoniaque caractéristique. Ce mod lui restitue son équipement magique dès le début de Trône de Bhaal, c'est-à-dire qu'il le porte déjà lorsque le groupe le rencontre : un casque, une armure et une épée à deux mains.|Deux composants optionnels permettent de lui attribuer des portraits alternatifs, et un dernier d'ajouter trois lignes de son à Sarevok Nécrophage.",
         "urls": [
-            "http://www.baldursgate-refugium.de/mods/sarevok-wiederherstellung/"
+            "https://www.baldurs-gate.de/index.php?threads/sarevok-wiederherstellung.43425/",
+            "https://drive.google.com/drive/folders/118zqAQJu6atTvaPF_pc_SzPiVLHmBWQ_"
         ],
         "categories": [
             "PNJ (autre)"
@@ -39134,13 +39269,15 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Nicolas Peters"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [],
-        "status": "missing",
+        "status": "active",
         "last_update": "",
         "tp2": ""
     },
@@ -46287,5 +46424,42 @@
         "status": "missing",
         "last_update": "2013-09",
         "tp2": "WychowanekGoriona"
+    },
+    {
+        "name": "The Bullet Sponge (BS) Mod",
+        "description": "Ce mod comprend de petites modifications visant à ajuster la difficulté du jeu en forçant brutalement les statistiques des créatures qui ne font pas partie du groupe. Il modifie les statistiques des créatures afin de le rendre plus facile ou plus difficile. Le tout est modifiable par le fichier `_config.txt`.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/39048-introducing-the-bullet-sponge-bs-mod/",
+            "https://github.com/Gibberlings3/bullet_sponge"
+        ],
+        "categories": [
+            "Script et tactique"
+        ],
+        "games": [
+            "BG",
+            "BG2",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET",
+            "IWD",
+            "IWDEE",
+            "IWD2",
+            "PST",
+            "PSTEE"
+        ],
+        "authors": [
+            "CamDawg"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-01",
+        "tp2": "cd_bs"
     }
 ]
