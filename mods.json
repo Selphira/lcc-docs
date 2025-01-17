@@ -20924,12 +20924,12 @@
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2021-09",
-        "tp2": ""
+        "tp2": "Minions Tied to Summoner"
     },
     {
         "name": "Minor NPC Portraits for BG2:EE",
@@ -24482,7 +24482,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
+            "Voici une autre <a href='https://github.com/RoxanneSHS/Magestronghold/' target='_blank'>version non officielle compatible EE</a>."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -34018,7 +34018,8 @@
         "name": "Tortured Soul",
         "description": "Le concepteur d'origine a poursuivi le développement du mod dans une version stand-alone, avec moults remaniements de textes. Cependant, bien que compatible avec [[Baldurdash-WeiDU]] 1.75 (obligatoire) et avec les autres mods de Vlad que sont Keldorn's Romance (fortement recommandé) et [[Never Ending Journey]]3 (obligatoire), elle est incompatible avec la plupart des mods WeiDU y compris le [[BG2 FixPack]] !",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394"
+            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394",
+            "https://github.com/RealApxu/TorturedSoulsLite"
         ],
         "categories": [
             "Quête",
@@ -34026,17 +34027,30 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Vlad Papper",
+            "Domi Sotto",
+            "Bill Harper",
+            "Arkie"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version EE et l'autre lien pour la version originelle.",
+            "Pour les version EE, il existe une version stand-alone de Sime : [[Vlad's Sime NPC]]."
+        ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-05",
+        "tp2": "vladtslite"
     },
     {
         "name": "Tortured Souls-BP",
@@ -46461,5 +46475,64 @@
         "status": "active",
         "last_update": "2025-01",
         "tp2": "cd_bs"
+    },
+    {
+        "name": "Vlad's Sime NPC",
+        "description": "Voici la version stand-alone de Sime issue de [[Tortured Soul]].",
+        "urls": [
+            "https://github.com/Black-Wyrm-Lair/TS_Sime"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Vlad Papper",
+            "Domi Sotto",
+            "Bill Harper",
+            "Arkie"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2022-05",
+        "tp2": "TS_Sime"
+    },
+    {
+        "name": "Etamin's Extra Soundsets",
+        "description": "Ce mod ajoute 57 packs de voix pour les personnages. En polonais.",
+        "urls": [
+            "https://github.com/Eltamin/etamin-soundsets/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Etamin"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2016-12",
+        "tp2": "etamin_soundsets"
     }
 ]
