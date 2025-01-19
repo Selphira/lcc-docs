@@ -13615,7 +13615,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2020-05",
-        "tp2": ""
+        "tp2": "NSC Portraits"
     },
     {
         "name": "Gesen Longbow Conversion",
@@ -46534,5 +46534,196 @@
         "status": "active",
         "last_update": "2016-12",
         "tp2": "etamin_soundsets"
+    },
+    {
+        "name": "Borjoyzee soundset",
+        "description": "Ce mod ajoute des voix aux personnages et des portraits aux personnages.",
+        "urls": [
+            "https://github.com/Boooof/Borjoyzee-Soundset"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Boooof"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2023-05",
+        "tp2": ""
+    },
+    {
+        "name": "Benny soundset",
+        "description": "Ce mod propose un jeu de voix en anglais.",
+        "urls": [
+            "https://github.com/Boooof/Benny-Soundset"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Boooof"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-07",
+        "tp2": "Benny Soundset"
+    },
+    {
+        "name": "Akuro's Original casting sounds",
+        "description": "Ce mod propose les sons d'incantation des jeux de BG1.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/8060/mod-original-casting-sounds",
+            "https://www.nexusmods.com/baldursgate/mods/29"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Akuro"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-05",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Original casting sounds",
+        "description": "Ce mod ajoute les voix d'accompagnement de `Pathfinder : Wrath of the Rightous` dans les éditions EE.",
+        "urls": [
+            "https://github.com/Arvendor/PathfinderVoices_for_EE"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Arvendor"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-10",
+        "tp2": "aw_PF_soundsets"
+    },
+    {
+        "name": "Presidential Pack Project",
+        "description": "Ce mod importe les présidents des États-Unis Biden et Trump dans l'Infinity Engine. Il contient des portraits ainsi que des voix issues d'extraits audios des présidents eux-mêmes.",
+        "urls": [
+            "https://github.com/ABS-official/PresidentialPackProject"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "ABSofficial"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-01",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Some Stable Diffusion Potraits",
+        "description": "Ce mod propose de nouveaux portraits pour les personnages recrutables de BG2EE. Le travail de Stable Diffusion est visible <a href='https://www.reddit.com/r/StableDiffusion/comments/11vommp/controlnet_some_character_portraits_from_baldurs/' target='_blank'>ici</a>.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/87200/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "DraikenWeAre",
+            "Stable Diffusion"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2023-04",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Realistic Portraits for EE",
+        "description": "Ce mod propose de nouveaux portraits réalistes pour tous les personnages recrutables.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/52",
+            "https://www.nexusmods.com/baldursgate2ee/mods/76"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "NolSol"
+        ],
+        "team": [],
+        "notes": [
+            "Le premier lien propose des portraits pour BGEE. Le second pour BG2EE."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-09",
+        "tp2": ""
     }
 ]
