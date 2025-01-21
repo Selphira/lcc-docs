@@ -11104,7 +11104,9 @@
             "Abdel_Adrian"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod a été repris par MindTyrant, voir [[Eldritch Magic Reborn]]."
+        ],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -46725,5 +46727,122 @@
         "status": "active",
         "last_update": "2024-09",
         "tp2": ""
+    },
+    {
+        "name": "Fixing Saves BUG for Lecgacy of Bhaal difficulty",
+        "description": "Ce mod propose un fix pour la difficulté Legacy Of Bhaal qui ajustait les jets de sauvegardes à 20. Ce mod modifie les scripts de la plupart des créatures, leur permettant de modifier leurs propres jets de sauvegarde au fur et à mesure qu'ils apparaissent.",
+        "urls": [
+            "https://github.com/shohysie/LegacyofBhaalFix"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Shohy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2025-01",
+        "tp2": "LegacyofBhaalFix"
+    },
+    {
+        "name": "Fix area-related crashes",
+        "description": "Ce mod propose des fixs pour BG2 afin de corriger les crashs liés aux zones, notamment en corrigant les références erronées.",
+        "urls": [
+            "https://github.com/Argent77/A7-BiffedAreasFix"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2",
+            "Tutu",
+            "BGT"
+        ],
+        "authors": [
+            "Argent77"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod propose 4 composants impactant de façon croissante le jeu. Installez-en la première, si celle-ci ne corrige pas le problème, passez à la seconde etc. Lisez bien le README."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "A7-BiffedAreasFix"
+    },
+    {
+        "name": "Felinoid's BG1 NPC Remix Pack",
+        "description": "Ce mod propose de modifier les personnages de BG1 pour rendre leurs compétences plus conformes à leur histoire et leur classe.|On y retrouve notamment Alora, Branwen, Coran, Imoen, Quayle, Safana, Skie et Tiax.",
+        "urls": [
+            "https://sorcerers.net/Games/BG/index_mods.php"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG"
+        ],
+        "authors": [
+            "Felinoid"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2005-11",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Eldritch Magic Reborn",
+        "description": "Ce mod propose une version mise à jour (et encore incomplète) de [[Eldritch Magic]]. On y retrouve notamment la possibilité de cumuler les pierres ioniques, une revue des armures elfiques ainsi que le Bladesinger Kit.",
+        "urls": [
+            "https://github.com/mentaltyranny/Eldritch-Magic-Reborn"
+        ],
+        "categories": [
+            "Gameplay",
+            "Kit"
+        ],
+        "games": [
+            "BG2EE",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "MindTyrant",
+            "Abdel_Adrian"
+        ],
+        "team": [],
+        "notes": [
+            "La compatibilité IWDEE n'est pas assurée."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-01",
+        "tp2": "emreborn"
     }
 ]
