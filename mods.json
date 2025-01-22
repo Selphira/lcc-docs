@@ -37596,14 +37596,16 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Xyx"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "obsolete",
-        "last_update": "",
+        "last_update": "2005-08",
         "tp2": "non-weidu"
     },
     {
@@ -46844,5 +46846,63 @@
         "status": "active",
         "last_update": "2025-01",
         "tp2": "emreborn"
+    },
+    {
+        "name": "Club Tweak",
+        "description": "Ce mod propose une amélioration du `Gourdin d'os` qui permet d'augmenter de 1 le nombre d'attaque par round de son porteur.",
+        "urls": [
+            "https://github.com/CidBahamut/BG2-ClubTweaks"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE"
+        ],
+        "authors": [
+            "Cid"
+        ],
+        "team": [],
+        "notes": [
+            "Il remplace la description (en anglais) de l'objet pour lui ajouter l'information."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-10",
+        "tp2": "ClubTweaks"
+    },
+    {
+        "name": "The Four",
+        "description": "Ce ajoute 4 objets dans le jeu, chacun protégés par un groupe d'ennemis coriaces. Les objets sont puissants mais imposent également des malus pour les équilibrer.",
+        "urls": [
+            "https://sorcerers.net/Games/dl/eyJpdiI6Ik9ieVY5eTFOeU4rNzhVeENwcHhqSWc9PSIsInZhbHVlIjoiVkMwNkxrSkxkdU1SXC9Id2ZobVNTR0lFbXNHRnFDTDc5RStWZk0xT1JVSWc9IiwibWFjIjoiZWUzZDQ0YjAwNDI4MmY5OTBlNWRhMzFjYzJlZmI4MThmYTBhMmIzY2E5ZTg3NTI0ODY0MzU1Mjc0NDQzZDdmNyJ9"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Sikret"
+        ],
+        "team": [],
+        "notes": [
+            "Le mod requiert ToB ainsi que le mod [[Improved Anvil]] v5 ou plus."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en",
+            "es"
+        ],
+        "status": "active",
+        "last_update": "2008-03",
+        "tp2": "TheFour"
     }
 ]
