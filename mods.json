@@ -5623,7 +5623,7 @@
         "name": "Black Rose Part I: Market Prices",
         "description": "Ce mod ajoute une quête initiée par le magicien Menelaun, dans l'auberge des Sept Vaux, sur la Promenade de Waukyne.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/quests/MarketPrices.zip"
+            "https://baldur.cob-bg.pl/download/bg2/quests/MarketPrices.zip"
         ],
         "categories": [
             "Quête"
@@ -14379,7 +14379,7 @@
         "name": "Harper Scout kit",
         "description": "Ce mod installe la classe de prestige de la Campagne des Royaumes oubliés, l'Agent ménestrel, en deux versions : l'une pour voleur, l'autre pour barde. Pas ailleurs, il ajoute quelques objets liés aux Ménestrels.",
         "urls": [
-            "http://iegmc.shphockey.com/yarpen/HarperScoutv1.rar"
+            "http://iegmc.shphockey.com/yarpen/"
         ],
         "categories": [
             "Kit",
@@ -14393,7 +14393,9 @@
             "Yarpen"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `HarperScoutv1.rar`."
+        ],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -16083,10 +16085,10 @@
     },
     {
         "name": "Improved Anvil",
-        "description": "Contrairement à ce que son nom pourrait laisser penser, ce mod est essentiellement un mod augmentant de manière drastique la difficulté du jeu de base. Il comporte également de nouvelles quêtes, de nouveaux profils (dont le [[Auramaster Druid]] et le [[RiskBreaker]]), un randomisateur, et propose également la possibilité de forger de nombreux objets gros-bills, certes, mais nécessaires pour vaincre les ennemis tout aussi gros-bills.",
+        "description": "Contrairement à ce que son nom pourrait laisser penser, ce mod est essentiellement un mod augmentant de manière drastique la difficulté du jeu de base. Il comporte également de nouvelles quêtes, de nouveaux profils (dont le [[Auramaster Druid]] et le [[RiskBreaker]]), un randomisateur, un nouveau personnage recrutable ([[Sibel]]), et propose également la possibilité de forger de nombreux objets gros-bills, certes, mais nécessaires pour vaincre les ennemis tout aussi gros-bills.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=26",
-            "http://dragonshoard.blackwyrmlair.net/bwl_mods_download.php?mod=54"
+            "http://forums.blackwyrmlair.net/index.php?showforum=99",
+            "https://github.com/critto-bg/ImprovedAnvil/"
         ],
         "categories": [
             "Script et tactique",
@@ -16103,14 +16105,17 @@
         ],
         "team": [],
         "notes": [
-            "Non compatible avec le [[BG2 FixPack]], la version pour le jeu original est disponible dans le premier lien. Le second renvoie à la version pour les jeux EE."
+            "Incompatible avec le [[BG2 FixPack]].|Le mod existe en deux versions : l'une pour les versions originales, l'autre pour les versions EE."
         ],
         "translation_state": "no",
-        "safe": 1,
-        "languages": [],
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-06",
+        "tp2": "ImprovedAnvil"
     },
     {
         "name": "Improved Archer Kit",
@@ -32574,7 +32579,7 @@
         "name": "The Improved Volcano! Pack",
         "description": "Ce mod ajoute le marchand Zodesak dans le village d'Amkethran, près du temple de Waukyne. Il vend des objets et des sorts puissants, le tout à un prix élevé. Comme ce mod a été écrit à la demande de joueurs passionnés, l'auteur n'était pas séduit par son caractère gros-billesque et s'en est détourné.",
         "urls": [
-            "https://github.com/The-Gate-Project/Volcano_Pack"
+            "https://github.com/Black-Wyrm-Lair/Volcano_Pack"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -38336,7 +38341,7 @@
     },
     {
         "name": "Passive Warrior HLAs",
-        "description": "Ce mod vise à réduire la complexité des HLA des guerriers en les transformant en bonus passifs.",
+        "description": "Les capacités de haut niveau (HLA) introduites par Throne of Bhaal ajoutent une complexité et une micro-gestion qui vont à l'encontre du rôle des guerriers, des personnages qui sont restés des participants relativement passifs au combat pendant la majorité des 2 jeux.|Ce mod vise à réduire la complexité des HLA des guerriers en les transformant en bonus passifs.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/37193-passive-warrior-hlas/",
             "https://github.com/Plutonium-X/MISC_Passive-Warrior-HLAs"
@@ -42677,7 +42682,7 @@
         ],
         "team": [],
         "notes": [
-            "Fichier `WillieBruceV31.rar`."
+            "Fichier `WillieBruceV31.rar`.|Disponible aussi ici : https://america.iegmc.com/williebruce/."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -46368,7 +46373,7 @@
         "name": "Kalah",
         "description": "Ce mod polonais modifie la quête du cirque en y ajoutant de petites épreuves. Le résultat de ces épreuves influencent la difficulté du combat final. Un autre composant rend à Aerie métamorphosée son apparence originellement prévue par les développeurs (spoil : ce n'est pas un ogre).",
         "urls": [
-            "http://baldur.cob-bg.pl/node/1936"
+            "https://baldur.cob-bg.pl/node/1936"
         ],
         "categories": [
             "Quête"
@@ -46394,7 +46399,7 @@
         "name": "Resurection mod",
         "description": "Ce mod polonais supprime Résurrection du jeu (les sorts comme le sceptre) et le remplace par un sort qui a ente 20 et 40% de fonctionner (selon le niveau du lanceur de sort) et 10% de chance de détruire le corps. Un composant augmente le prix des services de résurrection dans les temples de 1K par niveau de la peronne morte (ie : 15K pour un perso de lvl 15). Un autre fait que les elfes ne peuvent pas être ressuscités (Aerie / Viconia / Haer'dalis).",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/tweaks/ResurectionMod.zip"
+            "https://baldur.cob-bg.pl/download/bg2/tweaks/ResurectionMod.zip"
         ],
         "categories": [
             "Gameplay"
@@ -46421,7 +46426,7 @@
         "description": "Ce mod polonais propose une dizaine de tweaks pour ToB. Il propose notamment d'invoquer Cespenar pour qu'il puisse forger des objets sans avoir à revenir dans l'Antichambre. L'Esprit du Destin n'invoque plus les personnages mais c'est Charname qui voyage jusqu'à eux, restaurations des cinématiques de la Main…",
         "urls": [
             "http://athkatla.cob-bg.pl/viewtopic.php?t=5139",
-            "http://baldur.cob-bg.pl/node/1923"
+            "https://baldur.cob-bg.pl/node/1923"
         ],
         "categories": [
             "Gameplay"
@@ -46878,7 +46883,7 @@
     },
     {
         "name": "The Four",
-        "description": "Ce ajoute 4 objets dans le jeu, chacun protégés par un groupe d'ennemis coriaces. Les objets sont puissants mais imposent également des malus pour les équilibrer.",
+        "description": "Ce mod ajoute 4 objets dans le jeu, chacun protégés par un groupe d'ennemis coriaces. Les objets sont puissants mais imposent également des malus pour les équilibrer.",
         "urls": [
             "https://sorcerers.net/Games/dl/eyJpdiI6Ik9ieVY5eTFOeU4rNzhVeENwcHhqSWc9PSIsInZhbHVlIjoiVkMwNkxrSkxkdU1SXC9Id2ZobVNTR0lFbXNHRnFDTDc5RStWZk0xT1JVSWc9IiwibWFjIjoiZWUzZDQ0YjAwNDI4MmY5OTBlNWRhMzFjYzJlZmI4MThmYTBhMmIzY2E5ZTg3NTI0ODY0MzU1Mjc0NDQzZDdmNyJ9"
         ],
@@ -46904,5 +46909,119 @@
         "status": "active",
         "last_update": "2008-03",
         "tp2": "TheFour"
+    },
+    {
+        "name": "Sibel",
+        "description": "Ce mod introduit le personnage Sibel Arcanis, une jeune aventurière qui demande de l'aide du protagoniste pour découvrir la vérité derrière la conspiration qui a causé la mort de ses ancêtres.",
+        "urls": [
+            "http://forums.blackwyrmlair.net/index.php?showtopic=5630",
+            "https://github.com/critto-bg/Sibel-NPC"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE"
+        ],
+        "authors": [
+            "el.critto"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod est un stand-alone pour [[Improved Anvil]]."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-06",
+        "tp2": "SibelNPC"
+    },
+    {
+        "name": "Tamika NPC",
+        "description": "Ce mod polonais introduit la chasseuse de primes Tamika, recrutable à l'auberge des Cinq Chopes. Elle est équipée d'un équipement correct ainsi que d'un anneau d'action libre.|FOR 18, DEX 19, CON 17, INT 14, SAG 10, CHA 14.",
+        "urls": [
+            "https://baldur.cob-bg.pl/node/1785"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Skowierski Piotr"
+        ],
+        "team": [],
+        "notes": [
+            "N'a pratiquement pas de dialogue."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2008-02",
+        "tp2": "Lowca1"
+    },
+    {
+        "name": "Dzin Mod",
+        "description": "Ce mod mod polonais ajoute dans le magasin de Deidre une fiole d'un génie marchand qui peut être invoqué une fois par jour. Il vend des objets jusqu'à +2.",
+        "urls": [
+            "http://athkatla.cob-bg.pl/viewtopic.php?t=3112"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Orzel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2009-01",
+        "tp2": "DzinMod"
+    },
+    {
+        "name": "Ineth's collection portraits",
+        "description": "Ce mod propose 3 sets de nouveaux portraits pour tout type de personnage. N'hésitez pas à cliquer sur les liens pour en voir beaucoup plus.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/54685/",
+            "https://forums.beamdog.com/discussion/64954/",
+            "https://forums.beamdog.com/discussion/46782/"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "SoD",
+            "EET",
+            "IWDEE"
+        ],
+        "authors": [
+            "Ineth"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-05",
+        "tp2": ""
     }
 ]
