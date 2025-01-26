@@ -16206,7 +16206,9 @@
         ],
         "games": [
             "BG",
-            "IWD"
+            "IWD",
+            "BGEE",
+            "EET"
         ],
         "authors": [
             "NiGHTMARE"
@@ -47023,5 +47025,112 @@
         "status": "active",
         "last_update": "2022-05",
         "tp2": ""
+    },
+    {
+        "name": "BG1 NPC Portrait Pack (2)",
+        "description": "Ce mod propose une collection de portraits pour les personnages recrutables de BG1 que l'auteur a trouvé au fil des ans.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/14"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "lythacor3"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2023-01",
+        "tp2": ""
+    },
+    {
+        "name": "Improved scripts for your BG/BG2 playing experience",
+        "description": "Ce mod propose une collection de scripts utilisables pour les membres du groupe.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/63928/"
+        ],
+        "categories": [
+            "Script et tactique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "sarevok57"
+        ],
+        "team": [],
+        "notes": [
+            "Il s'agit de la base qui a notamment servi à construire le mod [[Enhanced Powergaming Scripts]]."
+        ],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2017-04",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Pocket-play UI++",
+        "description": "Il s'agit d'une conversion totale de l'interface utilisateur pour IE:EE pour les téléphones. La mise en page est conçue pour une résolution d'écran d'environ 5-6 pouces. Il hérite de nombreuses fonctionnalités du mod [[Dragonspear UI++]] du même auteur, mais il est graphiquement très différent.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/63928/",
+            "https://github.com/Renegade0/PocketPlayUI"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Pecca"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-02",
+        "tp2": "pocket_play_ui"
+    },
+    {
+        "name": "IWD TO BG2 Portrait Pack",
+        "description": "Il s'agit d'un mod qui propose des portraits alternatifs issus de IWD pour les personnages recrutables des BG originaux. Avec en prime des portraits pour les différents enfants de Bhaal et certains PNJ ajoutés par des mods tels que [[Ariena the Half Orc]], [[Kelsey NPC MOD for Baldur’s Gate 2]], [[Solaufein NPC]] et [[Valen NPC]].",
+        "urls": [
+            "https://america.iegmc.com/yarpen"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG",
+            "BG2"
+        ],
+        "authors": [
+            "Yarpen"
+        ],
+        "team": [],
+        "notes": [
+            "Fichier `IWDtoBG2_Portrait_Pack.rar`."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2006-10",
+        "tp2": "IWDPortPack"
     }
 ]
