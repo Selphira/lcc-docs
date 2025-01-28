@@ -16761,7 +16761,7 @@
     },
     {
         "name": "Infinity Sounds",
-        "description": "Anciennement Restored BG1 Sounds, ce petit mod pour Baldur's Gate II restaure de nombreux effets sonores utilisés dans le jeu Baldur's Gate original pour le simple plaisir d'une \"expérience BG1\" un peu plus complète dont certains joueurs semblent nostalgiques.|Certains fichiers audio restaurés ont été nettoyés des artefacts de compression audibles ou de tout degré d'écrêtage. Les voix originales du lanceur de sorts étaient particulièrement affectées et souvent désagréables à écouter.|Installez-le après tout autre mod qui modifie les sorts.",
+        "description": "Anciennement Sounds of the Sword Coast, ce petit mod pour Baldur's Gate II restaure de nombreux effets sonores utilisés dans le jeu Baldur's Gate original pour le simple plaisir d'une \"expérience BG1\" un peu plus complète dont certains joueurs semblent nostalgiques.|Certains fichiers audio restaurés ont été nettoyés des artefacts de compression audibles ou de tout degré d'écrêtage. Les voix originales du lanceur de sorts étaient particulièrement affectées et souvent désagréables à écouter.|Installez-le après tout autre mod qui modifie les sorts.",
         "urls": [
             "http://www.shsforums.net/files/file/1286-infinity-sounds/",
             "https://github.com/Spellhold-Studios/Infinity-Sounds"
@@ -47132,5 +47132,131 @@
         "status": "active",
         "last_update": "2006-10",
         "tp2": "IWDPortPack"
+    },
+    {
+        "name": "38 Subraces for BG:EE",
+        "description": "Voici un mod qui propose des sous-races pour les personnages.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/16668/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Corsymyr"
+        ],
+        "team": [],
+        "notes": [
+            "Le mod a disparu."
+        ],
+        "translation_state": "no",
+        "safe": 0,
+        "languages": [],
+        "status": "missing",
+        "last_update": "2013-03",
+        "tp2": ""
+    },
+    {
+        "name": "Alternative Companions Portraits",
+        "description": "Ce mod remplace les portraits de tous les compagnons principaux ainsi que Sarevok. Ce sont des portraits de haute qualité et adaptés au lore, tirés de nombreuses recherches sur Pinterest.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/7"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "insoneo"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2023-01",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Vurt's 200 Unique Lore Portraits",
+        "description": "Ce mod contient plus de 200 portraits spécialement conçus pour BG.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/68"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2EE"
+        ],
+        "authors": [
+            "vurt"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-08",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Sorcerer portraits for Baldur's Gate and Icewind Dale EE using AI",
+        "description": "Ce mod contient des portraits compatibles pour les jeux de l'infinity engine. Bien que compatible BG, la plupart des avatars portent des vêtements d'hiver ce qui est plus cohérent pour les jeux IWD.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/37"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Cragsand"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-10",
+        "tp2": ""
+    },
+    {
+        "name": "New Container Sounds",
+        "description": "Ce mod remplace de nombreux effets sonores, tels que l'ouverture et la fermeture des portes, des contenants, le crochetage des serrures etc.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/56"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "wes47"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [],
+        "status": "active",
+        "last_update": "2023-09",
+        "tp2": "non-weidu"
     }
 ]
