@@ -260,7 +260,7 @@ class Url:
         return self.get_domain().rpartition(".")[-1]
 
     def get_image_country(self) -> str:
-        country_img = f"{self.get_tld()}-flag-32.png"
+        country_img = f"{self.get_tld()}{self.country_image_suffix}"
         img = ""
         # auto-select
         if os.path.exists(os.path.join(IMG_ROOT, FLAG_DIR, country_img)):
