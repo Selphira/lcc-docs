@@ -486,7 +486,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-02",
         "tp2": "c#sb_silber"
     },
     {
@@ -796,7 +796,9 @@
         "team": [
             "Galathée"
         ],
-        "notes": [],
+        "notes": [
+            "BG sans TotSC n'est plus supporté depuis la version 21."
+        ],
         "translation_state": "todo",
         "safe": 2,
         "languages": [
@@ -806,7 +808,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-02",
         "tp2": "ajantisbg1"
     },
     {
@@ -901,7 +903,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2025-01",
         "tp2": "akgear"
     },
     {
@@ -2271,7 +2273,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2023-05",
+        "last_update": "2025-02",
         "tp2": "ACBre"
     },
     {
@@ -2316,7 +2318,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2023-12",
+        "last_update": "2025-02",
         "tp2": "AC_QUEST"
     },
     {
@@ -2993,7 +2995,8 @@
             "BGEE",
             "BG2EE",
             "EET",
-            "IWDEE"
+            "IWDEE",
+            "PSTEE"
         ],
         "authors": [
             "Deratiseur"
@@ -3007,7 +3010,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-01",
         "tp2": "Derats_AutoRest"
     },
     {
@@ -3220,11 +3223,11 @@
             "en",
             "fr",
             "de",
-            "pl",
+            "it",
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-06",
+        "last_update": "2025-01",
         "tp2": "bg1re"
     },
     {
@@ -3724,7 +3727,7 @@
             "EET"
         ],
         "authors": [
-            "Gibberlings3"
+            "Multiple"
         ],
         "team": [
             "Anomaly"
@@ -3746,7 +3749,7 @@
             "tr"
         ],
         "status": "active",
-        "last_update": "2019-01",
+        "last_update": "2025-01",
         "tp2": "bg2fixpack"
     },
     {
@@ -4565,7 +4568,7 @@
         "description": "Ce mod énorme ajoute les zones nocturnes qui manquent dans toutes les zones principales sauf Baldur's Gate et ajoute les minimaps nocturnes manquantes dans toutes les zones principales. Il corrige également des défauts graphiques dans les différentes cartes du jeu (fenêtres qui s'affichent la nuit et pas le jour - ou vice versa, porte mal ajustée, défaut dans les images de nuit, etc.). Il donne à tous les braseros muraux leurs flammes manquantes. Enfin, presque toutes les vilaines taches bleues et violettes ont été supprimées des rues. Il a été réalisé en collaboration avec Overhaul Studios.",
         "urls": [
             "http://www.shsforums.net/forum/641-bg-graphics-overhaul/",
-            "https://github.com/SpellholdStudios/BGGOEET"
+            "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul"
         ],
         "categories": [
             "Cosmétique"
@@ -4579,7 +4582,8 @@
         ],
         "authors": [
             "Yovaneth",
-            "White Agnus"
+            "White Agnus",
+            "Weigo"
         ],
         "team": [],
         "notes": [
@@ -4589,7 +4593,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-02",
         "tp2": "bggo"
     },
     {
@@ -4618,7 +4622,9 @@
             "Isaya",
             "jazira"
         ],
-        "notes": [],
+        "notes": [
+            "La compatibilité oBG1 sans TotSC n'est plus assurée depuis la v28."
+        ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -4629,10 +4635,11 @@
             "cn",
             "es",
             "pl",
-            "ru"
+            "ru",
+            "tu"
         ],
         "status": "active",
-        "last_update": "2023-12",
+        "last_update": "2025-02",
         "tp2": "bgqe"
     },
     {
@@ -7061,10 +7068,11 @@
         "safe": 2,
         "languages": [
             "de",
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-01",
         "tp2": "chiara"
     },
     {
@@ -8283,10 +8291,11 @@
         "languages": [
             "en",
             "de",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2024-06",
+        "last_update": "2025-01",
         "tp2": "crossmodbg2"
     },
     {
@@ -9291,8 +9300,8 @@
         "tp2": "Derats_kits"
     },
     {
-        "name": "Derat's DAWAP",
-        "description": "Derat's Abolute Wacky Arcanists Pack. Et oui, encore des kits.||Au menu, uniquement pour les jeux EE, des arcanistes qui vous feront changer votre façon de jouer.||Le détail des kits est disponible en suivant le lien de téléchargement",
+        "name": "Derat's Absolute Wacky Arcanists Pack",
+        "description": "Au menu, uniquement pour les jeux EE, des dizaines d'arcanistes qui vous feront changer votre façon de jouer.||Le détail des kits est disponible en suivant le lien de téléchargement.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33790",
             "https://github.com/Deratiseur/DAWAP"
@@ -9318,7 +9327,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-01",
         "tp2": "Derats_Dawap"
     },
     {
@@ -11307,10 +11316,11 @@
             "pl",
             "ru",
             "es",
-            "br"
+            "br",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2024-06",
+        "last_update": "2025-02",
         "tp2": "c#endlessbg1"
     },
     {
@@ -13199,7 +13209,8 @@
         "languages": [
             "fr",
             "de",
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-02",
@@ -13287,10 +13298,11 @@
         "languages": [
             "en",
             "de",
-            "fr"
+            "fr",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2019-02",
+        "last_update": "2025-01",
         "tp2": "gavin"
     },
     {
@@ -13321,10 +13333,11 @@
         "translation_state": "wip",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2019-02",
+        "last_update": "2025-01",
         "tp2": "gavin_bg2"
     },
     {
@@ -13771,7 +13784,7 @@
         "tp2": ""
     },
     {
-        "name": "Glam NPC Pack",
+        "name": "Glam's NPC Pack",
         "description": "Ce pack de NPC comprend le mod [[Vynd]] (assassin drow) ainsi que quatre nouveaux PNJ (un nain, un halfling, un prêtre de Talos et... un dragon ?), qui interagiront tous les uns avec les autres et le casting classique de Baldur's Gate. Chacun comprend une voie d'amitié et un éventail de dialogues initiés par le joueur, avec plus d'options s'ouvrant au fur et à mesure que le jeu progresse.|Vous voulez des quêtes ? Vous en aurez ! Trois des quatre nouveaux personnages sont livrés avec leurs propres missions personnelles, qui doivent être accomplies pour débloquer tous leurs dialogues initiés par les joueurs, ainsi qu'un dernier discours inspiré par la loyauté en fin de partie.|Vous voulez du butin ? Vous trouverez beaucoup de nouveaux objets uniques, certains fournis avec les personnages, d'autres trouvés grâce à leurs quêtes, ou tout simplement un abattage aveugle. Accumulez-les tous !",
         "urls": [
             "https://www.gibberlings3.net/files/file/962-glams-npc-pack/",
@@ -13798,8 +13811,8 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2019-07",
-        "tp2": "GlamNPCPack"
+        "last_update": "2025-01",
+        "tp2": "glamnpcpack"
     },
     {
         "name": "Gloran NPC",
@@ -14038,7 +14051,7 @@
     },
     {
         "name": "Grimuars",
-        "description": "Ce mod ajoute de nouveaux grimoires dans le jeu.|En cas de problème avec le site SHS, vous pouvez le télécharger directement <a href=\"https://dragonshorn.info/download/Grimuars-v4.1.rar\">ici</a>.",
+        "description": "Ce mod ajoute de nouveaux grimoires dans le jeu.",
         "urls": [
             "http://www.shsforums.net/topic/56772-grimuars-mod-for-bg2-got-updated/"
         ],
@@ -14050,16 +14063,22 @@
             "BGT"
         ],
         "authors": [
-            "Creepin"
+            "Rughalt"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "pl",
+            "de",
+            "es"
+        ],
         "status": "active",
         "last_update": "2013-10",
-        "tp2": ""
+        "tp2": "grimuars"
     },
     {
         "name": "Grog's Custom AI Scripts",
@@ -14783,10 +14802,11 @@
             "de",
             "en",
             "pl",
-            "ru"
+            "ru",
+            "es"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-01",
         "tp2": "hiddenadventure"
     },
     {
@@ -14922,7 +14942,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-06",
+        "last_update": "2025-01",
         "tp2": "HighPower"
     },
     {
@@ -15654,7 +15674,8 @@
             "PNJ recrutable"
         ],
         "games": [
-            "IWD2"
+            "IWD2",
+            "IWD2EE"
         ],
         "authors": [
             "Domi"
@@ -15668,7 +15689,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2021-09",
+        "last_update": "2025-01",
         "tp2": "iwd2npc"
     },
     {
@@ -15826,7 +15847,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2022-07",
+        "last_update": "2025-01",
         "tp2": "iwdification"
     },
     {
@@ -15866,7 +15887,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2022-12",
+        "last_update": "2025-01",
         "tp2": "iwdfixpack"
     },
     {
@@ -17210,7 +17231,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2021-12",
+        "last_update": "2025-01",
         "tp2": "iu_iwd"
     },
     {
@@ -17574,7 +17595,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2023-12",
+        "last_update": "2025-02",
         "tp2": "c#sodtweaks"
     },
     {
@@ -18587,7 +18608,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2023-06",
+        "last_update": "2025-01",
         "tp2": "kivan"
     },
     {
@@ -18937,7 +18958,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2025-01",
         "tp2": "LeUI"
     },
     {
@@ -18969,7 +18990,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2025-01",
         "tp2": "LeUI-BG1EE"
     },
     {
@@ -19001,7 +19022,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2025-01",
         "tp2": "LeUI-SoD"
     },
     {
@@ -21864,7 +21885,8 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-01",
@@ -26978,6 +27000,7 @@
             "Gameplay"
         ],
         "games": [
+            "BGEE",
             "SoD",
             "EET"
         ],
@@ -27001,7 +27024,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-06",
+        "last_update": "2025-02",
         "tp2": "sodrtd"
     },
     {
@@ -27860,7 +27883,7 @@
         "tp2": ""
     },
     {
-        "name": "Sarevok Related Tweaks",
+        "name": "Sarevok related tweaks",
         "description": "Ce mod permet de rendre Sarevok plus puissant dans Baldur's Gate. Il comprend deux composants disposant chacun de deux options d'installations :|- Restaurer Sarevok dans sa version BG1 non-TotSC : une option permet de ne pas diminuer ses jets de sauvegarde.|- Donner à Sarevok soit une épée à deux mains +2, soit celle de la bataille finale d'Ascension (si le mod [[Ascension]] est installé et uniquement dans BGT et EET).",
         "urls": [
             "http://www.shsforums.net/files/file/1110-sarevok-related-tweaks/"
@@ -29606,7 +29629,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2025-01",
         "tp2": "song_and_silence"
     },
     {
@@ -30357,7 +30380,7 @@
         "tp2": ""
     },
     {
-        "name": "SubtleDoctor's Random Tweaks",
+        "name": "Subtledoc's Random Tweaks",
         "description": "Il s'agit d'une collection de petits ajustements de sorts, d'objets ou de créatures réalisés par subtledoctor pour les jeux EE. Certains, mais très peu, sont retro-compatibles avec les jeux originaux (comme Ajouter un jet de sauvegarde pour les effets d'absorption de niveau) Chaque composant peut être installé indépendamment.|N'hésitez pas à consulter le <a href=\"http://htmlpreview.github.io/?https://github.com/subtledoctor/d5_Random_Tweaks/blob/master/d5_random_tweaks/readme-d5_random_tweaks.html\">readme</a> pour prendre connaissance de chacun d'eux.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/31133-subtledocs-random-tweaks/"
@@ -30390,7 +30413,7 @@
             "fr"
         ],
         "status": "obsolete",
-        "last_update": "2020-02",
+        "last_update": "2024-12",
         "tp2": "d5_random_tweaks"
     },
     {
@@ -30910,7 +30933,8 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "es"
         ],
         "status": "active",
         "last_update": "2024-08",
@@ -31035,7 +31059,7 @@
             "Le premier lien est officiel mais non traduit.",
             "La version github est non officielle mais la traduction française est présente."
         ],
-        "translation_state": "no",
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
@@ -32067,7 +32091,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-06",
+        "last_update": "2025-02",
         "tp2": "c#sodboabri"
     },
     {
@@ -33438,7 +33462,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-02",
         "tp2": "d2-workshopkits"
     },
     {
@@ -33828,7 +33852,7 @@
     },
     {
         "name": "TobEx",
-        "description": "Ce mod est un outil de type patch qui corrige des bugs du moteur de jeu de BG2, et permet de corriger ou de remplacer certains mécanismes du jeu. Son utilisation est réservée aux plus aguerris, rompus aux arcanes des méga-installs et pointilleux lecteurs de Readme.",
+        "description": "Throne of Bhaal Extender est un outil de type patch qui corrige des bugs du moteur de jeu de BG2, et permet de corriger ou de remplacer certains mécanismes du jeu. Son utilisation est réservée aux plus aguerris, rompus aux arcanes des méga-installs et pointilleux lecteurs de Readme.",
         "urls": [
             "http://www.shsforums.net/files/file/871-bg2tob-throne-of-bhaal-extender/"
         ],
@@ -34854,14 +34878,15 @@
         "languages": [
             "en",
             "fr",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2023-08",
+        "last_update": "2025-01",
         "tp2": "tyrisflare"
     },
     {
-        "name": "Uldar NPC (espagnol)",
+        "name": "Uldar NPC",
         "description": "Uldar est un barbare demi-orque qui peut rejoindre votre groupe. On le trouve à la Couronne de Cuivre. Dans ToB, on peut l'invoquer dans l'antichambre. Le mod n'a aucune romance, mais fournit beaucoup de dialogues et d'interactions, presque toujours avec plusieurs options de réponse.",
         "urls": [
             "http://www.shsforums.net/files/file/766-uldar-npc-v-077/"
@@ -34874,18 +34899,21 @@
             "BGT"
         ],
         "authors": [
-            "Immortality"
+            "sergiond77"
         ],
         "team": [],
         "notes": [
+            "Ce mod est en espagnol.",
             "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "es"
+        ],
         "status": "active",
         "last_update": "2010-05",
-        "tp2": ""
+        "tp2": "Uldar"
     },
     {
         "name": "Ulrien of Cormyr, SagaMaster",
@@ -35301,7 +35329,7 @@
             "br"
         ],
         "status": "active",
-        "last_update": "2022-09",
+        "last_update": "2025-01",
         "tp2": "ub_iwd"
     },
     {
@@ -35365,7 +35393,7 @@
             "sw"
         ],
         "status": "active",
-        "last_update": "2024-03",
+        "last_update": "2025-01",
         "tp2": "ua"
     },
     {
@@ -36557,7 +36585,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2015-07",
+        "last_update": "2025-01",
         "tp2": "WarslingSniperKit"
     },
     {
@@ -37293,7 +37321,7 @@
         "tp2": ""
     },
     {
-        "name": "World Map Unlock",
+        "name": "World map unlock",
         "description": "Ce mod débloque toutes les zones des cartes au début du jeu.",
         "urls": [
             "https://forums.beamdog.com/discussion/16039/"
@@ -37543,7 +37571,7 @@
         "tp2": ""
     },
     {
-        "name": "Xulaye NPC",
+        "name": "Xulaye",
         "description": "Xulaye Despana est la sœur de l'insupportable Phaere, et la fille de la redoutée Mère Matrone Ardulace. L'aiderez-vous dans sa recherche du pouvoir ? La trahirez-vous ? Tenterez-vous de la détourner de ses noirs desseins ? Xulaye rejoindra votre groupe à l'entrée d'Ust Natha en Ombreterre. Mais prenez garde, c'est une drow loin d'être écervelée. L'arrogance, l'ambition, la cruauté et la rudesse dominent son cœur sombre. Recruter Xulaye vous permettra de modifier quelque peu votre séjour en Ombreterre : une nouvelle quête, de nouvelles interjections, 1 à 3 banters avec les PNJ de Bioware, et une fin inédite en Ombreterre.",
         "urls": [
             "http://www.shsforums.net/files/file/710-xulaye/"
@@ -38717,7 +38745,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-01",
         "tp2": "Derats_Jazon"
     },
     {
@@ -38877,7 +38905,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-01",
         "tp2": "SubtleD_Stat_Overhauls"
     },
     {
@@ -39756,7 +39784,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-01",
         "tp2": "Autumns_Twilight"
     },
     {
@@ -40090,7 +40118,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-01",
         "tp2": "IEEE_Halforc_Voice_Classic"
     },
     {
@@ -40120,7 +40148,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-01",
         "tp2": "IEEE_Dwarven_Voice_Classic"
     },
     {
@@ -40486,7 +40514,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2023-12",
+        "last_update": "2025-01",
         "tp2": "itemupgrade"
     },
     {
@@ -41039,7 +41067,7 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
+            "BG2EE",
             "EET"
         ],
         "authors": [
@@ -41052,7 +41080,8 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
         "last_update": "2023-02",
@@ -41767,7 +41796,7 @@
             "EET"
         ],
         "authors": [
-            "danielvalle"
+            "Daniel Valle"
         ],
         "team": [],
         "notes": [
@@ -41861,7 +41890,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "ru",
@@ -41869,10 +41898,12 @@
             "fr",
             "en",
             "cn",
-            "cz"
+            "cz",
+            "es",
+            "it"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-01",
         "tp2": "infinity_ui"
     },
     {
@@ -42075,7 +42106,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-01",
         "tp2": "zdbae"
     },
     {
@@ -42199,7 +42230,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-01",
         "tp2": "Lichdom_EET"
     },
     {
@@ -42531,7 +42562,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-01",
         "tp2": "ZSTweaks"
     },
     {
@@ -43267,7 +43298,8 @@
             "EET"
         ],
         "authors": [
-            "danielvalle"
+            "Daniel Valle",
+            "lcamod"
         ],
         "team": [],
         "notes": [
@@ -44477,7 +44509,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2025-01",
         "tp2": "k4morgul"
     },
     {
@@ -44784,7 +44816,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2024-08",
         "tp2": "SCI-Dualadins"
     },
     {
@@ -45122,7 +45154,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-01",
         "tp2": "ZS_CanIStabYou"
     },
     {
@@ -45853,7 +45885,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-01",
         "tp2": ""
     },
     {
@@ -47163,7 +47195,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2023-01",
+        "last_update": "2023-02",
         "tp2": "non-weidu"
     },
     {
