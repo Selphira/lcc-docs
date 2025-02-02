@@ -5251,14 +5251,14 @@
         "tp2": ""
     },
     {
-        "name": "Better IWD Pregen",
-        "description": "Script components:|Better IWD Pregen|Better AI for Call Woodland Beings (EEs, BG2)|Auto-assign script to new characters||Tweak components:|Adjust enemy damage at higher difficulties (classic IWD, IWD2)|Add or remove Avarine Decanter (IWD2)|Unnerf Animate Dead (IWD2)|Shapeshift movement bonuses bypass Free Action (EEs)|Increase movement speed of IWD shapeshifts (IWD1, IWD:EE)|Give party starting equipment (IWD games)|Give party a Bag of Holding at game start (classic and EEs)|All classes get full HP bonuses from Constitution (classic and EEs)|Fixes for backstab-related 2DA files (EEs)|Reduce delay for Sneak Attacks + uncap Crippling Strike (EEs)|Allow Minsc to use his Berserk ability at will (BG games)|Patch visuals for shortbows (IWD:EE) or scimitars (IWD-in-BG2)|Remove alignment restrictions for classes (classic and EEs)|Prevent paladins and rangers falling at low rep? (EEs)||<a href=\"https://github.com/D2-mods/Better-IWD-Pregen/blob/main/README.md\">See more detailed info in readme...</a>",
+        "name": "Un mod qui propose des améliorations de scripts ainsi que des tweaks pour tous les jeux de l'infinity engine. Lire le readme pour plus d'informations.",
         "urls": [
             "https://forums.beamdog.com/discussion/82947/",
             "https://github.com/D2-mods/Better-IWD-Pregen"
         ],
         "categories": [
-            "Gameplay"
+            "Gameplay",
+            "Script et tactique"
         ],
         "games": [
             "BG",
@@ -10447,9 +10447,10 @@
     },
     {
         "name": "Duskblade",
-        "description": "Étudiant les techniques d'incantation des arcanes, le Duskblade associe la connaissance profane aux compétences de combat d'un combattant. Si les elfes sont les premiers à pouvoir lancer des sorts en armure, les secrets de le Duskblade ont été transmis aux autres races au fil des millénaires et, aujourd'hui, n'importe quelle race peut devenir Duskblade.",
+        "description": "Étudiant les techniques d'incantation des arcanes, le Duskblade associe la connaissance profane aux compétences de combat au corps-à-corps d'un combattant. Si les elfes sont les premiers à pouvoir lancer des sorts en armure, les secrets du Duskblade ont été transmis aux autres races au fil des millénaires et, aujourd'hui, n'importe quelle race peut devenir Duskblade.",
         "urls": [
-            "https://forums.beamdog.com/discussion/29633/"
+            "https://forums.beamdog.com/discussion/29633/",
+            "https://forums.beamdog.com/discussion/36825/"
         ],
         "categories": [
             "Kit"
@@ -10457,43 +10458,24 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD"
-        ],
-        "authors": [
-            "kensai"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
-        "safe": 1,
-        "languages": [],
-        "status": "active",
-        "last_update": "2014-02",
-        "tp2": "duskblade"
-    },
-    {
-        "name": "Duskblade (IWDEE)",
-        "description": "\"My blade and my magic are one and the same.\"||Ce mod ajoute un nouveau profil de guerrier, pouvant canaliser la magie dans ses armes.||The Duskblade blurs the line between spellcaster and warrior, marrying the power of magic with hand-to-hand combat prowess.A student of arcane spellcasting techniques, the Duskblade combines arcane spellcasting with the combat skills of a fighter.||Disadvantages:|- May only specialise 2 stars in weapons|- Can't dualclass|- Can't use bows and missile weapons|- Can't wear armor heavier than splint mail|- Min Intellect 14|- No Greater Whirlwind|- -13% EXP penalty||Advantages:|- Arcane Channelling|- Can use magic while wearing armor",
-        "urls": [
-            "https://forums.beamdog.com/discussion/36825/"
-        ],
-        "categories": [
-            "Kit"
-        ],
-        "games": [
+            "SoD",
             "IWDEE"
         ],
         "authors": [
             "kensai"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Le premier lien contient la version BGEE/BG2EE. Le second lien la version IWDEE."
+        ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2014-11",
-        "tp2": ""
+        "last_update": "2014-02",
+        "tp2": "duskblade"
     },
     {
         "name": "Dusky",
@@ -21745,7 +21727,7 @@
     },
     {
         "name": "Mortuary Be Gone",
-        "description": "This mod (inspired by the [[Dungeon-Be-Gone]] and [[Skip Chateau Irenicus]] mods for Baldur's Gate 2) allows Morte to whisk you through a portal at the very start of the game while still providing the items and experience you'd gain from a thorough exploration of the Mortuary. Narratively, you are implied to have done a \"normal\" playthrough of the Mortuary in your previous incarnation, who died shortly (and relatively non-traumatically) after escaping the Mortuary.||This mod makes a few assumptions about your previous incarnation's decisions within the Mortuary. As the Mortuary is still accessible after escaping from it, I have minimized the impact that you could have had while still completing secondary objectives. You are assumed to have looted every container, avoided combat and detection wherever possible, completed every available side quest, and not taken any actions that would influence your alignment. The Dustmen will have restocked any non-unique item should you return to the Mortuary later..",
+        "description": "Ce mod inspiré par [[Dungeon-Be-Gone]] et [[Skip Chateau Irenicus]], permet à Morte de faire vous traverser un portail au tout début du jeu tout en fournissant les objets et l'expérience que vous auriez pu acquérir en explorant la première zone de fond en comble.",
         "urls": [
             "https://forums.beamdog.com/discussion/87482/",
             "https://github.com/aquadrizzt/MortuaryBeGone"
