@@ -18850,32 +18850,39 @@
     },
     {
         "name": "Larsha NPC",
-        "description": "Larsha est une dryade qui cherche son arbre, avec lequel elle s'unira pour gagner un grand pouvoir sous la forme d'un sort très intéressant. Une romance est aussi possible. Vous la trouverez dans les Collines de Lancevent.",
+        "description": "Larsha est une dryade qui cherche son arbre, avec lequel elle s'unira pour gagner un grand pouvoir sous la forme d'un sort très intéressant. Une romance est aussi possible. Vous la trouverez dans les Collines de Lancevent. Elle possède un arc qui lance ses propres flèches et qui s'améliore au fil de son expérience ainsi qu'une tiare qui lui confère notamment action libre, hâte améliorée et une protection contre les armes +1. Elle acquiert en plus de nouvelles capacités au fil des niveaux.|FOR 16, DEX 19, CON 10, INT 15, SAG 18, CHA 25.",
         "urls": [
-            "https://baldur.cob-bg.pl/larsha"
+            "https://baldur.cob-bg.pl/larsha",
+            "https://github.com/Plutonium-X/1D_NPC_Larsha"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Marcin Kijo"
         ],
-        "team": [],
-        "notes": [
-            "Ce mod est en polonais."
+        "team": [
+            "Deratiseur"
         ],
-        "translation_state": "no",
+        "notes": [
+            "Choisissez le lien github pour la version EE (traduite en français et en anglais) et l'autre lien pour la version originelle en polonais."
+        ],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "pl"
+            "pl",
+            "en",
+            "fr"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2025-02",
+        "tp2": "Larsha"
     },
     {
         "name": "LavaIt!",
