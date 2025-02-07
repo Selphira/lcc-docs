@@ -5258,7 +5258,8 @@
         "tp2": ""
     },
     {
-        "name": "Un mod qui propose des améliorations de scripts ainsi que des tweaks pour tous les jeux de l'infinity engine. Lire le readme pour plus d'informations.",
+        "name": "Better IWD Pregen",
+        "description": "Un mod qui propose des améliorations de scripts ainsi que des tweaks pour tous les jeux de l'infinity engine. Lire le readme pour plus d'informations.",
         "urls": [
             "https://forums.beamdog.com/discussion/82947/",
             "https://github.com/D2-mods/Better-IWD-Pregen"
