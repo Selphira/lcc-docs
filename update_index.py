@@ -4,7 +4,6 @@ import os
 
 # import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
-
 from models import Category, Mod
 from settings import Games, attrs_icon_data, categorie_names
 
