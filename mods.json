@@ -36193,7 +36193,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : ce mod est obsolète depuis son intégration dans le [[Glam NPC Pack]]."
+            "Attention : ce mod est obsolète depuis son intégration dans le [[Glam's NPC Pack]]."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -39790,7 +39790,7 @@
     },
     {
         "name": "SubtleD's Spell Tweaks",
-        "description": "Ce mod est un regroupement des tweaks de subtledoctor que l'on peut retrouver dans d'autres mods de cet auteur comme [[Scales of Balance]], [[Tome and Blood]] ou encore [[SubtleDoctor's Random Tweaks]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod.",
+        "description": "Ce mod est un regroupement des tweaks de subtledoctor que l'on peut retrouver dans d'autres mods de cet auteur comme [[Scales of Balance]], [[Tome and Blood]] ou encore [[Subtledoc's Random Tweaks]]. Les composants sont nombreux, n'hésitez pas à vous référer au README du mod.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/37238-subtlemods-subtleds-spell-tweaks/",
             "https://github.com/subtledoctor/SubtleD_Spell_Tweaks"
