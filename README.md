@@ -6,6 +6,27 @@ Version POC de la liste des mods BG de FreddyGwendo : https://github.com/LaCouro
 En effet, le fichier `index.html` est généré automatiquement par le script `update_index.py` qui s'appuie sur le ficher db : `mods.json`.
 
 
+## Installation
+
+### Le minimum vital
+
+[Python](https://www.python.org/downloads/)3.11+\
+[uv](https://docs.astral.sh/uv/getting-started/installation/), le gestionnaire de paquet
+
+### Créez l'environnement virtuel
+```
+    cd lcc-docs/
+    uv sync
+```
+
+### Mettez à jour l'index html
+
+```
+    uv run update_index.py
+```
+
+
+
 ## Améliorations par rapport à la v1
 
 Cette version propose plusieurs améliorations techniques notables :
@@ -42,7 +63,7 @@ Cette version propose plusieurs améliorations techniques notables :
 Comme tout se fait dans le fichier `mods.json`, il est important de savoir ce qui est possible de faire ou non.
 
 ### Le JSON c'est quoi ?
-Documentation sur le JSON : https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON
+Documentation sur le JSON : https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON\
 Outil en ligne pour valider le format de votre json : https://jsonformatter.curiousconcept.com
 
 
