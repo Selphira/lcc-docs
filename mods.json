@@ -958,7 +958,7 @@
             "Zooloo"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET."
+            "Choisissez le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -1090,7 +1090,7 @@
             "Streen"
         ],
         "notes": [
-            "Choississez le troisième lien pour la version BG2EE/EET."
+            "Choisissez le troisième lien pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -2078,7 +2078,7 @@
         ],
         "team": [],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
+            "Choisissez le lien github pour la version BG2EE/EET. Attention, il s'agit d'une version non officielle."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -2596,7 +2596,7 @@
         ],
         "team": [],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET."
+            "Choisissez le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -6570,7 +6570,7 @@
             "Fouinto"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET."
+            "Choisissez le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -13362,7 +13362,7 @@
         ],
         "team": [],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET."
+            "Choisissez le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -15114,7 +15114,7 @@
         ],
         "notes": [
             "Ce pnj n'est pas compatible avec le composant `Francmarché` du mod [[Made in Heaven - Encounters & Quests]] qui modifie la crypte de Francmarché et rend Horace inacessible.",
-            "Choississez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
+            "Choisissez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -15484,7 +15484,9 @@
             "Kulyok"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Pour la version EE, des portraits alternatifs sont proposés par le mod [[Custom portraits for Icewind Dale NPC Mod (IWD NPC)]]."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -20781,7 +20783,7 @@
             "Althéa"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET."
+            "Choisissez le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -21311,7 +21313,7 @@
             "Deratiseur"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET."
+            "Choisissez le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -22558,7 +22560,7 @@
         ],
         "team": [],
         "notes": [
-            "Choississez `Neht_V5.5.rar` pour la version BG2/BGT et `Neht_V6.7.rar` pour la version BG2EE/EET."
+            "Choisissez `Neht_V5.5.rar` pour la version BG2/BGT et `Neht_V6.7.rar` pour la version BG2EE/EET."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -25277,7 +25279,7 @@
             "Deratiseur"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET."
+            "Choisissez le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -33008,7 +33010,7 @@
         "notes": [
             "Attention, gros bourrins s'abstenir : les quêtes demandent de la réflexion. Le mod [[Worldmap]] est indispensable.",
             "Le lien athkatla propose un fix pour les versions non EE.",
-            "Choississez le lien github pour la version BG2EE/EET."
+            "Choisissez le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -33154,8 +33156,10 @@
         "team": [
             "Lothringen"
         ],
-        "notes": [],
-        "translation_state": "yes",
+        "notes": [
+            "Certains éléments ont été ajoutés après la traduction française comme la quête de Kestrell, qui est donc en anglais."
+        ],
+        "translation_state": "todo",
         "safe": 2,
         "languages": [
             "en",
@@ -34264,7 +34268,7 @@
         ],
         "notes": [
             "Attention : Comme il patche toutes les zones, il est recommandé de l'installer à la fin.",
-            "Choississez le lien github pour la version française."
+            "Choisissez le lien github pour la version française."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -34553,7 +34557,7 @@
             "DarkWintermoon"
         ],
         "notes": [
-            "Choississez le lien github pour la version BG2EE/EET."
+            "Choisissez le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -47279,6 +47283,166 @@
         "languages": [],
         "status": "active",
         "last_update": "2023-09",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Bling Fist Monk",
+        "description": "Ce mod propose un kit de Moine membre d'une secte appelée Order of the Golden Hand qui combat les monstres impies de Féérune. Ils enveloppent leurs mains de bijoux puissamment enchantés pour gagner en puissance. Ces bijoux coûtent une petite fortune.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/83838/",
+            "https://www.gibberlings3.net/forums/topic/35071-bling-fist-monk/"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "jmerry"
+        ],
+        "team": [],
+        "notes": [
+            "Choisissez le lien beamdog pour obtenir la version la plus récente."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-04",
+        "tp2": "bling-fist"
+    },
+    {
+        "name": "Better NPC Faces for BGEE/BG2EE",
+        "description": "Ce mod propose une modification visuelle des portraits des personnages Bioware des versions Enhanced. Ils ne dénaturent pas les portraits originaux.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/62",
+            "https://www.nexusmods.com/baldursgate2ee/mods/85"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "BG2EE"
+        ],
+        "authors": [
+            "lyucifeer"
+        ],
+        "team": [],
+        "notes": [
+            "Choisissez le premier lien pour les version BGEE/SoD et le second pour la version BG2EE."
+        ],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2024-04",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Custom portraits for Icewind Dale NPC Mod (IWD NPC)",
+        "description": "Ce mod propose des portraits alternatifs pour les 5 pnjs ajoutés par le mod [[IWD NPC Project]].",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/38"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "Cragsand"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-07",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Witcher Custom Soundset (Geralt Yennefer Dandelion Ciri)",
+        "description": "Ce mod permet d'ajouter les portraits et les voix de Geralt, Yennefer, Dandelion et Ciri du jeu Witcher 3 dans Baldur's Gate.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/50"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Valarioth"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2021-04",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Voices of Faerun - 6 Male Player Character Voices",
+        "description": "Ce mod permet d'ajouter six nouvelles voix de protagonistes masculins de haute qualité, conçues librement autour des alignements : Paladin loyal bon, Clerc chaotique mauvais, Barde chaotique neutre, Barbare chaotique bon, Aventurier neutre bon (voix généraliste), et Mage/voleur loyal mauvais.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate2ee/mods/23"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "CalicoCrow"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2020-10",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "136 portraits from Disciples 2 for bg1-2 and IWD android versions",
+        "description": "Pour les joueurs sous Android, ce mod permet d'ajouter 136 portraits du jeu Disciples 2 dans Baldurs's Gate.",
+        "urls": [
+            "https://www.nexusmods.com/baldursgate/mods/20"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE"
+        ],
+        "authors": [
+            "Xander Lee"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2022-02",
         "tp2": "non-weidu"
     }
 ]
