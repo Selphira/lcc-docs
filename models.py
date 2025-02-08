@@ -1,6 +1,7 @@
-import os
+from dataclasses import dataclass
+from os import path as os_path
 import re
-import unicodedata
+from unicodedata import normalize
 
 from settings import (
     FLAG_DIR,
@@ -19,53 +20,37 @@ def slugify(value: str) -> str:
     Remove characters that aren't alphanumerics, underscores, or hyphens.
     Convert to lowercase. Also strip leading and trailing whitespace.
     """
-    value = unicodedata.normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
+    value = normalize("NFKD", value).encode("ascii", "ignore").decode("ascii")
     value = re.sub(r"[^\w\s-]", "", value).strip().lower()
     return re.sub(r"[-\s]+", "-", value)
 
 
+@dataclass(slots=True, kw_only=True)
 class Icon:
-    def __init__(self, icon: str, label: str):
-        self.icon = icon
-        self.label = label
+    icon: str
+    label: str
 
 
 link_regex = re.compile(r"\[\[[^].]+\]\]")
 quote_regex = re.compile(r"`[^`]+`")
 
 
+@dataclass(kw_only=True)
 class Mod:
-    def __init__(
-        self,
-        name,
-        categories,
-        urls,
-        notes,
-        description,
-        team,
-        games,
-        safe,
-        translation_state,
-        languages,
-        authors,
-        status,
-        last_update,
-        tp2,
-    ):
-        self.name = name
-        self.categories = categories
-        self.urls = urls
-        self._notes = notes
-        self.safe = safe
-        self._description = description
-        self.team = team
-        self._games = games
-        self.translation_state = translation_state
-        self.languages = languages
-        self.authors = authors
-        self.status = status
-        self.last_update = last_update
-        self.tp2 = tp2
+    name: str
+    categories: list
+    urls: list
+    notes: list
+    description: str
+    team: list
+    games: list
+    safe: bool
+    translation_state: str
+    languages: list
+    authors: list
+    status: str
+    last_update: str
+    tp2: str
 
     @property
     def id(self) -> str:
@@ -94,6 +79,9 @@ class Mod:
 
         return icons
 
+    def convert_txt(self, txt: str) -> str:
+        return self._convert_quote(self._convert_pipe(self._convert_link(txt)))
+
     def _convert_quote(self, txt: str) -> str:
         quoted_txt = txt
         for quote in quote_regex.findall(quoted_txt):
@@ -117,10 +105,8 @@ class Mod:
         return txt.replace("|", "<br/>")
 
     @property
-    def description(self) -> str:
-        description = self._convert_link(self._description)
-        description = self._convert_pipe(description)
-        return self._convert_quote(description)
+    def full_description(self) -> str:
+        return self.convert_txt(self.description)
 
     @property
     def safe_note(self) -> int:
@@ -133,9 +119,9 @@ class Mod:
             note -= 1
         if self.status == "archived":
             note -= 1
-        elif self.status in {"embed", "obsolete"}:
+        elif self.status in ("embed", "obsolete"):
             note = 0
-        elif self.status in {"wip", "missing"}:
+        elif self.status in ("wip", "missing"):
             note = min(1, note)
         return max(0, note)
 
@@ -182,27 +168,21 @@ class Mod:
         return auto_notes
 
     def get_team_str(self) -> str:
-        match len(self.team):
-            case 0:
+        match self.team:
+            case ():
                 return ""
-            case 1:
-                return self.team[0]
-            case _:
-                return ", ".join(self.team[:-1]) + " et " + self.team[-1]
+            case (only_one,):
+                return only_one
+            case (*without_last, last):
+                return ", ".join(without_last) + f" et {last}"
 
     @property
-    def notes(self) -> list:
-        notes = list()
-        for note in self._notes + self.get_auto_notes():
-            new_note = self._convert_link(note)
-            new_note = self._convert_pipe(new_note)
-            new_note = self._convert_quote(new_note)
-            notes.append(new_note)
-        return notes
+    def full_notes(self) -> list:
+        return [self.convert_txt(note) for note in self.notes + self.get_auto_notes()]
 
     @property
-    def games(self) -> list:
-        return [game for game in Games if game in self._games]
+    def order_games(self) -> list:
+        return [game for game in Games if game in self.games]
 
 
 class Category:
@@ -215,10 +195,8 @@ class Category:
         return slugify(self.name)
 
 
-domain_regex = re.compile(r"https?://(www\.)?(?P<domain>[^/]*).*")
-
-
 class Url:
+    domain_regex = re.compile(r"https?://(www\.)?(?P<domain>[^/]*).*")
     country_image_suffix = "-flag-32.png"
 
     def __init__(self, url):
@@ -235,12 +213,10 @@ class Url:
                 )
                 dir = FLAG_DIR
             else:
-                img_data = image_data.get(
-                    img, dict(title="titre de l'image", width=32, height=32)
-                )
+                img_data = image_data.get(img, dict())
                 dir = SITE_DIR
 
-            img_dir = os.path.join("img", dir, img)
+            img_dir = os_path.join("img", dir, img)
             self.img = Image(src=img_dir, **img_data)
 
     def get_image_special(self) -> str:
@@ -261,7 +237,7 @@ class Url:
         country_img = f"{self.get_tld()}{self.country_image_suffix}"
         img = ""
         # auto-select
-        if os.path.exists(os.path.join(IMG_ROOT, FLAG_DIR, country_img)):
+        if os_path.exists(os_path.join(IMG_ROOT, FLAG_DIR, country_img)):
             img = country_img
 
         return img
@@ -270,7 +246,7 @@ class Url:
         return self.get_image_special() or self.get_image_country()
 
     def get_domain(self) -> str:
-        domain = domain_regex.search(self.url).group("domain")
+        domain = self.domain_regex.search(self.url).group("domain")
         return domain or "localhost"
 
     @property
@@ -278,7 +254,10 @@ class Url:
         return self.url.startswith("http")
 
 
+@dataclass(slots=True, kw_only=True)
 class Image:
-    def __init__(self, **kwargs):
-        for k, v in kwargs.items():
-            setattr(self, k, v)
+    src: str
+    title: str = ""
+    alt: str = ""
+    width: int = 32
+    height: int = 32

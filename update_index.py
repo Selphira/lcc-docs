@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-import json
-import os
+from json import load as json_load
+from os import sep as os_sep
 
 # import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
@@ -11,7 +11,7 @@ from settings import Games, attrs_icon_data, categorie_names
 def main(env):
     categories = [Category(k) for k in categorie_names]
     with open("mods.json", "r") as f:
-        mods = json.load(f)
+        mods = json_load(f)
     # with open("mods.yaml", "r") as f:
     #     mods = yaml.safe_load(f)
 
@@ -28,12 +28,12 @@ def main(env):
     page_html = env.get_template("base.html").render(
         games=Games,
         categories=categories,
-        static=f"static{os.sep}",
+        static=f"static{os_sep}",
         attrs_icon_data=attrs_icon_data,
         mod_length=len(mods),
     )
 
-    with open("docs" + os.sep + "index.html", "w") as f:
+    with open(f"docs{os_sep}index.html", "w") as f:
         f.write(page_html)
 
 
