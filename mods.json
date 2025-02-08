@@ -36129,7 +36129,7 @@
     },
     {
         "name": "Voices of Faerun",
-        "description": "Pack de 6 voix (en anglais) pour des hommes de tout alignement : Paladin (LG), Cleric (CE), Bard (CN), Barbare (CG), NG et Mage/Voleur (LE).",
+        "description": "Ce mod permet d'ajouter six nouvelles voix de protagonistes masculins de haute qualité, conçues librement autour des alignements : Paladin loyal bon, Clerc chaotique mauvais, Barde chaotique neutre, Barbare chaotique bon, Aventurier neutre bon (voix généraliste), et Mage/voleur loyal mauvais.",
         "urls": [
             "https://www.nexusmods.com/baldursgate2ee/mods/23"
         ],
@@ -36137,6 +36137,7 @@
             "Portrait et son"
         ],
         "games": [
+            "BGEE",
             "BG2EE"
         ],
         "authors": [
@@ -36144,14 +36145,14 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
-        "safe": 2,
+        "translation_state": "n/a",
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2020-10",
+        "tp2": "non-weidu"
     },
     {
         "name": "Volcanic Armoury",
@@ -47392,31 +47393,6 @@
         "languages": [],
         "status": "active",
         "last_update": "2021-04",
-        "tp2": "non-weidu"
-    },
-    {
-        "name": "Voices of Faerun - 6 Male Player Character Voices",
-        "description": "Ce mod permet d'ajouter six nouvelles voix de protagonistes masculins de haute qualité, conçues librement autour des alignements : Paladin loyal bon, Clerc chaotique mauvais, Barde chaotique neutre, Barbare chaotique bon, Aventurier neutre bon (voix généraliste), et Mage/voleur loyal mauvais.",
-        "urls": [
-            "https://www.nexusmods.com/baldursgate2ee/mods/23"
-        ],
-        "categories": [
-            "Portrait et son"
-        ],
-        "games": [
-            "BGEE",
-            "BG2EE"
-        ],
-        "authors": [
-            "CalicoCrow"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 1,
-        "languages": [],
-        "status": "active",
-        "last_update": "2020-10",
         "tp2": "non-weidu"
     },
     {
