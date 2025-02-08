@@ -296,7 +296,7 @@
         "description": "Ce mod est le fruit d'ajustements et de modifications apportés par Andrea C. à son installation BGT. Avec le temps, il s'est enrichi de nombreux composants et est désormais compatible avec tous les jeux Baldurs Gate, originaux et EE. Il comprend de nombreux composants qui restaurent les icônes de BG1 pour les objets de cet opus, restaurent les icônes d'origine pour tous les objets bonus des marchands dans SoA si 1PP est installé, restaurent les portraits d'origine des nouveaux PNJ recrutables des jeux EE, corrigent les souffles des dragons, proposent d'utiliser les jeux de son des personages dans les jeux classiques... Bref, lisez bien la présentation du mod accessible par le lien de téléchargement, et vous trouverez certainement votre bonheur.",
         "urls": [
             "http://www.shsforums.net/topic/61629-acs-miscellaneous-tweaks/",
-            "https://github.com/SpellholdStudios/AC-Miscellaneous-Tweaks"
+            "https://github.com/Spellhold-Studios/AC-Miscellaneous-Tweaks"
         ],
         "categories": [
             "Gameplay"
@@ -520,7 +520,7 @@
         "description": "Adrian Sianodel est un mage demi-elfe loyal mauvais vieux de 33 ans, que vous rencontrerez à la fin du donjon d'Irenicus. Il dispose d'une quête personnelle et romancera les PJs féminins humaines ou demi-elfes sans restriction d'alignement ni de classe. Votre PJ devra toutefois disposer d'un minimum de 12 en charisme. Les mangeurs de feuilles ne sont pas spécialement sa tasse de thé.",
         "urls": [
             "http://www.shsforums.net/files/file/1007-adrian/",
-            "https://github.com/SpellholdStudios/Adrian_NPC"
+            "https://github.com/Spellhold-Studios/Adrian-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -585,7 +585,7 @@
         "description": "Ce mini mod n'est rien d'autre qu'une plaisanterie. Il vous permet de rencontrer et de discuter avec un groupe légendaire, les Beatles. Vous les trouverez dans l'auberge des Cinq Chopes.",
         "urls": [
             "http://www.shsforums.net/files/file/139-adventures-in-papperland/",
-            "https://github.com/SpellholdStudios/Adventures_In_Papperland"
+            "https://github.com/Spellhold-Studios/Adventures-in-Papperland"
         ],
         "categories": [
             "Quête"
@@ -1071,7 +1071,7 @@
         "description": "Cette jeune elfe druide, enjouée et haute en couleurs vous demande de l'aide au Bosquet des Druides, et vous propose même de vous rejoindre pour mettre fin au règne de Faldorn. Elle possède de nombreux banters avec les différents PNJ du jeu.",
         "urls": [
             "http://www.shsforums.net/files/file/1260-allison-one-day-npc/",
-            "https://github.com/SpellholdStudios/Allison_One-Day_NPC",
+            "https://github.com/Spellhold-Studios/Allison-One-Day-NPC",
             "https://github.com/Plutonium-X/1D_NPC_Allison"
         ],
         "categories": [
@@ -1188,7 +1188,7 @@
         "description": "Pouvant être également installé indépendamment d'[[Unfinished Business]], ce mod a toutefois pour vocation de restaurer du contenu non exploité par ce dernier ; dans ce sens il est donc intéressant de le coupler à [[Unfinished Business]].",
         "urls": [
             "http://www.shsforums.net/files/file/1053-almaterias-restoration-project/",
-            "https://github.com/SpellholdStudios/Almaterias_Restoration_Project"
+            "https://github.com/Spellhold-Studios/Almaterias-Restoration-Project"
         ],
         "categories": [
             "Gameplay"
@@ -1838,7 +1838,7 @@
         "description": "Un nouveau druide humain, avec du contenu pour SoA et ToB. Ce personnage est présenté comme complexe dans ses opinions et croyances. Hédoniste, il peut s'intéresser aux PJ masculins comme féminins, et est relativement direct dans ses manières même s'il n'arrivera pas toujours à ses fins. Il a une aversion pour les morts-vivants et toutes les créatures non naturelles. Une nouvelle quête (chapitre 6) est également au programme, ainsi qu'une voie de l'amitié, des réactions à la quête du PJ, banters... Vous le rencontrerez durant la quête des esclavagistes au chapitre 2.",
         "urls": [
             "http://www.shsforums.net/files/file/1001-arath/",
-            "https://github.com/SpellholdStudios/Arath_NPC"
+            "https://github.com/Spellhold-Studios/Arath-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -2145,7 +2145,7 @@
         "description": "Ce mod ajoute une romance complète avec Nalia, y compris les dialogues de l'arbre de vie, l'enlèvement de Nalia par Bodhi et d'autres quêtes liées à l'amour. Il ajoute également de nouvelles quêtes et interactions avec les personnages. Il est recommandé d'avoir Minsc dans l'équipe...",
         "urls": [
             "http://www.shsforums.net/files/file/94-sir-billybobs-revisions-arnels-nalia-romance/",
-            "https://github.com/SpellholdStudios/Arnel-Nalia-Romance-Revision"
+            "https://github.com/Spellhold-Studios/Arnel-Nalia-Romance-Revision"
         ],
         "categories": [
             "PNJ (autre)"
@@ -3780,7 +3780,7 @@
         "description": "Ce mod est une véritable perle : il ajoute de nouvelles fonctionnalités et améliore grandement l'affichage des informations dans le jeu original.|Vous pourrez entre autres : afficher le panneau de butin rapide (comme dans les jeux EE) - notamment regrouper les objets identiques et les récupérer en un seul clic, surligner en vert les parchemins de sorts non retranscrits dans le livre de sorts, ne pas afficher le bouton \"Retranscrire\" sur les parchemins de sorts déjà connus ou d'écoles d'opposition, afficher les points de vie au-dessus du groupe et des PNJ, afficher les informations sur le TAC0 et les dégâts dans l'écran d'inventaire, griser le portrait des personnages quand on fait glisser un objet qu'ils ne peuvent pas utiliser, plier et déplier la description des quêtes dans le journal, afficher la carte en niveaux de gris quand le jeu est en pause, autoriser l'équipement d'arme ou de bouclier dans la main secondaire (experimental), afficher les effets actifs d'un PNJ avec le clic droit, préciser les messages de TAC0 et de dégâts, ne pas effacer les sorts draines, afficher les points de vie et l'action en cours sur le portrait du personnage...",
         "urls": [
             "http://www.shsforums.net/files/file/1265-bg2-improved-gui/",
-            "https://github.com/SpellholdStudios/BG2_Improved_GUI"
+            "https://github.com/Spellhold-Studios/BG2-Improved-GUI"
         ],
         "categories": [
             "Interface"
@@ -4188,7 +4188,7 @@
         "description": "Ce mod propose une gestion alternative de l'apparition aléatoire des créatures dans les zones de la Côté des Épées. Il remplace les créatures aléatoires (mais figées zone par zone) par un système complètement nouveau basé sur le niveau et le nombre de membres du groupe. Vous pouvez choisir l'intervalle entre les apparitions de créatures. En option, vous pouvez aussi installer une nouvelle créature, le Seigneur Loup vampirique (repris du Loup d'Ulcaster de [[Sword Coast Stratagems]]), parmi ces créatures aléatoires.",
         "urls": [
             "http://www.shsforums.net/files/file/740-bgspawn/",
-            "https://github.com/SpellholdStudios/BGSpawn"
+            "https://github.com/Spellhold-Studios/BGSpawn"
         ],
         "categories": [
             "Script et tactique"
@@ -4647,7 +4647,7 @@
         "description": "Vous avez envie de faire la trilogie Baldur's Gate de Château-Suif jusqu'au Trône de Bhaal d'une seule traite ? Vous avez envie de conserver vos PNJ comme Imoen, Jaheira, Minsc, Edwin ou Viconia - ou conserver votre équipe de six personnages créés en mode multi-joueurs - et les faire progresser tout au long de la trilogie ? Ou vous avez simplement envie de jouer à BG1 en 800x600, avec un journal complet, les notes de cartes, et les autres améliorations de BG2, avec tous les bugs de BG1 corrigés, et le tout 100% en français, tout en pouvant continuer à jouer à SoA ou ToB sur la même installation ? Alors, le mod Baldur's Gate Trilogy est pour vous !",
         "urls": [
             "http://www.shsforums.net/forum/261-bgt-weidu",
-            "https://github.com/SpellholdStudios/BGT-WeiDU"
+            "https://github.com/Spellhold-Studios/BGT-WeiDU"
         ],
         "categories": [
             "Conversion"
@@ -4828,7 +4828,7 @@
         "description": "Ce mod a été écrit à partir du constat que le joueur se retrouve parfois sans argent. De plus, il est incompréhensible qu'une grande ville comme La Porte de Baldur ne possède aucune banque.|À côté du quartier général du Trône de Fer se trouve un bâtiment verrouillé grouillant d'ogres mages. Il s'agit de la banque ducale de la Porte de Baldur qui était hors service suite à un cambriolage effectué par les ogres. Retournez dans le bâtiment une journée après avoir tué les ogres, et la banque sera de nouveau opérationnelle. Montez à l'étage et ouvrez un compte auprès du directeur Billboo. Vous pourrez déposer ou retirer de l'argent à tout moment.|Après l'ouverture de la campagne du Siège de Vougedragon, il vous attendra près de la banque et vous pourrez ainsi retirer votre argent si vous le souhaitez.",
         "urls": [
             "http://www.shsforums.net/files/file/1216-bank-of-baldurs-gate-for-eet/",
-            "https://github.com/SpellholdStudios/Bank_of_Baldurs_Gate"
+            "https://github.com/Spellhold-Studios/Bank-of-Baldurs-Gate"
         ],
         "categories": [
             "Gameplay"
@@ -5386,7 +5386,7 @@
         "description": "Ce mod propose deux PNJ recrutables, Kiyone (rôdeuse demi-elfe loyal bon) et Kova (mage/voleuse demi-elfe chaotique bon), non-séparables (comme [[Kiara Zaiya]]) qui ont une romance potentielle (entre eux), des banters avec tout le monde, et une très intéressante quête sur les liens entre les Cagoulés, les Voleurs de l'Ombre et le Conseil des Six, sans parler d'un tas de combats tout au long de SoA (et désormais des interjections dans la Tour de Garde et plusieurs épilogues de romance dans ToB).",
         "urls": [
             "http://www.shsforums.net/forum/325-beyond-the-law",
-            "https://github.com/SpellholdStudios/Beyond_the_Law"
+            "https://github.com/Spellhold-Studios/Beyond-the-Law"
         ],
         "categories": [
             "PNJ recrutable"
@@ -5812,7 +5812,7 @@
         "description": "Bolsa est un nouveau marchand qui vend des sacs variés pour l'inventaire (potions et munitions), mais aussi le Bâton de Magus, une sorte de bâton du mage boosté aux stéroïdes (en plus d'objets classiques).",
         "urls": [
             "http://www.shsforums.net/files/file/772-bolsa/",
-            "https://github.com/SpellholdStudios/Bolsa"
+            "https://github.com/Spellhold-Studios/Bolsa"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -6644,7 +6644,7 @@
         "description": "Ce projet a pour intention de développer le réalisme et l'intérêt de Cernd en le dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires.",
         "urls": [
             "http://www.shsforums.net/files/file/1213-cernd-friendship-soa-tob/",
-            "https://github.com/SpellholdStudios/CerndFriendship"
+            "https://github.com/Spellhold-Studios/Cernd-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -7000,7 +7000,7 @@
         "description": "Conçu par C. Bisson, créateur de [[Shadows over Soubar]], ce mod ajoute un nombre incalculable de quêtes (24 dont certaines assez longues) plus des quêtes de classe inédites. De nouvelles maps (15 + 160 modifiées), de nouveaux objets, de nouvelles recettes pour Cromwell, une nouvelle ville à explorer (Hlondeth), un nouveau personnage à recruter (Rynn, guerrière humaine).... Bref, c'est alléchant. Throne of Bhaal est requis. L'aventure débute à Château-Suif, et après quelques corvées, vous deviendrez plus puissant et poursuivrez le cours normal de BG2 tout en ayant de nombreuses quêtes et nombreuses rencontres à faire.|La nouvelle version englobe les modules complémentaires `Candlekeep Chores (tutoriel)` et `Candlekeep Chores Fast Forward`.",
         "urls": [
             "https://www.spellholdstudios.net/ie/ctb/",
-            "https://github.com/SpellholdStudios/Check_the_Bodies"
+            "https://github.com/Spellhold-Studios/Check-the-Bodies"
         ],
         "categories": [
             "Quête",
@@ -8623,7 +8623,7 @@
         "description": "Dace Linton est une chasseuse de primes chaotique neutre trentenaire. Vous la trouverez dans la partie basse de la Promenade de Waukyne d'où elle vous interpellera si vous quittez ou pénétrez dans le lieu. Elle dispose de contenu pour SoA et ToB avec notamment une romance disponible pour les PJ masculins et féminins sans restriction de race, une voie de l'amitié sur le même principe, de nombreux banters et interjections, de nouvelles musiques, des objets personnels et un petit cadeau pour le PJ dans ToB.",
         "urls": [
             "http://www.shsforums.net/files/file/1038-dace/",
-            "https://github.com/SpellholdStudios/Dace_NPC"
+            "https://github.com/Spellhold-Studios/Dace-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -8832,7 +8832,7 @@
         "description": "Dark Side of the Sword Coast est un mod pour Baldur's Gate + Tales of the Sword Coast. Il ajoute 5 quêtes (plus ou moins importantes) comportant de nouvelles zones, de nouveaux monstres (des morts-vivants en particulier) et 9 nouveaux personnages recrutables. Il ajoute aussi de nouveaux sorts et objets répartis un peu partout dans le jeu, soit sur des adversaires existants, soit sur de nouveaux personnages, soit encore dans des magasins ou des lieux.|La version BG1 (v106) est traduite en français, la version BG:EE (v102) de Red Carnelian ne l'est pas.",
         "urls": [
             "http://www.spellholdstudios.net/ie/dsotsc",
-            "https://github.com/SpellholdStudios/DSotSC"
+            "https://github.com/Spellhold-Studios/DSotSC"
         ],
         "categories": [
             "Quête"
@@ -8935,7 +8935,7 @@
         "description": "Ce mod ajoute Darron, un marchand chargé de négocier les biens spéciaux des Voleurs de l'Ombre. Vous pouvez le trouver dans le sous-sol de la guilde des voleurs dans le quartier du port.",
         "urls": [
             "http://www.shsforums.net/files/file/842-darron/",
-            "https://github.com/SpellholdStudios/Darron"
+            "https://github.com/Spellhold-Studios/Darron"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -9208,7 +9208,7 @@
         "description": "Aussi appelé \"Unholy Gate Opening Ritual Book\", ce mod ajoute un livre permettant de convoquer un démon aléatoire. Il est en possession de Tolgerias dans la sphère planaire. Son utilisation est dangereuse.",
         "urls": [
             "http://www.shsforums.net/files/file/140-demon-summoning-ritual/",
-            "https://github.com/SpellholdStudios/DemonSummoningRitual"
+            "https://github.com/Spellhold-Studios/Demon-Summoning-Ritual"
         ],
         "categories": [
             "Sort et objet"
@@ -9826,7 +9826,7 @@
         "description": "",
         "urls": [
             "http://www.spellholdstudios.net/ie/npciep",
-            "https://github.com/SpellholdStudios/Dorn-Friendship"
+            "https://github.com/Spellhold-Studios/Dorn-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -10957,7 +10957,7 @@
         "description": "Anomen est trop insipide ? Voici une autre alternative pour les personnages féminins. La possibilité (enfin !) de romancer le mage le plus fantasque et le plus caractériel de Féérune. Cela sera-t-il l'occasion de le voir sous un nouveau jour ? Sans oublier les interventions de la mère d'Edwin et sa transformation en Edwina, ajoutant du piment à une relation déjà animée. La nouvelle version regroupe les parties SoA et ToB (traduites par Erszebeth) et la partie Flirts (traduite par Le Marquis).",
         "urls": [
             "http://www.spellholdstudios.net/ie/edwin",
-            "https://github.com/SpellholdStudios/Edwin_Romance"
+            "https://github.com/Spellhold-Studios/Edwin-Romance"
         ],
         "categories": [
             "PNJ (autre)"
@@ -11883,7 +11883,7 @@
         "description": "Ce mod étend la quête de la forteresse du voleur pour la rendre plus intéressante. Vous y retrouverez au passage des personnages de Baldur's Gate comme Lis Noir, Narlen Marchombre...",
         "urls": [
             "http://www.shsforums.net/files/file/757-expanded-thief-stronghold/",
-            "https://github.com/SpellholdStudios/Expanded_Thief_Stronghold"
+            "https://github.com/Spellhold-Studios/Expanded-Thief-Stronghold"
         ],
         "categories": [
             "Quête"
@@ -12098,7 +12098,7 @@
         "description": "Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est un des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romance et quêtes personnelle étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.",
         "urls": [
             "http://www.spellholdstudios.net/ie/fade",
-            "https://github.com/SpellholdStudios/Fade_NPC",
+            "https://github.com/Spellhold-Studios/Fade-NPC",
             "https://github.com/Plutonium-X/NPC_Fade"
         ],
         "categories": [
@@ -12138,7 +12138,7 @@
         "description": "« <i>Une âme en peine hante le cimetière d'Athkatla... Paladin fauché par trop de désinvolture, Aidan est condamné à errer entre la vie et la mort tant que son ultime quête ne trouve pas sa résolution... Serez-vous suffisamment désintéressé(e) pour lui venir en aide ?</i> »|Ce mod introduit Aidan, un paladin déchu d'Amaunator, qui a de sérieux problèmes à vous soumettre. L'un d'eux est qu'il est mort... et l'autre qu'il n'est jamais parvenu à mener à bien sa dernière quête. Aidez-le et qui sait ? Peut-être lui insufflerez-vous le courage de faire face au jugement qu'il a tant de fois évité.|Fading Promises est un mod axé dialogues. Si vous aimez les conversations sur le sens de la vie, de la mort et de l'honneur (et n'êtes pas allergique aux paladins ) n'hésitez pas à le télécharger !",
         "urls": [
             "http://www.spellholdstudios.net/ie/promises",
-            "https://github.com/SpellholdStudios/Fading_Promises"
+            "https://github.com/Spellhold-Studios/Fading-Promises"
         ],
         "categories": [
             "Quête"
@@ -13380,7 +13380,7 @@
         "description": "Generalized Biffing (mise en bif généralisée) est extrêmement important pour éviter des ralentissements en jeu si votre installation contient beaucoup de mods.|Ce n'est pas vraiment un mod, mais un outil écrit avec WeiDU et s'installant comme un mod. Son principe est de créer des fichiers BIF à partir des fichiers de mods ou modifiés par des mods et présents dans le répertoire Override du jeu.|La technique du \"Biffing\" a un objectif principal : réduire les ralentissements dans le jeu. En particulier, ceux observés lors du chargement d'une partie, de l'accès à une zone, ... En effet, la présence d'un très grand nombre de fichiers dans le répertoire Override provoque des ralentissements plus ou moins importants (selon le nombre de fichiers, les performances de l'ordinateur et en particulier du disque dur). À chaque fichier cherché par le jeu, il doit d'abord vérifier s'il est dans le répertoire Override puis, en cas d'échec, aller le chercher dans les fichiers BIF existants (du jeu original ou de certains méga-mods). Ces fichiers BIF ressemblent à des archives zip : ils contiennent un ensemble de fichiers auquel le jeu sait accéder grâce à un sommaire qui lui permet de les retrouver. Cette méthode est plus performante car le nombre de fichiers BIF est très réduit et le jeu passe bien moins de temps à les trouver sur le disque dur. C'est d'ailleurs ainsi que le jeu exploite les fichiers du jeu de base : ils sont tous inclus dans les fichiers BIF des répertoires Data, Movies, et des répertoires CD2, CD3, ...|De fait, le biffing est plutôt réservé à ceux qui effectuent des méga-installations ou qui installent un grand nombre de mods qui modifient énormément de fichiers du jeu, tels que les mods de \"Tweak\".|Même si Generalized Biffing laisse possible la déinstallation ultérieure de mods installés avant lui, il faut bien être conscient que cette désinstallation pourra bien durer très très longtemps, voire des heures entières ! Vous avez donc tout intérêt à n'employer Generalized Biffing que lorsque vous êtes à peu-près certains de ne pas avoir à retoucher votre installation.",
         "urls": [
             "http://www.shsforums.net/files/file/741-generalized-biffing/",
-            "https://github.com/SpellholdStudios/generalized_biffing"
+            "https://github.com/Spellhold-Studios/Generalized-Biffing"
         ],
         "categories": [
             "Utilitaire"
@@ -14463,7 +14463,7 @@
         "description": "Ce mod ajoute une baguette à Kyland Lind, l'acolyte de Faldorn dans le Bosquet des druides. Elle permet d'invoquer des créatures des bois aléatoires et qui sortent de l'ordinaire (tirées du bestiaire monstrueux).",
         "urls": [
             "http://www.shsforums.net/files/file/134-heart-of-the-wood-item/",
-            "https://github.com/SpellholdStudios/HeartOfTheWood"
+            "https://github.com/Spellhold-Studios/Heart-of-the-Wood"
         ],
         "categories": [
             "Sort et objet"
@@ -15189,7 +15189,7 @@
         "description": "Il y des gens destinés à un avenir grandiose, d'autres remplis de pouvoir et de talents, enfin d'autres plus sexy-que-moi-tu-meurs. Mais tous ont besoin d'un bon cuistot : d'où l'utilité de notre druide marchand de légumes Hubelpot. Vous pouvez le trouver dans le magasin de fruits et légumes d'Enge sur la promenade de Waukyne. Hubelpot propose une trentaine de plaisanteries, aucune ne brise le 4e mur et aucune ne comporte le mot \"navet\". Il interagit avec tous les PNJ Bioware à l'exception de Sarevok. Dans ToB, il est encore assez silencieux, ne parlant que lorsqu'il est appelé, avec Volo et à la fin de ToB. Il dispose aussi d'une quête riche en rebondissements, avec avec une récompense inhabituelle.|FOR 12, DEX 8, CON 10, INT 10, SAG 14, CHA 13.",
         "urls": [
             "http://www.shsforums.net/files/file/31-hubelpot-the-vegetable-merchant/",
-            "https://github.com/SpellholdStudios/Hubelpot_the_Vegetable_Merchant_NPC"
+            "https://github.com/Spellhold-Studios/Hubelpot-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -15340,7 +15340,7 @@
         "description": "Ce projet a pour intention de développer le réalisme et l'intérêt des PNJ de Bioware en les dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires. 13 mods sont d'ores et déjà issus de ce projet ambitieux. Il s'agit de : |IEP Extended Banters, [[Cernd Friendship]], [[Dorn Friendship]], [[Haer'dalis Friendship]], [[Hexxat Friendship]], [[Imoen Friendship]], [[Korgan Friendship]], [[Mazzy Friendship]], [[Minsc Friendship]], [[Sarevok Friendship]], [[Valygar Friendship]], [[Viconia Friendship]] et [[Yoshimo Friendship]]. Seuls 5 d'entre eux ont été traduits.",
         "urls": [
             "http://www.spellholdstudios.net/ie/npciep",
-            "https://github.com/SpellholdStudios/IEP_Extended_Banter"
+            "https://github.com/Spellhold-Studios/IEP-Extended-Banters"
         ],
         "categories": [
             "PNJ (autre)"
@@ -16173,7 +16173,7 @@
         "description": "Ce mod modifie le donjon de Spellhold pour le rendre plus amusant, plus difficile et stimulant pour les joueurs confirmés. Il comprend trois composants qui peuvent être installés ensemble ou séparément.",
         "urls": [
             "http://www.shsforums.net/files/file/1261-improved-asylum/",
-            "https://github.com/SpellholdStudios/Improved_Asylum"
+            "https://github.com/Spellhold-Studios/Improved-Asylum"
         ],
         "categories": [
             "Script et tactique"
@@ -16364,7 +16364,7 @@
         "description": "Ce mini mod permet d'améliorer les épées d'Haer'Dalis en Ombreterre.",
         "urls": [
             "http://www.shsforums.net/files/file/804-improved-haerdalis-swords/",
-            "https://github.com/SpellholdStudios/HaerDalis_Swords"
+            "https://github.com/Spellhold-Studios/HaerDalis-Swords"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -17031,7 +17031,7 @@
         "description": "Suivante de Sunie Cheveux-de-flamme, déité chaotique, Isra est une paladine atypique dans le sens où elle fréquente de nombreuses maisons empruntes d'une certaine gaieté et manque de ce fait de la gravité classique propre à cette classe de personnage. Comme tous les paladins, elle tient en haute estime tout ce qui touche à l'honneur, à la discipline et à l'ordre, mais elle tend à estimer davantage le code de conduite de sa classe que les exigences de sa déesse. De ce fait, elle sera plus laxiste envers certains comportements chaotiques. Une voie de l'amitié est possible et quelques flirts sont également disponibles. Sa romance est prévue, mais dans BG2. Isra dispose de contenu supplémentaire si BG:EE est installé (banters).|FOR 16, DEX 12, CON 16, INT 13, SAG 14, CHA 17.",
         "urls": [
             "http://www.shsforums.net/files/file/1042-isra/",
-            "https://github.com/SpellholdStudios/Isra_NPC",
+            "https://github.com/Spellhold-Studios/Isra-NPC",
             "https://github.com/11jo/Isra_NPC/"
         ],
         "categories": [
@@ -17070,7 +17070,7 @@
         "description": "Isra est une paladine, suivante de Sunie Cheveux-de-flamme, que vous pouvez rencontrer dans l'Antre des Sept Vaux sur la Promenade de Waukyne. Vous devrez accomplir quelques quêtes pour pouvoir la recruter - soignez votre réputation pour pouvoir en bénéficier (14 et plus). Isra romancera les PJ bons disposant d'un charisme supérieur à 13, sans restriction de race, de classe ou de sexe. Elle n'intègrera d'ailleurs pas votre groupe si votre PJ est d'alignement mauvais.",
         "urls": [
             "http://www.shsforums.net/files/file/1070-isra-bg2-pc/",
-            "https://github.com/SpellholdStudios/Isra_NPC_BG2"
+            "https://github.com/Spellhold-Studios/Isra-NPC-BG2"
         ],
         "categories": [
             "PNJ recrutable"
@@ -17292,7 +17292,7 @@
         "description": "Moine loyal bon originaire d'Amkethran, il a l'air distant et sérieux de prime abord, mais plutôt pince-sans-rire une fois qu'on lui parle un peu. Il a l'air plutôt bagarreur, étonnant pour un moine... Quelques dialogues inclus, notamment avec d'autres PNJ de mods, un petit flirt possible avec le PJ si c'est une dame.",
         "urls": [
             "http://www.spellholdstudios.net/ie/iylos",
-            "https://github.com/SpellholdStudios/Iylos_NPC"
+            "https://github.com/Spellhold-Studios/Iylos-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -17447,7 +17447,7 @@
         "description": "Ce petit mod dote Jan de la capacité de fabriquer des potions, grâce à un livre de mixtures. 8 nouvelles potions sont au programme.",
         "urls": [
             "http://www.shsforums.net/files/file/801-jans-alchemy/",
-            "https://github.com/SpellholdStudios/JansAlchemy"
+            "https://github.com/Spellhold-Studios/Jans-Alchemy"
         ],
         "categories": [
             "PNJ (autre)"
@@ -18291,7 +18291,7 @@
         "description": "Ce mod d'Alan MC ajoute 2 nouveaux personnages féminins, une mage chaotique bonne (Zaiya) et une moniale neutre mauvaise (Kiara). Des interactions à foison, de nouveaux ennemis, un réajustement des capacités de haut-niveau des moines, une amélioration du combat contre le golem dans le donjon de'Arnise et des combats des chapitres 2 et 6 contre Amaralis (dans la même veine que ceux de [[Tactics]] ou d'[[Ascension]] pour celui du chapitre 6), sans oublier des personnages avec des capacités et un équipement spéciaux. Enfin, la cerise sur le gâteau, une romance avec Kiara qui pourra peut-être l'amener à la rédemption. Les romances sont parfois très osées (Zaiya romancera Cernd).",
         "urls": [
             "http://www.shsforums.net/topic/61123-kiara-zaiya-npcs-updated-to-v201-ee-compatible/",
-            "https://github.com/SpellholdStudios/Kiara-Zaiya"
+            "https://github.com/Spellhold-Studios/Kiara-Zaiya"
         ],
         "categories": [
             "PNJ recrutable"
@@ -22515,7 +22515,7 @@
         "description": "Ce mod a pour but d'ajouter un peu plus de contenu à Neera - dialogues, flirts préliminaires à l'initiative du PJ, dialogues de romance supplémentaires.|Il permet aussi de retirer les restrictions de sexe pour les romances de Neera et Rasaad.",
         "urls": [
             "http://www.shsforums.net/files/file/1022-neera-expansion/",
-            "https://github.com/SpellholdStudios/Neera_Expansion"
+            "https://github.com/Spellhold-Studios/Neera-Expansion"
         ],
         "categories": [
             "PNJ (autre)"
@@ -22578,7 +22578,7 @@
         "description": "Halfeline, clerc de Yondalla de son état, Nephele ajoute une touche d'humour et un peu d'originalité avec du contenu pour BG2:SoA et ToB. Pas de quête, mais beaucoup de dialogues (banters, interjections, et parlote avec le PJ) pour un caractère bien trempé. Vous pourrez la recruter après avoir effectué les quêtes du druide de l'ombre et du génie Dao à Franc-Marché : vous la trouverez alors dans le pub de Vyatri. Ses caractéristiques sont FOR 13, DEX 13, CON 11, INT 11, SAG 15 et CHA 14.",
         "urls": [
             "http://www.spellholdstudios.net/ie/nephele",
-            "https://github.com/SpellholdStudios/Nephele_NPC"
+            "https://github.com/Spellhold-Studios/Nephele-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -22833,7 +22833,7 @@
         "description": "Ninde Amblecrown est une jeune ingénue d'Eauprofonde. Aujourd'hui pourchassée, elle n'a pas la langue dans sa poche, dispose de formidables capacités magiques et d'un ego démesuré. Arriverez-vous à la supporter ? Ces charmes vous laisseront-ils de glace ? Des événements de sa vie passée ne semblent pas étrangers à son tempérament sombre... Que ce soit par l'entremise d'une romance ou d'une amitié, Ninde, sorcière d'alignement mauvais, vous fera découvrir le pan obscur de son histoire ainsi que celle de Lassal. Vous ne pourrez la dénicher dans l'antre de Bodhi que si vous avez choisi de vous allier à Aran Linvail. Sa romance n'est possible que pour un PJ disposant de plus de 13 en charisme, aucune restriction de race / classe n'est cependant à observer. Ce mod ajute également une nouvelle rencontre dans Athkatla, des banters avec les PNJ de Bioware et de juteux échanges avec Bodhi, Lassal et Aran Linvail.",
         "urls": [
             "http://www.spellholdstudios.net/ie/ninde",
-            "https://github.com/SpellholdStudios/Ninde_NPC"
+            "https://github.com/Spellhold-Studios/Ninde-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -23059,7 +23059,7 @@
         "description": "À l'origine, ce mod reprenait l'intégralité de [[Dark Side of the Sword Coast]], ajoutait des quêtes supplémentaires, de nouveaux lieux, ainsi qu'un nouveau personnage recrutable.|À partir de la version 2.0, il est indépendant de [[Dark Side of the Sword Coast]] et vous pouvez l'installer sans ce dernier. Si vous souhaitez jouer aussi [[Dark Side of the Sword Coast]], installez-le avant NTotSC.|Ce mod ajoute des sorts, des objets, des zones à explorer et plusieurs grandes quêtes à la partie BG du jeu.",
         "urls": [
             "http://www.shsforums.net/files/file/71-northern-tales-of-the-sword-coast/",
-            "https://github.com/SpellholdStudios/NTotSC"
+            "https://github.com/Spellhold-Studios/NTotSC"
         ],
         "categories": [
             "Quête"
@@ -23100,7 +23100,7 @@
         "urls": [
             "http://www.shsforums.net/files/file/1283-nostalgia-pack/",
             "https://forums.beamdog.com/discussion/82532/",
-            "https://github.com/SpellholdStudios/Nostalgia-Pack/"
+            "https://github.com/Spellhold-Studios/Nostalgia-Pack"
         ],
         "categories": [
             "Cosmétique"
@@ -23330,7 +23330,7 @@
         "description": "Y a pas à dire, le graphisme de certains objets, des femmes en armure et bien d'autres éléments laisse à désirer, et on obtient même des dessins plus laids (exemple du demi-elfe) que sur BG1. Sans aucun doute le mod le plus complet en matière d'ajustements graphiques, 1pp est le fruit d'un long et ambitieux travail passionné mené pendant près de 8 ans, avec pour objectif d'offrir une expérience de jeu raffinée et plus agréable à tous ceux qui considèrent que les éléments graphiques de Baldur's Gate II laissaient à désirer par rapport à ceux de son prédécesseur.|Ce mod ambitieux se propose de faire un lifting (formes, dessins, couleurs, bug graphiques...) à tout cela afin de rendre plus agréable le visionnage de votre inventaire. Mis à jour et simplifié sous la forme d'un programme d'installation unique, 1ppv4 compile en un seul package les divers composants d'amélioration graphique qui se sont accumulés au fil des ans et compte bon nombre d'améliorations notamment sur les épées enflammées (courtes et longues), les avatars (humain, demi-orque, elfe, halfling, nain), les boucliers (targes, rondaches et écus), la coloration des bâtons, les robes...",
         "urls": [
             "http://www.spellholdstudios.net/ie/1pp",
-            "https://github.com/SpellholdStudios/1pp"
+            "https://github.com/Spellhold-Studios/1pp"
         ],
         "categories": [
             "Cosmétique"
@@ -24315,7 +24315,7 @@
         "description": "Ce mod remplace des portraits de PNJ de BG2 par des créations de Phaere : Aerie, Edwin, Haer'Dalis, Imoen, Jaheira, Mazzy, Minsc, Sarevok et Viconia.",
         "urls": [
             "http://www.shsforums.net/files/file/1259-phaere-npc-portraits-for-bg2/",
-            "https://github.com/SpellholdStudios/Phaere_NPC_Portraits_for_BG2"
+            "https://github.com/Spellhold-Studios/Phaere-NPC-Portraits-BG2"
         ],
         "categories": [
             "Portrait et son"
@@ -25671,7 +25671,7 @@
         "description": "Cette version moderne du \"Pack d'objets de Rastor\" réduit la puissance de certains objets, et augmente celle d'autres qui en manquent.",
         "urls": [
             "http://www.shsforums.net/files/file/1262-rpg-item-pack/",
-            "https://github.com/SpellholdStudios/RPG_Dungeon_Item_Pack"
+            "https://github.com/Spellhold-Studios/RPG-Dungeon-Item-Pack"
         ],
         "categories": [
             "Sort et objet"
@@ -25699,7 +25699,7 @@
         "description": "Ce mod modifie certains profils existants et en ajoute d'autres :|- guerrier : Archer arcanique (aussi doué avec son arc qu'avec la magie et possédant des qualités redoutables pour dissiper toutes les illusions), Hellion (adorant le Prince des Enfers, il peut invoquer de puissantes créatures démoniaques durant le combat) et Soldat.|- Ice Knight (rôdeur).|- Spell Weaver (sorcier entropiste).|- Wild Jester et Buffoon (bardes ou voleurs, au choix).|- Spellsword (guerrier/entropiste).",
         "urls": [
             "http://www.shsforums.net/files/file/1263-rpg-dungeon-kit-pack/",
-            "https://github.com/SpellholdStudios/RPG_Dungeon_Kit_Pack"
+            "https://github.com/Spellhold-Studios/RPG-Dungeon-Kit-Pack"
         ],
         "categories": [
             "Kit"
@@ -26071,7 +26071,7 @@
         "description": "Ce mod ajoute un nouveau parchemin de sort de niveau 9 dans le stock secret d'objets de Ribald. Cependant, n'oubliez pas que trop l'utiliser enlèvera le plaisir du jeu !",
         "urls": [
             "http://www.shsforums.net/files/file/799-dragon-summon-weidu/",
-            "https://github.com/SpellholdStudios/Red_Dragon_Summoning_Spell"
+            "https://github.com/Spellhold-Studios/Red-Dragon-Summoning-Spell"
         ],
         "categories": [
             "Sort et objet"
@@ -26234,7 +26234,7 @@
         "description": "Ce mod assez gros ajoute plus de 30 quêtes dont 10 énormes (la liste se trouve <a href=\"http://www.shsforums.net/topic/15106-quest-list/\">ici</a>), permet de recruter 7 \"nouveaux\" PNJ (Drizzt, Wulfgar, Regis, Catti-Brie, Bruenor, Entreri et Jarlaxle), ajoute une centaine d'objets, de nouveaux kits, de nouveaux sorts et de nouvelles zones.|L'idée principale s'articule autour du sauvetage de Drizzt et de ses compagnons, et de sa confrontation finale avec Artemis Entreri. Si vous êtes d'alignement mauvais, vous pourrez trahir Drizzt et vous acoquiner avec Entreri.",
         "urls": [
             "http://www.spellholdstudios.net/ie/rot",
-            "https://github.com/SpellholdStudios/Region_of_Terror"
+            "https://github.com/Spellhold-Studios/Region-of-Terror"
         ],
         "categories": [
             "Quête",
@@ -27145,7 +27145,7 @@
         "description": "Rolles Safyer est un vendeur présent sur la Promenade de Waukyne d'Athkatla. S'il vend de nombreux objets - assez cher - (dont quelques-uns de ces fameux livres qui augmentent les caractéristiques), sa principale fonction est forgeron d'objets magiques. À la manière d'un Cromwell ou d'un Ruad, il analysera votre inventaire pour voir si certaines de vos armes ou de vos objets peuvent être améliorés ou combinés avec d'autres objets. Le résultat peut être puissant, si toutefois vous y mettez le prix, qui peut être conséquent...",
         "urls": [
             "http://www.shsforums.net/topic/36655-rolles-v505",
-            "https://github.com/SpellholdStudios/Rolles"
+            "https://github.com/Spellhold-Studios/Rolles"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -27301,7 +27301,7 @@
         "description": "Ce mod ajoute un forgeron nain dans SoA, puis dans ToB, capable d'assembler des objets à la manière de Cromwell. À la différence du mod [[Item Upgrade]], la plupart des objets en question demandent un certain sacrifice, tel que le cœur de Yoshimo ou le manche de Vague.",
         "urls": [
             "http://www.shsforums.net/files/file/790-ruad-rofhessa-item-upgrade/",
-            "https://github.com/SpellholdStudios/RuadRofhessaItemUpgrade"
+            "https://github.com/Spellhold-Studios/Ruad-Rofhessa-Item-Upgrade"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -27423,7 +27423,7 @@
         "description": "Ce mod ajoute un nouveau marchand qui vend divers colorants et de nouvelles tenues. Les colorants fonctionnent comme des potions. Ceux-ci peuvent être utilisés par n'importe qui et changeront de façon permanente les couleurs de l'utilisateur comme spécifié par le colorant : il existe des options séparées pour les couleurs principales et secondaires, le cuir (ceintures/bottes/sangles), les armures, les objets décoratifs (comme les boucles de ceinture/amulettes ) et les cheveux. Les tenues changeront l'apparence du personnage pour correspondre à la classe spécifiée : combattant, mage, voleur ou clerc.|Tous ces changements sont purement cosmétiques : vous ne gagnez ou ne perdez pas de capacités en utilisant quoi que ce soit acheté chez Rupert.",
         "urls": [
             "http://www.shsforums.net/files/file/153-rupert-the-dye-merchant/",
-            "https://github.com/SpellholdStudios/Rupert_the_Dye_Merchant"
+            "https://github.com/Spellhold-Studios/Rupert-the-Dye-Merchant"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -27776,7 +27776,7 @@
         "description": "Ce mod ajoute un nouveau PNJ, Saradas l'archimage, qui interagit de diverses manières avec le groupe de l'Enfant de Bhaal. Dans Shadows of Amn, c'est un PNJ non recrutable qui offre de nombreux services. Il se trouve dans le temple de Lathandre, dans le quartier des temples d'Athkatla. En plus d'avoir plusieurs dialogues exclusifs qui se déroulent au fur et à mesure que l'intrigue prend forme, sa boutique vaut le détour. De plus, Saradas est un collectionneur d'artefacts. Si vous trouvez un artefact ancien, vous pouvez le lui apporter et il l'enchantera pour vous, conférant des propriétés magiques à l'objet.|Dans ToB, Saradas est enfin un PNJ recrutable ! Vous pouvez l'invoquer via l'Esprit du destin dans votre antichambre. C'est un humain prêtre de Lathandre jumelé mage.|FOR 10, DEX 13, CON 14, INT 18, SAG 20, CHA 15.",
         "urls": [
             "http://www.shsforums.net/files/file/1139-saradas-magic-for-bg2/",
-            "https://github.com/SpellholdStudios/Saradas_Magic_for_BG2"
+            "https://github.com/Spellhold-Studios/Saradas-Magic-BG2"
         ],
         "categories": [
             "Forgeron et marchand",
@@ -28413,7 +28413,7 @@
         "description": "Ce mod de C. Bisson est assez gigantesque et modifie grandement l'histoire de SoA. Il ajoute 4 nouveaux PNJ, 1 nouveau profil, 1 nouveau donjon, 100 nouvelles cartes, 400 nouvelles créatures, 400 nouveaux items, 20 nouveaux magasins (marchands), 30 sous-quêtes et 2 quêtes majeures.",
         "urls": [
             "http://www.spellholdstudios.net/ie/sos",
-            "https://github.com/SpellholdStudios/Shadows_over_Soubar"
+            "https://github.com/Spellhold-Studios/Shadows-over-Soubar"
         ],
         "categories": [
             "Quête",
@@ -28932,7 +28932,7 @@
         "name": "Silver Star NPC",
         "description": "Silver Star est une assassin elfe qui peut se joindre à la fête dans le charmant trou souterrain d'Irenicus. Ce projet a récemment pris un changement de direction dans la mesure où le créateur original Davide Carta a décidé d'ouvrir le mod à la communauté. Saisissant cette opportunité, la nouvelle équipe a décidé de modifier plusieurs éléments d'origine avec une voie qui est considérée comme plus appropriée pour Silver Star.|Elle est partiellement folle et a des complexes d'enfance : par exemple, elle a une véritable obsession pour les petits agneaux doux... Et elle chante et rit. Elle est chroniquement empoisonnée, ce qui explique sa grande tolérance au poison et sa faible constitution.|C'est une tueuse sans remords, quand elle est d'humeur normale, et fait des choses maléfiques, comme le jeu, le chantage, le meurtre, le vol, etc. Elle a une certaine interaction avec les PNJ dans SoA, mais pas dans ToB.",
         "urls": [
-            "https://github.com/SpellholdStudios/Silver_Star_NPC"
+            "https://github.com/Spellhold-Studios/Silver-Star-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -30299,7 +30299,7 @@
         "description": "Ce mod ajoute l'arsenal du mage dispersé dans l'inventaire de plusieurs créatures. Si vous possédez tous les objets, celui qui les porte tous obtient un bonus exceptionnel, et vous rencontrerez quelqu'un qui voudra vous parler dans l'antichambre...",
         "urls": [
             "http://www.shsforums.net/files/file/643-stuff-of-the-magi-weidu/",
-            "https://github.com/SpellholdStudios/StuffofTheMagi"
+            "https://github.com/Spellhold-Studios/Stuff-of-the-Magi"
         ],
         "categories": [
             "Sort et objet"
@@ -30487,7 +30487,7 @@
         "description": "Destiné aux joueurs confirmés, ce mod devrait faire de Firkraag l'utilisateur de magie et le dragon incroyablement puissant qu'il devrait être. Son auteur se vante d'avoir lancé un défi à tous les tricheurs pour trouver le moyen de le battre...",
         "urls": [
             "http://www.shsforums.net/files/file/1257-super-firkraag/",
-            "https://github.com/SpellholdStudios/Super_Firkraag"
+            "https://github.com/Spellhold-Studios/Super-Firkraag"
         ],
         "categories": [
             "Script et tactique"
@@ -32635,7 +32635,7 @@
         "description": "Vos personnages peuvent participer à un talk show animé par un célèbre présentateur d'Amn, Jerry Zinger (sorte de pseudo Jerry Springer). On nage en plein anachronisme, et alors ? Quelques thèmes : \"Mon ex est une folle\", \"Les paladins portant de la lingerie fine et leur femme qui adore\"...",
         "urls": [
             "http://www.spellholdstudios.net/ie/jz",
-            "https://github.com/SpellholdStudios/The_Jerry_Zinger_Show"
+            "https://github.com/Spellhold-Studios/Jerry-Zinger-Show"
         ],
         "categories": [
             "Quête"
@@ -32736,7 +32736,7 @@
         "description": "Ce mod ajoute deux PNJ pouvant être recrutés, Sebastian et Andrei Luxley. Sebastian est un dramaturge chaotique neutre avec un sens de l'humour plutôt spécial qui semble prendre un grand plaisir à faire découvrir à son cousin Andrei le monde en dehors de leur maison familiale. Andrei est un jeune moine poli, loyal et neutre avec un fort sentiment de soi qui a mené une vie plutôt protégée jusqu'à présent. Tout au long de votre voyage avec eux, vous découvrirez que leur famille ne ressemble pas à ce qu'elle paraît. Vous devrez peut-être prendre des décisions difficiles - et la voie que vous choisirez aura des répercussions. Notez que ce mod est truffé de contenu pour adultes",
         "urls": [
             "http://www.shsforums.net/files/file/560-the-luxley-family/",
-            "https://github.com/SpellholdStudios/The_Luxley_Family"
+            "https://github.com/Spellhold-Studios/Luxley-Family"
         ],
         "categories": [
             "PNJ recrutable"
@@ -32792,7 +32792,7 @@
         "description": "Dans les égouts d'Athkatla, vous rencontrez un minotaure attaqué par 4 myconides, ainsi que 3 corps gisant au sol, sans qu'aucune explication ne soit donnée. Ce mini-mod se propose d'en raconter l'histoire.",
         "urls": [
             "http://www.shsforums.net/files/file/818-the-minotaur-and-lilacor/",
-            "https://github.com/SpellholdStudios/The_Minotaur_and_Lilacor"
+            "https://github.com/Spellhold-Studios/Minotaur-and-Lilacor"
         ],
         "categories": [
             "Quête"
@@ -33103,7 +33103,7 @@
         "description": "Ce mod ajoute une courte quête dans Throne of Bhaal (ce mod n'est donc pas disponible pour ceux n'utilisant que Baldur's Gate 2 - Shadows of Amn sans l'extension). Plus précisément, elle se déclenche dans l'Antichambre de Bhaal, une fois que vous avez rendu vie à Sarevok. Pour que la quête commence, Imoen doit être dans votre groupe. c'est votre chipie de sœur qui, en effet, va la déclencher en commettant une de ses bêtises. Vous aurez entre autres droit à un combat, puis à un objet magique inédit reçu en récompense pour vos efforts.",
         "urls": [
             "http://www.shsforums.net/files/file/151-the-slithering-menace-tob/",
-            "https://github.com/SpellholdStudios/TheSlitheringMenace"
+            "https://github.com/Spellhold-Studios/Slithering-Menace"
         ],
         "categories": [
             "Quête"
@@ -33176,7 +33176,7 @@
         "description": "Si vous êtes fan de Lilarcor, ce mod tout ce qu'il y a de plus farfelu est pour vous. Il ajoute une nouvelle épée au pouvoir incommensurable, totalement inutile, aussi bavarde qu'une pie, et dont l'humour est... euh... ben c'est du Neeber.",
         "urls": [
             "http://www.shsforums.net/topic/36038-the-sword-of-noober/",
-            "https://github.com/SpellholdStudios/TheSwordofNoober"
+            "https://github.com/Spellhold-Studios/Sword-of-Noober"
         ],
         "categories": [
             "Sort et objet"
@@ -33307,7 +33307,7 @@
         "description": "Ce mod ajoute sur les quais un magasin à la vendeuse peu ordinaire. Vous la trouverez en face du temple d'Oghma. Certains de ses articles vous paraîtront trop puissants, voire impossible à utiliser, mais ils auront au moins le mérite de la diversité.",
         "urls": [
             "http://www.shsforums.net/files/file/1264-the-unusual-oddities-shop/",
-            "https://github.com/SpellholdStudios/The_Unusual_Oddities_Shop"
+            "https://github.com/Spellhold-Studios/Unusual-Oddities-Shop"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -33897,7 +33897,7 @@
         "description": "Il s'agit d'une version personnalisée de [[TobEx]] v26/v28 tirée du mod [[BG2 Improved GUI]] d'Insomniator, mais qui n'active que les corrections et ajustements de TobEx.|Même s'il n'est pas incompatible avec ToBEx puisqu'il s'installe parfaitement après TobEx, préférez-lui le mod [[BG2 Improved GUI]] qui installe une version complète de ce patch.",
         "urls": [
             "http://www.shsforums.net/files/file/1274-tobex-afterlife/",
-            "https://github.com/SpellholdStudios/TobEx_AfterLife"
+            "https://github.com/Spellhold-Studios/TobEx-AfterLife"
         ],
         "categories": [
             "Patch non officiel"
@@ -34454,7 +34454,7 @@
         "description": "Volo n'est pas le seul à connaître des histoires qui valent la peine d'être racontées. De nombreux troubadours et bardes parcourent Féérune au péril de leur vie pour égayer les tavernes. Ce mod ajoute un troubadour très spécial, qui, pour quelques pièces d'or, vous racontera des histoires inédites, et même les origines de certains personnages, comme le mystérieux Riojano, ou Artemis Entreri. Vous pouvez le retrouver sur la Promenade de Waukyne. Il ajoute également une boutique avec des objets curieux. Il n'est malheureusement disponible qu'en espagnol.",
         "urls": [
             "http://www.shsforums.net/files/file/853-trovador-reo/",
-            "https://github.com/SpellholdStudios/Trovador_REO"
+            "https://github.com/Spellhold-Studios/Trovador-REO"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -35733,7 +35733,7 @@
         "description": "Si vous avez toujours rêvé d'en savoir plus sur la mystérieuse organisation des Mages cagoulés, ce mod est fait pour vous. Décidée à enquêter sur les rumeurs de présence de démons à proximité de Nashkel, la sorcière Valérie attend de valeureux compagnons dans la ville pour dénouer le vrai du faux dans les mines et peut-être même au-delà. Banters, interjections, voie de l'amitié avec flirts sont au programme.",
         "urls": [
             "http://www.shsforums.net/files/file/1041-valerie/",
-            "https://github.com/SpellholdStudios/Valerie_NPC"
+            "https://github.com/Spellhold-Studios/Valerie-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -37364,7 +37364,7 @@
         "description": "Ce mod est absolument indispensable avec n'importe quelle combinaison de mods ajoutant des lieux sur la carte du monde (BGT, [[The Darkest Day]], [[Check the Bodies]], [[Shadows over Soubar]]...). Il permet de disposer d'une carte du monde unique, plus grande et plus jolie, et compatible avec tous les mods existants pour Baldur's Gate II ou ceux spécifiques à BGT ou BG1Tutu (s'insérant dans la trame de Baldur's Gate).|Il doit être installé au minimum après tous les mods susceptibles d'ajouter des emplacements dans la carte du monde. Attention à éviter de désinstaller ou réinstaller ce mod, cela pourrait tout simplement détruire votre partie.|Il vous est fortement conseillé de choisir l'option `Temps de voyages originaux` et la petite carte (si on vous pose la question). Les temps de voyages \"revus\" comportent des bugs non résolus, et la grande carte est plus lourde à charger sans présenter d'avantages (mais si vous installez un mod qui requiert la grande carte, cette dernière sera installée d'office sans qu'on vous pose la question).",
         "urls": [
             "http://www.shsforums.net/files/file/308-bp-bgt-worldmap/",
-            "https://github.com/SpellholdStudios/BP-BGT-Worldmap"
+            "https://github.com/Spellhold-Studios/BP-BGT-Worldmap"
         ],
         "categories": [
             "Patch non officiel"
@@ -37684,7 +37684,7 @@
         "description": "Ce mod ajoute le vieux nain dévot de Vergadain et de Clangeddin à BG2:SoA, avec banters, interjections, un nouveau profil (Alaghor of Clangeddin), ainsi que de nombreux échanges avec le PJ. Yeslick tentera de s'imposer comme la figure paternelle du groupe. Sa main sûre en fera un compagnon chaleureux, indéfectible au PJ jusqu'à la fin. Ses caractéristiques sont FOR 15, DEX 12, CON 17, INT 11, SAG 16 et CHA 12.",
         "urls": [
             "http://www.spellholdstudios.net/ie/yeslick",
-            "https://github.com/SpellholdStudios/Yeslick_NPC"
+            "https://github.com/Spellhold-Studios/Yeslick-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -38993,7 +38993,7 @@
         "description": "Ce mod d'expansion donne une possibilité de rédemption à Korgan si Mazzy fait partie du groupe.",
         "urls": [
             "http://www.shsforums.net/files/file/933-korgans-redemption/",
-            "https://github.com/SpellholdStudios/KorgansRedemption"
+            "https://github.com/Spellhold-Studios/Korgan-Redemption"
         ],
         "categories": [
             "PNJ (autre)"
@@ -39029,7 +39029,7 @@
         "description": "Ce mini mod d'expansion ajoute une petite surprise au dialogue de Lucy, la wiverne rencontrée dans le Marché de l'Aventurier. Pour le déclencher, il suffit d'entamer le dialogue avec le PJ.",
         "urls": [
             "http://www.shsforums.net/files/file/635-lucy-the-wyvern",
-            "https://github.com/SpellholdStudios/Lucy_the_Wyvern"
+            "https://github.com/Spellhold-Studios/Lucy-the-Wyvern"
         ],
         "categories": [
             "PNJ (autre)"
@@ -39432,7 +39432,7 @@
         "description": "En complément du mod [[Solaufein NPC]] permettant de recruter le fameux drow à Ust Natha, voici la suite de la romance disponible pour la mener à son terme, avec de nombreuses idées compilées dans ce mod achevé, notamment la possibilité de l'aider dans ses choix (il quitte tout de même l'Ombreterre pour vous suivre...).",
         "urls": [
             "http://www.shsforums.net/files/file/1258-solaufein-flirt-pack-for-the-solaufein-romance-mod/",
-            "https://github.com/SpellholdStudios/Solaufein_Flirt_Pack"
+            "https://github.com/Spellhold-Studios/Solaufein-Flirt-Pack"
         ],
         "categories": [
             "PNJ recrutable"
@@ -40462,7 +40462,7 @@
         "description": "Ce mod ajoute une série de dialogues avec Imoen, la soeur du PJ, développant son vécu et les luttes d'Imoen.",
         "urls": [
             "http://www.spellholdstudios.net/ie/imoenfriendship",
-            "https://github.com/SpellholdStudios/ImoenFriendship"
+            "https://github.com/Spellhold-Studios/Imoen-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -40537,7 +40537,7 @@
         "description": "Ce mod ajoute une série de dialogues avec Korgan.",
         "urls": [
             "http://www.spellholdstudios.net/ie/npciep",
-            "https://github.com/SpellholdStudios/KorganFriendship"
+            "https://github.com/Spellhold-Studios/Korgan-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -40571,7 +40571,7 @@
         "description": "Ce mod ajoute une série de dialogues pour tout PJ éligible, qui vous permettront d'en apprendre plus sur la vaillante petite-personne, et de vous lier d'amitié avec elle. Mazzy n'est pas la femme la plus bavarde au monde, mais elle a certainement ses avis et les énoncera si elle le juge opportun - de même, si elle a des questions, elle n'hésitera pas à les poser.",
         "urls": [
             "http://www.spellholdstudios.net/ie/mazzyfriendship",
-            "https://github.com/SpellholdStudios/MazzyFriendship"
+            "https://github.com/Spellhold-Studios/Mazzy-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -40606,7 +40606,7 @@
         "description": "Ce mod ajoute une série de dialogues à Sarevok, le frère du PJ, et développe ses expériences et ses difficultés.",
         "urls": [
             "http://www.shsforums.net/files/file/1036-sarevok-friendship/",
-            "https://github.com/SpellholdStudios/SarevokFriendship"
+            "https://github.com/Spellhold-Studios/Sarevok-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -40717,7 +40717,7 @@
         "description": "Ce mod ajoute une série de dialogues pour tout PJ homme ou femme qui a repoussé Viconia. Il essaye de donner quelque chose à se mettre sous la dent pour quiconque n'est pas intéressé par une romance. Mais gardez en tête que Viconia n'est pas une personne à l'abord facile, sans même parler d'amitié. Elle n'en fait qu'à sa tête, et même si elle accepte de voyager avec vous, elle pourrait ne pas souhaiter devenir votre confidente.",
         "urls": [
             "http://www.spellholdstudios.net/ie/npciep",
-            "https://github.com/SpellholdStudios/ViconiaFriendship"
+            "https://github.com/Spellhold-Studios/Viconia-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -40779,7 +40779,7 @@
         "description": "Ce mod ajoute une série de dialogues avec Yoshimo, notre charmante canaille préférée que l'on rencontre dans le donjon d'Irenicus au début du jeu. Couvrant le temps qu'il passe dans le groupe, Yoshimo Friendship développe le voleur plein d'humour en accroissant son histoire et en offrant au joueur un point de vue neuf sur le personnage.",
         "urls": [
             "http://www.spellholdstudios.net/ie/yoshimo",
-            "https://github.com/SpellholdStudios/YoshimoFriendship"
+            "https://github.com/Spellhold-Studios/Yoshimo-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -40875,7 +40875,7 @@
         "description": "Ce mod ajoute une série de dialogues à Valygar, le fameux rôdeur, et développe ses expériences et ses difficultés.",
         "urls": [
             "http://www.spellholdstudios.net/ie/npciep",
-            "https://github.com/SpellholdStudios/ValygarFriendship"
+            "https://github.com/Spellhold-Studios/Valygar-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -40940,7 +40940,7 @@
         "description": "Ce mod ajoute une série de dialogues à Minsc, le fameux rôdeur, et développe ses expériences et ses difficultés.",
         "urls": [
             "http://www.spellholdstudios.net/ie/npciep",
-            "https://github.com/SpellholdStudios/MinscFriendship"
+            "https://github.com/Spellhold-Studios/Minsc-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -40974,7 +40974,7 @@
         "description": "Ce mod ajoute une série de dialogues à Haer'Dalis, le fameux barde, et développe ses expériences et ses difficultés.",
         "urls": [
             "http://www.spellholdstudios.net/ie/npciep",
-            "https://github.com/SpellholdStudios/HaerdalisFriendship"
+            "https://github.com/Spellhold-Studios/HaerDalis-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -41258,7 +41258,7 @@
         "description": "Ce mod ajoute une série de dialogues à Hexxat, la fameuse vampire, et développe ses expériences et ses difficultés.",
         "urls": [
             "http://www.shsforums.net/files/file/1278-hexxat-friendship-soa-tob/",
-            "https://github.com/SpellholdStudios/Hexxat-Friendship"
+            "https://github.com/Spellhold-Studios/Hexxat-Friendship"
         ],
         "categories": [
             "PNJ (autre)"
@@ -42162,7 +42162,7 @@
         "description": "Ce mod ambitieux ajoute une nouvelle zone dans Athkatla où se réunissent tous vos anciens amis de BG1. Que font-ils là-bas ? Ils papotent, ils se détentent et boivent. Des milliers de lignes de dialogues qui changent à chaque conversation. Des variations selon l'heure du jour (ou de la nuit). Ce mod permet aux autres moddeurs d'ajouter eux-mêmes des PNJ. Il y a aussi quelques surprises.",
         "urls": [
             "https://forums.beamdog.com/discussion/82463/",
-            "https://github.com/SpellholdStudios/BG1_NPCs_for_SoA_-_ToB"
+            "https://github.com/Spellhold-Studios/BG1-NPCs-for-SoA-ToB"
         ],
         "categories": [
             "PNJ (autre)"
