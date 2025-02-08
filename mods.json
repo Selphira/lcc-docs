@@ -8283,7 +8283,8 @@
         "authors": [
             "Grim Squeaker",
             "K'aeloree",
-            "berelinde"
+            "berelinde",
+            "Smiling Imp"
         ],
         "team": [],
         "notes": [],
@@ -8519,6 +8520,7 @@
         "description": "Ce mini mod ajoute une rencontre supplémentaire dans les Collines d'Umar au chapitre 6. Ce n'est que le prétexte à un combat assez difficile contre des ennemis de niveaux 15 à 20 et très bien équipés. L'auteur a prévu 3 niveaux de difficulté : facile (déjà bien assez ardu), difficile et carrément démentiel.",
         "urls": [
             "http://www.shsforums.net/files/file/614-ds-odd-quest-mod/",
+            "https://github.com/Spellhold-Studios/Duality-Odd-Quest-Mod",
             "https://github.com/Plutonium-X/FIGHT_Duality_Odd_Quest/"
         ],
         "categories": [
@@ -8537,7 +8539,7 @@
             "Deratiseur"
         ],
         "notes": [
-            "Choisissez le lien github pour la version française."
+            "Choisissez le second lien github pour la version française."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -39380,15 +39382,16 @@
         ],
         "team": [],
         "notes": [
-            "Téléchargez la version GitHub qui est plus récente."
+            "Téléchargez la version GitHub qui est plus récente.",
+            "Ce mod est inclu dans [[Crossmod Banter Pack for Baldur's Gate II]]."
         ],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en",
             "ru"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2023-02",
         "tp2": "SmilingImpCrossBanterMod"
     },
@@ -47507,7 +47510,7 @@
     },
     {
         "name": "Stinger",
-        "description": "Ce mod ajoute une puissante épée longue à acheter à l'Auberge de Brasimical.",
+        "description": "Ce mod ajoute une puissante épée longue à acheter à l'Auberge de Brasamical.",
         "urls": [
             "https://sorcerers.net/Games/dl/eyJpdiI6IjlITnk1NGgyZldQTklnV0NZdnZuMlE9PSIsInZhbHVlIjoiaFc0T1RrUXJENDR5eWQrR01HcWFpVWFrNWw3bHN6UmJFUWgwQ2JVVG9cLzQ9IiwibWFjIjoiMGU3ZWZkNzY3MWIxMDU3YjBmOTA0Yzk0MTk4YmFmZjhkMjAwYzI3YTQ2ZDI4YTNmMTdjMDVlNTI3MWRlZmNmMyJ9"
         ],
@@ -47528,5 +47531,120 @@
         "status": "active",
         "last_update": "2007-10",
         "tp2": "non-weidu"
+    },
+    {
+        "name": "DLC Builder",
+        "description": "Les jeux Infinity Engine Enhanced Edition depuis la version 2.0 offrent la possibilité d'installer des extensions sous forme de DLC. L'exemple le plus connu est l'extension Siege of Dragonspear, disponible sous forme de DLC sur les plateformes GOG et Steam. Mais cette fonctionnalité peut également être utilisée pour le modding.|Ce mod vous permet de transformer vos jeux moddés en archives DLC. De cette façon, vous n'avez pas besoin de passer par le processus long et sujet aux erreurs d'installation d'un mod après l'autre si vous voulez simplement réutiliser une configuration de mod connue. Il peut également être utilisé pour synchroniser rapidement plusieurs installations de jeux afin qu'elles puissent être utilisées pour des sessions multijoueurs.",
+        "urls": [
+            "https://github.com/Argent77/A7-DlcBuilder"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET"
+        ],
+        "authors": [
+            "Argent77"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2020-03",
+        "tp2": "DlcBuilder"
+    },
+    {
+        "name": "A7-TextureConvert",
+        "description": "Un mod d'aide qui vous permet d'automatiser la conversion des textures PVRZ vers les différents types de compression utilisés par les variantes mobiles des jeux de l'Enhanced Edition.",
+        "urls": [
+            "https://github.com/Argent77/A7-TextureConvert"
+        ],
+        "categories": [
+            "Utilitaire"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "IWDEE",
+            "EET",
+            "PSTEE"
+        ],
+        "authors": [
+            "Argent77"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2021-11",
+        "tp2": "A7-TextureConvert"
+    },
+    {
+        "name": "Biff the Understudy - Tutorial NPC for SoD",
+        "description": "Ce mod est conçu comme un tutoriel pour les moddeurs sur la façon de scripter la structure de base nécessaire pour un PNJ SoD. Biff est un « combattant » avec FOR 9, DEX 9, CON 9, INT 9, SAG 9, CHA 9, pas d'objets, pas de portrait, et pas de soundset. Il n'est pas destiné à être joué, mais faites-vous plaisir ! Le mod devrait définitivement fonctionner dans SoD.",
+        "urls": [
+            "https://github.com/Gitjas/Biff_the_Understudy_TutorialNPC_for_SoD"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BGEE",
+            "EET"
+        ],
+        "authors": [
+            "jastey"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-06",
+        "tp2": "biffsodtutorial"
+    },
+    {
+        "name": "Blonde Imoen",
+        "description": "Ce mod permet à Imoen d'avoir de beaux cheveux blonds. Ok, je ne peux pas garantir leur beauté mais ils sont blonds ! Vous avez la possibilité de lui donner des cheveux blonds courts (longueur normale d'Imoen) ou des cheveux blonds plus longs (longueur à la Aerie).",
+        "urls": [
+            "https://github.com/Gibberlings3/BlondeImoen"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Grim Squeaker"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-06",
+        "tp2": "blondeimmy"
     }
 ]
