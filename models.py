@@ -44,7 +44,7 @@ class Mod:
     description: str
     team: list
     games: list
-    safe: bool
+    safe: int
     translation_state: str
     languages: list
     authors: list
