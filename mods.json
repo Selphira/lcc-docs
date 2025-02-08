@@ -11871,7 +11871,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-06",
         "tp2": "expandedclasses"
@@ -47419,6 +47421,112 @@
         "languages": [],
         "status": "active",
         "last_update": "2022-02",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Master Volo",
+        "description": "Volo est un marchand ambulant que vous trouverez dans diverses cartes pour lui vendre votre équipement. Il vend à prix coûtant et propose des identifications, soins et repos à prix réduits.",
+        "urls": [
+            "https://cafe.naver.com/nextrealm?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D12857088%2526menuid%3D25%2526boardtype%3DI%2526page%3D1%2526specialmenutype%3D%2526articleid%3D77824%2526referrerAllArticles%3Dfalse"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG",
+            "BGT",
+            "BGEE"
+        ],
+        "authors": [
+            "500원라이터"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod est en coréen."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "kr"
+        ],
+        "status": "active",
+        "last_update": "2013-11",
+        "tp2": "MASTER_VOLO"
+    },
+    {
+        "name": "Custom Items Collection",
+        "description": "Ce mod ajoute de nombreux objets au magasin de Joluv et Deidre.",
+        "urls": [
+            "https://sorcerers.net/Games/dl/eyJpdiI6IlorRWxTa1ZNb3NYalJMblFLenhISVE9PSIsInZhbHVlIjoiUUpjNnp6dDRjSnJWZEdZNkN5MTg3UHN5bnZoYnJPbk01WjBJYTBmVFYrST0iLCJtYWMiOiI3NjA3YmY0MTIyMzYzOWY2MTU0YTg0ZmQxZDU1NzVmODQxNzdjODEzZGEwZTBiYWJlMTRiOTM3MDY0ZjdlZjJmIn0="
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Daniel Goodrich"
+        ],
+        "team": [],
+        "notes": [
+            "Il nécessite d'overrider le fichier tlk et le mod est disponible uniquement en anglais."
+        ],
+        "translation_state": "no",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2002-01",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Stardust's Swords",
+        "description": "Ce mod ajoute deux épées très puissantes à créer via la console : `S!swD` (Drain Blade, une épée longue +5) et `S!swN` (Netheril Blade, un katana +5).",
+        "urls": [
+            "https://sorcerers.net/Games/dl/eyJpdiI6IkFHeUh5MmMwSWUrWE9hbkt6MGtjRHc9PSIsInZhbHVlIjoic2ZzYkdFVHExM1BsSmlURVpoSlpxTytHSGxud2FhVnZPSTFtOTdZb29RaW1lSFNNUFo4MXpMT0dXTXZBZDliNCIsIm1hYyI6IjdhNWI4Y2FmYzc2ZDk1M2E5Y2UxZWFkOTAyZWMzOGE4NzlhOTM4ZmVmNzBhNmQxMmY5NjY2NjAwYzZjZGQzOTkifQ=="
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "Stardust"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2006-08",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Stinger",
+        "description": "Ce mod ajoute une puissante épée longue à acheter à l'Auberge de Brasimical.",
+        "urls": [
+            "https://sorcerers.net/Games/dl/eyJpdiI6IjlITnk1NGgyZldQTklnV0NZdnZuMlE9PSIsInZhbHVlIjoiaFc0T1RrUXJENDR5eWQrR01HcWFpVWFrNWw3bHN6UmJFUWgwQ2JVVG9cLzQ9IiwibWFjIjoiMGU3ZWZkNzY3MWIxMDU3YjBmOTA0Yzk0MTk4YmFmZjhkMjAwYzI3YTQ2ZDI4YTNmMTdjMDVlNTI3MWRlZmNmMyJ9"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG"
+        ],
+        "authors": [
+            "Ellimar"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2007-10",
         "tp2": "non-weidu"
     }
 ]
