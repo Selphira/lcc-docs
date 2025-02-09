@@ -774,7 +774,7 @@
     },
     {
         "name": "Ajantis BG1 Expansion Modification",
-        "description": "Ce mod ajoute une romance et une voie de l'amitié avec le célèbre paladin de BG.|Suivant votre type d'installation, le contenu ajouté sera différent : avec BG original, le mod ajoute la romance du [[The BG1NPC Project]] et la voie de l'amitié ; avec BGT, Tutu, BG:EE et EET, le mod ajoute la voie de l'amitié et plus de contenu pour la romance du [[The BG1NPC Project]]. Ce mod est en effet considéré comme une extension du [[The BG1NPC Project]], mais peut être installé et joué sans lui. Dans ce cas, la voie de l'amitié est immédiatement disponible.|Il existe un <a href=\"https://www.gibberlings3.net/files/file/994-ajantis-portrait-pack/\">mod complémentaire</a> proposant un certain nombre de portraits alternatifs pour Ajantis, réalisés par des membres de la communauté.",
+        "description": "Ce mod ajoute une romance et une voie de l'amitié avec le célèbre paladin de BG.|Suivant votre type d'installation, le contenu ajouté sera différent : avec BG original, le mod ajoute la romance du [[The BG1NPC Project]] et la voie de l'amitié ; avec BGT, Tutu, BG:EE et EET, le mod ajoute la voie de l'amitié et plus de contenu pour la romance du [[The BG1NPC Project]]. Ce mod est en effet considéré comme une extension du [[The BG1NPC Project]], mais peut être installé et joué sans lui. Dans ce cas, la voie de l'amitié est immédiatement disponible.",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/ajantis/",
             "https://github.com/Gibberlings3/Ajantis_BG1_Expansion"
@@ -797,6 +797,7 @@
             "Galathée"
         ],
         "notes": [
+            "[[Ajantis Portrait Pack]] propose des portraits alternatifs.",
             "BG sans TotSC n'est plus supporté depuis la version 21."
         ],
         "translation_state": "todo",
@@ -813,7 +814,7 @@
     },
     {
         "name": "Ajantis NPC for BGII",
-        "description": "Avec ce mod, Ajantis, le paladin de l'Ordre du Cœur Radieux dans BG1, peut intégrer le groupe après le combat dans les Collines de Lancevent. Il comporte une romance qui poursuit celle du [[The BG1NPC Project]] (en cas de trilogie), ou toute une nouvelle, ainsi que la possibilité de développer une profonde amitié avec lui. Le mod suppose qu'Ajantis a voyagé avec le PC dans BG1 pendant un certain temps. C'est là qu'Ajantis a gagné suffisamment d'honneur pour être fait chevalier.|Il existe un <a href=\"https://www.gibberlings3.net/files/file/994-ajantis-portrait-pack/\">mod complémentaire</a> proposant un certain nombre de portraits alternatifs pour Ajantis, réalisés par des membres de la communauté.",
+        "description": "Avec ce mod, Ajantis, le paladin de l'Ordre du Cœur Radieux dans BG1, peut intégrer le groupe après le combat dans les Collines de Lancevent. Il comporte une romance qui poursuit celle du [[The BG1NPC Project]] (en cas de trilogie), ou toute une nouvelle, ainsi que la possibilité de développer une profonde amitié avec lui. Le mod suppose qu'Ajantis a voyagé avec le PC dans BG1 pendant un certain temps. C'est là qu'Ajantis a gagné suffisamment d'honneur pour être fait chevalier.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jasteys-sir-ajantis-f%C3%BCr-bgii-npc.9/",
             "https://www.gibberlings3.net/files/file/989-ajantis-npc-for-bgii/"
@@ -831,7 +832,9 @@
             "jastey"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "[[Ajantis Portrait Pack]] propose des portraits alternatifs."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
@@ -6544,7 +6547,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2024-01",
         "tp2": "CassiaNPC"
     },
     {
@@ -7731,7 +7734,8 @@
         "name": "Convinient Ammunition",
         "description": "Ce petit mod ajoute des sacs de contenance dans le jeu : un carquois, un étui, un sac d'abondance, et une ceinture de munitions dans la Forge de Grondemarteau à Bérégost.",
         "urls": [
-            "http://www.shsforums.net/files/file/1046-convinient-ammunition/"
+            "http://www.shsforums.net/files/file/1046-convinient-ammunition/",
+            "https://github.com/MattyGroove/ConvinientAmmunition"
         ],
         "categories": [
             "Sort et objet"
@@ -7752,7 +7756,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2016-04",
+        "last_update": "2019-08",
         "tp2": "ConvinientAmmunition"
     },
     {
@@ -9433,7 +9437,7 @@
         "description": "Ce mod regroupe cinq profils inspirés de Diablo2 et convertis pour BG2, BGT et les jeux EE. Il comprend l'Amazone, l'Assassin, le Barbare, le Nécromancien et le Paladin. Vous devrez télécharger chaque kit dans la page de téléchargement.",
         "urls": [
             "http://www.shsforums.net/files/file/1115-diablo2-kit-pack-series-for-tob-ee/",
-            "https://github.com/shohysie/BG2MODS"
+            "https://github.com/shohysie/DiabloIIKits"
         ],
         "categories": [
             "Kit"
@@ -10376,7 +10380,7 @@
             "Deratiseur"
         ],
         "notes": [
-            "Ce mod vous fait combattre beaucoup de golems : prévoyez donc des armes contondantes si vos ne voulez pas finir en bouillie..."
+            "Ce mod vous fait combattre beaucoup de golems : prévoyez donc des armes contondantes si vous ne voulez pas finir en bouillie..."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -11084,7 +11088,7 @@
         "description": "Inspiré par le Manuel complet des elfes, les elfes d'Éternelle rencontre et d'autres manuels de AD&D2, ce mod ajoute 15 profils dans les jeux EE : Abyssal Warrior (guerrier), Bladesinger (guerrier/mage ou barde), Collector (guerrier/mage/voleur), Eldritch Knight (guerrier/mage), Elven Minstrel (mage/voleur), Herbalist (clerc), Huntsman (guerrier/voleur), Infiltrator (guerrier/mage/voleur), Priest of Mystra (clerc/mage), Priestess of Lolth (clerc), Spellfilcher (mage/voleur), Undead Hunter (paladin), War Wizard (guerrier/mage), Wilderness Runner (rôdeur) et Windrider (guerrier).|Un composant optionnel permet de porter plusieurs pierres ioniques en même temps.",
         "urls": [
             "https://forums.beamdog.com/discussion/49591/",
-            "https://github.com/AbdelAdrian/Eldritch_Magic/"
+            "https://github.com/MindTyrant/Eldritch-Magic-4EET"
         ],
         "categories": [
             "Kit"
@@ -11092,22 +11096,24 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "IWDEE"
+            "IWDEE",
+            "EET"
         ],
         "authors": [
-            "Abdel_Adrian"
+            "Abdel_Adrian",
+            "MindTyrant"
         ],
         "team": [],
         "notes": [
-            "Ce mod a été repris par MindTyrant, voir [[Eldritch Magic Reborn]]."
+            "Ce mod a été repris par MindTyrant pour y ajouter la compatibilité EET.|Voir [[Eldritch Magic Reborn]]."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en"
         ],
         "status": "active",
-        "last_update": "2016-04",
+        "last_update": "2024-07",
         "tp2": "Eldritch_Magic"
     },
     {
@@ -12578,7 +12584,8 @@
         "name": "Fishing for Trouble",
         "description": "Elminster en personne vous charge d'enquêter sur la disparition des habitants d'un village au sud d'Athkatla. Vous partez sur le champ et tombez nez-à-nez avec un démon qui a élu domicile dans le phare du village. Ce dernier vous promet d'éclairer votre lanterne contre une petite faveur. Ainsi débute votre aventure annoncée comme toute sauf linéaire et qui vous mènera au travers d'une 100aine de nouvelles cartes (dont 5 majeures) sur la trace de nouvelles quêtes, dans lesquelles vous croiserez plus de 200 PNJ, 17 magasins, 4 cinématiques... un mod pour renouveler l'expérience BG2.",
         "urls": [
-            "http://www.shsforums.net/files/file/1084-fishing-for-trouble/"
+            "http://www.shsforums.net/files/file/1084-fishing-for-trouble/",
+            "https://github.com/InfinityMods/FishingForTrouble"
         ],
         "categories": [
             "Quête"
@@ -12597,10 +12604,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "2021-03",
-        "tp2": "fishingfortrouble"
+        "last_update": "2024-01",
+        "tp2": "FishingForTrouble"
     },
     {
         "name": "Flamewing's Tweaks",
@@ -13874,7 +13884,8 @@
         "name": "Goblinmod Shuk",
         "description": "Ce mod en allemand ajoute dans le jeu le guerrier gobelin chaotique mauvais Shuk que l'on peut invoquer une fois par jour avec une pierre gobeline (elle se trouve dans l'enceinte de la taverne du Bras amical). Il est considéré comme un familier, ce qui lui permet de changer de région et d'explorer la carte, mais le joueur ne subit pas de dégâts permanents à sa Constitution lorsqu'il meurt. S'il est invoqué pendant plus de dix-huit heures de suite, il souffre d'épuisement.|Son niveau est égal à la moitié de l'expérience du personnage principal. Ses compétences peuvent être améliorées en interagissant avec lui, dans certaines situations et en accomplissant des tâches.|FOR 15, DEX 17, CON 10, INT 12, SAG 9, CHA 14.",
         "urls": [
-            "https://www.baldurs-gate.de/index.php?resources/genwas-goblinmod-bg1-ee.39/"
+            "https://www.baldurs-gate.de/index.php?resources/genwas-goblinmod-bg1-ee.39/",
+            "https://github.com/11jo/ShukBGEE"
         ],
         "categories": [
             "PNJ recrutable"
@@ -13889,7 +13900,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "todo",
         "safe": 2,
         "languages": [
             "de"
@@ -14113,7 +14124,8 @@
         "name": "Haer'Dalis Romance",
         "description": "Ce mod permettra aux PJ de tout poil (quelle que soit leur race, leur classe ou leur alignement) de romancer le tieffelin, ou tout du moins d'essayer. Une vingtaine de lovetalks, des discussions surprises, des dialogues à l'initiative du PJ, conflit de romance avec Anomen... Le mod dispose de contenu pour SoA et ToB.",
         "urls": [
-            "http://www.shsforums.net/files/file/984-haerdalis-romance/"
+            "http://www.shsforums.net/files/file/984-haerdalis-romance/",
+            "https://github.com/MattyGroove/haerdalisromance"
         ],
         "categories": [
             "PNJ (autre)"
@@ -14131,9 +14143,11 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2018-05",
+        "last_update": "2022-11",
         "tp2": "haerdalisromance"
     },
     {
@@ -16668,7 +16682,8 @@
         "description": "Ce mod modifie le jeu Baldur's Gate II : Trône de Bhaal de façon à ce qu'il dispose d'animations supplémentaires de créatures et de personnages.|Infinity Animations prend en charge les types d'animation très divers des jeux Baldur's Gate I, Baldur's Gate II, Icewind Dale I, Icewind Dale II, Planescape: Torment et Neverwinter Nights. En bonus, le mod rétablit l'intégralité des animations de personnages de Baldur's Gate I, et permet à certaines animations qui n'en avaient pas jusqu'à présent de disposer dorénavant d'un paperdoll (silhouette dans l'écran des personnages).|Point important pour les joueurs installant plusieurs mods conséquents (appelés « mega-mods »), Infinity Animations résout les conflits de slots d'animation (plusieurs mods utilisant les mêmes slots pour des animations différentes, le dernier installé écrase les modifications effectuées par les précédents) et rétablit les animations de base que les mega-mods ont modifiées.|Enfin, il comporte des composants optionnels qui introduisent de nombreuses nouvelles animations dans le jeu, ainsi que leurs jeux de sons associés (soundsets). Bien que le nombre d'animations supportées ne soit pas « infini », comme le nom du mod l'indique, il devrait toutefois être assez important pour répondre aux besoins actuels (et probablement futurs) de tout le monde.",
         "urls": [
             "http://www.shsforums.net/files/file/859-ia-infinity-animations-core-mod-weidu-beta-5/",
-            "https://github.com/GwendolyneFreddy/Infinity-Animations"
+            "https://github.com/GwendolyneFreddy/Infinity-Animations",
+            "https://github.com/Spellhold-Studios/backup-IA-v6"
         ],
         "categories": [
             "Cosmétique"
@@ -17510,7 +17525,8 @@
         "description": "Ce mod ajoute du contenu à la partie BG du jeu. Il réintroduit dans le jeu un certain nombre d'éléments qui n'étaient pas exploités ou étaient inachevés, et que le mod [[BG1 Unfinished Business]] n'a pas restaurés. Par ailleurs, il complète certains points qui laissaient à désirer.|Ce mod nécessite l'installation de [[TobEx]], du composant principal d'[[Infinity Animations]] et des composants `Restitutions mineures de dialogues` et `Réparations et restitutions de magasins, tavernes et auberges` de [[BG1 Unfinished Business]].",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jarls-bgt-adventure-pack.8/",
-            "https://github.com/Gitjas/JA-AdventurePack/"
+            "https://github.com/Gitjas/JA-AdventurePack/",
+            "https://github.com/TotoR115/JA-AdventurePack"
         ],
         "categories": [
             "Quête"
@@ -17526,7 +17542,8 @@
         ],
         "team": [],
         "notes": [
-            "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer."
+            "Depuis que le mod a été converti aux EE, les composants nécessaires ont pu évoluer.",
+            "Le second lien github propose une version non officielle avec plus de contenu (à tester)."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -17693,7 +17710,7 @@
         "name": "Jini NPC Romance",
         "description": "Il s'agit d'une préquelle d'un autre mod du même auteur, [[Rjali Romance]] pour BG2:EE, qui plante le décor de ce qui suivra dans BG2:EE.|Jini est une djinn emprisonnée dans la lampe qui vous donne la jeune Rjali si vous êtes de sexe masculin et non-mauvais. Elle vous fournit les services habituels d'un djinn de lampe et, si vous êtes gentil avec elle, une romance peut naître. Elle peut fournir de l'équipement aux membres de votre groupe, mais ne le fera que si vous le lui demandez gentiment. Elle ne se joindra jamais à votre groupe, mais elle et sa lampe vous accompagneront sur votre chemin. Elle a soif de liberté, et vous avez la possibilité de la lui accorder.|Le mod ajoute également Fay, un feu follet qui vous suivra comme une sorte de familier. Fay vous fera la cour du mieux qu'elle pourra, étant si petite. Ni elle ni Jini n'ont de problème avec cet arrangement.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=393"
+            "https://github.com/Black-Wyrm-Lair/Jini-Romance"
         ],
         "categories": [
             "PNJ recrutable"
@@ -17709,10 +17726,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-09",
+        "tp2": "Jini"
     },
     {
         "name": "Jkits",
@@ -26979,7 +26999,7 @@
         "name": "Rjali Romance",
         "description": "Rjali est une clerc/voleuse amoureuse qui ne vous quittera pas. Elle acceptera vos autres amours tant que vous prendrez bien soin d'elle. Elle a une romance complète avec le PC, des flirts initiés par les joueurs/PNJ, des plaisanteries avec d'autres PNJ, un certain nombre d'interjections, de réactions de personnages et d'autres dialogues. Contenu adulte.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=389"
+            "https://github.com/Black-Wyrm-Lair/Rjali-Romance"
         ],
         "categories": [
             "PNJ recrutable"
@@ -27000,7 +27020,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2021-12",
+        "last_update": "2023-09",
         "tp2": "Rjali"
     },
     {
@@ -30434,7 +30454,7 @@
         "name": "Summon Bhaalspawn (Sandra NPC)",
         "description": "Ce mod vous permet de recruter sur les quais cette paladine chasseuse de mort-vivants. Pas de romance et des dialogues embryonnaires, mais quelques banters et une surprise spéciale pour Imoen. Efficace comme tank anti-vampire.",
         "urls": [
-            "https://github.com/GwendolyneFreddy/Summon_Bhaalspawn"
+            "https://github.com/11jo/Summon_Bhaalspawn"
         ],
         "categories": [
             "PNJ One Day"
@@ -31195,7 +31215,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2018-11",
         "tp2": "ToA"
     },
     {
@@ -32443,7 +32463,8 @@
         "name": "The Fields of the Dead",
         "description": "Fields of the Dead est un mod qui étend et met à jour Baldur's Gate Tales of the Sword Coast. Il reprend un grand nombre de règles du jeu pour les rendre aussi proches que possible de celles de la deuxième édition d'AD&D, dans la mesure où l'Infinity Engine le permet. Il s'agit de modifications, mais aussi d'ajouts. Ceci inclut notamment les caractéristiques des créatures et des sorts.|Il ajoute aussi de nouveaux éléments dans le même esprit, aussi bien des créatures que des sorts ou des objets, répartis un peu partout dans le jeu (adversaires, magasins). L'IA a été entièrement revue pour que les adversaires exploitent les possibilités du jeu (coopération, meilleur usage des potions et des sorts).|Les changements affecteront également l'intelligence artificielle de toutes les créatures : ennemis et alliés.|Enfin, le mod ajoute une nouvelle zone sur la carte du monde (Battle of Bones) accessible à tout moment, mais il est recommandé de l'explorer avec un groupe expérimenté.",
         "urls": [
-            "https://www.pocketplane.net/the-fields-of-the-dead/"
+            "https://www.pocketplane.net/the-fields-of-the-dead/",
+            "https://github.com/Pocket-Plane-Group/TheFieldsOfTheDead/"
         ],
         "categories": [
             "Gameplay"
@@ -32463,10 +32484,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-12",
+        "tp2": "FotD"
     },
     {
         "name": "The Gorgon's Eye",
@@ -33485,7 +33508,8 @@
         "name": "The bigg Quest Pack",
         "description": "Ce mod comprend de petites quêtes et batailles, trop petites pour être publiées sous forme de mods séparés. Ces composants vont du sérieux à l'absurde, du respect strict des règles à la tricherie pure et simple. Parmi eux :|- Mprolla, le spammeur : Si vous n'avez pas encore compris la blague, ce composant n'est probablement pas pour vous. En tout cas, il est inspiré par un gars (Mike Prolla) qui avait l'habitude de spammer et de troller sur toutes les communautés de modding d'Infinity Engine il y a très longtemps. Dans le mod, Mprolla est un bouffon de niveau 25 que vous pouvez trouver (bien) caché dans la Promenade de Waukunn. Lorsque vous le verrez, après une scène où il perd son cerveau, il commencera à vous narguer, jusqu'à ce qu'il vous combatte ouvertement. Ce combat est une véritable fête du slip. Toutes ses railleries sont de véritables citations. L'élément optionnel `Mprolla, le tricheur` fait également partie de ce composant : il rend le combat plus difficile en ajoutant de la triche.|- Bataille à grande échelle : Amn est assiégé par une armée d'orques et doit se résoudre à la défaite en raison de leur nombre écrasant. Les mages cagoulés et les soldats amiens ont besoin de l'aide d'aventuriers expérimentés pour porter un coup décisif aux assaillants. Après avoir accepté, vous êtes projeté(e) dans une zone pas plus grande que celle des embuscades standard, mais qui contient bien plus d'une centaine d'orques, et d'autres surgissent sans cesse jusqu'à ce que vous tuiez leur commandant. De votre côté, vous avez quelques soldats amniens et mages cagoulés. Qui va gagner ?",
         "urls": [
-            "http://www.shsforums.net/files/file/96-the-bigg-house-the-bigg-quest-pack/"
+            "http://www.shsforums.net/files/file/96-the-bigg-house-the-bigg-quest-pack/",
+            "https://github.com/vbigiani/tb-quest/"
         ],
         "categories": [
             "Quête"
@@ -33501,10 +33525,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "es"
+        ],
         "status": "active",
-        "last_update": "2011-02",
-        "tp2": ""
+        "last_update": "2017-10",
+        "tp2": "tb#quest"
     },
     {
         "name": "Themed Tweaks",
@@ -33838,7 +33866,7 @@
         "description": "Ce mini mod permet de se rendre dans les zones de SoA à partir de ToB. Pour cela, il vous suffit d'acheter un livre chez Lazarus. Ce mod peut également être utile sur EET si vous jouez à EET, mais commencez par la section ToB.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=390",
-            "https://github.com/Roberciiik/ToB-Tourist/"
+            "https://github.com/Black-Wyrm-Lair/ToB-Tourist"
         ],
         "categories": [
             "Gameplay"
@@ -34050,6 +34078,7 @@
         "description": "Le concepteur d'origine a poursuivi le développement du mod dans une version stand-alone, avec moults remaniements de textes. Cependant, bien que compatible avec [[Baldurdash-WeiDU]] 1.75 (obligatoire) et avec les autres mods de Vlad que sont Keldorn's Romance (fortement recommandé) et [[Never Ending Journey]]3 (obligatoire), elle est incompatible avec la plupart des mods WeiDU y compris le [[BG2 FixPack]] !",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394",
+            "https://github.com/Black-Wyrm-Lair/TorturedSoulsLite",
             "https://github.com/RealApxu/TorturedSoulsLite"
         ],
         "categories": [
@@ -38373,7 +38402,7 @@
         "description": "Les capacités de haut niveau (HLA) introduites par Throne of Bhaal ajoutent une complexité et une micro-gestion qui vont à l'encontre du rôle des guerriers, des personnages qui sont restés des participants relativement passifs au combat pendant la majorité des 2 jeux.|Ce mod vise à réduire la complexité des HLA des guerriers en les transformant en bonus passifs.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/37193-passive-warrior-hlas/",
-            "https://github.com/Plutonium-X/MISC_Passive-Warrior-HLAs"
+            "https://github.com/Plutonium-X/FORK__Passive-Warrior-HLAs"
         ],
         "categories": [
             "Gameplay"
@@ -43472,7 +43501,7 @@
         "description": "Vous permet de conserver tous vos objets au début de BG2. Reproduit l'exploit du jeu original qui permettait de mettre en pause et de laisser tomber ses objets au début d'une nouvelle partie.",
         "urls": [
             "https://forums.beamdog.com/discussion/45114/",
-            "https://github.com/CrevsDaak/www.urstuff2athkatla.com"
+            "https://github.com/ALIENQuake/www.urstuff2athkatla.com"
         ],
         "categories": [
             "Gameplay"
@@ -45314,7 +45343,8 @@
         "name": "Mazzy the Paladin",
         "description": "Ce mod propose une quête à Mazzy pour lui permettre de devenir une vraie paladine.",
         "urls": [
-            "http://www.shsforums.net/files/file/117-mazzy-the-paladin/"
+            "http://www.shsforums.net/files/file/117-mazzy-the-paladin/",
+            "https://github.com/vbigiani/mtp"
         ],
         "categories": [
             "PNJ (autre)"
@@ -45333,7 +45363,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2010-12",
+        "last_update": "2015-10",
         "tp2": "mtp"
     },
     {
@@ -46858,7 +46888,7 @@
         "name": "Eldritch Magic Reborn",
         "description": "Ce mod propose une version mise à jour (et encore incomplète) de [[Eldritch Magic]]. On y retrouve notamment la possibilité de cumuler les pierres ioniques, une revue des armures elfiques ainsi que le Bladesinger Kit.",
         "urls": [
-            "https://github.com/mentaltyranny/Eldritch-Magic-Reborn"
+            "https://github.com/MindTyrant/Eldritch-Magic-Reborn"
         ],
         "categories": [
             "Gameplay",
@@ -47646,5 +47676,348 @@
         "status": "active",
         "last_update": "2023-06",
         "tp2": "blondeimmy"
+    },
+    {
+        "name": "Ahungry Backstab",
+        "description": "Ce mod permet de retirer l'immunité aux attaques sournoises et à l'arrêt du temps de toutes les créatures.",
+        "urls": [
+            "https://github.com/ahungry/ahungry_backstab"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "ahungry"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod est inclu dans [[Ahungry Tweaks]] du même auteur."
+        ],
+        "translation_state": "n/a",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "embed",
+        "last_update": "2022-09",
+        "tp2": "ahungry_backstab"
+    },
+    {
+        "name": "Nirik NPC",
+        "description": "Ce mod propose Nirik, un druide nain.",
+        "urls": [
+            "https://github.com/ArtemiusI/IWD-Nirik-NPC/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "NirikNPC"
+    },
+    {
+        "name": "Guldruk NPC",
+        "description": "Ce mod propose Guldruk, un demi-orc Kensaï.",
+        "urls": [
+            "https://github.com/ArtemiusI/IWD-Guldruk-NPC"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "GuldrukNPC"
+    },
+    {
+        "name": "Athanasios NPC",
+        "description": "Ce mod propose Athanasios, un halfling prêtre de Tempus.",
+        "urls": [
+            "https://github.com/ArtemiusI/IWD-Athanasios-NPC"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "AthanasiosNPC"
+    },
+    {
+        "name": "Frostforged",
+        "description": "Ce mod propose un pack d'objets et un rebalancement des objets pour IWDEE.",
+        "urls": [
+            "https://github.com/ArtemiusI/IWDEE-Frostforged"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "IWDEE"
+        ],
+        "authors": [
+            "AionZ"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-01",
+        "tp2": "Frostforged"
+    },
+    {
+        "name": "JOster No More",
+        "description": "Vous en avez assez de revenir à la guilde des voleurs tous les cinq jours ? Ce mod vous permettra de revenir à la guilde l'espace de quelques instants afin de régler vos comptes avec Joster le collecteur des voleurs de l'ombre. Il ajoute aussi, un peu / beaucoup trop d'animations à la guilde avec deux nouveaux membres à la langue bien pendue.",
+        "urls": [
+            "https://github.com/11jo/JOster_NoMore/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [
+            "JohnBob"
+        ],
+        "notes": [],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2023-08",
+        "tp2": "JOsterNoMore"
+    },
+    {
+        "name": "Detective Guild of Athkatla",
+        "description": "Le mod ajoute un nouveau bâtiment : la guilde des détectives dans les Bas-Quartier, qui peut devenir un bastion supplémentaire pour un joueur de n'importe quelle classe - s'il parvient à sauver la guilde de la faillite en deux semaines de jeu. Créée par le sorcier excentrique Adelard le Vagabond. La quête commencera après avoir rencontré un nouveau personnage inhabituel dans le bâtiment du Conseil des Six, dans le quartier du gouvernement.",
+        "urls": [
+            "https://arcanecoast.ru/forum/viewtopic.php?f=70&t=1653",
+            "https://github.com/Austin-BG/SearchGuild"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Austin",
+            "Scheele"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod est compatible avec les version originelles sous condition d'installer [[Infinity Animations]]."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2025-01",
+        "tp2": "SearchGuild"
+    },
+    {
+        "name": "Ajantis Portrait Pack",
+        "description": "Le mod ajoute de nouveaux portraits pour Ajantis réalisés par des membres de la communauté.",
+        "urls": [
+            "https://www.gibberlings3.net/files/file/994-ajantis-portrait-pack/",
+            "https://github.com/Gibberlings3/Ajantis_Portrait_Pack"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG",
+            "BG2"
+        ],
+        "authors": [
+            "jastey"
+        ],
+        "team": [],
+        "notes": [
+            "Ajantis ne se trouve pas dans BG2 sauf si vous avez installé le mod [[Ajantis NPC for BGII]]."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en",
+            "de",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2022-02",
+        "tp2": "ajantisportraitpack"
+    },
+    {
+        "name": "Baldurian Bar Hop(ping)",
+        "description": "Ce mod ajoute des rencontres fantaisistes dans les tavernes de la ville de Baldur's Gate. Participez à un concours de boisson avec des nains, défiez un barde amateur dans un coucours amical, provoquez une bagarre de une taverne…",
+        "urls": [
+            "https://github.com/bucketfulofsunshine/baldurian-bar-hop"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "bucketfulofsunshine"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-01",
+        "tp2": "baldurianbarhop"
+    },
+    {
+        "name": "Trollkiller's Item-Spell-Kit Pack",
+        "description": "Ce mod apporte de nouveaux objets, sorts et kits. Il est encore en construction.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/forum/214-sod-to-bg2ee-item-upgrade/",
+            "https://github.com/DaerosTrollkiller/Trollkillers-Item-Spell-Kitpack"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Daeros_Trollkiller"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2024-08",
+        "tp2": "k0_iskp"
+    },
+    {
+        "name": "Shohy's Custom Platform",
+        "description": "Ce mod propose de modifier les combats et l'incantation des sorts. Il propose notamment une modification de l'Intelligence, de la Sagesse et du Charisme.|Une évolution des caractéristiques des ennemis en fonction du niveau du protagoniste.|Revue des maîtrises martiales.|Les ennemis peuvent utiliser des capacités innées.",
+        "urls": [
+            "https://github.com/shohysie/Shohy-s_Custom_Platform"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Shohy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": "wip",
+        "last_update": "2025-02",
+        "tp2": "Shohy's_Custom_Platform"
+    },
+    {
+        "name": "Hunyuan Monk",
+        "description": "Hunyuan est un kit de Moine qui peut par exemple se transformer en nuage qui lui permet de récupérer bon nombre de points de vie. Il dispose également de plusieurs postures de combat, qui peuvent au choix, lui permettre de résister aux attaques physiques, aux dégâts magiques ou augmenter les compétences martiales des alliés dans la zone… Lire le readme pour en savoir plus.",
+        "urls": [
+            "https://github.com/Sebastian-c4/Hunyuan_Monk"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "c4_angel"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod est en chinois."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2018-10",
+        "tp2": "c4Monk"
     }
 ]
