@@ -5724,7 +5724,8 @@
         "name": "Blonde Imoen",
         "description": "Ce mod remplace les portraits d'Imoen par une version blonde. Un composant permet de les installer comme portraits de joueur dans n'importe quel jeu Infinity Engine (sauf PsT et PsT:EE).",
         "urls": [
-            "https://www.gibberlings3.net/files/file/699-blonde-imoen/"
+            "https://www.gibberlings3.net/files/file/699-blonde-imoen/",
+            "https://github.com/Gibberlings3/BlondeImoen"
         ],
         "categories": [
             "Portrait et son"
@@ -5749,10 +5750,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-08",
-        "tp2": ""
+        "tp2": "blondeimmy"
     },
     {
         "name": "Blood of the Martyr",
@@ -47647,35 +47650,6 @@
         "status": "active",
         "last_update": "2023-06",
         "tp2": "biffsodtutorial"
-    },
-    {
-        "name": "Blonde Imoen",
-        "description": "Ce mod permet à Imoen d'avoir de beaux cheveux blonds. Ok, je ne peux pas garantir leur beauté mais ils sont blonds ! Vous avez la possibilité de lui donner des cheveux blonds courts (longueur normale d'Imoen) ou des cheveux blonds plus longs (longueur à la Aerie).",
-        "urls": [
-            "https://github.com/Gibberlings3/BlondeImoen"
-        ],
-        "categories": [
-            "Portrait et son"
-        ],
-        "games": [
-            "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [
-            "Grim Squeaker"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 2,
-        "languages": [
-            "en"
-        ],
-        "status": "active",
-        "last_update": "2023-06",
-        "tp2": "blondeimmy"
     },
     {
         "name": "Ahungry Backstab",
