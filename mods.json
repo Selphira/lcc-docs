@@ -10232,7 +10232,8 @@
         "name": "Drows",
         "description": "Ce mod modifie les portraits des PNJ du groupe en elfes noirs après qu'Adalon ait lancé un sort de métamorphose sur le groupe. Le changement de portraits durera jusqu'à ce qu'elle vous retransforme ou que vous la tuiez, ou jusqu'à ce que vous soyez découvert soit par Ardulace, soit par le Seigneur Démon, Phaere ou Solaufein. Bien évidemment, ils retrouveront leur portrait initial lorsque vous atteindrez la sortie de l'Ombreterre.",
         "urls": [
-            "http://www.shsforums.net/files/file/944-drows/"
+            "http://www.shsforums.net/files/file/944-drows/",
+            "https://github.com/Dau1makan/Drows"
         ],
         "categories": [
             "Portrait et son"
@@ -12877,7 +12878,7 @@
         "description": "Ce mod fournit 2 versions différentes du chapitre 6. Retourner à Château-Suif devient une quête secondaire sans impliquer le Trône de Fer. Si vous allez à Château-Suif avant d'enquêter dans le quartier général du Trône de Fer, Eltan vous confira une autre mission à accomplir au chapitre 6.|Pour expérimenter le mod, un ordre de mission devra être obtenu auprès de \"Bentley\" (Auberge de Brasamical) ou de \"La Balafre\" (lors de la rencontre initiale uniquement et seulement si le PC admet avoir nettoyé les mines de Nashkel) au cours du chapitre 5.",
         "urls": [
             "https://www.gibberlings3.net/files/file/1025-framed/",
-            "https://github.com/lzenner/framed"
+            "https://github.com/Gibberlings3/framed"
         ],
         "categories": [
             "Quête"
@@ -15166,9 +15167,7 @@
             "Smeagolheart"
         ],
         "team": [],
-        "notes": [
-            "Attention : Comme ce mod n'a pas été mis à jour depuis décembre 2014, il n'est peut-être plus compatible avec les dernières versions du jeu."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -18582,6 +18581,7 @@
         "description": "Kitanya est une tueuse de magiciens elfe sympathique et de compagnie fort agréable, chaotique bonne avec de nombreuses interactions et une romance. Elle pourra même avoir des dialogues particulièrement amusants avec Edwin. Vous la trouverez dans les environs des Collines d'Umar. Ses compétences martiales sont focalisées sur l'épée longue et le maniement du bouclier.",
         "urls": [
             "http://www.shsforums.net/topic/57821-kitanya-npc-v641-a-mod-from-rastor/",
+            "https://github.com/GwendolyneFreddy/Kitanya_NPC",
             "https://github.com/PaulaMigrate/Kitanya-Resurrected/"
         ],
         "categories": [
@@ -18599,12 +18599,14 @@
         ],
         "team": [],
         "notes": [
-            "FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19"
+            "FOR 16, DEX 17, CON 15, INT 12, SAG 10, CHA 19",
+            "Le second lien github propose une version compatible avec les versions EE, disponible qu'en anglais."
         ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "es"
         ],
         "status": "active",
         "last_update": "2020-10",
@@ -26321,7 +26323,8 @@
         "name": "Relieve Wizard Slayer",
         "description": "Ce mod modifie (améliore ?) le profil de tueur de magiciens. Un composant optionnel permet de l'attribuer à Valygar.",
         "urls": [
-            "https://github.com/Raduziel/Relieve-Wizard-Slayer"
+            "https://github.com/Raduziel/Relieve-Wizard-Slayer",
+            "https://github.com/Selphira/Relieve-Wizard-Slayer/tree/patch-1"
         ],
         "categories": [
             "Gameplay"
@@ -26338,7 +26341,8 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Relieve Wizard Slayer doit être installé après [[Wizard Slayer Rebalancing]] !"
+            "Attention : Relieve Wizard Slayer doit être installé après [[Wizard Slayer Rebalancing]] !",
+            "Le second lien propose un patch qui n'est pas encore accepté par l'auteur."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -27271,14 +27275,17 @@
         "name": "Rough World",
         "description": "Le concept de ce mod est de rendre le monde plus violent. Les personnages de faible réputation sont considérés comme des êtres humains absolument horribles - il y a donc très peu de chances qu'ils aident qui que ce soit. Lorsqu'ils le font, c'est considéré comme un acte exceptionnel. Par conséquent, ils ont désormais moins de chances de faire des dons pour améliorer leur réputation que les personnages de bonne réputation. Les marchands sont également enclins à leur accorder des réductions, ne serait-ce que pour s'assurer qu'ils ne sont pas vexés.|De même, parce que le monde est un endroit sombre et sans pitié, les personnages dont la réputation est élevée sont vus sous un jour beaucoup plus positif. Les gens sont plus disposés à leur pardonner s'ils commettent une erreur (comme tuer un habitant de la ville).|Le mod comporte également d'autres composants qui modifient considérablement la façon dont le chapitre 7 est géré dans le jeu ou augmentent la difficulté du jeu.",
         "urls": [
-            "http://www.shsforums.net/topic/58723-mod-rough-world-beta/"
+            "http://www.shsforums.net/topic/58723-mod-rough-world-beta/",
+            "https://github.com/GwendolyneFreddy/Rough_World"
         ],
         "categories": [
             "Gameplay"
         ],
         "games": [
             "BGEE",
-            "EET"
+            "BG2EE",
+            "IWDEE",
+            "PSTEE"
         ],
         "authors": [
             "elminster"
@@ -27287,9 +27294,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "wip",
-        "last_update": "2017-04",
+        "last_update": "2020-12",
         "tp2": "k9roughworld"
     },
     {
@@ -31057,7 +31067,8 @@
             "Cocobard"
         ],
         "notes": [
-            "Pour BG2:EE seulement, utilisez l'adaptation du lien Beamdog, œuvre d'un nouvel auteur, Musigny, qui traite au fur et à mesure l'ensemble des composants du mod d'origine."
+            "Pour BG2:EE seulement, utilisez l'adaptation du lien Beamdog, œuvre d'un nouvel auteur, Musigny, qui traite au fur et à mesure l'ensemble des composants du mod d'origine.",
+            "Les kits traduits en français et compatibles EET sont disponibles dans [[Tactics Kits]]."
         ],
         "translation_state": "yes",
         "safe": 1,
@@ -33165,9 +33176,10 @@
     },
     {
         "name": "The Stone of Askavar",
-        "description": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir.|Depuis la version 1.9, il est désormais réuni dans un seul package pour BG1, BG1Tutu, BGT, BG:EE avec ou sans SoD.|<a href=\"http://www.users.totalise.co.uk/~bluerift/\">Site du développeur</a>.",
+        "description": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir.|Depuis la version 1.9, il est désormais réuni dans un seul package pour BG1, BG1Tutu, BGT, BG:EE avec ou sans SoD.",
         "urls": [
-            "http://www.users.totalise.co.uk/~bluerift/#Downloads"
+            "http://www.users.totalise.co.uk/~bluerift/",
+            "https://github.com/red-carnelian/The-Stone-of-Askavar"
         ],
         "categories": [
             "Quête"
@@ -33193,10 +33205,15 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "cn",
+            "es",
+            "de",
+            "pl",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2024-08",
         "tp2": "soa"
     },
     {
@@ -33631,7 +33648,7 @@
         "name": "Throne of Bhaal Revisited beta",
         "description": "Vous n'aimez pas l'extension du Trône de Bhaal ? Vous en avez assez de devoir de suivre une histoire linéaire avec des personnages vides ? Ce mod a pour but d'y remédier.|Il comprend quatre sections principales : personnages, non-linéarité, lieux et quêtes. Chaque section est indépendante, comme le sont chacun de leurs composants :|- Personnages : Vous avez maintenant une chance de raisonner Gromnir, même si c'est difficile. Mélissane possède désormais une amulette magique qui la protège des sorts de détection d'alignement. C'est le Solaire, et non Sarevok, qui ouvre le premier défi. S'il y voit un avantage, Yaga Shura vous demandera de tuer Gromnir et, si cela ne brise pas le siège, le capitaine Samand.|- Non-linéarité : C'est Ellesime qui vous mènera à la clairière des anciens. Votre Antichambre ne vous téléportera plus que dans les endroits que vous avez déjà visités. Vous pouvez combattre les Cinq dans n'importe quel ordre.|- Lieux : Si Saradush n'est pas encore tombé, vous verrez un côté plus paisible de l'Oasis. Il y a beaucoup plus d'Enfants de Bhaal à Saradush. Dans les égouts de Saradush vous trouverez de nouvelles créatures et comprendrez certainement mieux pourquoi il y a autant d'ombres. Les trésors les plus précieux ont été déplacés et mieux gardés dans le temple de Yara Shura.|- Quêtes : Une prêtresse de Kelemvor cherche à nettoyer le temple de Bhaal en ruines. Une sorcière capricieuse vit désormais dans la forêt de Téthyr.",
         "urls": [
-            "https://www.dropbox.com/s/t0egjd5662gxen3/Throne%20of%20Bhaal%20Revisited%20beta4%20FIX.rar?dl=0"
+            "https://github.com/Endarire/Throne-of-Bhaal-Revisited"
         ],
         "categories": [
             "Quête"
@@ -33654,7 +33671,7 @@
             "ru"
         ],
         "status": "wip",
-        "last_update": "",
+        "last_update": "2023-03",
         "tp2": "tobr"
     },
     {
@@ -39103,7 +39120,7 @@
         "description": "Ce mod permet d'avoir une relation beaucoup plus privilégiée avec sa petite sœur. Il peut s'agir aussi bien d'amitié que de romance, quel que soit le sexe du PJ. Les dialogues sont particulièrement nombreux, et le mod comprend un grand nombre de nouvelles musiques. Il exige ToB.",
         "urls": [
             "http://www.blindmonkey.org/imoen/",
-            "http://imoen.blindmonkey.org/downloads.php"
+            "https://github.com/mleduque/ImoenRomance/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -39117,7 +39134,7 @@
         "authors": [
             "Lord Mirrabbo",
             "Vanatos",
-            "Sarevok8",
+            "Sarevok08",
             "T.C. Dale",
             "theacefes"
         ],
@@ -39129,7 +39146,10 @@
         ],
         "translation_state": "todo",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2020-04",
         "tp2": "imoenromance"
@@ -47993,5 +48013,255 @@
         "status": "active",
         "last_update": "2018-10",
         "tp2": "c4Monk"
+    },
+    {
+        "name": "Tactics Kits",
+        "description": "Certains kits de [[Tactics]] sont obsolètes avec les dernières versions de EE, ce mod les proposent à nouveau et en français. Il s'agit de l'Archer (de la classe Guerrier) et de l'Anti-Paladin.",
+        "urls": [
+            "https://github.com/Plutonium-X/KIT_Tactics_kits"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [],
+        "team": [
+            "Deratiseur"
+        ],
+        "notes": [],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2024-10",
+        "tp2": "Tactics-Kits"
+    },
+    {
+        "name": "Restore Minsc's original SoD Ethics line",
+        "description": "Un petit mod pour restaurer la réplique originale de SoD « Ethics in heroic adventuring » de Minsc - vous pouvez maintenant découvrir ce qui a suscité l'indignation « politique » lors du lancement ! Activez les scripts puis appuyez sur S pour découvrir sa réplique.",
+        "urls": [
+            "https://github.com/Dapbler/SoD-Ethics/"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "SoD"
+        ],
+        "authors": [
+            "Grozzle"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-09",
+        "tp2": "ethicsinheroicadventuring"
+    },
+    {
+        "name": "Two-Handed Fighter kit for Fighters",
+        "description": "Ce mod ajoute une adaptation de l'archétype du combattant à deux mains de Pathfinder 1 dans les versions EE.",
+        "urls": [
+            "https://github.com/Arvendor/Two-Handed-Fighter-Kit-for-EE"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Arvendor"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-10",
+        "tp2": "Two-Handed_Fighter"
+    },
+    {
+        "name": "RoyalProtector's Item Pack",
+        "description": "Ce mod ajoute des objets dans le monde de BGEE et BG2EE. Chaque élément est totalement optionnel lors de l'installation. Vous n'en aimez qu'un ? N'en installez qu'un seul.",
+        "urls": [
+            "https://github.com/szaumoor/ZS_ItemPack"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "RoyalProtector"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-02",
+        "tp2": "ZS_ItemPack"
+    },
+    {
+        "name": "ZS_CharacterTraits",
+        "description": "Ce mod permet aux nouveaux personnages créés dans BGEE et BG2EE d'avoir une sélection de traits individuels qui leur donnent plus d'unicité et d'influencer leur comportement.",
+        "urls": [
+            "https://github.com/szaumoor/ZS_CharacterTraits"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "RoyalProtector"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-01",
+        "tp2": "ZS_CharacterTraits"
+    },
+    {
+        "name": "Bard Song Switching",
+        "description": "Ce mod permet aux Bardes de changer de chant comme dans IWD. Les chants des kits ne pouvant pas changer, ils ont été améliorés pour compenser. Les effets des différents chants peuvent se cumuler. Un composant permet même de cumuler plusieurs fois les mêmes chants dans le cas où plusieurs bardes forment un chœur.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/37103-bard-song-switching-icewind-mode-for-bgee-series-v46/",
+            "https://github.com/shohysie/Bardsong_Switching"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Shohy"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en",
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2024-11",
+        "tp2": "BardSong_BGEE_IWD"
+    },
+    {
+        "name": "Detailed Description",
+        "description": "Dans la même veine que [[AutoDescription]] ce mod permet d'afficher les descriptions de tous les objets du jeu. À installer en dernier.",
+        "urls": [
+            "https://github.com/shohysie/DetailedDescription"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Shohy"
+        ],
+        "team": [],
+        "notes": [
+            "Disponible qu'en chinois."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2025-02",
+        "tp2": "DetailedDescription"
+    },
+    {
+        "name": "Sandrah Saga II - Return to Faerun",
+        "description": "Second volet de [[Sandrah Saga I - Sandrah Appears]].",
+        "urls": [
+            "https://github.com/RoxanneSHS/SandrahRtF"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2024-11",
+        "tp2": "SandrahRtF"
+    },
+    {
+        "name": "Sandrah Saga III - Time of Troubles Revisited",
+        "description": "Troisième et dernier volet de [[Sandrah Saga I - Sandrah Appears]].",
+        "urls": [
+            "https://github.com/RoxanneSHS/SandrahToT"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "EET"
+        ],
+        "authors": [
+            "Roxanne"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2024-11",
+        "tp2": "SandrahToT"
     }
 ]
