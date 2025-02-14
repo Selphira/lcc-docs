@@ -1268,7 +1268,7 @@
     },
     {
         "name": "Mana Based Spell System",
-        "description": "En gros, ce mod implémente un système de basé sur le mana dans BG2. Vous pouvez mémoriser des sorts à tout moment en appuyant sur la touche \"V\". Vous pouvez voir combien de points de mana il vous reste en appuyant sur \"N\". Lorsque vos points de mana tombent en dessous de 0, vous subissez une pénalité et ne pourrez plus lancer de sorts jusqu'à ce que vous vous reposiez. Les sorts retirent autant de points de mana égales que leur niveau d'incantation. De légères modifications sont également apportées aux sorts existants.|Le lancement de sorts de très bas niveau est maintenant autorisé à Athkatla tant qu'il ne constitue pas une perturbation suffisamment importante pour que le Conseil des Six s'en alarme.",
+        "description": "En gros, ce mod implémente un système de basé sur le mana dans BG2. Vous pouvez mémoriser des sorts à tout moment en appuyant sur la touche `V`. Vous pouvez voir combien de points de mana il vous reste en appuyant sur `N`. Lorsque vos points de mana tombent en dessous de 0, vous subissez une pénalité et ne pourrez plus lancer de sorts jusqu'à ce que vous vous reposiez. Les sorts retirent autant de points de mana égales que leur niveau d'incantation. De légères modifications sont également apportées aux sorts existants.|Le lancement de sorts de très bas niveau est maintenant autorisé à Athkatla tant qu'il ne constitue pas une perturbation suffisamment importante pour que le Conseil des Six s'en alarme.",
         "urls": [
             "http://www.shsforums.net/files/file/524-mana-based-spell-system/"
         ],
@@ -1714,9 +1714,10 @@
         "tp2": "anishai"
     },
     {
-        "name": "Anomaly Tweak Pack (ATP)",
+        "name": "Anomaly Tweak Pack",
         "description": "Ce petit mod français conçu par Anomaly propose une quinzaine de modifications de jeu à BG1, BG2, BG:EE, BG2:EE, BGT ou Tutu, dont des améliorations graphiques, des raccourcis pour certains dialogues, des ajouts de sorts et un nouveau script joueur générique.",
         "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24228",
             "http://www.anomaly-studios.fr/mods/"
         ],
         "categories": [
@@ -1739,11 +1740,12 @@
         "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2014-08",
+        "tp2": "atp"
     },
     {
         "name": "Another Fine Hell for SoD",
@@ -2645,6 +2647,7 @@
         "description": "Ce mod vous permet de recruter la gnome Aurelia Minerva Eveline Glimmershine. Vous la trouverez dans le centre de Bérégost. En tant qu'artificier (profil de voleur), Aura peut modifier certains objets magiques que le groupe acquiert au cours de son voyage.|Gentille et idéaliste dans l'âme, elle peut être plutôt timide et inepte socialement lorsqu'elle interagit avec des étrangers, mais elle devient facilement enthousiaste et excitable lorsque le sujet s'écarte de ses domaines d'expertise, étant capable de parler ou (plus probablement) de faire la leçon aux autres pendant des heures. Aura est généralement amicale, faisant au moins un effort pour se lier avec tous ses compagnons de voyage, avec plus ou moins de succès. Elle approuve l'innovation, la recherche de connaissances et l'utilisation de ses talents pour aider les autres. Par conséquent, elle convient mieux aux parties d'alignement bon, bien qu'elle puisse suivre n'importe quel PC d'un niveau au moins moyen.|Un PC féminin de n'importe quelle race peut flirter avec Aura. Un PC compatible gagne des options de dialogue romantique pendant ses discussions d'amitié, mais il n'y a pas de romance.|Dans SoD, Aura peut commencer une romance avec une femme non maléfique de n'importe quelle race avec au mois 12 d'intelligence et 10 de charisme. Elle est généralement affectueuse et répondra amicalement à un partenaire qui est amical, intelligent et prêt à écouter. D'un autre côté, elle est prompte à s'éloigner si le PC ne montre aucun signe d'intérêt, et les réponses brutales sont promptes à la faire fuir.",
         "urls": [
             "https://artisans-corner.com/aura-npc/",
+            "https://forums.beamdog.com/discussion/65891/",
             "https://github.com/ArtemiusI/Aura_BG1"
         ],
         "categories": [
@@ -3427,7 +3430,8 @@
         "name": "BG1 NPCs at Beginning",
         "description": "Ce mod français rapproche 11 PNJ éloignés de la route directe vers Nashkel (Ajantis, Alora, Coran, Eldoth, Faldorn, Kivan, Quayle, Safana, Shar-Teel, Tiax, Viconia) pour faciliter leur recrutement au début du jeu afin de pouvoir davantage varier les équipes. Vous trouverez plus de détails <a href=\"http://www.anomaly-studios.fr/mods/bg1npcbeg/lisezmoi.html\">ici</a>.|Si vous souhaitez installer [[The BG1NPC Project]], [[Sword Coast Stratagems]] et/ou [[The Tweaks Anthology]], veuillez installer ces modules avant BG1 NPCs at Beginning. Cela évitera à ce dernier de vous proposer de déplacer des PNJ qui ont déjà été déplacés par un de ces 3 mods avant lui, si vous avez choisi de le faire.",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?t=24228"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24228",
+            "http://www.anomaly-studios.fr/mods/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -3447,11 +3451,15 @@
         "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "fr"
+            "fr",
+            "en",
+            "de",
+            "pl",
+            "ru"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2018-09",
+        "tp2": "bg1npcbeg"
     },
     {
         "name": "BG1 Regelmod",
@@ -7184,7 +7192,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2019-02",
-        "tp2": ""
+        "tp2": "eseries"
     },
     {
         "name": "gMinion",
@@ -10010,6 +10018,7 @@
         "name": "Dragonspear UI++",
         "description": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais.||- La <a href=\"https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit\">version d'Anongit</a>, basée sur celle de Pecca / Renegade, elle se concentre sur la compatibilité avec EET et d'autres corrections.",
         "urls": [
+            "https://forums.beamdog.com/discussion/50357/",
             "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit/releases/tag/Anongit",
             "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Artifox/releases/tag/Artifox"
         ],
@@ -27943,7 +27952,8 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SoD"
+            "SoD",
+            "EET"
         ],
         "authors": [
             "Crevs Daak"
@@ -28537,7 +28547,8 @@
         "name": "Shar-Teel NPC for SoD",
         "description": "À ne pas confondre avec [[Shar-Teel NPC]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ.|Gardez à l'esprit que ce mod est encore en développement.",
         "urls": [
-            "http://www.shsforums.net/files/file/1164-sharteel-npc-mod-for-sod/"
+            "http://www.shsforums.net/files/file/1164-sharteel-npc-mod-for-sod/",
+            "https://github.com/yellow-hat-elminster/Sharteel-NPC-SoD"
         ],
         "categories": [
             "PNJ recrutable"
@@ -29093,6 +29104,7 @@
         "description": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr qu'il est possible de rencontrer au quartier général du Cœur Radieux. Elle ne s'entend pas avec Dorn et Hexxat, et ne suivra pas un personnage d'alignement mauvais. Le mod propose des dialogues d'amitié et de romance (c'est au joueur de montrer de l'intérêt) et offre une continuité avec BG:EE si on avait déjà recruté le personnage. Il comporte du contenu en rapport certains PNJ d'autres mods ainsi qu'avec les mods Colours of Infinity.",
         "urls": [
             "https://artisans-corner.com/sirene-npc-for-bg2ee/",
+            "https://forums.beamdog.com/discussion/62163",
             "https://github.com/ArtemiusI/Sirene-NPC-for-BG2-EE"
         ],
         "categories": [
@@ -31894,6 +31906,7 @@
         "description": "Ce mod ajoute plusieurs profils dans le jeu et en modifie certains :|- Guerriers : [[Arcane Archer Redone]], Barbare, The Art of Slaughter (Berserker), Art of the Sword Saint (Kensaï), Vanguard (pour Khalid).|- Rôdeurs : Dark Hunter, [[Rashemi Berserker Ranger]] (pour Minsc).|- Paladins : Divine Champion (Keldorn, Ajantis, Sirene), [[Mystic Fire Paladin Kit]], Way of the Anti-Paladin (Chevalier noir).|- Druides : Elementalist, Hivemaster.|- Voleurs : [[Way of the Assassin]] (assassin), Magekiller, Rogue Archer (Imoen), Trickster (Imoen).|- Ensorceleurs : Dragon Disciple, [[Pale Master Sorcerer]], Enlightened Fist.|- Shaman : [[Warhorn Shaman]].|-Clerc : Sacred Fist.",
         "urls": [
             "https://artisans-corner.com/the-artisans-kitpack/",
+            "https://forums.beamdog.com/discussion/75663/",
             "https://github.com/ArtemiusI/The-Artisan-s-Kitpack"
         ],
         "categories": [
@@ -48263,5 +48276,59 @@
         "status": "active",
         "last_update": "2024-11",
         "tp2": "SandrahToT"
+    },
+    {
+        "name": "Disc 255 Fix",
+        "description": "Correctif pour les jeux Tutu qui sont confrontés à l'erreur `Insert Disk 255`.",
+        "urls": [
+            "https://www.angelfire.com/rpg2/azenmod/index.html#Downloads"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "Tutu"
+        ],
+        "authors": [
+            "Josh Clue"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2006-04",
+        "tp2": "Disc255"
+    },
+    {
+        "name": "Poison No Bypass",
+        "description": "Ce correctif propose d'empêcher les armes empoisonnées de contourner les peaux de pierre et les images-miroir.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/comment/831259/#Comment_831259",
+            "https://github.com/mleduque/kjeron_poison_no_bypass"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "kjeron"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2016-12",
+        "tp2": "POISON_NO_BYPASS"
     }
 ]
