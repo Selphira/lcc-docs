@@ -323,7 +323,7 @@
         ],
         "status": "active",
         "last_update": "2024-02",
-        "tp2": "Miscellaneous"
+        "tp2": "miscellaneous"
     },
     {
         "name": "APR on Spec",
@@ -612,7 +612,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2020-05",
+        "last_update": "2024-12",
         "tp2": "aip"
     },
     {
@@ -810,7 +810,7 @@
         ],
         "status": "active",
         "last_update": "2025-02",
-        "tp2": "ajantisbg1"
+        "tp2": "AjantisBG1"
     },
     {
         "name": "Ajantis NPC for BGII",
@@ -869,7 +869,7 @@
         "safe": 2,
         "languages": [
             "en",
-            "sp",
+            "es",
             "ru",
             "de",
             "it"
@@ -1868,7 +1868,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2022-10",
+        "last_update": "2024-12",
         "tp2": "arath"
     },
     {
@@ -2176,7 +2176,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2021-10",
+        "last_update": "2024-12",
         "tp2": "luvnalia"
     },
     {
@@ -2324,7 +2324,7 @@
         ],
         "status": "active",
         "last_update": "2025-02",
-        "tp2": "AC_QUEST"
+        "tp2": "ac_quest"
     },
     {
         "name": "Ascension",
@@ -2380,7 +2380,7 @@
         ],
         "status": "active",
         "last_update": "2024-01",
-        "tp2": "ascension"
+        "tp2": "Ascension"
     },
     {
         "name": "Ashar NPC",
@@ -2462,6 +2462,7 @@
         "games": [
             "BGT",
             "BGEE",
+            "BG2EE",
             "EET"
         ],
         "authors": [
@@ -2471,7 +2472,8 @@
             "JohnBob"
         ],
         "notes": [
-            "La version EE (et traduite) est disponible via le lien github."
+            "La version EE (et traduite) est disponible via le lien github.",
+            "Seul le kit est compatible BG2EE."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -2819,7 +2821,7 @@
         ],
         "status": "active",
         "last_update": "2024-10",
-        "tp2": "Aurorkit"
+        "tp2": "AurorKit"
     },
     {
         "name": "Aurora ToB NPC",
@@ -3090,20 +3092,22 @@
             "EET"
         ],
         "authors": [
-            "Josh Clue"
+            "Josh Clue",
+            "Erebusant"
         ],
         "team": [
             "Galathée"
         ],
         "notes": [
-            "Choisissez le lien github pour la version EE et l'autre lien pour les versions originelles. La seconde version est non officielle."
+            "Choisissez le lien shs pour les versions originelles et le lien github pour la version EE. La seconde version est non officielle et n'est pas disponible en français."
         ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
+            "fr",
             "de",
-            "ru"
+            "it"
         ],
         "status": "active",
         "last_update": "2022-11",
@@ -3880,11 +3884,11 @@
     },
     {
         "name": "Tweaks and Tricks",
-        "description": "Ce mod permet de faire mille et un petits ajustements au jeu, et s'avère être le parfait complément de [[The Tweaks Anthology]]. Vous pouvez rendre les familiers plus intelligents, détecter les pièges plus rapidement et permettre à vos PNJ de \"sentir\" leur présence, modifier les effets de certains objets et sorts pour les rendre plus cohérents, faire des changements aux règles, vendre vos objets sans dépréciation de prix dans les magasins, désactiver les sauvegardes automatiques dans certaines transitions, diminuer le temps de chargement des zones dans les jeux originaux (d'environ 10 à 30 % selon l'auteur), et bien d'autres choses dont vous trouverez la description <a href=\"https://github.com/BGforgeNet/bg2-tweaks-and-tricks\">ici</a>.|Il fonctionne avec n'importe quel jeu IE, mais tous ses composants ne sont pas applicables à tous les jeux.",
+        "description": "Ce mod permet de faire mille et un petits ajustements au jeu, et s'avère être le parfait complément de [[The Tweaks Anthology]]. Vous pouvez rendre les familiers plus intelligents, détecter les pièges plus rapidement et permettre à vos PNJ de \"sentir\" leur présence, modifier les effets de certains objets et sorts pour les rendre plus cohérents, faire des changements aux règles, vendre vos objets sans dépréciation de prix dans les magasins, désactiver les sauvegardes automatiques dans certaines transitions, diminuer le temps de chargement des zones dans les jeux originaux (d'environ 10 à 30 % selon l'auteur), et bien d'autres choses que vous trouverez dans le readme.|Il fonctionne avec n'importe quel jeu IE, mais tous ses composants ne sont pas applicables à tous les jeux.",
         "urls": [
             "https://bgforge.net/tweaks-and-tricks/",
             "https://github.com/BGforgeNet/bg2-tweaks-and-tricks",
-            "https://github.com/Plutonium-X/bg2-tweaks-and-tricks"
+            "https://github.com/Plutonium-X/FORK_bg2-tweaks-and-tricks"
         ],
         "categories": [
             "Gameplay"
@@ -3903,7 +3907,7 @@
             "Deratiseur"
         ],
         "notes": [
-            "La version française est disponible via le second lien."
+            "La version française est disponible via le lien Plutonium-X."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -3949,7 +3953,7 @@
         "tp2": "BG2EE_AI_Denoised_Areas"
     },
     {
-        "name": "BG2:EE GUI To BG:EE",
+        "name": "BG2EE GUI To BGEE",
         "description": "Ce mod de Kerozevok modifie l'interface de jeu pour lui donner l'aspect de BG2:EE et apporte également un certain nombre de changements.",
         "urls": [
             "https://forums.beamdog.com/discussion/55094/"
@@ -3969,11 +3973,11 @@
             "Nécessite Siege of Dragonspear."
         ],
         "translation_state": "n/a",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
         "last_update": "2016-06",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "BG2:EE portraits",
@@ -4365,7 +4369,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Back to Brynnlaw MOD for Baldur's Gate II (BGII, BGT, BGII:EE, and EET)",
+        "name": "Back to Brynnlaw MOD for Baldur's Gate II",
         "description": "Le mod débute au chapitre 6 lorsqu'un messager vous intercepte près du Marché de l'Aventurier. Vous devrez accompagner un mage cagoulé afin de l'aider à secourir une autre victime des expérimentations d'Irenicus. Le mod dispose de contenu supplémentaire pour Imoen et pour le mod [[Xan NPC MOD for Baldur's Gate II]].",
         "urls": [
             "https://www.pocketplane.net/back-to-brynnlaw/",
@@ -4400,7 +4404,7 @@
         ],
         "status": "active",
         "last_update": "2021-05",
-        "tp2": "BackBrynnlaw"
+        "tp2": "backbrynnlaw"
     },
     {
         "name": "Backstab Script and Random Kobold weapons",
@@ -4575,7 +4579,7 @@
         "tp2": "BGFixPack"
     },
     {
-        "name": "Baldur's Gate Graphics Overhaul",
+        "name": "Baldur's Gate Graphical Overhaul",
         "description": "Ce mod énorme ajoute les zones nocturnes qui manquent dans toutes les zones principales sauf Baldur's Gate et ajoute les minimaps nocturnes manquantes dans toutes les zones principales. Il corrige également des défauts graphiques dans les différentes cartes du jeu (fenêtres qui s'affichent la nuit et pas le jour - ou vice versa, porte mal ajustée, défaut dans les images de nuit, etc.). Il donne à tous les braseros muraux leurs flammes manquantes. Enfin, presque toutes les vilaines taches bleues et violettes ont été supprimées des rues. Il a été réalisé en collaboration avec Overhaul Studios.",
         "urls": [
             "http://www.shsforums.net/forum/641-bg-graphics-overhaul/",
@@ -4587,6 +4591,8 @@
         "games": [
             "Tutu",
             "BGT",
+            "BG2",
+            "SoD",
             "BGEE",
             "BG2EE",
             "EET"
@@ -4864,7 +4870,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2021-11",
+        "last_update": "2024-12",
         "tp2": "bank_of_baldurs_gate"
     },
     {
@@ -5284,12 +5290,12 @@
             "BG2",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWD",
             "IWD2",
             "IWDEE",
-            "PST"
+            "PST",
+            "PSTEE"
         ],
         "authors": [
             "Dan_P"
@@ -5366,7 +5372,7 @@
         "tp2": "better_spell_visuals"
     },
     {
-        "name": "Better Stat Drain (STR, DEX, CON, INT, WIS, CHA)",
+        "name": "Better Stat Drain",
         "description": "Ce mod permet à nouveau de vaincre un ennemi en absorbant ses caractéristiques, exploit supprimé par les versions EE pour éviter de tuer accidentellement des personnages importants pour le scénario. Dorénavant, vous ne pourrez pas les tuer, mais les faire descendre à un point de vie et déclencher le script ou le dialogue prévu lors de leur défaite.",
         "urls": [
             "https://forums.beamdog.com/discussion/68502/"
@@ -5419,7 +5425,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2021-10",
+        "last_update": "2024-12",
         "tp2": "btl"
     },
     {
@@ -5602,7 +5608,7 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "BP_in_BG"
+        "tp2": "bp_in_bg"
     },
     {
         "name": "Black Raven Monk Kit",
@@ -5855,7 +5861,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2020-06",
+        "last_update": "2024-12",
         "tp2": "bolsa"
     },
     {
@@ -6051,11 +6057,14 @@
             "Attention : ce mod est incompatible avec les nombreux mods qui introduisent aussi Branwen dans BG2, comme [[Perils of Branwen]], [[Branwen NPC for BGII]] et [[BG1 NPC in SoA&ToB]]."
         ],
         "translation_state": "no",
-        "safe": 1,
-        "languages": [],
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2011-02",
+        "tp2": "BranwenNPC"
     },
     {
         "name": "Branwen NPC for BGII",
@@ -6094,7 +6103,7 @@
         ],
         "status": "active",
         "last_update": "2022-06",
-        "tp2": "Branwen"
+        "tp2": "branwen"
     },
     {
         "name": "Brendan Bellina BG2/BG1Tutu enhancements collection",
@@ -6597,7 +6606,7 @@
         ],
         "status": "active",
         "last_update": "2024-11",
-        "tp2": "cassius"
+        "tp2": "Cassius"
     },
     {
         "name": "Cast find familiar, and choose any",
@@ -6684,7 +6693,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2023-04",
+        "last_update": "2024-12",
         "tp2": "cernd"
     },
     {
@@ -7007,7 +7016,7 @@
         ],
         "status": "archived",
         "last_update": "2023-11",
-        "tp2": "ChattyImoen"
+        "tp2": "chattyimoen"
     },
     {
         "name": "Check the Bodies",
@@ -7051,8 +7060,8 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2020-02",
-        "tp2": "CtB"
+        "last_update": "2024-12",
+        "tp2": "ctb"
     },
     {
         "name": "Chiara NPC",
@@ -7087,8 +7096,8 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
-        "tp2": "chiara"
+        "last_update": "2025-02",
+        "tp2": "Chiara"
     },
     {
         "name": "Chloe Romance",
@@ -8309,10 +8318,11 @@
             "en",
             "de",
             "ru",
-            "cn"
+            "cn",
+            "it"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-02",
         "tp2": "crossmodbg2"
     },
     {
@@ -8536,7 +8546,7 @@
         "urls": [
             "http://www.shsforums.net/files/file/614-ds-odd-quest-mod/",
             "https://github.com/Spellhold-Studios/Duality-Odd-Quest-Mod",
-            "https://github.com/Plutonium-X/FIGHT_Duality_Odd_Quest/"
+            "https://github.com/Plutonium-X/FORK_Duality_Odd_Quest"
         ],
         "categories": [
             "Quête"
@@ -8583,7 +8593,6 @@
             "Tutu",
             "BG2",
             "BGEE",
-            "SoD",
             "EET",
             "BG2EE",
             "IWD",
@@ -8982,7 +8991,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2020-08",
+        "last_update": "2024-12",
         "tp2": "darron"
     },
     {
@@ -9011,10 +9020,14 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "es"
+        ],
         "status": "active",
-        "last_update": "2023-10",
-        "tp2": "item_pack"
+        "last_update": "2025-02",
+        "tp2": "Item_Pack"
     },
     {
         "name": "de'Arnise Romance",
@@ -9185,7 +9198,7 @@
         ],
         "team": [],
         "notes": [
-            "DoF n'est pas compatible avec les mods [[Faiths and Powers]], [[Spell Revisions]] et [[Divine Remix]]."
+            "DoF n'est pas compatible avec les mods [[Faiths and Powers]], [[Spell Revisions]] et [[The Divine Remix]]."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -9222,7 +9235,7 @@
     },
     {
         "name": "Demon Summoning Ritual",
-        "description": "Aussi appelé \"Unholy Gate Opening Ritual Book\", ce mod ajoute un livre permettant de convoquer un démon aléatoire. Il est en possession de Tolgerias dans la sphère planaire. Son utilisation est dangereuse.",
+        "description": "Aussi appelé `Unholy Gate Opening Ritual Book`, ce mod ajoute un livre permettant de convoquer un démon aléatoire. Il est en possession de Tolgerias dans la sphère planaire. Son utilisation est dangereuse.",
         "urls": [
             "http://www.shsforums.net/files/file/140-demon-summoning-ritual/",
             "https://github.com/Spellhold-Studios/Demon-Summoning-Ritual"
@@ -9257,7 +9270,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2020-05",
+        "last_update": "2024-12",
         "tp2": "dsr"
     },
     {
@@ -9345,8 +9358,8 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-01",
-        "tp2": "Derats_Dawap"
+        "last_update": "2025-02",
+        "tp2": "Derats_dawap"
     },
     {
         "name": "Desecration of Souls",
@@ -9699,7 +9712,7 @@
         "tp2": ""
     },
     {
-        "name": "Divine Remix",
+        "name": "The Divine Remix",
         "description": "Appelé à l'origine \"Cleric Remix\", ce mod a pour but de rééquilibrer et de changer certains aspects des classes utilisant la magie divine (clercs, paladins, druides et rôdeurs) dans BG (au travers de BGT, BG1Tutu et BG:EE) et dans BG2.|Tout d'abord, il revoit entièrement le système de sorts des prêtres, druides, rôdeurs et paladins. Il modifie donc la liste des sorts auxquels les clercs ont accès grâce à un système de sphères d'influence divines plus fouillé ; désormais, les prêtres auront accès aux sorts des sphères se rapportant aux attributions de leur divinité. Ainsi, les clercs de Lathandre auront des sorts plutôt centrés sur la guérison et le feu, tandis que ceux de Talos auront un accès privilégié aux sortilèges de destruction. Il en va de même pour les druides, les rôdeurs et les paladins, qui ont maintenant accès à une sélection de sorts plus appropriée pour leur classe. Dans cette logique, une lardée de nouveaux sorts divins ont été ajoutés, tels que les sorts de blessure (contraires aux sorts de guérison), la détection du bien ou encore plusieurs sortilèges tout droits issus d'Icewind Dale. Oubliés, les lanceurs de sorts divins qui se ressemblent tous et dont les sorts ne reflètent en rien leur personnalité, et ajoutez une dimension un peu plus tactique aux prêtres et aux druides !|Deuxièmement, il ajoute 22 nouveaux profils, principalement de rôdeurs et de clercs, afin d'avoir un choix plus large, comme les profils de clerc Étoile d'argent de Séluné, Manteau de la nuit de Shar, Stratège divin de la Cavalière Rouge, d'Aumonier de guerre de Tempus, Noble martyr d'Ilmater, Adepte des flammes de Kossuth, Tyran d'Iyachtu Xvim, Gardien du savoir d'Oghma, Garde du cœur de Sunie, Protecteur Féérique de Corellon, Maitre des conflits de Cyric ; le profil de druide de Maitre des vases, et les profils de rôdeur d'Archer sylvain, Rôdeur sauvage, de Coureur des bois, Vengeur et Coureur sauvage.|Enfin, il permet d'attribuer à Viconia et Branwen un profil de classe correspondant à leur divinité : prêtresse de Shar pour la première, et de Tempus pour la seconde.",
         "urls": [
             "https://www.gibberlings3.net/files/file/706-divine-remix/",
@@ -10186,7 +10199,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Drizzt Is Not Stupid",
+        "name": "Drizzt is not stupid",
         "description": "Ce mini mod s'efforce de rendre Drizzt plus résistant à la duperie sans le transformer en dieu pour autant. Tout le monde sait bien que le voler, voire l'attaquer, ne peut rien donner de bon... Vous ne pourrez plus lui prendre ses armes. De plus, même provoqué, il offre désormais une alternative non-violente au joueur si le groupe répond à certaines exigences.",
         "urls": [
             "http://usoutpost31.com/drizztisnotstupid/",
@@ -10200,6 +10213,7 @@
             "BGT"
         ],
         "authors": [
+            "Macready",
             "Xicloing"
         ],
         "team": [],
@@ -10208,10 +10222,13 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de"
+        ],
         "status": "active",
         "last_update": "2010-04",
-        "tp2": ""
+        "tp2": "DrizztIsNotStupid"
     },
     {
         "name": "Droquil",
@@ -10260,8 +10277,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2013-01",
-        "tp2": ""
+        "last_update": "2025-01",
+        "tp2": "Drows"
     },
     {
         "name": "Druid Grove makeover",
@@ -10289,7 +10306,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2018-03",
-        "tp2": "druidgrovemakeover"
+        "tp2": "DruidGroveMakeover"
     },
     {
         "name": "Druid Kit Enhancements",
@@ -10503,7 +10520,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2014-02",
+        "last_update": "2014-11",
         "tp2": "duskblade"
     },
     {
@@ -10744,7 +10761,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -11472,7 +11488,7 @@
         ],
         "status": "active",
         "last_update": "2021-07",
-        "tp2": "eet_end"
+        "tp2": "EET;EET_end;EET_gui"
     },
     {
         "name": "Sod2BG2:EE Cosmetic Item Upgrade",
@@ -11935,7 +11951,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2022-03",
+        "last_update": "2024-12",
         "tp2": "gbthfkp"
     },
     {
@@ -12207,7 +12223,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -12229,7 +12244,7 @@
         ],
         "status": "active",
         "last_update": "2024-11",
-        "tp2": "faiths_and_powers"
+        "tp2": "Faiths_and_Powers"
     },
     {
         "name": "Fake Import Mod",
@@ -12894,7 +12909,6 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -13298,7 +13312,7 @@
         "tp2": "n/a"
     },
     {
-        "name": "Gavin BG1",
+        "name": "Gavin NPC Mod for BGEE, EET, BGT, or Tutu",
         "description": "Ce mod ajoute un clerc de Lathandre romançable pour tous les PJs quels que soient leur race et leur alignement (bien qu'il ne romancera pas les assassins). Gavin est bavard, idéaliste, un peu trouillard, romantique, maladroit et lathandrite. Son passé difficile le hante et ses raisons de vous accompagner sur les routes de l'aventure (hormis les habituels désirs d'un monde meilleur) vous apparaitront petit à petit... Banters, interjections et une petite quête dans Bérégost. Retrouvez-le au Temple de la Chanson du Matin, non loin de Bérégost.",
         "urls": [
             "https://www.gibberlings3.net/files/file/714-gavin-npc-for-bg/",
@@ -13334,7 +13348,7 @@
         "tp2": "gavin"
     },
     {
-        "name": "Gavin BG2",
+        "name": "Gavin NPC Mod for BG2EE, EET, BG2, or BGT",
         "description": "Ce mod ajoute un clerc de Lathandre romançable pour tous les PJs quels que soient leur race et leur alignement (bien qu'il ne romancera pas les assassins). Gavin est bavard, idéaliste, un peu trouillard, romantique, maladroit et lathandrite. Son passé difficile le hante et ses raisons de vous accompagner sur les routes de l'aventure (hormis les habituels désirs d'un monde meilleur) vous apparaitront petit à petit... Ses caractéristiques sont FOR 16, DEX 12, CON 16, INT 12, SAG 17 et CHA 12. Retrouvez-le au temple d'Ilmater.",
         "urls": [
             "https://www.gibberlings3.net/files/file/715-gavin-npc-for-bg2/",
@@ -13593,7 +13607,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -13825,7 +13838,6 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -13839,7 +13851,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-02",
         "tp2": "glamnpcpack"
     },
     {
@@ -13905,8 +13917,7 @@
         ],
         "games": [
             "BGT",
-            "BGEE",
-            "SoD"
+            "BGEE"
         ],
         "authors": [
             "Genwa"
@@ -14522,7 +14533,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2020-06",
+        "last_update": "2024-12",
         "tp2": "heartwood"
     },
     {
@@ -14579,7 +14590,7 @@
         ],
         "status": "wip",
         "last_update": "2018-03",
-        "tp2": "helarine_bgee"
+        "tp2": "Helarine_BGEE"
     },
     {
         "name": "Helga, a Dwarven Priestess of Haela Brightaxe",
@@ -14868,7 +14879,7 @@
         "tp2": ""
     },
     {
-        "name": "High Level Abilities (a ToB mod for casters)",
+        "name": "High Level ABILITIES - a ToB mod for casters",
         "description": "Ce mini mod transforme les HLA des mages et des prêtres en capacités innées, libérant ainsi la barre des sorts d'emplacements pour des sorts de niveau 7 ou 9.",
         "urls": [
             "http://www.shsforums.net/files/file/873-high-level-abilities-a-tob-mod-for-casters/"
@@ -15240,7 +15251,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2021-02",
+        "last_update": "2024-12",
         "tp2": "hubelpot"
     },
     {
@@ -15399,7 +15410,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2022-10",
+        "last_update": "2024-12",
         "tp2": "iepbanters"
     },
     {
@@ -15525,7 +15536,7 @@
         ],
         "status": "active",
         "last_update": "2022-09",
-        "tp2": "iwdnpc"
+        "tp2": "IWDNPC"
     },
     {
         "name": "IWD Tweak Pack",
@@ -16227,7 +16238,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2024-12",
         "tp2": "impasylum"
     },
     {
@@ -16421,7 +16432,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2020-08",
+        "last_update": "2024-12",
         "tp2": "swordap"
     },
     {
@@ -16663,6 +16674,7 @@
             "Tutu",
             "BGT",
             "BGEE",
+            "SoD",
             "EET"
         ],
         "authors": [
@@ -17090,7 +17102,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2021-06",
+        "last_update": "2024-12",
         "tp2": "isra"
     },
     {
@@ -17122,7 +17134,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2020-03",
+        "last_update": "2024-12",
         "tp2": "isra_bg2"
     },
     {
@@ -17142,7 +17154,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -17175,7 +17186,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -17217,7 +17227,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -17503,7 +17512,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2020-08",
+        "last_update": "2024-12",
         "tp2": "alchemy"
     },
     {
@@ -17657,7 +17666,7 @@
         "tp2": ""
     },
     {
-        "name": "Jester song Enhancement",
+        "name": "Jester song enhancement",
         "description": "Ce mod modifie le Chant du bouffon.",
         "urls": [
             "https://forums.beamdog.com/discussion/40263/"
@@ -17727,14 +17736,16 @@
             "PNJ recrutable"
         ],
         "games": [
-            "SoD",
+            "BGEE",
             "EET"
         ],
         "authors": [
             "nullset"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "SoD est requis."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -17842,7 +17853,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Journal Portrait Conversations for PST:EE",
+        "name": "Journal Portrait Conversations for PSTEE",
         "description": "Ce mod affiche un portrait correspondant aux interlocuteurs dans les fenêtres de dialogue.",
         "urls": [
             "https://forums.beamdog.com/discussion/64382/"
@@ -18185,7 +18196,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -18267,7 +18277,7 @@
         ],
         "status": "active",
         "last_update": "2020-08",
-        "tp2": "keto"
+        "tp2": "Keto"
     },
     {
         "name": "Khalid for BG2",
@@ -18356,7 +18366,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2021-11",
+        "last_update": "2024-12",
         "tp2": "kiara-zaiya"
     },
     {
@@ -18511,10 +18521,8 @@
             "Tutu",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
-            "IWDEE",
-            "IWD"
+            "IWDEE"
         ],
         "authors": [
             "Dan_P"
@@ -18619,7 +18627,7 @@
         ],
         "status": "active",
         "last_update": "2020-10",
-        "tp2": "Kitanya"
+        "tp2": "kitanya"
     },
     {
         "name": "Kivan and Deheriana Companions for BG2",
@@ -18669,7 +18677,6 @@
             "BGEE",
             "BG2EE",
             "EET",
-            "IWD",
             "IWDEE"
         ],
         "authors": [
@@ -18800,7 +18807,7 @@
         ],
         "status": "active",
         "last_update": "2024-07",
-        "tp2": "Derats_magasin_2"
+        "tp2": "derats_magasin_2"
     },
     {
         "name": "L'ogre et le gnome, une histoire de Bleu",
@@ -20710,7 +20717,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -20833,7 +20839,7 @@
         ],
         "status": "active",
         "last_update": "2024-11",
-        "tp2": "Mhoram"
+        "tp2": "mhoram"
     },
     {
         "name": "Might and Guile",
@@ -21030,7 +21036,6 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -21690,7 +21695,7 @@
         ],
         "status": "active",
         "last_update": "2024-06",
-        "tp2": "morituri"
+        "tp2": "Morituri"
     },
     {
         "name": "Morpheus562's Kitpack",
@@ -22217,7 +22222,7 @@
     },
     {
         "name": "NPC Enhanced for Everyone",
-        "description": "Ce mod se veut le successeur du fantastique mod \"Level 1 NPCs\" qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[Divine Remix]], [[Song and Silence: A Mod for Bards and Thieves]], ou encore [[Scales of Balance]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que L1NPCs, mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier).",
+        "description": "Ce mod se veut le successeur du fantastique mod \"Level 1 NPCs\" qui n'a jamais été mis à jour pour les jeux EE, son auteur n'étant plus actif. Il offre des choix de classe et de profils pour tous les personnages recrutables. Pour chacun le choix est limité à ce qui paraissait pertinent à l'auteur, mais il inclut également des profils des mods [[The Divine Remix]], [[Song and Silence: A Mod for Bards and Thieves]], ou encore [[Scales of Balance]] (du même auteur), à condition qu'ils soient installés avant. Il est donc conseillé de l'installer parmi les tout derniers mods.|Il n'est donc pas aussi complet et flexible que L1NPCs, mais il y a un avantage majeur : vous pouvez changer les profils de chaque PNJ grâce à une capacité spéciale innée que vous pouvez utiliser en jeu. Cette capacité est à usage unique, alors choisissez bien ! Elle déclenche un dialogue qui vous donnera la possibilité d'adopter n'importe quel kit pour cette classe... Cela inclut tous les kits de mods que vous avez pu installer. Faites de Minsc un guerrier dans l'installation WeiDU, puis utilisez cette capacité pour en faire un Barbare ! (Barbare est en fait, techniquement, un kit de guerrier).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27526-npc_ee-new-class-and-kit-options-for-bgee-and-bg2ee-npcs/",
             "https://github.com/UnearthedArcana/NPC_EE/"
@@ -22572,7 +22577,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2023-04",
+        "last_update": "2024-12",
         "tp2": "neera"
     },
     {
@@ -22651,8 +22656,7 @@
             "Sort et objet"
         ],
         "games": [
-            "BGEE",
-            "SoD"
+            "BGEE"
         ],
         "authors": [
             "Erg"
@@ -22896,7 +22900,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2020-03",
+        "last_update": "2024-12",
         "tp2": "ninde"
     },
     {
@@ -23160,7 +23164,7 @@
         ],
         "status": "active",
         "last_update": "2024-04",
-        "tp2": "NostalgiaPack"
+        "tp2": "nostalgiapack"
     },
     {
         "name": "Nouvelles voix de compagnons pour IWD et IWD2",
@@ -23393,7 +23397,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2023-03",
+        "last_update": "2024-12",
         "tp2": "1pp"
     },
     {
@@ -23577,7 +23581,7 @@
         "description": "Ce mod ajoute un profil de prêtre inspiré de la classe de prestige Slime Lord de Pathfinder.",
         "urls": [
             "https://forums.beamdog.com/discussion/80469/",
-            "https://github.com/Dracoqwerty/Oozelord-Cleric/"
+            "https://github.com/ZhalekXishailri/Oozelord-Cleric/"
         ],
         "categories": [
             "Kit"
@@ -23593,7 +23597,7 @@
         ],
         "team": [],
         "notes": [
-            "Le créateur conseille d'installer également [[Better Stat Drain (STR, DEX, CON, INT, WIS, CHA)]]."
+            "Le créateur conseille d'installer également [[Better Stat Drain]]."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -24377,11 +24381,11 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2024-12",
         "tp2": "phaere_ports"
     },
     {
-        "name": "Phun Cheats Spell",
+        "name": "Phun Cheat Spells",
         "description": "Ce mod ajoute trois nouvelles capacités dans le jeu permettant de tricher en facilitant l'enchaînement et la mémorisation des sorts, et en permettant de lancer Arrêt du temps quasi à volonté.",
         "urls": [
             "https://forums.beamdog.com/discussion/40510/"
@@ -25097,7 +25101,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -25727,7 +25730,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2024-12",
         "tp2": "RItemPack"
     },
     {
@@ -26135,7 +26138,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2020-08",
+        "last_update": "2024-12",
         "tp2": "dragonsummon"
     },
     {
@@ -26913,7 +26916,7 @@
         "tp2": ""
     },
     {
-        "name": "Reworked Reputation",
+        "name": "Reworked reputation",
         "description": "Ce petit mod attribue à une réputation négative les mêmes avantages que ceux accordés à une réputation positive, aussi bien les réductions dans les magasins que l'ajustement à la réaction.",
         "urls": [
             "https://forums.beamdog.com/discussion/42621/"
@@ -27377,7 +27380,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2021-01",
+        "last_update": "2024-12",
         "tp2": "ruad"
     },
     {
@@ -27478,7 +27481,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -27499,7 +27501,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2020-06",
+        "last_update": "2024-12",
         "tp2": "rupert"
     },
     {
@@ -27574,7 +27576,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -27626,10 +27627,10 @@
         "tp2": ""
     },
     {
-        "name": "Sacrifier Kit",
-        "description": "Ce mod ajoute un nouveau profil de druide dans le jeu.",
+        "name": "Sacrificer",
+        "description": "Ce mod ajoute un nouveau profil de druide dans le jeu. Certains druides sont des meurtriers nés. Ils héritent le plus souvent de l'instinct de prédateur de leurs ancêtres, mais parfois la vie brutale dans la nature sauvage a éveillé la tendance à ensanglanter les victimes. Malgré leur mauvais tempérament, la nature leur donne le même pouvoir qu'à d'autres prêtres, car c'est probablement son côté le plus sombre qu'ils manifestent.",
         "urls": [
-            "https://forums.beamdog.com/discussion/70044/"
+            "https://forums.beamdog.com/discussion/70044/#Comment_1037500"
         ],
         "categories": [
             "Kit"
@@ -27647,10 +27648,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2018-04",
-        "tp2": ""
+        "last_update": "2018-12",
+        "tp2": "Sacrificer"
     },
     {
         "name": "Saerileth",
@@ -27844,7 +27847,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2021-07",
+        "last_update": "2024-12",
         "tp2": "saradas_magic_2"
     },
     {
@@ -27908,11 +27911,11 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2020-09",
+        "last_update": "2025-02",
         "tp2": "sarahtob"
     },
     {
-        "name": "Sarevok Animation patch",
+        "name": "Sarevok Animation Patch",
         "description": "Ce mod corrige simplement les animations vides (attaques à deux mains, attaques à deux armes et incantation) de l'avatar de Sarevok. Il n'est vraiment utile que si vous prévoyez d'utiliser l'animation pour un PC ou un personnage lanceur de sorts, car le Sarevok du jeu n'a jamais besoin de ces animations.",
         "urls": [
             "https://forums.beamdog.com/discussion/65861/"
@@ -28335,7 +28338,6 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -28347,7 +28349,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-02",
         "tp2": "sotsc"
     },
     {
@@ -28389,7 +28391,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -28490,7 +28491,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-12",
         "tp2": "SoS"
     },
     {
@@ -29005,7 +29006,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2021-06",
+        "last_update": "2024-12",
         "tp2": "star"
     },
     {
@@ -29097,7 +29098,7 @@
         ],
         "status": "active",
         "last_update": "2024-08",
-        "tp2": "Renal"
+        "tp2": "renal"
     },
     {
         "name": "Sirene NPC for BG2:EE",
@@ -29921,7 +29922,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -30128,7 +30128,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -30147,7 +30146,7 @@
         ],
         "status": "active",
         "last_update": "2019-03",
-        "tp2": "spontaneous_casting"
+        "tp2": "Spontaneous_Casting"
     },
     {
         "name": "Staff of Withering",
@@ -30374,7 +30373,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2020-07",
+        "last_update": "2024-12",
         "tp2": "stuffofthemagi"
     },
     {
@@ -30390,7 +30389,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -30486,7 +30484,9 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "MajorTomSawyer"
@@ -30565,7 +30565,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2024-12",
         "tp2": "firkraag"
     },
     {
@@ -30657,7 +30657,7 @@
     },
     {
         "name": "Sword Coast Customs",
-        "description": "Baldur's Gate I possède deux armes puissantes dotées d'un enchantements à +2 et de dégâts élémentaires :l'épée longue Varscona et le marteau de guerre Ashideena. Cela implique que les épées longues etles marteaux de guerre sont les deux compétences les plus performantes du jeu, et qu'il est difficilede défendre le choix d'une autre compétence d'arme.|Le but de ce mod est de permettre un plus grand choix d'armes sans pour autant affecter l'équilibre etla difficulté.||Pour y parvenir, il offre aux joueurs la possibilité de commander une arme à Taërom Fuiruim dans la forgede « Grondemarteau » à Bérégost, puis de l'améliorer en lui conférant des dégâts grâce à Thalantyrle mage de Haute-Haie et Toubazar Drin, au Bazar Magique de la Porte de BaldurCela donnera au joueur la possibilité de créer une une hallebarde de froid, ou un ninjato acide, entre autre.||Il y a un composant supplémentaire et optionnel, bien qu'il soit fortement recommandé, permettant de supprimerou de déplacer plus tard dans le jeu Ashideena et Varscona, afin que l'ajout d'une autre armeinfligeant des dégâts élémentaires ne déséquilibre pas le jeu.",
+        "description": "Baldur's Gate I possède deux armes puissantes dotées d'un enchantements à +2 et de dégâts élémentaires : l'épée longue Varscona et le marteau de guerre Ashideena. Cela implique que les épées longues et les marteaux de guerre sont les deux compétences les plus performantes du jeu, et qu'il est difficile de défendre le choix d'une autre compétence d'arme.|Le but de ce mod est de permettre un plus grand choix d'armes sans pour autant affecter l'équilibre et la difficulté.||Pour y parvenir, il offre aux joueurs la possibilité de commander une arme à Taërom Fuiruim dans la forge de « Grondemarteau » à Bérégost, puis de l'améliorer en lui conférant des dégâts grâce à Thalantyr le mage de Haute-Haie et Toubazar Drin, au Bazar Magique de la Porte de Baldur. Cela donnera au joueur la possibilité de créer une une hallebarde de froid, ou un ninja-to acide, entre autre.||Il y a un composant supplémentaire et optionnel, bien qu'il soit fortement recommandé, permettant de supprimer ou de déplacer plus tard dans le jeu Ashideena et Varscona, afin que l'ajout d'une autre arme infligeant des dégâts élémentaires ne déséquilibre pas le jeu.",
         "urls": [
             "https://forums.beamdog.com/discussion/87305/",
             "https://github.com/cgordon/customs"
@@ -30979,8 +30979,7 @@
         "games": [
             "BGEE",
             "BGT",
-            "EET",
-            "SoD"
+            "EET"
         ],
         "authors": [
             "Corsymyr"
@@ -31100,6 +31099,7 @@
             "Script et tactique"
         ],
         "games": [
+            "BGEE",
             "BG2EE",
             "EET"
         ],
@@ -31242,7 +31242,7 @@
         ],
         "status": "active",
         "last_update": "2018-11",
-        "tp2": "ToA"
+        "tp2": "toa"
     },
     {
         "name": "Tales of the Deep Gardens",
@@ -32713,7 +32713,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2021-06",
+        "last_update": "2024-12",
         "tp2": "jz"
     },
     {
@@ -32756,7 +32756,6 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -32811,7 +32810,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2021-06",
+        "last_update": "2024-12",
         "tp2": "luxleysoa"
     },
     {
@@ -33184,7 +33183,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2020-06",
+        "last_update": "2024-12",
         "tp2": "snakes"
     },
     {
@@ -33262,7 +33261,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2023-04",
+        "last_update": "2024-12",
         "tp2": "tnoober"
     },
     {
@@ -33396,7 +33395,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2024-12",
         "tp2": "abystore"
     },
     {
@@ -33516,7 +33515,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -33658,7 +33656,7 @@
         "tp2": ""
     },
     {
-        "name": "Throne of Bhaal Revisited beta",
+        "name": "Throne of Bhaal Revisited",
         "description": "Vous n'aimez pas l'extension du Trône de Bhaal ? Vous en avez assez de devoir de suivre une histoire linéaire avec des personnages vides ? Ce mod a pour but d'y remédier.|Il comprend quatre sections principales : personnages, non-linéarité, lieux et quêtes. Chaque section est indépendante, comme le sont chacun de leurs composants :|- Personnages : Vous avez maintenant une chance de raisonner Gromnir, même si c'est difficile. Mélissane possède désormais une amulette magique qui la protège des sorts de détection d'alignement. C'est le Solaire, et non Sarevok, qui ouvre le premier défi. S'il y voit un avantage, Yaga Shura vous demandera de tuer Gromnir et, si cela ne brise pas le siège, le capitaine Samand.|- Non-linéarité : C'est Ellesime qui vous mènera à la clairière des anciens. Votre Antichambre ne vous téléportera plus que dans les endroits que vous avez déjà visités. Vous pouvez combattre les Cinq dans n'importe quel ordre.|- Lieux : Si Saradush n'est pas encore tombé, vous verrez un côté plus paisible de l'Oasis. Il y a beaucoup plus d'Enfants de Bhaal à Saradush. Dans les égouts de Saradush vous trouverez de nouvelles créatures et comprendrez certainement mieux pourquoi il y a autant d'ombres. Les trésors les plus précieux ont été déplacés et mieux gardés dans le temple de Yara Shura.|- Quêtes : Une prêtresse de Kelemvor cherche à nettoyer le temple de Bhaal en ruines. Une sorcière capricieuse vit désormais dans la forêt de Téthyr.",
         "urls": [
             "https://github.com/Endarire/Throne-of-Bhaal-Revisited"
@@ -34030,7 +34028,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -34080,9 +34077,10 @@
         "tp2": ""
     },
     {
-        "name": "Tomoyo and the Underground City (DNT)",
-        "description": "Hommage au manga \"Tomoyo After : It's a Wonderful Life\", ce mod (en chinois) ajoute une ville souterraine (dont l'entrée se trouve dans la crypte de la liche aux Portes de la ville) et une foule de nouveaux objets. Ceux qui ne sont pas rebutés par une histoire déconnectée de celle de BG2 y trouveront des batailles assez difficiles et le personnage du manga Tomoyo.",
+        "name": "Tomoyo and the Underground City",
+        "description": "Hommage au manga `Tomoyo After : It's a Wonderful Life`, ce mod (en chinois) ajoute une ville souterraine (dont l'entrée se trouve dans la crypte de la liche aux Portes de la ville) et une foule de nouveaux objets. Ceux qui ne sont pas rebutés par une histoire déconnectée de celle de BG2 y trouveront des batailles assez difficiles et le personnage du manga Tomoyo.",
         "urls": [
+            "https://trow.cc/board/showtopic=13751&st=0",
             "http://www.shsforums.net/files/file/1270-dnt-tomoyo-and-the-underground-city/"
         ],
         "categories": [
@@ -34093,18 +34091,20 @@
             "BGT"
         ],
         "authors": [
-            "Insomniator"
+            "vira"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod est en chinois."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
             "cn"
         ],
         "status": "active",
-        "last_update": "2021-04",
-        "tp2": ""
+        "last_update": "2008-11",
+        "tp2": "DNT"
     },
     {
         "name": "Tortured Soul",
@@ -34425,7 +34425,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Tresset's permanent Shapeshift Weapons",
+        "name": "Tresset's Permanent Shapeshift Weapons",
         "description": "Ce mod avait pour objectif d'éviter que les armes naturelles du druide métamorphe ne disparaissent après 16 heures.",
         "urls": [
             "https://forums.beamdog.com/discussion/33404/"
@@ -34540,7 +34540,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2021-10",
+        "last_update": "2024-12",
         "tp2": "trovador"
     },
     {
@@ -34728,7 +34728,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Multiple"
+        ],
         "team": [
             "Shodead",
             "JohnBob"
@@ -35404,10 +35406,11 @@
             "de",
             "it",
             "ru",
-            "br"
+            "br",
+            "es"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-02",
         "tp2": "ub_iwd"
     },
     {
@@ -35767,7 +35770,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Useful Plot Items for BG2EE",
+        "name": "Useful Plot Items for BG2:EE",
         "description": "Ce petit mod donne quelques capacités à certains objets de quête : le masque du roi Strohm III, la pierre gardienne du dragon d'ombre et le symbole d'Amaunator.",
         "urls": [
             "https://forums.beamdog.com/discussion/54090/"
@@ -35821,7 +35824,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2020-08",
+        "last_update": "2024-12",
         "tp2": "valerie"
     },
     {
@@ -35887,7 +35890,7 @@
         ],
         "status": "active",
         "last_update": "2024-09",
-        "tp2": "vampiretales"
+        "tp2": "VampireTales"
     },
     {
         "name": "Vampire World",
@@ -36123,7 +36126,6 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -36285,7 +36287,7 @@
         "description": "Ce mod révise le sort Familier en le rééquilibrant et en le rendant plus proche de son homologue PnP. Il ajoute des sons, des portraits et des choix de dialogue supplémentaires ainsi qu'un système de montée de niveau. Les familiers sont maintenant au nombre de neuf (nouvelle entrée : l'araignée est neutre absolu, le lapin est loyal bon) et les mages peuvent choisir entre 3 ou 4 (selon l'alignement) créatures (exception : les mages neutre absolu sont limités à l'araignée). La mort violente du familier a de graves conséquences, et les petites bestioles ne peuvent pas simplement servir de boost pour les points de vie puis être fourrées dans le sac à dos. Elles se feront entendre si vous le faites ! De plus, les familiers ont des capacités innées totalement différentes inspirées des règles PnP.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=388",
-            "https://github.com/flamewing/WTPFamiliars"
+            "https://github.com/Black-Wyrm-Lair/WTPFamiliars"
         ],
         "categories": [
             "Gameplay"
@@ -36295,7 +36297,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -36763,7 +36764,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -37029,7 +37029,6 @@
         "games": [
             "BG",
             "BG2",
-            "Tutu",
             "BGT",
             "IWD",
             "IWD2",
@@ -37172,7 +37171,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -37202,7 +37200,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -37468,7 +37465,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-04",
+        "last_update": "2024-12",
         "tp2": "bp-bgt-worldmap"
     },
     {
@@ -37597,7 +37594,7 @@
         ],
         "status": "active",
         "last_update": "2020-08",
-        "tp2": "Xan"
+        "tp2": "xan"
     },
     {
         "name": "Xan's New Groove",
@@ -37774,7 +37771,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2020-09",
+        "last_update": "2024-12",
         "tp2": "yeslicknpc"
     },
     {
@@ -38407,7 +38404,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Sikret"
@@ -38474,7 +38472,6 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
             "BG2EE",
             "EET",
             "IWDEE"
@@ -38607,7 +38604,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-02",
         "tp2": "Derats_Follower_it"
     },
     {
@@ -38737,7 +38734,7 @@
         ],
         "status": "archived",
         "last_update": "2024-01",
-        "tp2": "NWN2Soundsets"
+        "tp2": "nwn2soundsets"
     },
     {
         "name": "Protagonist Can Die",
@@ -38825,7 +38822,7 @@
         ],
         "status": "active",
         "last_update": "2025-01",
-        "tp2": "Derats_Jazon"
+        "tp2": "derats_jazon"
     },
     {
         "name": "4U-H4S4RD, un kit à l'unité",
@@ -39085,7 +39082,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2019-12",
+        "last_update": "2024-12",
         "tp2": "korgan"
     },
     {
@@ -39125,7 +39122,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2024-12",
         "tp2": "lucy"
     },
     {
@@ -39165,7 +39162,7 @@
         ],
         "status": "active",
         "last_update": "2020-04",
-        "tp2": "imoenromance"
+        "tp2": "ImoenRomance"
     },
     {
         "name": "Imoen the Bard",
@@ -39493,10 +39490,10 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "solaufein"
+        "tp2": "Solaufein"
     },
     {
-        "name": "The RPG Solaufein Flirt Pack for BG2 (Rated NC17)",
+        "name": "The RPG Solaufein Flirt Pack for BG2",
         "description": "En complément du mod [[Solaufein NPC]] permettant de recruter le fameux drow à Ust Natha, voici la suite de la romance disponible pour la mener à son terme, avec de nombreuses idées compilées dans ce mod achevé, notamment la possibilité de l'aider dans ses choix (il quitte tout de même l'Ombreterre pour vous suivre...).",
         "urls": [
             "http://www.shsforums.net/files/file/1258-solaufein-flirt-pack-for-the-solaufein-romance-mod/",
@@ -39522,7 +39519,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2024-12",
         "tp2": "rpgsolaflirtpack"
     },
     {
@@ -40292,7 +40289,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-02",
         "tp2": "Derats_Illo"
     },
     {
@@ -40385,7 +40382,7 @@
         ],
         "status": "active",
         "last_update": "2023-05",
-        "tp2": "Alsaahir"
+        "tp2": "alsaahir"
     },
     {
         "name": "Color Balanced Portraits",
@@ -40501,9 +40498,11 @@
         "team": [
             "jazira"
         ],
-        "notes": [],
+        "notes": [
+            "Ce mod est encore en cours de développement."
+        ],
         "translation_state": "todo",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "cz",
             "de",
@@ -40521,7 +40520,7 @@
             "ua",
             "cn"
         ],
-        "status": "active",
+        "status": "wip",
         "last_update": "2024-07",
         "tp2": "eefixpack"
     },
@@ -40558,7 +40557,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2020-09",
+        "last_update": "2024-12",
         "tp2": "imoenfriendship"
     },
     {
@@ -40631,7 +40630,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2020-05",
+        "last_update": "2024-12",
         "tp2": "korganfriendship"
     },
     {
@@ -40666,7 +40665,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2020-02",
+        "last_update": "2024-12",
         "tp2": "mazzy"
     },
     {
@@ -40701,7 +40700,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2022-11",
+        "last_update": "2024-12",
         "tp2": "sarevokfriendship"
     },
     {
@@ -40811,7 +40810,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2019-12",
+        "last_update": "2024-12",
         "tp2": "viconia"
     },
     {
@@ -40876,7 +40875,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2024-03",
+        "last_update": "2024-12",
         "tp2": "yoshimo"
     },
     {
@@ -40969,7 +40968,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2021-07",
+        "last_update": "2024-12",
         "tp2": "valygarfriendship"
     },
     {
@@ -41034,7 +41033,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2021-07",
+        "last_update": "2024-12",
         "tp2": "minscfriendship"
     },
     {
@@ -41066,7 +41065,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2019-12",
+        "last_update": "2024-12",
         "tp2": "haerdalis_friendship"
     },
     {
@@ -41142,7 +41141,7 @@
         "description": "Black Hearts est un mod de quête pour BG:EE qui suit une intrigue impliquant un personnage de Throne of Bhaal : Illasera, et une intrigue du Sorcier Rouge impliquant un nouvel allié dangereux qui a rejoint la cause de Sarevok. Ce mod reprend les combats du module Black Pits, en les utilisant comme base pour les différents objectifs donnés aux joueurs pour la quête (avec quelques variations dans de nombreux cas).",
         "urls": [
             "https://forums.beamdog.com/discussion/82484/",
-            "https://github.com/A-Wizard-Did-It/Black-Hearts-EET",
+            "https://github.com/A-Wizard-Did-It/Black-Hearts",
             "https://github.com/11jo/Black-Hearts/"
         ],
         "categories": [
@@ -41599,7 +41598,7 @@
         ],
         "status": "active",
         "last_update": "2024-09",
-        "tp2": "Valkrana"
+        "tp2": "valkrana"
     },
     {
         "name": "Galileo",
@@ -41613,6 +41612,7 @@
         "games": [
             "Tutu",
             "BGT",
+            "SoD",
             "BGEE",
             "EET"
         ],
@@ -41977,7 +41977,6 @@
         "safe": 2,
         "languages": [
             "ru",
-            "es",
             "fr",
             "en",
             "cn",
@@ -42105,7 +42104,7 @@
         ],
         "status": "wip",
         "last_update": "2024-11",
-        "tp2": "KinFriendship"
+        "tp2": "kinfriendship"
     },
     {
         "name": "Viconia Romance Expanded",
@@ -42255,7 +42254,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-01",
         "tp2": "BG1NPCSoA"
     },
     {
@@ -42480,31 +42479,6 @@
         "languages": [],
         "status": "active",
         "last_update": "2017-02",
-        "tp2": ""
-    },
-    {
-        "name": "BG2EE GUI To BGEE",
-        "description": "Le but de ce mod est d'importer l'interface graphique de BG2EE vers BGEE avec quelques changements.",
-        "urls": [
-            "https://forums.beamdog.com/discussion/55094/"
-        ],
-        "categories": [
-            "Interface"
-        ],
-        "games": [
-            "BGEE",
-            "SoD"
-        ],
-        "authors": [
-            "Kerozevok"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 1,
-        "languages": [],
-        "status": "active",
-        "last_update": "2016-06",
         "tp2": ""
     },
     {
@@ -42930,7 +42904,7 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "improvedmonk"
+        "tp2": "improvedMonk"
     },
     {
         "name": "PlagueWielder",
@@ -43098,7 +43072,7 @@
         ],
         "status": "active",
         "last_update": "2024-01",
-        "tp2": "Bart_Tweaks"
+        "tp2": "bart_tweaks"
     },
     {
         "name": "Better Enchanted Weapon",
@@ -43984,7 +43958,7 @@
         ],
         "status": "active",
         "last_update": "2023-08",
-        "tp2": "WeissMod"
+        "tp2": "weissmod"
     },
     {
         "name": "Shohy's Weapon Style Rebalance and Extra Ability Modifier",
@@ -44982,7 +44956,7 @@
         ],
         "status": "active",
         "last_update": "2023-11",
-        "tp2": ""
+        "tp2": "ciri_soundset"
     },
     {
         "name": "Soundset for the enhanced edition Infinity Engine games",
@@ -45082,7 +45056,9 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-12",
         "tp2": "ensrick_portraits"
@@ -45181,7 +45157,7 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "nina"
+        "tp2": "Nina"
     },
     {
         "name": "Golden Horse Mercenary Company",
@@ -45969,7 +45945,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-02",
         "tp2": ""
     },
     {
@@ -46158,7 +46134,9 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-11",
         "tp2": "bmpp"
@@ -47641,7 +47619,8 @@
             "BG2EE",
             "IWDEE",
             "EET",
-            "PSTEE"
+            "PSTEE",
+            "SoD"
         ],
         "authors": [
             "Argent77"
@@ -47678,7 +47657,8 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "de"
         ],
         "status": "active",
         "last_update": "2023-06",
@@ -47696,6 +47676,7 @@
         "games": [
             "BGEE",
             "BG2EE",
+            "IWDEE",
             "EET"
         ],
         "authors": [
@@ -47903,7 +47884,7 @@
         "notes": [
             "Ajantis ne se trouve pas dans BG2 sauf si vous avez installé le mod [[Ajantis NPC for BGII]]."
         ],
-        "translation_state": "no",
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
