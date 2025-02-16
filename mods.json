@@ -27705,7 +27705,7 @@
             "Streen"
         ],
         "notes": [],
-        "translation_state": "todo",
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "cn",
@@ -37649,11 +37649,11 @@
         "tp2": ""
     },
     {
-        "name": "Xando",
-        "description": "Créé par igi, Xando est un mod assez particulier puisque c'est l'unique conversion totale a avoir été réalisée en un jour ! Bref, c'est... très spécial.",
+        "name": "iiXando",
+        "description": "Créé par igi, iiXando est un mod assez particulier puisque c'est l'unique conversion totale a avoir été réalisée en un jour ! Bref, c'est... très spécial.",
         "urls": [
-            "http://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=21887",
-            "https://baldur.cob-bg.pl/node/1495"
+            "https://baldur.cob-bg.pl/node/1495",
+            "https://github.com/btigi/iixando"
         ],
         "categories": [
             "Conversion"
@@ -37667,11 +37667,13 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
-        "languages": [],
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2022-05",
+        "tp2": "iiXando"
     },
     {
         "name": "Xulaye",
@@ -48531,5 +48533,34 @@
         "status": "missing",
         "last_update": "2008-04",
         "tp2": "Nikita"
+    },
+    {
+        "name": "Natural Selection",
+        "description": "Ce mod a pour but d'améliorer la classe et les kits du druide et d'en faire une alternative viable à la présence d'un clerc dans votre groupe en y ajoutant de nouveaux sorts. Chaque partie du mod est optionnelle afin de permettre un maximum de flexibilité.",
+        "urls": [
+            "https://sorcerers.net/community/threads/new-bg2-mod-overview-natural-selection.24038/",
+            "http://baldur.cob-bg.pl/download/bg2/tweaks/Natural_Selection.zip"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "aWoundedLion"
+        ],
+        "team": [],
+        "notes": [
+            "Le mod est en polonais."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2006-08",
+        "tp2": "NaturalSelection"
     }
 ]
