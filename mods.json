@@ -1874,7 +1874,7 @@
     },
     {
         "name": "Arcane Archer",
-        "description": "Ce mod adapte la classe de prestige d'Archer-mage de D&D3 comme profil de guerrier pour Baldur's Gate II. Réservé aux elfes, il permet de créer des flèches spéciales.",
+        "description": "Ce mod adapte la classe de prestige d'Archer-mage de D&D3 comme profil de guerrier pour Baldur's Gate II. Réservé aux elfes, il permet de créer des flèches uniques dont la puissance augmente au fil des niveaux.",
         "urls": [
             "http://www.shsforums.net/files/file/994-arcane-archer/"
         ],
@@ -1892,10 +1892,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2012-01",
-        "tp2": ""
+        "tp2": "ArcaneArcher"
     },
     {
         "name": "Arcane Archer Redone",
@@ -13899,17 +13901,23 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "MaxTeamBG",
+            "Avenger",
+            "SimDing0",
+            "Ajoc",
+            "MAXGraphics"
+        ],
         "team": [],
         "notes": [
             "Fichier `DLTCBeta110.exe`."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "status": "wip",
+        "last_update": "2004-10",
+        "tp2": "non-weidu"
     },
     {
         "name": "Goblinmod Shuk",
@@ -14140,15 +14148,13 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Le site hébergeant ce mod semble avoir disparu..."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "status": "active",
+        "last_update": "2005-01",
+        "tp2": "p3e"
     },
     {
         "name": "Haer'Dalis Romance",
@@ -14939,7 +14945,7 @@
     },
     {
         "name": "High Moor Shaman w/leveling Familiar",
-        "description": "Ce mod ajoute un shaman qui peut avoir un compagnon esprit : une panthère.",
+        "description": "Ce mod ajoute un shaman qui peut se spécialiser dans le maniement des armes à deux mains. Il lui ajoute aussi un compagnon esprit : une panthère.",
         "urls": [
             "https://forums.beamdog.com/discussion/15720/"
         ],
@@ -42232,10 +42238,8 @@
             "Skitia"
         ],
         "team": [],
-        "notes": [
-            "Une traduction française pourrait être sur le point de débuter fin 2024. No pression."
-        ],
-        "translation_state": "no",
+        "notes": [],
+        "translation_state": "wip",
         "safe": 2,
         "languages": [
             "en",
@@ -48447,5 +48451,85 @@
         "status": "active",
         "last_update": "2015-12",
         "tp2": "lolfixer"
+    },
+    {
+        "name": "Bigger fonts for BGII:TOB and other IE games",
+        "description": "Ce mod propose une police d'écrite plus grosse pour les jeux de l'Infinity Engine. Il contient les fonts DejaVu Sans et DejaVu Serif Condensed.",
+        "urls": [
+            "http://www.shsforums.net/topic/38626-bigger-fonts-for-bgiitob-and-other-ie-games/"
+        ],
+        "categories": [
+            "Interface"
+        ],
+        "games": [
+            "BG",
+            "BG2"
+        ],
+        "authors": [
+            "Corvias"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2012-02",
+        "tp2": "non-weidu"
+    },
+    {
+        "name": "Arcane Archer Kit",
+        "description": "Un kit de guerrier agile à la vue perçante qui peut fabriquer des flèches du jeu vanilla et lancer des sorts de détection et de Vision véritable.",
+        "urls": [
+            "http://aerie.ru/download/mods/translation/ArcaneArcherKit-v4(rus).zip"
+        ],
+        "categories": [
+            "Kit"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "aWoundedLion"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2005-12",
+        "tp2": "ArcaneArcher"
+    },
+    {
+        "name": "Nikitalleria NPC",
+        "description": "Une elfe aventurière guerrière/voleuse d'alignement bon qui a eu la vie dure et qui est « associée » aux Voleurs de l'Ombre. Son passé est entouré de mystère.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/13776-com-nikitalleria-npc-mod-version-100-released/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2"
+        ],
+        "authors": [
+            "CoM_Solaufein"
+        ],
+        "team": [],
+        "notes": [
+            "Voir [[NikitaRedux]] pour une version plus aboutie du mod."
+        ],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "missing",
+        "last_update": "2008-04",
+        "tp2": "Nikita"
     }
 ]
