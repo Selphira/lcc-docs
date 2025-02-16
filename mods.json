@@ -4582,7 +4582,7 @@
         "name": "Baldur's Gate Graphical Overhaul",
         "description": "Ce mod énorme ajoute les zones nocturnes qui manquent dans toutes les zones principales sauf Baldur's Gate et ajoute les minimaps nocturnes manquantes dans toutes les zones principales. Il corrige également des défauts graphiques dans les différentes cartes du jeu (fenêtres qui s'affichent la nuit et pas le jour - ou vice versa, porte mal ajustée, défaut dans les images de nuit, etc.). Il donne à tous les braseros muraux leurs flammes manquantes. Enfin, presque toutes les vilaines taches bleues et violettes ont été supprimées des rues. Il a été réalisé en collaboration avec Overhaul Studios.",
         "urls": [
-            "http://www.shsforums.net/forum/641-bg-graphics-overhaul/",
+            "https://www.gibberlings3.net/forums/topic/27768-baldurs-gate-graphics-overhaul-for-eet",
             "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul"
         ],
         "categories": [
@@ -6356,6 +6356,7 @@
         "description": "Si la vue des sorts en liste de la version normale de ce mod ne vous plaît pas, cette version pourrait bien vous plaire. Elle émule les emplacements de la sélection de sorts par défaut et les organise de telle sorte que tous les sorts soient visibles en même temps.",
         "urls": [
             "https://forums.beamdog.com/discussion/68958/",
+            "https://www.gibberlings3.net/forums/topic/35838-ui-bubbs-spell-menu-v51/",
             "https://github.com/Bubb13/Bubbs-Spell-Menu-Extended"
         ],
         "categories": [
@@ -10676,7 +10677,7 @@
         "name": "Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks)",
         "description": "Ce mod propose une collection d'ajustements pour les jeux IE. Bien que conçus à l'origine pour EET, certains de ces composants sont universels et peuvent fonctionner avec BG1, BG2, IWD, IWD2, Tutu, BGT, CA, IWD-in-BG2, BG:EE, BG2:EE et IWD:EE.|Il permet entre autres d'harmoniser l'apparence des PNJ recrutables pendant la trilogie ou de modifier la limitation d'XP. Lisez bien le <a href=\"http://htmlpreview.github.io/?https://github.com/K4thos/EET_Tweaks/blob/master/EET_Tweaks/readme-EET_Tweaks.html\">readme</a> pour plus de détails.",
         "urls": [
-            "https://www.gibberlings3.net/forums/forum/196-eet-tweaks/",
+            "https://www.gibberlings3.net/forums/topic/27754-eet-tweaks-overview",
             "https://github.com/K4thos/EET_Tweaks"
         ],
         "categories": [
@@ -25906,6 +25907,7 @@
         "name": "Random Graion Tweaks",
         "description": "Ce mod propose diverses modifications de Graion Dilach pour les jeux Infinity Engine.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/34458-random-graion-tweaks",
             "https://github.com/GraionDilach/RandomGraionTweaks"
         ],
         "categories": [
@@ -33515,7 +33517,7 @@
         "name": "The Workshop Kitpack",
         "description": "C'est un pack de Kits sur lequel je travaille depuis un moment. Il comporte actuellement 17 kits + 6 déclinaisons pour multi-classes. Il contient également plus de 20 objets, dont 6 insignes de Chasseur, 12 Runes de Caryll et 10 autres objets divers. Fortement inspiré par les jeux Soulsborne de FromSoft et probablement d'autres sources.||NOTE : Les tables de capacités pour ces kits sont créées au moment de l'installation. Chaque kit clone la table de la classe de base (si elle existe). Cela signifie que toute modification de classe installée au préalable sera incluse dans les kits du mod.||Ce mod dispose de plusieurs kits originaux et plutôt sympas !||<a href=\"https://github.com/D2-mods/The-Workshop-Kitpack/blob/main/README.French.md\">Voir le readme pour le détail des kits !</a>",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/36122-the-workshop-kitpack-v59-soulsborne-inspired-kit-and-item-pack/",
+            "https://www.gibberlings3.net/forums/topic/36122-the-workshop-kitpack-v516-soulsborne-inspired-kit-and-item-pack/",
             "https://github.com/D2-mods/The-Workshop-Kitpack"
         ],
         "categories": [
@@ -37200,7 +37202,7 @@
         "name": "Will to Power",
         "description": "Ce mod s'efforce d'ajouter un système psionique inspiré des règles de AD&D2 et quatre profiles qui peuvent l'utiliser : un voleur psion (Psionicist), un guerrier psion (Soublade), un rôdeur psion (Psypher) et un mage psion (Cerebremancer).|Cependant, comme le moteur du jeu n'a pas été conçu pour, ce mod est toujours expérimental, même s'il est activement maintenu. Mais il devrait vous permettre de jouer un personnage doté de nouveaux types de capacités. Alors n'hésitez pas à l'essayer !",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/31024-will-to-power-a-2e-inspired-psionics-mod/",
+            "https://www.gibberlings3.net/forums/topic/31024-subtlemods-will-to-power-a-2e-inspired-psionics-mod/",
             "https://github.com/UnearthedArcana/Will_to_Power/"
         ],
         "categories": [
@@ -46827,6 +46829,7 @@
         "name": "Fixing Saves BUG for Lecgacy of Bhaal difficulty",
         "description": "Ce mod propose un fix pour la difficulté Legacy Of Bhaal qui ajustait les jets de sauvegardes à 20. Ce mod modifie les scripts de la plupart des créatures, leur permettant de modifier leurs propres jets de sauvegarde au fur et à mesure qu'ils apparaissent.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/38985-legacyofbhaalfix-v04-fixing-saving-throws-bug-for-lecgacy-of-bhaal-difficulty",
             "https://github.com/shohysie/LegacyofBhaalFix"
         ],
         "categories": [
