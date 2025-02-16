@@ -2484,7 +2484,7 @@
         ],
         "status": "active",
         "last_update": "2023-11",
-        "tp2": "Askaria"
+        "tp2": "Askaria;ChaosKnight"
     },
     {
         "name": "Assassinations",
@@ -5679,8 +5679,8 @@
             "es"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2008-10",
+        "tp2": "BWQuest"
     },
     {
         "name": "Blackguard fighter kit for BG2",
@@ -7783,7 +7783,7 @@
         "name": "Convenient Enhanced Edition NPCs",
         "description": "Les nouveaux personnages recrutables apparus dans BG:EE et BG2:EE ne sont pas au goût de tout le monde. Ce mod propose plusieurs options pour les adapter à votre convenance. Vous pouvez rendre leur première apparition dans le jeu moins intrusive, en vous permettant de contrôler si vous acceptez d'établir un premier contact, et quand. Sinon, vous pouvez aussi désactiver définitivement tous les PNJ du jeu, ou seulement certains. Dans ce cas, vous pouvez aussi décider de rendre utilisables par quiconque leurs objets personnels ou ceux obtenus dans leur quête. Vous les trouverez soit dans des boutiques, soit sur des cadavres. Des composants supplémentaires vous permettent d'améliorer leurs portraits et de personnaliser leurs classes et/ou leurs profils, selon vos envies.",
         "urls": [
-            "http://www.shsforums.net/files/file/1135-convenient-enhanced-edition-npcs/",
+            "https://forums.beamdog.com/discussion/43074/",
             "https://github.com/Argent77/A7-NoEENPCs"
         ],
         "categories": [
@@ -8783,6 +8783,7 @@
         "name": "Dark Horizons",
         "description": "Une puissante organisation, dénommée `La Section`, vous pourchasse pour des raisons connues d'elle-seule. Ils ne reculeront devant rien pour parvenir à leurs fins. Ils disposent de nombreux agents et d'associés influents à travers Féérune. Stoppez leurs leaders pour le bien de la Côte des Épées.|Ce mod ajoute une large quête, 3 nouveaux PNJ disposant de quelques quêtes personnelles, plusieurs rencontres (hostiles ou non) et quêtes secondaires, des magasins et de nouvelles zones à explorer. Les anciens mods [[BG1 Adventure Pack]] et [[BG1 CoM Forge - Item Upgrade]] font désormais partie de Dark Horizons.",
         "urls": [
+            "https://forums.beamdog.com/discussion/18833/",
             "http://downloads.chosenofmystra.net/bg1/",
             "https://github.com/The-Gate-Project/DarkHorizons"
         ],
@@ -8857,7 +8858,8 @@
         "name": "Dark Side of the Sword Coast",
         "description": "Dark Side of the Sword Coast est un mod pour Baldur's Gate + Tales of the Sword Coast. Il ajoute 5 quêtes (plus ou moins importantes) comportant de nouvelles zones, de nouveaux monstres (des morts-vivants en particulier) et 9 nouveaux personnages recrutables. Il ajoute aussi de nouveaux sorts et objets répartis un peu partout dans le jeu, soit sur des adversaires existants, soit sur de nouveaux personnages, soit encore dans des magasins ou des lieux.|La version BG1 (v106) est traduite en français, la version BG:EE (v102) de Red Carnelian ne l'est pas.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/dsotsc",
+            "https://forums.beamdog.com/discussion/73241/",
+            "https://www.spellholdstudios.net/ie/dsotsc",
             "https://github.com/Spellhold-Studios/DSotSC"
         ],
         "categories": [
@@ -9855,7 +9857,7 @@
         "name": "Dorn Friendship",
         "description": "",
         "urls": [
-            "http://www.spellholdstudios.net/ie/npciep",
+            "https://www.spellholdstudios.net/ie/npciep",
             "https://github.com/Spellhold-Studios/Dorn-Friendship"
         ],
         "categories": [
@@ -10991,7 +10993,7 @@
         "name": "Edwin Romance",
         "description": "Anomen est trop insipide ? Voici une autre alternative pour les personnages féminins. La possibilité (enfin !) de romancer le mage le plus fantasque et le plus caractériel de Féérune. Cela sera-t-il l'occasion de le voir sous un nouveau jour ? Sans oublier les interventions de la mère d'Edwin et sa transformation en Edwina, ajoutant du piment à une relation déjà animée. La nouvelle version regroupe les parties SoA et ToB (traduites par Erszebeth) et la partie Flirts (traduite par Le Marquis).",
         "urls": [
-            "http://www.spellholdstudios.net/ie/edwin",
+            "https://www.spellholdstudios.net/ie/edwin",
             "https://github.com/Spellhold-Studios/Edwin-Romance"
         ],
         "categories": [
@@ -12006,8 +12008,8 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Extension de la quête de Jan",
-        "description": "Vous ne manquez jamais d'inclure Jan Jansen dans votre groupe. Vous vous délectez de ses répliques abracadabrantes, mais sa quête personnelle vous laisse sur votre faim. Vous avez envie de connaître la fin de l'histoire concernant l'ancienne compagne du voleur illusionniste le plus loufoque d'Athkatla, et de Vaelag, le mari violent de cette dernière ?|L'Extension de la quête de Jan (et oui, c'est un mod français, développé sur La Couronne de Cuivre) propose une suite à cette quête originale sous la forme de deux très courtes missions agrémentées de dialogues typiques et de rencontres inopinées avec de nouveaux personnages secondaires. En trame de fond, le mod tente modestement de jeter un éclairage nouveau sur certaines des organisations les plus influentes de la cité.|Découvrez la fin de l'histoire sans avoir besoin de recommencer une partie. La difficulté du mod étant adaptée à des personnages de faible niveau, nous vous conseillons malgré tout d'en profiter sur une partie pas trop avancée.|Le mod comporte entre autres 2 nouvelles missions qui peuvent être faite dans l'ordre de votre choix et 2 nouvelles histoires de Jan.",
+        "name": "Extension de la quête de Jan (Remix)",
+        "description": "Modification de la quête [[Extension de la quête de Jan]] du même auteur. Cette version supprime les déplacements par téléportation. Les différents lieux du mod sont accessibles par de nouvelles entrées créées dans les rues d'Athkatla.",
         "urls": [
             "https://akadis.baldursgateworld.fr/Jan/JansQuestRemixFr.html"
         ],
@@ -12036,7 +12038,7 @@
         ],
         "status": "active",
         "last_update": "2022-05",
-        "tp2": "JanQuest"
+        "tp2": "JanQuestRemix"
     },
     {
         "name": "Extra Enhanced Expanded Encounters!",
@@ -12134,7 +12136,7 @@
         "name": "Fade NPC",
         "description": "Il s'agit d'une elfe tieffeline, une Fey'ri, d'alignement chaotique neutre, et voleuse mono-classée. C'est un des lieutenants d'Aran Linvail, et elle dispose de capacités magiques du fait de son ascendance. Sa romance peut être menée par n'importe quel personnage mâle, quel que soit sa classe, sa race ou son alignement. Recrutez-la suffisamment tôt, ses romance et quêtes personnelle étant relativement longues. À l'occasion de la sortie de la partie ToB, le mod est repassé en anglais, et sa verve est conséquente : banters avec les PNJ de Bioware et certains voleurs de l'ombre, des flirts, de nouveaux protagonistes, 2 quêtes principales et une quête plus farfelue.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/fade",
+            "https://www.spellholdstudios.net/ie/fade",
             "https://github.com/Spellhold-Studios/Fade-NPC",
             "https://github.com/Plutonium-X/NPC_Fade"
         ],
@@ -12174,7 +12176,7 @@
         "name": "Fading Promises",
         "description": "« <i>Une âme en peine hante le cimetière d'Athkatla... Paladin fauché par trop de désinvolture, Aidan est condamné à errer entre la vie et la mort tant que son ultime quête ne trouve pas sa résolution... Serez-vous suffisamment désintéressé(e) pour lui venir en aide ?</i> »|Ce mod introduit Aidan, un paladin déchu d'Amaunator, qui a de sérieux problèmes à vous soumettre. L'un d'eux est qu'il est mort... et l'autre qu'il n'est jamais parvenu à mener à bien sa dernière quête. Aidez-le et qui sait ? Peut-être lui insufflerez-vous le courage de faire face au jugement qu'il a tant de fois évité.|Fading Promises est un mod axé dialogues. Si vous aimez les conversations sur le sens de la vie, de la mort et de l'honneur (et n'êtes pas allergique aux paladins ) n'hésitez pas à le télécharger !",
         "urls": [
-            "http://www.spellholdstudios.net/ie/promises",
+            "https://www.spellholdstudios.net/ie/promises",
             "https://github.com/Spellhold-Studios/Fading-Promises"
         ],
         "categories": [
@@ -13386,7 +13388,7 @@
         "name": "Gemma",
         "description": "Créé sur La Couronne de Cuivre, ce mod ajoute une nouvelle PNJ recrutable. Adepte d'Umberlie, Gemma n'est pas vraiment le genre de naine à passer son temps à chanter de joyeuses chansons, une chope de bière en main. Non, son truc, c'est utiliser de la rhétorique pour frapper de plein fouet l'hérétique qui ne s'y attend pas. Quand la rhétorique passe par le marteau, c'est sûr, les gens sont plus réceptifs (et morts). Gemma patiente tranquillement (non) sur les Docks d'Athkatla.",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?t=24917",
+            "https://www.baldursgateworld.fr/viewtopic.php?p=518624",
             "https://github.com/Plutonium-X/1D_NPC_Gemma"
         ],
         "categories": [
@@ -13632,6 +13634,7 @@
         "name": "Gerri's NPC Portraits Pack",
         "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalon's Questpack]], [[Assassinations]], [[Baldur's Gate Mini Quests and Encounters Modification]], [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[Baldur's Gate Romantic Encounters Modification (BG1RE)]], [[Romantic Encounters MOD for Baldur's Gate II]], [[Secret of Bone Hill]], [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
         "urls": [
+            "https://www.baldurs-gate.de/index.php?threads/gerris-nsc-portraits.44541/",
             "https://github.com/gboeck/NSC-Portraits"
         ],
         "categories": [
@@ -15377,7 +15380,7 @@
         "name": "IEP Extended Banters",
         "description": "Ce projet a pour intention de développer le réalisme et l'intérêt des PNJ de Bioware en les dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires. 13 mods sont d'ores et déjà issus de ce projet ambitieux. Il s'agit de : |IEP Extended Banters, [[Cernd Friendship]], [[Dorn Friendship]], [[Haer'dalis Friendship]], [[Hexxat Friendship]], [[Imoen Friendship]], [[Korgan Friendship]], [[Mazzy Friendship]], [[Minsc Friendship]], [[Sarevok Friendship]], [[Valygar Friendship]], [[Viconia Friendship]] et [[Yoshimo Friendship]]. Seuls 5 d'entre eux ont été traduits.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/npciep",
+            "https://www.spellholdstudios.net/ie/npciep",
             "https://github.com/Spellhold-Studios/IEP-Extended-Banters"
         ],
         "categories": [
@@ -16266,7 +16269,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2019-02",
-        "tp2": ""
+        "tp2": "ImprovedBAMs"
     },
     {
         "name": "Improved Battles",
@@ -17328,7 +17331,7 @@
         "name": "Iylos NPC",
         "description": "Moine loyal bon originaire d'Amkethran, il a l'air distant et sérieux de prime abord, mais plutôt pince-sans-rire une fois qu'on lui parle un peu. Il a l'air plutôt bagarreur, étonnant pour un moine... Quelques dialogues inclus, notamment avec d'autres PNJ de mods, un petit flirt possible avec le PJ si c'est une dame.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/iylos",
+            "https://www.spellholdstudios.net/ie/iylos",
             "https://github.com/Spellhold-Studios/Iylos-NPC"
         ],
         "categories": [
@@ -19608,7 +19611,7 @@
         "name": "Lol's RezMod",
         "description": "Réalisé par Lollorian, ce pack regroupe plusieurs anciens mods convertis au format WeiDU et proposés sous forme de composants indépendants :|- <a href=\"https://sorcerers.net/Games/BG2/index_mods_hosted_misc3.php\">Masamune sword mini-mini-quest</a> (de ShadowDaemon) : une petite quête qui s'étend jusqu'au ToB vous permettra de faire forger une épée d'enfer.|- <a href=\"https://sorcerers.net/Games/BG2/index_mods_hosted_misc2.php\">Improved Anarg</a> (de knightlight) : Anarg, le chef des Paladins déchus, possède un casque qui l'immunise à de nombreux effets, et le rend donc plus coriace à neutraliser. Mais la récompense sera à la hauteur des risques pris...|- Animations des pierres ioniques étendues (de WoRm) : les pierres ioniques ajoutés par de nombreux mods bénéficieront des animations de pierre tournant autour de la tête de leur possesseur.|- Plus d'autres composants de confort...",
         "urls": [
-            "http://www.shsforums.net/files/download/877-lols-rezmod/"
+            "https://github.com/omni-axa/RezMod"
         ],
         "categories": [
             "Quête",
@@ -19996,7 +19999,7 @@
         ],
         "status": "missing",
         "last_update": "2020-05",
-        "tp2": ""
+        "tp2": "Lysre"
     },
     {
         "name": "MTS Crappack",
@@ -20709,6 +20712,7 @@
         "name": "Mercenary",
         "description": "Ce mod vous permet d'installer un nouveau profil de guerrier spécialisé dans les techniques de combat déloyales.|Un composant optionnel permet de modifier l'alignement de Kagain en neutre mauvais pour lui attribuer le profil de mercenaire, et un autre à Korgan.",
         "urls": [
+            "https://forums.beamdog.com/discussion/68151/",
             "https://github.com/Raduziel/Mercenary-Kit"
         ],
         "categories": [
@@ -20885,6 +20889,7 @@
         "name": "Militia Officer",
         "description": "Ce mod vous permet d'installer un nouveau profil de guerrier spécialisé dans la protection d'autrui.|Un composant optionnel permet d'attribuer le profil d'officier de la milice à Khalid.",
         "urls": [
+            "https://forums.beamdog.com/discussion/68238/",
             "https://github.com/Raduziel/MilitiaOfficer-Kit"
         ],
         "categories": [
@@ -22139,7 +22144,7 @@
         ],
         "status": "active",
         "last_update": "2022-07",
-        "tp2": ""
+        "tp2": "mystigan"
     },
     {
         "name": "NMR-HAPPY Patch",
@@ -22618,7 +22623,7 @@
         "name": "Nephele NPC",
         "description": "Halfeline, clerc de Yondalla de son état, Nephele ajoute une touche d'humour et un peu d'originalité avec du contenu pour BG2:SoA et ToB. Pas de quête, mais beaucoup de dialogues (banters, interjections, et parlote avec le PJ) pour un caractère bien trempé. Vous pourrez la recruter après avoir effectué les quêtes du druide de l'ombre et du génie Dao à Franc-Marché : vous la trouverez alors dans le pub de Vyatri. Ses caractéristiques sont FOR 13, DEX 13, CON 11, INT 11, SAG 15 et CHA 14.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/nephele",
+            "https://www.spellholdstudios.net/ie/nephele",
             "https://github.com/Spellhold-Studios/Nephele-NPC"
         ],
         "categories": [
@@ -22872,7 +22877,7 @@
         "name": "Ninde NPC for BGII",
         "description": "Ninde Amblecrown est une jeune ingénue d'Eauprofonde. Aujourd'hui pourchassée, elle n'a pas la langue dans sa poche, dispose de formidables capacités magiques et d'un ego démesuré. Arriverez-vous à la supporter ? Ces charmes vous laisseront-ils de glace ? Des événements de sa vie passée ne semblent pas étrangers à son tempérament sombre... Que ce soit par l'entremise d'une romance ou d'une amitié, Ninde, sorcière d'alignement mauvais, vous fera découvrir le pan obscur de son histoire ainsi que celle de Lassal. Vous ne pourrez la dénicher dans l'antre de Bodhi que si vous avez choisi de vous allier à Aran Linvail. Sa romance n'est possible que pour un PJ disposant de plus de 13 en charisme, aucune restriction de race / classe n'est cependant à observer. Ce mod ajute également une nouvelle rencontre dans Athkatla, des banters avec les PNJ de Bioware et de juteux échanges avec Bodhi, Lassal et Aran Linvail.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/ninde",
+            "https://www.spellholdstudios.net/ie/ninde",
             "https://github.com/Spellhold-Studios/Ninde-NPC"
         ],
         "categories": [
@@ -23369,7 +23374,7 @@
         "name": "One Pixel Productions",
         "description": "Y a pas à dire, le graphisme de certains objets, des femmes en armure et bien d'autres éléments laisse à désirer, et on obtient même des dessins plus laids (exemple du demi-elfe) que sur BG1. Sans aucun doute le mod le plus complet en matière d'ajustements graphiques, 1pp est le fruit d'un long et ambitieux travail passionné mené pendant près de 8 ans, avec pour objectif d'offrir une expérience de jeu raffinée et plus agréable à tous ceux qui considèrent que les éléments graphiques de Baldur's Gate II laissaient à désirer par rapport à ceux de son prédécesseur.|Ce mod ambitieux se propose de faire un lifting (formes, dessins, couleurs, bug graphiques...) à tout cela afin de rendre plus agréable le visionnage de votre inventaire. Mis à jour et simplifié sous la forme d'un programme d'installation unique, 1ppv4 compile en un seul package les divers composants d'amélioration graphique qui se sont accumulés au fil des ans et compte bon nombre d'améliorations notamment sur les épées enflammées (courtes et longues), les avatars (humain, demi-orque, elfe, halfling, nain), les boucliers (targes, rondaches et écus), la coloration des bâtons, les robes...",
         "urls": [
-            "http://www.spellholdstudios.net/ie/1pp",
+            "https://www.spellholdstudios.net/ie/1pp",
             "https://github.com/Spellhold-Studios/1pp"
         ],
         "categories": [
@@ -25179,7 +25184,7 @@
         "name": "Portraits Portraits Everywhere",
         "description": "À l'instar des mods [[Gerri's NPC Portraits Pack]] et [[The BG1NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans les jeux EE (4617 au total !).|Un composant optionnel permet  d'attribuer des portraits issus d'un pool de portraits aléatoires aux acteurs auxquels le composant principal n'a pas attribué de portraits spécifiques, essentiellement des créatures ayant un nom générique. Par exemple, les personnages humains nommés \"Voleur\" obtiendront des portraits à partir du pool masculin ou féminin des Voleurs. Il y a plus de quatre-vingt-dix pools de portraits aléatoires qui vont de quelques portraits à plus de 20.|Note : ce mod regroupe la série des mods \"Minor NPC Portraits\" pour chaque jeu.",
         "urls": [
-            "http://forums.beamdog.com/discussion/61015/mod-portraits-portraits-everywhere-for-bg1ee-sod-bg2ee-iwdee-eet/p1",
+            "https://forums.beamdog.com/discussion/61015/",
             "https://github.com/DaftHunk/Portraits-Portraits-Everywhere"
         ],
         "categories": [
@@ -25471,27 +25476,32 @@
         "name": "Prêtre de Mystra",
         "description": "Ce mod français réalisé par Zakinster ajoute un nouveau kit de clerc : le Prêtre de Mystra. Il gagne 1% de résistance à la magie par niveau, il a accès à Déviation de sorts à partir du niveau 10 et à la Lame noire du désastre à partir du niveau 20.",
         "urls": [
-            "https://akadis.baldursgateworld.fr/Mystra/Mystra.html"
+            "https://akadis.baldursgateworld.fr/Mystra/Mystra.html",
+            "https://github.com/Plutonium-X/KIT_Mystra"
         ],
         "categories": [
             "Kit"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Zakinster"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version BG2EE/EET."
+        ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
             "fr"
         ],
         "status": "active",
-        "last_update": "2005-07",
+        "last_update": "2025-02",
         "tp2": "Mystra"
     },
     {
@@ -26272,7 +26282,7 @@
         "name": "Region of Terror",
         "description": "Ce mod assez gros ajoute plus de 30 quêtes dont 10 énormes (la liste se trouve <a href=\"http://www.shsforums.net/topic/15106-quest-list/\">ici</a>), permet de recruter 7 \"nouveaux\" PNJ (Drizzt, Wulfgar, Regis, Catti-Brie, Bruenor, Entreri et Jarlaxle), ajoute une centaine d'objets, de nouveaux kits, de nouveaux sorts et de nouvelles zones.|L'idée principale s'articule autour du sauvetage de Drizzt et de ses compagnons, et de sa confrontation finale avec Artemis Entreri. Si vous êtes d'alignement mauvais, vous pourrez trahir Drizzt et vous acoquiner avec Entreri.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/rot",
+            "https://www.spellholdstudios.net/ie/rot",
             "https://github.com/Spellhold-Studios/Region-of-Terror"
         ],
         "categories": [
@@ -26335,6 +26345,7 @@
         "name": "Relieve Wizard Slayer",
         "description": "Ce mod modifie (améliore ?) le profil de tueur de magiciens. Un composant optionnel permet de l'attribuer à Valygar.",
         "urls": [
+            "https://forums.beamdog.com/discussion/68377/",
             "https://github.com/Raduziel/Relieve-Wizard-Slayer",
             "https://github.com/Selphira/Relieve-Wizard-Slayer/tree/patch-1"
         ],
@@ -28232,7 +28243,7 @@
         "languages": [],
         "status": "active",
         "last_update": "",
-        "tp2": "sentrixeal_aa_pack"
+        "tp2": "sentrizeal_aa_pack"
     },
     {
         "name": "Sequencer ColoredText",
@@ -28259,7 +28270,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2021-05",
-        "tp2": ""
+        "tp2": "Sequencer_ColoredText"
     },
     {
         "name": "Severian de Demerya",
@@ -28458,7 +28469,7 @@
         "name": "Shadows over Soubar",
         "description": "Ce mod de C. Bisson est assez gigantesque et modifie grandement l'histoire de SoA. Il ajoute 4 nouveaux PNJ, 1 nouveau profil, 1 nouveau donjon, 100 nouvelles cartes, 400 nouvelles créatures, 400 nouveaux items, 20 nouveaux magasins (marchands), 30 sous-quêtes et 2 quêtes majeures.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/sos",
+            "https://www.spellholdstudios.net/ie/sos",
             "https://github.com/Spellhold-Studios/Shadows-over-Soubar"
         ],
         "categories": [
@@ -28806,11 +28817,12 @@
         "languages": [
             "en",
             "fr",
-            "es"
+            "es",
+            "cz"
         ],
         "status": "active",
         "last_update": "2018-01",
-        "tp2": ""
+        "tp2": "Sheena"
     },
     {
         "name": "Shine On Caelar",
@@ -30593,7 +30605,7 @@
         "languages": [],
         "status": "active",
         "last_update": "",
-        "tp2": ""
+        "tp2": "SuperUltimatePortraitPack"
     },
     {
         "name": "Surprise",
@@ -31638,6 +31650,7 @@
         "name": "Teleport Spell",
         "description": "Ce mod ajoute au stock de Dame Yurth, au fond du Marché de l'Aventurier ainsi qu'au stock de Lazarus Librarus, aux Archives de l'Arcane, un sort de niveau 7 permettant de se téléporter dans toutes les zones précédemment visitées. Malheureusement, il ne fonctionne pas pour les zones introduites par des mods.",
         "urls": [
+            "https://forums.beamdog.com/discussion/78039/",
             "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/Teleport.rar",
             "https://github.com/Plutonium-X/SORT_Teleport"
         ],
@@ -31816,7 +31829,7 @@
         ],
         "status": "active",
         "last_update": "2009-11",
-        "tp2": ""
+        "tp2": "tethyrforestpatch"
     },
     {
         "name": "Thael",
@@ -32344,8 +32357,7 @@
         "name": "The Darkest Day",
         "description": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque. Vous devez disposer d'une installation avec Throne of Bhaal.",
         "urls": [
-            "http://www.shsforums.net/files/file/323-the-darkest-day-v114/",
-            "https://github.com/InfinityMods/TDDz"
+            "http://www.shsforums.net/files/file/323-the-darkest-day-v114/"
         ],
         "categories": [
             "Quête",
@@ -32354,9 +32366,7 @@
         ],
         "games": [
             "BG2",
-            "BGT",
-            "BG2EE",
-            "EET"
+            "BGT"
         ],
         "authors": [
             "Max Schnur",
@@ -32371,8 +32381,8 @@
             "Krull"
         ],
         "notes": [
-            "Le second lien concerne uniquement la version pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale v1.14 (premier lien) SANS l'installer. Puis lancez le fichier Setup-TDDz.exe pour installer le mod sur votre jeu EE.",
-            "Incompatible avec [[NPC Tweak]]."
+            "Incompatible avec [[NPC Tweak]].",
+            "Pour les versions EE, regardez [[The Darkest Day (EE-compatible)]]."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -32386,8 +32396,8 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2020-08",
-        "tp2": "TDDz"
+        "last_update": "2010-12",
+        "tp2": "TDD"
     },
     {
         "name": "The Demon in Ust Natha",
@@ -32686,7 +32696,7 @@
         "name": "The Jerry Zinger Show",
         "description": "Vos personnages peuvent participer à un talk show animé par un célèbre présentateur d'Amn, Jerry Zinger (sorte de pseudo Jerry Springer). On nage en plein anachronisme, et alors ? Quelques thèmes : \"Mon ex est une folle\", \"Les paladins portant de la lingerie fine et leur femme qui adore\"...",
         "urls": [
-            "http://www.spellholdstudios.net/ie/jz",
+            "https://www.spellholdstudios.net/ie/jz",
             "https://github.com/Spellhold-Studios/Jerry-Zinger-Show"
         ],
         "categories": [
@@ -33078,7 +33088,7 @@
         ],
         "status": "active",
         "last_update": "2024-12",
-        "tp2": "BoneHill"
+        "tp2": "BoneHill;BonehillEET"
     },
     {
         "name": "The Sellswords MOD for Baldur's Gate II",
@@ -37744,7 +37754,7 @@
         "name": "Yeslick NPC",
         "description": "Ce mod ajoute le vieux nain dévot de Vergadain et de Clangeddin à BG2:SoA, avec banters, interjections, un nouveau profil (Alaghor of Clangeddin), ainsi que de nombreux échanges avec le PJ. Yeslick tentera de s'imposer comme la figure paternelle du groupe. Sa main sûre en fera un compagnon chaleureux, indéfectible au PJ jusqu'à la fin. Ses caractéristiques sont FOR 15, DEX 12, CON 17, INT 11, SAG 16 et CHA 12.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/yeslick",
+            "https://www.spellholdstudios.net/ie/yeslick",
             "https://github.com/Spellhold-Studios/Yeslick-NPC"
         ],
         "categories": [
@@ -38762,7 +38772,7 @@
         "languages": [],
         "status": "active",
         "last_update": "",
-        "tp2": ""
+        "tp2": "Protagonist_Can_Die"
     },
     {
         "name": "Kurosaï le combineur",
@@ -40411,7 +40421,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2022-09",
-        "tp2": ""
+        "tp2": "BGEE_CBPortraits"
     },
     {
         "name": "BWS-FR Fixpack",
@@ -40528,7 +40538,7 @@
         "name": "Imoen Friendship",
         "description": "Ce mod ajoute une série de dialogues avec Imoen, la soeur du PJ, développant son vécu et les luttes d'Imoen.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/imoenfriendship",
+            "https://www.spellholdstudios.net/ie/imoenfriendship",
             "https://github.com/Spellhold-Studios/Imoen-Friendship"
         ],
         "categories": [
@@ -40603,7 +40613,7 @@
         "name": "Korgan Friendship",
         "description": "Ce mod ajoute une série de dialogues avec Korgan.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/npciep",
+            "https://www.spellholdstudios.net/ie/npciep",
             "https://github.com/Spellhold-Studios/Korgan-Friendship"
         ],
         "categories": [
@@ -40637,7 +40647,7 @@
         "name": "Mazzy Friendship",
         "description": "Ce mod ajoute une série de dialogues pour tout PJ éligible, qui vous permettront d'en apprendre plus sur la vaillante petite-personne, et de vous lier d'amitié avec elle. Mazzy n'est pas la femme la plus bavarde au monde, mais elle a certainement ses avis et les énoncera si elle le juge opportun - de même, si elle a des questions, elle n'hésitera pas à les poser.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/mazzyfriendship",
+            "https://www.spellholdstudios.net/ie/mazzyfriendship",
             "https://github.com/Spellhold-Studios/Mazzy-Friendship"
         ],
         "categories": [
@@ -40783,7 +40793,7 @@
         "name": "Viconia Friendship",
         "description": "Ce mod ajoute une série de dialogues pour tout PJ homme ou femme qui a repoussé Viconia. Il essaye de donner quelque chose à se mettre sous la dent pour quiconque n'est pas intéressé par une romance. Mais gardez en tête que Viconia n'est pas une personne à l'abord facile, sans même parler d'amitié. Elle n'en fait qu'à sa tête, et même si elle accepte de voyager avec vous, elle pourrait ne pas souhaiter devenir votre confidente.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/npciep",
+            "https://www.spellholdstudios.net/ie/npciep",
             "https://github.com/Spellhold-Studios/Viconia-Friendship"
         ],
         "categories": [
@@ -40845,7 +40855,7 @@
         "name": "Yoshimo Friendship",
         "description": "Ce mod ajoute une série de dialogues avec Yoshimo, notre charmante canaille préférée que l'on rencontre dans le donjon d'Irenicus au début du jeu. Couvrant le temps qu'il passe dans le groupe, Yoshimo Friendship développe le voleur plein d'humour en accroissant son histoire et en offrant au joueur un point de vue neuf sur le personnage.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/yoshimo",
+            "https://www.spellholdstudios.net/ie/yoshimo",
             "https://github.com/Spellhold-Studios/Yoshimo-Friendship"
         ],
         "categories": [
@@ -40941,7 +40951,7 @@
         "name": "Valygar Friendship",
         "description": "Ce mod ajoute une série de dialogues à Valygar, le fameux rôdeur, et développe ses expériences et ses difficultés.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/npciep",
+            "https://www.spellholdstudios.net/ie/npciep",
             "https://github.com/Spellhold-Studios/Valygar-Friendship"
         ],
         "categories": [
@@ -41006,7 +41016,7 @@
         "name": "Minsc Friendship",
         "description": "Ce mod ajoute une série de dialogues à Minsc, le fameux rôdeur, et développe ses expériences et ses difficultés.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/npciep",
+            "https://www.spellholdstudios.net/ie/npciep",
             "https://github.com/Spellhold-Studios/Minsc-Friendship"
         ],
         "categories": [
@@ -41040,7 +41050,7 @@
         "name": "Haer'dalis Friendship",
         "description": "Ce mod ajoute une série de dialogues à Haer'Dalis, le fameux barde, et développe ses expériences et ses difficultés.",
         "urls": [
-            "http://www.spellholdstudios.net/ie/npciep",
+            "https://www.spellholdstudios.net/ie/npciep",
             "https://github.com/Spellhold-Studios/HaerDalis-Friendship"
         ],
         "categories": [
@@ -46811,7 +46821,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2024-09",
-        "tp2": ""
+        "tp2": "RealisticNpcPortraitsForBGEE;RealisticNpcPortraitsForBG2EE"
     },
     {
         "name": "Fixing Saves BUG for Lecgacy of Bhaal difficulty",
@@ -48311,5 +48321,117 @@
         "status": "active",
         "last_update": "2016-12",
         "tp2": "POISON_NO_BYPASS"
+    },
+    {
+        "name": "The Darkest Day (EE-compatible)",
+        "description": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque. Vous devez disposer d'une installation avec Throne of Bhaal.",
+        "urls": [
+            "https://github.com/InfinityMods/TDDz"
+        ],
+        "categories": [
+            "Quête",
+            "Sort et objet",
+            "Kit"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Max Schnur",
+            "Horred the Plague",
+            "Hoppy",
+            "Minto",
+            "King Diamond"
+        ],
+        "team": [
+            "Isaya",
+            "PapaOlive",
+            "Krull"
+        ],
+        "notes": [
+            "Cette version est pour les jeux EE : vous devez d'abord télécharger et désarchiver la version originale v1.14 (premier lien) SANS l'installer. Puis lancez le fichier Setup-TDDz.exe pour installer le mod sur votre jeu EE.",
+            "Incompatible avec [[NPC Tweak]]."
+        ],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "it",
+            "pl",
+            "ru",
+            "es"
+        ],
+        "status": "active",
+        "last_update": "2020-08",
+        "tp2": "TDDz"
+    },
+    {
+        "name": "Extension de la quête de Jan",
+        "description": "Vous ne manquez jamais d'inclure Jan Jansen dans votre groupe. Vous vous délectez de ses répliques abracadabrantes, mais sa quête personnelle vous laisse sur votre faim. Vous avez envie de connaître la fin de l'histoire concernant l'ancienne compagne du voleur illusionniste le plus loufoque d'Athkatla, et de Vaelag, le mari violent de cette dernière ?|L'Extension de la quête de Jan (et oui, c'est un mod français, développé sur La Couronne de Cuivre) propose une suite à cette quête originale sous la forme de deux très courtes missions agrémentées de dialogues typiques et de rencontres inopinées avec de nouveaux personnages secondaires. En trame de fond, le mod tente modestement de jeter un éclairage nouveau sur certaines des organisations les plus influentes de la cité.|Découvrez la fin de l'histoire sans avoir besoin de recommencer une partie. La difficulté du mod étant adaptée à des personnages de faible niveau, nous vous conseillons malgré tout d'en profiter sur une partie pas trop avancée.|Le mod comporte entre autres 2 nouvelles missions qui peuvent être faite dans l'ordre de votre choix et 2 nouvelles histoires de Jan.",
+        "urls": [
+            "https://akadis.baldursgateworld.fr/Jan/JansQuestFr.html"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Akadis",
+            "Kasumi"
+        ],
+        "team": [],
+        "notes": [
+            "Une autre version est disponible ([[Extension de la quête de Jan (Remix)]])."
+        ],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "fr",
+            "en",
+            "de",
+            "ru"
+        ],
+        "status": "active",
+        "last_update": "2019-08",
+        "tp2": "janquest"
+    },
+    {
+        "name": "Lollorian's LolFixer",
+        "description": "Ce mod regroupe une série de correctifs génériques permettant de nettoyer les fichiers du jeu et éviter certains crashs.",
+        "urls": [
+            "http://www.shsforums.net/topic/52508-lolfixer-thread/",
+            "https://github.com/omni-axa/Lolfixer"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Lollorian"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2015-12",
+        "tp2": "lolfixer"
     }
 ]
