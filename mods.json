@@ -1730,7 +1730,8 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD"
+            "SoD",
+            "EET"
         ],
         "authors": [
             "Anomaly"
@@ -11308,7 +11309,8 @@
             "BGEE",
             "BG2EE",
             "SoD",
-            "IWDEE"
+            "IWDEE",
+            "EET"
         ],
         "authors": [
             "Dee"
@@ -16590,7 +16592,9 @@
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Wu Min"
@@ -24487,7 +24491,8 @@
             "BGEE",
             "BG2EE",
             "SoD",
-            "IWDEE"
+            "IWDEE",
+            "EET"
         ],
         "authors": [
             "Huxaltec"
@@ -25456,7 +25461,8 @@
             "BGEE",
             "BG2EE",
             "SoD",
-            "IWDEE"
+            "IWDEE",
+            "EET"
         ],
         "authors": [
             "esprit"
@@ -34256,7 +34262,8 @@
         "description": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il nécessite ToB et s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins un paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?",
         "urls": [
             "http://www.blackwyrmlair.net/~valiant/",
-            "https://github.com/InfinityMods/TowerOfDeception"
+            "https://github.com/InfinityMods/TowerOfDeception",
+            "https://github.com/11jo/TowerOfDeception"
         ],
         "categories": [
             "Quête"
@@ -34274,7 +34281,9 @@
         "team": [
             "Le Marquis"
         ],
-        "notes": [],
+        "notes": [
+            "Le lien gihub de 11jo est un peu plus en avance sur le mod le temps que la modification soit acceptée par l'auteur."
+        ],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -47888,7 +47897,9 @@
         ],
         "games": [
             "BG",
-            "BG2"
+            "BG2",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "jastey"
