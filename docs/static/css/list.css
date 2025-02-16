@@ -81,9 +81,10 @@ h1 {
     width: 100%;
 }
 
-h2 {
-    display: block;
+h2,
+.h2-style {
     font-family: Verdana, Trebuchet MS, Arial, serif;
+    font-weight: bold;
     text-align: left;
     text-indent: 30px;
     padding: 0px;
@@ -92,13 +93,15 @@ h2 {
     font-size: 28px;
 }
 
-h2::first-letter {
+h2::first-letter,
+.h2-style::first-letter {
     color: var(--color-primary);
     background-color: transparent;
 }
 
 h1,
 h2,
+.h2-style,
 h3,
 h4,
 h5,
@@ -518,8 +521,11 @@ a.discret:link {
 }
 
 summary {
-    color: var(--color-primary);
     cursor: pointer;
+}
+
+summary:not(.no-summary-style) {
+    color: var(--color-primary);
     font-weight: bold;
     padding: 4px;
     margin-bottom: 4px;
@@ -530,11 +536,11 @@ summary:hover {
 }
 
 details summary::marker {
-    content: '▶ ';
+    content: '▸ ';
 }
 
-details[open] summary::marker {
-    content: '▼ ';
+details[open]>summary::marker {
+    content: '▾ ';
 }
 
 /* ------------ *

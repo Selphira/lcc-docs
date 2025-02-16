@@ -1,5 +1,5 @@
-<div class="category_container" data-name="{{ category.name }}">
-    <h2 class="background category_name" data-count="0" id="{{ category.id }}">{{ category.name }}</h2>
+<details class="category_container" data-name="{{ category.name }}" open>
+    <summary class="no-summary-style background category_name h2-style" data-count="0" id="{{ category.id }}">{{ category.name }}</summary>
     <div class="category">
         <div class="row game">
             <p>Mod</p>
@@ -50,4 +50,4 @@
             </div>
         {% endfor %}
     </div>
-</div>
+</details>
