@@ -554,7 +554,8 @@
         "name": "Adventurer's Miscellany",
         "description": "Ce mod un peu brouillon ajoute un certain nombre d'objets permettant de varier les plaisirs dans le jeu : on peut allumer des torches, jongler avec des pommes, utiliser des flasques d'huile, se déguiser, etc. L'auteur a décidé de ne pas dévoiler leur mod de fonctionnement et vous laisse le découvrir en jouant.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/30775-adventurers-miscellany-mod/"
+            "https://www.gibberlings3.net/forums/topic/30775-adventurers-miscellany-mod/",
+            "https://github.com/Endarire/Adventurer-s-Miscellany"
         ],
         "categories": [
             "Sort et objet"
@@ -577,7 +578,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2019-12",
+        "last_update": "2023-07",
         "tp2": ""
     },
     {
@@ -4011,20 +4012,23 @@
         "description": "Ce mod améliore grandement la qualité graphique des zones du jeu. L'auteur a soumis toutes les cartes du jeu (les fichiers images) à une IA d'amélioration graphique, pour un résultat plus vibrant et bien plus net, en particulier lors de l'utilisation du zoom (Des images de comparaison sont disponibles sur la page GitHub ou dans le fil de discussion du mod sur les forums Beamdog).",
         "urls": [
             "https://forums.beamdog.com/discussion/83893/",
-            "https://github.com/WillScarlettOhara/BGEE_AI_Denoised_Areas"
+            "https://github.com/WillScarlettOhara/BGEE_AI_Denoised_Areas",
+            "https://github.com/haifengkao/EET_BGEE_AI_Denoised_Areas"
         ],
         "categories": [
             "Cosmétique"
         ],
         "games": [
-            "BGEE"
+            "BGEE",
+            "EET"
         ],
         "authors": [
             "WillScarlettOhara"
         ],
         "team": [],
         "notes": [
-            "À cause d'un bug dans le moteur du jeu, les cartes disposant de portes et/ou de zones d'eau présentent certains artefacts (lignes noires) qui seront réglés au fur et à mesure de la maintenance de ce mod."
+            "À cause d'un bug dans le moteur du jeu, les cartes disposant de portes et/ou de zones d'eau présentent certains artefacts (lignes noires) qui seront réglés au fur et à mesure de la maintenance de ce mod.",
+            "Le dernier lien propose une version compatible avec EET."
         ],
         "translation_state": "n/a",
         "safe": 2,
@@ -4966,7 +4970,8 @@
         "name": "Barbarian Companion: Overpowered Edition",
         "description": "Comme son nom l'indique, ce mod est vraiment déséquilibré. Il vous permet d'enrôler Marcus, soit comme compagnon, soit comme familier. Ce dernier dispose de capacités qui le rendent quasiment indestructible et rend la plupart des combats inintéressants...",
         "urls": [
-            "http://www.shsforums.net/files/file/1277-barbarian-companion-overpowered-edition/"
+            "http://www.shsforums.net/files/file/1277-barbarian-companion-overpowered-edition/",
+            "https://github.com/Endarire/Diablo-II-Barbarian-Companion-for-BG2-Overpowered-Edition"
         ],
         "categories": [
             "PNJ recrutable"
@@ -7975,7 +7980,8 @@
         "name": "Correctif pour la version française d'IWD2",
         "description": "Ce mod propose une correction de nombreuses erreurs dans la version française de Icewind Dale II.",
         "urls": [
-            "http://havredest.eklablog.fr/correctif-pour-la-version-francaise-d-iwd2-a90094613"
+            "http://havredest.eklablog.fr/correctif-pour-la-version-francaise-d-iwd2-a90094613",
+            "https://github.com/mleduque/IWD2_correctFR"
         ],
         "categories": [
             "Patch non officiel"
@@ -7994,8 +8000,8 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-11",
+        "tp2": "IWD2_correctFR"
     },
     {
         "name": "Correction de la traduction de BG2:EE",
@@ -11302,7 +11308,8 @@
         "name": "Enchant the Missile Launchers",
         "description": "Ce mod utilise la valeur de l'enchantement du lanceur de projectiles, et non pas celui des projectiles, pour savoir quel type de cible toucher, sauf si le projectile est plus puissant que le lanceur. Un composant optionnel permet d'utiliser des carquois de flèches, à capacité limitée, qui se rechargent après chaque repos.",
         "urls": [
-            "https://forums.beamdog.com/discussion/58374/"
+            "https://forums.beamdog.com/discussion/58374/",
+            "https://github.com/mleduque/dee_enchant"
         ],
         "categories": [
             "Sort et objet"
@@ -11323,7 +11330,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2016-06",
+        "last_update": "2022-04",
         "tp2": "enchant"
     },
     {
@@ -12846,7 +12853,8 @@
         "name": "Forgotten Armament",
         "description": "Ce mod ajoute dans le jeu plus de 100 nouveaux objets de niveau intermédiaire, inspirés de IWD et de NWN2. Il s'efforce de s'assurer que toutes les armes, armures et objets sont représentés de manière égale et qu'il existe des choix d'utilisation adaptés pour les joueurs tout au long de la série. De plus, comme tout au long des jeux, de nombreux ennemis de niveau moyen sont mal équipés avec des armes et des armures non magiques ou magiques +1, alors que les joueurs de même niveau ont des armes et des équipements +2/+3, ce mod fournit à bon nombre de ces ennemis un équipement unique (+1/+2/+3), ce qui permettra d'améliorer les rencontres avec des ennemis correctement équipés.",
         "urls": [
-            "https://www.morpheus-mart.com/forgotten-armament"
+            "https://www.morpheus-mart.com/forgotten-armament",
+            "https://github.com/mleduque/Forgotten-Armament"
         ],
         "categories": [
             "Sort et objet"
@@ -12865,7 +12873,8 @@
         ],
         "notes": [
             "Incompatible avec [[Item Revisions]].",
-            "L'auteur a retiré la traduction française et n'est pas disposé à la rajouter."
+            "L'auteur a retiré la traduction française et n'est pas disposé à la rajouter.",
+            "Le lien github (non officiel et pas à jour) contient encore la traduction française."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -17105,7 +17114,7 @@
             "Streen"
         ],
         "notes": [
-            "Le dernier lien propose la version française."
+            "Pour les pressés, le dernier lien propose la version française. Elle est encore en cours de relecture."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -21502,6 +21511,7 @@
         "description": "Vous avez aimé le composant `Capacités de haut niveau du moine` du mod [[Oversight]] ? Alors, ce mod est pour vous.|Il reprend son contenu et le rend compatible avec les jeux EE. Il remplace la table des capacités de haut niveau des moines (qui était celle des guerriers) par une autre inspirée de celles utilisées par Balthazar dans ToB : Coup d'ombre, Frappe du tigre, Poing draconique, Plus vite que la lumière, Échanger les résistances, Position solaire, Position lunaire, Position d'ombre, Pieds du vent et Second souffle.",
         "urls": [
             "https://forums.beamdog.com/discussion/33618/",
+            "https://github.com/dark0dave/mnkoverhaul/",
             "https://github.com/Plutonium-X/KIT_Moine_Rev"
         ],
         "categories": [
@@ -21517,6 +21527,7 @@
             "IWDEE"
         ],
         "authors": [
+            "Kish",
             "Prismo"
         ],
         "team": [
@@ -21524,7 +21535,7 @@
         ],
         "notes": [
             "Le composant `Révision du poing du moine`, qui modifie la table de progression de leur puissance, ne fonctionne que sur EE.",
-            "Seul le second lien de téléchargement, fourni par Deratiseur, contient la traduction française. Sa version est par ailleurs aussi compatible avec le jeu BG2 original."
+            "Seul le dernier lien de téléchargement, contient la traduction française. Sa version est par ailleurs aussi compatible avec le jeu BG2 original."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -21597,7 +21608,8 @@
         "name": "Mordan's Christmas Minimod",
         "description": "Créé à l'occasion d'un concours de modding sur TeamBG, ce mini mod amusant a pour but de faire découvrir un objet utile. Il comprend même une nouvelle zone. Pour lancer l'intrigue, rendez-vous à l'Auberge du Bonrepos et suivez les indices...",
         "urls": [
-            "http://www.shsforums.net/files/file/129-mordans-christmas-minimod/"
+            "http://www.shsforums.net/files/file/129-mordans-christmas-minimod/",
+            "https://github.com/Endarire/Mordan-s-Christmas-Minimod"
         ],
         "categories": [
             "Quête"
@@ -22489,7 +22501,8 @@
         "name": "Nathaniel",
         "description": "Kensai gay (uniquement romançable par un PJ mâle) de son état, c'est un guerrier compétent bien qu'il souffre d'un manque de confiance en soi probablement dû à sa fragilité physique. Il dispose de contenu pour SoA et ToB. On le trouve dans le quartier des Docks ; il viendra vers vous pour vous demander de l'aide. Nathaniel romancera un personnage masculin humain, elfe ou demi-elfe, d'alignement bon ou loyal neutre, à condition qu'il ne soit pas un voleur. Nathaniel dispose de contenu pour [[Kelsey NPC MOD for Baldur’s Gate 2]] si ce mod est installé.",
         "urls": [
-            "http://www.shsforums.net/files/file/734-nathaniel/"
+            "http://www.shsforums.net/files/file/734-nathaniel/",
+            "https://github.com/Endarire/Nathaniel-NPC-for-BG2"
         ],
         "categories": [
             "PNJ recrutable"
@@ -22497,14 +22510,17 @@
         "games": [
             "BG2",
             "BGT",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Miss Sakaki",
             "Feuille"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version EET."
+        ],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -23734,7 +23750,8 @@
         "name": "Out, Brief Candlekeep!",
         "description": "Ce petit mod limite à 1 heure de jeu le temps que vous pouvez passer à Château-Suif avant de le quitter. Passé ce délai, vous aurez une très mauvaise surprise.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/30169-out-brief-candlekeep-mod-mostly-for-bgee/"
+            "https://www.gibberlings3.net/forums/topic/30169-out-brief-candlekeep-mod-mostly-for-bgee/",
+            "https://github.com/Endarire/Out-Brief-Candlekeep-for-BG1EE-EET"
         ],
         "categories": [
             "Gameplay"
@@ -26874,7 +26891,7 @@
             "Maël"
         ],
         "notes": [
-            "Le composant `Firkraag amélioré` est incompatible avec le mod [[Super Firkraag]], le composant `Donjon amélioré` est incompatible avec le composant `Illych amélioré` de [[Tactics]].",
+            "Le composant `Firkraag amélioré` est incompatible avec le mod [[Super Firkraag]], le composant `Donjon amélioré` est incompatible avec le composant `Ilyich amélioré` de [[Tactics]].",
             "La version EE est disponible via le second lien."
         ],
         "translation_state": "yes",
@@ -27164,7 +27181,8 @@
         "description": "Ce mod modifie le gameplay pour Baldur's Gate 2: Throne of Bhaal et s'efforce de rapprocher les classes de roublard (bardes et voleurs) et leurs profils respectifs de leurs homologues P&P d'AD&D. Il comprend plusieurs composants qui peuvent tous être installés séparément et sont complètement indépendants les uns des autres.|RR met à jour les compétences de combat à deux armes des voleurs et des bardes, révise/améliore leurs profils, révise leurs capacités de haut niveau, restaure les ajustements raciaux appropriés pour les capacités de voleur, ainsi que la table de progression des sorts PnP propre aux bardes.|Il empêche les effets des potions de voleur de se cumuler avec la possibilité de les remplacer par des potions de la version papier.|Il rend également beaucoup plus difficile l'affrontement avec la guilde des Voleurs de l'Ombre dans le chapitre 3.|Il ajoute enfin des objets supplémentaires pour les voleurs et les bardes (dans la guilde des voleurs) ainsi qu'une rencontre avec des fidèles de Cyric dans le chapitre 6.",
         "urls": [
             "http://www.shsforums.net/files/category/62-rogue-rebalancing/",
-            "https://github.com/FredrikLindgren/rr"
+            "https://github.com/FredrikLindgren/rr",
+            "https://github.com/mleduque/rogue_rebalancing"
         ],
         "categories": [
             "Gameplay"
@@ -29459,17 +29477,20 @@
         "tp2": "sleep_fix"
     },
     {
-        "name": "Slightly Improved Ilyich",
-        "description": "Lassé(e) de combattre ce groupe de duergars décidément trop facile pour vos gros bras ou vos sortilèges destructeurs - malgré le fait que vous n'en ayez qu'assez peu au début du jeu ? Mais le composant Illych amélioré de Weimer [[Tactics]] vous a déjà fait arracher tous les cheveux qu'il vous restait - ayant déjà arraché la première moitié en essayant d'installer correctement votre interminable liste de mods ? Alors, ce mod vous plaira probablement ! Il améliore les duergars de la prison d'Irenicus, sans toutefois les rendre invincibles... Notez qu'il ajoute également quelques autres petites choses ; elles sont listées dans le readme comme d'habitude.",
+        "name": "Slightly Improved Illyich",
+        "description": "Lassé(e) de combattre ce groupe de duergars décidément trop facile pour vos gros bras ou vos sortilèges destructeurs - malgré le fait que vous n'en ayez qu'assez peu au début du jeu ? Mais le composant `Ilyich amélioré` de Weimer [[Tactics]] vous a déjà fait arracher tous les cheveux qu'il vous restait - ayant déjà arraché la première moitié en essayant d'installer correctement votre interminable liste de mods ? Alors, ce mod vous plaira probablement ! Il améliore les duergars de la prison d'Irenicus, sans toutefois les rendre invincibles... Notez qu'il ajoute également quelques autres petites choses ; elles sont listées dans le readme comme d'habitude.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=178"
+            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=178",
+            "https://github.com/Plutonium-X/FIGHT_Light_Ilyich/"
         ],
         "categories": [
             "Script et tactique"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Razfallow"
@@ -29477,13 +29498,19 @@
         "team": [
             "Lothringen"
         ],
-        "notes": [],
+        "notes": [
+            "Choisissez le lien github pour la version BG2EE/EET."
+        ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "cz",
+            "en",
+            "fr"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2025-02",
+        "tp2": "SlightlyImprovedIllyich"
     },
     {
         "name": "Slowdown Fixes",
@@ -30294,7 +30321,7 @@
         "name": "Store mod for IWD2",
         "description": "Ce mod ajoute une nouvelle marchande dans IWD2. Il s'agit de Shi'nayne Xiltyn qui vend plusieurs objets extraits de BG2 et d'IWD, ainsi que de nouveaux. Vous le trouverez à Targos (auberge de la Veuve éplorée) et à Kuldahar (chez le forgeron Conlan).",
         "urls": [
-            "http://www.baldursgatemods.com/forums/index.php?action=downloads;sa=view;down=1"
+            "https://github.com/mleduque/comstore/"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -30302,15 +30329,19 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "CoM_Solaufein"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
-        "languages": [],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-11",
+        "tp2": "Comstore"
     },
     {
         "name": "Storm Caller Shaman",
@@ -39222,7 +39253,7 @@
     },
     {
         "name": "MegaMod: Mazzy Romance, Clara NPC...",
-        "description": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc-Neera Romance.| - Flying Aerie.| - Dorn-HaerDalis Romance| - Jaheira-Wilson Romance.| - For The Evil!| - For The Good!| - Et bien d'autres petits composants...",
+        "description": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| -Neera Romance.| - Flying Aerie.| - Dorn| -HaerDalis Romance| - Jaheira| -Wilson Romance.| - For The Evil!| - For The Good!| - Et bien d'autres petits composants...",
         "urls": [
             "https://forums.beamdog.com/discussion/71473/"
         ],
@@ -40386,7 +40417,7 @@
     },
     {
         "name": "Alsaahir kit for BG2",
-        "description": "Ce mod ajoute un profil de barde basé sur la sagesse.",
+        "description": "Tel un charmeur de serpents, ce barde a étudié la sensibilité aux vibrations des démons et des morts-vivants. Cependant, côtoyer le mal est un jeu dangereux et ceux qui survivent n'en reviennent jamais indemnes, physiquement et mentalement. Cette voie nécessite de la sagesse, la maîtrise de l'art des illusions et de meilleures compétences de combattant qu'un barde, au détriment de sa polyvalence et de sa dextérité naturelles. Son chant améliore également les compétences martiales de ses alliés face aux démons et aux morts-vivants.",
         "urls": [
             "http://www.shsforums.net/topic/61617-what-can-change-the-nature-of-a-member/",
             "https://github.com/TotoR115/Alsaahir"
@@ -43850,7 +43881,8 @@
         "description": "Diablofication est une modification de l'Infinity Engine qui vise à implémenter certains des mécanismes connus et amusants des jeux Diablo dans Baldur's Gate Enhanced Edition. L'objectif n'étant pas de bouleverser le jeu mais de le rendre plus attrayant. Lisez bien le README.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/35393-diablofication/",
-            "https://github.com/m-architek/Diablofication"
+            "https://github.com/m-architek/Diablofication",
+            "https://github.com/the-overdriven/BG-Diablofication"
         ],
         "categories": [
             "Gameplay"
@@ -43883,7 +43915,9 @@
             "https://forums.beamdog.com/discussion/83709/",
             "https://github.com/D2-mods/Premade-Party-Adder/"
         ],
-        "categories": [],
+        "categories": [
+            "Personnalisation du groupe"
+        ],
         "games": [
             "BGEE",
             "BG2EE",
@@ -48562,5 +48596,156 @@
         "status": "active",
         "last_update": "2006-08",
         "tp2": "NaturalSelection"
+    },
+    {
+        "name": "Ophysia NPC",
+        "description": "Ce mod introduit Ophysia Lorines dans Baldur's Gate : EE, une Scalde demi-elfe originaire de Daggerford. Guerrière et conteuse autoproclamée, elle s'est rendue à Nashkel pour aider à mettre un terme à la crise du fer. Bien qu'elle masque la plupart de ses vulnérabilités par une nonchalance aguicheuse, elle est animée par un désir profond de faire le bien dans le monde et de vivre pleinement sa vie.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/89111/",
+            "https://github.com/Llewren/OphysiaBG1/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BGEE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "Llewren"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-01",
+        "tp2": "OphysiaBG1"
+    },
+    {
+        "name": "Enhanced Edition Trilogy Android",
+        "description": "L'équivalent de [[Enhanced Edition Trilogy]] mais qui peut s'installer sur Android.",
+        "urls": [
+            "https://github.com/Maryionet/EET_Android"
+        ],
+        "categories": [
+            "Conversion"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "SoD",
+            "EET"
+        ],
+        "authors": [
+            "K4thos"
+        ],
+        "team": [
+            "Isaya",
+            "Chevalier Noir",
+            "jazira"
+        ],
+        "notes": [],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "cz",
+            "de",
+            "en",
+            "es",
+            "fr",
+            "pl",
+            "ru",
+            "cn"
+        ],
+        "status": "active",
+        "last_update": "2023-05",
+        "tp2": "EET;EET_end;EET_gui"
+    },
+    {
+        "name": "Premade Party Adder (for IWD2)",
+        "description": "Permet au joueur d'ajouter des parties personnalisées à l'écran de la nouvelle partie.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/83709/",
+            "https://github.com/D2-mods/Premade-Party-Adder-for-IWD2"
+        ],
+        "categories": [
+            "Personnalisation du groupe"
+        ],
+        "games": [
+            "IWD2"
+        ],
+        "authors": [
+            "Dan_P"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-12",
+        "tp2": "d2-party-adder-iwd2"
+    },
+    {
+        "name": "Bat Loa Animation",
+        "description": "Il s'agit de l'animation Bat loa de WoW pour les jeux utilisant le moteur Infinity EE.",
+        "urls": [
+            "https://github.com/thisisulb/BatLoaAnimation"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
+        "authors": [
+            "Ulb"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2019-03",
+        "tp2": "BatLoaAnimation"
+    },
+    {
+        "name": "SlayerMod",
+        "description": "Ce mod permet de modifier le changement en Écorcheur du personnage ainsi que son animation.",
+        "urls": [
+            "https://github.com/thisisulb/SlayerMod"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Ulb"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2019-03",
+        "tp2": "SlayerMod"
     }
 ]
