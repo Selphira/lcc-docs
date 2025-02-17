@@ -137,7 +137,7 @@ Outil en ligne pour valider le format de votre json : https://jsonformatter.curi
 
 `safe` : si le mod est considéré comme fiable (installable via weidu, maintenu, ne génère pas d'incompatibilités). Valeurs possibles :
  - `2` : 🟢 Mod de qualité
- - `1` : 🟡 Mod pouvant poser des problèmes
+ - `1` : ⚠️ Mod pouvant poser des problèmes
  - `0` : 🔴 Mod à éviter ou obsolète
 
 `languages` : langues dans lesquels le mod existe, actuellement non affiché, format [ISO-3166-1](https://fr.wikipedia.org/wiki/ISO_3166-1)

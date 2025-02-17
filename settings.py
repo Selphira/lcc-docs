@@ -18,7 +18,7 @@ attrs_icon_data: dict[str, dict[tuple, dict[str, str]]] = {
             "label": "Mod de qualité",
         },
         (1, "1"): {
-            "icon": "🟡",
+            "icon": "⚠️",
             "label": "Mod pouvant poser des problèmes",
         },
         (0, "0"): {
