@@ -22,7 +22,7 @@ attrs_icon_data: dict[str, dict[tuple, dict[str, str]]] = {
             "label": "Mod pouvant poser des problèmes",
         },
         (0, "0"): {
-            "icon": "🔴",
+            "icon": "🟥",
             "label": "Mod à éviter ou obsolète",
         },
     },
