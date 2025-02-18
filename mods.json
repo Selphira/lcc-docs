@@ -31111,7 +31111,7 @@
     },
     {
         "name": "Tactics",
-        "description": "Ce mod est basé sur les combats et la stratégie, et pratiquement rien d'autre. Il compile d'anciens mods d'amélioration de certains combats (comme le mod [[Slightly Improved Ilyich]], le mod Ritual, et d'autres) et ajoute les siens propres, et rend le jeu très difficile et tactique. À noter que vous pouvez installer chaque composant séparément. Il ajoute également deux profils (Archer pour les guerriers et Anti-paladin). Attention, ce mod est idéal pour rééquilibrer le jeu, mais ne rajoute que très peu de quêtes, le but est d'augmenter le niveau de difficulté, rien d'autre... il serait trop long de citer tous les composants de ce mod... Consultez le readme pour plus de précisions.",
+        "description": "Ce mod est basé sur les combats et la stratégie, et pratiquement rien d'autre. Il compile d'anciens mods d'amélioration de certains combats (comme le mod [[Slightly Improved Illyich]], le mod Ritual, et d'autres) et ajoute les siens propres, et rend le jeu très difficile et tactique. À noter que vous pouvez installer chaque composant séparément. Il ajoute également deux profils (Archer pour les guerriers et Anti-paladin). Attention, ce mod est idéal pour rééquilibrer le jeu, mais ne rajoute que très peu de quêtes, le but est d'augmenter le niveau de difficulté, rien d'autre... il serait trop long de citer tous les composants de ce mod... Consultez le readme pour plus de précisions.",
         "urls": [
             "https://weidu.org/tactics.html",
             "https://forums.beamdog.com/discussion/41242/"
@@ -42447,7 +42447,8 @@
             "EET"
         ],
         "authors": [
-            "meowdog"
+            "meowdog",
+            "tipun"
         ],
         "team": [],
         "notes": [],
@@ -48778,5 +48779,106 @@
         "status": "active",
         "last_update": "2022-04",
         "tp2": "polyvorp"
+    },
+    {
+        "name": "Celestiales",
+        "description": "Ce mod corrige les animations des armes des anges et planétaires.",
+        "urls": [
+            "http://www.shsforums.net/files/file/778-celestiales-v-12/"
+        ],
+        "categories": [
+            "Cosmétique"
+        ],
+        "games": [
+            "BG",
+            "BG2"
+        ],
+        "authors": [
+            "PatoFeria",
+            "Mordenkainen"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "es",
+            "en",
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2009-05",
+        "tp2": "Celestiales"
+    },
+    {
+        "name": "Baldur's Gate: Korekta dialogów",
+        "description": "Ce mod corrige de nombreuses erreurs de la langue polonaise des dialogues du jeu.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/88289/",
+            "https://github.com/Roberciiik/GTU-PL"
+        ],
+        "categories": [
+            "Patch non officiel"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Roberciiik"
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod n'est disponible qu'en polonais."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2024-02",
+        "tp2": "gtu-pl"
+    },
+    {
+        "name": "Icewind Dale 2: Enhanced Edition",
+        "description": "Icewind Dale 2 : Enhanced Edition est une compilation d'améliorations et de corrections pour Icewind Dale 2, améliorant le jeu de diverses manières. Les classes, les sorts, les objets, les créatures et les rencontres sont rendus plus intéressants. IWD2EE modifie plus de 300 sorts et plus de 1 000 objets, et ajoute plus de 90 nouveaux sorts, près de 200 nouveaux objets, plus de 30 nouvelles prouesses et plusieurs PNJ qui peuvent rejoindre le groupe. Le mod corrige la plupart des gros problèmes du jeu Icewind Dale 2 original : il n'est plus nécessaire de revenir en arrière pour terminer certaines zones, les ennemis du mode Heart of Fury sont dotés de pouvoirs intéressants et ne se contentent pas d'avoir beaucoup de HP, et vous pouvez réviser le système d'expérience afin de ne pas obtenir zéro expérience en tuant des ennemis tard dans le jeu.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/87952/",
+            "https://github.com/RedChimera/IWD2EE/"
+        ],
+        "categories": [
+            "Conversion"
+        ],
+        "games": [
+            "IWD2"
+        ],
+        "authors": [
+            "Bubb",
+            "Olvyn Churu",
+            "semiticgod",
+            "WillScarlettOhara",
+            "Grammarsalad",
+            "paladin84"
+        ],
+        "team": [
+            "Leilu"
+        ],
+        "notes": [],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "en",
+            "it",
+            "ru",
+            "fr"
+        ],
+        "status": "active",
+        "last_update": "2024-12",
+        "tp2": "iwd2ee"
     }
 ]
