@@ -37431,7 +37431,8 @@
         "name": "Worgas NPC",
         "description": "Worgas est un entropiste elfe dont la grande intelligence se cache derrière son esprit corrompu par ses recherches magiques. Il parle souvent, ou plutôt marmonne, par énigmes incompréhensibles, qui peuvent se transformer en hurlements de folie et de rage. Personne ne sait vraiment à quoi il a été exposé.|Il voyage avec un globe oculaire en lévitation doté de nombreux yeux dessus (un gauth !).",
         "urls": [
-            "http://www.shsforums.net/topic/25599-worgas-the-npc-and-his-prettie-eyeball/page-5#entry467708"
+            "http://www.shsforums.net/topic/25599-worgas-the-npc-and-his-prettie-eyeball/page-5#entry467708",
+            "https://github.com/Endarire/Worgas-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -40971,7 +40972,8 @@
         "name": "Sarevok Romance",
         "description": "Sarevok Anchev a été beaucoup de choses. Autrefois meurtrier, trompeur et ennemi méprisé, il est devenu l'allié improbable d'un protagoniste confronté à un avenir incertain. Bien que de nombreux faits concernant son passé et ses anciens projets soient connus de tous, on ne sait pas grand-chose de ses motivations actuelles, maintenant que la vie lui a été rendue. La mort a-t-elle ébranlé ses perceptions ou simplement renforcé sa détermination à s'emparer impitoyablement de tout le pouvoir qu'il peut s'approprier ? Est-il possible que des ennemis mortels deviennent plus que des alliés réticents ?",
         "urls": [
-            "http://www.shsforums.net/files/file/810-sarevok-romance/"
+            "http://www.shsforums.net/files/file/810-sarevok-romance/",
+            "https://github.com/Endarire/Sarevok-Romance"
         ],
         "categories": [
             "PNJ (autre)"
@@ -48747,5 +48749,34 @@
         "status": "wip",
         "last_update": "2019-03",
         "tp2": "SlayerMod"
+    },
+    {
+        "name": "Rebalancing Vorpal effects",
+        "description": "Ce mini-mod, l'effet vorpal des armes se déclenchera sur un % de coups variant selon l'arme, mais n'affectant que ceux qui sont à 50% de points de vie ou moins. Cela réduit la marge de sécurité dont vous disposez lorsque vous menez une mêlée avec un ennemi armé de vorpal, par rapport à une créature aux dégâts comparables sans cette capacité, mais cela n'en fait pas un obstacle tactique en cas d'échec de votre jet de sauvegarde contre la mort ou si vous risquez d'être touché en un coup comme c'était le cas auparavant.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/31688-rebalancing-vorpal-effects/#comment-284531",
+            "https://github.com/mleduque/polytope_rebalanced_vorpal"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "BGEE",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Polytope"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2022-04",
+        "tp2": "polyvorp"
     }
 ]
