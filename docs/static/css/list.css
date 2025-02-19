@@ -289,6 +289,20 @@ label {
     border-color: var(--color-primary);
 }
 
+@media screen and (max-width: 900px) {
+    #search_text {
+        padding-inline: 2rem;
+    }
+
+    #search_text input {
+        width: 100%;
+    }
+
+    #search_text h3 {
+        display: none;
+    }
+}
+
 #maindiv .content {
     color: #deded9;
     background-color: #5F5F5F;
