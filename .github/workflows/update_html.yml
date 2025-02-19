@@ -6,6 +6,8 @@ on:
       - gh-pages
     paths:
       - mods.json
+      - docs/templates/**
+      - docs/static/**
 
 jobs:
   build:
