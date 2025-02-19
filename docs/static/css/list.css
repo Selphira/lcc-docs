@@ -262,13 +262,31 @@ label {
     display: none;
 }
 
+#search_text {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    position: sticky;
+    top: 0;
+    height: 100%;
+    z-index: 10;
+    padding-inline: 12rem;
+    margin-bottom: 1rem;
+}
+
 #search_text input {
     padding: 0.25em 0.5em;
     border: 2px solid #000;
     border-radius: 4px;
-    width: 100%;
+    width: 60%;
     height: 50px;
     font-size: large;
+    border: 3px solid var(--color-secondary);
+    outline: none;
+}
+
+#search_text input:focus {
+    border-color: var(--color-primary);
 }
 
 #maindiv .content {

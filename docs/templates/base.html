@@ -103,6 +103,13 @@
                 <h2 id="top" class="background" id="search-bar">Filtres avancés</h2>
                 <div id="search">{% include "search.html" %}</div>
             </section>
+            <section id="search_text" class="table">
+                <h3>Nom :</h3>
+                <input id="search-text"
+                        type="text"
+                        placeholder="Nom du mod"
+                        oninput="filterMod()">
+            </section>
             <section class="table">
                 {% for category in categories %}{% include "category.html" %}{% endfor %}
             </section>
