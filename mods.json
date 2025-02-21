@@ -15738,14 +15738,15 @@
             "PNJ recrutable"
         ],
         "games": [
-            "IWD2",
-            "IWD2EE"
+            "IWD2"
         ],
         "authors": [
             "Domi"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod est également compatible avec [[Icewind Dale 2: Enhanced Edition]]."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
