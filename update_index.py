@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 from json import load as json_load
 from os import sep as os_sep
+from pathlib import Path
 
 # import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
@@ -9,18 +10,20 @@ from settings import Games, attrs_icon_data, categorie_names
 
 
 def main(env):
-    categories = [Category(k) for k in categorie_names]
-    with open("mods.json", "r") as f:
+    root = Path.cwd()
+    with open(root / "mods.json", "r") as f:
         mods = json_load(f)
     # with open("mods.yaml", "r") as f:
     #     mods = yaml.safe_load(f)
 
     mods.sort(key=lambda x: x["name"])
 
-    for category in categories:
-        for mod_json in mods:
+    categories = [Category(k) for k in categorie_names]
+    for mod_json in mods:
+        mod = Mod(**mod_json)
+
+        for category in categories:
             # for mod_json in mods.values():
-            mod = Mod(**mod_json)
             if category.name not in mod.categories:
                 continue
             category.mods.append(mod)
@@ -33,7 +36,7 @@ def main(env):
         mod_length=len(mods),
     )
 
-    with open(f"docs{os_sep}index.html", "w") as f:
+    with open(root / "docs" / "index.html", "w") as f:
         f.write(page_html)
 
 
