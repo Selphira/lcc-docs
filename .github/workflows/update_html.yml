@@ -15,6 +15,8 @@ jobs:
     steps:
     - name: Checkout Repository
       uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
 
     - name: Install uv
       uses: astral-sh/setup-uv@v5
@@ -33,16 +35,15 @@ jobs:
     - name: Generate HTML
       run: uv run update_index.py
 
-    -name: Deploy to gh-pages
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "github-actions[bot]@users.noreply.github.com"
+    - name: Deploy to gh-pages
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
 
-      git checkout --orphan gh-pages
-      git reset --hard
+        git checkout --orphan gh-pages
 
-      mv docs/
-      
-      git add .
-      git commit -m "Update site from branch main changes [ci skip]" || echo "No changes to commit"
-      git push --force origin gh-pages
+        cp -r docs/* .
+
+        git add docs/index.html
+        git commit -m "Update site from branch main changes [ci skip]" || echo "No changes to commit"
+        git push --force origin gh-pages
