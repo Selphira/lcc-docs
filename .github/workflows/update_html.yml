@@ -3,7 +3,7 @@ name: Generate HTML and Deploy
 on:
   push:
     branches:
-      - gh-pages
+      - main
     paths:
       - mods.json
       - docs/templates/**
@@ -33,10 +33,16 @@ jobs:
     - name: Generate HTML
       run: uv run update_index.py
 
-    - name: Deploy Changes
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "github-actions[bot]@users.noreply.github.com"
-        git add .
-        git commit -m "Update site from mods.json changes [ci skip]" || echo "No changes to commit"
-        git push origin gh-pages
+    -name: Deploy to gh-pages
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      git checkout --orphan gh-pages
+      git reset --hard
+
+      mv docs/
+      
+      git add .
+      git commit -m "Update site from branch main changes [ci skip]" || echo "No changes to commit"
+      git push --force origin gh-pages
