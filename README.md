@@ -1,10 +1,8 @@
-Version POC de la liste des mods BG de FreddyGwendo : https://github.com/LaCouronnedeCuivre/lcc-docs
+# Liste des mods de l'Infinity Engine
 
-## Important
+Version maintenue de la liste des mods BG de FreddyGwendo : https://github.com/LaCouronnedeCuivre/lcc-docs
 
-**Pour modifier un mod, c'est le ficher `mods.json` et uniquement lui qui doit être modifié.**\
-En effet, le fichier `index.html` est généré automatiquement par le script `update_index.py` qui s'appuie sur le ficher db : `mods.json`.
-
+Le fichier `mods.json` contient les informations nécessaires à la génération de la page. Pour ajouter, corriger, supprimer un mod c'est lui qu'il faut éditer.
 
 ## Installation
 
@@ -19,13 +17,16 @@ En effet, le fichier `index.html` est généré automatiquement par le script `u
     uv sync
 ```
 
-### Mettez à jour l'index html
+### Testez l'intégrité du fichier mods.json
+```
+    uv run check_mods_json.py
+```
 
+### Créez la page statique du site
 ```
     uv run update_index.py
 ```
-
-
+Cela génère le fichier `index.html` dans `docs/`.
 
 ## Améliorations par rapport à la v1
 
@@ -44,6 +45,7 @@ Cette version propose plusieurs améliorations techniques notables :
 * Modification aisée de la structure de la donnée (et des mods qui vont avec)
 * Filtre par nom
 * Filtre par qualité de mod
+* CI qui check automatiquement la conformité du contenu de `mods.json`
 * …
 
 ## Limites
