@@ -34,9 +34,7 @@ jobs:
     needs: test
     if: >-
       success() &&
-      github.event_name == 'push' &&
-      (contains(format('{0}', github.event.commits), 'mods.json') ||
-      contains(format('{0}', github.event.commits), 'docs/'))
+      github.event_name == 'push'
     runs-on: ubuntu-latest
     steps:
     - name: Checkout Repository
