@@ -1,16 +1,12 @@
-name: Run Tests on Pull Request
+name: Tests
 
 on:
   pull_request:
     branches:
       - main
-    paths:
-      - mods.json
   push:
     branches:
       - main
-    paths:
-      - mods.json
 
 jobs:
   test:
