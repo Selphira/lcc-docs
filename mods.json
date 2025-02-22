@@ -48881,5 +48881,30 @@
         "status": "active",
         "last_update": "2024-12",
         "tp2": "iwd2ee"
+    },
+    {
+        "name": "Multistronghold components",
+        "description": "Ce mod externalise le composant `Make all strongholds available` de [[Sword Coast Stratagems]]. Il permet notamment de choisir plus finement quelle forteresse est accessible au lieu de toutes les autoriser.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/25760-multistronghold-components/"
+        ],
+        "categories": [
+            "Quête"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE"
+        ],
+        "authors": [
+            "DavidW"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
+        "status": "active",
+        "last_update": "2013-10",
+        "tp2": "multistronghold"
     }
 ]
