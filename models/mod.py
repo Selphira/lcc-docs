@@ -52,6 +52,9 @@ class Mod:
 
     @property
     def urls_instance(self) -> list:
+        # Pour éviter d'afficher des liens morts tout en les conservant
+        if self.status == "missing":
+            return list()
         return [Url(url) for url in self.urls]
 
     @property
@@ -151,6 +154,13 @@ class Mod:
             )
         elif self.status == "wip":
             auto_notes.append("Ce mod est toujours en cours de réalisation.")
+        elif self.status == "missing":
+            if self.urls:
+                url = self.urls[0]
+                note = f"Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."
+            else:
+                note = "Ce mod a disparu."
+            auto_notes.append(note)
         if self.team:
             auto_notes.append(
                 f"Traducteur{'s' * (len(self.team) > 1)} 🇲🇫 : {self.get_team_str()}"
