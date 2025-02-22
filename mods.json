@@ -1111,10 +1111,8 @@
     },
     {
         "name": "Almateria's Enhanced Smaller Locations",
-        "description": "Ce petit mod ajoute des lieux abandonnés et inutilisés tout en maintenant une sorte de cohésion avec l'histoire. En gros, [[Unfinished Business]], mais en beaucoup plus petit :|- Vestiaire réaliste d'Aran Linvail : les rampes de capes sont maintenant remplies de divers assortiments de cape, convenant surtout aux voleurs. Le butin est complètement aléatoire, alors bonne chance pour obtenir le meilleur résultat !|- Tente restaurée à Franc-Marché : une nouvelle tente est ouverte aux visiteurs ! Située près de la caravane, son contenu vaut le coup d'œil.|- Chambre à coucher de Kiser restaurée : ajout d'une chambre d'amis à la maison de Kiser, présente mais non utilisée par le jeu. Les escaliers vers la chambre se trouvent à l'est de l'entrée, derrière le mur.|Notez toutefois qu'une grande partie de son contenu a été intégré dans [[Almateria's Quest 2]].",
-        "urls": [
-            "http://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html"
-        ],
+        "description": "Ce petit mod ajoute des lieux abandonnés et inutilisés tout en maintenant une sorte de cohésion avec l'histoire. En gros, [[Unfinished Business]], mais en beaucoup plus petit :|- Vestiaire réaliste d'Aran Linvail : les rampes de capes sont maintenant remplies de divers assortiments de cape, convenant surtout aux voleurs. Le butin est complètement aléatoire, alors bonne chance pour obtenir le meilleur résultat !|- Tente restaurée à Franc-Marché : une nouvelle tente est ouverte aux visiteurs ! Située près de la caravane, son contenu vaut le coup d'œil.|- Chambre à coucher de Kiser restaurée : ajout d'une chambre d'amis à la maison de Kiser, présente mais non utilisée par le jeu. Les escaliers vers la chambre se trouvent à l'est de l'entrée, derrière le mur.",
+        "urls": [],
         "categories": [
             "Quête",
             "Gameplay"
@@ -1128,12 +1126,13 @@
         ],
         "team": [],
         "notes": [
-            "Malheureusement, l'auteur a retiré son mod."
+            "Notez qu'une grande partie de son contenu a été intégré dans [[Almateria's Quest 2]] et [[Almateria's tweaks]] du même auteur.",
+            "Ce mod a disparu de http://almrep.blogspot.com/p/almaterias-enhanced-smaller-locations.html"
         ],
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "missing",
+        "status": "embed",
         "last_update": "2012-03",
         "tp2": ""
     },
@@ -1164,9 +1163,7 @@
     {
         "name": "Almateria's Quest 2",
         "description": "Une grande aventure vous attend ! Tuez des limons, assassinez des dragons, pillez d'anciens sanctuaires, gagnez des femmes... Ou finissez le jeu proprement dit. Que choisirez-vous ? Le messager qui initie la quête se trouve dans le quartier du gouvernement, près de la porte en bas de la carte (uniquement dans le chapitre 3).|De l'avis même de son auteur, ce n'est pas un mod sérieux. Sans doute la raison pour laquelle elle l'a retiré du net...",
-        "urls": [
-            "http://almrep.blogspot.com/p/almaquest-2.html"
-        ],
+        "urls": [],
         "categories": [
             "Quête",
             "Gameplay"
@@ -1179,7 +1176,9 @@
             "Almateria"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod a disparu de http://almrep.blogspot.com/p/almaquest-2.html"
+        ],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -3471,7 +3470,7 @@
     },
     {
         "name": "BG1 Regelmod",
-        "description": "Ce mod allemand semble avoir disparu.",
+        "description": "",
         "urls": [],
         "categories": [
             "Gameplay"
@@ -3718,9 +3717,7 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Comme le site Border Kingdoms n'existe plus, ce mod a malheureusement disparu..."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
@@ -4560,7 +4557,6 @@
         "name": "Baldur's Gate Fixpack",
         "description": "Initié par plainab, aka Sasha al'Therin, ce projet avait pour ambition de corriger les divers bugs et dysfonctionnements trouvés dans BG et son extension. Bien que pas terminé, ce pack regroupe tous les correctifs de Baldurdash (créé par Kevin Dorner) et certains ajustements du DudleyFix.",
         "urls": [
-            "http://sasha-altherin.webs.com/baldursgatefixpack.htm",
             "https://github.com/Sasha-alTherin/BGFixPack"
         ],
         "categories": [
@@ -5163,12 +5159,16 @@
             "Elhoe"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `bohd_v100.zip`."
+        ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
-        "status": "missing",
-        "last_update": "",
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2002-07",
         "tp2": "non-weidu"
     },
     {
@@ -6541,9 +6541,7 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Il a été retiré des sites de téléchargement en 2007 à cause d'un bug bloquant qui semblait impossible à résoudre."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 0,
         "languages": [
@@ -7577,7 +7575,9 @@
             "Lord Jyssev"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `JAC.zip`."
+        ],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -9527,8 +9527,7 @@
         ],
         "team": [],
         "notes": [
-            "Si ce mod est sensé être compatible avec tous les jeux IE, certains composants ne sont pas disponibles pour certains jeux.",
-            "Le mod semble avoir disparu."
+            "Si ce mod est sensé être compatible avec tous les jeux IE, certains composants ne sont pas disponibles pour certains jeux."
         ],
         "translation_state": "n/a",
         "safe": 1,
@@ -13022,9 +13021,7 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Malheureusement, son lien de téléchargement a disparu avec son site rosenranken."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -14114,7 +14111,7 @@
     },
     {
         "name": "Grimuars",
-        "description": "Ce mod ajoute de nouveaux grimoires dans le jeu.",
+        "description": "Ce mod ajoute de nouveaux grimoires dans le jeu qui fonctionnent comme des tomes en donnant aux joueurs des bonus permanents.",
         "urls": [
             "http://www.shsforums.net/topic/56772-grimuars-mod-for-bg2-got-updated/"
         ],
@@ -14768,11 +14765,11 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "pl"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -14968,9 +14965,7 @@
             "Corsymyr"
         ],
         "team": [],
-        "notes": [
-            "Le lien de téléchargement a disparu."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -15176,7 +15171,6 @@
             "Le Marquis"
         ],
         "notes": [
-            "Ce pnj n'est pas compatible avec le composant `Francmarché` du mod [[Made in Heaven - Encounters & Quests]] qui modifie la crypte de Francmarché et rend Horace inacessible.",
             "Choisissez le lien shs pour la version BG2/BGT et le lien github pour la version BG2EE/EET."
         ],
         "translation_state": "yes",
@@ -15220,7 +15214,8 @@
         "name": "Houyi - Luan's high-quality archery store",
         "description": "Ce mod (en chinois) ajoute de nombreuses munitions gros-bill dans le jeu.",
         "urls": [
-            "https://www.baldursgateworld.fr/download/file.php?id=10407"
+            "https://www.baldursgateworld.fr/download/file.php?id=10407",
+            "https://www.mediafire.com/file/qch7kudksgkk5w3/houyi.zip/file"
         ],
         "categories": [
             "Sort et objet"
@@ -15609,7 +15604,6 @@
         "name": "IWD-HotFix",
         "description": "Il s'agit d'une petite correction du fichier dambere.dlg qui n'avait pas été traitée par le fichier G3 IWD Fixpack.",
         "urls": [
-            "https://sasha-altherin.webs.com/icewinddaleseriesmods.htm",
             "http://www.shsforums.net/topic/52498-iwd-hotfix/"
         ],
         "categories": [
@@ -20010,9 +20004,7 @@
             "Klare"
         ],
         "team": [],
-        "notes": [
-            "Le lien semble avoir disparu."
-        ],
+        "notes": [],
         "translation_state": "yes",
         "safe": 1,
         "languages": [
@@ -21224,9 +21216,7 @@
             "Starn"
         ],
         "team": [],
-        "notes": [
-            "Son développement semble avoir été abandonné et il n'est plus possible de le télécharger."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -22080,6 +22070,7 @@
         "name": "Mysteries of the Sword Coast",
         "description": "Il s'agit d'un énorme projet de mod de la communauté polonaise. Il comporte 20 composants (ajout de nouvelles quêtes et expansion des PNJ) et une vingtaine de modifications mineures (comme rendre les ours plus dangereux dans le jeu).",
         "urls": [
+            "https://twm-bg.weebly.com/o-modzie.html",
             "http://athkatla.cob-bg.pl/viewtopic.php?t=7667&sid=ed4c50b6f80e5427d8088f80fdc08c0f"
         ],
         "categories": [
@@ -23264,9 +23255,7 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Malheureusement, son lien de téléchargement a disparu avec son site rosenranken."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -27010,7 +26999,7 @@
             "La Voix 2 la Sagesse"
         ],
         "notes": [
-            "Pour un jeu EE, utilisez le second ou le troisième lien de téléchargement fourni par Deratiseur.",
+            "Pour un jeu EE, utilisez le second lien de téléchargement fourni par Deratiseur.",
             "Attention, une fois le portail ouvert vous DEVEZ l'emprunter dans le sens inverse pour le désactiver. Si vous ne le faite pas et sortez de la zone en marchant, le portail reste en place et vous ne pouvez pas en créer d'autre."
         ],
         "translation_state": "yes",
@@ -28578,9 +28567,7 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Malheureusement, son lien de téléchargement a disparu avec son site rosenranken."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -28952,7 +28939,7 @@
     },
     {
         "name": "Sigil's Birthday Mod",
-        "description": "Plutôt amusant, ce mod ajoute dans votre inventaire une nouvelle amulette qui vous permet de convoquer une des 12 célèbres personnalités du forum de Sigil. Chacune d'entre elle vous donnera un buff efficace si vous êtes hors combat ou un lancera un puissant sort offensif si vous êtes en combat.",
+        "description": "Plutôt amusant, ce mod ajoute dans votre inventaire une nouvelle amulette qui vous permet de convoquer une des 12 célèbres personnalités du forum de Sigil. Chacune d'entre elle vous donnera un buff efficace si vous êtes hors combat ou lancera un puissant sort offensif si vous êtes en combat.",
         "urls": [
             "https://files.sigil.cz/mods/birthdaymod.rar",
             "https://github.com/Plutonium-X/MISC_Sigil"
@@ -29481,7 +29468,7 @@
         "name": "Slightly Improved Illyich",
         "description": "Lassé(e) de combattre ce groupe de duergars décidément trop facile pour vos gros bras ou vos sortilèges destructeurs - malgré le fait que vous n'en ayez qu'assez peu au début du jeu ? Mais le composant `Ilyich amélioré` de Weimer [[Tactics]] vous a déjà fait arracher tous les cheveux qu'il vous restait - ayant déjà arraché la première moitié en essayant d'installer correctement votre interminable liste de mods ? Alors, ce mod vous plaira probablement ! Il améliore les duergars de la prison d'Irenicus, sans toutefois les rendre invincibles... Notez qu'il ajoute également quelques autres petites choses ; elles sont listées dans le readme comme d'habitude.",
         "urls": [
-            "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=178",
+            "https://forum.sigil.cz/viewtopic.php?t=553",
             "https://github.com/Plutonium-X/FIGHT_Light_Ilyich/"
         ],
         "categories": [
@@ -30041,9 +30028,7 @@
             "stoh"
         ],
         "team": [],
-        "notes": [
-            "Pour l'instant, son téléchargement ne fonctionne pas."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -30322,6 +30307,7 @@
         "name": "Store mod for IWD2",
         "description": "Ce mod ajoute une nouvelle marchande dans IWD2. Il s'agit de Shi'nayne Xiltyn qui vend plusieurs objets extraits de BG2 et d'IWD, ainsi que de nouveaux. Vous le trouverez à Targos (auberge de la Veuve éplorée) et à Kuldahar (chez le forgeron Conlan).",
         "urls": [
+            "https://america.iegmc.com/com/",
             "https://github.com/mleduque/comstore/"
         ],
         "categories": [
@@ -30334,7 +30320,9 @@
             "CoM_Solaufein"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `IWD2Store211.rar`."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -31173,7 +31161,7 @@
             "JohnBob"
         ],
         "notes": [
-            "Incompatible avec [[Spell Revisions]].",
+            "Incompatible avec [[Spell Revisions]] et [[Made in Heaven - Encounters & Quests]].",
             "Le premier lien est officiel mais non traduit.",
             "La version github est non officielle mais la traduction française est présente."
         ],
@@ -32462,9 +32450,7 @@
             "temnix"
         ],
         "team": [],
-        "notes": [
-            "Ce mod n'est pas disponible, l'auteur tentant de corriger ses bugs..."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 0,
         "languages": [
@@ -33325,7 +33311,7 @@
     },
     {
         "name": "The Tortured Soul Quest",
-        "description": "À ne pas confondre avec le méga mod [[Tortured Souls-BP]], ce mod ajoute une petite quête, à la fin de laquelle vous obtenez un objet inédit qui vous permet d'invoquer Baenwuld le Tueur de magicien à volonté. Celui-ci peut-être libéré de son esclavage pour rejoindre votre groupe. Pour la démarrer, parlez à un étranger dans l'une des cryptes du cimetière d'Athkatla.",
+        "description": "À ne pas confondre avec le méga mod [[Tortured Souls-BP]], ce mod ajoute une petite quête, à la fin de laquelle vous obtenez un objet inédit qui vous permet d'invoquer Baenwuld le Tueur de magicien à volonté. Celui-ci peut-être libéré de son esclavage pour rejoindre votre groupe. Pour la démarrer, utilisez la baguette 'droppée' par un nouvel adversaire dans l'une des cryptes du cimetière d'Athkatla.",
         "urls": [
             "http://www.shsforums.net/files/file/149-the-tortured-soul-quest/",
             "https://github.com/Plutonium-X/1D_NPC_Tortured"
@@ -33867,9 +33853,7 @@
             "Corsymyr"
         ],
         "team": [],
-        "notes": [
-            "Le fichier a disparu !"
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -34137,7 +34121,7 @@
     },
     {
         "name": "Tomoyo and the Underground City",
-        "description": "Hommage au manga `Tomoyo After : It's a Wonderful Life`, ce mod (en chinois) ajoute une ville souterraine (dont l'entrée se trouve dans la crypte de la liche aux Portes de la ville) et une foule de nouveaux objets. Ceux qui ne sont pas rebutés par une histoire déconnectée de celle de BG2 y trouveront des batailles assez difficiles et le personnage du manga Tomoyo.",
+        "description": "Hommage au manga `Tomoyo After : It's a Wonderful Life`, ce mod (en chinois) ajoute une ville souterraine (dont l'entrée se trouve dans la crypte de la liche aux Portes de la ville). Ceux qui ne sont pas rebutés par une histoire déconnectée de celle de BG2 y trouveront une suite de cartes enchaînées, sur lesquelles vous allez affronter des centaines de monstres qui dropperont une foule d'objets, certains extrêmement puissants. Vous rencontrerez et pourrez engager Tomoyo Sakagami, héroïne du manga Clannad et de ses continuations. Vous n'êtes cependant pas obligé de la garder dans le groupe, elle est muette et n'a aucune incidence sur la suite.",
         "urls": [
             "https://trow.cc/board/showtopic=13751&st=0",
             "http://www.shsforums.net/files/file/1270-dnt-tomoyo-and-the-underground-city/"
@@ -34288,9 +34272,7 @@
             "yowave"
         ],
         "team": [],
-        "notes": [
-            "Son lien de téléchargement a disparu !"
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -35677,9 +35659,7 @@
             "Pokota"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a disparu."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -35797,9 +35777,7 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Il semble avoir disparu."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -36885,9 +36863,7 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [
-            "Ce mod a disparu."
-        ],
+        "languages": [],
         "status": "missing",
         "last_update": "",
         "tp2": ""
@@ -38663,7 +38639,7 @@
         "team": [],
         "notes": [],
         "translation_state": "yes",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "fr",
             "en"
@@ -39246,9 +39222,7 @@
             "NiGHTMARE"
         ],
         "team": [],
-        "notes": [
-            "Le lien de téléchargement ne fonctionne plus."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -39541,17 +39515,23 @@
         "authors": [
             "Wes Weimer"
         ],
-        "team": [],
-        "notes": [
-            "Choisissez le lien github pour la version EE et l'autre lien pour les versions originelles. La version EE n'est pas officielle."
+        "team": [
+            "Ly Meng",
+            "Laurent Duvernet",
+            "Cocobard",
+            "Banshee"
         ],
-        "translation_state": "no",
+        "notes": [
+            "Choisissez le lien github pour la version EE (non traduite) et l'autre lien pour les versions originelles. La version EE n'est pas officielle."
+        ],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
             "de",
             "ru",
-            "cn"
+            "cn",
+            "fr"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -42928,9 +42908,7 @@
             "aquadrizzt"
         ],
         "team": [],
-        "notes": [
-            "Le mod semble avoir disparu."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -44143,28 +44121,29 @@
         "tp2": "DialogTags"
     },
     {
-        "name": "MindAndSoul",
-        "description": "",
+        "name": "Mind And Soul",
+        "description": "Ce mod était censé ajouter un système de psioniques dans les éditions EE, débuté mais jamais fini.",
         "urls": [
             "https://github.com/aquadrizzt/MindAndSoul"
         ],
         "categories": [
             "Gameplay"
         ],
-        "games": [],
+        "games": [
+            "BGEE",
+            "BG2EE"
+        ],
         "authors": [
             "aquadrizzt"
         ],
         "team": [],
-        "notes": [
-            "Mod à compléter."
-        ],
+        "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "wip",
         "last_update": "2017-01",
         "tp2": "MindAndSoul"
     },
@@ -44434,27 +44413,29 @@
     },
     {
         "name": "Dancing Sword mod",
-        "description": "Ce mod crée une épée dansante.",
+        "description": "Ce mod crée un objet qui permet d'invoquer une épée dansante de Mordenkainen une fois par jour.",
         "urls": [
             "https://github.com/AaronKummer/DancingSwordMod"
         ],
         "categories": [
             "Sort et objet"
         ],
-        "games": [],
+        "games": [
+            "EET"
+        ],
         "authors": [
             "Aaron Kummer"
         ],
         "team": [],
         "notes": [
-            "Si le deuxième membre de l'équipe s’appelle Elric, le mod crée aussi Stormbringer"
+            "Si le deuxième membre de l'équipe s’appelle Elric, Stormbringer apparaît et vole l'objet avant de disparaître."
         ],
         "translation_state": "no",
         "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "2021-07",
         "tp2": "DancingSword"
     },
@@ -44881,7 +44862,7 @@
         "tp2": "wilsonudspid"
     },
     {
-        "name": "SkitiaBG2RomanceTweaks",
+        "name": "Skitia's Romance Tweak for BG2:EE",
         "description": "Ce mod ajuste les romances originales de BG2 pour qu'elles soient un peu moins dures lorsque vous vous séparez d'un compagnon romancé pendant un certain temps. Il apporte des modifications notamment pour les romances de Aerie, Anomen, Viconia et Jaheira.",
         "urls": [
             "https://github.com/Skitia/SkitiaBG2RomanceTweaks"
@@ -44956,7 +44937,7 @@
         ],
         "team": [],
         "notes": [
-            "Le lien semble avoir disparu de nexusmod pour l'instant car considéré comme suspicieux."
+            "Mod considéré comme suspicieux par nexusmods."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -45805,7 +45786,7 @@
         "tp2": "almanaika"
     },
     {
-        "name": "Almateria's tweak",
+        "name": "Almateria's tweaks",
         "description": "Ce mod ajoute des coûts en or ou en expérience à certains sorts profanes et divins.",
         "urls": [
             "https://america.iegmc.com/almateria/"
@@ -46581,9 +46562,7 @@
             "Picollo"
         ],
         "team": [],
-        "notes": [
-            "Le mod a disparu."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -47291,9 +47270,7 @@
             "Corsymyr"
         ],
         "team": [],
-        "notes": [
-            "Le mod a disparu."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 0,
         "languages": [],
@@ -48889,7 +48866,7 @@
             "https://www.gibberlings3.net/forums/topic/25760-multistronghold-components/"
         ],
         "categories": [
-            "Quête"
+            "Gameplay"
         ],
         "games": [
             "BG2",
