@@ -1,8 +1,11 @@
 # Liste des mods de l'Infinity Engine
 
-Version maintenue de la liste des mods BG de FreddyGwendo : https://github.com/LaCouronnedeCuivre/lcc-docs
+Version maintenue de la [liste des mods](https://github.com/LaCouronnedeCuivre/lcc-docs/listes_mods/liste_mods1_bg.html) BG de FreddyGwendo \
+Reprise de la [liste des mods](https://11jo.github.io/lcc-docs/listes_mods/liste_mods1_bg.html) de JohnBob
 
-Le fichier `mods.json` contient les informations nécessaires à la génération de la page. Pour ajouter, corriger, supprimer un mod c'est lui qu'il faut éditer.
+## Infos
+
+Le fichier `mods.json` contient les informations nécessaires à la génération de la page. Pour ajouter, corriger, supprimer un mod c'est lui et seulement lui qu'il faut éditer.
 
 ## Installation
 
@@ -54,10 +57,9 @@ Cette version propose plusieurs améliorations techniques notables :
 
 
 ## TODO
-* Une doc pour savoir comment remplir/modifier le fichier `mods.json` et les différents attributs attendus
 * Remplacer le Json par du Yaml paraît être une bonne idée mais la multiplication des `'\"\'` en tout genre ne m'y a pas encouragé (peut-être une config permet de contourner le problème ou une autre solution est envisageable ?)
 * Formulaire d'ajout d'un mod qui renvoit son équivalent en Json (plus qu'à l'ajouter à la db)
-* Rédaction de GuideLine pour les contributeurs
+* Rédaction de GuideLine pour les contributeurs (wip)
 
 
 ## Doc
