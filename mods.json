@@ -7881,7 +7881,7 @@
     },
     {
         "name": "Coran NPC MOD for Baldur's Gate II",
-        "description": "Coran est un PNJ créé en un week-end pour les joueurs qui, comme l'auteure du mod, ne pouvaient pas se lasser de la compagnie de cet excellent archer et coureur de jupons, ayant joué avec lui dans Baldur's Gate. Maintenant, Coran vous tiendra compagnie dans SoA et ToB avec quelques plaisanteries légères avec toutes les barmaids Athkatla, et un flacon d'Elverquisst ! Il enchaîne les conversations amicales avec le personnage principal, les dialogues initiés par le joueur et les dialogues avec tous les personnages de BioWare. Vous le trouverez près de l'entrée des portes d'Atkatla. Dans ToB, vous pouvez le convoquer grâce à l'Esprit du Destin.",
+        "description": "Coran est un PNJ créé en un week-end pour les joueurs qui, comme l'auteure du mod, ne pouvaient pas se lasser de la compagnie de cet excellent archer et coureur de jupons, ayant joué avec lui dans Baldur's Gate. Maintenant, Coran vous tiendra compagnie dans SoA et ToB avec quelques plaisanteries légères avec toutes les barmaids Athkatla, et un flacon d'Elverquisst ! Il enchaîne les conversations amicales avec le personnage principal, les dialogues initiés par le joueur et les dialogues avec tous les personnages de Bioware. Vous le trouverez près de l'entrée des portes d'Atkatla. Dans ToB, vous pouvez le convoquer grâce à l'Esprit du Destin.",
         "urls": [
             "https://www.pocketplane.net/one-day-npcs/",
             "https://github.com/Pocket-Plane-Group/Coran_for_BGII"
@@ -13595,7 +13595,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Ce mod n'est pas compatible avec les composants `Envoyer les PNJ de BioWare dans une auberge` de [[The Tweaks Anthology]] et `Possibilité d'envoyer les PNJ attendre dans une auberge` du [[The BG1NPC Project]]."
+            "Attention : Ce mod n'est pas compatible avec les composants `Envoyer les PNJ de Bioware dans une auberge` de [[The Tweaks Anthology]] et `Possibilité d'envoyer les PNJ attendre dans une auberge` du [[The BG1NPC Project]]."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -14771,7 +14771,7 @@
         ],
         "status": "missing",
         "last_update": "",
-        "tp2": ""
+        "tp2": "HeroesOfAmn"
     },
     {
         "name": "Heroes, Thieves and Moneylenders",
@@ -21228,7 +21228,7 @@
     },
     {
         "name": "Mod Kit Remover",
-        "description": "Ce mod n'est pas un mod de profil à proprement parler. Il a été principalement créé parce que [[The Darkest Day]] remplissait tous les emplacements de profil disponibles alors que les joueurs souhaitaient utiliser des profils d'autres mods pour y jouer. Le Mod Kit Remover supprime tous les profils de mod de l'écran de création de personnage.|Des options permettent de supprimer uniquement les profils de modules ou BioWare et les profils de modules. Tous les profils resteront installés pour être utilisés par les PNJ et les PC créés précédemment. Toutes les modifications apportées par d'autres mods aux profils de BioWare resteront intactes, et les profils d'autres mods WeiDU peuvent être installés et sélectionnés lors de la création du personnage. Bref, vous pouvez installer plein de profils tout en gardant sélectionnables et intacts les profils par défaut.",
+        "description": "Ce mod n'est pas un mod de profil à proprement parler. Il a été principalement créé parce que [[The Darkest Day]] remplissait tous les emplacements de profil disponibles alors que les joueurs souhaitaient utiliser des profils d'autres mods pour y jouer. Le Mod Kit Remover supprime tous les profils de mod de l'écran de création de personnage.|Des options permettent de supprimer uniquement les profils de modules ou Bioware et les profils de modules. Tous les profils resteront installés pour être utilisés par les PNJ et les PC créés précédemment. Toutes les modifications apportées par d'autres mods aux profils de Bioware resteront intactes, et les profils d'autres mods WeiDU peuvent être installés et sélectionnés lors de la création du personnage. Bref, vous pouvez installer plein de profils tout en gardant sélectionnables et intacts les profils par défaut.",
         "urls": [
             "https://www.gibberlings3.net/mods/kits/mkr/"
         ],
@@ -42236,7 +42236,7 @@
     },
     {
         "name": "Nalia At Last",
-        "description": "Enfin la suite de la romance de Nalia pour ToB. Ce mod est compatible avec [[de'Arnise Romance]] même si ce dernier n'est pas obligatoire. Il rajoute plusieurs dialogues, des flirts et des banters supplémentaires avec les autres personnages BioWare.",
+        "description": "Enfin la suite de la romance de Nalia pour ToB. Ce mod est compatible avec [[de'Arnise Romance]] même si ce dernier n'est pas obligatoire. Il rajoute plusieurs dialogues, des flirts et des banters supplémentaires avec les autres personnages de Bioware.",
         "urls": [
             "https://skitias-stories.com/mods-view.php?name=Nalia%20At%20Last",
             "https://forums.beamdog.com/discussion/86653/",
@@ -48883,5 +48883,58 @@
         "status": "active",
         "last_update": "2013-10",
         "tp2": "multistronghold"
+    },
+    {
+        "name": "Ebon Lash and Hades Hand for Edwin & Xzar",
+        "description": "Ce mod propose deux armes : la première pour Edwin (EBNLSH), un fouet noir en ébonite qui handicape et domine ses adversaires. La seconde pour Xzar (HDSHND), une dague de froid qui lance des sorts de Nécromancie. Les deux objets ne sont accessibles que via la console.",
+        "urls": [
+            "https://forums.beamdog.com/discussion/23568/"
+        ],
+        "categories": [
+            "Sort et objet"
+        ],
+        "games": [
+            "BG"
+        ],
+        "authors": [
+            "Eudaemonium"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2013-11",
+        "tp2": "exitem"
+    },
+    {
+        "name": "Areen",
+        "description": "Areen est un mage sauvage doué qui aborde son art de manière très sérieuse et académique. Il peut être recruté au chapitre 1 et est très difficile à manquer. Bien qu'il ait des statistiques bien optimisées, il a aussi un problème qui peut être résolu progressivement au cours du jeu. Pour le moment il dispose de peu de banters avec les autres personnages Bioware. Il dispose aussi de quelques objets.",
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/39228-npc-mod-release-areen-the-wild-mage-for-bgee/",
+            "https://github.com/BE-Mods/Areen/"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BGEE"
+        ],
+        "authors": [
+            "Boresal"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-02",
+        "tp2": "AreenWildMage"
     }
 ]
