@@ -2987,7 +2987,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-02",
         "tp2": "AutoDescription"
     },
     {
@@ -3365,7 +3365,6 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -3418,7 +3417,6 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -4160,7 +4158,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -4631,7 +4628,6 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -4796,14 +4792,12 @@
             "Quête"
         ],
         "games": [
-            "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
-            "BS Company"
+            "Multiple"
         ],
         "team": [],
         "notes": [],
@@ -5066,12 +5060,10 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWD",
             "IWD2",
-            "IWDEE",
-            "PST"
+            "IWDEE"
         ],
         "authors": [
             "CamDawg"
@@ -5101,9 +5093,7 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
-            "EET",
-            "IWDEE"
+            "EET"
         ],
         "authors": [
             "AionZ"
@@ -5358,7 +5348,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -6027,13 +6016,17 @@
             "BGT",
             "BGEE",
             "SoD",
-            "EET"
+            "EET",
+            "BG2EE",
+            "BG2"
         ],
         "authors": [
             "jastey"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Bien que fonctionnel sous BG2 et BG2EE, il n'a aucun contenu."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -6806,7 +6799,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -6827,7 +6819,7 @@
         ],
         "status": "active",
         "last_update": "2024-06",
-        "tp2": "ChanterKit"
+        "tp2": "ChanterKit;A7ChanterKit"
     },
     {
         "name": "The Chaos Sorcerer: A Wild Magic Kit for Sorcerers",
@@ -8198,7 +8190,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -8256,8 +8247,7 @@
             "Quête"
         ],
         "games": [
-            "BGEE",
-            "SoD"
+            "BGEE"
         ],
         "authors": [
             "shadowhawk703"
@@ -8271,7 +8261,7 @@
         ],
         "status": "active",
         "last_update": "2017-05",
-        "tp2": "CritterParts"
+        "tp2": "CritterParts_v1.1"
     },
     {
         "name": "Cross Goth",
@@ -8910,7 +8900,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2023-01",
+        "last_update": "2024-12",
         "tp2": "DSotSC"
     },
     {
@@ -10288,7 +10278,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-02",
         "tp2": "Drows"
     },
     {
@@ -11256,7 +11246,6 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -11473,7 +11462,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -11643,7 +11631,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWD",
             "IWDEE"
@@ -11755,7 +11742,6 @@
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -12063,7 +12049,6 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -12256,7 +12241,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-02",
         "tp2": "Faiths_and_Powers"
     },
     {
@@ -12537,7 +12522,7 @@
         "tp2": "BGII-Subrace"
     },
     {
-        "name": "Fire Elemental (Monk kit)",
+        "name": "Fire Elemental",
         "description": "Ce mod ajoute un profil de moine qui est... en fait un élémentaire de feu !|Il ne peut porter d'armure, il est immunisé au feu et possède un bonus de force +1.",
         "urls": [
             "https://forums.beamdog.com/discussion/64036/"
@@ -12861,7 +12846,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -13127,7 +13111,6 @@
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -13181,7 +13164,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -13285,7 +13267,6 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -14622,7 +14603,6 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -17472,7 +17452,7 @@
         "description": "Ce mod ajoute la marchande Jamella qui vend 108 objets de Diablo 2. Vous la trouverez sur son bateau après avoir quitté Spellhold ou dans les Monts de la Marche (ToB). Pour ne pas déséquilibrer le jeu, vous ne pourrez acheter qu'un objet, et il vous coutera la moitié de votre bourse. Faites le bon choix !.",
         "urls": [
             "http://www.shsforums.net/files/file/744-jamellas-diablo2-item-store-v13-for-bg2/",
-            "https://github.com/shohysie/BG2MODS"
+            "https://github.com/shohysie/DiabloIIKits"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -17635,6 +17615,7 @@
         ],
         "games": [
             "BGT",
+            "BGEE",
             "SoD",
             "EET"
         ],
@@ -17962,7 +17943,6 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -18214,7 +18194,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "Greener"
@@ -21659,7 +21640,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -24472,7 +24452,7 @@
             "BGT"
         ],
         "authors": [
-            "kwiatw"
+            "Kwiat_W"
         ],
         "team": [],
         "notes": [
@@ -25355,7 +25335,7 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-02",
         "tp2": "PPK"
     },
     {
@@ -25788,7 +25768,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2024-12",
         "tp2": "RPG-KP"
     },
     {
@@ -26119,7 +26099,6 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -26333,7 +26312,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-04",
+        "last_update": "2024-12",
         "tp2": "RoT"
     },
     {
