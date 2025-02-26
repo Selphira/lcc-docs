@@ -27811,7 +27811,6 @@
         "games": [
             "BGT",
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -28894,7 +28893,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -29901,9 +29899,7 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
-            "EET",
-            "IWDEE"
+            "EET"
         ],
         "authors": [
             "Demivrgvs",
@@ -29955,7 +29951,8 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
         "last_update": "2022-08",
@@ -30781,7 +30778,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -31375,7 +31371,6 @@
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -31391,7 +31386,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-02",
         "tp2": "tangledisle"
     },
     {
@@ -32123,8 +32118,7 @@
         "games": [
             "BG2",
             "BGT",
-            "Tutu",
-            "IWD"
+            "Tutu"
         ],
         "authors": [
             "the bigg"
@@ -32901,7 +32895,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2023-02",
+        "last_update": "2024-12",
         "tp2": "slandor"
     },
     {
@@ -35163,7 +35157,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-02",
         "tp2": "UoT"
     },
     {
@@ -37234,7 +37228,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-02",
         "tp2": "Will_to_Power"
     },
     {
@@ -38935,7 +38929,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-02",
         "tp2": "Combat_Skill_Proficiencies"
     },
     {
@@ -39001,7 +38995,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-02",
         "tp2": "SubtleD_Stat_Overhauls"
     },
     {
@@ -39232,7 +39226,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-02",
         "tp2": "AllThingsMazzy"
     },
     {
@@ -39831,7 +39825,6 @@
         ],
         "games": [
             "BGEE",
-            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -39921,7 +39914,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-02",
         "tp2": "SubtleD_Spell_Tweaks"
     },
     {
@@ -40081,7 +40074,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-02",
         "tp2": ""
     },
     {
@@ -40620,7 +40613,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-02",
         "tp2": "itemupgrade"
     },
     {
@@ -41202,7 +41195,9 @@
             "Quête"
         ],
         "games": [
-            "BGEE"
+            "BGT",
+            "BGEE",
+            "EET"
         ],
         "authors": [
             "Glittergear"
@@ -41213,10 +41208,12 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2024-10",
-        "tp2": ""
+        "last_update": "2025-02",
+        "tp2": "BloodAndFaith"
     },
     {
         "name": "Husam NPC",
@@ -41853,7 +41850,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2023-03",
+        "last_update": "2025-02",
         "tp2": "n/a"
     },
     {
@@ -42020,9 +42017,7 @@
             "Quête"
         ],
         "games": [
-            "BG2",
-            "BG2EE",
-            "EET"
+            "BG2EE"
         ],
         "authors": [
             "Lava Del'Vortel"
@@ -43592,7 +43587,8 @@
         "games": [
             "BGEE",
             "SoD",
-            "EET"
+            "EET",
+            "BG2EE"
         ],
         "authors": [
             "Subtledoctor"
@@ -45414,13 +45410,16 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "EET"
         ],
         "authors": [
             "AionZ"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Certains composants sont incompatibles avec le mod [[Reflections of Destiny, an SoD Remix Mod]]."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -46933,6 +46932,7 @@
             "Kit"
         ],
         "games": [
+            "BGEE",
             "BG2EE",
             "EET",
             "IWDEE"
@@ -47611,7 +47611,8 @@
             "BGEE",
             "BG2EE",
             "IWDEE",
-            "EET"
+            "EET",
+            "PSTEE"
         ],
         "authors": [
             "Argent77"
@@ -47882,7 +47883,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-02",
         "tp2": "SearchGuild"
     },
     {
@@ -48125,7 +48126,8 @@
         ],
         "games": [
             "BGEE",
-            "BG2EE"
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "RoyalProtector"
@@ -48152,7 +48154,9 @@
         ],
         "games": [
             "BGEE",
-            "BG2EE"
+            "BG2EE",
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "RoyalProtector"
