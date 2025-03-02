@@ -3678,7 +3678,7 @@
         "tp2": ""
     },
     {
-        "name": "BG2 Alternate Soundtrack",
+        "name": "BGII Alternate Soundtrack",
         "description": "Ce mod fournit une bande-son alternative partielle à Baldur's Gate II: Shadows of Amn et remplace la musique des principales cartes de SoA.",
         "urls": [
             "https://www.gibberlings3.net/files/file/680-bg2-alternate-soundtrack/",
@@ -4804,8 +4804,7 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en",
-            "de"
+            "en"
         ],
         "status": "active",
         "last_update": "2023-12",
@@ -5199,7 +5198,7 @@
             "https://downloads.weaselmods.net/download/below-below-inn/"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Quête"
         ],
         "games": [
             "IWDEE"
@@ -5492,7 +5491,7 @@
         "tp2": "BIDDE"
     },
     {
-        "name": "Big World Setup FR (BWS-FR)",
+        "name": "Big World Setup FR",
         "description": "Développé par Selphira sur votre forum préféré, BWS-FR est un fork du défunt <a href=\"https://github.com/BigWorldSetup/BigWorldSetup\">Big World Setup</a> spécialisé dans l'installation des mods traduits en Français et compatibles avec BGT (il installe aussi certains mods anglais qui n'ajoutent pas de texte dans le jeu).|Tout comme ce dernier, il vous permet de télécharger, extraire et installer automatiquement des mods, tout en gérant les conflits, dépendances et ordres d'installation. Il propose ainsi une alternative fonctionnelle à l'outil Project Infinity, toujours en phase de développement, dont l'utilisation est pour le moins peu intuitive et qui est encore très loin d'être au point.|<u>Ses fonctions principales :</u>|- Il permet de sélectionner les mods et composants que vous désirez, et se charge d'automatiser entièrement le processus d'installation.|- Il supporte les présélections de mods.|- Il télécharge automatiquement la plupart des mods.|- Il extrait automatiquement la plupart des mods.|- Il se charge de gérer l'ordre d'installation.|- Il vous indique les conflits éventuels de votre sélection, et vous propose des solutions pour les éviter.|- Il applique des corrections sur certains mods.|Vous pouvez consultez le <a href=\"https://www.baldursgateworld.fr/viewforum.php?f=757\">Forum dédié</a> pour de plus ample informations et accéder aux Guides d'utilisation.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33140",
@@ -36112,7 +36111,9 @@
             "BGT",
             "BGEE",
             "SoD",
-            "EET"
+            "EET",
+            "BG2",
+            "BG2EE"
         ],
         "authors": [
             "Lava Del'Vortel",
@@ -40432,7 +40433,7 @@
     },
     {
         "name": "BWS-FR Fixpack",
-        "description": "BWS-FR Fixpack est une compilation de correctifs, à la base destinés au [[Big World Setup FR (BWS-FR)]], mais qui peut aussi être utilisé indépendamment. Il suffit de l'exécuter après avoir décompressé vos mods dans le dossier du jeu, et avant de débuter vos installations de mod.|Un second composant, à exécuter à la toute fin de votre installation, va vérifier divers problèmes connus, et vous suggèrera des corrections si possible.",
+        "description": "BWS-FR Fixpack est une compilation de correctifs, à la base destinés au [[Big World Setup FR]], mais qui peut aussi être utilisé indépendamment. Il suffit de l'exécuter après avoir décompressé vos mods dans le dossier du jeu, et avant de débuter vos installations de mod.|Un second composant, à exécuter à la toute fin de votre installation, va vérifier divers problèmes connus, et vous suggèrera des corrections si possible.",
         "urls": [
             "https://github.com/Selphira/BWS-FR-Fixpack"
         ],
