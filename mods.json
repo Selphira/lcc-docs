@@ -15213,7 +15213,7 @@
         "languages": [
             "cn"
         ],
-        "status": "yes",
+        "status": "active",
         "last_update": "2004-10",
         "tp2": "houyi"
     },
@@ -17598,7 +17598,7 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [],
-        "status": "yes",
+        "status": "active",
         "last_update": "2024-11",
         "tp2": ""
     },
@@ -20297,7 +20297,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -20996,7 +20995,7 @@
         "tp2": "Minions Tied to Summoner"
     },
     {
-        "name": "Minor NPC Portraits for BG2:EE",
+        "name": "Minor NPC Portraits for BG2EE",
         "description": "À l'instar des mods [[Gerri's NPC Portraits Pack]] et [[The BG1NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG2:EE.",
         "urls": [
             "https://github.com/smeagolheart/MinorNPCPortraitsforBGEE2"
@@ -21024,7 +21023,7 @@
         "tp2": "MinorNPCPortraitsforBG2EE"
     },
     {
-        "name": "Minor NPC Portraits for BG:EE",
+        "name": "Minor NPC Portraits for BGEE",
         "description": "À l'instar des mods [[Gerri's NPC Portraits Pack]] et [[The BG1NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans BG:EE et SoD.",
         "urls": [
             "https://github.com/smeagolheart/MinorNPCPortraitsforBGEE"
@@ -21052,7 +21051,7 @@
         "tp2": "MinorNPCPortraitsforBGEE"
     },
     {
-        "name": "Minor NPC Portraits for IWD:EE",
+        "name": "Minor NPC Portraits for IWDEE",
         "description": "À l'instar des mods [[Gerri's NPC Portraits Pack]] et [[The BG1NPC Project]], ce mod donne un portrait à chaque NPC concerné par un dialogue dans IWD:EE.",
         "urls": [
             "https://forums.beamdog.com/discussion/37001/",
@@ -31088,6 +31087,7 @@
             "BG2EE"
         ],
         "authors": [
+            "Wes Weimer",
             "Musigny"
         ],
         "team": [
@@ -38291,7 +38291,7 @@
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "inactive",
+        "status": "obsolete",
         "last_update": "2015-03",
         "tp2": "non-weidu"
     },
@@ -46412,7 +46412,7 @@
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
-        "status": "true",
+        "status": "active",
         "last_update": "2021-02",
         "tp2": "non-weidu"
     },
@@ -46441,7 +46441,7 @@
             "en",
             "cn"
         ],
-        "status": "true",
+        "status": "active",
         "last_update": "2024-12",
         "tp2": "XPexchange"
     },
@@ -46468,7 +46468,7 @@
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
-        "status": "true",
+        "status": "active",
         "last_update": "2009-05",
         "tp2": "sc#intjlister"
     },
@@ -46494,7 +46494,7 @@
         "languages": [
             "pl"
         ],
-        "status": "true",
+        "status": "active",
         "last_update": "2010-09",
         "tp2": "Kalah"
     },
@@ -46520,7 +46520,7 @@
         "languages": [
             "pl"
         ],
-        "status": "true",
+        "status": "active",
         "last_update": "2006-10",
         "tp2": "RessurectMod"
     },
@@ -48049,7 +48049,9 @@
             "BG2EE",
             "EET"
         ],
-        "authors": [],
+        "authors": [
+            "Wes Weimer"
+        ],
         "team": [
             "Deratiseur"
         ],
