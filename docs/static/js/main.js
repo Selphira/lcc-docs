@@ -103,3 +103,33 @@ function filterByCategory() {
     categories.forEach(category => category.style.display = "")
   }
 }
+
+// Avec la barre de recherche sticky, besoin de modifier la position d'affichage
+
+document.addEventListener("DOMContentLoaded", function () {
+  function adjustScroll(hash) {
+    let target = document.querySelector(hash)
+    if (target) {
+      let offset = document.querySelector("#search_text").offsetHeight
+      window.scrollTo({
+        top: target.offsetTop - offset - 5,
+        behavior: "smooth"
+      })
+    }
+  }
+
+  // Ajustement au chargement de la page
+  if (window.location.hash) {
+    adjustScroll(window.location.hash)
+  }
+
+  // Ajustement au clic sur un lien avec une ancre
+  document.querySelectorAll('a[href^="#"]').forEach(link => {
+    link.addEventListener("click", function (event) {
+      event.preventDefault()
+      let hash = this.getAttribute("href")
+      history.pushState(null, null, hash)
+      adjustScroll(hash)
+    })
+  })
+})
