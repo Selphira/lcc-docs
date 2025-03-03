@@ -5,8 +5,8 @@ from pathlib import Path
 
 # import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
-from models import Category, Mod
-from settings import Games, attrs_icon_data, categorie_names
+from models import Mod
+from settings import CategoryEnum, Games, attrs_icon_data
 
 
 def main(env):
@@ -18,19 +18,16 @@ def main(env):
 
     mods.sort(key=lambda x: x["name"])
 
-    categories = [Category(k) for k in categorie_names]
+    categories_mod = {cat: list() for cat in CategoryEnum}
     for mod_json in mods:
         mod = Mod(**mod_json)
 
-        for category in categories:
-            # for mod_json in mods.values():
-            if category.name not in mod.categories:
-                continue
-            category.mods.append(mod)
+        for category in mod.get_categories():
+            categories_mod[category].append(mod)
 
     page_html = env.get_template("base.html").render(
         games=Games,
-        categories=categories,
+        categories=categories_mod,
         static=f"static{os_sep}",
         attrs_icon_data=attrs_icon_data,
         mod_length=len(mods),

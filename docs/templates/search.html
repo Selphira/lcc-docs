@@ -47,10 +47,10 @@
                 <input type="radio" id="category-all" oninput="filterByCategory()" name="cat" value="" checked>
                 <label for="category-all">Toutes</label>
             </div>
-            {% for category in categories %}
+            {% for category in categories.keys() %}
                 <div class="search_item category">
-                    <input type="radio" id="{{ category.name }}" oninput="filterByCategory()" name="cat" value="{{ category.name }}">
-                    <label for="{{ category.name }}">{{ category.name }}</label>
+                    <input type="radio" id="{{ category.value }}" oninput="filterByCategory()" name="cat" value="{{ category.value }}">
+                    <label for="{{ category.value }}">{{ category.value }}</label>
                 </div>
             {% endfor %}
         </div>

@@ -1,6 +1,8 @@
 import enum
 import os
 
+from models.utils import slugify
+
 STATIC_ROOT = os.path.join("docs", "static")
 IMG_ROOT = os.path.join(STATIC_ROOT, "img")
 
@@ -98,24 +100,32 @@ class Games(enum.StrEnum):
         return cls.BG_EE() + cls.IWD_EE() + (cls.PSTEE,)
 
 
-categorie_names = [
-    "Patch non officiel",
-    "Utilitaire",
-    "Conversion",
-    "Interface",
-    "Cosmétique",
-    "Portrait et son",
-    "Quête",
-    "PNJ recrutable",
-    "PNJ One Day",
-    "PNJ (autre)",
-    "Forgeron et marchand",
-    "Sort et objet",
-    "Kit",
-    "Gameplay",
-    "Script et tactique",
-    "Personnalisation du groupe",
-]
+class CategoryEnum(enum.StrEnum):
+    FIX = "Patch non officiel"
+    TOOL = "Utilitaire"
+    CONVERSION = "Conversion"
+    INTERFACE = "Interface"
+    COSMETIC = "Cosmétique"
+    PORTRAIT_SOUND = "Portrait et son"
+    QUEST = "Quête"
+    NPC = "PNJ recrutable"
+    NPC_1DAY = "PNJ One Day"
+    NPC_OTHER = "PNJ (autre)"
+    BLACKSMITH_MERCHANT = "Forgeron et marchand"
+    SPELL_ITEM = "Sort et objet"
+    KIT = "Kit"
+    TWEAK = "Gameplay"
+    SCRIPT = "Script et tactique"
+    PARTY_PERSONNALISATION = "Personnalisation du groupe"
+
+    @property
+    def id(self) -> str:
+        return slugify(self.name)
+
+    @classmethod
+    def values(cls) -> list[str]:
+        return [cat.value for cat in cls]
+
 
 FLAG_DIR = "flags"
 SITE_DIR = "sites"

@@ -4,7 +4,7 @@ import re
 
 from models.url import Url
 from models.utils import slugify
-from settings import Games, attrs_icon_data
+from settings import CategoryEnum, Games, attrs_icon_data
 
 link_regex = re.compile(r"\[\[[^].]+\]\]")
 quote_regex = re.compile(r"`[^`]+`")
@@ -23,16 +23,6 @@ class ModStatus(enum.StrEnum):
 class Icon:
     icon: str
     label: str
-
-
-class Category:
-    def __init__(self, name: str):
-        self.name = name
-        self.mods = list()
-
-    @property
-    def id(self) -> str:
-        return slugify(self.name)
 
 
 @dataclass(kw_only=True)
@@ -63,8 +53,7 @@ class Mod:
     def is_weidu(self) -> bool:
         return self.tp2 != "non-weidu"
 
-    @property
-    def urls_instance(self) -> list:
+    def get_urls(self) -> list[Url]:
         # Pour éviter d'afficher des liens morts tout en les conservant
         if self.get_status() == ModStatus.MISSING:
             return list()
@@ -110,9 +99,11 @@ class Mod:
     def _convert_pipe(self, txt: str) -> str:
         return txt.replace("|", "<br/>")
 
-    @property
-    def full_description(self) -> str:
+    def get_description(self) -> str:
         return self.convert_txt(self.description)
+
+    def get_categories(self) -> list[CategoryEnum]:
+        return [CategoryEnum(cat) for cat in self.categories]
 
     @property
     def safe_note(self) -> int:
@@ -189,10 +180,8 @@ class Mod:
             case (*without_last, last):
                 return ", ".join(without_last) + f" et {last}"
 
-    @property
-    def full_notes(self) -> list:
+    def get_notes(self) -> list:
         return [self.convert_txt(note) for note in self.notes + self.get_auto_notes()]
 
-    @property
-    def order_games(self) -> list:
+    def get_games(self) -> list:
         return [game for game in Games if game in self.games]

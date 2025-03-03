@@ -111,7 +111,7 @@
                         oninput="filterMod()">
             </section>
             <section class="table">
-                {% for category in categories %}{% include "category.html" %}{% endfor %}
+                {% for category, mods in categories.items() %}{% include "category.html" %}{% endfor %}
             </section>
         </div>
     </body>

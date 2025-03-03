@@ -3,7 +3,7 @@ import re
 
 from models import Mod, ModStatus
 from scripts.utils import ModManager
-from settings import Games, categorie_names
+from settings import CategoryEnum, Games
 
 
 def main():
@@ -14,9 +14,9 @@ def main():
     mods = ModManager.load()
 
     mod_names_founded = set()
-    category_names = set(categorie_names)
+    category_names = set(CategoryEnum.values())
     game_names = set(Games)
-    valid_status = ModStatus.values()
+    valid_status = [status.value for status in ModStatus]
 
     mod_names = set(mod["name"] for mod in mods)
 
