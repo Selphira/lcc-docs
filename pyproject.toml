@@ -1,6 +1,6 @@
 [project]
 name="Lcc-Mod-List"
-version="1.5.1"
+version="1.5.2"
 description="Liste des mods de l'infinity engine"
 readme="README.md"
 requires-python=">=3.11"
