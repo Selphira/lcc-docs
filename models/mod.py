@@ -1,4 +1,5 @@
-from dataclasses import dataclass, field
+from dataclasses import dataclass
+import enum
 import re
 
 from models.url import Url
@@ -7,6 +8,15 @@ from settings import Games, attrs_icon_data
 
 link_regex = re.compile(r"\[\[[^].]+\]\]")
 quote_regex = re.compile(r"`[^`]+`")
+
+
+class ModStatus(enum.StrEnum):
+    ACTIVE = "active"
+    ARCHIVED = "archived"
+    EMBED = "embed"
+    MISSING = "missing"
+    OBSOLETE = "obsolete"
+    WIP = "wip"
 
 
 @dataclass(slots=True, kw_only=True)
@@ -46,6 +56,9 @@ class Mod:
     def id(self) -> str:
         return slugify(self.name)
 
+    def get_status(self):
+        return ModStatus(self.status)
+
     @property
     def is_weidu(self) -> bool:
         return self.tp2 != "non-weidu"
@@ -53,7 +66,7 @@ class Mod:
     @property
     def urls_instance(self) -> list:
         # Pour éviter d'afficher des liens morts tout en les conservant
-        if self.status == "missing":
+        if self.get_status() == ModStatus.MISSING:
             return list()
         return [Url(url) for url in self.urls]
 
@@ -110,11 +123,11 @@ class Mod:
             note -= 1
         if "temnix" in self.authors:  # déso
             note -= 1
-        if self.status == "archived":
+        if self.get_status() == ModStatus.ARCHIVED:
             note -= 1
-        elif self.status in ("embed", "obsolete"):
+        elif self.get_status() in (ModStatus.EMBED, ModStatus.OBSOLETE):
             note = 0
-        elif self.status in ("wip", "missing"):
+        elif self.get_status() in (ModStatus.WIP, ModStatus.MISSING):
             note = min(1, note)
         return max(0, note)
 
@@ -148,13 +161,13 @@ class Mod:
             auto_notes.append(
                 "⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls."
             )
-        if self.status == "archived":
+        if self.get_status() == ModStatus.ARCHIVED:
             auto_notes.append(
                 "Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite."
             )
-        elif self.status == "wip":
+        elif self.get_status() == ModStatus.WIP:
             auto_notes.append("Ce mod est toujours en cours de réalisation.")
-        elif self.status == "missing":
+        elif self.get_status() == ModStatus.MISSING:
             if self.urls:
                 url = self.urls[0]
                 note = f"Ce mod a disparu de <a href='{url}' target='_blank'>{url}</a>."

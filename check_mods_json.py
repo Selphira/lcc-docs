@@ -1,7 +1,7 @@
 from dataclasses import fields
 import re
 
-from models import Mod
+from models import Mod, ModStatus
 from scripts.utils import ModManager
 from settings import Games, categorie_names
 
@@ -16,6 +16,7 @@ def main():
     mod_names_founded = set()
     category_names = set(categorie_names)
     game_names = set(Games)
+    valid_status = ModStatus.values()
 
     mod_names = set(mod["name"] for mod in mods)
 
@@ -70,6 +71,11 @@ def main():
         # check safe
         assert 0 <= mod["safe"] <= 2, (
             f"{mod_name} : Safe non conforme {mod['safe']} ; Valeur attendue 0 <= safe <= 2"
+        )
+
+        # check status
+        assert mod["status"] in valid_status, (
+            f"{mod_name} : Statut non conforme {mod['status']} ; Valeur attendue : {' | '.join(valid_status)}"
         )
 
     print("🟢 Tests 🟢")
