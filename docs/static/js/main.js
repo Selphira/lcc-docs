@@ -6,7 +6,22 @@ document.addEventListener("DOMContentLoaded", () => {
   document.querySelector("#game-all").checked = true
   document.querySelector("#category-all").checked = true
   updateCategoryCount()
+  toggleDetails()
 })
+
+window.addEventListener("resize", () => {
+  toggleDetails()
+});
+
+function toggleDetails() {
+  document.querySelectorAll("details.team").forEach(details => {
+    if (window.innerWidth <= 900) {
+      details.setAttribute("open", "");
+    } else {
+      details.removeAttribute("open");
+    }
+  })
+}
 
 function updateCategoryCount() {
   // ajout du count
@@ -92,7 +107,7 @@ function filterByQuality(mods) {
 }
 
 function filterByCategory() {
-  const categoryChecked = document.querySelector(".search_item.category input[type='radio']:checked")
+  const categoryChecked = document.querySelector("#category-select input[type='radio']:checked")
   const categories = Array.from(document.querySelectorAll(".category_container"))
   if (categoryChecked && categoryChecked.value !== "") {
     categories.forEach(category => {

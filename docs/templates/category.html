@@ -1,5 +1,5 @@
 <details class="category_container" data-name="{{ category.value }}" open>
-    <summary class="no-summary-style background category_name h2-style" data-count="0" id="{{ category.id }}">{{ category.value }}</summary>
+    <summary class="no-summary-style category_name h2-style" data-count="0" id="{{ category.id }}">{{ category.value }}</summary>
     <div class="category">
         <div class="row game">
             <p>Mod</p>
@@ -10,24 +10,24 @@
         </div>
         {% for mod in mods %}
             <div class="row mod" id="{{ mod.id }}">
-                <div class="title">
+                <div class="column title">
                     <a class="discret name" href="#{{ mod.id }}">{{ mod.name }}</a>
                     <p class="icons">{% for icon in mod.icons %}<span aria-label='{{ icon.label }}'>{{ icon.icon }}</span>{% endfor %}</p>
                 </div>
-                <div class="jeu">
+                <div class="column jeu">
                     {% for game in mod.get_games() %}<p>{{ game }}</p>{% endfor %}
                 </div>
                 {% if mod.authors|length <= 2 %}
-                    <div class="team">
+                    <div class="column team">
                         {% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}
                     </div>
                 {% else %}
-                    <details class="team">
+                    <details class="column team">
                         <summary>Équipe</summary>
                         <div class="content">{% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}</div>
                     </details>
                 {% endif %}
-                <details class="desc">
+                <details class="column desc">
                     <summary>Description</summary>
                     <div class="content">
                         {{ mod.get_description()|safe }}
@@ -36,7 +36,7 @@
                         {% endif %}
                     </div>
                 </details>
-                <div class="url">
+                <div class="column url">
                     {% for url in mod.get_urls() %}
                         <a href="{{ url.url }}" target="{% if url.is_external %}_blank{% else %}_self{% endif %}">
                         {% if url.img %}

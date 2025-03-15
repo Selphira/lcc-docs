@@ -62,39 +62,41 @@
                             </p>
                         </div>
                         <p class="title">Mods recensés : <strong>{{ mod_length }}</strong></p>
-                        <div class="legend">
-                            <p class="title">Légende :</p>
-                            <p>
-                                <strong>Qualité générale du mod</strong>
-                            </p>
-                            <ul>
-                                {% for icon_data in attrs_icon_data.safe.values() %}
+                        <div class="tables">
+                            <div class="legend">
+                                <p class="title">Légende :</p>
+                                <p>
+                                    <strong>Qualité générale du mod</strong>
+                                </p>
+                                <ul>
+                                    {% for icon_data in attrs_icon_data.safe.values() %}
                                     <li>{{ icon_data.icon }} {{ icon_data.label }}</li>
-                                {% endfor %}
-                            </ul>
-                            <p>
-                                <strong>Traduction française</strong>
-                            </p>
-                            <ul>
-                                {% for icon_data in attrs_icon_data.translation_state.values() %}
+                                    {% endfor %}
+                                </ul>
+                                <p>
+                                    <strong>Traduction française</strong>
+                                </p>
+                                <ul>
+                                    {% for icon_data in attrs_icon_data.translation_state.values() %}
                                     <li>{{ icon_data.icon }} {{ icon_data.label }}</li>
-                                {% endfor %}
-                            </ul>
- 
-                            <p>
-                                <strong>Mod Weidu</strong>
-                            </p>
-                            <ul>
-                                {% for icon_data in attrs_icon_data.is_weidu.values() %}
+                                    {% endfor %}
+                                </ul>
+
+                                <p>
+                                    <strong>Mod Weidu</strong>
+                                </p>
+                                <ul>
+                                    {% for icon_data in attrs_icon_data.is_weidu.values() %}
                                     <li>{{ icon_data.icon }} {{ icon_data.label }}</li>
-                                {% endfor %}
-                            </ul>
-                        </div>
-                        <div class="warning">
-                            <p class="titre">AVERTISSEMENT !</p>
-                            <p>
-                                ⚠️ Les auteurs ont été ajoutés récemment et peuvent comporter des erreurs ! N'hésitez pas à les remonter à <a href="https://www.baldursgateworld.fr/viewtopic.php?t=33406">l'adresse suivante</a>.
-                            </p>
+                                    {% endfor %}
+                                </ul>
+                            </div>
+                            <div class="warning">
+                                <p class="titre">AVERTISSEMENT !</p>
+                                <p>
+                                    ⚠️ Les auteurs ont été ajoutés récemment et peuvent comporter des erreurs ! N'hésitez pas à les remonter à <a href="https://www.baldursgateworld.fr/viewtopic.php?t=33406">l'adresse suivante</a>.
+                                </p>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -104,7 +106,7 @@
                 <div id="search">{% include "search.html" %}</div>
             </section>
             <section id="search_text" class="table">
-                <h3>Nom :</h3>
+                <h3>Recherche :</h3>
                 <input id="search-text"
                         type="text"
                         placeholder="Nom du mod"

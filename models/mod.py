@@ -176,9 +176,9 @@ class Mod:
             case ():
                 return ""
             case (only_one,):
-                return only_one
+                return f"<span class='translator'>{only_one}</span>"
             case (*without_last, last):
-                return ", ".join(without_last) + f" et {last}"
+                return "<span class='translator'>" + "</span>, <span class='translator'>".join(without_last) + f"</span> et <span class='translator'>{last}</span>"
 
     def get_notes(self) -> list:
         return [self.convert_txt(note) for note in self.notes + self.get_auto_notes()]
