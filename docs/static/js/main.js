@@ -115,7 +115,7 @@ function filterByCategory() {
       category.parentElement.style.display = categoryChecked.value == categoryName ? "" : "none"
     })
   } else {
-    categories.forEach(category => category.style.display = "")
+    categories.forEach(category => category.parentElement.style.display = "")
   }
 }
 
