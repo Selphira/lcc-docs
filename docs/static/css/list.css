@@ -394,6 +394,7 @@ a.discret:hover {
 }
 
 .table .row .name {
+    font-size: var(--font-size-large);
     text-align: unset;
     margin-block: 2px;
 }
@@ -646,6 +647,10 @@ details[open] > summary::marker {
 
     details.team summary {
         display: none;
+    }
+
+    details.title[open] ~ .desc {
+        padding: 1em 2em;
     }
 }
 
