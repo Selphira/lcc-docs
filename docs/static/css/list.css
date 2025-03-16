@@ -177,11 +177,6 @@ label {
     filter: grayscale(0);
 }
 
-#search_translate {
-    min-width: 30%;
-    max-width: fit-content;
-}
-
 .filter-selector select {
     background-color: #655949;
     border-radius: 10px;
@@ -558,6 +553,14 @@ details[open] > summary::marker {
         display: flex;
         justify-content: space-between;
         gap: 10px;
+    }
+
+    .table .row .desc {
+        grid-row-start: 5;
+    }
+
+    .table .row .url {
+        grid-row-start: 4;
     }
 
     .table .jeu {
