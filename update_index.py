@@ -6,7 +6,7 @@ from pathlib import Path
 # import yaml
 from jinja2 import Environment, PackageLoader, select_autoescape
 from models import Mod
-from settings import CategoryEnum, Games, attrs_icon_data
+from settings import CategoryEnum, Games, attrs_icon_data, resize_image_from_width
 
 
 def main(env):
@@ -17,6 +17,8 @@ def main(env):
     #     mods = yaml.safe_load(f)
 
     mods.sort(key=lambda x: x["name"])
+
+    resize_image_from_width(24)
 
     categories_mod = {cat: list() for cat in CategoryEnum}
     for mod_json in mods:

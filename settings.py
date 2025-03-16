@@ -185,3 +185,18 @@ image_data = {
     "bgforge.svg": {"title": "BG Forge", "width": 32, "height": 32},
     "-flag-32.png": {"title": "Mod %s", "width": 32, "height": 21},
 }
+
+
+def resize_image_from_width(width: int) -> None:
+    """
+    Recalcule les dimensions des images en conservant le ratio initial en se basant sur le width
+    """
+    for key, value in image_data.items():
+        current_width = value["width"]
+        if current_width == width:
+            continue
+
+        current_height = value["height"]
+        diff_base1 = 1 - (current_width - width) / current_width
+        image_data[key]["width"] = width
+        image_data[key]["height"] = int(current_height * diff_base1)
