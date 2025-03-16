@@ -23,7 +23,7 @@ body {
 }
 
 .desc span.quote {
-    background-color: #363131;
+    background-color: dimgray;
     padding: 4px;
     border-radius: 3px;
 }
