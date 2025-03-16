@@ -182,7 +182,7 @@ wheels = [
 
 [[package]]
 name = "lcc-mod-list"
-version = "1.5.1"
+version = "1.5.2"
 source = { virtual = "." }
 dependencies = [
     { name = "beautifulsoup4" },
