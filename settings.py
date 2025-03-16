@@ -49,7 +49,7 @@ attrs_icon_data: dict[str, dict[tuple, dict[str, str]]] = {
         },
         (False,): {
             "icon": "😡",
-            "label": "Mod override, non désinstalable",
+            "label": "Mod override, non désinstallable",
         },
     },
 }
