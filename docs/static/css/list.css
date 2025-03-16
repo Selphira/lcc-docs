@@ -201,6 +201,11 @@ label {
     margin: 2px;
 }
 
+.table .row .url img {
+    height: 24px;
+    width: 24px;
+}
+
 .search_game_items .search_item.game:has(#game-all) label:hover,
 #search .search_items label:hover {
     border: 1px solid var(--color-primary);
@@ -335,7 +340,7 @@ section {
 
 .table .row {
     display: grid;
-    grid-template-columns: minmax(20%, 320px) 158px minmax(90px, 120px) minmax(320px, 1fr) minmax(3%, 60px);
+    grid-template-columns: minmax(200px, 320px) minmax(20px, 50px) 158px minmax(90px, 120px) minmax(40px, 100px) minmax(320px, 1fr);
     line-height: 150%;
     column-gap: 4px;
     align-items: center;
@@ -364,7 +369,8 @@ section {
 
 .table .row .title {
     padding-inline: 8px;
-    font-size: var(--font-size-large);
+    font-size: var(--font-size-medium);
+    font-weight: bold;
 }
 
 .table .row.mod {
@@ -389,15 +395,16 @@ a.discret:hover {
     text-decoration: none;
 }
 
-.table .row .name,
-.table .row .icons {
+.table .row .name {
     text-align: unset;
     margin-block: 2px;
 }
 
 .table .row .icons {
-    display: flex;
-    column-gap: 10px;
+    /*column-gap: 10px;*/
+    font-size: var(--font-size-medium);
+    line-height: initial;
+    justify-self: center;
 }
 
 .table .jeu {
@@ -414,7 +421,6 @@ a.discret:hover {
     padding: 3px;
     margin: 2px;
     color: var(--color-primary);
-    font-weight: bold;
 }
 
 .table .team,
@@ -458,12 +464,44 @@ a.discret:hover {
     font-size: var(--font-size-medium);
 }
 
+.table .row .url a:has(img) {
+    background-color: #655949;
+    border-radius: 20px;
+    line-height: 9px;
+    padding: 3px;
+    color: var(--color-primary);
+    font-weight: bold;
+}
+
+.table .row .url a:has(img):hover {
+    background-color: #FF6600;
+}
+
+.table .row .url img {
+    border-radius: 20px;
+}
+
+.table .row .url .link-0 {
+    grid-column-start: 1;
+}
+
+.table .row .url .link-1 {
+    grid-column-start: 2;
+}
+
+.table .row .url .link-2 {
+    grid-column-start: 3;
+}
+
+.table .row .url .link-3 {
+    grid-column-start: 4;
+}
+
 summary {
     cursor: pointer;
 }
 
 summary:not(.no-summary-style) {
-    font-weight: bold;
     margin-bottom: 4px;
 }
 
@@ -473,10 +511,12 @@ details summary:hover {
 
 details summary::marker {
     content: '▸ ';
+    color: var(--color-primary);
 }
 
 details[open] > summary::marker {
     content: '▾ ';
+    color: var(--color-primary);
 }
 
 @media screen and (max-width: 1400px) {
@@ -537,7 +577,7 @@ details[open] > summary::marker {
     }
 
     .table .row {
-        grid-template-columns: auto;
+        grid-template-columns: repeat(6, 1fr);
         gap: 2px;
     }
 
@@ -550,17 +590,38 @@ details[open] > summary::marker {
     }
 
     .table .row .title {
-        display: flex;
-        justify-content: space-between;
-        gap: 10px;
+        font-size: var(--font-size-large);
+        justify-self: left;
+    }
+
+    .table .row .title {
+        grid-column: 1/span 5;
+        padding-inline: 4px;
+    }
+    .table .row .icons {
+        grid-row-start: 1;
+        grid-column-start: 6;
+        justify-self: right;
+    }
+    .table .row .team {
+        grid-row-start: 2;
+        grid-column: 1/span 3;
+        justify-self: left;
+    }
+    .table .row .jeu {
+        grid-row-start: 2;
+        grid-column: 4/span 3;
+        justify-self: right;
+    }
+    .table .row .url {
+        grid-row-start: 3;
+        grid-column: 1/span 6;
     }
 
     .table .row .desc {
-        grid-row-start: 5;
-    }
-
-    .table .row .url {
         grid-row-start: 4;
+        grid-column: 1/span 6;
+        padding-inline: 4px;
     }
 
     .table .jeu {
@@ -578,7 +639,6 @@ details[open] > summary::marker {
         display: grid;
         grid-auto-flow: column;
         justify-self: center;
-        margin-block: 8px;
     }
 
     .table .team p {
