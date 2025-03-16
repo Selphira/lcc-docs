@@ -328,6 +328,7 @@ section {
     border-color: var(--color-secondary);
     border-radius: 7px;
     box-shadow: 8px 8px 15px black;
+    padding-bottom: 1em;
 }
 
 .category_name {

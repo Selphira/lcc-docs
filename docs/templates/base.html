@@ -112,9 +112,9 @@
                         placeholder="Nom du mod"
                         oninput="filterMod()">
             </section>
-            <section class="table">
-                {% for category, mods in categories.items() %}{% include "category.html" %}{% endfor %}
-            </section>
+
+                {% for category, mods in categories.items() %}<section class="table">{% include "category.html" %}</section>{% endfor %}
+
         </div>
     </body>
 </html>
