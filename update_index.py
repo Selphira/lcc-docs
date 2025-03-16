@@ -11,7 +11,7 @@ from settings import CategoryEnum, Games, attrs_icon_data
 
 def main(env):
     root = Path.cwd()
-    with open(root / "mods.json", "r") as f:
+    with open(root / "mods.json", "r", encoding="utf-8") as f:
         mods = json_load(f)
     # with open("mods.yaml", "r") as f:
     #     mods = yaml.safe_load(f)
@@ -33,7 +33,7 @@ def main(env):
         mod_length=len(mods),
     )
 
-    with open(root / "docs" / "index.html", "w") as f:
+    with open(root / "docs" / "index.html", "w", encoding="utf-8") as f:
         f.write(page_html)
 
 
