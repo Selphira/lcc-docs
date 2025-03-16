@@ -341,7 +341,7 @@ section {
 
 .table .row {
     display: grid;
-    grid-template-columns: minmax(200px, 320px) minmax(20px, 50px) 158px minmax(90px, 120px) minmax(40px, 100px) minmax(320px, 1fr);
+    grid-template-columns: minmax(200px, 100%) minmax(20px, 50px) minmax(150px, 300px) minmax(90px, 150px) minmax(40px, 120px);
     line-height: 150%;
     column-gap: 4px;
     align-items: center;
@@ -381,9 +381,11 @@ section {
 .table .row.mod.hidden {
     display: none;
 }
-
+summary a * {
+    pointer-events: none;
+}
 a.discret {
-    display: block;
+    /*display: block;*/
     width: fit-content;
 }
 
@@ -450,10 +452,17 @@ a.discret:hover {
 }
 
 .table .row .desc {
+    display: none;
+    grid-column: 1/span 5;
+    grid-row: 2;
     padding-inline: 12px;
     font-size: var(--font-size-medium);
     height: 100%;
+}
+
+details.title[open] ~ .desc {
     display: grid;
+    padding: 1em 5em;
 }
 
 .table .row .url {

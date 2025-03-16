@@ -7,13 +7,12 @@
             <p>Compatibilités</p>
             <p>Auteurs</p>
             <img src="{{ static }}img/download.png" title="Téléchargement" alt="Image de téléchargement" width="42" height="42">
-            <p>Description / Notes</p>
         </div>
         {% for mod in mods %}
             <div class="row mod" id="{{ mod.id }}">
-                <div class="column title">
-                    <a class="discret name" href="#{{ mod.id }}">{{ mod.name }}</a>
-                </div>
+                <details class="column title" id="mod{{ mod.id }}">
+                    <summary><a class="discret name" href="#{{ mod.id }}" onclick="document.getElementById('mod{{ mod.id }}').toggleAttribute('open')">{{ mod.name }}</a></summary>
+                </details>
                 <div class="column icons">
                     {% for icon in mod.icons %}<span aria-label='{{ icon.label }}'>{{ icon.icon }}</span>{% endfor %}
                 </div>
@@ -41,15 +40,14 @@
                         </a>
                     {% endfor %}
                 </div>
-                <details class="column desc">
-                    <summary>Description</summary>
+                <div class="column desc">
                     <div class="content">
                         {{ mod.get_description()|safe }}
                         {% if mod.get_notes()|length > 0 %}
                         <br/><br/>{% for note in mod.get_notes() %}{{ note|safe }}{% if not loop.last %}<br/>{% endif %}{% endfor %}
                         {% endif %}
                     </div>
-                </details>
+                </div>
             </div>
         {% endfor %}
     </div>
