@@ -6,14 +6,14 @@ class ModManager:
     mod_filename: str = "mods.json"
     root = Path.cwd()
 
-    @staticmethod
-    def load() -> dict:
-        with open(__class__.root / __class__.mod_filename, "r", encoding="utf-8") as f:
+    @classmethod
+    def load(cls) -> dict:
+        with open(cls.root / cls.mod_filename, "r", encoding="utf-8") as f:
             return json.load(f)
 
-    @staticmethod
-    def export(mods: dict) -> None:
+    @classmethod
+    def export(cls, mods: dict) -> None:
         assert mods, "Mods not loaded"
 
-        with open(__class__.root / __class__.mod_filename, "w", encoding="utf-8") as f:
+        with open(cls.root / cls.mod_filename, "w", encoding="utf-8") as f:
             json.dump(mods, f, indent=4, ensure_ascii=False)
