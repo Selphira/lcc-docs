@@ -201,11 +201,6 @@ label {
     margin: 2px;
 }
 
-.table .row .url img {
-    height: 24px;
-    width: 24px;
-}
-
 .search_game_items .search_item.game:has(#game-all) label:hover,
 #search .search_items label:hover {
     border: 1px solid var(--color-primary);
@@ -341,7 +336,7 @@ section {
 
 .table .row {
     display: grid;
-    grid-template-columns: minmax(200px, 100%) minmax(20px, 50px) minmax(150px, 300px) minmax(90px, 150px) minmax(40px, 120px);
+    grid-template-columns: minmax(200px, 100%) minmax(20px, 50px) minmax(150px, 300px) minmax(90px, 150px) minmax(40px, 140px);
     line-height: 150%;
     column-gap: 4px;
     align-items: center;
@@ -467,6 +462,7 @@ details.title[open] ~ .desc {
 
 .table .row .url {
     display: grid;
+    grid-template-columns: repeat(4, 1fr);
     column-gap: 4px;
     justify-self: center;
     justify-items: center;
@@ -489,22 +485,6 @@ details.title[open] ~ .desc {
 
 .table .row .url img {
     border-radius: 20px;
-}
-
-.table .row .url .link-0 {
-    grid-column-start: 1;
-}
-
-.table .row .url .link-1 {
-    grid-column-start: 2;
-}
-
-.table .row .url .link-2 {
-    grid-column-start: 3;
-}
-
-.table .row .url .link-3 {
-    grid-column-start: 4;
 }
 
 summary {

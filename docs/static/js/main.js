@@ -112,7 +112,7 @@ function filterByCategory() {
   if (categoryChecked && categoryChecked.value !== "") {
     categories.forEach(category => {
       let categoryName = category.getAttribute("data-name")
-      category.style.display = categoryChecked.value == categoryName ? "" : "none"
+      category.parentElement.style.display = categoryChecked.value == categoryName ? "" : "none"
     })
   } else {
     categories.forEach(category => category.style.display = "")

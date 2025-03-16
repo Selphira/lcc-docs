@@ -172,13 +172,14 @@ class Mod:
         return auto_notes
 
     def get_team_str(self) -> str:
-        match self.team:
+        team_html = [f"<span class='translator'>{member}</span>" for member in self.team]
+        match team_html:
             case ():
                 return ""
             case (only_one,):
-                return f"<span class='translator'>{only_one}</span>"
+                return only_one
             case (*without_last, last):
-                return "<span class='translator'>" + "</span>, <span class='translator'>".join(without_last) + f"</span> et <span class='translator'>{last}</span>"
+                return ", ".join(without_last) + f" et {last}"
 
     def get_notes(self) -> list:
         return [self.convert_txt(note) for note in self.notes + self.get_auto_notes()]
