@@ -195,7 +195,7 @@ label {
     cursor: pointer;
     background-color: #655949;
     border-radius: 5px;
-    font-size: 11px;
+    font-size: var(--font-size-medium);
     font-weight: bold;
     line-height: 12px;
     margin: 2px;
