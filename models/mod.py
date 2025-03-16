@@ -172,7 +172,8 @@ class Mod:
         return auto_notes
 
     def get_team_str(self) -> str:
-        match self.team:
+        team_html = [f"<span class='translator'>{member}</span>" for member in self.team]
+        match team_html:
             case ():
                 return ""
             case (only_one,):

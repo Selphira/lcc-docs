@@ -1,6 +1,4 @@
-<div class="searchs">
-    <div id="search_game">
-        <h3>Jeu :</h3>
+    <fieldset id="game-select">
         <div class="search_game_items">
             <div class="search_item game">
                 <input type="radio" id="game-all" oninput="filterMod()" name="game" value="" checked>
@@ -9,76 +7,55 @@
             {% for game in games %}
                 <div class="search_item game">
                     <input type="radio" id="{{ game }}" oninput="filterMod()" name="game" value="{{ game }}">
-                    <label for="{{ game }}">{{ game }}</label>
+                    <label for="{{ game }}"><img src="{{ static }}img/ie_games_{{ game.lower() }}.png" height="66" alt="{{ game }}" title="{{ game }}"/></label>
                 </div>
             {% endfor %}
         </div>
-    </div>
-    <div id="search_translate">
-        <fieldset id="translation-select">
-            <legend>
-                <h3>État de la traduction</h3>
-            </legend>
-            <div>
-                <input type="radio"
-                       id="translation-all"
-                       name="trans"
-                       value=""
-                       oninput="filterMod()"
-                       checked />
+    </fieldset>
+    <fieldset id="translation-select">
+        <legend>État de la traduction</legend>
+        <div class="search_items">
+            <div class="search_item translation">
+                <input type="radio" id="translation-all" oninput="filterMod()" name="trans" value="" checked />
                 <label for="translation-all">Tous</label>
             </div>
             {% for icon_data in attrs_icon_data.translation_state.values() %}
-                <div>
-                    <input type="radio"
-                           id="translation-{{ loop.index }}"
-                           name="trans"
-                           value="{{ icon_data.icon }}"
-                           oninput="filterMod()" />
-                    <label for="translation-{{ loop.index }}">{{ icon_data.icon }} {{ icon_data.label }}</label>
-                </div>
+            <div class="search_item translation">
+                <input type="radio" id="translation-{{ loop.index }}" oninput="filterMod()" name="trans" value="{{ icon_data.icon }}" />
+                <label for="translation-{{ loop.index }}">{{ icon_data.icon }} {{ icon_data.label }}</label>
+            </div>
             {% endfor %}
-        </fieldset>
-    </div>
-    <div id="search_category">
-        <h3>Catégorie :</h3>
-        <div class="search_category_items">
-            <div class="search_item category">
+        </div>
+    </fieldset>
+
+    <fieldset id="category-select">
+        <legend>Catégorie</legend>
+        <div class="search_items">
+            <div class="search_item">
                 <input type="radio" id="category-all" oninput="filterByCategory()" name="cat" value="" checked>
                 <label for="category-all">Toutes</label>
             </div>
             {% for category in categories.keys() %}
-                <div class="search_item category">
-                    <input type="radio" id="{{ category.value }}" oninput="filterByCategory()" name="cat" value="{{ category.value }}">
+                <div class="search_item">
+                    <input type="radio" id="{{ category.value }}" oninput="filterByCategory()" name="cat" value="{{ category.value }}"/>
                     <label for="{{ category.value }}">{{ category.value }}</label>
                 </div>
             {% endfor %}
         </div>
-    </div>
-    <div id="search_quality">
-        <fieldset id="quality-select">
-            <legend>
-                <h3>Qualité du mod</h3>
-            </legend>
-            <div>
-                <input type="radio"
-                       id="quality-all"
-                       name="quality"
-                       value=""
-                       oninput="filterMod()"
-                       checked />
+    </fieldset>
+
+    <fieldset id="quality-select">
+        <legend>Qualité du mod</legend>
+        <div class="search_items">
+            <div class="search_item">
+                <input type="radio" id="quality-all" oninput="filterMod()" name="quality" value="" checked />
                 <label for="quality-all">Toutes</label>
             </div>
             {% for icon_data in attrs_icon_data.safe.values() %}
-                <div>
-                    <input type="radio"
-                           id="quality-{{ loop.index }}"
-                           name="quality"
-                           value="{{ icon_data.icon }}"
-                           oninput="filterMod()" />
+                <div class="search_item">
+                    <input type="radio" id="quality-{{ loop.index }}" oninput="filterMod()" name="quality" value="{{ icon_data.icon }}"/>
                     <label for="quality-{{ loop.index }}">{{ icon_data.icon }} {{ icon_data.label }}</label>
                 </div>
             {% endfor %}
-        </fieldset>
-    </div>
-</div>
+        </div>
+    </fieldset>
