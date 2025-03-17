@@ -30,6 +30,10 @@ search = 'version="{current_version}"'
 src = "docs/templates/base.html"
 search = '<span id="version">{current_version}'
 
+[[before_commit]]
+name = "Update uv.lock"
+cmd = "uv lock"
+
 # You can specify a list of commands to
 # run after the files have been patched
 # and before the git commit is made
