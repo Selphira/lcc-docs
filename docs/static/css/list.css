@@ -415,6 +415,7 @@ a.discret:hover {
     display: flex;
     flex-wrap: wrap;
     gap: 3px;
+    padding: 2px 0;
 }
 
 .table .jeu p {
@@ -423,7 +424,7 @@ a.discret:hover {
     font-size: 11px;
     line-height: 12px;
     padding: 3px;
-    margin: 2px 0;
+    margin: 0;
     color: var(--color-primary);
 }
 
