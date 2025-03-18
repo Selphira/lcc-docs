@@ -337,7 +337,7 @@ section {
 
 .table .row {
     display: grid;
-    grid-template-columns: minmax(200px, 100%) minmax(20px, 50px) minmax(150px, 300px) minmax(90px, 150px) minmax(40px, 140px);
+    grid-template-columns: minmax(200px, 100%) minmax(20px, 60px) minmax(150px, 300px) minmax(90px, 150px) minmax(40px, 140px);
     line-height: 150%;
     column-gap: 4px;
     align-items: center;
@@ -423,7 +423,7 @@ a.discret:hover {
     font-size: 11px;
     line-height: 12px;
     padding: 3px;
-    margin: 0;
+    margin: 2px 0;
     color: var(--color-primary);
 }
 
