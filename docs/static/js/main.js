@@ -134,9 +134,11 @@ document.addEventListener("DOMContentLoaded", function () {
   }
 
   // Ajustement au chargement de la page
-  if (window.location.hash) {
-    adjustScroll(window.location.hash)
-  }
+  window.addEventListener("load", (event) => {
+    if (window.location.hash) {
+      adjustScroll(window.location.hash)
+    }
+  });
 
   // Ajustement au clic sur un lien avec une ancre
   document.querySelectorAll('a[href^="#"]').forEach(link => {
