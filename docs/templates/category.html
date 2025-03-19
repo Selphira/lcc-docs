@@ -11,7 +11,7 @@
         {% for mod in mods %}
             <div class="row mod" id="{{ mod.id }}">
                 <details class="column title" id="mod{{ mod.id }}">
-                    <summary><a class="discret name" href="#{{ mod.id }}" onclick="document.getElementById('mod{{ mod.id }}').toggleAttribute('open')">{{ mod.name }}</a></summary>
+                    <summary class="name"><a href="#{{ mod.id }}"></a>{{ mod.name }}</summary>
                 </details>
                 <div class="column icons">
                     {% for icon in mod.icons %}<span aria-label='{{ icon.label }}'>{{ icon.icon }}</span>{% endfor %}
