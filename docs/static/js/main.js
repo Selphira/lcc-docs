@@ -146,7 +146,15 @@ document.addEventListener("DOMContentLoaded", function () {
       event.preventDefault()
       let hash = this.getAttribute("href")
       history.pushState(null, null, hash)
-      adjustScroll(hash)
+      adjustScroll(window.location.hash)
+    })
+  })
+
+  // Changement de hash sans rechargement ou déplacement
+  document.querySelectorAll('.update-hash-parent').forEach(balise => {
+    balise.addEventListener("click", () => {
+      let hash = balise.parentElement.id
+      history.replaceState(null, null, window.location.href.split("#")[0] + `#${hash}`)
     })
   })
 })
