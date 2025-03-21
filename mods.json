@@ -2230,7 +2230,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -4610,7 +4609,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-03",
         "tp2": "bggo"
     },
     {
@@ -5305,7 +5304,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-03",
         "tp2": "d2-script"
     },
     {
@@ -6002,14 +6001,13 @@
     },
     {
         "name": "Brandock the Mage",
-        "description": "Ce mod ajoute un PNJ recrutable pour toute la saga Baldur's Gate. Il est nativement compatible avec BG:EE, SoD, BGII, BGT, BG2:EE et EET. Pour l'instant, seul le contenu BG1 du mod est terminé.|C'est un mage chaotique bon que vous trouverez sur la Côte des Épées, recherchant de l'aide pour combattre un ogre afin de récupérer ses biens. Selon qu'il se trouve ou non dans le groupe lorsque Mélicamp est amené à Thalantyr, il aura une quête supplémentaire qui l'écartera du groupe pendant un certain temps. Brandock est très intéressé par les livres de magie. Chaque fois qu'il a le temps d'étudier les livres de magie que le groupe rencontre dans le jeu, cela augmente son score de connaissance. Il est amical et serviable, mais il faudra un peu de temps avant qu'il s'ouvre et dise au PC d'où il vient, pour des raisons qu'il expliquera volontiers lorsqu'il sera prêt à le faire.|Si votre groupe comprend déjà 6 membres, il pourra vous rejoindre comme \"7eme membre\" et vous suivra à la manière d'un familier.",
+        "description": "Ce mod ajoute un PNJ recrutable pour toute la saga Baldur's Gate. Il est nativement compatible avec BG:EE, SoD, BGII, BGT, BG2:EE et EET. Pour l'instant, seul le contenu BG1 du mod est terminé.|C'est un mage chaotique bon que vous trouverez sur la Côte des Épées, recherchant de l'aide pour combattre un ogre afin de récupérer ses biens. Selon qu'il se trouve ou non dans le groupe lorsque Mélicamp est amené à Thalantyr, il aura une quête supplémentaire qui l'écartera du groupe pendant un certain temps. Brandock est très intéressé par les livres de magie. Chaque fois qu'il a le temps d'étudier les livres de magie que le groupe rencontre dans le jeu, cela augmente son score de connaissance. Il est amical et serviable, mais il faudra un peu de temps avant qu'il s'ouvre et dise au PC d'où il vient, pour des raisons qu'il expliquera volontiers lorsqu'il sera prêt à le faire.|Si votre groupe comprend déjà 6 membres, il pourra vous rejoindre comme 7ème membre et vous suivra à la manière d'un familier.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/brandock-der-magier.48/",
             "https://github.com/Gitjas/Brandock_the_Mage"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Kit"
+            "PNJ recrutable"
         ],
         "games": [
             "BGT",
@@ -6190,8 +6188,7 @@
             "https://downloads.weaselmods.net/download/bristlelick/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Kit"
+            "PNJ recrutable"
         ],
         "games": [
             "BGEE",
@@ -8609,7 +8606,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-03",
         "tp2": "d2-mira"
     },
     {
@@ -8640,7 +8637,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-03",
         "tp2": "d2-weapon"
     },
     {
@@ -8892,7 +8889,6 @@
             "es",
             "en",
             "fr",
-            "de",
             "it",
             "pl",
             "ru",
@@ -9027,7 +9023,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-03",
         "tp2": "Item_Pack"
     },
     {
@@ -9328,7 +9324,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-05",
+        "last_update": "2025-03",
         "tp2": "Derats_kits"
     },
     {
@@ -9359,7 +9355,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-03",
         "tp2": "Derats_dawap"
     },
     {
@@ -9747,10 +9743,8 @@
         "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "cz",
             "en",
-            "fr",
-            "pl"
+            "fr"
         ],
         "status": "active",
         "last_update": "2019-02",
@@ -12870,12 +12864,13 @@
     },
     {
         "name": "Foundling: Between the Shades",
-        "description": "Ce mod fait partie de la série Colours of Infinity, développée par Lava Del'Vortel. Froid et calculateur, Foundling est un esclave de Thaxll'ssillvia, le dragon d'ombre, qui veut se libérer de son influence. il ne peut pas s'opposer seul à son maître, mais l'arrivée de l'enfant de Bhaal pourrait peut-être changer sa situation. C'est un adepte de la magie de l'ombre qui ne peut pas lancer les sorts de mage traditionnel, mais dispose de toute une gamme alternative. Le mod apporte des quêtes, des lieux, des rencontres. Sa quête commence dès la mort de son maître.",
+        "description": "Ce mod fait partie de la série Colours of Infinity, développée par Lava Del'Vortel. Froid et calculateur, Foundling est un esclave de Thaxll'ssillvia, le dragon d'ombre, qui veut se libérer de son influence. il ne peut pas s'opposer seul à son maître, mais l'arrivée de l'enfant de Bhaal pourrait peut-être changer sa situation. C'est un adepte de la magie de l'ombre qui ne peut pas lancer les sorts de mage traditionnel, mais dispose de toute une gamme alternative. Le mod apporte des quêtes, des lieux, des rencontres. Sa quête commence dès la mort de son maître.|FOR 14, DEX 17, CON 11, INT 17, SAG 11, CHA 7.",
         "urls": [
             "https://downloads.weaselmods.net/download/foundling-between-the-shades/"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ recrutable",
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -18324,7 +18319,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-03",
         "tp2": "KhalidBG2"
     },
     {
@@ -18421,7 +18416,7 @@
     },
     {
         "name": "KimNPC",
-        "description": "Incroyablement belle, délicieusement sensuelle... et terriblement chieuse, Kim la pirate fait escale à Athkatla. Saurez-vous l'apprivoiser ? Ce mod français (hé oui) a été développé sur ces forums par GrenouilleBleue. Il ajoute un nouveau PNJ, Kim, et une quête propre ainsi qu'une romance.|Voici ses caractéristiques : FOR 17, DEX 18, CON 10, INT 14, SAG 7 et CHA 16.",
+        "description": "Incroyablement belle, délicieusement sensuelle... et terriblement chieuse, Kim la pirate fait escale à Athkatla. Saurez-vous l'apprivoiser ? Ce mod français (hé oui) a été développé sur ces forums par Grenouillebleue. Il ajoute un nouveau PNJ, Kim, et une quête propre ainsi qu'une romance.|Voici ses caractéristiques : FOR 17, DEX 18, CON 10, INT 14, SAG 7 et CHA 16.",
         "urls": [
             "https://akadis.baldursgateworld.fr/Kim/KimFr.html",
             "https://github.com/The-Gate-Project/Kim_NPC/"
@@ -20874,7 +20869,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-02",
         "tp2": "might_and_guile"
     },
     {
@@ -21146,7 +21141,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2025-03",
         "tp2": "d2-randomkits"
     },
     {
@@ -23248,7 +23243,7 @@
             "https://downloads.weaselmods.net/download/of-heirlooms-and-classes/"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Sort et objet"
         ],
         "games": [
             "BG2EE",
@@ -25940,7 +25935,7 @@
         "tp2": "zgtweaks"
     },
     {
-        "name": "Random No more Empty Containers",
+        "name": "Random Nomore Empty Containers",
         "description": "Ce mod remplit les conteneurs vides du jeu avec des objets. Pour les moddeurs, ils sont choisis aléatoirement dans les fichiers RNDTRE01.2da et RNDTRE02.2da.",
         "urls": [
             "https://forums.beamdog.com/discussion/70083/"
@@ -28069,17 +28064,11 @@
         "notes": [
             "Obsolète au profit de : [[SubtleD's Item Tweaks]], [[Combat Skills & Proficiencies]] et [[SubtleD's Stat Overhauls]]."
         ],
-        "translation_state": "yes",
+        "translation_state": "no",
         "safe": 0,
         "languages": [
-            "cz",
-            "de",
             "en",
-            "es",
-            "fr",
-            "kr",
-            "pl",
-            "ru"
+            "pl"
         ],
         "status": "obsolete",
         "last_update": "2023-09",
@@ -29200,7 +29189,9 @@
             "https://downloads.weaselmods.net/download/skie-the-cost-of-one-girls-soul/"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ recrutable",
+            "Quête",
+            "Sort et objet"
         ],
         "games": [
             "BG2EE",
@@ -29344,7 +29335,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-10",
+        "last_update": "2025-03",
         "tp2": "SkitiaNPCs"
     },
     {
@@ -29440,7 +29431,7 @@
         "tp2": "sleep_fix"
     },
     {
-        "name": "Slightly Improved Illyich",
+        "name": "Slightly Improved Ilyich",
         "description": "Lassé(e) de combattre ce groupe de duergars décidément trop facile pour vos gros bras ou vos sortilèges destructeurs - malgré le fait que vous n'en ayez qu'assez peu au début du jeu ? Mais le composant `Ilyich amélioré` de Weimer [[Tactics]] vous a déjà fait arracher tous les cheveux qu'il vous restait - ayant déjà arraché la première moitié en essayant d'installer correctement votre interminable liste de mods ? Alors, ce mod vous plaira probablement ! Il améliore les duergars de la prison d'Irenicus, sans toutefois les rendre invincibles... Notez qu'il ajoute également quelques autres petites choses ; elles sont listées dans le readme comme d'habitude.",
         "urls": [
             "https://forum.sigil.cz/viewtopic.php?t=553",
@@ -29473,7 +29464,7 @@
         ],
         "status": "active",
         "last_update": "2025-02",
-        "tp2": "SlightlyImprovedIllyich"
+        "tp2": "SlightlyImprovedIlyich"
     },
     {
         "name": "Slowdown Fixes",
@@ -29912,10 +29903,7 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr",
-            "pl",
-            "ru",
-            "es"
+            "fr"
         ],
         "status": "active",
         "last_update": "2020-08",
@@ -30497,7 +30485,7 @@
         "name": "Summon Bhaalspawn (Sandra NPC)",
         "description": "Ce mod vous permet de recruter sur les quais cette paladine chasseuse de mort-vivants. Pas de romance et des dialogues embryonnaires, mais quelques banters et une surprise spéciale pour Imoen. Efficace comme tank anti-vampire.",
         "urls": [
-            "https://github.com/11jo/Summon_Bhaalspawn"
+            "https://github.com/The-Gate-Project/Summon_Bhaalspawn"
         ],
         "categories": [
             "PNJ One Day"
@@ -30511,16 +30499,19 @@
         "authors": [
             "MajorTomSawyer"
         ],
-        "team": [],
+        "team": [
+            "Freddy Gwendo"
+        ],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
-            "es"
+            "es",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2021-12",
+        "last_update": "2025-03",
         "tp2": "sbs"
     },
     {
@@ -31073,7 +31064,7 @@
     },
     {
         "name": "Tactics",
-        "description": "Ce mod est basé sur les combats et la stratégie, et pratiquement rien d'autre. Il compile d'anciens mods d'amélioration de certains combats (comme le mod [[Slightly Improved Illyich]], le mod Ritual, et d'autres) et ajoute les siens propres, et rend le jeu très difficile et tactique. À noter que vous pouvez installer chaque composant séparément. Il ajoute également deux profils (Archer pour les guerriers et Anti-paladin). Attention, ce mod est idéal pour rééquilibrer le jeu, mais ne rajoute que très peu de quêtes, le but est d'augmenter le niveau de difficulté, rien d'autre... il serait trop long de citer tous les composants de ce mod... Consultez le readme pour plus de précisions.",
+        "description": "Ce mod est basé sur les combats et la stratégie, et pratiquement rien d'autre. Il compile d'anciens mods d'amélioration de certains combats (comme le mod [[Slightly Improved Ilyich]], le mod Ritual, et d'autres) et ajoute les siens propres, et rend le jeu très difficile et tactique. À noter que vous pouvez installer chaque composant séparément. Il ajoute également deux profils (Archer pour les guerriers et Anti-paladin). Attention, ce mod est idéal pour rééquilibrer le jeu, mais ne rajoute que très peu de quêtes, le but est d'augmenter le niveau de difficulté, rien d'autre... il serait trop long de citer tous les composants de ce mod... Consultez le readme pour plus de précisions.",
         "urls": [
             "https://weidu.org/tactics.html",
             "https://forums.beamdog.com/discussion/41242/"
@@ -32740,7 +32731,8 @@
             "https://downloads.weaselmods.net/download/the-journey-to-the-whin-hill/"
         ],
         "categories": [
-            "Quête"
+            "Quête",
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -33549,7 +33541,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-03",
         "tp2": "d2-workshopkits"
     },
     {
@@ -34062,7 +34054,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-03",
         "tp2": "TomeAndBlood"
     },
     {
@@ -34122,7 +34114,7 @@
         "tp2": "DNT"
     },
     {
-        "name": "Tortured Soul",
+        "name": "Tortured Souls Lite",
         "description": "Le concepteur d'origine a poursuivi le développement du mod dans une version stand-alone, avec moults remaniements de textes. Cependant, bien que compatible avec [[Baldurdash-WeiDU]] 1.75 (obligatoire) et avec les autres mods de Vlad que sont Keldorn's Romance (fortement recommandé) et [[Never Ending Journey]]3 (obligatoire), elle est incompatible avec la plupart des mods WeiDU y compris le [[BG2 FixPack]] !",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394",
@@ -34153,8 +34145,7 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en",
-            "ru"
+            "en"
         ],
         "status": "active",
         "last_update": "2023-05",
@@ -34736,7 +34727,7 @@
             "https://github.com/Pocket-Plane-Group/Turnabout"
         ],
         "categories": [
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -35490,7 +35481,7 @@
             "sw"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-03",
         "tp2": "ua"
     },
     {
@@ -37139,7 +37130,7 @@
             "br"
         ],
         "status": "active",
-        "last_update": "2024-02",
+        "last_update": "2025-03",
         "tp2": "wildmage"
     },
     {
@@ -39969,7 +39960,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-03",
         "tp2": "XzarAndMontaron"
     },
     {
@@ -40516,9 +40507,7 @@
         "team": [
             "jazira"
         ],
-        "notes": [
-            "Ce mod est encore en cours de développement."
-        ],
+        "notes": [],
         "translation_state": "todo",
         "safe": 1,
         "languages": [
@@ -41392,7 +41381,8 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-07",
@@ -41540,7 +41530,8 @@
         "name": "Call of the Lost Goddess",
         "description": "Ce mod ajoute une grosse quête d'une dizaine d'heures. Près de 50 nouvelles zones sont créées avec de nouveaux monstres. Cette quête est librement inspirée du module d'aventure de la seconde édition \"For Duty and Deity\" écrit par Dale Donovan.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88425/"
+            "https://forums.beamdog.com/discussion/88425/",
+            "https://github.com/AciferBG/Call-of-the-Lost-Goddess"
         ],
         "categories": [
             "Quête"
@@ -41556,10 +41547,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de",
+            "en",
+            "cn"
+        ],
         "status": "active",
-        "last_update": "2024-10",
-        "tp2": ""
+        "last_update": "2025-03",
+        "tp2": "Godcall"
     },
     {
         "name": "Compass Of Womanhood",
@@ -41617,7 +41612,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2025-03",
         "tp2": "valkrana"
     },
     {
@@ -42015,7 +42010,8 @@
             "https://downloads.weaselmods.net/download/juniper-and-the-stone-leech/"
         ],
         "categories": [
-            "Quête"
+            "Quête",
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE"
@@ -42029,7 +42025,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-03",
         "tp2": "juniperandthestoneleech"
     },
     {
@@ -42228,16 +42224,19 @@
         "authors": [
             "Skitia"
         ],
-        "team": [],
+        "team": [
+            "Streen"
+        ],
         "notes": [],
-        "translation_state": "wip",
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2024-05",
+        "last_update": "2025-03",
         "tp2": "Nalia_at_Last"
     },
     {
@@ -42636,7 +42635,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-03",
         "tp2": "ZSTweaks"
     },
     {
@@ -43602,7 +43601,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-03",
         "tp2": "Reflections"
     },
     {
@@ -47277,9 +47276,9 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "missing",
         "last_update": "2023-02",
         "tp2": "non-weidu"
     },
@@ -47657,7 +47656,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2021-11",
+        "last_update": "2025-03",
         "tp2": "A7-TextureConvert"
     },
     {
@@ -47846,7 +47845,6 @@
         "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "en",
             "fr"
         ],
         "status": "active",
@@ -48897,11 +48895,38 @@
         "tp2": "exitem"
     },
     {
+        "name": "Areen NPC for BGIIEE",
+        "description": "Areen est un mage sauvage doué qui aborde son art de manière très sérieuse et académique. Bien qu'il ait des statistiques bien optimisées, il a aussi un problème qui peut être résolu progressivement au cours du jeu. Pour le moment il dispose de peu de banters avec les autres personnages Bioware. Il dispose aussi de quelques objets.",
+        "urls": [
+            "https://github.com/BE-Mods/Areen2"
+        ],
+        "categories": [
+            "PNJ recrutable"
+        ],
+        "games": [
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Boresal"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
+        "status": "wip",
+        "last_update": "2025-03",
+        "tp2": "areen"
+    },
+    {
         "name": "Areen",
         "description": "Areen est un mage sauvage doué qui aborde son art de manière très sérieuse et académique. Il peut être recruté au chapitre 1 et est très difficile à manquer. Bien qu'il ait des statistiques bien optimisées, il a aussi un problème qui peut être résolu progressivement au cours du jeu. Pour le moment il dispose de peu de banters avec les autres personnages Bioware. Il dispose aussi de quelques objets.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/39228-npc-mod-release-areen-the-wild-mage-for-bgee/",
-            "https://github.com/BE-Mods/Areen/"
+            "https://github.com/BE-Mods/Areen1"
         ],
         "categories": [
             "PNJ recrutable"
@@ -48920,7 +48945,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-03",
         "tp2": "AreenWildMage"
     }
 ]
