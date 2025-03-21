@@ -1,6 +1,14 @@
 # Lignes de bonne conduite du contributeur (WIP)
 
 
+## Le JSON c'est quoi ?
+
+Documentation sur le JSON : https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON
+
+Outil en ligne pour valider le format de votre json : https://jsonformatter.curiousconcept.com\
+Pour les utilisateurs de Notepad++ : https://github.com/molsonkiko/JsonToolsNppPlugin
+
+
 ## Le fichier .ini
 
 Parfois, les mods possèdent un fichier `.ini`. Plus d'informations [ici](https://www.gibberlings3.net/forums/topic/32516-tutorial-what-is-label-why-you-should-create-it-and-how-to-do-it-properly/).\
@@ -59,6 +67,16 @@ Les notes du mod écrites par les contributeurs pour compléter la description d
     - `ce mod existe depuis 3 ans` → `ce mod existe depuis 2017`
     - `Attention le troisième composant n'est pas compatible avec YY` → `Attention le composant XX n'est pas compatible avec YY`
 
+
+⚠️ Certaines notes sont automatiques.\
+On trouvera le code dans `Mod.get_auto_notes` dans `models/mods.py`.\
+En voici un résumé des notes automatiques qui ne sont donc pas à ajouter :
+- Noms des traducteurs
+- Mods EE qui datent d'avant la version 2.0
+- Mod non WeiDU (tp2="non-weidu")
+- Mod archivé (status="archived")
+- Mod disparu (status="missing")
+
 Les `aides` du champ `description` sont fonctionnelles dans les notes.
 
 
@@ -99,6 +117,13 @@ Parfois, un mod se situe au beau milieu d'une discussion. Dans la mesure du poss
 Cela concerne notamment les liens github.\
 La description du mod ne sera jamais suffisante et ne sera peut-être pas à jour. Il faut autant que possible, rediriger vers la page d'accueil avec le README, le code et la visualisation sur les releases etc… Cela donne un contexte bien plus pertinent que la page avec juste un lien de téléchargement.
 
+Cas particulier pour le forum **beamdog** : on retirera la fin de l'url qui n'est pas maintenable et complique les comparaisons, par exemple :\
+https://forums.beamdog.com/discussion/63741/ \
+plutôt que\
+https://forums.beamdog.com/discussion/63741/plip-plop-plup/
+
+
+
 
 ## categories
 
@@ -115,3 +140,7 @@ Quelques exemples :
 - Un mod d'`Interface` est souvent également `Cosmétique`. `Cosmétique` étant plus générique, on ne précisera que `Interface`.
 - Un mod peut ajouter un `PNJ recrutable` et rendre le `Kit` du personnage disponible pour le PJ. On garde `PNJ recutable` car c'est l'objectif du mod. De plus, on ne veut pas de description d'un personnage dans la catégorie `Kit`.
 - Un pack de `Sort et objet` peut être vendu chez des `Forgeron et marchand`. Pas de solution miracle. La description présente-t-elle les objets ou le marchand ? Si la réponse n'est pas évidente, il n'est pas interdit de mettre les deux catégories.
+
+
+## update_date
+Cette date au format `YYYY-MM` contient la date de la dernière mise à jour du mod.
