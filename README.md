@@ -11,7 +11,7 @@ Le fichier `mods.json` contient les informations nécessaires à la génération
 
 ### Le minimum vital
 
-[Python](https://www.python.org/downloads/)3.11+\
+[Python](https://www.python.org/downloads/)3.9+\
 [uv](https://docs.astral.sh/uv/getting-started/installation/), le gestionnaire de paquet
 
 ### Créez l'environnement virtuel
