@@ -2857,6 +2857,7 @@
         "description": "Si vous avez toujours rêvé d'acheter des bottes roses à Imoen, de connaître les derniers potins auprès des marchands d'Athkatla, d'en apprendre davantage sur la vie quotidienne dans cette ville, ce module est fait pour vous. Aurora's Shoes and Boots ajoute plus de 2 douzaines de paires de bottes, aussi utiles que stylées. Ajoutez à cela la présence d'Aurora, guerrière à la retraite de son état, qui piquera votre curiosité avec les derniers potins des nobles et autres gens du commun. Vous ferez également la connaissance de Tomthal, un gnome atteint d'un mystérieux mal, et de Karaea, sa sœur bien-aimée, tous deux vendeurs également. Plusieurs objets sont également disséminés à travers le jeu de façon aléatoire.",
         "urls": [
             "http://www.shsforums.net/files/file/831-auroras-shoes-and-boots/",
+            "https://github.com/Sampsca/Auroras-Shoes-and-Boots/",
             "https://github.com/Endarire/Aurora-s-Shoes-and-Boots-for-BG2"
         ],
         "categories": [
