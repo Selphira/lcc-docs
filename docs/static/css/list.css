@@ -283,12 +283,9 @@ section {
 #maindiv .warning {
     background-color: var(--color-background);
     border: 1px solid var(--color-primary);
-    font-size: 110%;
     line-height: 160%;
-    margin: 0 auto 1em;
-    padding: 10px;
+    padding: 1rem 2rem;
     text-align: justify;
-    width: 80%;
 }
 
 #maindiv .warning p.titre {
@@ -300,14 +297,14 @@ section {
 
 #maindiv .tables {
     display: grid;
-    grid-template-columns: 66% 33%;
+    grid-template-columns: 66% 34%;
+    gap: 1rem;
 }
 
 .legend {
     font-size: var(--font-size-medium);
     border: 1px solid var(--color-secondary);
     padding-inline: 32px;
-    margin-bottom: 1em;
 }
 
 .legend .title {
@@ -520,7 +517,7 @@ details[open]>summary::marker {
     }
 
     #maindiv .tables {
-        display: block;
+        grid-template-columns: 1fr;
     }
 
     #search {
