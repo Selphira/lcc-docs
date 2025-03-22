@@ -26940,7 +26940,7 @@
         ],
         "team": [],
         "notes": [
-            "Il existe un composant identique dans [[The Tweaks Anthology]]."
+            "Il est désormais obsolète et a été remplacé par [[The Tweaks Anthology]]."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -29037,7 +29037,7 @@
     },
     {
         "name": "Simple XP cap remover",
-        "description": "Ce mod supprime la limite de niveaux dans SoD.",
+        "description": "Ce mod supprime la limite de niveaux dans BGEE et SoD.",
         "urls": [
             "https://forums.beamdog.com/discussion/10212/"
         ],
@@ -29045,17 +29045,20 @@
             "Gameplay"
         ],
         "games": [
+            "BGEE",
             "SoD"
         ],
         "authors": [
             "mlnevese"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il est désormais obsolète et a été remplacé par [[The Tweaks Anthology]]."
+        ],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "obsolete",
         "last_update": "2016-04",
         "tp2": "non-weidu"
     },
