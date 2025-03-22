@@ -5,7 +5,8 @@
     --color-hover: #FF6600;
     --color-modder: #ADFF2F;
     --color-translator: #E3AFF6;
-    --font-size-medium: 12px;
+    --font-size-small: 12px;
+    --font-size-medium: 14px;
     --font-size-large: 16px;
     --background-primary: url(../img/fond_descr_forum.jpg);
     --background-secondary: url(../img/fond_entete_forum.avif);
@@ -198,7 +199,7 @@ label {
     cursor: pointer;
     background-color: var(--color-background);
     border-radius: 5px;
-    font-size: var(--font-size-medium);
+    font-size: var(--font-size-small);
     font-weight: bold;
     line-height: 12px;
     margin: 2px;
@@ -239,8 +240,7 @@ label {
     top: 0;
     height: 100%;
     z-index: 10;
-    padding-inline: 12rem;
-    margin-bottom: 1rem;
+    padding: 1rem 12rem;
 }
 
 #search_text input {
@@ -368,7 +368,7 @@ section {
 
 .table .row .title {
     padding-inline: 8px;
-    font-size: var(--font-size-medium);
+    font-size: var(--font-size-small);
     font-weight: bold;
 }
 
@@ -421,7 +421,7 @@ section {
 }
 
 .team summary {
-    font-size: var(--font-size-medium);
+    font-size: var(--font-size-small);
 }
 
 .translator {
@@ -433,7 +433,7 @@ section {
     color: var(--color-modder);
     text-align: unset;
     margin: 0;
-    font-size: var(--font-size-medium);
+    font-size: var(--font-size-small);
     font-weight: bold;
 }
 
@@ -442,7 +442,7 @@ section {
     grid-column: 1/span 5;
     grid-row: 2;
     padding-inline: 12px;
-    font-size: var(--font-size-medium);
+    font-size: var(--font-size-small);
     height: 100%;
 }
 
@@ -457,7 +457,7 @@ details.title[open]~.desc {
     column-gap: 4px;
     justify-items: center;
     align-items: center;
-    font-size: var(--font-size-medium);
+    font-size: var(--font-size-small);
 }
 
 .table .row .url a:has(img) {
@@ -663,7 +663,7 @@ details[open]>summary::marker {
 .icons [aria-label]:focus::after {
     /* on affiche aria-label */
     content: attr(aria-label);
-    font-size: var(--font-size-medium);
+    font-size: var(--font-size-small);
     position: absolute;
     top: -2.5rem;
     /* on centre horizontalement */
