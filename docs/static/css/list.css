@@ -509,7 +509,7 @@ details[open]>summary::marker {
 
 @media screen and (max-width: 900px) {
     body {
-        padding-inline: 16px;
+        padding-inline: 4px;
     }
 
     #header {
@@ -608,8 +608,7 @@ details[open]>summary::marker {
 
     .table .jeu {
         display: flex;
-        justify-self: center;
-        justify-content: center;
+        justify-content: end;
     }
 
     .table .team .content {
@@ -642,6 +641,10 @@ details[open]>summary::marker {
 
     details.title[open]~.desc {
         padding: 1em 2em;
+    }
+
+    .legend {
+        padding-inline: 16px;
     }
 }
 
