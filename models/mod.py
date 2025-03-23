@@ -57,7 +57,12 @@ class Mod:
         # Pour éviter d'afficher des liens morts tout en les conservant
         if self.get_status() == ModStatus.MISSING:
             return list()
-        return [Url(url) for url in self.urls]
+        urls = self.urls.copy()
+        # troncate url to remove zip and rar files
+        for i, url in enumerate(urls):
+            if self.url_is_direct_archive(url):
+                urls[i] = url.rsplit("/", 1)[0]
+        return [Url(url) for url in urls]
 
     @property
     def icons(self) -> list[Icon]:
@@ -169,7 +174,23 @@ class Mod:
             auto_notes.append(
                 f"Traducteur{'s' * (len(self.team) > 1)} 🇲🇫 : {self.get_team_str()}"
             )
+
+        # Don't download files directly
+        for url in self.urls:
+            if self.url_is_direct_archive(url):
+                filename = url.rsplit("/", 1)[-1]
+                auto_notes.append(f"Fichier `{filename}`.")
+
         return auto_notes
+
+    def url_is_direct_archive(self, url: str) -> bool:
+        url = url.lower()
+        return (
+            url.endswith(".rar")
+            or url.endswith(".zip")
+            or url.endswith(".7z")
+            or url.endswith(".exe")
+        ) and not url.startswith("https://www.mediafire.com/")
 
     def get_team_str(self) -> str:
         team_html = [f"<span class='translator'>{member}</span>" for member in self.team]
