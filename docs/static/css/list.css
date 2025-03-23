@@ -2,6 +2,7 @@
     --color-primary: Goldenrod;
     --color-secondary: #96846e;
     --color-background: #655949;
+    --color-secondary-contrast: #FFFFD6;
     --color-hover: #FF6600;
     --color-modder: #ADFF2F;
     --color-translator: #E3AFF6;
@@ -20,7 +21,7 @@
 
 body {
     background: #000 url('../img/bg_lcc2.avif');
-    color: #FFFFD6;
+    color: var(--color-secondary-contrast);
     font-family: Verdana, Geneva, Lucida, "Lucida Grande", Arial, Helvetica, sans-serif;
     padding-inline: 70px;
 }
@@ -183,7 +184,7 @@ label {
 .filter-selector select {
     background-color: var(--color-background);
     border-radius: 10px;
-    color: #FFFFD6;
+    color: var(--color-secondary-contrast);
     padding: 6px 12px;
 }
 
@@ -195,7 +196,7 @@ label {
 #search .search_items label {
     padding: 6px 12px;
     border: 1px solid var(--color-background);
-    color: #FFFFD6;
+    color: var(--color-secondary-contrast);
     cursor: pointer;
     background-color: var(--color-background);
     border-radius: 5px;
@@ -248,7 +249,7 @@ label {
     margin: 8px 0;
     background: var(--background-primary);
     border-radius: 5px;
-    color: #FFFFD6;
+    color: var(--color-secondary-contrast);
     width: 60%;
     height: 50px;
     font-size: large;
@@ -406,7 +407,7 @@ section {
     line-height: 12px;
     padding: 3px;
     margin: 0;
-    color: var(--color-primary);
+    color: var(--color-secondary-contrast);
 }
 
 .table .team,
