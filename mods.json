@@ -7682,7 +7682,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2017-02",
-        "tp2": "multiple"
+        "tp2": "ContagionGuiMod_setup_v02beta_for_BG2EE;ContagionGuiMod_setup_v02beta_for_SoD;ContagionGuiMod_setup_v02beta_mini_for_BG2EE;ContagionGuiMod_setup_v02beta_mini_for_SoD;ContagionGuiMod_setup_v02beta_for_SoD;ContagionGuiMod_setup_v03_mini_for_SoD"
     },
     {
         "name": "Continuous NPC Portraits",
@@ -41962,12 +41962,13 @@
         ],
         "team": [],
         "notes": [
-            "Ne fonctionne qu'avec qu'une version 2.6, ni plus ni moins. Et seulement avec un exécutable Windows !"
+            "Ne fonctionne qu'avec qu'une version 2.6, ni plus ni moins. Et seulement avec un exécutable Windows !",
+            "Inclu dans [[IE Snippets]]."
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2022-04",
         "tp2": "bubb_revert_pathfinding"
     },
@@ -46220,7 +46221,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2023-03",
-        "tp2": "multiple"
+        "tp2": "bubb_sprite_highlight_extender;bubb_revert_pathfinding;bubb_fix_bg2_tot_crash;bubb_enable_pst_console;bubb_disable_stoneskin_color;b3_identify"
     },
     {
         "name": "Neverwinter Night for Baldur's Gate",
