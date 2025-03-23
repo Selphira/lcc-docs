@@ -1042,7 +1042,7 @@
         "name": "Alex Macintosh",
         "description": "Ce mod ajoute le marchand Alex Macintosh qui vend quelques objets sympathiques créés sur le site de customisation \"Adventurer's Spa and Grills\".",
         "urls": [
-            "https://america.iegmc.com/mts/"
+            "https://america.iegmc.com/mts/am-v5.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -1055,9 +1055,7 @@
             "MajorTomSawyer"
         ],
         "team": [],
-        "notes": [
-            "Fichier `am-v5.rar`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -4527,7 +4525,7 @@
         "name": "Baldur's Gate 2 SoA Item Import [BG2SoA]",
         "description": "Totalement inutile si ToB est installé, ce mod permet de tricher en important des objets de BG dans le Donjon d'Irenicus pour rendre SoA plus facile à jouer.",
         "urls": [
-            "http://america.iegmc.net/kh_mods/"
+            "http://america.iegmc.net/kh_mods/BG2SoA_v3.rar"
         ],
         "categories": [
             "Sort et objet"
@@ -4540,8 +4538,7 @@
         ],
         "team": [],
         "notes": [
-            "Comme ce mod fait exactement la même chose que le composant `Importer davantage d'objets dans Shadows of Amn` de [[BGT Tweak Pack]].",
-            "Fichier `BG2SoA_v3.rar`."
+            "Comme ce mod fait exactement la même chose que le composant `Importer davantage d'objets dans Shadows of Amn` de [[BGT Tweak Pack]]."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -5136,7 +5133,7 @@
         "name": "Battle of Helm's Deep",
         "description": "Egrevyn a testé ce mod, inspiré de la bataille du gouffre de Helm dans le Seigneur des Anneaux : \"<i>À part un bug très chiant (CluaConsole obligatoire), c'est vraiment amusant comme mod. Niveau difficulté, c'est du gâteau, pas tellement d'opposition. Et c'est très basique au niveau gameplay, au début, on doit se borner à concentrer nos tirs d'arc sur les orques. Mais on passe un très bon moment, car c'est vraiment sympa de retrouver l'ambiance du SdA dans BG. Portraits et voix du film intégrés. Ne cherchez pas à jouer à BG avec ce mod, mais juste à diriger la bataille de Helm. Marrant</i>\".",
         "urls": [
-            "https://america.iegmc.com/bohd/"
+            "https://america.iegmc.com/bohd/bohd_v100.zip"
         ],
         "categories": [
             "Conversion"
@@ -5148,9 +5145,7 @@
             "Elhoe"
         ],
         "team": [],
-        "notes": [
-            "Fichier `bohd_v100.zip`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -5465,7 +5460,7 @@
         "name": "Biddekelorak",
         "description": "Biddekelorak est un vieux prêtre nain. Très dévot, il a bon cœur et parle peu, préférant porter la parole et les enseignements de Lathandre, notamment faire briller sa lumière dans les endroits les plus sombres. Ce mod a très peu de contenu.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/"
+            "http://downloads.chosenofmystra.net/bg2/Biddekelorak.rar"
         ],
         "categories": [
             "PNJ One Day"
@@ -5478,9 +5473,7 @@
             "Nethrin"
         ],
         "team": [],
-        "notes": [
-            "Fichier `Biddekelorak.rar`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -7551,7 +7544,7 @@
         "name": "Compact Aura Cleanser",
         "description": "Ce mod ajoute un marchand dans les Bas-Quartiers, appelé Barthemus. Celui-ci vend un parchemin d'Enchaînement permanent ! En théorie : il n'a que 1% de chances de fonctionner. Mais il semblerait que le parchemin fonctionne à chaque fois…",
         "urls": [
-            "https://america.iegmc.com/ultimastudios/"
+            "https://america.iegmc.com/ultimastudios/JAC.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -7564,9 +7557,7 @@
             "Lord Jyssev"
         ],
         "team": [],
-        "notes": [
-            "Fichier `JAC.zip`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -8381,8 +8372,8 @@
         "name": "Crusader Pack",
         "description": "Ce mod ajoute trois nouveaux profils|`Champion of Torm` : bonus aux jets de sauvegarde +3, +3 aux dégâts et au tac0 pendant 5 rounds, une Imposition des mains supplémentaire par jour tous les 4 niveaux. Ne peut utiliser des armes à distance.|`Energist` : Possède 5 compétences spéciales, CA +2 tous les 10 niveaux. Ne peut utiliser des armes à distance ou porter une armure.|`Adventurer` : bonus de 20 au Crochetage et à la Détection de pièges. Connaissance +30. Pas de bonus multiplicateur d'attaque sournoise.|Ajoute aussi trois nouveaux objets dans le jeu.",
         "urls": [
-            "http://america.iegmc.net/moongaze/",
-            "http://www.mediafire.com/download/2u3exty5yene14r/CrusaderPack4.3.rar"
+            "http://america.iegmc.net/moongaze/Crusade_v4.rar",
+            "https://www.mediafire.com/download/2u3exty5yene14r/CrusaderPack4.3.rar"
         ],
         "categories": [
             "Kit",
@@ -8397,7 +8388,6 @@
         ],
         "team": [],
         "notes": [
-            "Fichier `Crusade_v4.rar`.",
             "Le lien mediafire propose la version 4.3."
         ],
         "translation_state": "no",
@@ -9146,7 +9136,8 @@
         "name": "Deidre and Joluv",
         "description": "Deirdre et Joluv, les commerçants bonus de BG2, ont fait une halte à la Porte de Baldur sur leur chemin vers l'Amn. Vous trouverez Deidre dans la taverne du Chant de l'elfe et Joluv aux Sorcelleries diverses, où vous pourrez essayer d'acheter leur fabuleux stock.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg1/"
+            "http://downloads.chosenofmystra.net/bg1/BGeeWmart3.7z",
+            "http://downloads.chosenofmystra.net/bg1/BGTWmart1.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -9160,8 +9151,8 @@
         ],
         "team": [],
         "notes": [
-            "BG1 : Fichier `BGeeWmart3.7z`.",
-            "BGT : Fichier `BGTWmart1.rar`."
+            "Choississez `BGeeWmart3.7z` pour BG.",
+            "Choississez `BGTWmart1.rar` pour BGT."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -12771,7 +12762,7 @@
         "name": "Food and Herbal Mod",
         "description": "Ce mod ajoute 5 magasins (3 dans SoA et 2 dans ToB) disposant de mixtures à base de plantes qui vous procureront des effets variés.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/"
+            "http://downloads.chosenofmystra.net/bg2/Foodmod_v103.7z"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -12785,9 +12776,7 @@
         "team": [
             "Garfield"
         ],
-        "notes": [
-            "Fichier `Foodmod_v103.7z`."
-        ],
+        "notes": [],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -12926,7 +12915,7 @@
         "name": "Freedom's Reign & Reign of Virtue",
         "description": "Créés par la même personne (Deano), ces deux mods ont été regroupés en un seul : le premier ajoute 80-90 nouveaux objets et 2 nouveaux magasins ; le second 3 nouveaux magasins avec de nouveaux objets et 5 nouvelles rencontres (combats) avec des nouveaux scripts, objets, etc.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/"
+            "http://downloads.chosenofmystra.net/bg2/FreedomsReign_ROV_V8.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -12940,9 +12929,7 @@
             "Deano"
         ],
         "team": [],
-        "notes": [
-            "Fichier `FreedomsReign_ROV_V8.rar`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -13757,7 +13744,7 @@
         "description": "Ce mod permet au protagoniste lors du combat final de ToB, de puiser dans le puits d'énergie pour y gagner la capacité spéciale `Focus` utilisable une fois par tour. Cette capacité lui permet pendant 5 rounds, d'être immunisé à la pétrification, à la désintégration et à l'arrêt du temps. De plus, elle protège contre tous les sorts de niveau 1 à 3.",
         "urls": [
             "http://www.shsforums.net/files/file/148-ghost/",
-            "http://america.iegmc.net/badgert/"
+            "http://america.iegmc.net/badgert/Ghost_v2.1.zip"
         ],
         "categories": [
             "Gameplay"
@@ -13770,9 +13757,7 @@
             "Leomar"
         ],
         "team": [],
-        "notes": [
-            "Fichier `Ghost_v2.1.zip`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -13875,7 +13860,7 @@
         "name": "Glory of Istar",
         "description": "Il s'agit d'un projet gigantesque qui, à long terme, devait être de la taille de SoA. Là, on parle de conversion car le moteur de BG2 est repris pour créer une aventure à part, se situant dans l'univers de Krynn, Dragonlance, un des mondes de Donjons et Dragons (celui de BG et BG2 étant les Royaumes Oubliés), avant les événements décrits dans la série de livres. Ce mod innove sur plusieurs plans : système de mana pour la magie, des actions telles que grimper ou nager.|Bien que le site officiel ait désormais disparu, il est toujours possible de télécharger le mod.",
         "urls": [
-            "https://america.iegmc.com/dltc"
+            "https://america.iegmc.com/dltc/DLTCBeta110.exe"
         ],
         "categories": [
             "Conversion"
@@ -13891,9 +13876,7 @@
             "MAXGraphics"
         ],
         "team": [],
-        "notes": [
-            "Fichier `DLTCBeta110.exe`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 0,
         "languages": [],
@@ -14001,7 +13984,7 @@
         "name": "Grey Acumen's Kit Improvements",
         "description": "Ce mod ajoute le profil de Mime (barde), modifie les profils de Tueur de magiciens et de Belluaire, ainsi que quelques sorts.",
         "urls": [
-            "http://america.iegmc.net/greyacumen/"
+            "http://america.iegmc.net/greyacumen/GreyA_KI.zip"
         ],
         "categories": [
             "Kit"
@@ -14014,9 +13997,7 @@
             "GreyAcumen"
         ],
         "team": [],
-        "notes": [
-            "Fichier `GreyA_KI.zip`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -14417,7 +14398,7 @@
         "name": "Harper Scout kit",
         "description": "Ce mod installe la classe de prestige de la Campagne des Royaumes oubliés, l'Agent ménestrel, en deux versions : l'une pour voleur, l'autre pour barde. Pas ailleurs, il ajoute quelques objets liés aux Ménestrels.",
         "urls": [
-            "http://iegmc.shphockey.com/yarpen/"
+            "http://iegmc.shphockey.com/yarpen/HarperScoutv1.rar"
         ],
         "categories": [
             "Kit",
@@ -14431,9 +14412,7 @@
             "Yarpen"
         ],
         "team": [],
-        "notes": [
-            "Fichier `HarperScoutv1.rar`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -17983,7 +17962,7 @@
         "name": "Kari the Kobold",
         "description": "Cette métisse humaine/kobold est druidesse de son état. Toujours en bêta (sa romance n'a pas été écrite), ce mod a créé la polémique sur les sites américains. En l'état, Kari est déjà jouable et très attachante, une sorte d'Aerie en moins chouineuse.",
         "urls": [
-            "http://america.iegmc.net/moongaze/"
+            "http://america.iegmc.net/moongaze/Kariv1-3b.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -17996,9 +17975,7 @@
             "Moongaze"
         ],
         "team": [],
-        "notes": [
-            "Fichier `Kariv1-3b.rar`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -19269,7 +19246,7 @@
         "name": "Level 40 Rule Set in BG:EE",
         "description": "Ce mod vous permet d'atteindre le niveau 40 dans BG:EE. Une fois installé, vous devrez aussi installer le mod [[High Level Abilities]] qui restaure les capacités de haut niveau non présentes dans le jeu.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg1/"
+            "http://downloads.chosenofmystra.net/bg1/BG_EE_L40.rar"
         ],
         "categories": [
             "Gameplay"
@@ -19279,9 +19256,7 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Fichier `BG_EE_L40.rar`."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
@@ -19293,7 +19268,7 @@
         "name": "High Level Abilities",
         "description": "Ce mod vous permet de tirer pleinement partie du mod [[Level 40 Rule Set in BG:EE]]. Il restaure les capacités de haut niveau non présentes dans le jeu.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg1/"
+            "http://downloads.chosenofmystra.net/bg1/BG_EE_HLAs106.rar"
         ],
         "categories": [
             "Gameplay"
@@ -19303,9 +19278,7 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Fichier `BG_EE_HLAs106.rar`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [],
@@ -19994,7 +19967,7 @@
         "name": "MTS Crappack",
         "description": "Ce vieux mod apporte quelques ajustements graphiques (principalement des portraits), de règles et de quêtes.|Valygar peut devenir Kensaï, Carsomyr peut ne plus être réservée aux paladins, on peut trouver le Pantalon doré dans le donjon d'Irenicus, import de tous les objets de BG1, etc...",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/"
+            "http://downloads.chosenofmystra.net/bg2/MTSCrappack_v4.zip"
         ],
         "categories": [
             "Gameplay"
@@ -20007,9 +19980,7 @@
             "MajorTomSawyer"
         ],
         "team": [],
-        "notes": [
-            "Fichier `MTSCrappack_v4.zip`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 0,
         "languages": [
@@ -21149,7 +21120,7 @@
         "name": "Mix Mod",
         "description": "Ce mod propose une collection d'ajustements pour la plupart des jeux IE. Comme la plupart de ses pairs, il permet d'empiler munitions, pierres précieuses, bijoux, potions et parchemins, rendre les ennemis plus costauds, désactiver des cinématiques d'introduction...",
         "urls": [
-            "http://america.iegmc.net/borsook/"
+            "http://america.iegmc.net/borsook/MixModv5.exe"
         ],
         "categories": [
             "Gameplay"
@@ -21165,8 +21136,7 @@
         "authors": [],
         "team": [],
         "notes": [
-            "Cependant, comme ce mod est très ancien, préférez-lui d'autres plus récents et plus performants comme le [[Difficulty and Tweaks mod]], sa version révisée et compatible avec les jeux EE, ou [[The Tweaks Anthology]].",
-            "Fichier `MixModv5.exe`."
+            "Cependant, comme ce mod est très ancien, préférez-lui d'autres plus récents et plus performants comme le [[Difficulty and Tweaks mod]], sa version révisée et compatible avec les jeux EE, ou [[The Tweaks Anthology]]."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -22582,7 +22552,8 @@
         "name": "Neh'taniel NPC",
         "description": "Ce mod ajoute un personnage loyal neutre, avec un kit de paladin `judicial knight`. Il a de nombreuses interactions avec l'ensemble des personnages du groupe et des répliques lors de plusieurs quêtes. Possédant une personnalité étoffée, il a des objets personnels comme une épée bavarde, et aussi des capacités spéciales qui le rendent de plus en plus puissant. Il romance les elfettes, demi-elfettes, humaines, tieffelines, gnomes d'alignement non mauvais et de classe différente de celle du voleur. Il possède du contenu pour SoA et pour ToB.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/",
+            "http://downloads.chosenofmystra.net/bg2/Neht_V5.5.rar",
+            "http://downloads.chosenofmystra.net/bg2/Neht_V6.7.rar",
             "https://america.iegmc.com/nehtaniel/"
         ],
         "categories": [
@@ -26207,7 +26178,7 @@
         "name": "Redrake's IWD Fixpack",
         "description": "Cet ancien mod apporte de nombreux correctifs au jeu (objets, sorts, créatures manquant d'alignement...).",
         "urls": [
-            "http://downloads.chosenofmystra.net/iwd/"
+            "http://downloads.chosenofmystra.net/iwd/Redrake_s_IWD_Fixpack_v1.0.rar"
         ],
         "categories": [
             "Patch non officiel"
@@ -26220,8 +26191,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod n'est plus à jour et a été totalement supplanté par [[Icewind Dale Fixpack]].",
-            "Fichier `Redrake_s_IWD_Fixpack_v1.0.rar`."
+            "Ce mod n'est plus à jour et a été totalement supplanté par [[Icewind Dale Fixpack]]."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -27541,7 +27511,7 @@
         "name": "Rylorn the NPC",
         "description": "Un sinistre personnage dédié à la cause de Cyric... Vous pourrez le trouver dans une zone créée pour l'occasion, le `Monastère sombre`. Un kit `Blackguard` est également ajouté.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/"
+            "http://downloads.chosenofmystra.net/bg2/Rylorn.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -27555,7 +27525,6 @@
         ],
         "team": [],
         "notes": [
-            "Fichier `Rylorn.rar`.",
             "Il empêchera tous les pjs bons sauf Aerie et Imoen de rejoindre le groupe."
         ],
         "translation_state": "no",
@@ -28136,7 +28105,7 @@
         "name": "Selune's Armoury",
         "description": "Ce petit mod ajoute plusieurs nouveaux objets de protection dans Baldur's Gate II. ToB est nécessaire.",
         "urls": [
-            "http://america.iegmc.net/moongaze/"
+            "http://america.iegmc.net/moongaze/SeluneArmoury_v1.rar"
         ],
         "categories": [
             "Sort et objet"
@@ -28149,9 +28118,7 @@
             "Moongaze"
         ],
         "team": [],
-        "notes": [
-            "Fichier `SeluneArmoury_v1.rar`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -29346,7 +29313,7 @@
         "name": "Skooter the NPC",
         "description": "Drôle de nom... mais c'est un chien ! Que vous trouverez à la Couronne de Cuivre. Cependant, il ne rejoindra pas votre groupe, se contentant a priori de discuter avec vos compagnons... Ce mod n'est vraiment pas destiné aux joueurs n'ayant aucun sens de l'humour !",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/"
+            "http://downloads.chosenofmystra.net/bg2/SkooterTheNPC.zip"
         ],
         "categories": [
             "PNJ (autre)"
@@ -29359,9 +29326,7 @@
             "theacefes"
         ],
         "team": [],
-        "notes": [
-            "Fichier `SkooterTheNPC.zip`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -30241,7 +30206,7 @@
         "name": "Store Prices",
         "description": "Ce mini mod permet de changer les prix d'achat et de vente des magasins. En jouant avec plusieurs mods différents dans Baldur's Gate, vous aurez probablement remarqué une chose déplaisante : pratiquement tous les mods ajoutent des ennemis qui possèdent des butins très onéreux et/ou ses zones parsemées de coffres plein de trésors. En jouant une combinaison de mega-mods, vous pouvez posséder environ 600 000 pièces d'or au chapitre 6 ! Dans le jeu original, on a du mal à dépasser les 100 000 à ce niveau du jeu.|D'où ce mod qui permet à la fois de pouvoir dépenser sa fortune en augmentant les prix dans les magasins, et d'éliminer le besoin de ramasser tout et n'importe quoi en baissant les prix de rachat. Et même mieux : en augmentant à la fois les prix d'achat et de vente, on rend de la valeur aux objets tout en la supprimant en ce qui concerne l'argent. Ou exactement l'inverse, si vous préférez : les objets ne coûtent rien et seules les récompenses en argent sont d'un réel intérêt.|Vous pourrez donc baisser les prix à 5, 10, 20, 25, 33, 50, 67, 75 ou 80 % de leur valeur initiale ; et les augmenter de 125, 135, 155, 200, 300, 400, 500, 1000 ou 2000 %. En combinant les réductions et les hausses, vous pouvez personnaliser ces valeurs. Par exemple, réduire le prix d'achat de 67 %, puis l'augmenter de 2000 % produira une hausse de 1333 %.",
         "urls": [
-            "http://america.iegmc.net/ardanis/"
+            "http://america.iegmc.net/ardanis/StorePrices.rar"
         ],
         "categories": [
             "Gameplay"
@@ -30259,8 +30224,7 @@
         ],
         "team": [],
         "notes": [
-            "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod [[Aurora's Shoes and Boots]].",
-            "Fichier `StorePrices.rar `."
+            "Notez qu'une version améliorée de ce mod est incluse dans un composant du mod [[Aurora's Shoes and Boots]]."
         ],
         "translation_state": "n/a",
         "safe": 2,
@@ -30273,7 +30237,7 @@
         "name": "Store mod for IWD2",
         "description": "Ce mod ajoute une nouvelle marchande dans IWD2. Il s'agit de Shi'nayne Xiltyn qui vend plusieurs objets extraits de BG2 et d'IWD, ainsi que de nouveaux. Vous le trouverez à Targos (auberge de la Veuve éplorée) et à Kuldahar (chez le forgeron Conlan).",
         "urls": [
-            "https://america.iegmc.com/com/",
+            "https://america.iegmc.com/com/IWD2Store211.rar",
             "https://github.com/mleduque/comstore/"
         ],
         "categories": [
@@ -30286,9 +30250,7 @@
             "CoM_Solaufein"
         ],
         "team": [],
-        "notes": [
-            "Fichier `IWD2Store211.rar`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -31503,7 +31465,7 @@
         "name": "TeamBG BG2:EE Armor Pack",
         "description": "Ce mod installe le marchand nain Kurtz Goldenaxe sur la Promenade de Waukyne. Il vend des armures colorées et de nouvelles armures magiques et très chères.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/"
+            "http://downloads.chosenofmystra.net/bg2/BG2eeAR102.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -31516,8 +31478,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu.",
-            "Fichier `BG2eeAR102.rar`."
+            "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -31534,7 +31495,7 @@
         "description": "Ce mod installe le marchand nain Maltz sur la Promenade de Waukyne. Il vend des armes colorées, dont certaines de BG2, et de nouvelles armures magiques et très chères.",
         "urls": [
             "https://forums.beamdog.com/discussion/14154/",
-            "http://downloads.chosenofmystra.net/bg2/"
+            "http://downloads.chosenofmystra.net/bg2/BG2EEWv101.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -31547,8 +31508,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu.",
-            "Fichier `BG2EEWv101.rar`."
+            "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -31565,7 +31525,7 @@
         "description": "Ce mod installe le marchand nain Kurtz Goldenaxe à l'extérieur de Brasamical. Il vend des armures colorées et de nouvelles armures magiques et très chères.",
         "urls": [
             "https://forums.beamdog.com/discussion/13314/",
-            "http://downloads.chosenofmystra.net/bg1/"
+            "http://downloads.chosenofmystra.net/bg1/BGeeARv105.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -31579,8 +31539,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu.",
-            "Fichier `BGeeARv105.rar`."
+            "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -31596,7 +31555,7 @@
         "name": "TeamBG BG:EE Weapon Pack",
         "description": "Ce mod installe le marchand nain Maltz à l'extérieur de Brasamical. Il vend des armes colorées, dont certaines de BG2, et de nouvelles armures magiques et très chères.",
         "urls": [
-            "hhttp://downloads.chosenofmystra.net/bg1/"
+            "hhttp://downloads.chosenofmystra.net/bg1/BGeeWv105.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -31610,8 +31569,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu.",
-            "Fichier `BGeeWv105.rar`."
+            "Attention : Contrairement à ce qui est indiqué dans le readme, ce mod est incompatible avec les versions originales du jeu."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -35864,7 +35822,7 @@
         "description": "Les mods Miriam (PNJ vampire aux stats moins bourrines que celles de [[Valen NPC]], mais semblant disposer d'un caractère tout aussi lunatique et violent) et [[Dark Ritual]] (ajoutant un marchand avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2, initialement traduit par Panaka) sont désormais réunis dans ce mod qui améliore en outre la quête de l'Œil Aveugle, la rencontre avec les Ménestrels, et ajoute une nouvelle rencontre dans le donjon de Firkraag. ToB est requis.",
         "urls": [
             "https://github.com/The-Gate-Project/VampireTales",
-            "http://downloads.chosenofmystra.net/bg2/"
+            "http://downloads.chosenofmystra.net/bg2/VampireTalesForBG2EE105.rar"
         ],
         "categories": [
             "PNJ recrutable",
@@ -35883,9 +35841,7 @@
             "Shaywen",
             "Zooloo"
         ],
-        "notes": [
-            "Fichier `VampireTalesForBG2EE105.rar`."
-        ],
+        "notes": [],
         "translation_state": "yes",
         "safe": 2,
         "languages": [
@@ -37066,7 +37022,7 @@
         "name": "Wikaede One-Day-NPC Revisited",
         "description": "Ce mod ajoute un nouveau PNJ recrutable : Wikaede Olveyn, un prêtre de Helm humain, loyal neutre, qui dispose d'une masse magique spéciale. Vous le trouverez dans le temple de Helm, dans le quartier des temples d'Athkatla, où il retournera si vous vous en séparez. Aucune romance n'est prévue, mais il peut devenir ami avec Anomen, et il interagit au moins une fois avec chaque PNJ du jeu.",
         "urls": [
-            "http://america.iegmc.net/moongaze/"
+            "http://america.iegmc.net/moongaze/wikaede_v34.rar"
         ],
         "categories": [
             "PNJ One Day"
@@ -37079,9 +37035,7 @@
             "Moongaze"
         ],
         "team": [],
-        "notes": [
-            "Fichier `wikaede_v34.rar`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -39350,7 +39304,7 @@
         "name": "Sarevok-Be-Gone",
         "description": "Si vous pensez que l'apparition de Sarevok dans ToB est une aberration dans le scénario (à l'image de l'ensemble de ToB), si vous le détestez pour avoir tué votre père adoptif, ou si vous êtes simplement jaloux de ses statistiques de bourrin, ce mod pourrait vous tenter.",
         "urls": [
-            "http://america.iegmc.net/sarevokbegone/"
+            "http://america.iegmc.net/sarevokbegone/SarevokBeGoneV2.zip"
         ],
         "categories": [
             "PNJ (autre)"
@@ -39363,9 +39317,7 @@
             "notasophist"
         ],
         "team": [],
-        "notes": [
-            "Fichier `SarevokBeGoneV2.zip`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -42762,7 +42714,7 @@
         "name": "Willie Bruce NPC Mod",
         "description": "Ce mod est un bourrin stéréotypé, Willie Bruce est donc grossier, sexiste et raciste. Les opinions de Willie ne reflètent en aucun cas les opinions du codeur ou des auteurs. Willie Bruce est un combattant de base, de premier niveau, qui aime traîner dans les bars, regarder le football à la télévision et se battre. Ce mod peut être offensant, à ne pas prendre au premier degré.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/"
+            "http://downloads.chosenofmystra.net/bg2/WillieBruceV31.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -42775,7 +42727,7 @@
         ],
         "team": [],
         "notes": [
-            "Fichier `WillieBruceV31.rar`.|Disponible aussi ici : https://america.iegmc.com/williebruce/."
+            "Disponible aussi ici : https://america.iegmc.com/williebruce/."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -45438,7 +45390,7 @@
         "name": "A Rain of Tears",
         "description": "Ce mod ajoute une quête un peu particulière dans la zone des Pics solitaires. Vous devez sauver une caravane remplie d'enfants qui est mise en danger par d'horribles monstres. Mais tout n'est pas ce qui semble être.",
         "urls": [
-            "https://america.iegmc.com/badgert/"
+            "https://america.iegmc.com/badgert/rain_of_tears-BGT.zip"
         ],
         "categories": [
             "Quête"
@@ -45450,9 +45402,7 @@
             "Ghreyfain"
         ],
         "team": [],
-        "notes": [
-            "Fichier `rain_of_tears-BGT.zip`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -45467,7 +45417,7 @@
         "name": "Pay for sins",
         "description": "Ce mod ajoute une petite quête qui débute en parlant à Ropar au nord ouest de Beregost.",
         "urls": [
-            "https://america.iegmc.com/badgert/"
+            "https://america.iegmc.com/badgert/pay_for_sins-BGT.zip"
         ],
         "categories": [
             "Quête"
@@ -45479,9 +45429,7 @@
             "Ghreyfain"
         ],
         "team": [],
-        "notes": [
-            "Fichier `pay_for_sins-BGT.zip`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -45496,7 +45444,7 @@
         "name": "Rain of Angel",
         "description": "Ce mod ajoute une petite quête qui débute en parlant au chef du culte dans les ruines d'Ulcaster.",
         "urls": [
-            "https://america.iegmc.com/badgert/"
+            "https://america.iegmc.com/badgert/rain_of_angel-BGT.zip"
         ],
         "categories": [
             "Quête"
@@ -45508,9 +45456,7 @@
             "Ghreyfain"
         ],
         "team": [],
-        "notes": [
-            "Fichier `rain_of_angel-BGT.zip`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -45772,7 +45718,7 @@
         "name": "Almateria's tweaks",
         "description": "Ce mod ajoute des coûts en or ou en expérience à certains sorts profanes et divins.",
         "urls": [
-            "https://america.iegmc.com/almateria/"
+            "https://america.iegmc.com/almateria/AlmaTweaksv10_WIN.zip"
         ],
         "categories": [
             "Gameplay"
@@ -45786,8 +45732,7 @@
         ],
         "team": [],
         "notes": [
-            "Bien que WeiDU, ce mod override les sorts concernés.",
-            "Fichier `AlmaTweaksv10_WIN.zip`."
+            "Bien que WeiDU, ce mod override les sorts concernés."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -45861,7 +45806,7 @@
         "name": "March Mod",
         "description": "Ce mod russe possède deux composants. Le premier permet aux personnages masculins de régénérer et de réduire leur fatigue auprès d'une courtisane. Le second ajoute une nouvelle quête à Garrick.",
         "urls": [
-            "https://america.iegmc.com/marchmod/"
+            "https://america.iegmc.com/marchmod/march_mod.zip"
         ],
         "categories": [
             "Gameplay",
@@ -45877,9 +45822,7 @@
             "tipun"
         ],
         "team": [],
-        "notes": [
-            "Fichier `march_mod.zip`."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -45920,7 +45863,7 @@
         "name": "BG1 Adventure Pack",
         "description": "Ce mod ajoute un marchand qui propose des objets d'une puissance digne de ToB, il équipe également certains ennemis d'objets d'une puissance similaire. Ces objets sont droppables.",
         "urls": [
-            "https://america.iegmc.com/com/"
+            "https://america.iegmc.com/com/bg1adventure1_06.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -45935,7 +45878,6 @@
             "Mathrim Cauthon"
         ],
         "notes": [
-            "Fichier `bg1adventure1_06.zip`.",
             "Attention, le composant `ennemis plus puissant` remplace les créatures au lieu de les patcher.",
             "Ce mod est devenu obsolète depuis son intégration dans [[Dark Horizons]]."
         ],
@@ -47215,7 +47157,7 @@
         "name": "IWD TO BG2 Portrait Pack",
         "description": "Il s'agit d'un mod qui propose des portraits alternatifs issus de IWD pour les personnages recrutables des BG originaux. Avec en prime des portraits pour les différents enfants de Bhaal et certains PNJ ajoutés par des mods tels que [[Ariena the Half Orc]], [[Kelsey NPC MOD for Baldur’s Gate 2]], [[Solaufein NPC]] et [[Valen NPC]].",
         "urls": [
-            "https://america.iegmc.com/yarpen"
+            "https://america.iegmc.com/yarpen/IWDtoBG2_Portrait_Pack.rar"
         ],
         "categories": [
             "Portrait et son"
@@ -47228,9 +47170,7 @@
             "Yarpen"
         ],
         "team": [],
-        "notes": [
-            "Fichier `IWDtoBG2_Portrait_Pack.rar`."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
