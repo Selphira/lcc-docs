@@ -1231,7 +1231,7 @@
         "description": "La voleuse halfelin de la Porte de Baldur revient avec ce mod, pour le plus grand plaisir de ses fans. Sa bonhommie et ses exclamations sympathiques la rendent tout autant charismatique que dans le premier opus de la saga.",
         "urls": [
             "https://github.com/GwendolyneFreddy/Alora-NPC-for-BG2",
-            "http://downloads.chosenofmystra.net/bg2/alora-npc-for-bg2-2.0.zip"
+            "https://america.iegmc.com/com/alora-npc-for-bg2-2.0.zip"
         ],
         "categories": [
             "PNJ recrutable"
@@ -2782,7 +2782,7 @@
             "en",
             "fr"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "2008-11",
         "tp2": "ab"
     },
@@ -3554,7 +3554,7 @@
         "name": "BG1 Tweaks Pack",
         "description": "Ce mod permettait de faire mille et un petits ajustements au jeu. Vous pouviez faire des changements purement esthétiques (comme masquer les casques sur les avatars, utiliser les incantations visuelles d'Icewind Dale...) ou de règles (suppression de la limite d'XP, changement des tables d'expériences, lancement de sorts en armures) et assouplir certains mécanismes du jeu (empilement illimité de munitions...).",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg1/BG1Tweak.rar"
+            "https://america.iegmc.com/com/BG1Tweak.rar"
         ],
         "categories": [
             "Gameplay"
@@ -5460,7 +5460,7 @@
         "name": "Biddekelorak",
         "description": "Biddekelorak est un vieux prêtre nain. Très dévot, il a bon cœur et parle peu, préférant porter la parole et les enseignements de Lathandre, notamment faire briller sa lumière dans les endroits les plus sombres. Ce mod a très peu de contenu.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/Biddekelorak.rar"
+            "https://america.iegmc.com/biddekelorak/Biddekelorak.rar"
         ],
         "categories": [
             "PNJ One Day"
@@ -6564,7 +6564,7 @@
         "name": "Cassius",
         "description": "Cassius est un barde scalde humain et mystérieux qui ne dit pas grand-chose sur son passé. Ce que l'on sait, c'est qu'il a beaucoup voyagé depuis La Porte de Baldur, Eauprofonde, le Calimshan et d'autres endroits sans jamais rester trop longtemps. Il est toujours à la recherche d'aventures pour pouvoir raconter les grandes histoires qu'ils ont rencontrées. Il s'est récemment arrêté en Amn pour recueillir des informations sur les grandes histoires des aventuriers qui y passent. La rumeur veut qu'il soit un agent des Ménestrels.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/Cassius_v105.rar",
+            "https://america.iegmc.com/com/Cassius_v105.rar",
             "https://github.com/Plutonium-X/1D_NPC_Cassius"
         ],
         "categories": [
@@ -7503,7 +7503,7 @@
         "name": "Com_encounters",
         "description": "Ce mod ajoute plusieurs rencontres avec des groupes d'adversaires, trois magasins, une quête impliquant un halfling et un anneau, et améliore le combat contre Shagbag.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/EncountersV110.zip",
+            "https://america.iegmc.com/com/com-encounters-v1.22.zip",
             "https://github.com/The-Gate-Project/Com_encounters"
         ],
         "categories": [
@@ -8771,7 +8771,7 @@
         "description": "Une puissante organisation, dénommée `La Section`, vous pourchasse pour des raisons connues d'elle-seule. Ils ne reculeront devant rien pour parvenir à leurs fins. Ils disposent de nombreux agents et d'associés influents à travers Féérune. Stoppez leurs leaders pour le bien de la Côte des Épées.|Ce mod ajoute une large quête, 3 nouveaux PNJ disposant de quelques quêtes personnelles, plusieurs rencontres (hostiles ou non) et quêtes secondaires, des magasins et de nouvelles zones à explorer. Les anciens mods [[BG1 Adventure Pack]] et [[BG1 CoM Forge - Item Upgrade]] font désormais partie de Dark Horizons.",
         "urls": [
             "https://forums.beamdog.com/discussion/18833/",
-            "http://downloads.chosenofmystra.net/bg1/",
+            "https://america.iegmc.com/com/dark-horizons-3.01.zip",
             "https://github.com/The-Gate-Project/DarkHorizons"
         ],
         "categories": [
@@ -9136,8 +9136,7 @@
         "name": "Deidre and Joluv",
         "description": "Deirdre et Joluv, les commerçants bonus de BG2, ont fait une halte à la Porte de Baldur sur leur chemin vers l'Amn. Vous trouverez Deidre dans la taverne du Chant de l'elfe et Joluv aux Sorcelleries diverses, où vous pourrez essayer d'acheter leur fabuleux stock.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg1/BGeeWmart3.7z",
-            "http://downloads.chosenofmystra.net/bg1/BGTWmart1.rar"
+            "https://america.iegmc.com/com/BGeeWmart3.7z"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -9150,10 +9149,7 @@
             "CoM_Solaufein"
         ],
         "team": [],
-        "notes": [
-            "Choississez `BGeeWmart3.7z` pour BG.",
-            "Choississez `BGTWmart1.rar` pour BGT."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -12483,7 +12479,7 @@
         "name": "FinnJO's Subrace",
         "description": "Ce mod ajoute dans le jeu des sous-races basées en partie sur les règles D&D de la 3e édition, comme dans Icewind Dale II, et en partie sur les règles AD&D de la 2e édition. Après avoir créé un personnage et démarré une nouvelle partie (ou chargé une ancienne), une boîte de dialogue apparaîtra avec la possibilité de sélectionner une sous-race de votre personnage parmi les suivantes : aasimar, tiefelin, genasi (d'air, d'eau, de feu et de terre), nain (arctique, d'or, des montagnes, duergar), elfe (drow, lunaire, sauvage, solaire et sylvain) ainsi que les demi-elfes correspondants, gnome des roches, svirfneblin, halfelin (costaud, pieds-velus et ghostwise). Un composant permet aussi de modifier la sous-race de certains PNJ.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/FinnjoBGII_Subrace.rar"
+            "https://america.iegmc.com/com/FinnjoBGII_Subrace.rar"
         ],
         "categories": [
             "Gameplay"
@@ -12762,7 +12758,7 @@
         "name": "Food and Herbal Mod",
         "description": "Ce mod ajoute 5 magasins (3 dans SoA et 2 dans ToB) disposant de mixtures à base de plantes qui vous procureront des effets variés.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/Foodmod_v103.7z"
+            "https://america.iegmc.com/com/Foodmod_v103.7z"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -12915,7 +12911,7 @@
         "name": "Freedom's Reign & Reign of Virtue",
         "description": "Créés par la même personne (Deano), ces deux mods ont été regroupés en un seul : le premier ajoute 80-90 nouveaux objets et 2 nouveaux magasins ; le second 3 nouveaux magasins avec de nouveaux objets et 5 nouvelles rencontres (combats) avec des nouveaux scripts, objets, etc.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/FreedomsReign_ROV_V8.rar"
+            "https://america.iegmc.com/fr-rov/FreedomsReign_ROV_V8.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -15047,7 +15043,7 @@
         "name": "Homeward Bound",
         "description": "Ce mod permet de renvoyer vos compagnons chez eux ou de les faire revenir dans l'Antichambre de Throne of Bhaal, et d'avoir accès à l'épilogue de tous vos compagnons, même ceux qui ne font plus partie de votre groupe... Il permet aussi de les renvoyer sur le continent à partir de l'île de Brynnlaw, juste avant ou après l'étape de Spellhold. Un magasin est inclus (à Brynnlaw).",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/homewardbound-v7.rar",
+            "https://america.iegmc.com/com/homewardbound-v7.rar",
             "https://github.com/Plutonium-X/MISC_Homeward"
         ],
         "categories": [
@@ -18430,8 +18426,7 @@
         "name": "Kindrek",
         "description": "Ce mod rajoute un PNJ très puissant, chaotique neutre et berserker. Il a une race inédite, sorte de demi-géant d'origine magique. Il n'est pas romançable, mais possède une quête personnelle ainsi qu'une rencontre spécifique. Il a aussi de nombreuses interactions, sons et cinématiques avec les autres personnages. Attention aux personnages mages, bardes, sorciers et multi-classés mages. Kindrek refusera de vous rejoindre.",
         "urls": [
-            "http://mods.chosenofmystra.net/kindrek/",
-            "http://downloads.chosenofmystra.net/bg2/"
+            "https://america.iegmc.com/kindrek/Kindrek2_7.zip"
         ],
         "categories": [
             "PNJ recrutable"
@@ -19260,7 +19255,7 @@
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "missing",
         "last_update": "2015-10",
         "tp2": "non-weidu"
     },
@@ -19282,7 +19277,7 @@
         "translation_state": "no",
         "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "missing",
         "last_update": "2015-10",
         "tp2": "BGeeSA"
     },
@@ -19967,7 +19962,7 @@
         "name": "MTS Crappack",
         "description": "Ce vieux mod apporte quelques ajustements graphiques (principalement des portraits), de règles et de quêtes.|Valygar peut devenir Kensaï, Carsomyr peut ne plus être réservée aux paladins, on peut trouver le Pantalon doré dans le donjon d'Irenicus, import de tous les objets de BG1, etc...",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/MTSCrappack_v4.zip"
+            "https://america.iegmc.com/mts/MTSCrappack_v4.zip"
         ],
         "categories": [
             "Gameplay"
@@ -21298,7 +21293,7 @@
         "name": "Moddie the vixen",
         "description": "Fruit d'une expérience d'Irenicus, cette femelle renard est obsédée par la nourriture. Elle peut se transformer en muloup ou en muloup majeur, ses stats changeant alors. Des banters et quelques dialogues avec le PJ sont au programme.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/Moddie_v1.3.rar",
+            "https://america.iegmc.com/moddie/Moddie_v1.3.rar",
             "https://github.com/Plutonium-X/1D_NPC_Moddie"
         ],
         "categories": [
@@ -21627,7 +21622,7 @@
         "name": "Morituri Kit",
         "description": "Ce mod ajoute un profil de guerrier combine les pouvoirs du kensaï, du moine et du barbare, mais ne peut porter aucun objet magique à part armes et bottes.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/Morituri_v3.zip",
+            "https://america.iegmc.com/com/morituri-kit-5.2.zip",
             "https://github.com/The-Gate-Project/Morituri_Kit"
         ],
         "categories": [
@@ -22553,8 +22548,7 @@
         "description": "Ce mod ajoute un personnage loyal neutre, avec un kit de paladin `judicial knight`. Il a de nombreuses interactions avec l'ensemble des personnages du groupe et des répliques lors de plusieurs quêtes. Possédant une personnalité étoffée, il a des objets personnels comme une épée bavarde, et aussi des capacités spéciales qui le rendent de plus en plus puissant. Il romance les elfettes, demi-elfettes, humaines, tieffelines, gnomes d'alignement non mauvais et de classe différente de celle du voleur. Il possède du contenu pour SoA et pour ToB.",
         "urls": [
             "http://downloads.chosenofmystra.net/bg2/Neht_V5.5.rar",
-            "http://downloads.chosenofmystra.net/bg2/Neht_V6.7.rar",
-            "https://america.iegmc.com/nehtaniel/"
+            "https://america.iegmc.com/nehtaniel/Sir%20Neh'taniel%20NPC-60-7-3.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -22809,7 +22803,7 @@
         "name": "NikitaRedux",
         "description": "Elfe guerrière/voleuse chaotique bonne, Nikita fait de prime abord penser à Minsc, dans sa façon d'agir pour le bien avec un rien de naïveté... Elle dispose d'une quête personnelle, mais ne sera pas romançable. Vous pourrez la trouver à la Couronne de Cuivre, prête à vous rejoindre. Elle possède son propre équipement.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/NikitaReduxBeta2.rar",
+            "https://america.iegmc.com/com/NikitaReduxBeta2.rar",
             "https://github.com/The-Gate-Project/NikitaRedux"
         ],
         "categories": [
@@ -26178,7 +26172,7 @@
         "name": "Redrake's IWD Fixpack",
         "description": "Cet ancien mod apporte de nombreux correctifs au jeu (objets, sorts, créatures manquant d'alignement...).",
         "urls": [
-            "http://downloads.chosenofmystra.net/iwd/Redrake_s_IWD_Fixpack_v1.0.rar"
+            "https://america.iegmc.com/iwdfixpack/Redrake_s_IWD_Fixpack_v2.7z"
         ],
         "categories": [
             "Patch non officiel"
@@ -27511,7 +27505,7 @@
         "name": "Rylorn the NPC",
         "description": "Un sinistre personnage dédié à la cause de Cyric... Vous pourrez le trouver dans une zone créée pour l'occasion, le `Monastère sombre`. Un kit `Blackguard` est également ajouté.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/Rylorn.rar"
+            "https://america.iegmc.com/com/Rylorn.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -29313,7 +29307,7 @@
         "name": "Skooter the NPC",
         "description": "Drôle de nom... mais c'est un chien ! Que vous trouverez à la Couronne de Cuivre. Cependant, il ne rejoindra pas votre groupe, se contentant a priori de discuter avec vos compagnons... Ce mod n'est vraiment pas destiné aux joueurs n'ayant aucun sens de l'humour !",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/SkooterTheNPC.zip"
+            "https://america.iegmc.com/com/SkooterTheNPC.zip"
         ],
         "categories": [
             "PNJ (autre)"
@@ -31465,7 +31459,7 @@
         "name": "TeamBG BG2:EE Armor Pack",
         "description": "Ce mod installe le marchand nain Kurtz Goldenaxe sur la Promenade de Waukyne. Il vend des armures colorées et de nouvelles armures magiques et très chères.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/BG2eeAR102.rar"
+            "https://america.iegmc.com/com/BG2eeAR102.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -31495,7 +31489,7 @@
         "description": "Ce mod installe le marchand nain Maltz sur la Promenade de Waukyne. Il vend des armes colorées, dont certaines de BG2, et de nouvelles armures magiques et très chères.",
         "urls": [
             "https://forums.beamdog.com/discussion/14154/",
-            "http://downloads.chosenofmystra.net/bg2/BG2EEWv101.rar"
+            "https://america.iegmc.com/com/BG2EEWv101.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -31525,7 +31519,7 @@
         "description": "Ce mod installe le marchand nain Kurtz Goldenaxe à l'extérieur de Brasamical. Il vend des armures colorées et de nouvelles armures magiques et très chères.",
         "urls": [
             "https://forums.beamdog.com/discussion/13314/",
-            "http://downloads.chosenofmystra.net/bg1/BGeeARv105.rar"
+            "https://america.iegmc.com/com/BGeeARv105.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -31555,7 +31549,7 @@
         "name": "TeamBG BG:EE Weapon Pack",
         "description": "Ce mod installe le marchand nain Maltz à l'extérieur de Brasamical. Il vend des armes colorées, dont certaines de BG2, et de nouvelles armures magiques et très chères.",
         "urls": [
-            "hhttp://downloads.chosenofmystra.net/bg1/BGeeWv105.rar"
+            "https://america.iegmc.com/com/BGeeWv105.rar"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -33301,7 +33295,7 @@
         "name": "The Undying",
         "description": "Ce mod ajoute deux PNJ, Callisto T'sarran (elfe femme berserker neutre mauvaise) et [[Ninafer]] (elfe guerrière/mage loyale neutre). De nouvelles rencontres en rapport avec la quête de Callisto (anciennement [[Desecration of Souls]]), sept nouveaux magasins, trois nouvelles quêtes, banters et interjections sont également au programme.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/TheUndying2_53.rar",
+            "https://america.iegmc.com/com/TheUndying2_53.rar",
             "https://github.com/Endarire/The-Undying-Mod-for-BG2EE-EET"
         ],
         "categories": [
@@ -34570,7 +34564,7 @@
         "name": "Tsujatha Melalor",
         "description": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux. FOR: 17, DEX: 12, CON: 12, INT: 19, SAG: 16 et CHA: 14.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/Tsujatha_v15.zip",
+            "https://america.iegmc.com/tsujatha/Tsujatha-17.1.zip",
             "https://github.com/Plutonium-X/NPC_Tsujatha"
         ],
         "categories": [
@@ -36821,7 +36815,7 @@
         "name": "Welverin's Subrace Mod",
         "description": "Ce mod ajoute la possibilité de sélectionner une sous-race pour le personnage principal :|- Humains : Aasimar et Tiefelin.|- Elfes : lunaire, des neiges, sauvage, solaire, sylvain et Drow.|- Nains : d'égout, d'or, déracinés, derro, des montagnes, des profondeurs et duergar.|- Gnomes : bricoleur, des roches, des forêts et Svirfneblin.|- Halfelins : Costaud, Foursin, Grand-gars, Kender, Petites-Gens d'Athas, Pieds-velus et Ghostwise.|- Demi-elfes : lunaire, des neiges, sauvage, solaire, sylvain et Drow.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/WelverinSubrace.rar"
+            "https://america.iegmc.com/com/WelverinSubrace.rar"
         ],
         "categories": [
             "Gameplay"
@@ -37669,7 +37663,7 @@
         "name": "Yasraena",
         "description": "Ce mod ajoute une PNJ drow qui a des banters, des voix et des objets spécialement conçus pour elle. C'est une guerrière pure, chaotique bonne, qui possède deux épées personnelles ainsi qu'une amulette. Vous la rencontrez à la fin du donjon d'Irenicus (notez que si vous lui demandez de partir, vous ne la retrouverez plus jamais). Elle s'implante bien dans votre groupe, si ce dernier défend des objectifs louables (personnages Bons ou Neutres) et une voix particulière lui est allouée.|Notez qu'elle dispose d'une attaque supplémentaire par round ; ce qui est pour le moins abusé...",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/Yasraena_v16.zip",
+            "https://america.iegmc.com/yasraena/Yasraena_v16.zip",
             "https://github.com/RoxanneSHS/YasraenaEET"
         ],
         "categories": [
@@ -37865,7 +37859,7 @@
         "description": "Très vieux mod, c'est l'une des premières créations de Smiling Imp basée sur une série de dessins animés qu'il regardait enfant.",
         "urls": [
             "https://github.com/Endarire/Zelink-Zelda-Link-Mod-for-BG2",
-            "http://downloads.chosenofmystra.net/bg2/zelink2021.rar"
+            "https://america.iegmc.com/com/zelink.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -39387,7 +39381,7 @@
         "name": "Smiling Imp's Cross Banter Mod",
         "description": "Ce mod ajoute de nouvelles interactions entre de nombreux PNJ, notamment avec ceux ajoutés par des mods (comme [[Silver Star NPC]], [[Varshoon]], [[Yasraena]], [[Saerileth]], [[Tsujatha Melalor]], [[Horace]], [[Kindrek]] et bien d'autres).",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/Smiling%20Imp's%20Cross%20Banter%20Mod.rar",
+            "https://america.iegmc.com/smilingimp/smiling-imps-cross-banter-mod-1.7.rar",
             "https://github.com/SpellholdStudios/SmilingImpCrossBanterMod"
         ],
         "categories": [
@@ -42714,7 +42708,7 @@
         "name": "Willie Bruce NPC Mod",
         "description": "Ce mod est un bourrin stéréotypé, Willie Bruce est donc grossier, sexiste et raciste. Les opinions de Willie ne reflètent en aucun cas les opinions du codeur ou des auteurs. Willie Bruce est un combattant de base, de premier niveau, qui aime traîner dans les bars, regarder le football à la télévision et se battre. Ce mod peut être offensant, à ne pas prendre au premier degré.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/WillieBruceV31.rar"
+            "https://america.iegmc.com/williebruce/WillieBruceV31.rar"
         ],
         "categories": [
             "PNJ recrutable"
@@ -42726,9 +42720,7 @@
             "Nethrin"
         ],
         "team": [],
-        "notes": [
-            "Disponible aussi ici : https://america.iegmc.com/williebruce/."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -42744,7 +42736,7 @@
         "name": "Matt Damon NPC Mod",
         "description": "Personnage réservé aux personnes avec un sens de l'humour. Si le personnage commence à s'emballer d'une façon ou d'une autre, sélectionnez-le et appuyez sur 'D'.",
         "urls": [
-            "http://downloads.chosenofmystra.net/bg2/mattdamonv1.rar"
+            "https://america.iegmc.com/com/mattdamonv1.rar"
         ],
         "categories": [
             "PNJ recrutable"
