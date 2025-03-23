@@ -16,7 +16,7 @@ def main(env):
     # with open("mods.yaml", "r") as f:
     #     mods = yaml.safe_load(f)
 
-    mods.sort(key=lambda x: x["name"])
+    mods.sort(key=lambda x: x["name"].lower())
 
     resize_image_from_width(24)
 
