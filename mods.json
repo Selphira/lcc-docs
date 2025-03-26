@@ -20727,10 +20727,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2020-04",
-        "tp2": ""
+        "tp2": "Mercy"
     },
     {
         "name": "Mersetek le joaillier",
@@ -21190,14 +21192,14 @@
         "notes": [
             "Notez que ce mod a été rendu obsolète par [[TobEx]]."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [
             "en"
         ],
         "status": "obsolete",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2010-03",
+        "tp2": "modkitremover"
     },
     {
         "name": "Mod NPC",
@@ -21209,19 +21211,21 @@
             "PNJ (autre)"
         ],
         "games": [
-            "BGEE"
+            "BGEE",
+            "SoD",
+            "BG2EE"
         ],
         "authors": [
             "Abel"
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2019-12",
-        "tp2": ""
+        "tp2": "abel_modnpc_mod"
     },
     {
         "name": "Mod Popurrí",
@@ -21348,14 +21352,14 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "yes",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [
             "fr"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2011-01",
+        "tp2": "non-weidu"
     },
     {
         "name": "Mods Options",
@@ -21378,10 +21382,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-07",
-        "tp2": ""
+        "tp2": "ModOptions"
     },
     {
         "name": "Moinesse's Avatars",
@@ -21407,8 +21413,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2019-02",
-        "tp2": ""
+        "last_update": "2011-11",
+        "tp2": "MoinesseAvatars"
     },
     {
         "name": "Monastic Orders of Faerun",
@@ -21496,7 +21502,7 @@
             "BGT"
         ],
         "authors": [
-            "GeN1e"
+            "Ardanis"
         ],
         "team": [],
         "notes": [
@@ -21507,7 +21513,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2007-04",
-        "tp2": ""
+        "tp2": "monktweak"
     },
     {
         "name": "Monsters Beat Enchantment",
@@ -21554,16 +21560,21 @@
             "BGT"
         ],
         "authors": [
-            "hlidskialf"
+            "Mordan Dragon Slayer"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "de",
+            "it"
+        ],
         "status": "active",
         "last_update": "2009-10",
-        "tp2": ""
+        "tp2": "MDX"
     },
     {
         "name": "More Encounters - Quest Mod für BG1",
@@ -21719,10 +21730,13 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2016-07",
-        "tp2": ""
+        "tp2": "MorrowGate"
     },
     {
         "name": "Mortis Mini Mod / The Forgotten Children",
@@ -21836,10 +21850,15 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "de",
+            "it",
+            "ru",
+            "en"
+        ],
         "status": "active",
         "last_update": "2008-05",
-        "tp2": ""
+        "tp2": "MulgoreXaviaNPC"
     },
     {
         "name": "Multi-Portrait",
@@ -21864,10 +21883,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2017-12",
-        "tp2": ""
+        "tp2": "BYMultiPort"
     },
     {
         "name": "Multi-class Multikit Mod",
@@ -21965,10 +21986,15 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "ru",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2010-04",
-        "tp2": ""
+        "tp2": "munchmod"
     },
     {
         "name": "Mur'Neth NPC Mod",
@@ -22034,10 +22060,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2018-05",
+        "tp2": "TWM_Pack"
     },
     {
         "name": "Mystic Fire Paladin Kit",
@@ -22143,7 +22172,6 @@
         ],
         "games": [
             "BGEE",
-            "BG2EE",
             "SoD",
             "EET"
         ],
@@ -22154,10 +22182,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-06",
-        "tp2": ""
+        "tp2": "npc-bodies"
     },
     {
         "name": "NPC Damage",
@@ -22181,7 +22211,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2008-03",
-        "tp2": ""
+        "tp2": "npcdamage"
     },
     {
         "name": "NPC Enhanced for Everyone",
@@ -22393,7 +22423,7 @@
         ],
         "status": "active",
         "last_update": "",
-        "tp2": ""
+        "tp2": "najebawszy"
     },
     {
         "name": "Nanstein",
@@ -22465,7 +22495,7 @@
     },
     {
         "name": "Navarra",
-        "description": "Dernière production de Kitanna, ce mod ajoute une barbare humaine chaotique bonne dans BG2. Navarra a grandi sur les terres rudes de Narfell. L'esclavage n'était pas rare et sa tribu ne faisait pas exception à la règle. Elle n'aime pas les esclaves, mais ils se sont occupés d'elle depuis son enfance. Parce qu'elle a grandi auprès d'esclaves, elle pense que les hommes ont une volonté faible et sont indignes d'elle. Elle ne connaît que ce qu'on lui a appris et ce qu'elle a vécu dans sa tribu. Ce qu'elle a appris sur les hommes lui a été inculqué pendant de nombreuses années. Sera-t-elle capable de gérer cela avec les événements à venir ? Un PJ masculin sera-t-il capable de l'aider à voir la vérité ou même de l'aimer ? Pour le savoir, allez la rencontrer dans l'Antre des sept vaux. Ses caractéristiques : FOR 18/91 - DEX 16 - CON 16 - INT 10 - SAG 10 - CHA 10.",
+        "description": "Ce mod ajoute une barbare humaine chaotique bonne dans BG2. Navarra a grandi sur les terres rudes de Narfell. L'esclavage n'était pas rare et sa tribu ne faisait pas exception à la règle. Elle n'aime pas les esclaves, mais ils se sont occupés d'elle depuis son enfance. Parce qu'elle a grandi auprès d'esclaves, elle pense que les hommes ont une volonté faible et sont indignes d'elle. Elle ne connaît que ce qu'on lui a appris et ce qu'elle a vécu dans sa tribu. Ce qu'elle a appris sur les hommes lui a été inculqué pendant de nombreuses années. Sera-t-elle capable de gérer cela avec les événements à venir ? Un PJ masculin sera-t-il capable de l'aider à voir la vérité ou même de l'aimer ? Pour le savoir, allez la rencontrer dans l'Antre des sept vaux. Ses caractéristiques : FOR 18/91 - DEX 16 - CON 16 - INT 10 - SAG 10 - CHA 10.",
         "urls": [
             "https://www.gibberlings3.net/files/file/1035-navarra/"
         ],
@@ -22487,7 +22517,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2022-12",
-        "tp2": ""
+        "tp2": "navarra"
     },
     {
         "name": "Neera Banters",
@@ -22702,7 +22732,11 @@
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "nowus777",
+            "viader",
+            "Selendis"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
@@ -22711,8 +22745,8 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2020-07",
+        "tp2": "NOzWM"
     },
     {
         "name": "New travel system between Baldur's Gate City areas",
@@ -22772,10 +22806,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-02",
-        "tp2": ""
+        "tp2": "nmbeauty"
     },
     {
         "name": "Night of the Blinking Dead",
