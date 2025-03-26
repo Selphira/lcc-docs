@@ -4580,7 +4580,8 @@
         "description": "Ce mod énorme ajoute les zones nocturnes qui manquent dans toutes les zones principales sauf Baldur's Gate et ajoute les minimaps nocturnes manquantes dans toutes les zones principales. Il corrige également des défauts graphiques dans les différentes cartes du jeu (fenêtres qui s'affichent la nuit et pas le jour - ou vice versa, porte mal ajustée, défaut dans les images de nuit, etc.). Il donne à tous les braseros muraux leurs flammes manquantes. Enfin, presque toutes les vilaines taches bleues et violettes ont été supprimées des rues. Il a été réalisé en collaboration avec Overhaul Studios.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27768-baldurs-gate-graphics-overhaul-for-eet",
-            "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul"
+            "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul",
+            "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul-Android"
         ],
         "categories": [
             "Cosmétique"
@@ -4601,7 +4602,8 @@
         ],
         "team": [],
         "notes": [
-            "Installez-le avant tout autre mod qui apporte des modifications aux zones, car sinon le jeu se plantera lorsque vous entrerez dans ces zones !"
+            "Installez-le avant tout autre mod qui apporte des modifications aux zones, car sinon le jeu se plantera lorsque vous entrerez dans ces zones !",
+            "Le dernier lien github propose une version pour Android."
         ],
         "translation_state": "n/a",
         "safe": 2,
@@ -20635,7 +20637,8 @@
         "name": "Menace sur le Royaume de Diamant Éternel",
         "description": "Vous avez tous adoré Excalibur, mais vous êtes-vous jamais demandé pourquoi les seules femmes présentes y sont nuisibles ? Guenièvre l'adultère, Morgane la méchante... Pourquoi les Ordres de Paladins ne comportent-ils que des hommes ? Et si tout ceci n'était qu'une fable racontée par les hommes pour dissimuler la vérité ?|Ce mod tente de rétablir la vérité, du moins SA VÉRITÉ... L'aventure se situe dans une autre dimension, dans le Royaume de Diamant Éternel, dirigé par une famille de paladins que tente de renverser une paladine renégate. Cette dernière a passé un pacte plutôt spécial avec des \"forces\" pour le moins particulières... La richesse du Royaume provient de ses mines et sa puissance de la protection que lui a toujours accordée Diamantor, le (\"Demi-\" ?) Dieu Dragon d'Argent. Il s'agira ici de combattre - entre autres - des Dragons et de leur redonner toute leur place et bon nombre de leurs pouvoirs de destruction...",
         "urls": [
-            "https://www.baldursgateworld.fr/viewforum.php?f=635"
+            "https://www.baldursgateworld.fr/viewforum.php?f=635",
+            "https://github.com/GwendolyneFreddy/Diamant-Eternel"
         ],
         "categories": [
             "Quête"
@@ -20656,11 +20659,12 @@
         "translation_state": "yes",
         "safe": 1,
         "languages": [
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "wip",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2021-02",
+        "tp2": "diamant_eternel"
     },
     {
         "name": "Mercenary",
@@ -27476,30 +27480,40 @@
     },
     {
         "name": "Rycerz Światłości",
-        "description": "Ce mod installe le profil de paladin Chevalier de la lumière. En polonais.",
+        "description": "Ce mod installe le profil de paladin Chevalier de la Lumière. Il peut atteindre la grande maîtrise avec les épées longues et les épées bâtardes. Il possède des compétences martiales supérieures aux paladins au détriment de sa capacité à lancer des sorts. Il gagne également de puissants effets passifs au fil des niveaux : immunité à la peur au niveau 10, protection contre le mal au niveau 15 etc",
         "urls": [
-            "https://baldur.cob-bg.pl/node/915"
+            "https://baldur.cob-bg.pl/node/915",
+            "http://athkatla.cob-bg.pl/viewtopic.php?t=3486&sid=473c7240dfe94ad896e7ad10dffebce6",
+            "https://github.com/Plutonium-X/KIT_Lumiere"
         ],
         "categories": [
             "Kit"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Alvarez"
         ],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
+        "team": [
+            "Deratiseur"
+        ],
+        "notes": [
+            "Seul le lien github est traduit et compatible avec les versions EE."
+        ],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "pl"
+            "pl",
+            "en",
+            "fr"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2025-03",
+        "tp2": "Rycerz"
     },
     {
         "name": "Rylorn the NPC",
@@ -34036,7 +34050,7 @@
         "safe": 0,
         "languages": [],
         "status": "embed",
-        "last_update": "",
+        "last_update": "2003-01",
         "tp2": ""
     },
     {
@@ -34044,29 +34058,36 @@
         "description": "Hommage au manga `Tomoyo After : It's a Wonderful Life`, ce mod (en chinois) ajoute une ville souterraine (dont l'entrée se trouve dans la crypte de la liche aux Portes de la ville). Ceux qui ne sont pas rebutés par une histoire déconnectée de celle de BG2 y trouveront une suite de cartes enchaînées, sur lesquelles vous allez affronter des centaines de monstres qui dropperont une foule d'objets, certains extrêmement puissants. Vous rencontrerez et pourrez engager Tomoyo Sakagami, héroïne du manga Clannad et de ses continuations. Vous n'êtes cependant pas obligé de la garder dans le groupe, elle est muette et n'a aucune incidence sur la suite.",
         "urls": [
             "https://trow.cc/board/showtopic=13751&st=0",
-            "http://www.shsforums.net/files/file/1270-dnt-tomoyo-and-the-underground-city/"
+            "http://www.shsforums.net/files/file/1270-dnt-tomoyo-and-the-underground-city/",
+            "https://github.com/Plutonium-X/FIGHT_Tomoyo"
         ],
         "categories": [
             "Quête"
         ],
         "games": [
             "BG2",
-            "BGT"
+            "BGT",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "vira"
         ],
-        "team": [],
-        "notes": [
-            "Ce mod est en chinois."
+        "team": [
+            "Deratiseur"
         ],
-        "translation_state": "no",
+        "notes": [
+            "Seul le lien github propose une version EE."
+        ],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "cn"
+            "cn",
+            "en",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2008-11",
+        "last_update": "2025-03",
         "tp2": "DNT"
     },
     {
@@ -35815,8 +35836,7 @@
         "name": "Vampire Tales",
         "description": "Les mods Miriam (PNJ vampire aux stats moins bourrines que celles de [[Valen NPC]], mais semblant disposer d'un caractère tout aussi lunatique et violent) et [[Dark Ritual]] (ajoutant un marchand avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2, initialement traduit par Panaka) sont désormais réunis dans ce mod qui améliore en outre la quête de l'Œil Aveugle, la rencontre avec les Ménestrels, et ajoute une nouvelle rencontre dans le donjon de Firkraag. ToB est requis.",
         "urls": [
-            "https://github.com/The-Gate-Project/VampireTales",
-            "http://downloads.chosenofmystra.net/bg2/VampireTalesForBG2EE105.rar"
+            "https://github.com/The-Gate-Project/VampireTales"
         ],
         "categories": [
             "PNJ recrutable",
