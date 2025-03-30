@@ -4582,7 +4582,8 @@
         "description": "Ce mod énorme ajoute les zones nocturnes qui manquent dans toutes les zones principales sauf Baldur's Gate et ajoute les minimaps nocturnes manquantes dans toutes les zones principales. Il corrige également des défauts graphiques dans les différentes cartes du jeu (fenêtres qui s'affichent la nuit et pas le jour - ou vice versa, porte mal ajustée, défaut dans les images de nuit, etc.). Il donne à tous les braseros muraux leurs flammes manquantes. Enfin, presque toutes les vilaines taches bleues et violettes ont été supprimées des rues. Il a été réalisé en collaboration avec Overhaul Studios.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27768-baldurs-gate-graphics-overhaul-for-eet",
-            "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul"
+            "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul",
+            "https://github.com/Spellhold-Studios/Baldurs-Gate-Graphical-Overhaul-Android"
         ],
         "categories": [
             "Cosmétique"
@@ -4603,7 +4604,8 @@
         ],
         "team": [],
         "notes": [
-            "Installez-le avant tout autre mod qui apporte des modifications aux zones, car sinon le jeu se plantera lorsque vous entrerez dans ces zones !"
+            "Installez-le avant tout autre mod qui apporte des modifications aux zones, car sinon le jeu se plantera lorsque vous entrerez dans ces zones !",
+            "Le dernier lien github propose une version pour Android."
         ],
         "translation_state": "n/a",
         "safe": 2,
@@ -20650,7 +20652,8 @@
         "name": "Menace sur le Royaume de Diamant Éternel",
         "description": "Vous avez tous adoré Excalibur, mais vous êtes-vous jamais demandé pourquoi les seules femmes présentes y sont nuisibles ? Guenièvre l'adultère, Morgane la méchante... Pourquoi les Ordres de Paladins ne comportent-ils que des hommes ? Et si tout ceci n'était qu'une fable racontée par les hommes pour dissimuler la vérité ?|Ce mod tente de rétablir la vérité, du moins SA VÉRITÉ... L'aventure se situe dans une autre dimension, dans le Royaume de Diamant Éternel, dirigé par une famille de paladins que tente de renverser une paladine renégate. Cette dernière a passé un pacte plutôt spécial avec des \"forces\" pour le moins particulières... La richesse du Royaume provient de ses mines et sa puissance de la protection que lui a toujours accordée Diamantor, le (\"Demi-\" ?) Dieu Dragon d'Argent. Il s'agira ici de combattre - entre autres - des Dragons et de leur redonner toute leur place et bon nombre de leurs pouvoirs de destruction...",
         "urls": [
-            "https://www.baldursgateworld.fr/viewforum.php?f=635"
+            "https://www.baldursgateworld.fr/viewforum.php?f=635",
+            "https://github.com/GwendolyneFreddy/Diamant-Eternel"
         ],
         "categories": [
             "Quête"
@@ -20671,11 +20674,12 @@
         "translation_state": "yes",
         "safe": 1,
         "languages": [
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "wip",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2021-02",
+        "tp2": "diamant_eternel"
     },
     {
         "name": "Mercenary",
@@ -27529,9 +27533,10 @@
     },
     {
         "name": "Rycerz Światłości",
-        "description": "Ce mod installe le profil de paladin Chevalier de la lumière, cumulant de nombreux avantages offensifs.",
+        "description": "Ce mod installe le profil de paladin Chevalier de la Lumière. Il peut atteindre la grande maîtrise avec les épées longues et les épées bâtardes. Il possède des compétences martiales supérieures aux paladins au détriment de sa capacité à lancer des sorts. Il gagne également de puissants effets passifs au fil des niveaux : immunité à la peur au niveau 10, protection contre le mal au niveau 15 etc",
         "urls": [
             "https://baldur.cob-bg.pl/node/915",
+            "http://athkatla.cob-bg.pl/viewtopic.php?t=3486&sid=473c7240dfe94ad896e7ad10dffebce6",
             "https://github.com/Plutonium-X/KIT_Lumiere"
         ],
         "categories": [
@@ -27541,7 +27546,6 @@
             "BG2",
             "BGT",
             "BGEE",
-            "SOD",
             "BG2EE",
             "EET",
             "IWDEE"
@@ -27549,7 +27553,9 @@
         "authors": [
             "Alvarez"
         ],
-        "team": [],
+        "team": [
+            "Deratiseur"
+        ],
         "notes": [
             "Choisissez le lien github pour la version EE en français et l'autre lien pour la version originelle en polonais."
         ],
@@ -27557,7 +27563,8 @@
         "safe": 2,
         "languages": [
             "pl",
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "active",
         "last_update": "2025-03",
@@ -34098,7 +34105,7 @@
         "safe": 0,
         "languages": [],
         "status": "embed",
-        "last_update": "",
+        "last_update": "2003-01",
         "tp2": ""
     },
     {
@@ -34121,7 +34128,9 @@
         "authors": [
             "vira"
         ],
-        "team": [],
+        "team": [
+            "Deratiseur"
+        ],
         "notes": [
             "Choisissez le lien github pour la version EE en français et les deux autres liens pour la version originelle en chinois."
         ],
@@ -34129,7 +34138,8 @@
         "safe": 2,
         "languages": [
             "cn",
-            "fr"
+            "fr",
+            "en"
         ],
         "status": "active",
         "last_update": "2025-03",
@@ -46436,7 +46446,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Experience Purchaser",
+        "name": "XPexchange",
         "description": "Pour les BGEET qui intègrent plus de campagnes, un personnage de classe unique peut atteindre le plafond de niveau tôt et se sentir seul face à ses coéquipiers qui montent en niveau plus tard. Ce mod permet d'échanger les points d'expérience superflus contre des capacités supplémentaires.|Lorsqu'un coéquipier a suffisamment de points d'expérience, lancez un sort de Souhait ou de Souhait mineur et de nouvelles options d'échange apparaîtront. Cependant, il y a quelques limites :|1. le personnage doit être de classe unique (le composant 2 supprime cette restriction)|2. le personnage doit avoir plus de 6 millions de points d'expérience (7,5 ou 15 millions pour le mode Legacy of Bhaal, en fonction du plafond d'EXP).",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/39001-xpexchange-v09-to-exchange-superfluous-experience-points-for-more-abilities/",
