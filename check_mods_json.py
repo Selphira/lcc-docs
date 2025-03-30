@@ -1,4 +1,5 @@
 from dataclasses import fields
+from datetime import datetime
 import re
 
 from models import Mod, ModStatus
@@ -70,6 +71,17 @@ def main():
         assert last_update_check, (
             f"🔴 {mod_name} : Date non conforme : {mod['last_update']}; format attendu : YYYY-MM"
         )
+        if mod["last_update"]:
+            try:
+                mod_update_date = datetime.strptime(mod["last_update"], "%Y-%m")
+            except ValueError as e:
+                raise AssertionError(
+                    f"🔴 {mod_name} : Format de date non conforme : {e}"
+                ) from e
+
+            assert datetime(1999, 1, 1) <= mod_update_date <= datetime.today(), (
+                f"🔴 {mod_name} : Date impossible : {mod_update_date}"
+            )
 
         # check safe
         assert 0 <= mod["safe"] <= 2, (
