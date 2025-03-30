@@ -46763,7 +46763,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Original casting sounds",
+        "name": "Pathfinder Soundset",
         "description": "Ce mod ajoute les voix d'accompagnement de `Pathfinder : Wrath of the Rightous` dans les éditions EE.",
         "urls": [
             "https://github.com/Arvendor/PathfinderVoices_for_EE"
@@ -49200,33 +49200,6 @@
         "status": "active",
         "last_update": "2018-05",
         "tp2": "Setup-XanAlternateBG2Voice"
-    },
-    {
-        "name": "PathfinderVoices_for_EE",
-        "description": "Ajoute les voix des compagnons de Pathfinder : Wrath of the Rightous à BG2:EE, BG:EE et IWD:EE",
-        "urls": [
-            "https://github.com/Arvendor/PathfinderVoices_for_EE"
-        ],
-        "categories": [
-            "Portrait et son"
-        ],
-        "games": [
-            "IWDEE",
-            "BGEE",
-            "SoD",
-            "BG2EE"
-        ],
-        "authors": [
-            "Arvendor"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 2,
-        "languages": [],
-        "status": "active",
-        "last_update": "2022-10",
-        "tp2": "aw_PF_soundsets"
     },
     {
         "name": "Discard Armor/Book Casting",
