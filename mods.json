@@ -47202,7 +47202,7 @@
             "BG2EE"
         ],
         "authors": [
-            "sarevok57"
+            "Sarevok57"
         ],
         "team": [],
         "notes": [
@@ -50498,7 +50498,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2013-03",
+        "last_update": "2014-03",
         "tp2": "Erg_NPC_Renamer"
     },
     {
@@ -50852,7 +50852,7 @@
         "safe": 2,
         "languages": [],
         "status": "wip",
-        "last_update": "",
+        "last_update": "2014-11",
         "tp2": ""
     },
     {
@@ -50878,7 +50878,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "",
+        "last_update": "2014-12",
         "tp2": ""
     },
     {
@@ -50902,7 +50902,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2020-06",
+        "last_update": "2019-10",
         "tp2": "Musicforiwd"
     },
     {
@@ -50950,11 +50950,11 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2019-05",
+        "last_update": "2020-01",
         "tp2": "IWDSpellIcons"
     },
     {
-        "name": "Barbarian/Shama)",
+        "name": "Barbarian/Shaman",
         "description": "C'est un kit de shaman qui gagne tous les bénéfices d'un barbare (rage, résistances, immunité aux sournoises, spécialisation, pvs D10, etc, mais en contrepartie ne gagne que 50% d'xp.",
         "urls": [
             "https://forums.beamdog.com/discussion/74927"
@@ -51002,7 +51002,7 @@
             "en"
         ],
         "status": "archived",
-        "last_update": "2014-10",
+        "last_update": "2014-11",
         "tp2": ""
     },
     {
@@ -51355,7 +51355,7 @@
             "en"
         ],
         "status": "missing",
-        "last_update": "",
+        "last_update": "2017-08",
         "tp2": ""
     },
     {
@@ -51391,7 +51391,7 @@
         "tp2": "Ellyrian"
     },
     {
-        "name": "SOD Item Replacement",
+        "name": "BGEE/SOD Item Replacement",
         "description": "Le but de ce mod est d'améliorer l'expérience du jeu en remplaçant tous les objets uniques dupliqués dans BGEE & SOD par quelque chose de différent. Ceci est fait en important des objets magiques raisonnables d'autres jeux infinity comme BG2EE, IWDEE ainsi que de nouveaux objets crées par l'auteur.",
         "urls": [
             "https://forums.beamdog.com/discussion/47005"
@@ -51400,6 +51400,7 @@
             "Sort et objet"
         ],
         "games": [
+            "BGEE",
             "SoD"
         ],
         "authors": [
@@ -51413,7 +51414,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2017-02",
+        "last_update": "2021-01",
         "tp2": "unique_items"
     },
     {
@@ -51441,7 +51442,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2017-02",
+        "last_update": "2016-04",
         "tp2": "non-weidu"
     },
     {
@@ -51519,7 +51520,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2016-02",
+        "last_update": "2016-10",
         "tp2": "trinket"
     },
     {
@@ -51623,7 +51624,7 @@
             "SoD"
         ],
         "authors": [
-            "WithinAmnesia"
+            "Within Amnesia"
         ],
         "team": [],
         "notes": [],
@@ -51681,7 +51682,7 @@
             "IWDEE"
         ],
         "authors": [
-            "noloir"
+            "Noloir"
         ],
         "team": [],
         "notes": [],
@@ -51857,7 +51858,7 @@
             "en"
         ],
         "status": "missing",
-        "last_update": "2014-03",
+        "last_update": "2014-05",
         "tp2": ""
     },
     {
@@ -51883,7 +51884,7 @@
         "safe": 0,
         "languages": [],
         "status": "obsolete",
-        "last_update": "2015-03",
+        "last_update": "2015-04",
         "tp2": "non-weidu"
     },
     {
@@ -51912,7 +51913,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2014-03",
+        "last_update": "2016-04",
         "tp2": "non-weidu"
     },
     {
@@ -52215,7 +52216,7 @@
             "en"
         ],
         "status": "missing",
-        "last_update": "2013-01",
+        "last_update": "2013-02",
         "tp2": ""
     },
     {
@@ -52266,7 +52267,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2019-04",
+        "last_update": "2019-05",
         "tp2": ""
     },
     {
@@ -52376,7 +52377,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2020-12",
+        "last_update": "2021-03",
         "tp2": "non-weidu"
     },
     {
@@ -52492,7 +52493,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2020-06",
+        "last_update": "2021-03",
         "tp2": "non-weidu"
     },
     {
@@ -52627,11 +52628,11 @@
         "safe": 1,
         "languages": [],
         "status": "wip",
-        "last_update": "2025-03",
+        "last_update": "2021-08",
         "tp2": ""
     },
     {
-        "name": "Batman soundset",
+        "name": "Batman Soundset",
         "description": "Set de sons (en anglais) de Batman, tiré de la série animée.",
         "urls": [
             "https://forums.beamdog.com/discussion/13968"
@@ -52660,7 +52661,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Cavalier soundset",
+        "name": "Custom Cavalier Soundset",
         "description": "Set de sons (en anglais) prévu pour jouer un Cavalier (mais rien ne vous y oblige).",
         "urls": [
             "https://forums.beamdog.com/discussion/26767"
@@ -52689,7 +52690,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Doomsinger",
+        "name": "Doomsinger kit",
         "description": "Le doomsinger est un barde dont le chant effraie et désespère les ennemis. À haut niveau son chant peut même tuer les ennemis de bas niveau.",
         "urls": [
             "https://forums.beamdog.com/discussion/30158"
@@ -52705,7 +52706,7 @@
             "IWDEE"
         ],
         "authors": [
-            "Dib"
+            "dib"
         ],
         "team": [],
         "notes": [],
@@ -52715,7 +52716,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2013-11",
+        "last_update": "2014-12",
         "tp2": "Doomsinger"
     },
     {
@@ -52735,7 +52736,7 @@
             "IWDEE"
         ],
         "authors": [
-            "Dib"
+            "dib"
         ],
         "team": [],
         "notes": [],
@@ -52745,7 +52746,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2013-11",
+        "last_update": "2014-03",
         "tp2": "FavouredSoul"
     },
     {
@@ -52831,7 +52832,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2013-03",
+        "last_update": "2013-04",
         "tp2": "FOF"
     },
     {
