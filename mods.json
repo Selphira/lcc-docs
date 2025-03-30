@@ -1754,8 +1754,7 @@
             "https://github.com/Gibberlings3/Another_Fine_Hell/"
         ],
         "categories": [
-            "Quête",
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BGEE",
@@ -1834,7 +1833,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2019-08",
+        "last_update": "2019-03",
         "tp2": "aranw"
     },
     {
@@ -2986,7 +2985,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-03",
         "tp2": "AutoDescription"
     },
     {
@@ -3428,7 +3427,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2019-02",
+        "last_update": "2015-02",
         "tp2": "bg1npcmusic"
     },
     {
@@ -3700,7 +3699,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2019-02",
+        "last_update": "2018-08",
         "tp2": "AceAltMusic"
     },
     {
@@ -3763,7 +3762,7 @@
             "tr"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-03",
         "tp2": "bg2fixpack"
     },
     {
@@ -4611,7 +4610,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-03",
         "tp2": "bggo"
     },
     {
@@ -5304,7 +5303,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-03",
         "tp2": "d2-script"
     },
     {
@@ -6005,8 +6004,7 @@
             "https://github.com/Gitjas/Brandock_the_Mage"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Kit"
+            "PNJ recrutable"
         ],
         "games": [
             "BGT",
@@ -6187,8 +6185,7 @@
             "https://downloads.weaselmods.net/download/bristlelick/"
         ],
         "categories": [
-            "PNJ recrutable",
-            "Kit"
+            "PNJ recrutable"
         ],
         "games": [
             "BGEE",
@@ -6344,7 +6341,7 @@
         "translation_state": "n/a",
         "safe": 0,
         "languages": [],
-        "status": "obsolete",
+        "status": "archived",
         "last_update": "2018-02",
         "tp2": "n/a"
     },
@@ -7679,7 +7676,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2017-02",
-        "tp2": "multiple"
+        "tp2": "ContagionGuiMod_setup_v02beta_for_BG2EE;ContagionGuiMod_setup_v02beta_for_SoD;ContagionGuiMod_setup_v02beta_mini_for_BG2EE;ContagionGuiMod_setup_v02beta_mini_for_SoD;ContagionGuiMod_setup_v02beta_for_SoD;ContagionGuiMod_setup_v03_mini_for_SoD"
     },
     {
         "name": "Continuous NPC Portraits",
@@ -8603,7 +8600,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-03",
         "tp2": "d2-mira"
     },
     {
@@ -8634,7 +8631,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-03",
         "tp2": "d2-weapon"
     },
     {
@@ -8720,10 +8717,11 @@
         "tp2": "n/a"
     },
     {
-        "name": "Damian Soundset (BGEE/BG2EE/IWDEE)",
+        "name": "Damian Soundset",
         "description": "Pack de voix (en anglais) pour un guerrier ayant une tendance à dramatiser les choses, tiré du visual novel Requiescence.",
         "urls": [
-            "https://forums.beamdog.com/discussion/61522/"
+            "https://forums.beamdog.com/discussion/61522/",
+            "https://teatime.itch.io/damian-soundset-mod-for-baldurs-gate-2"
         ],
         "categories": [
             "Portrait et son"
@@ -8738,14 +8736,14 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [
             "en"
         ],
         "status": "active",
         "last_update": "2016-09",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Darian",
@@ -9021,7 +9019,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-03",
         "tp2": "Item_Pack"
     },
     {
@@ -9320,7 +9318,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-05",
+        "last_update": "2025-03",
         "tp2": "Derats_kits"
     },
     {
@@ -9352,7 +9350,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-03",
         "tp2": "Derats_dawap"
     },
     {
@@ -9791,7 +9789,7 @@
         "description": "Ce mod ajoute une nouvelle quête assez difficile : Adressez-vous à la personne complètement folle dans le Marché de l'Aventurier. Il vous posera une demande et votre réponse ouvrira une série de combats assez compliqué. Seuls les survivants recevront la récompense.|| Pour une version compatible EE / EET et intégrant le français prenez la version Github.",
         "urls": [
             "http://www.shsforums.net/files/file/135-domains-of-dread/",
-            "https://github.com/The-Gate-Project/Domains-of-Dread/"
+            "https://github.com/11jo/Domains-of-Dread"
         ],
         "categories": [
             "Quête"
@@ -10126,7 +10124,7 @@
             "it"
         ],
         "status": "active",
-        "last_update": "2018-04",
+        "last_update": "2019-02",
         "tp2": "Dreamwalker"
     },
     {
@@ -10772,7 +10770,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-03",
+        "last_update": "2024-11",
         "tp2": "EEex"
     },
     {
@@ -11143,7 +11141,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2024-06",
         "tp2": "Eldritch_Magic"
     },
     {
@@ -11488,7 +11486,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2021-07",
+        "last_update": "2025-03",
         "tp2": "EET;EET_end;EET_gui"
     },
     {
@@ -12875,11 +12873,11 @@
             "https://downloads.weaselmods.net/download/foundling-between-the-shades/"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ recrutable",
+            "Quête"
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -13275,7 +13273,9 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-06",
         "tp2": "garrick_flirt"
@@ -13918,12 +13918,15 @@
         "authors": [
             "Genwa"
         ],
-        "team": [],
+        "team": [
+            "JohnBob"
+        ],
         "notes": [],
-        "translation_state": "todo",
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "de"
+            "de",
+            "fr"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -14579,7 +14582,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2018-03",
+        "last_update": "2018-04",
         "tp2": "Helarine_BGEE"
     },
     {
@@ -16716,7 +16719,7 @@
             "Miloch"
         ],
         "team": [
-            "Freddy Gwendo"
+            "Freddy_Gwendo"
         ],
         "notes": [
             "Ne pas oublier de télécharger <a href=\"http://www.shsforums.net/files/category/98-infinity-animations/\">tous les fichiers d'animation</a> et les décompresser dans le dossier \"infinityanimations/content\" avant d'installer le mod."
@@ -18314,7 +18317,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-03",
         "tp2": "KhalidBG2"
     },
     {
@@ -18414,7 +18417,7 @@
         "description": "Incroyablement belle, délicieusement sensuelle... et terriblement chieuse, Kim la pirate fait escale à Athkatla. Saurez-vous l'apprivoiser ? Ce mod français (hé oui) a été développé sur ces forums par GrenouilleBleue. Il ajoute un nouveau PNJ, Kim, et une quête propre ainsi qu'une romance.|Voici ses caractéristiques : FOR 17, DEX 18, CON 10, INT 14, SAG 7 et CHA 16.",
         "urls": [
             "https://akadis.baldursgateworld.fr/Kim/KimFr.html",
-            "https://github.com/The-Gate-Project/Kim_NPC/"
+            "https://github.com/11jo/Kim_NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -20683,7 +20686,7 @@
         ],
         "status": "wip",
         "last_update": "2021-02",
-        "tp2": "diamant_eternel"
+        "tp2": "n/a"
     },
     {
         "name": "Mercenary",
@@ -20861,7 +20864,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-02",
         "tp2": "might_and_guile"
     },
     {
@@ -21006,7 +21009,7 @@
         "safe": 0,
         "languages": [],
         "status": "embed",
-        "last_update": "2016-06",
+        "last_update": "2016-07",
         "tp2": "MinorNPCPortraitsforBG2EE"
     },
     {
@@ -21133,7 +21136,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2025-03",
         "tp2": "d2-randomkits"
     },
     {
@@ -23338,7 +23341,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-05",
+        "last_update": "2025-01",
         "tp2": "MESpells"
     },
     {
@@ -24555,7 +24558,7 @@
         "description": "Ce mod augmente la durée de la quête de classe liée à la sphère et, donc l'intérêt de jouer un mage. Une grande quête supplémentaire ainsi que plusieurs petites et une sphère peuplée d'apprentis. À noter aussi la présence de 39 nouveaux sorts.|N'hésitez pas à aussi installer le mini mod complémentaire [[Planar Sphere Teleporter]] (aussi appelé PlanarSphere Return) qui vous permettra de vous téléporter directement dans la Sphère planaire (et de revenir là où vous étiez), comme la capacité \"Antichambre\".",
         "urls": [
             "http://www.shsforums.net/files/file/131-planarsphere/",
-            "https://github.com/The-Gate-Project/PlanarSphere"
+            "https://github.com/11jo/PlanarSphere"
         ],
         "categories": [
             "Quête",
@@ -25197,7 +25200,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2016-06",
+        "last_update": "2016-07",
         "tp2": ""
     },
     {
@@ -25319,7 +25322,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2017-06",
+        "last_update": "2017-07",
         "tp2": "PowerOfBelief"
     },
     {
@@ -25628,7 +25631,6 @@
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -25641,7 +25643,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-04",
+        "last_update": "2025-03",
         "tp2": "quayle"
     },
     {
@@ -29277,7 +29279,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "obsolete",
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -29377,7 +29379,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-10",
+        "last_update": "2025-03",
         "tp2": "SkitiaNPCs"
     },
     {
@@ -29467,11 +29469,11 @@
             "jp"
         ],
         "status": "active",
-        "last_update": "2021-08",
+        "last_update": "2021-09",
         "tp2": "sleep_fix"
     },
     {
-        "name": "Slightly Improved Illyich",
+        "name": "Slightly Improved Ilyich",
         "description": "Lassé(e) de combattre ce groupe de duergars décidément trop facile pour vos gros bras ou vos sortilèges destructeurs - malgré le fait que vous n'en ayez qu'assez peu au début du jeu ? Mais le composant `Ilyich amélioré` de Weimer [[Tactics]] vous a déjà fait arracher tous les cheveux qu'il vous restait - ayant déjà arraché la première moitié en essayant d'installer correctement votre interminable liste de mods ? Alors, ce mod vous plaira probablement ! Il améliore les duergars de la prison d'Irenicus, sans toutefois les rendre invincibles... Notez qu'il ajoute également quelques autres petites choses ; elles sont listées dans le readme comme d'habitude.",
         "urls": [
             "https://forum.sigil.cz/viewtopic.php?t=553",
@@ -29504,7 +29506,7 @@
         ],
         "status": "active",
         "last_update": "2025-02",
-        "tp2": "SlightlyImprovedIllyich"
+        "tp2": "SlightlyImprovedIlyich"
     },
     {
         "name": "Slowdown Fixes",
@@ -29611,7 +29613,7 @@
             "en"
         ],
         "status": "archived",
-        "last_update": "",
+        "last_update": "2022-08",
         "tp2": "SoDDialogBanters"
     },
     {
@@ -29943,10 +29945,7 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr",
-            "pl",
-            "ru",
-            "es"
+            "fr"
         ],
         "status": "active",
         "last_update": "2020-08",
@@ -30122,7 +30121,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2019-03",
         "tp2": "SpiritHunter"
     },
     {
@@ -30361,7 +30360,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2017-09",
+        "last_update": "2019-02",
         "tp2": "StormCaller"
     },
     {
@@ -30539,16 +30538,19 @@
         "authors": [
             "MajorTomSawyer"
         ],
-        "team": [],
+        "team": [
+            "Freddy_Gwendo"
+        ],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
-            "es"
+            "es",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2021-12",
+        "last_update": "2025-03",
         "tp2": "sbs"
     },
     {
@@ -31042,7 +31044,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2025-01",
         "tp2": "karatur"
     },
     {
@@ -31101,7 +31103,7 @@
     },
     {
         "name": "Tactics",
-        "description": "Ce mod est basé sur les combats et la stratégie, et pratiquement rien d'autre. Il compile d'anciens mods d'amélioration de certains combats (comme le mod [[Slightly Improved Illyich]], le mod Ritual, et d'autres) et ajoute les siens propres, et rend le jeu très difficile et tactique. À noter que vous pouvez installer chaque composant séparément. Il ajoute également deux profils (Archer pour les guerriers et Anti-paladin). Attention, ce mod est idéal pour rééquilibrer le jeu, mais ne rajoute que très peu de quêtes, le but est d'augmenter le niveau de difficulté, rien d'autre... il serait trop long de citer tous les composants de ce mod... Consultez le readme pour plus de précisions.",
+        "description": "Ce mod est basé sur les combats et la stratégie, et pratiquement rien d'autre. Il compile d'anciens mods d'amélioration de certains combats (comme le mod [[Slightly Improved Ilyich]], le mod Ritual, et d'autres) et ajoute les siens propres, et rend le jeu très difficile et tactique. À noter que vous pouvez installer chaque composant séparément. Il ajoute également deux profils (Archer pour les guerriers et Anti-paladin). Attention, ce mod est idéal pour rééquilibrer le jeu, mais ne rajoute que très peu de quêtes, le but est d'augmenter le niveau de difficulté, rien d'autre... il serait trop long de citer tous les composants de ce mod... Consultez le readme pour plus de précisions.",
         "urls": [
             "https://weidu.org/tactics.html",
             "https://forums.beamdog.com/discussion/41242/"
@@ -31352,7 +31354,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2018-12",
         "tp2": "TalonOfMalar"
     },
     {
@@ -32012,7 +32014,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2016-07",
+        "last_update": "2019-02",
         "tp2": "BearWalker"
     },
     {
@@ -32497,7 +32499,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-03",
         "tp2": "drizztsaga"
     },
     {
@@ -32628,7 +32630,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2024-12",
         "tp2": "TGC1E"
     },
     {
@@ -32763,7 +32765,8 @@
             "https://downloads.weaselmods.net/download/the-journey-to-the-whin-hill/"
         ],
         "categories": [
-            "Quête"
+            "Quête",
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE",
@@ -32847,7 +32850,8 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "ru"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -33445,7 +33449,8 @@
             "https://downloads.weaselmods.net/download/the-vanishing-of-skie-silvershield/"
         ],
         "categories": [
-            "PNJ (autre)"
+            "PNJ (autre)",
+            "Quête"
         ],
         "games": [
             "BGEE",
@@ -33572,7 +33577,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-03",
         "tp2": "d2-workshopkits"
     },
     {
@@ -33602,7 +33607,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2017-10",
+        "last_update": "2017-11",
         "tp2": "tb#quest"
     },
     {
@@ -33729,7 +33734,6 @@
         "name": "Thrown Hammers",
         "description": "Ce mod ajoute des animations aux marteaux lancés (qui apparaissaient auparavant comme des haches). Il ajoute également une modification au sort marteau spirituel, ainsi que des marteaux de jet normaux, magiques et certains uniques.",
         "urls": [
-            "http://www.shsforums.net/files/file/654-thrown-hammers/",
             "https://github.com/Sampsca/ThrownHammers"
         ],
         "categories": [
@@ -34086,7 +34090,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-03",
         "tp2": "TomeAndBlood"
     },
     {
@@ -34153,7 +34157,7 @@
         "tp2": "DNT"
     },
     {
-        "name": "Tortured Soul",
+        "name": "Tortured Soul Lite",
         "description": "Le concepteur d'origine a poursuivi le développement du mod dans une version stand-alone, avec moults remaniements de textes. Cependant, bien que compatible avec [[Baldurdash-WeiDU]] 1.75 (obligatoire) et avec les autres mods de Vlad que sont Keldorn's Romance (fortement recommandé) et [[Never Ending Journey]]3 (obligatoire), elle est incompatible avec la plupart des mods WeiDU y compris le [[BG2 FixPack]] !",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394",
@@ -34184,11 +34188,10 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en",
-            "ru"
+            "en"
         ],
         "status": "active",
-        "last_update": "2023-05",
+        "last_update": "2023-07",
         "tp2": "vladtslite"
     },
     {
@@ -34214,14 +34217,14 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en",
             "ru",
             "de",
             "es"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "2007-06",
         "tp2": ""
     },
@@ -34289,7 +34292,7 @@
         "urls": [
             "http://www.blackwyrmlair.net/~valiant/",
             "https://github.com/InfinityMods/TowerOfDeception",
-            "https://github.com/11jo/TowerOfDeception"
+            "https://github.com/The-Gate-Project/TowerOfDeception"
         ],
         "categories": [
             "Quête"
@@ -34308,7 +34311,7 @@
             "Le Marquis"
         ],
         "notes": [
-            "Le lien gihub de 11jo est un peu plus en avance sur le mod le temps que la modification soit acceptée par l'auteur."
+            "Le lien gihub de The Gate Project est un peu plus en avance sur le mod le temps que la modification soit acceptée par l'auteur."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -35526,7 +35529,7 @@
             "sw"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-03",
         "tp2": "ua"
     },
     {
@@ -36682,7 +36685,7 @@
         "description": "Ce mod ajoute un profil de guerrier, tiré des classes de prestige des races de Féérune, un archer spécialisé dans les frondes.",
         "urls": [
             "http://www.shsforums.net/files/file/935-warsling-sniper-kit-for-fighters/",
-            "https://github.com/The-Gate-Project/WarslingSniperKit"
+            "https://github.com/11jo/WarslingSniperKit"
         ],
         "categories": [
             "Kit"
@@ -37170,7 +37173,7 @@
             "br"
         ],
         "status": "active",
-        "last_update": "2024-02",
+        "last_update": "2025-03",
         "tp2": "wildmage"
     },
     {
@@ -38617,7 +38620,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2021-05",
         "tp2": "proficiency"
     },
     {
@@ -40574,7 +40577,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2024-07",
+        "last_update": "2025-03",
         "tp2": "eefixpack"
     },
     {
@@ -41429,10 +41432,11 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-03",
         "tp2": "zbpod"
     },
     {
@@ -41577,7 +41581,8 @@
         "name": "Call of the Lost Goddess",
         "description": "Ce mod ajoute une grosse quête d'une dizaine d'heures. Près de 50 nouvelles zones sont créées avec de nouveaux monstres. Cette quête est librement inspirée du module d'aventure de la seconde édition \"For Duty and Deity\" écrit par Dale Donovan.",
         "urls": [
-            "https://forums.beamdog.com/discussion/88425/"
+            "https://forums.beamdog.com/discussion/88425/",
+            "https://github.com/AciferBG/Call-of-the-Lost-Goddess"
         ],
         "categories": [
             "Quête"
@@ -41593,10 +41598,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "cn"
+        ],
         "status": "active",
-        "last_update": "2024-10",
-        "tp2": ""
+        "last_update": "2025-03",
+        "tp2": "Godcall"
     },
     {
         "name": "Compass Of Womanhood",
@@ -41623,7 +41632,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2023-02",
+        "last_update": "2023-03",
         "tp2": "CompassOfWomanhood"
     },
     {
@@ -41654,7 +41663,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-09",
+        "last_update": "2025-03",
         "tp2": "valkrana"
     },
     {
@@ -41742,7 +41751,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-03",
+        "last_update": "2022-03",
         "tp2": "Orelios"
     },
     {
@@ -41829,7 +41838,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2023-07",
+        "last_update": "2023-06",
         "tp2": "n/a"
     },
     {
@@ -41858,7 +41867,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-09",
+        "last_update": "2022-11",
         "tp2": "ahungry_tweaks"
     },
     {
@@ -41948,7 +41957,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-03",
         "tp2": "lca"
     },
     {
@@ -42000,12 +42009,13 @@
         ],
         "team": [],
         "notes": [
-            "Ne fonctionne qu'avec qu'une version 2.6, ni plus ni moins. Et seulement avec un exécutable Windows !"
+            "Ne fonctionne qu'avec qu'une version 2.6, ni plus ni moins. Et seulement avec un exécutable Windows !",
+            "Inclu dans [[IE Snippets]]."
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2022-04",
         "tp2": "bubb_revert_pathfinding"
     },
@@ -42052,7 +42062,8 @@
             "https://downloads.weaselmods.net/download/juniper-and-the-stone-leech/"
         ],
         "categories": [
-            "Quête"
+            "Quête",
+            "PNJ recrutable"
         ],
         "games": [
             "BG2EE"
@@ -42066,7 +42077,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-07",
+        "last_update": "2025-03",
         "tp2": "juniperandthestoneleech"
     },
     {
@@ -42090,7 +42101,7 @@
             "elminster"
         ],
         "team": [
-            "Freddy Gwendo"
+            "Freddy_Gwendo"
         ],
         "notes": [
             "Il a été rendu obsolète par [[The Tweaks Anthology]]."
@@ -42265,16 +42276,19 @@
         "authors": [
             "Skitia"
         ],
-        "team": [],
+        "team": [
+            "Streen"
+        ],
         "notes": [],
-        "translation_state": "wip",
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2024-05",
+        "last_update": "2025-03",
         "tp2": "Nalia_at_Last"
     },
     {
@@ -42352,7 +42366,7 @@
             "EET"
         ],
         "authors": [
-            "Endarire"
+            "Daniel Valle"
         ],
         "team": [],
         "notes": [
@@ -42673,7 +42687,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-03",
         "tp2": "ZSTweaks"
     },
     {
@@ -42760,7 +42774,7 @@
             "en"
         ],
         "status": "archived",
-        "last_update": "2024-02",
+        "last_update": "2023-10",
         "tp2": "zgbg2evermemory"
     },
     {
@@ -43180,7 +43194,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-09",
+        "last_update": "2022-11",
         "tp2": "ahungry_deletefier"
     },
     {
@@ -43209,7 +43223,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-12",
+        "last_update": "2025-03",
         "tp2": "mih_fr"
     },
     {
@@ -43237,7 +43251,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-03",
         "tp2": "mih_metamod"
     },
     {
@@ -43448,7 +43462,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-03",
         "tp2": "ZS_ShadowdancerOverhaul"
     },
     {
@@ -43637,7 +43651,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-03",
         "tp2": "Reflections"
     },
     {
@@ -43870,7 +43884,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2022-10",
+        "last_update": "2022-11",
         "tp2": "EEScript"
     },
     {
@@ -43902,7 +43916,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2024-10",
         "tp2": "Diablofication"
     },
     {
@@ -44102,7 +44116,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2017-01",
+        "last_update": "2017-03",
         "tp2": "SetUp-5EO"
     },
     {
@@ -44209,7 +44223,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2023-06",
+        "last_update": "2023-12",
         "tp2": "Cruiser"
     },
     {
@@ -44477,7 +44491,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-10",
         "tp2": ""
     },
     {
@@ -44655,7 +44669,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2016-05",
+        "last_update": "2016-08",
         "tp2": "Erevain"
     },
     {
@@ -44787,7 +44801,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2023-01",
+        "last_update": "2025-02",
         "tp2": "ahungry_heart"
     },
     {
@@ -44935,7 +44949,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2025-01",
         "tp2": "SCI-Dualadins"
     },
     {
@@ -45335,7 +45349,7 @@
             "en"
         ],
         "status": "wip",
-        "last_update": "2024-12",
+        "last_update": "2025-01",
         "tp2": "mkhiinbg2"
     },
     {
@@ -45472,7 +45486,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2014-12",
+        "last_update": "2015-03",
         "tp2": "candlekeep_revisited"
     },
     {
@@ -45579,7 +45593,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2020-05",
         "tp2": "non-weidu"
     },
     {
@@ -45610,7 +45624,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2025-02",
         "tp2": "Kvel_BG1"
     },
     {
@@ -45695,7 +45709,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2024-08",
         "tp2": "n/a"
     },
     {
@@ -46199,7 +46213,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-03",
         "tp2": "bmpp"
     },
     {
@@ -46253,7 +46267,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2023-03",
-        "tp2": "multiple"
+        "tp2": "bubb_sprite_highlight_extender;bubb_revert_pathfinding;bubb_fix_bg2_tot_crash;bubb_enable_pst_console;bubb_disable_stoneskin_color;b3_identify"
     },
     {
         "name": "Neverwinter Night for Baldur's Gate",
@@ -46449,7 +46463,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2021-02",
+        "last_update": "2021-03",
         "tp2": "non-weidu"
     },
     {
@@ -46624,7 +46638,7 @@
     },
     {
         "name": "Vlad's Sime NPC",
-        "description": "Voici la version stand-alone de Sime issue de [[Tortured Soul]].",
+        "description": "Voici la version stand-alone de Sime issue de [[Tortured Soul Lite]].",
         "urls": [
             "https://github.com/Black-Wyrm-Lair/TS_Sime"
         ],
@@ -46650,7 +46664,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2022-05",
+        "last_update": "2022-03",
         "tp2": "TS_Sime"
     },
     {
@@ -46704,7 +46718,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2023-05",
+        "last_update": "2023-02",
         "tp2": ""
     },
     {
@@ -46988,7 +47002,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-03",
         "tp2": "emreborn"
     },
     {
@@ -52807,34 +52821,5 @@
         "status": "active",
         "last_update": "2013-04",
         "tp2": "FOF"
-    },
-    {
-        "name": "Damian Soundset",
-        "description": "Set de sons (en anglais) de Damian, un personnage du jeu Requiescence.",
-        "urls": [
-            "https://teatime.itch.io/damian-soundset-mod-for-baldurs-gate-2"
-        ],
-        "categories": [
-            "Portrait et son"
-        ],
-        "games": [
-            "BGEE",
-            "SoD",
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [
-            "amyae"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "n/a",
-        "safe": 2,
-        "languages": [
-            "en"
-        ],
-        "status": "active",
-        "last_update": "2016-09",
-        "tp2": "non-weidu"
     }
 ]

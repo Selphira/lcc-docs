@@ -17,6 +17,9 @@
         "AionZ (formerly Artemius_I)",
         "Artemius_I"
     ],
+    "Alexander12": [
+        "Alexander12-creator"
+    ],
     "Angel": [
         "AngelGryph",
         "angel"
@@ -61,6 +64,9 @@
     "Domi": [
         "domi_sotto"
     ],
+    "Drunktiefling": [
+        "drunktiefling"
+    ],
     "elminster": [
         "Elminster"
     ],
@@ -76,6 +82,9 @@
     ],
     "Freche": [
         "freche"
+    ],
+    "Freddy_Gwendo": [
+        "GwendolyneFreddy"
     ],
     "Glam Vrock": [
         "GlamVrock"
@@ -129,6 +138,9 @@
     "polysquirrel": [
         "polymorphedsquirrel"
     ],
+    "Polytope": [
+        "polytope"
+    ],
     "Rabain": [
         "rabain"
     ],
@@ -137,6 +149,9 @@
     ],
     "Red Carnelian": [
         "red-carnelian"
+    ],
+    "Roxanne": [
+        "RoxanneSHS"
     ],
     "RoyalProtector": [
         "szaumoor"
@@ -168,7 +183,8 @@
     ],
     "Subtledoctor": [
         "subtledoctor",
-        "SubtleD"
+        "SubtleD",
+        "subtledoc"
     ],
     "Sasha al'Therin": [
         "Sasha-alTherin",
