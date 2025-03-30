@@ -45,7 +45,7 @@ Conseils :
     - toute information périssable : `ce mod activement maintenu`
 - Si des informations sont à la fois à éviter et pertinentes, elles peuvent être renseignées dans le champ `notes`.
 - Les balises html sont fonctionnelles dans la description, cela n'est pas cependant pas conseillé.
-    - Parfois un lien externe est utile : `<a url="https://lien" target="_blank">texte</a>`
+    - **Schéma** pour un lien externe : `<a url='https://lien' target='_blank'>texte</a>`
 
 
 ### Aides pour se simplifier la vie
@@ -70,15 +70,40 @@ Les notes du mod écrites par les contributeurs pour compléter la description d
 
 ⚠️ Certaines notes sont automatiques.\
 On trouvera le code dans `Mod.get_auto_notes` dans `models/mods.py`.\
-En voici un résumé des notes automatiques qui ne sont donc pas à ajouter :
+En voici un résumé des notes automatiques qui ne sont donc **PAS** à ajouter :
 - Noms des traducteurs
-- Mods EE qui datent d'avant la version 2.0
-- Mod non WeiDU (tp2="non-weidu")
-- Mod archivé (status="archived")
-- Mod disparu (status="missing")
+- Mods EE qui datent d'avant la version 2.0 : `⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec la dernière version du jeu.`
+- Mod non WeiDU (tp2="non-weidu") : `⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls.`
+- Mod archivé (status="archived") : `Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite.`
+- Mod disparu (status="missing") : `Ce mod a disparu.`
 
 Les `aides` du champ `description` sont fonctionnelles dans les notes.
 
+
+## safe
+
+Ce champ renseigne sur la qualité du mod en général. Les valeurs possibles vont de 0 à 2.
+    
+    2 : 🟢 Mod de qualité
+    1 : ⚠️ Mod pouvant poser des problèmes
+    0 : 🟥 Mod à éviter ou obsolète
+
+À titre informatif, voici quelques règles utilisées :
+* Ce qui met automatiquement la note à **0**
+  * Le mod est intégré dans un autre mod plus à jour : `status="embed"`
+  * Le mod est considéré comme obsolète : `status="obsolete"`
+* Ce qui diminue la note de **1** point :
+  * Le mod est compatible EE mais pas mis à jour depuis la version 2.0 (Avril 2016)
+  * Le mod est compatible EE, de la catégorie `Interface` mais pas mis à jour depuis Avril 2021
+  * Le mod n'est pas weidu : `tp2="non-weidu"`
+  * Le mod est archivé (et donc plus maintenu) : `status="archived"`
+* Ce qui **limite** la note à 1 point (c'est-à-dire qu'ils valent 0 ou 1)
+  * Le mod est en cours de création : `status="wip"`
+  * Le mod a disparu : `status="missing"`
+
+
+Les effets sont cumulatifs.\
+Un mod dont le lien a disparu et qui n'est pas WeiDU vaut 0.
 
 ## urls
 Les urls permettent de renvoyer le lecteur vers un complément d'information mais aussi vers le mod.\
@@ -143,4 +168,5 @@ Quelques exemples :
 
 
 ## update_date
-Cette date au format `YYYY-MM` contient la date de la dernière mise à jour du mod.
+Cette date au format `YYYY-MM` contient la date de la dernière mise à jour du mod.\
+La date doit être comprise entre le 1er Janvier 1999 et la date d'aujourd'hui.
