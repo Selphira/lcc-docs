@@ -9486,7 +9486,7 @@
         "description": "Anciennement [[Mix Mod]], ce mod réunit une petite collection d'ajustements permettant soit de faciliter le jeu, soit de rendre les ennemis plus coriaces.|- Des composants permettent d'augmenter ou de réduire l'empilage des munitions, des gemmes, des bijoux, des potions et des parchemins.|- Une série de composants permet de booster les ennemis en leur accordant un bonus à la CA, au TAC0 et aux jets de sauvegarde (de 1 à 6).|- Une série de composants permet d'augmenter de 25 à 300 % les points de vie des ennemis.|- Un composant permet d'interdire le port des casques aux métamorphes.",
         "urls": [
             "https://forums.beamdog.com/discussion/19928/",
-            "https://forums.beamdog.com/discussion/48211/difficulty-and-tweak-mod-v7-link-is-broken/p1",
+            "https://forums.beamdog.com/discussion/48211/",
             "https://www.mediafire.com/file/ihwkn7e7yc0vltf/Diff_Tweak.zip/file"
         ],
         "categories": [
@@ -9852,7 +9852,7 @@
         "name": "Dorn Friendship",
         "description": "",
         "urls": [
-            "https://www.spellholdstudios.net/ie/npciep",
+            "https://spellhold-studios.github.io/readmes/dorn-friendship/DornFriendship-readme-english.html",
             "https://github.com/Spellhold-Studios/Dorn-Friendship"
         ],
         "categories": [
@@ -10858,7 +10858,8 @@
         "name": "Easy Core Rules",
         "description": "Ce mod tchèque permettait d'obtenir un maximum de PV par niveau et aucun échec dans l'apprentissage des sorts dans tous les jeux IE (BG, BG2, IWD, IWD2 et PsT).",
         "urls": [
-            "https://forum.sigil.cz/viewtopic.php?t=894"
+            "https://forum.sigil.cz/viewtopic.php?t=894",
+            "https://www.sigil.cz/download-modifikace/easy-core-rules/"
         ],
         "categories": [
             "Gameplay"
@@ -10881,10 +10882,13 @@
         ],
         "translation_state": "n/a",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "pl",
+            "en"
+        ],
         "status": "obsolete",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-04",
+        "tp2": "EasyCoreRule"
     },
     {
         "name": "EasyTutu",
@@ -23103,7 +23107,7 @@
         ],
         "team": [],
         "notes": [
-            "Il s'agit d'un mod override. Lui préférer des mods plus sophistiqués comme [[The Tweaks Anthology]]."
+            "Lui préférer des mods plus sophistiqués comme [[The Tweaks Anthology]]."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -23788,7 +23792,7 @@
     },
     {
         "name": "PnP Improved invisibility",
-        "description": "Ce petit mod attribue à tous les sorts utilisant l'invisibilité majeure les règles papier de D&D 2e édition.",
+        "description": "Ce mod rend tous les sorts et capacités qui rendent donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il rendent révèle les créatures invisibles qui ratent leu jet de sauvegarde.",
         "urls": [
             "https://forums.beamdog.com/discussion/39063/"
         ],
@@ -23796,7 +23800,10 @@
             "Sort et objet"
         ],
         "games": [
-            "BG2EE"
+            "BGEE",
+            "SoD",
+            "BG2EE",
+            "EET"
         ],
         "authors": [
             "Amioran"
@@ -23804,7 +23811,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 0,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2015-01",
@@ -29734,7 +29741,7 @@
     },
     {
         "name": "The Sorcerer's Place Collection",
-        "description": "Ce mod ajoute six nouveaux kits créés par Drizzt1180 ([[Sylvan Mystic Kit]], `Blade Master`, `Death Knight`, `Wushi Ninja`, `Archer of Sylvanus`, [[Arcane Fist]]), ainsi que de nouveaux objets ([[Creslyn's BG2 Custom Items]]) dans des magasins déjà existants. Tous ces éléments proviennent de packs d'objets et de profils publiés sur le site Sorcerer's Place convertis au format WeiDU pour faciliter leur installation.",
+        "description": "Ce mod ajoute six nouveaux kits créés par Drizzt1180 ([[Sylvan Mystic Kit]], `Blade Master`, [[Death Knight]], `Wushi Ninja`, `Archer of Sylvanus`, [[Arcane Fist]]), ainsi que de nouveaux objets ([[Creslyn's BG2 Custom Items]]) dans des magasins déjà existants. Tous ces éléments proviennent de packs d'objets et de profils publiés sur le site Sorcerer's Place convertis au format WeiDU pour faciliter leur installation.",
         "urls": [
             "https://www.gibberlings3.net/mods/kits/spc/",
             "https://github.com/Gibberlings3/SP_Collection"
@@ -39234,7 +39241,7 @@
     },
     {
         "name": "MegaMod: Mazzy Romance, Clara NPC...",
-        "description": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc-Neera Romance.| - Flying Aerie.| - Dorn-HaerDalis Romance| - Jaheira-Wilson Romance.| - For The Evil!| - For The Good!| - Et bien d'autres petits composants...",
+        "description": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants...",
         "urls": [
             "https://forums.beamdog.com/discussion/71473/"
         ],
@@ -41161,7 +41168,7 @@
         "name": "Awesome Soundsets Mods Master",
         "description": "74 sets de sons avec sous-titres qui peuvent être utilisés pour les personnages joueurs.",
         "urls": [
-            "https://forums.beamdog.com/discussion/38319/mods-awesome-soundsets-mods-master-thread-custom-soundsets-for-bgee-bg2ee-and-iwdee/p1"
+            "https://forums.beamdog.com/discussion/38319/"
         ],
         "categories": [
             "Portrait et son"
@@ -43664,8 +43671,8 @@
         "name": "Convenience Script Mod",
         "description": "Ce mod ajoute un script qui fournit des fonctionnalités d'attaque de base ainsi que des touches de raccourcis pour activer certaines fonctions confort. Les fonctions confort ne peuvent être activées qu'en dehors des combats. Par exemple la touche `B` permet d'incanter instantanément pendant 1 round, notamment pour simplifier les préparations.|Plus de détails dans le README.",
         "urls": [
-            "https://github.com/pcurrivan/ConvenienceScript",
-            "https://forums.beamdog.com/discussion/40051/convenience-script-instant-store-access-easy-prebuffing-bard-song-find-traps"
+            "https://forums.beamdog.com/discussion/40051/",
+            "https://github.com/pcurrivan/ConvenienceScript"
         ],
         "categories": [
             "Script et tactique"
@@ -45015,7 +45022,7 @@
     },
     {
         "name": "Soundset for the enhanced edition Infinity Engine games",
-        "description": "Tous les packs de sons (en anglais) crées par Boooof. Il y a :|[[Benny]] et [[Garrett]] du jeu Thief.|[[Borjoyzee]], [[Delphi]] et [[Yan]] du jeu Giants Citizen Kabuto.|[[Cassandra]] du jeu Dragon Age Inquisition.|[[Une garde de l'Oblivion]] du jeu Oblivion.|[[Zapp Brannigan]] de la série  tv Futurama.",
+        "description": "Tous les packs de sons (en anglais) crées par Boooof. Il y a :|Benny et Garrett du jeu Thief.|Borjoyzee, Delphi et Yan du jeu Giants Citizen Kabuto.|Cassandra du jeu Dragon Age Inquisition.|Une garde de l'Oblivion du jeu Oblivion.|Zapp Brannigan de la série tv Futurama.",
         "urls": [
             "https://drive.google.com/drive/folders/1EzgeRRAoj79BhEsWjUa_7PZrl4QUh4-P",
             "https://github.com/Boooof"
@@ -46732,7 +46739,7 @@
         "name": "Akuro's Original casting sounds",
         "description": "Ce mod propose les sons d'incantation des jeux de BG1.",
         "urls": [
-            "https://forums.beamdog.com/discussion/8060/mod-original-casting-sounds",
+            "https://forums.beamdog.com/discussion/8060/",
             "https://www.nexusmods.com/baldursgate/mods/29"
         ],
         "categories": [
@@ -47212,7 +47219,7 @@
         "name": "Pocket-play UI++",
         "description": "Il s'agit d'une conversion totale de l'interface utilisateur pour IE:EE pour les téléphones. La mise en page est conçue pour une résolution d'écran d'environ 5-6 pouces. Il hérite de nombreuses fonctionnalités du mod [[Dragonspear UI++]] du même auteur, mais il est graphiquement très différent.",
         "urls": [
-            "https://forums.beamdog.com/discussion/78778/mod-pocket-play-ui-v2-21-ui-for-ee-games-on-phones",
+            "https://forums.beamdog.com/discussion/78778/",
             "https://github.com/Renegade0/PocketPlayUI"
         ],
         "categories": [
@@ -49015,7 +49022,7 @@
         "games": [
             "BG2",
             "BGT",
-            "BG1EE",
+            "BGEE",
             "SoD",
             "BG2EE"
         ],
@@ -49043,7 +49050,7 @@
         "games": [
             "BG2",
             "BGT",
-            "BG1EE",
+            "BGEE",
             "SoD",
             "BG2EE"
         ],
@@ -49069,7 +49076,7 @@
         "games": [
             "BG2",
             "BGT",
-            "BG1EE",
+            "BGEE",
             "SoD",
             "BG2EE"
         ],
@@ -49097,7 +49104,7 @@
         "games": [
             "BG2",
             "BGT",
-            "BG1EE",
+            "BGEE",
             "SoD",
             "BG2EE"
         ],
@@ -49125,7 +49132,7 @@
         "games": [
             "BG2",
             "BGT",
-            "BG1EE",
+            "BGEE",
             "SoD",
             "BG2EE"
         ],
@@ -49153,7 +49160,7 @@
         "games": [
             "BG2",
             "BGT",
-            "BG1EE",
+            "BGEE",
             "SoD",
             "BG2EE",
             "EET"
@@ -49180,7 +49187,7 @@
         "games": [
             "BG",
             "BG2",
-            "BG1EE",
+            "BGEE",
             "SoD",
             "BGT"
         ],
@@ -49205,7 +49212,7 @@
         ],
         "games": [
             "IWDEE",
-            "BG1EE",
+            "BGEE",
             "SoD",
             "BG2EE"
         ],
@@ -49524,7 +49531,7 @@
             "Cosmétique"
         ],
         "games": [
-            "BG1",
+            "BG",
             "BGT",
             "BG2"
         ],
@@ -49553,7 +49560,7 @@
             "BG",
             "BGT",
             "BG2",
-            "SOD",
+            "SoD",
             "BGEE",
             "EET",
             "BG2EE"
@@ -49774,13 +49781,15 @@
             "kr"
         ],
         "status": "active",
-        "last_update": "2010-14",
+        "last_update": "",
         "tp2": "DeaKn"
     },
     {
         "name": "Runiczny Piesniarz Klingi",
         "description": "Les Lames chanteuses de runes sont des défenseurs mystiques de la race elfique et de l'ordre éternel de Faerun. Leurs anciens pouvoirs sont capables d'empêcher la mort et la destruction, les guerres et les catastrophes naturelles.",
-        "urls": [],
+        "urls": [
+            "ftp://enterprise.gram.pl/bg2/Runiczny_v2.0.zip"
+        ],
         "categories": [
             "Kit"
         ],
@@ -49790,16 +49799,14 @@
         ],
         "authors": [],
         "team": [],
-        "notes": [
-            "Ce mod a disparu de ftp://enterprise.gram.pl/bg2/Runiczny_v2.0.zip"
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
             "pl"
         ],
         "status": "missing",
-        "last_update": "2010-14",
+        "last_update": "",
         "tp2": ""
     },
     {
@@ -50511,15 +50518,13 @@
             "Zed Nocear"
         ],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod Override"
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2003-03",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Multi NPC Mod",
@@ -50578,36 +50583,6 @@
         "tp2": "autosavemod"
     },
     {
-        "name": "Easy Core Rules",
-        "description": "Propose deux composants :  Points de vie maximum lors de la montée de niveau et 100% de chance d’apprendre les sorts",
-        "urls": [
-            "https://www.sigil.cz/download-modifikace/easy-core-rules/"
-        ],
-        "categories": [
-            "Gameplay"
-        ],
-        "games": [
-            "BG2",
-            "BGT"
-        ],
-        "authors": [
-            "Drake127"
-        ],
-        "team": [],
-        "notes": [
-            "Ce mod est désormais obsolète et a été remplace par les mêmes composants dans [[The Tweaks Anthology]]."
-        ],
-        "translation_state": "no",
-        "safe": 2,
-        "languages": [
-            "pl",
-            "en"
-        ],
-        "status": "embed",
-        "last_update": "2006-04",
-        "tp2": "EasyCoreRule"
-    },
-    {
         "name": "Kontinuální sesílání kouzel (really force casting)",
         "description": "Un mod qui donne l'Enchainement permanent aux mages du groupe. Fichiers à copier dans l'override puis code à taper à la console.",
         "urls": [
@@ -50648,7 +50623,7 @@
             "PNJ (autre)"
         ],
         "games": [
-            "SOD"
+            "SoD"
         ],
         "authors": [
             "Jolan"
@@ -50692,7 +50667,7 @@
         "name": "BG1-style Entangle",
         "description": "ce mod redonne au sort Enchevêtrement l'animation qu'il avait dans BG1",
         "urls": [
-            "https://forums.beamdog.com/discussion/19961/spell-mod-bg1-style-entangle/p2"
+            "https://forums.beamdog.com/discussion/19961/spell-mod-bg1-style-entangle/p2#Comment_909411"
         ],
         "categories": [
             "Cosmétique"
@@ -50705,15 +50680,13 @@
             "Mortianna"
         ],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod override."
-        ],
+        "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2013-07",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Polish NPC sounds",
@@ -50748,7 +50721,7 @@
         "name": "Portrait Grabber",
         "description": "Cet outil compliqué à utiliser (lisez bien la description sur Github) permet de créer des portraits L,M et S pour n'importe quel jeu IE (ancien ou enhanced) à partir de n'importe quel image visible sur le net.",
         "urls": [
-            "https://github.com/abrahamwl/portrait-grabber/releases"
+            "https://github.com/abrahamwl/portrait-grabber/"
         ],
         "categories": [
             "Utilitaire"
@@ -50778,7 +50751,7 @@
         ],
         "status": "active",
         "last_update": "2015-03",
-        "tp2": ""
+        "tp2": "n/a"
     },
     {
         "name": "Early Glabrezu spawn for PSTEE",
@@ -50826,7 +50799,7 @@
             "Il s'agit d'un mod override qui modifie la majorité les fichiers du jeu et qui n'est compatible qu'avec la version 1.4 du jeu. Il ne fonctionne pas avec la version 2.6+ et est incompatible avec tous les autres mods. De plus sa méthode d'installation est compliquée. Bref... évitez-le."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -51071,7 +51044,7 @@
             "BG2",
             "BGT",
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -51102,7 +51075,7 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SOD",
+            "SoD",
             "EET"
         ],
         "authors": [
@@ -51185,7 +51158,7 @@
             "Gameplay"
         ],
         "games": [
-            "BEE"
+            "BGEE"
         ],
         "authors": [
             "wolpak"
@@ -51211,7 +51184,7 @@
             "Gameplay"
         ],
         "games": [
-            "BEE"
+            "BGEE"
         ],
         "authors": [
             "wolpak"
@@ -51276,13 +51249,13 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": "active",
         "last_update": "2014-09",
-        "tp2": "Infamy"
+        "tp2": "rava;pale"
     },
     {
         "name": "True Aec'Letec",
@@ -51389,7 +51362,8 @@
         "name": "Ellyrian",
         "description": "Ce mod ajoute Ellyrian une clerc/rôdeuse recrutable au Jongleur Jovial dans Beregost. Elle a une mission et n'est pas garantie sans bugs.",
         "urls": [
-            "https://forums.beamdog.com/discussion/32979"
+            "https://forums.beamdog.com/discussion/32979",
+            "https://forums.beamdog.com/discussion/32979/ellyrian-the-cleric-ranger-npc/p2#Comment_618788"
         ],
         "categories": [
             "PNJ One Day"
@@ -51405,7 +51379,7 @@
             "Isandir"
         ],
         "notes": [
-            "Regardez en page 2 du sujet, le même mod avec un set de voix est proposé."
+            "Le second lien propose le même mod avec un set de voix."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -51426,7 +51400,7 @@
             "Sort et objet"
         ],
         "games": [
-            "SOD"
+            "SoD"
         ],
         "authors": [
             "gattberserk"
@@ -51462,9 +51436,7 @@
             "Koyote"
         ],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod override qui écrase deux fichiers."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
@@ -51562,7 +51534,7 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SOD",
+            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -51592,7 +51564,7 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SOD",
+            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -51621,7 +51593,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD"
+            "SoD"
         ],
         "authors": [
             "Abel"
@@ -51639,7 +51611,7 @@
     },
     {
         "name": "The Isle of Mintarn",
-        "description": "Ce projet manifestement abandonné devait amener les joueurs sur <a href=\"https://forgottenrealms.fandom.com/wiki/Mintarn\" i=\"\">l’île de Mintarn</a>.",
+        "description": "Ce projet manifestement abandonné devait amener les joueurs sur <a href='https://forgottenrealms.fandom.com/wiki/Mintarn' target='_blank'>l’île de Mintarn</a>.",
         "urls": [
             "https://forums.beamdog.com/discussion/41457"
         ],
@@ -51648,7 +51620,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD"
+            "SoD"
         ],
         "authors": [
             "WithinAmnesia"
@@ -51656,7 +51628,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -51668,14 +51640,14 @@
         "name": "Less Annoying Wild Surge Table",
         "description": "Ce mod modifie certains résultats de la table des hiatus pour les rendre plus intéressants et réduire le nombre de rechargements dus à un hiatus ennuyeux.",
         "urls": [
-            "https://forums.beamdog.com/discussion/41457"
+            "https://forums.beamdog.com/discussion/76762/"
         ],
         "categories": [
             "Gameplay"
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET",
             "IWDEE"
@@ -51684,9 +51656,7 @@
             "daemonjax"
         ],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod override qui écrase un fichier."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
@@ -51695,46 +51665,17 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Grazilaxx",
-        "description": "Ce ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical.",
-        "urls": [
-            "https://forums.beamdog.com/discussion/72883"
-        ],
-        "categories": [
-            "PNJ One Day"
-        ],
-        "games": [
-            "BG",
-            "BGEE"
-        ],
-        "authors": [
-            "Darkmaeko"
-        ],
-        "team": [],
-        "notes": [
-            "Attention pour utiliser ce mod, vous devez renommer son répertoire et son weidu.exe en \"Uzilnpc\".|Ce mod est bugué, les nouveaux sorts n'ont ni noms ni descriptions."
-        ],
-        "translation_state": "no",
-        "safe": 2,
-        "languages": [
-            "en"
-        ],
-        "status": "active",
-        "last_update": "2018-10",
-        "tp2": "Uzilnpc"
-    },
-    {
         "name": "Turn your Dragon Disciple into a Drag....er, Wyvern!",
         "description": "Ce mod donne au Disciple du dragon la capacité de se métamorphoser en bébé wyverne (identique à la capacité du druide justicier).",
         "urls": [
-            "https://forums.beamdog.com/discussion/41457"
+            "https://forums.beamdog.com/discussion/78905/"
         ],
         "categories": [
             "Kit"
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET",
             "IWDEE"
@@ -51743,11 +51684,9 @@
             "noloir"
         ],
         "team": [],
-        "notes": [
-            "Il s'agit d'un mod override qui écrase un fichier."
-        ],
+        "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2020-04",
@@ -51764,6 +51703,7 @@
             "Gameplay"
         ],
         "games": [
+            "BGEE",
             "BG2EE",
             "EET"
         ],
@@ -51779,7 +51719,7 @@
         ],
         "status": "active",
         "last_update": "2023-02",
-        "tp2": "non-weidu"
+        "tp2": "jptweaks"
     },
     {
         "name": "NPC Kit and Proficiency Randomiser",
@@ -51807,7 +51747,7 @@
         "tp2": "bgee_npc_randomiser"
     },
     {
-        "name": "Pfaug Hammerlust",
+        "name": "UzilNPC",
         "description": "Ce ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical.",
         "urls": [
             "https://forums.beamdog.com/discussion/72883"
@@ -51816,7 +51756,6 @@
             "PNJ One Day"
         ],
         "games": [
-            "BG",
             "BGEE"
         ],
         "authors": [
@@ -51827,7 +51766,7 @@
             "Attention pour utiliser ce mod, vous devez renommer son répertoire et son weidu.exe en \"Uzilnpc\".|Ce mod est bugué, les nouveaux sorts n'ont ni noms ni descriptions."
         ],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -51902,13 +51841,13 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET",
             "IWDEE"
         ],
         "authors": [
-            "Rhaella "
+            "Rhaella"
         ],
         "team": [],
         "notes": [],
@@ -51938,10 +51877,10 @@
         ],
         "team": [],
         "notes": [
-            "C'est un mod Override qui remplace les fichiers.|Ce mod est obsolète, préférez lui le plus efficace [[Banter Accelerator for Enhanced Edition games]]."
+            "Ce mod est obsolète, préférez lui le plus efficace [[Banter Accelerator for Enhanced Edition games]]."
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
         "status": "obsolete",
         "last_update": "2015-03",
@@ -51958,7 +51897,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -51988,7 +51927,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -51996,9 +51935,7 @@
             "Tresset"
         ],
         "team": [],
-        "notes": [
-            "C'est un mod Override qui remplace des fichiers."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
@@ -52017,50 +51954,19 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "EET"
         ],
         "authors": [
             "Tresset"
         ],
         "team": [],
-        "notes": [
-            "C'est un mod Override qui remplace des fichiers."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2015-02",
-        "tp2": "non-weidu"
-    },
-    {
-        "name": "PnP Improved invisibility",
-        "description": "Ce mod rend tous les sorts et capacités qui rendent donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il rendent révèle les créatures invisibles qui ratent leu jet de sauvegarde.",
-        "urls": [
-            "https://forums.beamdog.com/discussion/39063"
-        ],
-        "categories": [
-            "Sort et objet"
-        ],
-        "games": [
-            "BGEE",
-            "SOD",
-            "BG2EE",
-            "EET"
-        ],
-        "authors": [
-            "Amioran"
-        ],
-        "team": [],
-        "notes": [
-            "C'est un mod Override qui remplace des fichiers."
-        ],
-        "translation_state": "n/a",
-        "safe": 1,
-        "languages": [],
-        "status": "active",
-        "last_update": "2015-01",
         "tp2": "non-weidu"
     },
     {
@@ -52082,7 +51988,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "missing",
         "last_update": "2015-04",
@@ -52099,7 +52005,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -52107,9 +52013,7 @@
             "lunar"
         ],
         "team": [],
-        "notes": [
-            "C'est un mod Override qui remplace des fichiers."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
@@ -52134,11 +52038,9 @@
             "Buttercheese"
         ],
         "team": [],
-        "notes": [
-            "C'est un mod Override qui remplace des fichiers."
-        ],
+        "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2017-04",
@@ -52157,7 +52059,7 @@
             "BG2",
             "BGT",
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -52192,11 +52094,9 @@
             "Minsc2017"
         ],
         "team": [],
-        "notes": [
-            "C'est un mod Override qui remplace des fichiers."
-        ],
+        "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2019-01",
@@ -52215,7 +52115,7 @@
             "BG2",
             "BGT",
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -52246,7 +52146,7 @@
             "BG2",
             "BGT",
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -52279,12 +52179,12 @@
             "BG2EE"
         ],
         "authors": [
-            "Corsymyr "
+            "Corsymyr"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -52305,12 +52205,12 @@
             "BG2EE"
         ],
         "authors": [
-            "Corsymyr "
+            "Corsymyr"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -52336,11 +52236,11 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2019-04",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Infinite Spells",
@@ -52356,7 +52256,7 @@
             "EET"
         ],
         "authors": [
-            "evzhy "
+            "evzhy"
         ],
         "team": [],
         "notes": [],
@@ -52389,11 +52289,11 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2020-04",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Dagoth Ur Soundset",
@@ -52406,7 +52306,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -52416,7 +52316,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -52443,7 +52343,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
@@ -52453,7 +52353,7 @@
     },
     {
         "name": "BG:EE & SoD Audio Downgrade",
-        "description": "Ce mod réduit la qualité des sons inclus dans BGEE et SOD pour que ceux-ci soient plus proches des sons de oBG2.",
+        "description": "Ce mod réduit la qualité des sons inclus dans BGEE et SoD pour que ceux-ci soient plus proches des sons de oBG2.",
         "urls": [
             "https://forums.beamdog.com/discussion/81158"
         ],
@@ -52462,7 +52362,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "EET"
         ],
         "authors": [
@@ -52471,7 +52371,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -52517,7 +52417,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -52529,7 +52429,7 @@
             "Pensez à bien prendre les fichiers correspondant à votre jeu : BGEE ou EET. De plus sur BGEE il y a une manipulation à faire, lisez la présentation du mod."
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -52541,7 +52441,7 @@
         "name": "MorePowerEnemy",
         "description": "Ce mod permet d'ajouter des niveaux à tous les ennemis du jeu ou seulement aux boss. Il permet aussi de leur donner plus de TAC0, CA, jets de sauvegarde, résistances, points de vie. Tous les paramètres sont configurables.",
         "urls": [
-            "https://forums.beamdog.com/discussion/79190"
+            "https://forums.beamdog.com/discussion/85035/"
         ],
         "categories": [
             "Gameplay"
@@ -52557,7 +52457,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -52577,7 +52477,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -52606,7 +52506,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -52635,7 +52535,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -52680,7 +52580,8 @@
         "name": "Throne of the Mad God",
         "description": "La litanie d'un barde vous met sur la piste d'un groupe d'aventuriers disparus. Saurez vous retrouver ce qu'il en reste dans cette vaste forteresse abandonnée ?",
         "urls": [
-            "https://forums.beamdog.com/discussion/89267/"
+            "https://forums.beamdog.com/discussion/89267/",
+            "https://github.com/AciferBG/Throne-of-the-Mad-God"
         ],
         "categories": [
             "Quête"
@@ -52701,12 +52602,12 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2026-13",
+        "last_update": "2025-03",
         "tp2": "ThroneoftheMadGod"
     },
     {
         "name": "Skyfire",
-        "description": "Ce mod propose aux pnjs d’utiliser l'aérostat de la promenade de Waukine pour visiter de nombreuses zones éloignées et même d'autres plans. Ce mod est toujours en cours de réalisation.",
+        "description": "Ce mod propose aux pnjs d’utiliser l'aérostat de la promenade de Waukyne pour visiter de nombreuses zones éloignées et même d'autres plans. Ce mod est toujours en cours de réalisation.",
         "urls": [
             "https://forums.beamdog.com/discussion/82663"
         ],
@@ -52723,13 +52624,10 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
-        "languages": [
-            "en",
-            "de"
-        ],
+        "safe": 1,
+        "languages": [],
         "status": "wip",
-        "last_update": "2026-13",
+        "last_update": "2025-03",
         "tp2": ""
     },
     {
@@ -52743,7 +52641,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -52772,12 +52670,12 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
         "authors": [
-            "MCRyuu "
+            "MCRyuu"
         ],
         "team": [],
         "notes": [],
@@ -52854,7 +52752,7 @@
         "name": "Black Blade",
         "description": "Un kit de voleur qui empreinte beaucoup au Tueur de magicien.",
         "urls": [
-            "https://forums.beamdog.com/discussion/30158"
+            "https://forums.beamdog.com/discussion/17557/"
         ],
         "categories": [
             "Kit"
@@ -52888,14 +52786,14 @@
         "categories": [
             "Kit"
         ],
-        "games": [],
+        "games": [
+            "BGEE"
+        ],
         "authors": [
             "Tome"
         ],
         "team": [],
-        "notes": [
-            "Ce kit n'inclut pas la ressource pour être compatible avec les éditions EE 2.6+."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -52947,7 +52845,7 @@
         ],
         "games": [
             "BGEE",
-            "SOD",
+            "SoD",
             "BG2EE",
             "EET"
         ],
