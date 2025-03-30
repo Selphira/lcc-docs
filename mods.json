@@ -9496,7 +9496,9 @@
 		"name": "Difficulty and Tweaks mod",
 		"description": "Anciennement [[Mix Mod]], ce mod réunit une petite collection d'ajustements permettant soit de faciliter le jeu, soit de rendre les ennemis plus coriaces.|- Des composants permettent d'augmenter ou de réduire l'empilage des munitions, des gemmes, des bijoux, des potions et des parchemins.|- Une série de composants permet de booster les ennemis en leur accordant un bonus à la CA, au TAC0 et aux jets de sauvegarde (de 1 à 6).|- Une série de composants permet d'augmenter de 25 à 300 % les points de vie des ennemis.|- Un composant permet d'interdire le port des casques aux métamorphes.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/19928/"
+			"https://forums.beamdog.com/discussion/19928/",
+			"https://forums.beamdog.com/discussion/48211/difficulty-and-tweak-mod-v7-link-is-broken/p1",
+			"https://www.mediafire.com/file/ihwkn7e7yc0vltf/Diff_Tweak.zip/file"
 		],
 		"categories": [
 			"Script et tactique"
@@ -9522,12 +9524,14 @@
 		"notes": [
 			"Si ce mod est sensé être compatible avec tous les jeux IE, certains composants ne sont pas disponibles pour certains jeux."
 		],
-		"translation_state": "n/a",
+		"translation_state": "no",
 		"safe": 1,
-		"languages": [],
-		"status": "missing",
+		"languages": [
+			"en"
+		],
+		"status": "active",
 		"last_update": "2016-04",
-		"tp2": ""
+		"tp2": "DiffTweak"
 	},
 	{
 		"name": "Dimension Gate: Or How TV Bunny searched TV Remote Control",
@@ -34465,24 +34469,27 @@
 		"name": "Tresset's Permanent Shapeshift Weapons",
 		"description": "Ce mod avait pour objectif d'éviter que les armes naturelles du druide métamorphe ne disparaissent après 16 heures.",
 		"urls": [
+			"https://forums.beamdog.com/discussion/33403/",
 			"https://forums.beamdog.com/discussion/33404/"
 		],
 		"categories": [
 			"Gameplay"
 		],
 		"games": [
-			"BG2EE",
-			"EET"
+			"BGEE",
+			"BG2EE"
 		],
 		"authors": [
 			"Tresset"
 		],
 		"team": [],
-		"notes": [],
+		"notes": [
+			"utilisez le premier lien pour la version BGEE et le second lien pour la version BG2EE. Pour EET, utilisez la version BG2EE.|Ce mod est obsolète, le mod [[The Tweaks Anthology]] propose un composant similaire qui fonctionne sur toutes les versions du jeu."
+		],
 		"translation_state": "no",
 		"safe": 0,
 		"languages": [],
-		"status": "active",
+		"status": "obsolete",
 		"last_update": "2014-07",
 		"tp2": "non-weidu"
 	},
@@ -39233,7 +39240,7 @@
 	},
 	{
 		"name": "MegaMod: Mazzy Romance, Clara NPC...",
-		"description": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| -Neera Romance.| - Flying Aerie.| - Dorn| -HaerDalis Romance| - Jaheira| -Wilson Romance.| - For The Evil!| - For The Good!| - Et bien d'autres petits composants...",
+		"description": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc-Neera Romance.| - Flying Aerie.| - Dorn-HaerDalis Romance| - Jaheira-Wilson Romance.| - For The Evil!| - For The Good!| - Et bien d'autres petits composants...",
 		"urls": [
 			"https://forums.beamdog.com/discussion/71473/"
 		],
@@ -44235,8 +44242,9 @@
 	},
 	{
 		"name": "Battlerager-Kit",
-		"description": "Le batailleur occupe une place particulière dans la société et la culture naines. C'est un guerrier intrépide, capable de créer en lui une rage folle qui augmente sa capacité de combat et déforme ses traits physiques. Lorsqu'il est enragé, son visage se déforme et ses dents grincent. Des crachats s'échappent de sa bouche et coulent le long de sa barbe. Ses yeux s'agrandissent, se gonflent et deviennent injectés de sang. Sa taille augmente au fur et à mesure que ses muscles se gonflent et que son corps s'étend. Sa capacité de combat devient impressionnante, lui permettant de se battre plus longtemps et plus durement que n'importe quel autre nain. Dans sa rage, il est presque impossible de l'arrêter. Ennemi dangereux, il est une menace pour ses amis comme pour ses ennemis.",
+		"description": "Le batailleur occupe une place particulière dans la société et la culture naines. C'est un guerrier intrépide, capable de créer en lui une rage folle qui augmente sa capacité de combat et déforme ses traits physiques. Lorsqu'il est enragé, son visage se déforme et ses dents grincent. Des crachats s'échappent de sa bouche et coulent le long de sa barbe. Ses yeux s'agrandissent, se gonflent et deviennent injectés de sang. Sa taille augmente au fur et à mesure que ses muscles se gonflent et que son corps s'étend. Sa capacité de combat devient impressionnante, lui permettant de se battre plus longtemps et plus durement que n'importe quel autre nain. Dans sa rage, il est presque impossible de l'arrêter. Ennemi dangereux, il est une menace pour ses amis comme pour ses ennemis.|Le mod modifie aussi Korgan pour qu'il soit un Battlerager.",
 		"urls": [
+			"https://forums.beamdog.com/discussion/87705",
 			"https://github.com/Greener-Mods/Battlerager-Kit"
 		],
 		"categories": [
@@ -49204,10 +49212,10 @@
 		"tp2": "Setup-XanAlternateBG2Voice"
 	},
 	{
-		"name": "Zapp Brannigan Soundset",
-		"description": "Le pack de voix (en anglais) et le portait de Zapp Brannigan, le capitaine de vaisseau super-décoré de la série Futurama.",
+		"name": "Boof's Soundsets",
+		"description": "Tous les packs de sons (en anglais) crées par Boof. Il y a :|Benny et Garrett du jeu Thief.|Borjoyzee, Delphi et Yan du jeu Giants Citizen Kabuto.|Cassandra du jeu Dragon Age Inquisition.|Le garde de l'Oblivion du jeu Oblivion.|Zapp Brannigan de la série  tv Futurama.",
 		"urls": [
-			"https://www.pocketplane.net/diversions-and-soundsets/"
+			"https://drive.google.com/drive/folders/1EzgeRRAoj79BhEsWjUa_7PZrl4QUh4-P"
 		],
 		"categories": [
 			"Portrait et son"
@@ -49219,7 +49227,7 @@
 			"BG2EE"
 		],
 		"authors": [
-			"Boooof"
+			"Boof"
 		],
 		"team": [],
 		"notes": [
@@ -49229,8 +49237,8 @@
 		"safe": 2,
 		"languages": [],
 		"status": "active",
-		"last_update": "2023-03",
-		"tp2": "Zapp Soundset"
+		"last_update": "2025-01",
+		"tp2": ""
 	},
 	{
 		"name": "PathfinderVoices_for_EE",
@@ -50481,7 +50489,7 @@
 		"name": "Lower Level NPCs",
 		"description": "Ce mod vous permet de recruter les PNJs toujours à leur plus bas niveau disponible (par exemple Rasaad au niveau 1, Viconia au niveau 2, Skie au niveau 4, etc.), mais avec assez d'XP pour monter immédiatement au niveau qu'ils devraient normalement avoir. Ce mod ne supporte que les PNJ officiels et ne modifiera en rien les PNJ ajoutés par d'autres mods.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/16936/weidu-mod-lower-level-npcs"
+			"https://forums.beamdog.com/discussion/16936"
 		],
 		"categories": [
 			"PNJ (autre)"
@@ -50507,7 +50515,7 @@
 		"name": "NPC Renamer",
 		"description": "Ce mod permet de renommer les compagnons par le biais d'un menu textuel facile à utiliser. Il fonctionnera aussi bien pour les nouvelles parties que pour les parties en cours.|En utilisant le menu textuel, on peut renommer plusieurs PNJ, ou plusieurs fois le même PNJ (par exemple pour corriger une faute de frappe), en sélectionnant simplement leur(s) numéro(s) correspondant(s), jusqu'à ce que l'on soit pleinement satisfait des changements et que l'on soit prêt à procéder à l'installation.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/17310/weidu-mod-npc-renamer"
+			"https://forums.beamdog.com/discussion/17310"
 		],
 		"categories": [
 			"PNJ (autre)"
@@ -50730,7 +50738,7 @@
 		"name": "BG1-style Entangle",
 		"description": "ce mod redonne au sort Enchevêtrement l'animation qu'il avait dans BG1",
 		"urls": [
-			"https://forums.beamdog.com/uploads/FileUpload/bf/19b0392cc10337c7b8e04b92d5696a.rar"
+			"https://forums.beamdog.com/discussion/19961/spell-mod-bg1-style-entangle/p2"
 		],
 		"categories": [
 			"Cosmétique"
@@ -50822,7 +50830,7 @@
 		"name": "Early Glabrezu spawn for PSTEE",
 		"description": "Ce mod est une ré-implémentation pour l'édition EE du tweak qui était disponible dans [[Qwinn's Planescape: Torment Tweak Pack]]. Il propose deux options : Glabrezus plus tôt (avant Curst, et à ce moment ils ne valent que 12000 xp) et Augmenter la fréquence des Glabrezus (au choix).",
 		"urls": [
-			"https://forums.beamdog.com/discussion/83289/mod-early-glabrezu-spawn-for-pstee/p1"
+			"https://forums.beamdog.com/discussion/83289"
 		],
 		"categories": [
 			"Gameplay"
@@ -50848,7 +50856,7 @@
 		"name": "Sarevok57's Mega Icewind Dale Mod",
 		"description": "Ce mod ajoute des voix pour tous les npcs du jeu, de nouvelles musiques et de nouveaux objets. Il Modifie de nombreuses règles et révise les objets, les sorts et les tactiques utilisées par les monstres. Il rajoute aussi de nombreux combat épicés.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/63639/sarevok57s-mega-icewind-dale-mod-is-finally-here-and-its-a-big-one/p1"
+			"https://forums.beamdog.com/discussion/63639"
 		],
 		"categories": [
 			"Gameplay"
@@ -50876,7 +50884,7 @@
 		"name": "Nonrandom Treasures",
 		"description": "Ce mod intègre et met à jour le composant \"Restaurer les trésors aléatoires\" de [[Unfinished Business for Icewind Dale]] pour qu'il fonctionne sur IWDEE et propose un composant qui fait que les trésors aléatoires ne sont plus aléatoires. À la place, le joueur obtient toutes les récompenses possibles et même plus si le premier composant est installé.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/83483/mod-nonrandom-treasures/p1"
+			"https://forums.beamdog.com/discussion/83483"
 		],
 		"categories": [
 			"Gameplay"
@@ -50900,7 +50908,7 @@
 		"name": "Soulmarine's IWD:EE FrostWood GUI",
 		"description": "Ce mod inachevé prévoyait de donner une interface glacé à IWDEE.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/36154/soulmarines-iwd-ee-frostwood-gui"
+			"https://forums.beamdog.com/discussion/36154"
 		],
 		"categories": [
 			"Interface"
@@ -50924,7 +50932,7 @@
 		"name": "Starlight - new weapons and spells for IWD:EE",
 		"description": "Ce mod inachevé prévoyait d'ajouter quelques objets et sorts à IWDEE.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/38121/mod-starlight-new-weapons-and-spells-for-iwd-ee-wip"
+			"https://forums.beamdog.com/discussion/38121"
 		],
 		"categories": [
 			"Sort et objet"
@@ -50950,7 +50958,7 @@
 		"name": "Battle music for IWD",
 		"description": "Ce mod ajoute les musiques de BGEE et BG2EE à IWDEE pour combler 24 zones de combat où il n'y avait pas de musique.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/77470/mod-battle-music-for-iwd#latest"
+			"https://forums.beamdog.com/discussion/77470"
 		],
 		"categories": [
 			"Portrait et son"
@@ -50974,7 +50982,7 @@
 		"name": "Lost item (IWDEE)",
 		"description": "Ce mod ajoute à la table des trésors aléatoires les objets qui y ont été retiré par l'extension HOW. Ils peuvent être trouvés aux mêmes endroits que dans le jeu original sans l’extension. Seuls les objets qui ne peuvent plus être trouvés ont été ajoutés.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/78449/mod-lost-items-small-mod-to-restore-removed-items-from-original-icewind-dale-by-heart-of-winter"
+			"https://forums.beamdog.com/discussion/78449"
 		],
 		"categories": [
 			"Gameplay"
@@ -50998,7 +51006,7 @@
 		"name": "Original-esque Spell Icons for IWD:EE",
 		"description": "Dans Icewind Dale : Enhanced Edition, les sorts du menu de sélection des sorts ont des icônes de pierre, similaires à celles de Baldur's Gate et des autres éditions améliorées. Mais dans l'édition originale d'Icewind Dale, les icônes de sorts n'ont pas cet aspect de pierre.|Ce mod rapproche les icônes de sorts d'IWD:EE de l'original. Certaines icônes sont également recolorées ou remplacées par des icônes plus proches de l'original.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/78131/mod-original-esque-spell-icons-for-iwd-ee"
+			"https://forums.beamdog.com/discussion/78131"
 		],
 		"categories": [
 			"Interface"
@@ -51022,7 +51030,7 @@
 		"name": "Barbarian/Shama)",
 		"description": "C'est un kit de shaman qui gagne tous les bénéfices d'un barbare (rage, résistances, immunité aux sournoises, spécialisation, pvs D10, etc, mais en contrepartie ne gagne que 50% d'xp.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/74927/kit-barbarian-shaman-pseudo-multiclass"
+			"https://forums.beamdog.com/discussion/74927"
 		],
 		"categories": [
 			"Kit"
@@ -51048,7 +51056,7 @@
 		"name": "Return To Menzoberranzan",
 		"description": "Un projet ambitieux qui devait recréer <a href=\"https://fr.wikipedia.org/wiki/Menzoberranzan_(jeu_vid%C3%A9o)\" i=\"\">le jeu vidéo éponyme de 1944</a> dans IWDEE. Il inclure une nouvelle interface utilisateur, un nouveau cadre, de nouvelles zones, de nouveaux pnjs, de nouveaux graphiques et, bien sûr, une longue histoire. A ce jour il semble abandonné.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/36940/return-to-menzoberranzan-1994-ssi-game-reboot-on-iwdee-engine/"
+			"https://forums.beamdog.com/discussion/36940"
 		],
 		"categories": [
 			"Conversion"
@@ -51066,7 +51074,7 @@
 		"languages": [
 			"en"
 		],
-		"status": "wip",
+		"status": "archived",
 		"last_update": "2014-10",
 		"tp2": ""
 	},
@@ -51074,7 +51082,7 @@
 		"name": "Beholder Invasion",
 		"description": "L'invasion a commencé... Ce mod replace certains pnjs et créature de Chateausuif par des Tyrannoeils.|Le lien de téléchargement se trouve dans les derniers messages du fil.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/22147/mod-beholder-invasion-v1-5/p1"
+			"https://forums.beamdog.com/discussion/22147"
 		],
 		"categories": [
 			"Gameplay"
@@ -51100,7 +51108,7 @@
 		"name": "Elric's Stormbringer",
 		"description": "Ce mod rajoute Stormbringer, l'Epée maudite d'Elric de Melniboné dans le stock du Bazar magique pour BGEE, du magasin Plume et parchemin pour BG2EE ou dans le stock de Ribald pour BG2 sans TOB.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/33514/elrics-stormbringer/p1"
+			"https://forums.beamdog.com/discussion/33514"
 		],
 		"categories": [
 			"Sort et objet"
@@ -51131,7 +51139,7 @@
 		"name": "Ioun Stone of Charm Protection",
 		"description": "Ce mod permet à Thalantyr de crée une Pierre de Ioun qui protège contre les charmes en lui donnant un parchemin de Charme néfaste, une perle et 500 pièces d'or.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/63553/ioun-stone-of-charm-protection/p1"
+			"https://forums.beamdog.com/discussion/63553"
 		],
 		"categories": [
 			"Sort et objet"
@@ -51162,7 +51170,7 @@
 		"name": "Pink Lingerie Pack",
 		"description": "Ce mod ajoute dans le jeu des bracelet maudits. Le personnage qui les porte est renommé Imoen, devient une femme et se promène en petite tenue. Ajoute aussi un bâton tueur de Brocolis et autres légumes.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/26619/mod-pink-lingerie-pack-v1-5/p1"
+			"https://forums.beamdog.com/discussion/26619"
 		],
 		"categories": [
 			"Sort et objet"
@@ -51188,7 +51196,7 @@
 		"name": "More informative Kit Descriptions",
 		"description": "Ce mod est une mise à jour du texte des descriptions de kits qui ajoute les caractéristiques des classes de base. C'était une omission flagrante, de l'avis de l'auteur, de la version originale et de la version EE.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/30387/mod-more-informative-kit-descriptions-weidu/p1"
+			"https://forums.beamdog.com/discussion/30387"
 		],
 		"categories": [
 			"Gameplay"
@@ -51217,7 +51225,7 @@
 		"name": "Baldur's Gate Overhaul",
 		"description": "Ce mod modifie de nombreuses choses dans BGEE : les compétences, les objets, les règles... pour que le jeu devienne une nouvelle expérience.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/30204/mod-bgo-weidu-install/p1"
+			"https://forums.beamdog.com/discussion/30204"
 		],
 		"categories": [
 			"Gameplay"
@@ -51243,7 +51251,7 @@
 		"name": "Wis, Chr, Int Saves",
 		"description": "Ce mod rajoute la règle de la 3éme édition qui fait que chaque deux points de caractéristique au delà de 10 donne un bonus aux jets de sauvegarde.|La sagesse améliore les jets de sauvegarde contre les sorts et la pétrification.|L'intelligence améliore les jets de sauvegarde contre les baguette et les souffles.|Le charisme améliore les jets de sauvegarde contre la mort et le poison.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/38338/mod-wis-chr-int-saves/p1"
+			"https://forums.beamdog.com/discussion/38338"
 		],
 		"categories": [
 			"Gameplay"
@@ -51267,7 +51275,7 @@
 		"name": "Infamy",
 		"description": "Ce mod améliore le système de réputation. Premièrement, elle est temporaire et redescend/remonte régulièrement pour s'aligner sur 10.| Deuxièmement le charisme est beaucoup plus important et chaque 2 points au dessus ou en dessous de 10 augmente/diminue la charisme moyen de 1 point.| Troisièmement la mauvaise réputation donne le même bonus dans les magasins que la bonne réputation.|Quatrièmement les compagnons neutres n'apprécierons pas que vous soyez trop bon ou trop mauvais.|Cinquièmement, si des compagnons veulent vous quittez parce que vous êtes trop bon/trop mauvais, le charisme entre en compte : chaque point de réputation bonus est à enlever du maximum que le compagnon peut supporter : avec une charisme de dieu, aucun compagnon ne vous quittera jamais, même s'ils râlent.|Sixièmement, le nombre de compagnons que vous pouvez avoir dépend aussi de votre charisme : ne comptez pas avoir 5 compagnons si vous avez le charisme d'une moule.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/39265/mod-infamy-v-5-beta/p1"
+			"https://forums.beamdog.com/discussion/39265"
 		],
 		"categories": [
 			"Gameplay"
@@ -51296,7 +51304,7 @@
 		"name": "Evil kits",
 		"description": "Ce mod rajoute les kits de Ravageur et Maître pale.",
 		"urls": [
-			"https://forums.beamdog.com/discussion/34803/bg-ee-evil-kits-mod-ravager-and-palemaster/p1"
+			"https://forums.beamdog.com/discussion/34803"
 		],
 		"categories": [
 			"Kit"
@@ -51321,5 +51329,1453 @@
 		"status": "active",
 		"last_update": "2014-09",
 		"tp2": "Infamy"
+	},
+	{
+		"name": "True Aec'Letec",
+		"description": "Ces deux fichiers à placer dans l'override rendent Aec'Letec plus puissant.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/40699"
+		],
+		"categories": [
+			"Gameplay"
+		],
+		"games": [
+			"BGEE",
+			"EET"
+		],
+		"authors": [
+			"Tresset"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 1,
+		"languages": [],
+		"status": "active",
+		"last_update": "2015-04",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Heart of Fury mode emulator",
+		"description": "Ce mod recrée les règles de Heart of Fury dans BGEE. Pourquoi utiliser ce mod alors que BGEE inclut le mode de difficulté Legacy of Bhaal ?. Premièrement parce que ce mod autorise à changer la difficulté en jeu, ce que LOB n'autorise pas. Deuxièmement parce que l'auteur à posté dans le même sujet un mod en version \"lite\" dans lequel les points de vie des monstres sont divisés par deux.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/33942"
+		],
+		"categories": [
+			"Gameplay"
+		],
+		"games": [
+			"BGEE"
+		],
+		"authors": [
+			"Tisamon"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 1,
+		"languages": [],
+		"status": "active",
+		"last_update": "2014-08",
+		"tp2": "HoFemu"
+	},
+	{
+		"name": "Short Sword of Backstabbing (PnP)",
+		"description": "Ce mod corrige l'Epée courte d'attaque sournoise pour quelle corresponde à ses caractéristique pnp. Elle devient une arme +2 qui applique des bonus supplémentaires si elle est portée par un voleur : +2 supplémentaire au toucher et +1 au modificateur d'attaque sournoise.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/64157"
+		],
+		"categories": [
+			"Sort et objet"
+		],
+		"games": [
+			"BGEE"
+		],
+		"authors": [
+			"Greener"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2017-08",
+		"tp2": "SSoB2"
+	},
+	{
+		"name": "Ōdachi",
+		"description": "Ce mod ajoute dans le jeu un katana à deux mains.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/65872"
+		],
+		"categories": [
+			"Sort et objet"
+		],
+		"games": [
+			"BGEE"
+		],
+		"authors": [
+			"Greener"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "missing",
+		"last_update": "",
+		"tp2": ""
+	},
+	{
+		"name": "Ellyrian",
+		"description": "Ce mod ajoute Ellyrian une clerc/rôdeuse recrutable au Jongleur Jovial dans Beregost. Elle a une mission et n'est pas garantie sans bugs.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/32979"
+		],
+		"categories": [
+			"PNJ One Day"
+		],
+		"games": [
+			"BGEE"
+		],
+		"authors": [
+			"CaloNord"
+		],
+		"team": [
+			"ggallegher",
+			"Isandir"
+		],
+		"notes": [
+			"Regardez en page 2 du sujet, le même mod avec un set de voix est proposé."
+		],
+		"translation_state": "no",
+		"safe": 1,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2015-04",
+		"tp2": "Ellyrian"
+	},
+	{
+		"name": "SOD Item Replacement",
+		"description": "Le but de ce mod est d'améliorer l'expérience du jeu en remplaçant tous les objets uniques dupliqués dans BGEE & SOD par quelque chose de différent. Ceci est fait en important des objets magiques raisonnables d'autres jeux infinity comme BG2EE, IWDEE ainsi que de nouveaux objets crées par l'auteur.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/47005"
+		],
+		"categories": [
+			"Sort et objet"
+		],
+		"games": [
+			"SOD"
+		],
+		"authors": [
+			"gattberserk"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2017-02",
+		"tp2": "unique_items"
+	},
+	{
+		"name": "Simple Shaman",
+		"description": "Ce mod modifie le shaman en lui supprimant la possibilité de danser (il peut danser mais ça ne fera rien) mais à la place il gagne les 6 sorts normalement réservés au Druide Justicier.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/52897"
+		],
+		"categories": [
+			"Kit"
+		],
+		"games": [
+			"BGEE",
+			"BG2EE",
+			"SoD",
+			"EET",
+			"IWDEE"
+		],
+		"authors": [
+			"Koyote"
+		],
+		"team": [],
+		"notes": [
+			"Il s'agit d'un mod override qui écrase deux fichiers."
+		],
+		"translation_state": "n/a",
+		"safe": 1,
+		"languages": [],
+		"status": "active",
+		"last_update": "2017-02",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Improved GUI for BG2:EE",
+		"description": "Ce mod améliore l'interface graphique du jeu. Regardez les screenshots si vous voulez vous faire un avis.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/39557"
+		],
+		"categories": [
+			"Interface"
+		],
+		"games": [
+			"BGEE"
+		],
+		"authors": [
+			"geminibruni"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 0,
+		"languages": [],
+		"status": "obsolete",
+		"last_update": "2015-05",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Improved GUI for IWD:EE",
+		"description": "Ce mod améliore l'interface graphique du jeu. Regardez les screenshots si vous voulez vous faire un avis.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/41461"
+		],
+		"categories": [
+			"Interface"
+		],
+		"games": [
+			"BGEE"
+		],
+		"authors": [
+			"geminibruni"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 0,
+		"languages": [],
+		"status": "obsolete",
+		"last_update": "2015-05",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Critical Role Characters + Trinket",
+		"description": "L'archive de ce mod cumule deux parties :|Des personnages pré-tirés avec bios et portraits à importer lorsque vous créez votre personnage.|Trinket l'ours, qui remplace votre familier si vous êtes neutre bon ou loyal bon.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/61953"
+		],
+		"categories": [
+			"Gameplay",
+			"Personnalisation du groupe"
+		],
+		"games": [
+			"BGEE",
+			"BG2EE",
+			"SoD",
+			"EET",
+			"IWDEE"
+		],
+		"authors": [
+			"Pecca",
+			"00zim00"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2016-02",
+		"tp2": "trinket"
+	},
+	{
+		"name": "Spellsword Sorcerer",
+		"description": "Un ensorceleur qui peut créer une épée magique, gagne des attaques par round, de la force et de la dextérité. En contrepartie il a des chances de rater l'incantation des sorts et un temps d'incantation réduit.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/64058"
+		],
+		"categories": [
+			"Kit"
+		],
+		"games": [
+			"BGEE",
+			"BG2EE",
+			"SOD",
+			"EET",
+			"IWDEE"
+		],
+		"authors": [
+			"Allbrother"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2017-04",
+		"tp2": "spellsword"
+	},
+	{
+		"name": "Grey Guard Paladin",
+		"description": "Un paladin qui peut être de n'importe quel alignement, peut faire des attaques sournoises, peut se rendre invisible et peut enchanter son arme pour faire plus de dégâts. En contrepartie il ne peut pas repousser les morts-vivant et il subit -4 au charisme.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/73908"
+		],
+		"categories": [
+			"Kit"
+		],
+		"games": [
+			"BGEE",
+			"BG2EE",
+			"SOD",
+			"EET",
+			"IWDEE"
+		],
+		"authors": [
+			"Allbrother"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2018-12",
+		"tp2": "greyguard"
+	},
+	{
+		"name": "Book of Legal Possibilities",
+		"description": "Ce livre magique infini à se donner par la console (C:CreateItem(\"BLBOOK01\")) permet de convoquer et recruter n'importe quel compagnon de BGEE/SOD, de gagner n'importe quel pouvoir de Bhaal, et d'acheter tout les objets normaux ou magiques disponibles dans le jeu au prix imbattable de 1 pièce d'or.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/49645"
+		],
+		"categories": [
+			"Sort et objet"
+		],
+		"games": [
+			"BGEE",
+			"SOD"
+		],
+		"authors": [
+			"Abel"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2016-04",
+		"tp2": "abel_bookoflegalpossibilities_mod"
+	},
+	{
+		"name": "The Isle of Mintarn",
+		"description": "Ce projet manifestement abandonné devait amener les joueurs sur <a href=\"https://forgottenrealms.fandom.com/wiki/Mintarn\" i=\"\">l’île de Mintarn</a>.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/41457"
+		],
+		"categories": [
+			"Quête"
+		],
+		"games": [
+			"BGEE",
+			"SOD"
+		],
+		"authors": [
+			"WithinAmnesia"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "archived",
+		"last_update": "2015-10",
+		"tp2": ""
+	},
+	{
+		"name": "Less Annoying Wild Surge Table",
+		"description": "Ce mod modifie certains résultats de la table des hiatus pour les rendre plus intéressants et réduire le nombre de rechargements dus à un hiatus ennuyeux.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/41457"
+		],
+		"categories": [
+			"Gameplay"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET",
+			"IWDEE"
+		],
+		"authors": [
+			"daemonjax"
+		],
+		"team": [],
+		"notes": [
+			"Il s'agit d'un mod override qui écrase un fichier."
+		],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2019-09",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Grazilaxx",
+		"description": "Ce ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/72883"
+		],
+		"categories": [
+			"PNJ One Day"
+		],
+		"games": [
+			"BG",
+			"BGEE"
+		],
+		"authors": [
+			"Darkmaeko"
+		],
+		"team": [],
+		"notes": [
+			"Attention pour utiliser ce mod, vous devez renommer son répertoire et son weidu.exe en \"Uzilnpc\".|Ce mod est bugué, les nouveaux sorts n'ont ni noms ni descriptions."
+		],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2018-10",
+		"tp2": "Uzilnpc"
+	},
+	{
+		"name": "Turn your Dragon Disciple into a Drag....er, Wyvern!",
+		"description": "Ce mod donne au Disciple du dragon la capacité de se métamorphoser en bébé wyverne (identique à la capacité du druide justicier).",
+		"urls": [
+			"https://forums.beamdog.com/discussion/41457"
+		],
+		"categories": [
+			"Kit"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET",
+			"IWDEE"
+		],
+		"authors": [
+			"noloir"
+		],
+		"team": [],
+		"notes": [
+			"Il s'agit d'un mod override qui écrase un fichier."
+		],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2020-04",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Difficulty Tweaks",
+		"description": "Une série d'options destinées à rendre le jeu plus difficile, comme réduire le nombre d'objets dans les boutiques, empêcher les joueurs de changer de zone pendant un combat, limiter le repos aux auberges et bâtiments clos, etc...",
+		"urls": [
+			"https://forums.beamdog.com/discussion/87006",
+			"https://github.com/JayP236/bg-2-ee_difficulty_tweaks"
+		],
+		"categories": [
+			"Gameplay"
+		],
+		"games": [
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"jaypee"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2023-02",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "NPC Kit and Proficiency Randomiser",
+		"description": "Ce mod promet de donner à tous les compagnons du jeu un kit aléatoire (relatif à leur classe, leur race, leur alignement, etc...) et/ou de leur assigner des compétences d'armes aléatoires (ce qui peut donner des résultats étranges, comme compétences \"lance\" et \"arme à une main\"). En fait, il ne modifie que Imoen.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/83290",
+			"https://github.com/JayP236/bgee_npc_randomiser"
+		],
+		"categories": [
+			"PNJ (autre)"
+		],
+		"games": [
+			"BGEE"
+		],
+		"authors": [
+			"jaypee"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 1,
+		"languages": [],
+		"status": "active",
+		"last_update": "2022-01",
+		"tp2": "bgee_npc_randomiser"
+	},
+	{
+		"name": "Pfaug Hammerlust",
+		"description": "Ce ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/72883"
+		],
+		"categories": [
+			"PNJ One Day"
+		],
+		"games": [
+			"BG",
+			"BGEE"
+		],
+		"authors": [
+			"Darkmaeko"
+		],
+		"team": [],
+		"notes": [
+			"Attention pour utiliser ce mod, vous devez renommer son répertoire et son weidu.exe en \"Uzilnpc\".|Ce mod est bugué, les nouveaux sorts n'ont ni noms ni descriptions."
+		],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2018-10",
+		"tp2": "Uzilnpc"
+	},
+	{
+		"name": "Simulacrum fix",
+		"description": "Avant la sortie de la version 2.6+ des jeux IE, le simulacre (Heaume de Vhailor, sorts, Jumeau de l'ombre) avait tendance à disparaître sans explication. Ce correctif résout le problème.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/comment/850917/#Comment_850917"
+		],
+		"categories": [
+			"Patch non officiel"
+		],
+		"games": [
+			"BGEE",
+			"BG2EE",
+			"EET",
+			"IWDEE"
+		],
+		"authors": [
+			"subtledoctor"
+		],
+		"team": [],
+		"notes": [
+			"Ce mod n'est plus nécessaire avec un jeu patché en 2.6.6"
+		],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2017-02",
+		"tp2": "simularcum_fix"
+	},
+	{
+		"name": "Custom Ranger Soundset",
+		"description": "Un pack de sons prévu pour un personnage rôdeur, mais qui conviendra sûrement à d'autres classes.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/26869"
+		],
+		"categories": [
+			"Portrait et son"
+		],
+		"games": [
+			"BGEE",
+			"BG2EE",
+			"IWDEE",
+			"EET"
+		],
+		"authors": [
+			"Niklazo"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2013-12",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Priest of Milil",
+		"description": "Ce mod ajoute le prêtre de Milil. Il dispose de nouveaux sorts basés sur le clerc Pnp et a accés à la forteresse du barde.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/31820"
+		],
+		"categories": [
+			"Kit"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET",
+			"IWDEE"
+		],
+		"authors": [
+			"Rhaella "
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "missing",
+		"last_update": "2014-03",
+		"tp2": ""
+	},
+	{
+		"name": "Increased Rate of Banter",
+		"description": "Les banters ont pour chaque personnage 10% de chances d'être lancés toutes les 10 minutes. Pour certains joueurs, c'est trop rare. Alors ce mod corrige cela en calant les probabilités à 100% de chances toutes les 7 minutes. Un autre mod sur la même page propose un réglage encore plus rapide.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/40530"
+		],
+		"categories": [
+			"Gameplay"
+		],
+		"games": [
+			"BG2EE"
+		],
+		"authors": [
+			"Tresset"
+		],
+		"team": [],
+		"notes": [
+			"C'est un mod Override qui remplace les fichiers.|Ce mod est obsolète, préférez lui le plus efficace [[Banter Accelerator for Enhanced Edition games]]."
+		],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "obsolete",
+		"last_update": "2015-03",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Adoy's Surgeproof Belt",
+		"description": "Ce mod modifie la Ceinture d'Adoy pour qu'elle immunise contre tous les hiatus. L'auteur du mod prévient que c'est EXTREMENT cheaté.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/31861"
+		],
+		"categories": [
+			"Sort et objet"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Tresset"
+		],
+		"team": [],
+		"notes": [
+			"C'est un mod Override qui remplace un fichier."
+		],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2014-03",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Instant Trap spells",
+		"description": "En avez-vous assez que vos pièges à crânes, vos glyphes et vos symboles mettent une éternité à exploser ? Vous arrive-t-il de placer l'un de ces pièges à un endroit où vous savez que votre ennemi va passer et de le voir passer devant sans que le piège n'explose ? Puis, après avoir tué votre ennemi, devez-vous désarmer le piège qui n'a pas explosé avant de continuer en envoyant votre tank s'asseoir dessus jusqu'à ce qu'il se décide enfin à exploser ? Si vous avez répondu oui à l'une de ces questions, ce mod est fait pour vous ! Avec lui les sort de pièges deviennent instantanés. Plus de problème !",
+		"urls": [
+			"https://forums.beamdog.com/discussion/51535"
+		],
+		"categories": [
+			"Sort et objet",
+			"Gameplay"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Tresset"
+		],
+		"team": [],
+		"notes": [
+			"C'est un mod Override qui remplace des fichiers."
+		],
+		"translation_state": "n/a",
+		"safe": 1,
+		"languages": [],
+		"status": "active",
+		"last_update": "2016-04",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Original Drizzt ",
+		"description": "Avant le patch 1.3, Drizzt était beaucoup plus difficile à embrouiller. Ce mod remet en place Drizzt tel qu'il etait avant le patch 1.3.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/39686"
+		],
+		"categories": [
+			"Gameplay"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"EET"
+		],
+		"authors": [
+			"Tresset"
+		],
+		"team": [],
+		"notes": [
+			"C'est un mod Override qui remplace des fichiers."
+		],
+		"translation_state": "n/a",
+		"safe": 1,
+		"languages": [],
+		"status": "active",
+		"last_update": "2015-02",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "PnP Improved invisibility",
+		"description": "Ce mod rend tous les sorts et capacités qui rendent donnent l'invisibilité améliorée PnP : le personnage ne redevient pas visible après avoir attaqué. Il modifie aussi le sort Poussière scintillante pour qu'il rendent révèle les créatures invisibles qui ratent leu jet de sauvegarde.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/39063"
+		],
+		"categories": [
+			"Sort et objet"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Amioran"
+		],
+		"team": [],
+		"notes": [
+			"C'est un mod Override qui remplace des fichiers."
+		],
+		"translation_state": "n/a",
+		"safe": 1,
+		"languages": [],
+		"status": "active",
+		"last_update": "2015-01",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Alexia: An NPC Assassin",
+		"description": "Alexia Kalila Johara Al-Mustafa ou X, comme on l'appelle, se dit originaire de la ville de Calimport, dans le pays de Calimshan. Douce et silencieuse, elle a tendance à se tenir à l'écart et à ne parler à personne. C'est une tueuse bien entraînée qui peut atteindre n'importe qui, peu importe le nombre de pièges ou de personnes qui protègent sa cible. Elle aime relever les défis qui se présentent à elle pour atteindre sa cible. Elle n'est pas vantarde, mais elle excelle dans l'art de donner le meilleur d'elle-même. Sa carte de visite est de laisser une note avec un X sur le corps de sa cible et tous les témoins sont généralement tués. Alexia n'appartient à aucune guilde, elle travaille seule et accepte les contrats qui lui plaisent. L'un de ces contrats consiste à tuer Irenicus, c'est pourquoi elle souhaite rejoindre votre groupe.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/40896"
+		],
+		"categories": [
+			"PNJ recrutable"
+		],
+		"games": [
+			"BG2",
+			"BGT"
+		],
+		"authors": [
+			"CoM_Solaufein"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [],
+		"status": "missing",
+		"last_update": "2015-04",
+		"tp2": ""
+	},
+	{
+		"name": "Glows and Paperdolls",
+		"description": "Ce mod propose plusieurs options pour donner aux sorts de BG2EE plus d’apparence IWDesque. Il peut changer l'animation d'incantation, le son, l'animation d'effets, etc...",
+		"urls": [
+			"https://forums.beamdog.com/discussion/37669"
+		],
+		"categories": [
+			"Sort et objet"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"lunar"
+		],
+		"team": [],
+		"notes": [
+			"C'est un mod Override qui remplace des fichiers."
+		],
+		"translation_state": "n/a",
+		"safe": 1,
+		"languages": [],
+		"status": "active",
+		"last_update": "2014-12",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Accurate Vhailor's Helm",
+		"description": "Ce mod donne au heaume de Vhailor l'apparence qu'il a dans PSTEE.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/64406"
+		],
+		"categories": [
+			"Cosmétique"
+		],
+		"games": [
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Buttercheese"
+		],
+		"team": [],
+		"notes": [
+			"C'est un mod Override qui remplace des fichiers."
+		],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2017-04",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Hexxat Soundset extraction",
+		"description": "Pack de voix d'Hexxat (en anglais) à utiliser pour votre personnage.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/64979"
+		],
+		"categories": [
+			"Portrait et son"
+		],
+		"games": [
+			"BG2",
+			"BGT",
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Minsc2017"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2017-05",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "A mod for a far less annoying Barad quest",
+		"description": "Ce mod rend la quête de Barad moins ennuyeuse : les chat ne peuvent plus s'échapper et quand ils voient un personnage du groupe ils s'assoient et demandent à manger.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/74020"
+		],
+		"categories": [
+			"Quête"
+		],
+		"games": [
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Minsc2017"
+		],
+		"team": [],
+		"notes": [
+			"C'est un mod Override qui remplace des fichiers."
+		],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2019-01",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Baeloth Soundset",
+		"description": "Pack de voix de Baeltoth (en anglais) à utiliser pour votre personnage.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/64809"
+		],
+		"categories": [
+			"Portrait et son"
+		],
+		"games": [
+			"BG2",
+			"BGT",
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Paradox_Maki"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2017-05",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Sand Soundset",
+		"description": "Pack de voix de Sand (en anglais), personnage du jeu Nevewinter Night 2, à utiliser pour votre personnage.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/64809"
+		],
+		"categories": [
+			"Portrait et son"
+		],
+		"games": [
+			"BG2",
+			"BGT",
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Paradox_Maki"
+		],
+		"team": [],
+		"notes": [
+			"Au même endroit il est possible de télécharger ce set de voix avec un volume réduit."
+		],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2017-05",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Druid Armaments",
+		"description": "Ce mod ajoute de l'équipement magique mineur spécifiquement pensé pour les druides.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/26910"
+		],
+		"categories": [
+			"Sort et objet"
+		],
+		"games": [
+			"BG2EE"
+		],
+		"authors": [
+			"Corsymyr "
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "missing",
+		"last_update": "2013-12",
+		"tp2": ""
+	},
+	{
+		"name": "Need a Shuriken ?",
+		"description": "Ce mod ajoute 3 types de shurikens dans le jeu. À appeler via la console ou EEkeeper.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/15002"
+		],
+		"categories": [
+			"Sort et objet"
+		],
+		"games": [
+			"BG2EE"
+		],
+		"authors": [
+			"Corsymyr "
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "missing",
+		"last_update": "2013-01",
+		"tp2": ""
+	},
+	{
+		"name": "Store revisions",
+		"description": "Ce fichier à copier dns l'override donne un stock illimités de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu.",
+		"urls": [
+			"https://www.dropbox.com/scl/fi/wlcfgfps1jzbuafq37fdr/store_revisions.tpa?rlkey=j7qovdw73p5rz3ry044pw0d44&e=1&dl=0"
+		],
+		"categories": [
+			"Gameplay"
+		],
+		"games": [
+			"BG2EE"
+		],
+		"authors": [
+			"DrAzTiK"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2019-04",
+		"tp2": ""
+	},
+	{
+		"name": "Infinite Spells",
+		"description": "Ce livre à se donner à la console ou avec EEkeeper permet de lancer n'importe quel sort arcanique ou clerical à volonté ou de se donner des capacités telles que Enchaînement, UAI ou Kaï permanentes.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/75309"
+		],
+		"categories": [
+			"Sort et objet"
+		],
+		"games": [
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"evzhy "
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2019-04",
+		"tp2": ""
+	},
+	{
+		"name": "Bard blade kit mini-mod",
+		"description": "Ce fichier à copier dans l'override rend les deux spirales du maître-lames pour efficaces (plus de mouvement impossible, cumulable avec hâte) mais en contrepartie réduit le gain de mouvement.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/79190"
+		],
+		"categories": [
+			"Kit"
+		],
+		"games": [
+			"BGEE",
+			"EET",
+			"BG2EE"
+		],
+		"authors": [
+			"Arachnus"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2020-04",
+		"tp2": ""
+	},
+	{
+		"name": "Dagoth Ur Soundset",
+		"description": "Pack de voix de Dagoth Ur (en anglais), Boss final du jeu Morrowind, à utiliser pour votre personnage.",
+		"urls": [
+			"https://www.nexusmods.com/baldursgate2ee/mods/52"
+		],
+		"categories": [
+			"Portrait et son"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"ZeltArruin"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2021-04",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Redone Ir'revrykal the Unholy Reaver",
+		"description": "Ce mod réécrit l’épée pour qu’elle ai des compétences plus utiles.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/81817"
+		],
+		"categories": [
+			"Sort et objet"
+		],
+		"games": [
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Bracchus"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "missing",
+		"last_update": "2021-04",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "BG:EE & SoD Audio Downgrade",
+		"description": "Ce mod réduit la qualité des sons inclus dans BGEE et SOD pour que ceux-ci soient plus proches des sons de oBG2.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/81158"
+		],
+		"categories": [
+			"Portrait et son"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"EET"
+		],
+		"authors": [
+			"Sirick"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2020-12",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Irenicus voice better matches the Hooded Man",
+		"description": "Ce mod change la voix d'Irenicus dans BG2 pour qu'elle ressemble à celle de l'homme à la cagoule dans SOD. L'auteur précise lui-même que le changement est très subtil.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/81366"
+		],
+		"categories": [
+			"Portrait et son"
+		],
+		"games": [
+			"BG2EE"
+		],
+		"authors": [
+			"tl1942"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2021-01",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "BG1 Enemy NPC Soundsets",
+		"description": "Trois set de sons (en anglais) pour votre personnage : ceux de Eldoth, Silke et Nimbul.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/81810",
+			"https://github.com/wrexkh/BG1-Enemy-NPC-Soundsets"
+		],
+		"categories": [
+			"Portrait et son"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Wres"
+		],
+		"team": [],
+		"notes": [
+			"Pensez à bien prendre les fichiers correspondant à votre jeu : BGEE ou EET. De plus sur BGEE il y a une manipulation à faire, lisez la présentation du mod."
+		],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2021-04",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "MorePowerEnemy",
+		"description": "Ce mod permet d'ajouter des niveaux à tous les ennemis du jeu ou seulement aux boss. Il permet aussi de leur donner plus de TAC0, CA, jets de sauvegarde, résistances, points de vie. Tous les paramètres sont configurables.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/79190"
+		],
+		"categories": [
+			"Gameplay"
+		],
+		"games": [
+			"BGEE",
+			"EET",
+			"BG2EE"
+		],
+		"authors": [
+			"Dark00"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "missing",
+		"last_update": "2022-06",
+		"tp2": ""
+	},
+	{
+		"name": "Blackadder Soundset Collection",
+		"description": "Trois sets de sons (en anglais) tirés des personnages de la série Blackadder sur la BBC.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/79706",
+			"https://github.com/wrexkh/Blackadder-Soundsets"
+		],
+		"categories": [
+			"Portrait et son"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Wres"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2020-06",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Merlin",
+		"description": "Set de sons (en anglais) de Merlin le magicien, tiré du film Excalibur de 1980.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/83461"
+		],
+		"categories": [
+			"Portrait et son"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"barker262"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [
+			"en"
+		],
+		"status": "active",
+		"last_update": "2022-02",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Smily Imoen portrait",
+		"description": "Un simple portait d'imoen, mais spécial : sur celui-ci, la chipie sourit de toutes ses dents.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/86553"
+		],
+		"categories": [
+			"Portrait et son"
+		],
+		"games": [
+			"BGEE",
+			"SOD",
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"cdx"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2022-08",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Remove HLAs from the Game",
+		"description": "Ce mod rend les hlas inaccessibles pour les héros. Les ennemis pourront toujours s'en servir. Comme dans IWDEE.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/87125"
+		],
+		"categories": [
+			"Gameplay"
+		],
+		"games": [
+			"EET",
+			"BG2EE"
+		],
+		"authors": [
+			"Baptor"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "n/a",
+		"safe": 2,
+		"languages": [],
+		"status": "active",
+		"last_update": "2023-03",
+		"tp2": "non-weidu"
+	},
+	{
+		"name": "Throne of the Mad God",
+		"description": "La litanie d'un barde vous met sur la piste d'un groupe d'aventuriers disparus. Saurez vous retrouver ce qu'il en reste dans cette vaste forteresse abandonnée ?",
+		"urls": [
+			"https://forums.beamdog.com/discussion/89267/"
+		],
+		"categories": [
+			"Quête"
+		],
+		"games": [
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Acifer"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en",
+			"de"
+		],
+		"status": "active",
+		"last_update": "2026-13",
+		"tp2": "ThroneoftheMadGod"
+	},
+	{
+		"name": "Skyfire",
+		"description": "Ce mod propose aux pnjs d’utiliser l'aérostat de la promenade de Waukine pour visiter de nombreuses zones éloignées et même d'autres plans. Ce mod est toujours en cours de réalisation.",
+		"urls": [
+			"https://forums.beamdog.com/discussion/82663"
+		],
+		"categories": [
+			"Quête"
+		],
+		"games": [
+			"BG2EE",
+			"EET"
+		],
+		"authors": [
+			"Acifer"
+		],
+		"team": [],
+		"notes": [],
+		"translation_state": "no",
+		"safe": 2,
+		"languages": [
+			"en",
+			"de"
+		],
+		"status": "wip",
+		"last_update": "2026-13",
+		"tp2": ""
 	}
 ]
