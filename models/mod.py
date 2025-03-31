@@ -61,7 +61,7 @@ class Mod:
         # troncate url to remove zip and rar files
         for i, url in enumerate(urls):
             if self.url_is_direct_archive(url):
-                urls[i] = url.rsplit("/", 1)[0]
+                urls[i] = url.rsplit("/", 1)[0] + "/"
         return [Url(url) for url in urls]
 
     @property
