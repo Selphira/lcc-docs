@@ -11820,10 +11820,12 @@
         ],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-07",
-        "tp2": ""
+        "tp2": "Everybody Is Just So Scary"
     },
     {
         "name": "Evilness",
@@ -16788,16 +16790,20 @@
             "BGT"
         ],
         "authors": [
-            "EmPhasis"
+            "EmPhasis",
+            "Lava Del'Vortel"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2011-07",
-        "tp2": ""
+        "tp2": "IK"
     },
     {
         "name": "Infinity Sounds",
@@ -33075,10 +33081,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2010-06",
-        "tp2": ""
+        "tp2": "rogue-switch"
     },
     {
         "name": "Secret of Bone Hill",
@@ -44117,7 +44125,7 @@
         ],
         "status": "active",
         "last_update": "2017-03",
-        "tp2": "SetUp-5EO"
+        "tp2": "5EO"
     },
     {
         "name": "Dialog Tags",
@@ -49132,11 +49140,11 @@
         "languages": [],
         "status": "active",
         "last_update": "2004-10",
-        "tp2": "Setup-ErinSoundset"
+        "tp2": "ErinSoundset"
     },
     {
         "name": "Jasper St. Baird Soundset",
-        "description": "Vous avez trouvé Jasper St. Baird génial depuis qu'il a aidé votre groupe à sortir du donjon d'Irenicus en un temps record dans Dungeon-Be-Gone. Baird vous permet désormais de profiter de son incroyable puissance, de son charme et de sa vivacité d'esprit tout au long du jeu !",
+        "description": "Vous avez trouvé Jasper St. Baird génial depuis qu'il a aidé votre groupe à sortir du donjon d'Irenicus en un temps record dans [[Dungeon-Be-Gone]]. Baird vous permet désormais de profiter de son incroyable puissance, de son charme et de sa vivacité d'esprit tout au long du jeu !",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -49191,7 +49199,7 @@
     },
     {
         "name": "Alternate Xan Soundset",
-        "description": "Vous aimez le soundset et l'acteur du mod Xan BG2 NPC de Kulyok ?  Emportez-les avec vous dans votre expérience de jeu sur BG1. Deux Soundsets différents à essayer.",
+        "description": "Vous aimez le soundset et l'acteur du mod Xan BG2 NPC de Kulyok ? Emportez-les avec vous dans votre expérience de jeu sur BG1. Deux Soundsets différents à essayer.",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -49213,7 +49221,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2018-05",
-        "tp2": "Setup-XanAlternateBG2Voice"
+        "tp2": "XanAlternateBG2Voice"
     },
     {
         "name": "Discard Armor/Book Casting",
@@ -49473,7 +49481,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -49483,7 +49491,7 @@
     },
     {
         "name": "Distinguishable Animation",
-        "description": "Ce mod en coréen améliore les animations des pnjs et arcs longs",
+        "description": "Ce mod en coréen améliore les animations des pnjs et arcs longs.",
         "urls": [
             "https://cafe.naver.com/nextrealm?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D12857088%2526menuid%3D25%2526boardtype%3DI%2526page%3D1%2526specialmenutype%3D%2526articleid%3D92726%2526referrerAllArticles%3Dfalsezip"
         ],
@@ -49500,9 +49508,9 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
-            "cor"
+            "kr"
         ],
         "status": "missing",
         "last_update": "2016-01",
@@ -49556,11 +49564,11 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2003-12",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "GUI Switcher",
@@ -49619,7 +49627,7 @@
         "languages": [],
         "status": "obsolete",
         "last_update": "2006-04",
-        "tp2": "Setup-NPNPC Portraits"
+        "tp2": "NPNPC Portraits"
     },
     {
         "name": "EasyTutu NPC Kit Selection",
@@ -49688,7 +49696,7 @@
     },
     {
         "name": "Viva mart",
-        "description": "Ce mod ajoute un ogre marchand dans la tente du cirque, et un combat épique contre une incarnation de Sauron dans la grotte des myconides, dans les égouts sous la couronne de cuivre.",
+        "description": "Ce mod ajoute un ogre marchand dans la tente du cirque, et un combat épique contre une incarnation de Sauron dans la grotte des myconides, dans les égouts sous la Couronne de cuivre.",
         "urls": [
             "https://cafe.naver.com/nextrealm?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D12857088%2526menuid%3D25%2526boardtype%3DI%2526page%3D3%2526specialmenutype%3D%2526articleid%3D45273%2526referrerAllArticles%3Dfalse"
         ],
@@ -49717,7 +49725,7 @@
     },
     {
         "name": "Twax mod",
-        "description": "Ce mod ajoute un marchand d'objets très puissants sur le balcon dans le district du pont (celui accessible par le donjon de Mekrath).",
+        "description": "Ce mod ajoute un marchand d'objets très puissants sur le balcon dans le District du pont (celui accessible par le donjon de Mekrath).",
         "urls": [
             "https://cafe.naver.com/nextrealm?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D12857088%2526menuid%3D25%2526boardtype%3DI%2526page%3D3%2526specialmenutype%3D%2526articleid%3D41127%2526referrerAllArticles%3Dfalse"
         ],
@@ -49773,9 +49781,9 @@
     },
     {
         "name": "Runiczny Piesniarz Klingi",
-        "description": "Les Lames chanteuses de runes sont des défenseurs mystiques de la race elfique et de l'ordre éternel de Faerun. Leurs anciens pouvoirs sont capables d'empêcher la mort et la destruction, les guerres et les catastrophes naturelles.",
+        "description": "Les Lames chanteuses de runes sont des défenseurs mystiques de la race elfique et de l'ordre éternel de Féérune. Leurs anciens pouvoirs sont capables d'empêcher la mort et la destruction, les guerres et les catastrophes naturelles.",
         "urls": [
-            "ftp://enterprise.gram.pl/bg2/Runiczny_v2.0.zip"
+            "http://www.shsforums.net/topic/57056-bwpv14/#post_id_565797"
         ],
         "categories": [
             "Kit"
@@ -49784,17 +49792,21 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Riklaunim"
+        ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier `Runiczny_v2.0.zip `."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
             "pl"
         ],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "status": "active",
+        "last_update": "2003-11",
+        "tp2": "run"
     },
     {
         "name": "Archimage",
@@ -49854,7 +49866,7 @@
     },
     {
         "name": "Character Collection",
-        "description": "De nombreux personnages originaux comme Chevalier de la mort, Gorion, Korax, Slythe, Ulcaster, Merlin, Dradeel, Aec'Letec, et plein d'autres. A noter que leur compétence d'armes ne sont pas fixées, c'est à vous de les choisir. ",
+        "description": "De nombreux personnages originaux comme Chevalier de la mort, Gorion, Korax, Slythe, Ulcaster, Merlin, Dradeel, Aec'Letec, et plein d'autres. À noter que leurs compétences martiales ne sont pas fixées, c'est à vous de les choisir.",
         "urls": [
             "https://sorcerers.net/Games/dl/eyJpdiI6IjdYb0dWRjZVemxDSVpSMUhtRlV4RGc9PSIsInZhbHVlIjoiZ0QzWVwvc3FnaUFqZDZTQnUzMmk4TUlqc202YnRQTW5lN1wvVGdcL2ZVY2FxOD0iLCJtYWMiOiI3NTY1NzMzYTM1YmYyYjJlZTAwYzU1NzBjZTJiNDZhMWI1ZDMwNWNhNjc0ZTgwZjQyMDZkZDg4NDg4MjU1ODczIn0="
         ],
@@ -49877,15 +49889,15 @@
             "L'archive contient aussi des fichiers .itm et .spl que vous devez placer dans l'override de votre jeu pour pouvoir utiliser certains personnages."
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2000-01",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Drizzt Characters",
-        "description": "permet de jouer Drizzt Do'urden, Artemis Entreri and Guenhwyvarb. Attention si vous voulez jouez Drizzt, lisez la note.",
+        "description": "Permet de jouer Drizzt Do'urden, Artemis Entreri et Guenhwyvarb. Attention si vous voulez jouer Drizzt, lisez la note.",
         "urls": [
             "https://sorcerers.net/Games/dl/eyJpdiI6InhuT1JsMEtjY1J0bktTQUw3dmNWT3c9PSIsInZhbHVlIjoiR1hLb2tKaEtuTzdiT3RNMnNTSUhvUG9KTlB4dXJJS1cyQ1JTRVhmZGM2NnhIbDFScnpCejZ4cjVicytxVllwSiIsIm1hYyI6ImEzYTZjNzZiYjllMGJiMTY2NDNlMGViNDk2MTM5ZGExM2EzYWZlZTNlNmY0N2Q1NjZiMmRkMjEyZGQyM2EyNzMifQ=="
         ],
@@ -49908,11 +49920,11 @@
             "Attention, si on joue Drizzt la métamorphose en elfe noir fait planter le jeu. Pour éviter ça il faut changer l'animation de Drizzt en elfe normal avant de parler à Adalon (ShadowKeeper). Il est possible de reprendre l’animation de drizzt après avoir repris forme normale."
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2000-01",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "N3ige-kits",
@@ -50031,7 +50043,7 @@
     },
     {
         "name": "Twin Blades Character Pack",
-        "description": "Ce pack de personnages contient 6 membres de la Compagnie des Lames Jumelles : Shara (Kensaï-mage humain ), Garret (Kensaï-voleur humain ), Falcon (Rôdeur elfe), Damon Smithson (Clerc de Lathandre humain), Lorna (Ensorceleuse demi-elfe) et Morian (Skalde nain). Tous les personnages disposent d'un certain nombre d'objets et d'armes spéciaux, ainsi que d'une biographie unique.",
+        "description": "Ce pack de personnages contient 6 membres de la Compagnie des Lames Jumelles : Shara (Kensaï-mage humain), Garret (Kensaï-voleur humain), Falcon (Rôdeur elfe), Damon Smithson (Clerc de Lathandre humain), Lorna (Ensorceleuse demi-elfe) et Morian (Skalde nain). Tous les personnages disposent d'un certain nombre d'objets et d'armes spéciaux, ainsi que d'une biographie unique.",
         "urls": [
             "https://sorcerers.net/Games/dl/eyJpdiI6ImVScmFPS2FpMUdkb1FrV3VKQTZwUnc9PSIsInZhbHVlIjoiOTR5MlNGSmtDcjJTU3g3RlZzd2diT0tocHhMMFNJMDhZZHliZ3JqazU4cU9hbzgxVVEyS1pJamd1Sjc1R1ZHUyIsIm1hYyI6IjcxNzViY2E4NmQxNDc4ZThmZjViYmMxZTlhZjc3NDhmNTY5YjgyMWMxMWU5NzMyZTVkZDJjMTdiYmI1YmQwNTQifQ=="
         ],
@@ -50227,11 +50239,11 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2000-10",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Watcher’s Keep Multiplayer Conversion",
@@ -50571,7 +50583,7 @@
     },
     {
         "name": "Kontinuální sesílání kouzel (really force casting)",
-        "description": "Un mod qui donne l'Enchainement permanent aux mages du groupe. Fichiers à copier dans l'override puis code à taper à la console.",
+        "description": "Un mod qui donne l'Enchaînement permanent aux mages du groupe. Fichiers à copier dans l'override puis code à taper à la console.",
         "urls": [
             "https://www.sigil.cz/download-modifikace/kontinualni-sesilani-kouzel/"
         ],
@@ -50594,11 +50606,11 @@
             "Pour appliquer l'effet uniquement au personnage principal : CLUAConsole:CreateCreature(\"cz_alcrp\").|Pour appliquer l'effet à tous les lanceur de sorts du groupe : CLUAConsole:CreateCreature(\"cz_alcrx\")."
         ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2004-05",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Przywrócenie brakującej (Safana dialog Fix for SOD)",
@@ -50652,7 +50664,7 @@
     },
     {
         "name": "BG1-style Entangle",
-        "description": "ce mod redonne au sort Enchevêtrement l'animation qu'il avait dans BG1",
+        "description": "Ce mod redonne au sort Enchevêtrement l'animation qu'il avait dans BG1.",
         "urls": [
             "https://forums.beamdog.com/discussion/19961/spell-mod-bg1-style-entangle/p2#Comment_909411"
         ],
@@ -50695,7 +50707,7 @@
         ],
         "team": [],
         "notes": [
-            "Beaucoup de voix proviennent de IWD2, d'autres sont enregistrées par l'auteur. Au total il y a Plus de 1300 fichiers de voix dans le mods."
+            "Beaucoup de voix proviennent de IWD2, d'autres sont enregistrées par l'auteur. Au total il y a plus de 1300 fichiers de voix dans le mod."
         ],
         "translation_state": "n/a",
         "safe": 2,
