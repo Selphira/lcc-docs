@@ -4,7 +4,7 @@ import re
 
 from models import Mod, ModStatus
 from scripts.utils import ModManager
-from settings import CategoryEnum, Games, know_languages
+from settings import CategoryEnum, Games, language_flags
 
 
 def main():
@@ -110,7 +110,7 @@ def main():
                 tp2s.add(mod["tp2"])
 
         # check languages
-        for lang in set(mod["languages"]) - know_languages:
+        for lang in set(mod["languages"]) - language_flags.keys():
             print("🟡 Langue inconnue →", lang)
             nb_warnings += 1
 

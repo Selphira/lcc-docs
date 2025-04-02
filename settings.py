@@ -202,28 +202,27 @@ def resize_image_from_width(width: int) -> None:
         image_data[key]["height"] = int(current_height * diff_base1)
 
 
-know_languages: set = {
-    "br",
-    "cn",
-    "cz",
-    "de",
-    "en",
-    "es",
-    "fo",
-    "fr",
-    "hu",
-    "it",
-    "jp",
-    "kr",
-    "nl",
-    "no",
-    "pl",
-    "pt",
-    "ru",
-    "se",
-    "tu",
-    "ua",
-    "zh",
+language_flags: dict[str, str] = {
+    "br": "🇧🇷",
+    "cn": "🇨🇳",
+    "cz": "🇨🇿",
+    "de": "🇩🇪",
+    "en": "🇬🇧",
+    "es": "🇪🇸",
+    "fo": "🇫🇴",
+    "fr": "🇨🇵",
+    "hu": "🇭🇺",
+    "it": "🇮🇹",
+    "jp": "🇯🇵",
+    "kr": "🇰🇷",
+    "nl": "🇳🇱",
+    "no": "🇳🇴",
+    "pl": "🇵🇱",
+    "pt": "🇵🇹",
+    "ru": "🇷🇺",
+    "se": "🇸🇪",
+    "tr": "🇹🇷",
+    "ua": "🇺🇦",
 }
 
 language_translate: dict[str, dict[str, str]] = {
@@ -246,8 +245,7 @@ language_translate: dict[str, dict[str, str]] = {
         "pt": "portugais",
         "ru": "russe",
         "se": "suédois",
-        "tu": "turc",
+        "tr": "turc",
         "ua": "ukrainien",
-        "zh": "chinois",
     }
 }
