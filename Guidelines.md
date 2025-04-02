@@ -72,6 +72,7 @@ Les notes du mod écrites par les contributeurs pour compléter la description d
 On trouvera le code dans `Mod.get_auto_notes` dans `models/mods.py`.\
 En voici un résumé des notes automatiques qui ne sont donc **PAS** à ajouter :
 - Noms des traducteurs
+- `Ce mod n'est disponible qu'en {langue}.`
 - Mods EE qui datent d'avant la version 2.0 : `⚠️ EE : La dernière mise à jour date de {year}. Ce mod pourrait ne pas fonctionner avec la dernière version du jeu.`
 - Mod non WeiDU (tp2="non-weidu") : `⚠️ WeiDU : Ce mod écrase les fichiers et ne peut être désinstallé. Installez-le à vos risques et périls.`
 - Mod archivé (status="archived") : `Ce mod a été archivé par son auteur/mainteneur qui ne semble pas vouloir lui donner suite.`
