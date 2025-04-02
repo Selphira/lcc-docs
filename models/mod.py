@@ -4,7 +4,7 @@ import re
 
 from models.url import Url
 from models.utils import slugify
-from settings import CategoryEnum, Games, attrs_icon_data
+from settings import CategoryEnum, Games, attrs_icon_data, language_translate
 
 link_regex = re.compile(r"\[\[[^].]+\]\]")
 quote_regex = re.compile(r"`[^`]+`")
@@ -146,6 +146,18 @@ class Mod:
 
     def get_auto_notes(self) -> list:
         auto_notes = list()
+
+        # Don't download files directly
+        for url in self.urls:
+            if self.url_is_direct_archive(url):
+                filename = url.rsplit("/", 1)[-1]
+                auto_notes.append(f"Fichier `{filename}`.")
+
+        # check language
+        if len(self.languages) == 1 and self.languages[0] not in ("fr", "en"):
+            language = language_translate["fr"].get(self.languages[0], "langue inconnue")
+            auto_notes.append(f"Ce mod n'est disponible qu'en {language}.")
+
         if self.is_outdated and self.safe <= 1:
             year, _ = self.last_update.split("-")
             if self.is_EE:
@@ -174,12 +186,6 @@ class Mod:
             auto_notes.append(
                 f"Traducteur{'s' * (len(self.team) > 1)} 🇲🇫 : {self.get_team_str()}"
             )
-
-        # Don't download files directly
-        for url in self.urls:
-            if self.url_is_direct_archive(url):
-                filename = url.rsplit("/", 1)[-1]
-                auto_notes.append(f"Fichier `{filename}`.")
 
         return auto_notes
 
