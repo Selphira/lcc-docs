@@ -2529,7 +2529,8 @@
         "name": "Astral Warrior",
         "description": "Ce mod ajoute un profil de guerrier qui, pour une raison inconnue, \"réagit\" très bien à la magie de téléportation, et est capable de voyager dans les plans avec une grande facilité. Avec le temps, il peut se téléporter sur de petites distances.",
         "urls": [
-            "https://baldur.cob-bg.pl/node/945"
+            "https://baldur.cob-bg.pl/node/945",
+            "https://baldur.cob-bg.pl/download/bg2/kits/Astral_Warrior.exe"
         ],
         "categories": [
             "Kit"
@@ -2545,10 +2546,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "pl"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2007-05",
+        "tp2": "Wojak"
     },
     {
         "name": "Au bonheur du tireur",
@@ -2675,7 +2678,7 @@
         "tp2": "Aura_BG1"
     },
     {
-        "name": "Auramaster Druid",
+        "name": "Auramaster Druid Kit",
         "description": "Ce mod ajoute un profil de druide assez puissant qui peut utiliser l'énergie magique flottant dans la nature pour lancer des sorts plus rapidement et plus fréquemment. Il peut aussi lancer des sorts profanes et divins non disponibles pour les autres druides.",
         "urls": [
             "https://baldur.cob-bg.pl/node/893",
@@ -11415,8 +11418,8 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2009-06",
+        "tp2": "Ebg2"
     },
     {
         "name": "Enhanced Creatures for BG1-Tutu",
@@ -11669,8 +11672,8 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2015-08",
+        "tp2": "sovereign"
     },
     {
         "name": "Eternal Imoen",
@@ -16123,7 +16126,7 @@
     },
     {
         "name": "Improved Anvil",
-        "description": "Contrairement à ce que son nom pourrait laisser penser, ce mod est essentiellement un mod augmentant de manière drastique la difficulté du jeu de base. Il comporte également de nouvelles quêtes, de nouveaux profils (dont le [[Auramaster Druid]] et le [[RiskBreaker]]), un randomisateur, un nouveau personnage recrutable ([[Sibel]]), et propose également la possibilité de forger de nombreux objets gros-bills, certes, mais nécessaires pour vaincre les ennemis tout aussi gros-bills.",
+        "description": "Contrairement à ce que son nom pourrait laisser penser, ce mod est essentiellement un mod augmentant de manière drastique la difficulté du jeu de base. Il comporte également de nouvelles quêtes, de nouveaux profils (dont le [[Auramaster Druid Kit]] et le [[RiskBreaker]]), un randomisateur, un nouveau personnage recrutable ([[Sibel]]), et propose également la possibilité de forger de nombreux objets gros-bills, certes, mais nécessaires pour vaincre les ennemis tout aussi gros-bills.",
         "urls": [
             "http://forums.blackwyrmlair.net/index.php?showforum=99",
             "https://github.com/critto-bg/ImprovedAnvil/"
@@ -16262,7 +16265,7 @@
     },
     {
         "name": "Improved Battles",
-        "description": "Très ancien (2005), ce mod avait pour vocation d'augmenter la difficulté d'un certain nombres de combats (Drizzt, Firkraag, etc.). Il ajoutait par ailleurs quatre nouveaux profils de guerrier.|Si vous tenez vraiment à le tester, préférez-lui son descendant [[Revised Battles]].",
+        "description": "Très ancien, ce mod avait pour vocation d'augmenter la difficulté d'un certain nombres de combats (Drizzt, Firkraag, etc.). Il ajoutait par ailleurs quatre nouveaux profils de guerrier.|Si vous tenez vraiment à le tester, préférez-lui son descendant [[Revised Battles]].",
         "urls": [
             "https://baldur.cob-bg.pl/node/1090"
         ],
@@ -16283,10 +16286,16 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "es",
+            "pl"
+        ],
         "status": "embed",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2007-05",
+        "tp2": "Battles"
     },
     {
         "name": "Improved Beastmaster Kit",
@@ -22428,7 +22437,8 @@
         "name": "Najebawszy",
         "description": "Ce mod corrige et améliore certains objets du jeu, en affaiblit aussi quelques uns. Un composant limite le nombre d'objets magiques uniques que l'on peut trouver facilement (ils sont remplacés par des objets de même niveau de magie, à quelques exceptions près). Enfin, d'autres composants ajoutent plusieurs profils.",
         "urls": [
-            "https://baldur.cob-bg.pl/node/796"
+            "https://baldur.cob-bg.pl/node/796",
+            "https://baldur.cob-bg.pl/download/bg2/items/Najebawszy,_wersja_1.exe"
         ],
         "categories": [
             "Sort et objet",
@@ -24003,6 +24013,7 @@
         "description": "Issu du projet de mega mod tchèque éponyme, ce mod ajoute pas moins de 18 profils (3 dans chaque classe de guerrier, paladin, rôdeur, voleur, barde et druide), provenant généralement des versions papier et retouchés par le concepteur.",
         "urls": [
             "https://baldur.cob-bg.pl/node/902",
+            "http://baldur.cob-bg.pl/download/bg2/kits/PoF_Kitpack_V5.rar",
             "https://www.mediafire.com/file/ojrgs0x7035r9kw/Paladins_of_Faerun_Kitpack_V4.zip/file"
         ],
         "categories": [
@@ -24121,8 +24132,8 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2007-05",
+        "tp2": "Souvenir"
     },
     {
         "name": "Parangon Mode",
@@ -36676,7 +36687,7 @@
         "tp2": ""
     },
     {
-        "name": "Warrior kit pack",
+        "name": "Warrior Kit Pack",
         "description": "Ce mod ajoute sept nouveaux profils, la plupart tirés des classes de prestige de la troisième édition de D&D :|- paladins : Chevalier hospitalier, Chevalier templier et Chevalier religieux.|- guerriers : Archer hors pair (tireur d'élite) et Briseur de hordes.|- rôdeurs : Éclaireur sauvage et Gardien de la forêt.",
         "urls": [
             "https://baldur.cob-bg.pl/node/932",
@@ -47142,9 +47153,7 @@
             "Skowierski Piotr"
         ],
         "team": [],
-        "notes": [
-            "N'a pratiquement pas de dialogue."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
