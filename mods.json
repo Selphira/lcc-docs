@@ -12992,7 +12992,9 @@
     {
         "name": "Frennedan NPC",
         "description": "Le doppelganger du Donjon d'Irenicus devient un personnage recrutable. Mais faites attention : son écriture laisse à désirer et il est incompatible avec bon nombre de mods.",
-        "urls": [],
+        "urls": [
+            "https://www.mediafire.com/file/hjwveaa0hbo8n7m/frennedan.zip/file"
+        ],
         "categories": [
             "PNJ recrutable"
         ],
@@ -13008,9 +13010,9 @@
         "languages": [
             "de"
         ],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "status": "active",
+        "last_update": "2009-06",
+        "tp2": "frennedan"
     },
     {
         "name": "Full Plate and Packing Steel",
@@ -14725,7 +14727,8 @@
         "name": "Heroes of Amn",
         "description": "Ce mod polonais ajoute :|- 6 nouveaux profils : Tueur de démons, Chevalier erroné, Prêtre de Sunie, Prêtre de Kelevmor, Prêtre de Gargauth et Silencieux.|- 6 nouveaux PNJ non recrutables avec lesquels parler.|- de nouveaux portraits, principalement pour les PNJ.|- 2 nouveaux magasins (l'un d'eux dans le cimetière) et le marchand Lisz.|- environ 20 nouveaux objets (certains à acheter dans les magasins, d'autres à trouver).|- plusieurs personnages originaux auront leurs propres portraits.",
         "urls": [
-            "https://baldur.cob-bg.pl/node/890"
+            "https://baldur.cob-bg.pl/node/890",
+            "http://baldur.cob-bg.pl/download/bg2/multi/HoA.rar"
         ],
         "categories": [
             "Kit",
@@ -14802,7 +14805,9 @@
             "Bonnie Rutledge"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "FOR 15, DEX 16, CON 16, INT 13, SAG 12, CHA 10."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
@@ -19770,7 +19775,8 @@
         "name": "Lost Crossroads Spellpack",
         "description": "Ce mod améliore certains sortilèges dans le jeu, pour les rapprocher de leur version AD&D papier ou simplement leur donner plus de logique (par exemple, la Sphère d'Otiluke peut être lancée sur un allié ou le mage lui-même sans qu'il doive rater son jet de sauvegarde). Par ailleurs, il améliore considérablement leurs effets graphiques. Ce mod est en version bêta, donc attention aux bugs éventuels.",
         "urls": [
-            "http://forums.blackwyrmlair.net/index.php?showtopic=98&st=260&p=47135&"
+            "http://forums.blackwyrmlair.net/index.php?showtopic=98&st=260&p=47135&",
+            "https://www.mediafire.com/file/oa8qbsz8yeuhp8v/SpellPackB6.exe/file"
         ],
         "categories": [
             "Sort et objet"
@@ -21736,7 +21742,7 @@
     },
     {
         "name": "Morrow Gate",
-        "description": "Il s'agit d'une compilation de profils et de modifications de profils existants, basée largement sur les classes de prêtres (rôdeurs, druides). Il intègre Natural Selection qui modifie les profils de druides et en ajoute un également, le Sombrelien. Les profils Archer arcanique et guerrier Hellion sont également contenus dans ce mod.|Enfin, des changements pour les paladins et clercs déchus, les druides et une quête concernant la tour fortifiée de Kalah pour les personnages mauvais. Cette liste n'est pas exhaustive, car ce mod inclue également les ajustements de l'ancien mod [[Twist Pack]].|Lisez bien le readme pour vous familiariser avec tous ses composants.",
+        "description": "Il s'agit d'une compilation de profils et de modifications de profils existants, basée largement sur les classes de prêtres (rôdeurs, druides). Il intègre [[Natural Selection]] qui modifie les profils de druides et en ajoute un également, le Sombrelien. Les profils Archer arcanique et guerrier Hellion sont également contenus dans ce mod.|Enfin, des changements pour les paladins et clercs déchus, les druides et une quête concernant la tour fortifiée de Kalah pour les personnages mauvais. Cette liste n'est pas exhaustive, car ce mod inclue également les ajustements de l'ancien mod [[Twist Pack]].|Lisez bien le readme pour vous familiariser avec tous ses composants.",
         "urls": [
             "http://www.shsforums.net/topic/57823-morrowgate-v09e-a-mod-from-woundedlion/"
         ],
@@ -22449,7 +22455,7 @@
         "languages": [
             "pl"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "",
         "tp2": "najebawszy"
     },
@@ -24003,7 +24009,8 @@
         "name": "Paladins of Faerun Kitpack",
         "description": "Issu du projet de mega mod tchèque éponyme, ce mod ajoute pas moins de 18 profils (3 dans chaque classe de guerrier, paladin, rôdeur, voleur, barde et druide), provenant généralement des versions papier et retouchés par le concepteur.",
         "urls": [
-            "https://baldur.cob-bg.pl/node/902"
+            "https://baldur.cob-bg.pl/node/902",
+            "https://www.mediafire.com/file/ojrgs0x7035r9kw/Paladins_of_Faerun_Kitpack_V4.zip/file"
         ],
         "categories": [
             "Kit"
@@ -24017,7 +24024,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention : en l'état, il supprime l'accès aux profils originaux lors de la création du personnage."
+            "Attention : en l'état, il supprime l'accès aux profils originaux lors de la création du personnage.|Cliquez sur le deuxième lien pour télécharger le fichier."
         ],
         "translation_state": "no",
         "safe": 1,
@@ -24098,7 +24105,8 @@
         "name": "Pamiątki z Północy",
         "description": "Ce mod polonais (Souvenirs du Nord) modifie 33 objets de BG2 pour les rendre plus utiles, et ajoute 35 objets de [[Northern Tales of the Sword Coast]] à l'échoppe de Mira sur la Promenade de Waukyne. Par ailleurs, il ajoute les vendeurs Deidre et Joluv, et modifie quelque peu l'environnement de l'Antichambre.",
         "urls": [
-            "https://baldur.cob-bg.pl/node/763"
+            "https://baldur.cob-bg.pl/node/763",
+            "http://baldur.cob-bg.pl/download/bg2/items/Pamiatki_z_Polnocy_v1.0.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -24111,7 +24119,9 @@
             "Riklaunim"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Cliquez sur le deuxième lien pour télécharger le fichier."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -27551,7 +27561,7 @@
         "description": "Ce mod installe le profil de paladin Chevalier de la Lumière. Il peut atteindre la grande maîtrise avec les épées longues et les épées bâtardes. Il possède des compétences martiales supérieures aux paladins au détriment de sa capacité à lancer des sorts. Il gagne également de puissants effets passifs au fil des niveaux : immunité à la peur au niveau 10, protection contre le mal au niveau 15 etc",
         "urls": [
             "https://baldur.cob-bg.pl/node/915",
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=3486&sid=473c7240dfe94ad896e7ad10dffebce6",
+            "http://baldur.cob-bg.pl/download/bg2/kits/Rycerz_Swiatlosci_v1.0.2.rar",
             "https://github.com/Plutonium-X/KIT_Lumiere"
         ],
         "categories": [
@@ -28573,8 +28583,10 @@
     },
     {
         "name": "Shar-Teel NPC",
-        "description": "À ne pas confondre avec [[Shar-Teel NPC for SoD]], ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG. Il ne dispose pas de beaucoup de contenu.",
-        "urls": [],
+        "description": "À ne pas confondre avec [[Shar-Teel NPC for SoD]], ce mod permet de recruter la guerrière chaotique mauvaise Shar-Teel dans BG2. Il ne dispose pas de beaucoup de contenu.",
+        "urls": [
+            "https://www.mediafire.com/file/fp1n66gtw7a2490/sharteel.zip/file"
+        ],
         "categories": [
             "PNJ recrutable"
         ],
@@ -28588,9 +28600,9 @@
         "translation_state": "no",
         "safe": 1,
         "languages": [],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "status": "active",
+        "last_update": "2003-10",
+        "tp2": "sharteel"
     },
     {
         "name": "Shar-Teel NPC for SoD",
@@ -29267,7 +29279,8 @@
         "name": "Skie BG2 NPC Redone",
         "description": "Il s'agit du tout premier mod du prolifique Lava, Skie BG2, totalement réécrit et traduit en anglais. Vous souvenez-vous de Skie, la fille riche et gâtée d'Entar Écudargent ? Cette voleuse humaine neutre est désormais disponible en tant que PNJ recrutable dans BG2.|Le mod propose de nouvelles interactions et conversations avec Charname, son jeu de sons original de la première partie de la saga, ainsi que des portraits alternatifs en option. Skie peut commencer une romance avec le personnage principal - il doit s'agir d'un elfe, d'un humain, d'un demi-elfe ou d'un tieffelin. De nouveaux objets ont été ajoutés, des anciens modifiés, tous les scripts ont été réécrits et un troisième épilogue a été ajouté. La recherche d'objets a été facilitée et est désormais liée à une petite quête romantique.",
         "urls": [
-            "http://www.shsforums.net/files/file/1005-skie-npc/"
+            "http://www.shsforums.net/files/file/1005-skie-npc/",
+            "http://baldur.cob-bg.pl/download/bg2/npc/SKIEv.5.1.zip"
         ],
         "categories": [
             "PNJ recrutable"
@@ -29285,9 +29298,9 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "status": "active",
+        "last_update": "2009-05",
+        "tp2": "Skie"
     },
     {
         "name": "Skills and Abilities",
@@ -34033,7 +34046,7 @@
     },
     {
         "name": "Todd le super gars testeur",
-        "description": "Ce mod français de Deratiseur ajoute un marchand anachronique qui vend les objets de Morrowind et d'Arcanum. Il attend les aventuriers à différents endroits selon le jeu.|Note : comme la raison d'être du module est de proposer de manière anachronique tous les objets venant d'autres jeux, il ne fait pas de distinction entre les objets inutiles, les objets équilibrés et les objets surpuissants. Installez-le en connaissance de cause. Si vous cherchez des objets équilibrés, voyez plutôt du côté de [[L'interplan]].",
+        "description": "Ce mod ajoute un marchand anachronique qui vend les objets de Morrowind et d'Arcanum. Il attend les aventuriers à différents endroits selon le jeu.|Note : comme la raison d'être du module est de proposer de manière anachronique tous les objets venant d'autres jeux, il ne fait pas de distinction entre les objets inutiles, les objets équilibrés et les objets surpuissants. Installez-le en connaissance de cause. Si vous cherchez des objets équilibrés, voyez plutôt du côté de [[L'interplan]].",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=31924",
             "https://github.com/Deratiseur/Todd",
@@ -34206,7 +34219,8 @@
         "name": "Tortured Souls-BP",
         "description": "« Les Âmes Torturées » est un terme générique pour englober tous les PNJ qui sont troublés. Ce mod ajoute de nombreux banters, 4 nouvelles romances dont une entre Yoshimo et Kachiko, et une énorme nouvelle quête. Plus précisément :|- 5 nouveaux PNJ recrutables dont Sime (la fille d'Aran Linvail, aux côtés de son père si vous avez travaillé pour sa guilde au chapitre 3), Kachiko (dans le donjon d'Irenicus), Dynahéir (Sime et Minsc doivent être dans le groupe), Coran (disponible dans la forêt du Téthyr) et Bodhi (si vous avez choisi de travailler pour sa guilde au chapitre 3).|Une romance avec Valygar pour un PJ féminin, qui débute dans SoA et se poursuit dans ToB.|- Une nouvelle quête assez vaste sur la route de Spellhold, dont les protagonistes seront Yoshimo et Kachiko.|- Une romance avec Sime pour les PJ des 2 sexes.|- Plusieurs quêtes spécifiques à Sime, dont l'une vous amènera à affronter par 2 fois un ennemi (indestructible dans la 1ère rencontre) lors de la quête principale du mod.|- Le composant `Quêtes de classe multiples` pour les PJ multi-classés, leur autorisant à effectuer les quêtes de toutes leur sous-classes.|- Une légère amélioration du combat de la Rune Tordue.|- Une multitude de nouveaux objets (provenant en grande partie d'IWD1).|Yoshimo doit faire partie de votre groupe pour pouvoir recruter Kachiko. De même, le recrutement de Coran ne pourra se faire qu'en déclenchant une mini-quête dans le Marché de l'Aventurier (vous devez y pénétrer sans que Jaheira fasse partie de votre groupe).|Cette version est compatible avec [[The Big Picture]] et la plupart des mods WeiDU.",
         "urls": [
-            "http://www.shsforums.net/files/file/324-tortured-souls-bp-compatible-version-v610/"
+            "http://www.shsforums.net/files/file/324-tortured-souls-bp-compatible-version-v610/",
+            "https://america.iegmc.com/ts-bp/"
         ],
         "categories": [
             "Quête",
@@ -34223,7 +34237,9 @@
             "King Diamond"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Fichier TS-BPv6.10.rar."
+        ],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -34232,9 +34248,9 @@
             "de",
             "es"
         ],
-        "status": "missing",
+        "status": "active",
         "last_update": "2007-06",
-        "tp2": ""
+        "tp2": "TS-BP"
     },
     {
         "name": "Touchstone NPC",
@@ -34936,7 +34952,8 @@
         "name": "Twist Pack",
         "description": "Ce mod proposait toute une collection d'ajustements de règles du jeu.",
         "urls": [
-            "https://baldur.cob-bg.pl/node/1592"
+            "https://baldur.cob-bg.pl/node/1592",
+            "http://baldur.cob-bg.pl/download/bg2/tweaks/Twist_Pack.zip"
         ],
         "categories": [
             "Gameplay"
@@ -34950,14 +34967,17 @@
         ],
         "team": [],
         "notes": [
-            "Il est désormais obsolète car il a été inclus dans le mod [[Morrow Gate]]."
+            "Il est désormais obsolète car il a été inclus dans le mod [[Morrow Gate]].|Cliquez sur le deuxième lien pour télécharger le fichier."
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "embed",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-08",
+        "tp2": "TwistPack"
     },
     {
         "name": "Twisting With The Rune",
@@ -36667,7 +36687,8 @@
         "name": "Warrior kit pack",
         "description": "Ce mod ajoute sept nouveaux profils, la plupart tirés des classes de prestige de la troisième édition de D&D :|- paladins : Chevalier hospitalier, Chevalier templier et Chevalier religieux.|- guerriers : Archer hors pair (tireur d'élite) et Briseur de hordes.|- rôdeurs : Éclaireur sauvage et Gardien de la forêt.",
         "urls": [
-            "https://baldur.cob-bg.pl/node/932"
+            "https://baldur.cob-bg.pl/node/932",
+            "http://baldur.cob-bg.pl/download/bg2/kits/Warrior_Kit_Pack_v1.zip"
         ],
         "categories": [
             "Kit"
@@ -36680,13 +36701,18 @@
             "the only dragon"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Cliquez sur le deuxième lien pour télécharger le fichier."
+        ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-03",
+        "tp2": "Warrior_Pack"
     },
     {
         "name": "Warsling Sniper Kit",
@@ -36867,7 +36893,9 @@
     {
         "name": "Wedge's BGT Adventure Pack",
         "description": "Ce mod ajoutait de petites quêtes humoristiques.",
-        "urls": [],
+        "urls": [
+            "https://www.mediafire.com/file/qov3yagyssq20q5/wbgtap.zip/file"
+        ],
         "categories": [
             "Quête"
         ],
@@ -36881,10 +36909,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
-        "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "languages": [
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2014-11",
+        "tp2": "WBGTAP"
     },
     {
         "name": "Weimar's Undead Targos",
@@ -37374,7 +37404,8 @@
         "name": "Władca Żywiołów",
         "description": "Ce mod ajoute un profil de druide, le Maître des éléments. En polonais...",
         "urls": [
-            "https://baldur.cob-bg.pl/node/944"
+            "https://baldur.cob-bg.pl/node/944",
+            "http://baldur.cob-bg.pl/download/bg2/kits/WLadca.zip"
         ],
         "categories": [
             "Kit"
@@ -37387,7 +37418,9 @@
             "Aroc"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Cliquez sur le deuxième lien pour télécharger le fichier."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -46558,7 +46591,7 @@
     },
     {
         "name": "Resurection mod",
-        "description": "Ce mod polonais supprime Résurrection du jeu (les sorts comme le sceptre) et le remplace par un sort qui a ente 20 et 40% de fonctionner (selon le niveau du lanceur de sort) et 10% de chance de détruire le corps. Un composant augmente le prix des services de résurrection dans les temples de 1K par niveau de la personne décédée (ie : 15K pour un perso de lvl 15). Un autre fait que les elfes ne peuvent pas être ressuscités (Aerie / Viconia / Haer'dalis).",
+        "description": "Ce mod polonais supprime Résurrection du jeu (les sorts comme le sceptre) et le remplace par un sort qui a entre 20 et 40% de chances de fonctionner (selon le niveau du lanceur de sort) et 10% de chances de détruire le corps. Un composant augmente le prix des services de résurrection dans les temples de 1000 pièces d'or par niveau de la personne décédée (ie : +15K pour un perso de lvl 15). Un autre fait que les elfes ne peuvent pas être ressuscités (Aerie / Viconia / Haer'dalis).",
         "urls": [
             "https://baldur.cob-bg.pl/download/bg2/tweaks/ResurectionMod.zip"
         ],
@@ -48609,7 +48642,7 @@
         ],
         "team": [],
         "notes": [
-            "Le mod est en polonais."
+            "Le mod est en polonais.|Cliquez sur le deuxième lien pour télécharger le fichier."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -49034,7 +49067,7 @@
     },
     {
         "name": "Cespenar Audio for Weimer’s Item Upgrade Mod",
-        "description": "Ajoute des répliques audio à Cespenar (en anglais) pour des dizaines de nouvelles recettes incluses dans le mod Item Upgrade.",
+        "description": "Ajoute des répliques audio à Cespenar (en anglais) pour des dizaines de nouvelles recettes incluses dans le mod [[Item Upgrade]].",
         "urls": [
             "https://www.pocketplane.net/diversions-and-soundsets/"
         ],
@@ -49254,7 +49287,7 @@
     },
     {
         "name": "Mages Can Specialize",
-        "description": "Les mages standard peuvent se spécialiser après coup (et garder dans leur livre de sorts les sorts interdits par leur nouvelle spécialisation.",
+        "description": "Les mages standard peuvent se spécialiser après coup (et garder dans leur livre de sorts les sorts interdits par leur nouvelle spécialisation.)",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/35605-mages-can-specialize-mod/"
         ],
@@ -49285,7 +49318,7 @@
     },
     {
         "name": "Pick Up Your Bed and Go",
-        "description": "Tous les pnjs dormants du jeu réagirons à vos interactions (attaque, pickpocket, etc) en criant, en quittant la pièce ou en vous attaquant. Le mod rajoute aussi des objets ou de l'or dans les poches des dormeurs, pour que les habiles voleurs trouve un intérêt à les déranger.",
+        "description": "Tous les pnjs dormants du jeu réagirons à vos interactions (attaque, pickpocket, etc) en criant, en quittant la pièce ou en vous attaquant. Le mod rajoute aussi des objets ou de l'or dans les poches des dormeurs, pour que les habiles voleurs trouvent un intérêt à les déranger.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/35790-pick-up-your-bed-and-go-mod/"
         ],
@@ -49342,7 +49375,7 @@
     },
     {
         "name": "Sniff",
-        "description": "Dorénavant, lorsque vous cliquerez sur un chien ou un loup, au lieu de vous ignorer ou de vous fuir, il se dirigerai vers l’ennemi le plus  proche. Cela marche aussi avec les chiens et loups invoqués.|Le deuxième composant modifie les sorts de détection d'invisibilité pour qu'il soient de plus haut niveau, et rend l’invisibilité plus puissante : les créatures dont l'invisibilité et révélée redeviennent invisibles 3 seconde après.",
+        "description": "Dorénavant, lorsque vous cliquerez sur un chien ou un loup, au lieu de vous ignorer ou de vous fuir, il se dirigera vers l’ennemi le plus  proche. Cela marche aussi avec les chiens et loups invoqués.|Le deuxième composant modifie les sorts de détection d'invisibilité pour qu'il soient de plus haut niveau, et rend l’invisibilité plus puissante : les créatures dont l'invisibilité et révélée redeviennent invisibles 3 seconde après.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/34958-sniff-mod/"
         ],
@@ -49510,7 +49543,7 @@
         "translation_state": "no",
         "safe": 1,
         "languages": [
-            "kr"
+            "cor"
         ],
         "status": "missing",
         "last_update": "2016-01",
@@ -49544,7 +49577,7 @@
     },
     {
         "name": "Improved Creatures",
-        "description": "Ce mod rajoute les animations de lancement de sorts manquantes aux Cornugon, Glabrezu, Illithid et Mages yuan-ti",
+        "description": "Ce mod rajoute les animations de lancement de sorts manquantes aux Cornugons, Glabrezus, Illithids et Mages yuan-tis",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=55"
         ],
@@ -49783,7 +49816,8 @@
         "name": "Runiczny Piesniarz Klingi",
         "description": "Les Lames chanteuses de runes sont des défenseurs mystiques de la race elfique et de l'ordre éternel de Féérune. Leurs anciens pouvoirs sont capables d'empêcher la mort et la destruction, les guerres et les catastrophes naturelles.",
         "urls": [
-            "http://www.shsforums.net/topic/57056-bwpv14/#post_id_565797"
+            "http://www.shsforums.net/topic/57056-bwpv14/#post_id_565797",
+            "https://www.mediafire.com/file/gapml3rqa09xmpe/run.zip/file"
         ],
         "categories": [
             "Kit"
@@ -49810,7 +49844,7 @@
     },
     {
         "name": "Archimage",
-        "description": "Un kit de prestige pour ensorceleur. Pour y avoir accès il faut être un ensorceleur de niveau 10 minimum et boire une potion (qu'il faut se donner vie la console ou ShadowKeeper). Avantages : des sorts de prêtres, des sorts inédits, une incantation accélérée, des hlas en capacités spéciales. Inconvénient : perte de tout l'xp puis réduction de l'xp reçu.",
+        "description": "Un kit de prestige pour ensorceleur. Pour y avoir accès il faut être un ensorceleur de niveau 10 minimum et boire une potion (qu'il faut se donner via la console ou ShadowKeeper). Avantages : des sorts de prêtres, des sorts inédits, une incantation accélérée, des hlas en capacités spéciales. Inconvénient : perte de tout l'xp puis réduction de l'xp reçu.",
         "urls": [
             "https://cafe.naver.com/nextrealm?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D12857088%2526menuid%3D25%2526boardtype%3DI%2526page%3D3%2526specialmenutype%3D%2526articleid%3D54636%2526referrerAllArticles%3Dfalse"
         ],
@@ -50263,7 +50297,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod vous prévu pour le multijoueur vous oblige à créer une cession multijoueurs, mais rien ne vous empêche de jouer seul.",
+            "Ce mod prévu pour le multijoueur vous oblige à créer une cession multijoueurs, mais rien ne vous empêche de jouer seul.",
             "Ce mod installe l’exécutable BGmain.exe modifié, qui au démarrage vous demande d'insérer le cd de l'extension."
         ],
         "translation_state": "no",
@@ -50390,35 +50424,6 @@
         "tp2": "Pat"
     },
     {
-        "name": "Enhanced SoA",
-        "description": "ce mod polonais ajoute des marchands avec de nouveaux objets, de nouveaux kits, des grimoires et tomes cachés un peu partout, de nouvelles race ennemis et un personnage recrutable (Amara, une skalde). Il rajoute aussi les descriptions manquantes de certains objets et d’autres améliorations diverses",
-        "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=1405&sid=473c7240dfe94ad896e7ad10dffebce6"
-        ],
-        "categories": [
-            "Sort et objet",
-            "PNJ recrutable",
-            "Kit"
-        ],
-        "games": [
-            "BG2",
-            "BGT"
-        ],
-        "authors": [
-            "Nastian"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
-        "safe": 2,
-        "languages": [
-            "pl"
-        ],
-        "status": "active",
-        "last_update": "2009-06",
-        "tp2": "Ebg2"
-    },
-    {
         "name": "Lepsze Przedmioty",
         "description": "ce mod polonais ajoute 22 objets et corrige la description de 2 objets existants",
         "urls": [
@@ -50502,7 +50507,7 @@
     },
     {
         "name": "NPC lvl 1 with DSotSC/NTotSC",
-        "description": "Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan versions niveau 1 pour DSotSC/NTotSCeur(s) numéro(s) correspondant(s), jusqu'à ce que l'on soit pleinement satisfait des changements et que l'on soit prêt à procéder à l'installation.",
+        "description": "Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan versions niveau 1 pour DSotSC/NTotSC.",
         "urls": [
             "http://baldur.cob-bg.pl/download/bg1/patches/NPC_1.lvl_w_NTotSC.zip"
         ],
@@ -50527,7 +50532,7 @@
     },
     {
         "name": "Multi NPC Mod",
-        "description": "Ce mod change la classe de Xan en Guerrier/Mage ou Prêtre/Mage et celle de Dynaheir en Prêtre/Mage dans BG1:TotSC. Il change aussi la compétence d'arme de La lame de Lune de Xan pour l’adapter à sa nouvelle classe.",
+        "description": "Ce mod change la classe de Xan en Guerrier/Mage ou Prêtre/Mage et celle de Dynaheir en Prêtre/Mage dans BG1:TotSC. Il change aussi la compétence d'arme requise par la Lame de Lune de Xan pour l’adapter à sa nouvelle classe.",
         "urls": [
             "http://athkatla.cob-bg.pl/viewtopic.php?t=3299&sid=473c7240dfe94ad896e7ad10dffebce6"
         ],
@@ -50954,7 +50959,7 @@
     },
     {
         "name": "Barbarian/Shaman",
-        "description": "C'est un kit de shaman qui gagne tous les bénéfices d'un barbare (rage, résistances, immunité aux sournoises, spécialisation, pvs D10, etc, mais en contrepartie ne gagne que 50% d'xp.",
+        "description": "C'est un kit de shaman qui gagne tous les bénéfices d'un barbare (rage, résistances, immunité aux sournoises, spécialisation, pvs D10, etc...) mais en contrepartie ne gagne que 50% d'xp.",
         "urls": [
             "https://forums.beamdog.com/discussion/74927"
         ],
@@ -51175,7 +51180,7 @@
     },
     {
         "name": "Wis, Chr, Int Saves",
-        "description": "Ce mod rajoute la règle de la 3éme édition qui fait que chaque deux points de caractéristique au delà de 10 donne un bonus aux jets de sauvegarde.|La sagesse améliore les jets de sauvegarde contre les sorts et la pétrification.|L'intelligence améliore les jets de sauvegarde contre les baguette et les souffles.|Le charisme améliore les jets de sauvegarde contre la mort et le poison.",
+        "description": "Ce mod rajoute la règle de la 3éme édition qui fait que chaque deux points de caractéristique au delà de 10 donne un bonus aux jets de sauvegarde.|La sagesse améliore les jets de sauvegarde contre les sorts et la pétrification.|L'intelligence améliore les jets de sauvegarde contre les baguettes et les souffles.|Le charisme améliore les jets de sauvegarde contre la mort et le poison.",
         "urls": [
             "https://forums.beamdog.com/discussion/38338"
         ],
@@ -51723,7 +51728,7 @@
     },
     {
         "name": "NPC Kit and Proficiency Randomiser",
-        "description": "Ce mod promet de donner à tous les compagnons du jeu un kit aléatoire (relatif à leur classe, leur race, leur alignement, etc...) et/ou de leur assigner des compétences d'armes aléatoires (ce qui peut donner des résultats étranges, comme compétences \"lance\" et \"arme à une main\"). En fait, il ne modifie que Imoen.",
+        "description": "Ce mod promettait de donner à tous les compagnons du jeu un kit aléatoire (relatif à leur classe, leur race, leur alignement, etc...) et/ou de leur assigner des compétences d'armes aléatoires (ce qui peut donner des résultats étranges, comme compétences \"lance\" et \"arme à une main\"). En fait, il ne modifie que Imoen.",
         "urls": [
             "https://forums.beamdog.com/discussion/83290",
             "https://github.com/JayP236/bgee_npc_randomiser"
@@ -51747,7 +51752,7 @@
         "tp2": "bgee_npc_randomiser"
     },
     {
-        "name": "UzilNPC",
+        "name": "Uzil NPC",
         "description": "Ce ajoute Grazilaxx, une pnj illithid ensorceleuse avec de nombreux sorts inédits (capacités psioniques). Elle possède un set de voix mais aucun dialogue. Vous la trouverez prêt de l'auberge de Brasamical.",
         "urls": [
             "https://forums.beamdog.com/discussion/72883"
@@ -51832,7 +51837,7 @@
     },
     {
         "name": "Priest of Milil",
-        "description": "Ce mod ajoute le prêtre de Milil. Il dispose de nouveaux sorts basés sur le clerc Pnp et a accés à la forteresse du barde.",
+        "description": "Ce mod ajoute le prêtre de Milil. Il dispose de nouveaux sorts basés sur le clerc Pnp et a accès à la forteresse du barde.",
         "urls": [
             "https://forums.beamdog.com/discussion/31820"
         ],
@@ -51905,9 +51910,7 @@
             "Tresset"
         ],
         "team": [],
-        "notes": [
-            "C'est un mod Override qui remplace un fichier."
-        ],
+        "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
@@ -51945,7 +51948,7 @@
     },
     {
         "name": "Original Drizzt ",
-        "description": "Avant le patch 1.3, Drizzt était beaucoup plus difficile à embrouiller. Ce mod remet en place Drizzt tel qu'il etait avant le patch 1.3.",
+        "description": "Avant le patch 1.3, Drizzt était beaucoup plus difficile à embrouiller. Ce mod remet en place Drizzt tel qu'il était avant le patch 1.3.",
         "urls": [
             "https://forums.beamdog.com/discussion/39686"
         ],
@@ -51996,7 +51999,7 @@
     },
     {
         "name": "Glows and Paperdolls",
-        "description": "Ce mod propose plusieurs options pour donner aux sorts de BG2EE plus d’apparence IWDesque. Il peut changer l'animation d'incantation, le son, l'animation d'effets, etc...",
+        "description": "Ce mod propose plusieurs options pour donner aux sorts de BG2EE plus d’apparence IWDesque. Il peut changer l'animation d'incantation, le son, l'animation des effets, etc...",
         "urls": [
             "https://forums.beamdog.com/discussion/37669"
         ],
@@ -52220,7 +52223,7 @@
     },
     {
         "name": "Store revisions",
-        "description": "Ce fichier à copier dns l'override donne un stock illimités de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu.",
+        "description": "Ce fichier à copier dans l'override donne un stock illimités de potions et/ou projectiles de toutes sortes à cinq marchands dans le jeu.",
         "urls": [
             "https://www.dropbox.com/scl/fi/wlcfgfps1jzbuafq37fdr/store_revisions.tpa?rlkey=j7qovdw73p5rz3ry044pw0d44&e=1&dl=0"
         ],
@@ -52326,7 +52329,7 @@
     },
     {
         "name": "Redone Ir'revrykal the Unholy Reaver",
-        "description": "Ce mod réécrit l’épée pour qu’elle ai des compétences plus utiles.",
+        "description": "Ce mod réécrit l’épée pour qu’elle ait des compétences plus utiles.",
         "urls": [
             "https://forums.beamdog.com/discussion/81817"
         ],
@@ -52779,7 +52782,7 @@
     },
     {
         "name": "Eldritch Knight",
-        "description": "Un kit d'ensorceleur bardé d'avantages OP pour très peu d'inconvénients. La version béta c'est encore plus d'avantages pour zéro inconvénients.",
+        "description": "Un kit d'ensorceleur bardé d'avantages OP pour très peu d'inconvénients. La version bêta c'est encore plus d'avantages pour zéro inconvénients.",
         "urls": [
             "https://forums.beamdog.com/discussion/16637"
         ],
