@@ -52848,7 +52848,8 @@
             "BGEE"
         ],
         "authors": [
-            "Darkmaeko"
+            "Noctalys",
+            "theacefes"
         ],
         "team": [],
         "notes": [
@@ -52857,7 +52858,7 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "pl"
+            "en"
         ],
         "status": "active",
         "last_update": "2008-01",
@@ -52932,15 +52933,13 @@
             "BG2",
             "BGT"
         ],
-        "authors": [
-            ""
-        ],
+        "authors": [],
         "team": [],
         "notes": [
             "Ce mod en version bêta a disparu en même temps que le site chosenofmystra.net"
         ],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],

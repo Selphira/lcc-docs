@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 from json import load as json_load
 from os import sep as os_sep
 from pathlib import Path
@@ -9,9 +8,16 @@ from models import Mod
 from settings import CategoryEnum, Games, attrs_icon_data, resize_image_from_width
 
 
-def main(env):
+def main():
+    env = Environment(
+        loader=PackageLoader("docs", "templates"),
+        autoescape=select_autoescape(["html"]),
+        trim_blocks=True,  # Supprime les retours à la ligne après un bloc Jinja
+        lstrip_blocks=True,  # Supprime les espaces avant un bloc Jinja
+    )
+
     root = Path.cwd()
-    with open(root / "mods.json", "r", encoding="utf-8") as f:
+    with open(root / "db" / "mods.json", "r", encoding="utf-8") as f:
         mods = json_load(f)
     # with open("mods.yaml", "r") as f:
     #     mods = yaml.safe_load(f)
@@ -37,13 +43,3 @@ def main(env):
 
     with open(root / "docs" / "index.html", "w", encoding="utf-8") as f:
         f.write(page_html)
-
-
-if __name__ == "__main__":
-    env = Environment(
-        loader=PackageLoader("docs", "templates"),
-        autoescape=select_autoescape(["html"]),
-        trim_blocks=True,  # Supprime les retours à la ligne après un bloc Jinja
-        lstrip_blocks=True,  # Supprime les espaces avant un bloc Jinja
-    )
-    main(env)
