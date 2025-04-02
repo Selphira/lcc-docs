@@ -52836,5 +52836,248 @@
         "status": "active",
         "last_update": "2013-04",
         "tp2": "FOF"
+    },
+    {
+        "name": "Banana! NPC Mod",
+        "description": "Ce mod ajoute une banane guerrière/mage/voleuse à l'entrée de la Couronne de cuivre.",
+        "urls": [
+            "http://baldur.cob-bg.pl/download/bg2/npc/Banana.rar"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BG2",
+            "BGT",
+            "BG2EE",
+            "BGEE"
+        ],
+        "authors": [
+            "Darkmaeko"
+        ],
+        "team": [],
+        "notes": [
+            "FOR 18/00, DEX 18, CON 18, INT 18, SAG 18, CHA 18, résistance aux dégâts contondants -100%."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2008-01",
+        "tp2": "Banana"
+    },
+    {
+        "name": "Fedegar",
+        "description": "Ce mod ajoute Fedegar le barbare dans la cuisine de la Couronne de cuivre.",
+        "urls": [
+            "http://baldur.cob-bg.pl/download/bg2/npc/Fedeg1_1.zip"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Seradin"
+        ],
+        "team": [],
+        "notes": [
+            "FOR 18/93, DEX 12, CON 18, INT 9, SAG 12, CHA 9."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "de"
+        ],
+        "status": "active",
+        "last_update": "2003-01",
+        "tp2": "Fedegar"
+    },
+    {
+        "name": "Xardas",
+        "description": "Ce ajoute Mag Xardas le nécromancien à l'entrée du donjon de'Arnise. Il est équipé d'un anneau d'archimage.",
+        "urls": [
+            "http://baldur.cob-bg.pl/download/bg2/npc/Xardas.zip"
+        ],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "BOSS"
+        ],
+        "team": [],
+        "notes": [
+            "FOR 12, DEX 18, CON 14, INT 20, SAG 19, CHA 17."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2004-01",
+        "tp2": "Xardas"
+    },
+    {
+        "name": "Shyhinworunto Chende",
+        "description": "Cette guerrière demi-orque est recrutable dans les Bas quartiers.",
+        "urls": [],
+        "categories": [
+            "PNJ One Day"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            ""
+        ],
+        "team": [],
+        "notes": [
+            "Ce mod en version bêta a disparu en même temps que le site chosenofmystra.net"
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "missing",
+        "last_update": "",
+        "tp2": ""
+    },
+    {
+        "name": "Squaremod hits",
+        "description": "Ce mod permet de jouer plus de 6 personnages avec le moteur GemRB.",
+        "urls": [],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [],
+        "authors": [
+            "Ggib Eht"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "missing",
+        "last_update": "",
+        "tp2": ""
+    },
+    {
+        "name": "The circles",
+        "description": "Ce mod rajoute un dialogue de groupe au pnj [[Kelsey NPC MOD for Baldur’s Gate 2]].",
+        "urls": [
+            "http://www.forgottenwars.net/BG2Circle.zip"
+        ],
+        "categories": [
+            "PNJ (autre)"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "haywoodjablowmi"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2002-09",
+        "tp2": "circle"
+    },
+    {
+        "name": "LaAudio",
+        "description": "Ce mod ajoute trois set de voix crée par Lava Del'Vortel et basés sur sa propre voix (en polonais). Une des sets inclut un effet de réverbération, parfait pour un personnage surnaturel.",
+        "urls": [
+            "http://athkatla.cob-bg.pl/viewtopic.php?t=3741",
+            "http://baldur.cob-bg.pl/download/bg2/soundsets/LaAudio_v2.zip"
+        ],
+        "categories": [
+            "Portrait et son"
+        ],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
+        "authors": [
+            "Lava Del'Vortel"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "pl"
+        ],
+        "status": "active",
+        "last_update": "2009-05",
+        "tp2": "LaAudio"
+    },
+    {
+        "name": "Solo with a Party!",
+        "description": "Ce mod permet de jouer \"en solo\" avec tout de même 5 compagnons : chaque fois qu'un combat commence, tous les compagnons sont envoyés dans un labyrinthe. Ils sont libérés quand le combat est fini. Hors combat vous avez accès aux dialogues, quêtes de compagnons et romances.",
+        "urls": [],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [],
+        "authors": [
+            "Zyraen"
+        ],
+        "team": [],
+        "notes": [
+            "Vous DEVEZ avoir 5 compagnons pour que le script du mod fonctionne."
+        ],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
+        "status": "missing",
+        "last_update": "2005-09",
+        "tp2": ""
+    },
+    {
+        "name": "Retour à Havredest",
+        "description": "Ce mod en gestation depuis plus de 10 ans propose une nouvelle grande aventure dans IWD2 comportant de nouvelles cartes et pnjs ainsi qu'une longue quête principale et d'autres secondaires.",
+        "urls": [
+            "https://havredest.eklablog.fr/accueil-a2198170"
+        ],
+        "categories": [
+            "Conversion"
+        ],
+        "games": [
+            "IWD2"
+        ],
+        "authors": [
+            "Luren"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "fr"
+        ],
+        "status": "wip",
+        "last_update": "2023-10",
+        "tp2": ""
     }
 ]
