@@ -1461,9 +1461,10 @@
     },
     {
         "name": "Amber",
-        "description": "Cette tieffeline chaotique bonne romançable (uniquement par les PJ mâles) assez agitée se révèlera vite être sympathique une fois que vous la connaîtrez mieux. Elle se disputera vos faveurs avec Viconia, Jaheira ou Aerie si une romance est en cours. Le mod propose également une possibilité de romance pour un deuxième PC dans un jeu multijoueur (joueur 2).|Bien qu'elle soit assez intelligente, elle peut parfois être assez directe lorsqu'elle communique avec d'autres personnes. Ce trait lui vaut rarement des amis parmi ceux qu'elle rencontre, et le sentiment initial d'aversion est généralement mutuel. Mais sous ses manières piquantes, elle a un bon cœur et est prête à tout pour aider ceux qu'elle considère comme faibles et ayant besoin d'aide.|C'est guerrière/voleuse, et s'avérera très utile en combat grâce à sa dextérité très élevée. Ses caractéristiques : Force 12 Constitution 15 Dextérité 19 Intelligence 14 Sagesse 12 Charisme 8. Elle dispose de <a href=\"http://vmarttil.kapsi.fi/amber/\">son propre site internet</a>.",
+        "description": "Cette tieffeline chaotique bonne romançable (uniquement par les PJ mâles) assez agitée se révèlera vite être sympathique une fois que vous la connaîtrez mieux. Elle se disputera vos faveurs avec Viconia, Jaheira ou Aerie si une romance est en cours. Le mod propose également une possibilité de romance pour un deuxième PC dans un jeu multijoueur (joueur 2).|Bien qu'elle soit assez intelligente, elle peut parfois être assez directe lorsqu'elle communique avec d'autres personnes. Ce trait lui vaut rarement des amis parmi ceux qu'elle rencontre, et le sentiment initial d'aversion est généralement mutuel. Mais sous ses manières piquantes, elle a un bon cœur et est prête à tout pour aider ceux qu'elle considère comme faibles et ayant besoin d'aide.|C'est guerrière/voleuse, et s'avérera très utile en combat grâce à sa dextérité très élevée.|FOR 12, DEX 19, CON 15, INT 14, SAG 12, CHA 8.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/685-amber/"
+            "https://vmarttil.kapsi.fi/amber/",
+            "https://www.gibberlings3.net/mods/npcs/amber"
         ],
         "categories": [
             "PNJ recrutable"
@@ -1750,7 +1751,7 @@
         "name": "Another Fine Hell for SoD",
         "description": "Ce mod introduit une nouvelle raison pour laquelle le PJ tombe en disgrace à la fin de SoD et doit quitter la ville.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1034-another-fine-hell/",
+            "https://www.gibberlings3.net/mods/quests/anotherfinehell",
             "https://github.com/Gibberlings3/Another_Fine_Hell/"
         ],
         "categories": [
@@ -6317,6 +6318,7 @@
         "description": "Ce mod remplace la barre de sélection rapide des sorts par une version bien plus ergonomique qui permet de trier les sorts en fonction de leur nom, de leur type et de leur niveau.",
         "urls": [
             "https://forums.beamdog.com/discussion/68958/",
+            "https://www.gibberlings3.net/forums/topic/35838-ui-bubbs-spell-menu-v51/",
             "https://github.com/Bubb13/Bubbs-Spell-Menu-Normal"
         ],
         "categories": [
@@ -9708,7 +9710,7 @@
         "name": "The Divine Remix",
         "description": "Appelé à l'origine \"Cleric Remix\", ce mod a pour but de rééquilibrer et de changer certains aspects des classes utilisant la magie divine (clercs, paladins, druides et rôdeurs) dans BG (au travers de BGT, BG1Tutu et BG:EE) et dans BG2.|Tout d'abord, il revoit entièrement le système de sorts des prêtres, druides, rôdeurs et paladins. Il modifie donc la liste des sorts auxquels les clercs ont accès grâce à un système de sphères d'influence divines plus fouillé ; désormais, les prêtres auront accès aux sorts des sphères se rapportant aux attributions de leur divinité. Ainsi, les clercs de Lathandre auront des sorts plutôt centrés sur la guérison et le feu, tandis que ceux de Talos auront un accès privilégié aux sortilèges de destruction. Il en va de même pour les druides, les rôdeurs et les paladins, qui ont maintenant accès à une sélection de sorts plus appropriée pour leur classe. Dans cette logique, une lardée de nouveaux sorts divins ont été ajoutés, tels que les sorts de blessure (contraires aux sorts de guérison), la détection du bien ou encore plusieurs sortilèges tout droits issus d'Icewind Dale. Oubliés, les lanceurs de sorts divins qui se ressemblent tous et dont les sorts ne reflètent en rien leur personnalité, et ajoutez une dimension un peu plus tactique aux prêtres et aux druides !|Deuxièmement, il ajoute 22 nouveaux profils, principalement de rôdeurs et de clercs, afin d'avoir un choix plus large, comme les profils de clerc Étoile d'argent de Séluné, Manteau de la nuit de Shar, Stratège divin de la Cavalière Rouge, d'Aumonier de guerre de Tempus, Noble martyr d'Ilmater, Adepte des flammes de Kossuth, Tyran d'Iyachtu Xvim, Gardien du savoir d'Oghma, Garde du cœur de Sunie, Protecteur Féérique de Corellon, Maitre des conflits de Cyric ; le profil de druide de Maitre des vases, et les profils de rôdeur d'Archer sylvain, Rôdeur sauvage, de Coureur des bois, Vengeur et Coureur sauvage.|Enfin, il permet d'attribuer à Viconia et Branwen un profil de classe correspondant à leur divinité : prêtresse de Shar pour la première, et de Tempus pour la seconde.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/706-divine-remix/",
+            "https://www.gibberlings3.net/mods/kits/cleric",
             "https://github.com/Gibberlings3/Divine_Remix"
         ],
         "categories": [
@@ -11321,7 +11323,7 @@
         "name": "Endless BG1 Mod",
         "description": "Pour les jeux EE, le principal but de ce mod est de donner la possibilité au joueur de rester dans le monde de BG1 après avoir vaincu Sarevok. Pour reprendre la progression (ou la fin) originale du jeu, il faut parler au Duc Belt à l'intérieur du palais.|Dans EET, il donne aussi la possibilité de passer SoD et de commencer directement BG2 (notez que certains mods pour BG2 s'attendent à ce que les événements de SoD se soient produits).|Dans BGT, le composant principal du mod ajoute quelques éloges pour le PJ dans les dialogues avec le Duc Belt et supprime certains éléments faisant référence à Sarevok après sa mort.|Des composants optionnels donnent plus de prestige au PJ et préparent les événements de SoD dans toutes les installations.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1019-endless-bg1/",
+            "https://www.gibberlings3.net/mods/other/endlessbg1",
             "https://github.com/Gibberlings3/EndlessBG1"
         ],
         "categories": [
@@ -11730,7 +11732,7 @@
         "name": "Evandra",
         "description": "Evandra est une illusionniste elfe neutre absolue et, pour ceux qui connaissent l'univers de Lancedragon, une magicienne de haute Sorcellerie en robe rouge. Compte tenu de son origine elfique, son alignement dans certains sens représente une chute - un écart important par rapport à ce qu'elle avait à un moment donné prévu de la vie.|Elle se trouve à l'intérieur de la sphère planaire avant le chapitre 4, piégée avec les chevaliers de Solamnia. Elle est immédiatement recrutable. Notez que l'option de la forteresse du magicien pour renvoyer les chevaliers dans leur monde d'origine n'est plus disponible, bien que les joueurs de toutes les classes puissent éventuellement résoudre leur situation.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1008-evandra/",
+            "https://www.gibberlings3.net/mods/npcs/evandra",
             "https://github.com/MattyGroove/Evandra"
         ],
         "categories": [
@@ -11759,7 +11761,7 @@
         "name": "Every Mod and Dog",
         "description": "Ce mod ajoute des petites quêtes digressives parfois farfelues : une femme a des problèmes de coiffure dans les Collines d'Umar et vous appelle à l'aide, ou bien vous devez vous farcir les soucis sentimentaux d'un troll. Enfin, quelques rencontres étranges peuvent parsemer votre chemin. Le descriptif n'est pas des plus explicite, donc à vous de voir si vous voulez vous essayer à cet ovni.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/707-every-mod-and-dog/"
+            "https://www.gibberlings3.net/mods/quests/cliffette"
         ],
         "categories": [
             "Quête"
@@ -13070,7 +13072,7 @@
         "name": "The Gibberlings Three Anniversary Mod",
         "description": "Publié à l'occasion de la célébration de l'anniversaire du site, ce mini mod est le fruit de la collaboration de plusieurs moddeurs de G3. Il ajoute une quête mi-sérieuse, mi-amusante qui débute avec la rencontre d'un certain Drini à la Couronne de Cuivre. Prêts à vous lancer dans une tournée des pubs ?",
         "urls": [
-            "https://www.gibberlings3.net/files/file/932-gibberlings-three-anniversary-mod/",
+            "https://www.gibberlings3.net/mods/quests/g3a",
             "https://github.com/Gibberlings3/g3anniversary"
         ],
         "categories": [
@@ -13254,7 +13256,7 @@
         "name": "Garrick's Infatuation",
         "description": "Ce mod permet à la fille adoptive de Gorion d'avoir des relations plus proches avec son tout premier biographe au travers de 25 conversations. Les flirts sont accessibles à toute race, classe et alignement.|Il est compatible avec le [[The BG1NPC Project]], mais fonctionne également sans.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/899-garricks-infatuation/",
+            "https://www.gibberlings3.net/mods/npcs/garrick/",
             "https://github.com/Gibberlings3/Garricks_Infatuation"
         ],
         "categories": [
@@ -13308,7 +13310,7 @@
         "name": "Gavin NPC Mod for BGEE, EET, BGT, or Tutu",
         "description": "Ce mod ajoute un clerc de Lathandre romançable pour tous les PJs quels que soient leur race et leur alignement (bien qu'il ne romancera pas les assassins). Gavin est bavard, idéaliste, un peu trouillard, romantique, maladroit et lathandrite. Son passé difficile le hante et ses raisons de vous accompagner sur les routes de l'aventure (hormis les habituels désirs d'un monde meilleur) vous apparaîtront petit à petit... Banters, interjections et une petite quête dans Bérégost. Retrouvez-le au Temple de la Chanson du Matin, non loin de Bérégost.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/714-gavin-npc-for-bg/",
+            "https://www.gibberlings3.net/mods/npcs/gavin",
             "https://github.com/Gibberlings3/Gavin_BG"
         ],
         "categories": [
@@ -13344,7 +13346,7 @@
         "name": "Gavin NPC Mod for BG2EE, EET, BG2, or BGT",
         "description": "Ce mod ajoute un clerc de Lathandre romançable pour tous les PJs quels que soient leur race et leur alignement (bien qu'il ne romancera pas les assassins). Gavin est bavard, idéaliste, un peu trouillard, romantique, maladroit et lathandrite. Son passé difficile le hante et ses raisons de vous accompagner sur les routes de l'aventure (hormis les habituels désirs d'un monde meilleur) vous apparaîtront petit à petit... Ses caractéristiques sont FOR 16, DEX 12, CON 16, INT 12, SAG 17 et CHA 12. Retrouvez-le au temple d'Ilmater.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/715-gavin-npc-for-bg2/",
+            "https://www.gibberlings3.net/mods/npcs/gavin-bg2",
             "https://github.com/Gibberlings3/Gavin_BG2"
         ],
         "categories": [
@@ -13822,7 +13824,7 @@
         "name": "Glam's NPC Pack",
         "description": "Ce pack de NPC comprend le mod [[Vynd]] (assassin drow) ainsi que quatre nouveaux PNJ (un nain, un halfling, un prêtre de Talos et... un dragon ?), qui interagiront tous les uns avec les autres et le casting classique de Baldur's Gate. Chacun comprend une voie d'amitié et un éventail de dialogues initiés par le joueur, avec plus d'options s'ouvrant au fur et à mesure que le jeu progresse.|Vous voulez des quêtes ? Vous en aurez ! Trois des quatre nouveaux personnages sont livrés avec leurs propres missions personnelles, qui doivent être accomplies pour débloquer tous leurs dialogues initiés par les joueurs, ainsi qu'un dernier discours inspiré par la loyauté en fin de partie.|Vous voulez du butin ? Vous trouverez beaucoup de nouveaux objets uniques, certains fournis avec les personnages, d'autres trouvés grâce à leurs quêtes, ou tout simplement un abattage aveugle. Accumulez-les tous !",
         "urls": [
-            "https://www.gibberlings3.net/files/file/962-glams-npc-pack/",
+            "https://www.gibberlings3.net/mods/npcs/glam-npc-pack/",
             "https://github.com/Gibberlings3/Glam-NPC-Pack"
         ],
         "categories": [
@@ -14055,7 +14057,7 @@
         "name": "Grey the Dog NPC",
         "description": "Grey est un PNJ recrutable à part entière, mais reste un vrai chien. La seule magie dont il dispose est celle de son collier qui lui octroie un bonus de 1 à sa CA. D'autres objets peuvent être trouvés dans le jeu. Il dispose aussi de son propre kit : le Wolfhound.|Si vous avez envie de jouer à la ba-balle ou simplement envie de lui parler, cliquez-lui dessus. Mais Grey n'initie aucun dialogue, n'attendez donc aucune voie de l'amitié, et encore moins de romance (même pas avec les métamorphes). Cependant, vos compagnons ne se gêneront pas pour l'évoquer lors interactions.|Dans BG1, il y a deux petites quêtes, toutes deux disponibles à La Porte de Baldur. Elles quêtes sont également disponibles et peuvent être résolues sans Grey dans le groupe.|Le cas échéant, on peut demander à Grey de \"rechercher\" des personnes disparues : dans BG1, Brage et le fils du fermier Brun ; dans SoD les cinq réfugiés disparus. Cependant ceci a été codé de manière à ne pas trop gâcher les quêtes. Ne vous attendez donc pas à une aide trop importante.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1014-grey-the-dog/",
+            "https://www.gibberlings3.net/mods/npcs/grey-the-dog/",
             "https://github.com/Gibberlings3/Grey_The_Dog"
         ],
         "categories": [
@@ -14214,9 +14216,9 @@
     },
     {
         "name": "Haldamir",
-        "description": "Ce mod ajoute un elfe de la lune de Cormanthor qui a passé à défendre celle-ci des invasions, jusqu'à ce qu'un mystérieux sort le téléporte à Athkatla. L'aiderez-vous ? le mod comprend 2 banters avec chaque PNJ de Bioware, des dialogues amicaux avec le PJ et de nombreuses interjections.",
+        "description": "Ce mod ajoute un elfe de la lune de Cormanthor qui a passé à défendre celle-ci des invasions, jusqu'à ce qu'un mystérieux sort le téléporte à Athkatla. L'aiderez-vous ? le mod comprend 2 banters avec chaque PNJ de Bioware, des dialogues amicaux avec le PJ et de nombreuses interjections.|FOR 18, DEX 17, CON 16, INT 11, SAG 9, CHA 9.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/718-haldamir-npc-for-bg2/",
+            "https://www.gibberlings3.net/mods/npcs/haldamir/",
             "https://github.com/Gibberlings3/Haldamir"
         ],
         "categories": [
@@ -14233,9 +14235,7 @@
             "CamDawg"
         ],
         "team": [],
-        "notes": [
-            "Attention : il existe une version piratée pour EET dont l'auteure n'a pas hésité à voler les ressources de ce mod et en a modifié le contenu. Ne la téléchargez pas ou installez-la à vos risques et périls, et ne venez pas vous plaindre !"
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [
@@ -14339,10 +14339,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2009-02",
+        "tp2": "HardTimes"
     },
     {
         "name": "Hard Times for BGT",
@@ -14367,10 +14369,16 @@
         ],
         "translation_state": "yes",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "fr",
+            "it",
+            "ru",
+            "pl",
+            "en"
+        ],
         "status": "active",
-        "last_update": "2023-03",
-        "tp2": ""
+        "last_update": "2010-02",
+        "tp2": "HardTimes"
     },
     {
         "name": "Harden Coonors Tutu-AddOn",
@@ -14396,7 +14404,7 @@
         "name": "Harder BG1 Patch",
         "description": "Ce très vieux mod augmente la difficulté des combats en multipliant par 3 les points de vie des adversaires. En compensation, ils octroient 2 fois plus d'expérience. Le mod permet aussi de faire des piles plus importantes des objets, d'obtenir toujours le maximum de points de vie au changement de niveau. Il fonctionne avec Baldur's Gate et Tales of the Sword Coast et est compatible avec [[Dark Side of the Sword Coast]].",
         "urls": [
-            "http://swordcoastkeeper.chez-alice.fr/"
+            "http://swordcoastkeeper.chez-alice.fr/DSotSCFiles/Harder_BG1_Patch_v1.0.zip"
         ],
         "categories": [
             "Script et tactique"
@@ -14404,7 +14412,9 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "Master PooBaa"
+        ],
         "team": [],
         "notes": [
             "Il dispose d'un programme d'installation spécifique. Préférez-lui des mods plus récents comme [[Sword Coast Stratagems]]."
@@ -14413,7 +14423,7 @@
         "safe": 0,
         "languages": [],
         "status": "obsolete",
-        "last_update": "",
+        "last_update": "2002-02",
         "tp2": ""
     },
     {
@@ -14436,11 +14446,13 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
-        "languages": [],
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": "non-weidu"
+        "last_update": "2006-10",
+        "tp2": "HarpScout"
     },
     {
         "name": "Haste Effects Overriding Improved Haste Fix",
@@ -14469,7 +14481,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2014-02",
-        "tp2": ""
+        "tp2": "abel_imphaste_fix"
     },
     {
         "name": "Heart of Fury",
@@ -14483,15 +14495,19 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "Tioma"
+        ],
         "team": [],
-        "notes": [],
-        "translation_state": "no",
-        "safe": 2,
+        "notes": [
+            "Bien que WeiDU, ce mod override les créatures concernées."
+        ],
+        "translation_state": "n/a",
+        "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2002-10",
+        "tp2": "HoF-beta1"
     },
     {
         "name": "Heart of the Wood",
@@ -14551,10 +14567,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2010-11",
-        "tp2": ""
+        "tp2": "HeartwarderKit"
     },
     {
         "name": "Helarine, Doomguide of Kelemvor",
@@ -14638,7 +14656,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2015-06",
-        "tp2": ""
+        "tp2": "hellrec"
     },
     {
         "name": "Hephernaan BG2",
@@ -14687,10 +14705,18 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "de",
+            "pl",
+            "ru",
+            "es",
+            "it"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2009-09",
+        "tp2": "BW_Herbs"
     },
     {
         "name": "Herbs and Potions Add-in for BG2",
@@ -14716,17 +14742,25 @@
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "it",
+            "pl",
+            "ru",
+            "es",
+            "fr"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2011-12",
+        "tp2": "BW_Herbs_BG2"
     },
     {
         "name": "Heroes of Amn",
         "description": "Ce mod ajoute :|- 6 nouveaux profils : Tueur de démons, Chevalier erroné, Prêtre de Sunie, Prêtre de Kelevmor, Prêtre de Gargauth et Silencieux.|- 6 nouveaux PNJ non recrutables avec lesquels parler.|- de nouveaux portraits, principalement pour les PNJ.|- 2 nouveaux magasins (l'un d'eux dans le cimetière) et le marchand Lisz.|- environ 20 nouveaux objets (certains à acheter dans les magasins, d'autres à trouver).|- plusieurs personnages originaux auront leurs propres portraits.",
         "urls": [
             "https://baldur.cob-bg.pl/node/890",
-            "http://baldur.cob-bg.pl/download/bg2/multi/HoA.rar"
+            "https://baldur.cob-bg.pl/download/bg2/multi/HoA.rar"
         ],
         "categories": [
             "Kit",
@@ -14742,12 +14776,12 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "pl"
         ],
-        "status": "missing",
-        "last_update": "",
+        "status": "active",
+        "last_update": "2006-12",
         "tp2": "HeroesOfAmn"
     },
     {
@@ -15850,7 +15884,7 @@
         "name": "IWDification",
         "description": "Ce mod importe certains éléments de Icewind Dale dans la série de jeux Baldur's Gate, dont environ 70 sortilèges profanes et divins, les chanson du barde, les haches à deux mains... N'hésitez pas à lire son readme pour plus de détails.|Notez que ce mod est inutile si vous décidez d'installer [[Sword Coast Stratagems]].",
         "urls": [
-            "https://www.gibberlings3.net/files/file/948-iwdification/",
+            "https://www.gibberlings3.net/mods/spells/iwdification",
             "https://github.com/Gibberlings3/iwdification"
         ],
         "categories": [
@@ -16007,7 +16041,7 @@
         "name": "Imoen 4 Ever",
         "description": "Ce mod vise à faire d'Imoen une compagne stable tout au long de la saga BG. Le contenu de l'histoire lié à elle étant pris en compte, Imoen sera temporairement absente du groupe pour refléter les événements du jeu original les plus cruciaux. Ce mod la fait rejoindre la partie après de tels incidents, de sorte qu'elle peut être considérée comme une véritable compagne de voyage dans SoD et BG2.|Dans BG2, il fait revenir Imoen dans les chapitres 2 et 3, juste après le premier dialogue avec Gaelan. Le joueur peut alors explorer et accomplir toutes les quêtes sans aucune contrainte de temps ou dilemme moral concernant une amie à secourir. Le contenu original du jeu reprend son cours après l'arrivée à Brynnlaw : Imoen est kidnappée et Yoshimo peut être recruté dans la taverne.|Une fois installé, ce mod doit être installé avant tous les mods PNJ ou autres mods qui ajoutent des dialogues aux chapitres 2 et 3 de BGII.|Comme il est destiné à BG2:EE et SoD et qu'il est compatible avec tous les jeux BGII (BGII, BGT, BG2:EE, EET), ce mod proposera d'installer ses divers composants en fonction du jeu.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1013-imoen-4-ever/",
+            "https://www.gibberlings3.net/mods/other/imoen4ever",
             "https://github.com/Gibberlings3/Imoen4Ever"
         ],
         "categories": [
@@ -16071,7 +16105,7 @@
         "name": "Imoen is Stone",
         "description": "Ce mini mod pétrifie Imoen lors du combat sur la Promenade de Waukyne. L'idée est de soulager la conscience du PJ pour effectuer toutes les quêtes du chapitre 2, sachant qu'Imoen ne souffre pas - et peut être ramenée à la vie comme Branwen dans BG1 - une fois dans Spellhold. Elle sera toujours capturée par les mages cagoulés, et Irenicus l'aura dépétrifiée pour ses expériences jusqu'à ce que le PC arrive dans l'asile. Aucun contenu du scénario original n'a été modifié.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/985-imoen-is-stone/"
+            "https://www.gibberlings3.net/mods/other/imoenisstone"
         ],
         "categories": [
             "PNJ (autre)"
@@ -17738,6 +17772,7 @@
         "name": "Jini NPC Romance",
         "description": "Il s'agit d'une préquelle d'un autre mod du même auteur, [[Rjali Romance]] pour BG2:EE, qui plante le décor de ce qui suivra dans BG2:EE.|Jini est une djinn emprisonnée dans la lampe qui vous donne la jeune Rjali si vous êtes de sexe masculin et non-mauvais. Elle vous fournit les services habituels d'un djinn de lampe et, si vous êtes gentil avec elle, une romance peut naître. Elle peut fournir de l'équipement aux membres de votre groupe, mais ne le fera que si vous le lui demandez gentiment. Elle ne se joindra jamais à votre groupe, mais elle et sa lampe vous accompagneront sur votre chemin. Elle a soif de liberté, et vous avez la possibilité de la lui accorder.|Le mod ajoute également Fay, un feu follet qui vous suivra comme une sorte de familier. Fay vous fera la cour du mieux qu'elle pourra, étant si petite. Ni elle ni Jini n'ont de problème avec cet arrangement.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/32227-bwl-jini-romance-mod-update/",
             "https://github.com/Black-Wyrm-Lair/Jini-Romance"
         ],
         "categories": [
@@ -19169,6 +19204,7 @@
         "name": "Lena",
         "description": "Lena est une guerrière tieffeline déchue, despote, sadique, cruelle et sanguinaire. Elle ne croit pas en l'amour à cause de son passé, de son enfance. Sa romance ne ressemble donc pas à toutes les autres. Elle sera à la fois jalouse et méprisante.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/25048-new-bg2-npc-lena",
             "https://github.com/gungorenu/bg2-npcmod-lena"
         ],
         "categories": [
@@ -19714,7 +19750,7 @@
         "name": "Lore From Learning",
         "description": "Ce petit mod ajoute des bonus de connaissance à votre personnage principal au fur et à mesure de votre apprentissage et de vos aventures dans le jeu. Les bonus (et les stimuli qui les fournissent) sont, par conception, destinés à être mineurs et à améliorer l'aspect jeu de rôle du jeu. Vous pouvez personnaliser l'installation en modifiant le fichier customize.tpa.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1023-lore-from-learning/",
+            "https://www.gibberlings3.net/mods/tweaks/lore",
             "https://github.com/Gibberlings3/Lore_From_Learning/"
         ],
         "categories": [
@@ -22076,7 +22112,7 @@
         "description": "Il s'agit d'un énorme projet de mod de la communauté polonaise. Il comporte 20 composants (ajout de nouvelles quêtes et expansion des PNJ) et une vingtaine de modifications mineures (comme rendre les ours plus dangereux dans le jeu).",
         "urls": [
             "https://twm-bg.weebly.com/o-modzie.html",
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=7667&sid=ed4c50b6f80e5427d8088f80fdc08c0f"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=7667&sid=ed4c50b6f80e5427d8088f80fdc08c0f"
         ],
         "categories": [
             "Quête"
@@ -22327,7 +22363,7 @@
         "name": "NPC Kitpack",
         "description": "Ce mod permet de modifier les profils de vos PNJ, afin qu'ils soient plus proches de leurs pensées. Entre autres, Anomen devient prêtre de Helm lorsqu'il réussit son adoubement à l'Ordre du Cœur Radieux et devient un Berserker s'il le rate, Imoen et Nalia deviennent des aventurières (profil de voleur) ou des mages, Edwin un Sorcier rouge, Korgan un Enragé (profil de guerrier), Sarevok un Semeur de mort, Mazzy un Paladin d'Arvoreen, Minsc voit le nom de son kit modifié en rôdeur de Rashéménie, etc.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/793-npc-kitpack/"
+            "https://www.gibberlings3.net/mods/kits/npckit"
         ],
         "categories": [
             "PNJ (autre)"
@@ -22396,7 +22432,7 @@
         "name": "NPC Tweak",
         "description": "Ce mod permet de corriger quelques incohérences du jeu, notamment le choix du profil de Cernd en tant que métamorphe, ou le fait qu'Anomen conserve son bouclier familial bien que son père le chasse de chez lui. Quant à Nalia, ses compétences de voleuse reflètent mieux sa manie de sortir du château familial sans être vue (60 points en crochetage de serrures, 15 en détection des pièges et 40 en déplacement silencieux).",
         "urls": [
-            "https://www.gibberlings3.net/files/file/976-npc-tweak/",
+            "https://www.gibberlings3.net/mods/tweaks/npctweak",
             "https://github.com/Gibberlings3/NPCTweak"
         ],
         "categories": [
@@ -22650,7 +22686,7 @@
     },
     {
         "name": "Nephele NPC",
-        "description": "Halfeline, clerc de Yondalla de son état, Nephele ajoute une touche d'humour et un peu d'originalité avec du contenu pour BG2:SoA et ToB. Pas de quête, mais beaucoup de dialogues (banters, interjections, et parlote avec le PJ) pour un caractère bien trempé. Vous pourrez la recruter après avoir effectué les quêtes du druide de l'ombre et du génie Dao à Franc-Marché : vous la trouverez alors dans le pub de Vyatri. Ses caractéristiques sont FOR 13, DEX 13, CON 11, INT 11, SAG 15 et CHA 14.",
+        "description": "Halfeline, clerc de Yondalla de son état, Nephele ajoute une touche d'humour et un peu d'originalité avec du contenu pour BG2:SoA et ToB. Pas de quête, mais beaucoup de dialogues (banters, interjections, et parlote avec le PJ) pour un caractère bien trempé. Vous pourrez la recruter après avoir effectué les quêtes du druide de l'ombre et du génie Dao à Franc-Marché : vous la trouverez alors dans le pub de Vyatri.|FOR 13, DEX 13, CON 11, INT 11, SAG 15, CHA 14.",
         "urls": [
             "https://www.spellholdstudios.net/ie/nephele",
             "https://github.com/Spellhold-Studios/Nephele-NPC"
@@ -22759,7 +22795,7 @@
         "name": "New Tales of the Sword Coast (Nowe Opowieści z Wybrzeża Mieczy)",
         "description": "Il s'agit d'un énorme projet de mod de la communauté polonaise regroupant deux anciens mods (Project X et BG:EE 10 NPC Project). Il comporte entre autres :|- 10 nouveaux PNJ recrutables avec leur quête, voie d'amitié, romance et interactions.|- des quêtes entièrement nouvelles et originales.|- des nouvelles zones.|- plus de 100 nouveaux personnages, dont des adversaires dangereux.|Ses auteurs préviennent qu'il n'est destiné qu'aux adultes.",
         "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=7827"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=7827"
         ],
         "categories": [
             "Quête",
@@ -22789,7 +22825,7 @@
         "name": "New travel system between Baldur's Gate City areas",
         "description": "Ce mini mod modifie le système de déplacement dans la ville de La Porte de Baldur et entre les deux parties de l'île de Balduran, en remplaçant l'utilisation de la carte du monde par des accès intégrés à chaque zone (comme celles à l'intérieur de donjons ou de bâtiments). La nouvelle façon de voyager est plus naturelle. Le groupe sort d'une zone pour apparaître à un endroit parallèle du lieu le plus proche, et pas toujours sur le même point d'entrée fixe qu'auparavant. L'autre avantage de ce système est l'accès à deux petites zones de La Porte de Baldur, qui étaient autrement inaccessibles (un composant optionnel permet de n'installer que le déplacement pour ces deux zones).|Le voyage s'effectue instantanément, sans l'utilisation de la carte principale, et le groupe ne peut aller que dans un endroit limitrophe. Par exemple, si vous voulez aller de la taverne du Chant de l'Elfe à la Salle des merveilles, vous devez traverser toutes les zones entre les sections est et ouest de la ville, en passant par la porte intérieure de la ville. La carte principale n'apparaît que si vous passez par la porte est de la ville.|ASTUCE : La route à travers les égouts peut considérablement accélérer les déplacements dans La Porte de Baldur.",
         "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=5135",
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=5135",
             "https://github.com/zed-nocear/BG_Travel-MOD-for-BG1-BGEE-BGT-Tutu-EET"
         ],
         "categories": [
@@ -24013,7 +24049,7 @@
         "description": "Issu du projet de mega mod tchèque éponyme, ce mod ajoute pas moins de 18 profils (3 dans chaque classe de guerrier, paladin, rôdeur, voleur, barde et druide), provenant généralement des versions papier et retouchés par le concepteur.",
         "urls": [
             "https://baldur.cob-bg.pl/node/902",
-            "http://baldur.cob-bg.pl/download/bg2/kits/PoF_Kitpack_V5.rar",
+            "https://baldur.cob-bg.pl/download/bg2/kits/PoF_Kitpack_V5.rar",
             "https://www.mediafire.com/file/ojrgs0x7035r9kw/Paladins_of_Faerun_Kitpack_V4.zip/file"
         ],
         "categories": [
@@ -24110,7 +24146,7 @@
         "description": "Ce mod polonais (Souvenirs du Nord) modifie 33 objets de BG2 pour les rendre plus utiles, et ajoute 35 objets de [[Northern Tales of the Sword Coast]] à l'échoppe de Mira sur la Promenade de Waukyne. Par ailleurs, il ajoute les vendeurs Deidre et Joluv, et modifie quelque peu l'environnement de l'Antichambre.",
         "urls": [
             "https://baldur.cob-bg.pl/node/763",
-            "http://baldur.cob-bg.pl/download/bg2/items/Pamiatki_z_Polnocy_v1.0.zip"
+            "https://baldur.cob-bg.pl/download/bg2/items/Pamiatki_z_Polnocy_v1.0.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -24944,7 +24980,7 @@
         "name": "P&P Celestials",
         "description": "Ce mod rend les célestes (Déva et Planétaires) invoqués par le joueur beaucoup plus proches de la version papier, c'est-à-dire la plupart du temps des êtres surpuissants et effrayants. Par ailleurs, le type de déva dépendra du lieu d'invocation : Déva astrale, Déva movanique ou Déva monadique.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/874-pp-celestials/",
+            "https://www.gibberlings3.net/mods/spells/celestials",
             "https://github.com/Gibberlings3/PnP_Celestials"
         ],
         "categories": [
@@ -27101,7 +27137,7 @@
         "name": "Road to Discovery for SoD",
         "description": "Ce mod est conçu pour la campagne SoD. Il a deux objectifs :|- Pour les joueurs, il vise à faire connaître aux forces de la coalition les plans de Caelar et d'Hephernaan en se concentrant sur le projet principal de la croisade et le danger qu'elle représente, et à donner des options de réponse avec lesquelles le PJ peut informer les forces de la coalition des événements en cours. Pour cela, toutes les informations que le PJ peut recueillir au cours de la campagne sont suivies et évaluées. Les entrées du journal donnent un aperçu des informations que le PJ a déjà recueillies. Dans l'ensemble, ce mod est censé relier les points pour que le PJ soit en mesure de raconter toutes les informations qu'il a recueillies et pour que les officiers de la coalition reconnaissent et réagissent concrètement au(x) danger(s) réel(s).|- Pour les moddeurs, il introduit un système de suivi basé sur des variables concernant les différents niveaux de connaissances que le PC et les officiers de la coalition acquièrent tout au long de la campagne, qui pourrait être utilisé pour leurs mods, par exemple pour affiner les réactions de leurs PNJ à la qualité des informations acquises sur Caelar, Hephernaan, la croisade...|Parmi les informations de la campagne SoD que ce mod prend en compte : Quel est le but principal de la croisade que proclame Caelar, et qu'est-ce que c'est vraiment ? Quelle vérité se cache derrière la proclamation de Caelar - et la croyance de ses croisés - selon laquelle Caelar protège la croisade avec les \"pouvoirs divins du panthéon\" ? Quel est le contexte de la vie et de la famille de Caelar, et comment cela influence-t-il ses motivations ? Caelar est-il un rejeton de Bhaal ? Quels sont les plans d'Hephernaan ?",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1030-road-to-discovery/",
+            "https://www.gibberlings3.net/mods/other/road_to_discovery",
             "https://github.com/Gibberlings3/Road_To_Discovery_for_SoD"
         ],
         "categories": [
@@ -27565,7 +27601,7 @@
         "description": "Ce mod installe le profil de paladin Chevalier de la Lumière. Il peut atteindre la grande maîtrise avec les épées longues et les épées bâtardes. Il possède des compétences martiales supérieures aux paladins au détriment de sa capacité à lancer des sorts. Il gagne également de puissants effets passifs au fil des niveaux : immunité à la peur au niveau 10, protection contre le mal au niveau 15 etc",
         "urls": [
             "https://baldur.cob-bg.pl/node/915",
-            "http://baldur.cob-bg.pl/download/bg2/kits/Rycerz_Swiatlosci_v1.0.2.rar",
+            "https://baldur.cob-bg.pl/download/bg2/kits/Rycerz_Swiatlosci_v1.0.2.rar",
             "https://github.com/Plutonium-X/KIT_Lumiere"
         ],
         "categories": [
@@ -27633,6 +27669,7 @@
         "description": "Créé sur LCC, ce mod français ajoute un nouveau profil de rôdeur, réservé aux humains, elfes et demi-elfes, d'alignement loyal mauvais ou neutre mauvais.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=23996",
+            "https://forums.beamdog.com/discussion/79293",
             "https://github.com/GwendolyneFreddy/Rodeur_Ombre"
         ],
         "categories": [
@@ -28640,7 +28677,7 @@
         "name": "Shards of Ice",
         "description": "Ce mod comprend trois composants, dont deux quêtes inédites et fun. La première quête, intitulée \"The Price of Friendship\" (le prix de l'amitié), se déroule à Franc-Marché. Pour la déclencher, vous devrez vous reposer à l'auberge de la ville avec Imoen dans votre groupe. Votre demi-sœur disparaît au terme de la nuit, et il vous incombe de la retrouver. La deuxième quête, qui s'intitule \"Some of my best friends are Slimes\" (certains de mes meilleurs amis sont des vases), se déroule dans la forêt de Téthyr. Vous ferez là-bas une surprenante rencontre avec une femme qui semble beaucoup apprécier les vases, et qui vous confiera une quête. Le dernier composant s'appelle \"You could restore the Summon Cow spell, but why ?\" (vous pourriez restaurer le sort de Convocation de Vache, mais pour quoi faire ?). Il s'agit de l'ajout dans le jeu d'une version du sort de Convocation de Vache, disponible dans un nouveau magasin à Athkatla.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/884-shards-of-ice/",
+            "https://www.gibberlings3.net/mods/other/shards",
             "https://github.com/Gibberlings3/Shards_of_Ice"
         ],
         "categories": [
@@ -29284,7 +29321,7 @@
         "description": "Il s'agit du tout premier mod du prolifique Lava, Skie BG2, totalement réécrit et traduit en anglais. Vous souvenez-vous de Skie, la fille riche et gâtée d'Entar Écudargent ? Cette voleuse humaine neutre est désormais disponible en tant que PNJ recrutable dans BG2.|Le mod propose de nouvelles interactions et conversations avec Charname, son jeu de sons original de la première partie de la saga, ainsi que des portraits alternatifs en option. Skie peut commencer une romance avec le personnage principal - il doit s'agir d'un elfe, d'un humain, d'un demi-elfe ou d'un tieffelin. De nouveaux objets ont été ajoutés, des anciens modifiés, tous les scripts ont été réécrits et un troisième épilogue a été ajouté. La recherche d'objets a été facilitée et est désormais liée à une petite quête romantique.",
         "urls": [
             "http://www.shsforums.net/files/file/1005-skie-npc/",
-            "http://baldur.cob-bg.pl/download/bg2/npc/SKIEv.5.1.zip"
+            "https://baldur.cob-bg.pl/download/bg2/npc/SKIEv.5.1.zip"
         ],
         "categories": [
             "PNJ recrutable"
@@ -30894,7 +30931,8 @@
         "name": "Sword and Fist",
         "description": "À l'origine devant faire partie d'un projet plus vaste, \"Lands of Intrigue\", ce mod propose une révision de la classe de moine afin de la rapprocher de sa version papier de AD&D 3ème du nom, mais rajoute aussi des kits de guerrier :|- Champion occultiste : croisement maléfique entre un guerrier et un magicien et spécialiste notoire dans le lancement de malédictions.|- Duelliste : guerrier vif et intelligent dédaignant les armures lourdes pour une meilleure maîtrise de l'esquive, des réflexes et du combat en général.|- Poing de l'Ordre : guerrier brutal et maléfique, mais néanmoins efficace et loyal.|- Chevalier noir : un combattant avec un background et des aptitudes opposées à celles du paladin.|- Magelame : guerrier qui a appris à lancer des sorts de magie profane en armure.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/890-sword-and-fist/"
+            "https://www.gibberlings3.net/mods/kits/swordandfist",
+            "https://github.com/Gibberlings3/sword_and_fist"
         ],
         "categories": [
             "Kit"
@@ -30927,10 +30965,11 @@
             "es",
             "fr",
             "it",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2019-02",
+        "last_update": "2025-02",
         "tp2": "sword_and_fist"
     },
     {
@@ -31101,7 +31140,7 @@
         "name": "TWM_GUI",
         "description": "Un moddeur polonais expert de Baldur's Gate, Zed Nocear, s'est lancé dans l'amélioration de l'interface graphique de Baldur's Gate une fois [[Widescreen]] installé. TWM est un mod en cours de développement, appelé MotSC ([[Mysteries of the Sword Coast]]) en anglais, et dont l'auteur a extrait cette partie.|mod GUI supporte désormais 7 résolutions, propose également un choix entre trois fonds d'écran (une carte de la Côte des Épées, un mur de pierre ou un fond noir) qui s'afficheront autour des écrans du jeu qui restent en 640x480 (tous sauf la vue de la zone). Depuis la version 0.992, Une option permet d'installer une police de caractères de plus grande taille.",
         "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=3257"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=3257"
         ],
         "categories": [
             "Interface"
@@ -32042,8 +32081,9 @@
     },
     {
         "name": "Beaurin Legacy",
-        "description": "Ce mod ajoute un enchanteur/voleur elfe et un PNJ caché. Vous trouverez Minyae Beaurin à l'extérieur de l'auberge du Crâne tordu, aux portes de la ville. Il comprend des portraits personnalisés, une voie de l'amitié pour Minyae et le PNJ caché, de nombreuses plaisanteries et interjections, des rencontres et des quêtes, une voix pour les deux PNJ (seule Minyae dispose d'un jeu complet), une romance avec un PNJ Bioware...",
+        "description": "Ce mod ajoute un enchanteur/voleur elfe et un PNJ caché. Vous trouverez Minyae Beaurin à l'extérieur de l'auberge du Crâne tordu, aux portes de la ville. Il comprend des portraits personnalisés, une voie de l'amitié pour Minyae et le PNJ caché, de nombreuses plaisanteries et interjections, des rencontres et des quêtes, une voix pour les deux PNJ (seule Minyae dispose d'un jeu complet), une romance avec un PNJ Bioware...|FOR 11, DEX 19, CON 12, INT 17, SAG 12, CHA 16.",
         "urls": [
+            "https://www.gibberlings3.net/mods/npcs/beaurin",
             "https://www.gibberlings3.net/files/file/998-beaurin-legacy/"
         ],
         "categories": [
@@ -32188,7 +32228,7 @@
         "name": "The Boareskyr Bridge Scene",
         "description": "Comme la lettre de Gorion et les rêves du PJ dans BG, la transformation en écorcheur dans SoA, et les épreuves dans ToB, la scène du pont de Boarskyr dans SoD est une étape importante dans le parcours du PJ vers sa destinée. Ce mod s'efforce donc de lui donner plus de profondeur et une meilleur intégration dans l'histoire avec des réactions des PNJ et autres personnages du jeu. Il y aura des mises en garde avant d'aller sur le pont, et les PNJ réagiront au déroulement des événements, selon les composants installés. La scène originale sera également étendue avec des textes descriptifs et la possibilité pour le joueur de choisir comment gérer la déflagration d'énergie divine ainsi que les changements de statistiques qui en résultent.|Il comprend quatre composants optionnels, mais qui se complètent les uns les autres :|- 1. La scène du pont de Boarskyr est mentionnée par les PNJ : Ce composant ajoute des réactions aux personnages du jeu avant et après votre passage sur le pont de Boarskyr. La cinématique du pont reste inchangée.|- 2. Ajouter un texte décrivant la cinématique originale du pont de Boarskyr : Ce composant ajoute des textes descriptifs supplémentaires à la cinématique du pont, basés sur le même style que BGII (l'Arbre de vie, transformation en écorcheur).|- 3. Le déroulement des événements du pont de Boarskyr offre plusieurs choix : Ce composant permet au PJ de choisir comment réagir à la vague d'énergie libérée sur le pont. Il y a trois possibilités : 1) le PJ absorbe toute la douleur pour protéger les autres ; 2) Le PJ détourne l'énergie vers la rivière (les personnes proches de lui seront légèrement touchées et recevront quelques dégâts) ; 3) le PJ canalise l'énergie et la projette autour de lui (tous les membres du groupe reçoivent des dégâts et la plupart des soldats du Poing enflammé qui se trouvent sur le pont meurent).|- 4. Modifier les caractéristiques du PJ en fonction de ses choix : 1) lorsque le PJ absorbe la douleur, sa sagesse augmente de 1 de façon permanente : 2) 2. lorsque le PJ dirige l'énergie vers la rivière, sa dextérité augmente de 1 de façon permanente ; 3) si le PJ dirige l'énergie vers ses alliés, sa constitution augmente de 1 de façon permanente.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1033-the-boareskyr-bridge-scene/",
+            "https://www.gibberlings3.net/mods/quests/tbbs",
             "https://github.com/Gibberlings3/The_Boareskyr_Bridge_Scene"
         ],
         "categories": [
@@ -32380,7 +32420,7 @@
         "name": "The Cowled Menace",
         "description": "Quelqu'un a œuvré dans l'ombre, manipulant les événements de la Côte des Épées à son avantage. Percez les mystères de la Rune tordue et enquêtez sur les agissements des Mages cagoulés.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1017-the-cowled-menace/",
+            "https://www.gibberlings3.net/mods/quests/the-cowled-menace",
             "https://github.com/Gibberlings3/CowledMenace"
         ],
         "categories": [
@@ -33110,7 +33150,7 @@
         "description": "Qu'est-ce que Secret of Bone Hill ? Hé bien c'est un gros mod de quête pour BG1 (BGT requis), créé par Sir BillyBob, qui adapte deux scénarios de jeu de rôle papier : L1 et L2 dans l'univers Greyhawk. Au programme : des dizaines de nouvelles cartes, des magasins, des quêtes et un personnage recrutable (Fabio).|L'histoire en elle-même se passe sur l'île de Lendore, à proximité de la ville de Restenford. Pelltar, un mage que vous rencontrez dans le temple de Lathandre au chapitre 4 (dès que vous avez fini les mines de Nashkel et que vous pouvez vous rendre au camp des bandits), sera à même de vous y téléporter et de vous en sortir, une fois votre aide apportée au village.|La 1ère partie est pré-requise pour débloquer la 2nde que vous pourrez atteindre après votre sortie des catacombes de Château-Suif. Vous rencontrerez là Fabio (un barde humain) ou Pelltar qui vous demanderont de retourner à Restenford avec eux, pour élucider cette fois-ci un mystérieux meurtre...",
         "urls": [
             "http://www.shsforums.net/files/file/1076-the-secret-of-bonehill/",
-            "http://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507",
+            "https://athkatla.cob-bg.pl/viewtopic.php?p=94507#94507",
             "https://github.com/RoxanneSHS/BoneHill"
         ],
         "categories": [
@@ -34957,7 +34997,7 @@
         "description": "Ce mod proposait toute une collection d'ajustements de règles du jeu.",
         "urls": [
             "https://baldur.cob-bg.pl/node/1592",
-            "http://baldur.cob-bg.pl/download/bg2/tweaks/Twist_Pack.zip"
+            "https://baldur.cob-bg.pl/download/bg2/tweaks/Twist_Pack.zip"
         ],
         "categories": [
             "Gameplay"
@@ -36691,7 +36731,7 @@
         "description": "Ce mod ajoute sept nouveaux profils, la plupart tirés des classes de prestige de la troisième édition de D&D :|- paladins : Chevalier hospitalier, Chevalier templier et Chevalier religieux.|- guerriers : Archer hors pair (tireur d'élite) et Briseur de hordes.|- rôdeurs : Éclaireur sauvage et Gardien de la forêt.",
         "urls": [
             "https://baldur.cob-bg.pl/node/932",
-            "http://baldur.cob-bg.pl/download/bg2/kits/Warrior_Kit_Pack_v1.zip"
+            "https://baldur.cob-bg.pl/download/bg2/kits/Warrior_Kit_Pack_v1.zip"
         ],
         "categories": [
             "Kit"
@@ -37025,7 +37065,7 @@
         "name": "Wheels of Prophecy",
         "description": "Ce petit mod tente d'apporter un peu moins de linéarité et des opportunités rôlistes différentes dans ToB, et notamment le chapitre 9. Plus besoin d'attendre d'en avoir décousu avec Sendaï et Abazigal pour pouvoir entrer dans le monastère de Balthazar. Les dialogues de ces 3 protagonistes s'adapteront alors en conséquence à vos choix de jeu. Des dialogues supplémentaires avec Amélissane et Elminster ont été ajoutés, et ceux avec Carras, Saemon, Faheed, Zahee, et Le Solaire modifiés. Bien que le mod ne soit pas présenté comme un challenge tactique, il ajoute quelques rencontres supplémentaires pendant vos négociations avec les membres de la Main. Enfin, il inclut le mini-mod [[Restored ToB Heads]] (restaure une conversation avec les visages de pierre dans la forêt du Nord), et de manière plus générale ajoute de petites modifications pour implémenter du contenu qui ne l'est pas dans le jeu original (notamment avec les contrebandiers d'Amkethran).",
         "urls": [
-            "https://www.gibberlings3.net/files/file/971-wheels-of-prophecy/",
+            "https://www.gibberlings3.net/mods/quests/wheels",
             "https://github.com/Gibberlings3/WheelsOfProphecy"
         ],
         "categories": [
@@ -37408,7 +37448,7 @@
         "description": "Ce mod ajoute un profil de druide, le Maître des éléments.",
         "urls": [
             "https://baldur.cob-bg.pl/node/944",
-            "http://baldur.cob-bg.pl/download/bg2/kits/WLadca.zip"
+            "https://baldur.cob-bg.pl/download/bg2/kits/WLadca.zip"
         ],
         "categories": [
             "Kit"
@@ -40427,6 +40467,7 @@
         "description": "Ce mod introduit un grand nombre d'armes et d'accessoires de l'univers Planescape dans la série Baldur's Gate. Les objets peuvent être achetés auprès d'un marchand ambulant qui est disponible tout au long du jeu.|Plusieurs objets de Planescape : Torment ont été légèrement modifiés pour mieux s'intégrer à la série BG car les objets de l'univers de Planescape sont généralement plus puissants et uniques que leurs équivalents des Royaumes oubliés.",
         "urls": [
             "https://forums.beamdog.com/discussion/88361/",
+            "https://www.gibberlings3.net/forums/topic/38054-wares-of-the-planes-planescape-items-for-baldurs-gate",
             "https://github.com/Argent77/A7-WaresOfThePlanes"
         ],
         "categories": [
@@ -46622,7 +46663,7 @@
         "name": "Wychowanek Goriona",
         "description": "Ce mod propose une dizaine de tweaks pour ToB. Il propose notamment d'invoquer Cespenar pour qu'il puisse forger des objets sans avoir à revenir dans l'Antichambre. L'Esprit du Destin n'invoque plus les personnages mais c'est Charname qui voyage jusqu'à eux, restaurations des cinématiques de la Main…",
         "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=5139",
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=5139",
             "https://baldur.cob-bg.pl/node/1923"
         ],
         "categories": [
@@ -47167,7 +47208,7 @@
         "name": "Dzin Mod",
         "description": "Ce mod ajoute dans le magasin de Deidre une fiole d'un génie marchand qui peut être invoqué une fois par jour. Il vend des objets jusqu'à +2.",
         "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=3112"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=3112"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -48626,7 +48667,7 @@
         "description": "Ce mod a pour but d'améliorer la classe et les kits du druide et d'en faire une alternative viable à la présence d'un clerc dans votre groupe en y ajoutant de nouveaux sorts. Chaque partie du mod est optionnelle afin de permettre un maximum de flexibilité.",
         "urls": [
             "https://sorcerers.net/community/threads/new-bg2-mod-overview-natural-selection.24038/",
-            "http://baldur.cob-bg.pl/download/bg2/tweaks/Natural_Selection.zip"
+            "https://baldur.cob-bg.pl/download/bg2/tweaks/Natural_Selection.zip"
         ],
         "categories": [
             "Gameplay"
@@ -50393,7 +50434,7 @@
         "name": "NTotSC_Item_Correction_Mod",
         "description": "Ce mod corrige et réduit la puissance de certains objets de [[Northern Tales of the Sword Coast]].",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg1/tweaks/NTotSC_Item_Correction_Mod_v1.1b.rar"
+            "https://baldur.cob-bg.pl/download/bg1/tweaks/NTotSC_Item_Correction_Mod_v1.1b.rar"
         ],
         "categories": [
             "Patch non officiel"
@@ -50422,7 +50463,7 @@
         "name": "Lepsze Przedmioty",
         "description": "ce mod ajoute 22 objets et corrige la description de 2 objets existants",
         "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=2733&sid=473c7240dfe94ad896e7ad10dffebce6"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=2733&sid=473c7240dfe94ad896e7ad10dffebce6"
         ],
         "categories": [
             "Sort et objet"
@@ -50504,7 +50545,7 @@
         "name": "NPC lvl 1 with DSotSC/NTotSC",
         "description": "Edwin, Jaheira, Khalid, Kagain, Kivan, Minc, Xan versions niveau 1 pour DSotSC/NTotSC.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg1/patches/NPC_1.lvl_w_NTotSC.zip"
+            "https://baldur.cob-bg.pl/download/bg1/patches/NPC_1.lvl_w_NTotSC.zip"
         ],
         "categories": [
             "PNJ (autre)"
@@ -50529,7 +50570,7 @@
         "name": "Multi NPC Mod",
         "description": "Ce mod change la classe de Xan en Guerrier/Mage ou Prêtre/Mage et celle de Dynaheir en Prêtre/Mage dans BG1:TotSC. Il change aussi la compétence d'arme requise par la Lame de Lune de Xan pour l’adapter à sa nouvelle classe.",
         "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=3299&sid=473c7240dfe94ad896e7ad10dffebce6"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=3299&sid=473c7240dfe94ad896e7ad10dffebce6"
         ],
         "categories": [
             "PNJ (autre)"
@@ -50616,7 +50657,7 @@
         "name": "Przywrócenie brakującej (Safana dialog Fix for SOD)",
         "description": "Ce mod restaure les parties inutilisées de la romance de Safana dans SOD pour qu'elle ne soit plus interrompue après la 4ème dialogue. Ça marche avec toutes les langues.",
         "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=6771&sid=473c7240dfe94ad896e7ad10dffebce6"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=6771&sid=473c7240dfe94ad896e7ad10dffebce6"
         ],
         "categories": [
             "PNJ (autre)"
@@ -50640,7 +50681,7 @@
         "name": "Weapons Mod",
         "description": "Ce mod permet à toutes les classes d'utiliser tous les types d'armes et de dépenser des points de compétence pour chaque type d'arme (les règles concernant la spécialisation restent inchangées - par exemple, un mage ne peut toujours dépenser qu'un seul point de compétence pour un type d'arme donné).",
         "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=3271&sid=473c7240dfe94ad896e7ad10dffebce6"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=3271&sid=473c7240dfe94ad896e7ad10dffebce6"
         ],
         "categories": [
             "Gameplay"
@@ -50691,7 +50732,7 @@
         "name": "Polish NPC sounds",
         "description": "Ce mod donne des voix en polonais à une vingtaine de compagnons venant de mods.",
         "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=6642"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=6642"
         ],
         "categories": [
             "Portrait et son"
@@ -52836,7 +52877,7 @@
         "name": "Banana! NPC Mod",
         "description": "Ce mod ajoute une banane guerrière/mage/voleuse à l'entrée de la Couronne de cuivre.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/npc/Banana.rar"
+            "https://baldur.cob-bg.pl/download/bg2/npc/Banana.rar"
         ],
         "categories": [
             "PNJ One Day"
@@ -52868,7 +52909,7 @@
         "name": "Fedegar",
         "description": "Ce mod ajoute Fedegar le barbare dans la cuisine de la Couronne de cuivre.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/npc/Fedeg1_1.zip"
+            "https://baldur.cob-bg.pl/download/bg2/npc/Fedeg1_1.zip"
         ],
         "categories": [
             "PNJ One Day"
@@ -52897,7 +52938,7 @@
         "name": "Xardas",
         "description": "Ce ajoute Mag Xardas le nécromancien à l'entrée du donjon de'Arnise. Il est équipé d'un anneau d'archimage.",
         "urls": [
-            "http://baldur.cob-bg.pl/download/bg2/npc/Xardas.zip"
+            "https://baldur.cob-bg.pl/download/bg2/npc/Xardas.zip"
         ],
         "categories": [
             "PNJ One Day"
@@ -53000,8 +53041,8 @@
         "name": "LaAudio",
         "description": "Ce mod ajoute trois set de voix crée par Lava Del'Vortel et basés sur sa propre voix (en polonais). Une des sets inclut un effet de réverbération, parfait pour un personnage surnaturel.",
         "urls": [
-            "http://athkatla.cob-bg.pl/viewtopic.php?t=3741",
-            "http://baldur.cob-bg.pl/download/bg2/soundsets/LaAudio_v2.zip"
+            "https://athkatla.cob-bg.pl/viewtopic.php?t=3741",
+            "https://baldur.cob-bg.pl/download/bg2/soundsets/LaAudio_v2.zip"
         ],
         "categories": [
             "Portrait et son"
