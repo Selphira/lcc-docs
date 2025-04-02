@@ -26,7 +26,7 @@ jobs:
         python-version: '3.11'
 
     - name: Run tests
-      run: uv run check_mods_json.py
+      run: uv run main.py scripts/check_mods_json.py
 
   build:
     needs: test
@@ -55,7 +55,7 @@ jobs:
       run: uv sync
 
     - name: Generate HTML
-      run: uv run update_index.py
+      run: uv run main.py scripts/update_index.py
 
     - name: Deploy to gh-pages
       run: |
