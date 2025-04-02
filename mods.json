@@ -2372,11 +2372,10 @@
             "de",
             "it",
             "pl",
-            "pr",
             "ru",
             "cn",
             "es",
-            "sw"
+            "se"
         ],
         "status": "active",
         "last_update": "2024-01",
@@ -3758,8 +3757,7 @@
             "pl",
             "ru",
             "cn",
-            "es",
-            "tr"
+            "es"
         ],
         "status": "active",
         "last_update": "2025-03",
@@ -3916,7 +3914,7 @@
             "br",
             "ru",
             "es",
-            "sw"
+            "se"
         ],
         "status": "active",
         "last_update": "2024-10",
@@ -4683,7 +4681,6 @@
         "safe": 2,
         "languages": [
             "en",
-            "cs",
             "de",
             "es",
             "fr",
@@ -6231,7 +6228,7 @@
         ],
         "status": "active",
         "last_update": "2004-10",
-        "tp2": "britt"
+        "tp2": "Britt"
     },
     {
         "name": "Bruce, the Cockney Barfighter",
@@ -6908,7 +6905,7 @@
         "safe": 2,
         "languages": [
             "en",
-            "sp",
+            "es",
             "it"
         ],
         "status": "active",
@@ -35554,7 +35551,7 @@
             "en",
             "br",
             "ru",
-            "sw"
+            "se"
         ],
         "status": "active",
         "last_update": "2025-03",
@@ -37207,7 +37204,7 @@
             "pl",
             "ru",
             "cn",
-            "sw",
+            "se",
             "br"
         ],
         "status": "active",
@@ -46061,7 +46058,7 @@
         ],
         "status": "active",
         "last_update": "2025-02",
-        "tp2": ""
+        "tp2": "OnPathsAndWays"
     },
     {
         "name": "Yovaneth's Scripts",
