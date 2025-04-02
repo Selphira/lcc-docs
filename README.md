@@ -5,7 +5,7 @@ Reprise de la [liste des mods](https://11jo.github.io/lcc-docs/listes_mods/liste
 
 ## Infos
 
-Le fichier `mods.json` contient les informations nécessaires à la génération de la page. Pour ajouter, corriger, supprimer un mod c'est lui et seulement lui qu'il faut éditer.
+Le fichier `db/mods.json` contient les informations nécessaires à la génération de la page. Pour ajouter, corriger, supprimer un mod c'est lui et seulement lui qu'il faut éditer.
 
 ## Installation
 
@@ -22,12 +22,12 @@ Le fichier `mods.json` contient les informations nécessaires à la génération
 
 ### Testez l'intégrité du fichier mods.json
 ```
-    uv run check_mods_json.py
+    uv run main.py scripts/check_mods_json.py
 ```
 
 ### Créez la page statique du site
 ```
-    uv run update_index.py
+    uv run main.py scripts/update_index.py
 ```
 Cela génère le fichier `index.html` dans `docs/`.
 
@@ -64,7 +64,7 @@ Cette version propose plusieurs améliorations techniques notables :
 
 ## Doc
 
-Comme tout se fait dans le fichier `mods.json`, il est important de savoir ce qui est possible de faire ou non.
+Comme tout se fait dans le fichier `db/mods.json`, il est important de savoir ce qui est possible de faire ou non.
 
 ### Le JSON c'est quoi ?
 Documentation sur le JSON : https://developer.mozilla.org/fr/docs/Learn/JavaScript/Objects/JSON\
