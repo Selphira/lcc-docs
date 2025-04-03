@@ -1,7 +1,7 @@
 # Liste des mods de l'Infinity Engine
 
-Version maintenue de la [liste des mods](https://github.com/LaCouronnedeCuivre/lcc-docs/listes_mods/liste_mods1_bg.html) BG de FreddyGwendo \
-Reprise de la [liste des mods](https://11jo.github.io/lcc-docs/listes_mods/liste_mods1_bg.html) de JohnBob
+Version maintenue de la [liste des mods](https://lacouronnedecuivre.github.io/lcc-docs/) BG de FreddyGwendo \
+Reprise de la liste des mods de JohnBob
 
 ## Infos
 
