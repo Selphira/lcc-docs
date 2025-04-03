@@ -6944,10 +6944,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-03",
-        "tp2": ""
+        "tp2": "Charmed, I'm Sure"
     },
     {
         "name": "Chars as starters pack",
@@ -7246,10 +7248,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-02",
-        "tp2": ""
+        "tp2": "iseries"
     },
     {
         "name": "Cirerrek's AI Scripts: tSeries",
@@ -7271,10 +7275,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-02",
-        "tp2": ""
+        "tp2": "tseries"
     },
     {
         "name": "Cirerrek's AI Scripts: uScript",
@@ -7296,12 +7302,12 @@
         "notes": [
             "Attention : ce mod n'est plus maintenu depuis des années et est considéré comme obsolète par l'ensemble de la communauté de moddeurs et de joueurs."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "obsolete",
-        "last_update": "2019-02",
-        "tp2": ""
+        "last_update": "2001-09",
+        "tp2": "non-weidu"
     },
     {
         "name": "Cities Explored",
@@ -7324,13 +7330,14 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2002-10",
         "tp2": "non-weidu"
     },
     {
         "name": "Classic Adventures",
-        "description": "Décliné en une série de volets et d'ajouts divers, ce mod propose de démarrer l'aventure au niveau 1 dans une citadelle dont il faut nettoyer les occupants maléfiques. Suit un deuxième chapitre, et peu à peu le module se complète. Il s'agit également d'inclure de nombreuses règles respectueuses du système AD&D 2. Vous pouvez également consulter son <a href=\"http://classicadventuresmod.com/\">nouveau site officiel</a> pour en apprendre plus à son sujet.",
+        "description": "Décliné en une série de volets et d'ajouts divers, ce mod propose de démarrer l'aventure au niveau 1 dans une citadelle dont il faut nettoyer les occupants maléfiques. Suit un deuxième chapitre, et peu à peu le module se complète. Il s'agit également d'inclure de nombreuses règles respectueuses du système AD&D 2.",
         "urls": [
+            "https://classicadventuresmod.com/",
             "http://www.shsforums.net/files/file/916-classic-adventures-053/"
         ],
         "categories": [
@@ -7421,7 +7428,7 @@
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "obsolete",
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -7590,10 +7597,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2011-01",
-        "tp2": ""
+        "tp2": "Conductor"
     },
     {
         "name": "Congenio's Pebble Collection - Use Multiple Ioun Stones",
@@ -7737,10 +7746,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "obsolete",
         "last_update": "2016-05",
-        "tp2": ""
+        "tp2": "ContinuousViconiaAppearance"
     },
     {
         "name": "Convinient Ammunition",
@@ -7831,8 +7842,8 @@
             "en"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2003-01",
+        "tp2": "non-weidu"
     },
     {
         "name": "Coondred NPC",
@@ -7852,15 +7863,16 @@
         ],
         "team": [],
         "notes": [
-            "Malheureusement, il semble avoir disparu. Le lien proposé est un miroir, et peut disparaître à tout moment.",
             "Attention : il utilise le même portrait que [[Moddie the vixen]]."
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-03",
+        "tp2": "Coondred"
     },
     {
         "name": "Coran NPC MOD for Baldur's Gate II",
@@ -7954,10 +7966,12 @@
         ],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-07",
-        "tp2": ""
+        "tp2": "Corrected Calendar"
     },
     {
         "name": "Correctif pour la version française d'IWD2",
@@ -8140,10 +8154,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-04",
-        "tp2": ""
+        "tp2": "Coup de Grace"
     },
     {
         "name": "Craig's Bottomless Containers",
@@ -8204,7 +8220,7 @@
         "name": "Creslyn's BG2 Custom Items",
         "description": "Ce mod ajoute de nombreux objets dans le jeu. Certains, un peu trop puissants, seront cependant difficile à obtenir (comme le bâton de la Gorgone dans la Cité illithild) ou hors de prix.",
         "urls": [
-            "https://sorcerers.net/Games/BG2/index_mods_hosted_items_spells2.php"
+            "https://sorcerers.net/Games/dl/eyJpdiI6IlNEbkpUaVVFZnJ0dzhwMHZjRHZTaWc9PSIsInZhbHVlIjoiXC90MnFrUzZUXC9qSENDNW50cnZvRFZ3N3hcL3JnV25kdkJrVm1TejV5cjRuZWR0d1ZUYzBldlgwRkpJS1RMS2Y2TyIsIm1hYyI6Ijc1MTM1MjgzNGIyMmMxYjc5NGNjNGI3M2JlMTY1Mzk2MTRlN2IwNDhiZDQ0ZTFmZTkxZDFmNjEwMWU5MjZkNmIifQ=="
         ],
         "categories": [
             "Sort et objet"
@@ -8222,9 +8238,11 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
-        "last_update": "",
+        "last_update": "2002-03",
         "tp2": "non-weidu"
     },
     {
@@ -8363,12 +8381,14 @@
             "Hansoo"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "L'utilisation de KitEditor est requise."
+        ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2002-03",
         "tp2": "non-weidu"
     },
     {
@@ -8497,11 +8517,11 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "",
         "tp2": ""
     },
@@ -8528,7 +8548,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2009-06",
-        "tp2": ""
+        "tp2": "enemyupgrade"
     },
     {
         "name": "Duality's Odd Quest Mod",
@@ -8765,10 +8785,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2013-01",
-        "tp2": ""
+        "tp2": "darian"
     },
     {
         "name": "Dark Horizons",
@@ -8821,7 +8843,8 @@
         "name": "Dark Ritual",
         "description": "Désormais inclus dans [[Vampire Tales]], ce mini mod ajoutait le marchand Asgrim dans le Temple de Talos, avec pas mal de nouveaux objets en provenance d'Icewind Dale 1 et 2. De plus, il améliorait le Culte de l'Œil Aveugle et le bâtiment des Ménestrels. Ses 26 nouveaux objets étaient principalement répartis dans le magasin d'Asgrim et sur le corps de Lilith.",
         "urls": [
-            "https://www.baldur.cob-bg.pl/node/749"
+            "https://www.baldur.cob-bg.pl/node/749",
+            "https://baldur.cob-bg.pl/download/bg2/items/Dark_Ritual_v1.01.zip"
         ],
         "categories": [
             "Forgeron et marchand",
@@ -8840,10 +8863,14 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "pl"
+        ],
         "status": "embed",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-03",
+        "tp2": "DarkRitual"
     },
     {
         "name": "Dark Side of the Sword Coast",
@@ -9080,10 +9107,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-05",
-        "tp2": ""
+        "tp2": "7Cdee"
     },
     {
         "name": "Deecy Patch",
@@ -9103,14 +9132,14 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "yes",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [
             "fr"
         ],
         "status": "active",
         "last_update": "2009-11",
-        "tp2": ""
+        "tp2": "Deecy_Patch"
     },
     {
         "name": "Deeper Shadows of Amn",
@@ -9126,16 +9155,21 @@
             "BGT"
         ],
         "authors": [
-            "hlidskialf"
+            "Kensai Ryu"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "de",
+            "it"
+        ],
         "status": "active",
         "last_update": "2009-08",
-        "tp2": ""
+        "tp2": "DSoA"
     },
     {
         "name": "Deidre and Joluv",
@@ -9412,12 +9446,14 @@
         "notes": [
             "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2020-04",
-        "tp2": ""
+        "tp2": "Detect Magic-Intimidation"
     },
     {
         "name": "Diablo characters Skin mod",
@@ -9446,7 +9482,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2021-01",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Diablo2 Kit Pack Series for ToB & EE",
