@@ -189,14 +189,12 @@ class Mod:
 
         return auto_notes
 
-    def url_is_direct_archive(self, url: str) -> bool:
+    @staticmethod
+    def url_is_direct_archive(url: str) -> bool:
         url = url.lower()
-        return (
-            url.endswith(".rar")
-            or url.endswith(".zip")
-            or url.endswith(".7z")
-            or url.endswith(".exe")
-        ) and not url.startswith("https://www.mediafire.com/")
+        return (url.endswith((".rar", ".zip", ".7z", ".exe"))) and not url.startswith(
+            ("https://www.mediafire.com/", "https://sorcerers.net/")
+        )
 
     def get_team_str(self) -> str:
         team_html = [f"<span class='translator'>{member}</span>" for member in self.team]
