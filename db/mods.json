@@ -818,7 +818,7 @@
         "description": "Avec ce mod, Ajantis, le paladin de l'Ordre du Cœur Radieux dans BG1, peut intégrer le groupe après le combat dans les Collines de Lancevent. Il comporte une romance qui poursuit celle du [[The BG1NPC Project]] (en cas de trilogie), ou toute une nouvelle, ainsi que la possibilité de développer une profonde amitié avec lui. Le mod suppose qu'Ajantis a voyagé avec le PC dans BG1 pendant un certain temps. C'est là qu'Ajantis a gagné suffisamment d'honneur pour être fait chevalier.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/jasteys-sir-ajantis-f%C3%BCr-bgii-npc.9/",
-            "https://www.gibberlings3.net/files/file/989-ajantis-npc-for-bgii/"
+            "https://www.gibberlings3.net/mods/npcs/ajantis-bg2"
         ],
         "categories": [
             "PNJ recrutable"
@@ -4073,7 +4073,7 @@
             "EET"
         ],
         "authors": [
-            "Sam."
+            "Sam"
         ],
         "team": [],
         "notes": [],
@@ -6259,6 +6259,7 @@
         "description": "À l'origine, DrAzTiK avait développé un petit mod rendant le combat plus dynamique et plus relevé contre Tazok et Dig-Dag dans le repaire de Firkraag. Depuis, il s'est considérablement étoffé, s'est enrichi de nombreux composants et a désormais pour ambition de permettre aux joueurs de conduire des combats « épiques » dans de larges espaces et de rapprocher BG2 d'un Dungeon crawler. Consultez le readme pour bien comprendre ce qu'apporte chacun de ses composants.",
         "urls": [
             "https://www.baldursgateworld.fr/lacouronne/butchery/",
+            "https://forums.beamdog.com/discussion/73305/",
             "https://github.com/The-Gate-Project/butchery"
         ],
         "categories": [
@@ -6292,26 +6293,34 @@
         "name": "Bubb's Auto Looting",
         "description": "Ce mod vise à faciliter le ramassage du butin afin de réduire la quantité d'objets que le joueur rate et laisse sur le sol, en particulier les petits tas d'or. Vous pouvez filtrer le pillage automatique par objet critique, niveau d'enchantement des armes, or, prix et prix par poids. Pour le moment, le pillage automatique ne concerne que les objets au sol.",
         "urls": [
-            "https://forums.beamdog.com/discussion/69899/"
+            "https://forums.beamdog.com/discussion/69899/",
+            "https://github.com/LCA-EET/AutoLoot/"
         ],
         "categories": [
             "Gameplay"
         ],
         "games": [
+            "BGEE",
+            "SoD",
             "BG2EE",
             "EET"
         ],
         "authors": [
-            "Bubb"
+            "Bubb",
+            "Daniel Valle"
         ],
         "team": [],
-        "notes": [],
-        "translation_state": "no",
-        "safe": 1,
-        "languages": [],
+        "notes": [
+            "Le lien github propose une version compatible avec EET."
+        ],
+        "translation_state": "n/a",
+        "safe": 2,
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2018-03",
-        "tp2": ""
+        "last_update": "2024-11",
+        "tp2": "AutoLoot"
     },
     {
         "name": "Bubb's Spell Menu",
@@ -6460,7 +6469,7 @@
         "name": "Calin",
         "description": "Ce mod ajoute Calin, un maître-lame humain dans BG2. Calin est neutre et bon et romancera une femme elfe, demi-elfe, humaine et d'alignement non-maléfique. Il a des banters avec tous les PNJ de Bioware; ainsi qu'une voie de l'amitié. Il a un sérieux problème avec les voleurs, et ses commentaires dans le jeu sont durs, mais il a une raison pour cela. Il fera la cour aux voleuses, mais il demandera au PC de faire un sacrifice pour que la romance ait lieu si le PC s'est affilié à la guilde des voleurs... Sinon, il quittera le groupe.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1010-calin/"
+            "https://www.gibberlings3.net/mods/npcs/calin"
         ],
         "categories": [
             "PNJ recrutable"
@@ -8925,6 +8934,7 @@
         "name": "Dark Tidings",
         "description": "Depuis des milliers d'années, la flamme magique du phare de l'île d'Irphong guide les marins qui empruntent le canal d'Asavir... Jusqu'à aujourd'hui... La lueur du phare s'est subitement évanouie.|Depuis longtemps, des légendes circulent, l'île serait un repaire de pirates, ses alentours serviraient  de refuge aux terribles tortues-dragons et ses hauts fonds abriteraient des krakens.||Et bien ! Il n'y a qu'un seul moyen de découvrir les secrets du phare d'Irphong et l'origine de l'obscurité qui règne à présent que sa balise s'est éteinte, prendre la mer et mettre le cap vers l'île d'Irphong.|Dark Tidings est un mod de quête pour Baldur's Gate II.  L'aventure commence sur les quais d'Athkatla (à la taverne de la Bonté Marine) dès le début du jeu SoA.",
         "urls": [
+            "https://www.gibberlings3.net/forums/topic/36739-mod-dark-tidings-a-quest-mod-for-bg2",
             "https://baldurs-gate.de/index.php?resources/dark-tidings.65/"
         ],
         "categories": [
@@ -10751,6 +10761,7 @@
         "description": "Ce mod permet de modifier la nouvelle interface de jeu de BG:EE et BG2:EE apparue avec la version 2.0 et Siege of Dragonspear. À l'image de BG2 Tweaks, il propose une multitude de petites modifications. Certains composants sont spécifiques à un jeu ou à la présence d'un autre mod GUI. Il doit donc être installé après eux, notamment après les mods précédents.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30832-ui-eeuitweaks-mod-collection-all-ees/",
+            "https://forums.beamdog.com/discussion/60717/",
             "https://github.com/r-e-d/EEUITweaks"
         ],
         "categories": [
@@ -11527,8 +11538,9 @@
     },
     {
         "name": "Sod2BG2:EE Cosmetic Item Upgrade",
-        "description": "Ce mod apporte des ajustements cosmétiques aux objets de BG:EE, SoD, BG2:EE et IWD:EE : nouvelles icônes d'inventaire et de description, nouvelles descriptions, modification de leur apparence, de leurs couleurs et de leur scintillement, nouveaux projectile et nouveaux effets visuels quand les armes touchent leur cible.",
+        "description": "Ce mod apporte des ajustements cosmétiques aux objets de BG:EE, SoD, BG2:EE et IWD:EE : nouvelles icônes d'inventaire et de description, nouvelles descriptions, modification de leur apparence, de leurs couleurs et de leur scintillement, nouveaux projectiles et nouveaux effets visuels quand les armes touchent leur cible.",
         "urls": [
+            "https://forums.beamdog.com/discussion/80271/",
             "https://github.com/DaerosTrollkiller/EE_Cosmetic_Item_Enhancement/"
         ],
         "categories": [
@@ -11542,7 +11554,7 @@
             "IWDEE"
         ],
         "authors": [
-            "Daeros_Trollkiller"
+            "Daeros Trollkiller"
         ],
         "team": [],
         "notes": [],
@@ -14214,6 +14226,7 @@
         "description": "Ce mod ajoute un loup, votre fidèle compagnon. Il requiert ToB et est compatible avec BGT. Selon votre partie, vous pourrez trouver Haiass dans l'auberge de Château-Suif (BGT), sur la promenade de Waukyne (SoA) ou l'appeler dans l'Antichambre (ToB).",
         "urls": [
             "http://www.shsforums.net/files/file/777-haiass-el-lobo/",
+            "https://forums.beamdog.com/discussion/77705/",
             "https://github.com/Endarire/Haiass-el-Lobo-for-EET"
         ],
         "categories": [
@@ -14824,7 +14837,7 @@
         "name": "Heroes, Thieves and Moneylenders",
         "description": "Créé par la communauté russe, ce mod ajoute de nouvelles quêtes et zones, interactions entre PNJ recrutables et d'autres mods. Un composant implante même une banque dans la Promenade de Waukyne ! Un autre offre la possibilité d'une romance avec Aran Linvail.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1027-heroes-thieves-and-moneylenders/",
+            "https://www.gibberlings3.net/mods/quests/htam",
             "https://github.com/Austin-BG/HTaM"
         ],
         "categories": [
@@ -16476,7 +16489,7 @@
             "https://github.com/Spellhold-Studios/HaerDalis-Swords"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Sort et objet"
         ],
         "games": [
             "BG2",
@@ -17503,7 +17516,7 @@
             "https://github.com/The-Gate-Project/JaheiraRecast/"
         ],
         "categories": [
-            "PNJ (autre)"
+            "Portrait et son"
         ],
         "games": [
             "BGEE",
@@ -18741,6 +18754,7 @@
         "description": "Ce mod propose une collection d'ajustements. Il est modulaire et contient des correctifs de contenu, de gameplay et cosmétiques. Veuillez bien lire son readme avant d'installer ses composants.||La version Github corrige quelques erreurs, privilégiez-la.",
         "urls": [
             "http://www.shsforums.net/files/file/1109-klatu-tweaks-and-fixes/",
+            "https://forums.beamdog.com/discussion/38864/",
             "https://github.com/The-Gate-Project/klatu-tweaks-and-fixes"
         ],
         "categories": [
@@ -19464,7 +19478,7 @@
         "name": "Level One NPCs",
         "description": "Surnommé ainsi car tous les PNJ seront au niveau 1, avec un excédent de points d'expérience, lorsque vous les rencontrerez. Lorsqu'ils rejoignent votre groupe, vous pouvez alors les faire monter de niveaux et choisir leurs compétences, leurs capacités, leur choix d'armes et ce, jusqu'au même niveau que s'ils avaient rejoint votre groupe sans ce mod installé. Vous pourrez même leur choisir des classes et des profils différents de ceux qu'ils utilisent dans le jeu. Le moine Cernd, la kensaï Jaheira, Valygar le prêcheur des flammes ne sont que des exemples. En effet, les profils provenant d'autres mods seront disponibles même pour les PNJ !|Des composants optionnels modifient aussi certaines caractéristiques des PNJ et les armes utilisables par les classes. C'est le meilleur mod - le plus simple-  pour autoriser les clercs et/ou mages à utiliser toutes les armes : un mage avec un arc, c'est cool. 🙂",
         "urls": [
-            "https://www.gibberlings3.net/files/file/733-level-one-npcs/"
+            "https://www.gibberlings3.net/mods/tweaks/levelonenpcs"
         ],
         "categories": [
             "PNJ (autre)"
@@ -22691,6 +22705,7 @@
         "description": "Ce mod ajoute un personnage loyal neutre, avec un kit de paladin `judicial knight`. Il a de nombreuses interactions avec l'ensemble des personnages du groupe et des répliques lors de plusieurs quêtes. Possédant une personnalité étoffée, il a des objets personnels comme une épée bavarde, et aussi des capacités spéciales qui le rendent de plus en plus puissant. Il romance les elfettes, demi-elfettes, humaines, tieffelines, gnomes d'alignement non mauvais et de classe différente de celle du voleur. Il possède du contenu pour SoA et pour ToB.",
         "urls": [
             "http://downloads.chosenofmystra.net/bg2/",
+            "https://forums.beamdog.com/discussion/73758/",
             "https://america.iegmc.com/nehtaniel/Sir%20Neh'taniel%20NPC-60-7-3.rar"
         ],
         "categories": [
@@ -22985,6 +23000,7 @@
         "description": "Ninde Amblecrown est une jeune ingénue d'Eauprofonde. Aujourd'hui pourchassée, elle n'a pas la langue dans sa poche, dispose de formidables capacités magiques et d'un ego démesuré. Arriverez-vous à la supporter ? Ces charmes vous laisseront-ils de glace ? Des événements de sa vie passée ne semblent pas étrangers à son tempérament sombre... Que ce soit par l'entremise d'une romance ou d'une amitié, Ninde, sorcière d'alignement mauvais, vous fera découvrir le pan obscur de son histoire ainsi que celle de Lassal. Vous ne pourrez la dénicher dans l'antre de Bodhi que si vous avez choisi de vous allier à Aran Linvail. Sa romance n'est possible que pour un PJ disposant de plus de 13 en charisme, aucune restriction de race / classe n'est cependant à observer. Ce mod ajute également une nouvelle rencontre dans Athkatla, des banters avec les PNJ de Bioware et de juteux échanges avec Bodhi, Lassal et Aran Linvail.",
         "urls": [
             "https://www.spellholdstudios.net/ie/ninde",
+            "http://www.shsforums.net/files/file/714-ninde",
             "https://github.com/Spellhold-Studios/Ninde-NPC"
         ],
         "categories": [
@@ -25969,6 +25985,7 @@
         "name": "Universal Wizard Spells",
         "description": "Ce mod retire les écoles d'exclusion de certains sorts pour permettre à tous les mages de les utiliser. En voici la liste : Familier, Identification, Déblocage, Vocaliser, Dissipation de la magie, Arme enchantée, Délivrance de la malédiction, Globe mineur d'invulnérabilité, Grande malédiction, Œil de magicien, Porte dimensionnelle, Séquenceur mineur, Abaissement de la résistance, Contingence, Globe d'invulnérabilité, Séquenceur de sorts, Déclencheur de sort et Chaîne de contingence.",
         "urls": [
+            "https://forums.beamdog.com/discussion/67903/",
             "https://github.com/Raduziel/Raduziels-Universal-Wizard-Spells"
         ],
         "categories": [
@@ -26916,7 +26933,7 @@
             "https://github.com/Argent77/A7-HiddenGameplayOptions"
         ],
         "categories": [
-            "Gameplay"
+            "Interface"
         ],
         "games": [
             "BGEE",
@@ -27416,6 +27433,7 @@
         "description": "Le concept de ce mod est de rendre le monde plus violent. Les personnages de faible réputation sont considérés comme des êtres humains absolument horribles - il y a donc très peu de chances qu'ils aident qui que ce soit. Lorsqu'ils le font, c'est considéré comme un acte exceptionnel. Par conséquent, ils ont désormais moins de chances de faire des dons pour améliorer leur réputation que les personnages de bonne réputation. Les marchands sont également enclins à leur accorder des réductions, ne serait-ce que pour s'assurer qu'ils ne sont pas vexés.|De même, parce que le monde est un endroit sombre et sans pitié, les personnages dont la réputation est élevée sont vus sous un jour beaucoup plus positif. Les gens sont plus disposés à leur pardonner s'ils commettent une erreur (comme tuer un habitant de la ville).|Le mod comporte également d'autres composants qui modifient considérablement la façon dont le chapitre 7 est géré dans le jeu ou augmentent la difficulté du jeu.",
         "urls": [
             "http://www.shsforums.net/topic/58723-mod-rough-world-beta/",
+            "https://forums.beamdog.com/discussion/59889/",
             "https://github.com/GwendolyneFreddy/Rough_World"
         ],
         "categories": [
@@ -27931,6 +27949,7 @@
         "description": "Ce mod ajoute un nouveau PNJ, Saradas l'archimage, qui interagit de diverses manières avec le groupe de l'Enfant de Bhaal. Il se trouve du Bras amical. En plus d'avoir plusieurs dialogues exclusifs qui se déroulent au fur et à mesure que l'intrigue prend forme, sa boutique vaut le détour. De plus, lorsque vous aurez vaincu Davaeorn, il vous apprendra un sort épique correspondant à votre votre école de magie.",
         "urls": [
             "http://www.shsforums.net/files/file/1120-saradas-magic/",
+            "https://forums.beamdog.com/discussion/23861/",
             "https://github.com/The-Gate-Project/Saradas_Magic"
         ],
         "categories": [
@@ -28686,6 +28705,7 @@
         "description": "À ne pas confondre avec [[Shar-Teel NPC]], ce mod permet de recruter Shar-Teel dans l'extension Siege of Dragonspear. Vous la trouverez dans l'une des cellules de la prison du quartier général du Poing enflammé.|Elle n'a qu'un dialogue limité pendant le jeu (et tout est sous forme modale, donc pas de texte en surbrillance). Cela la fera se démarquer des autres PNJ.|Gardez à l'esprit que ce mod est encore en développement.",
         "urls": [
             "http://www.shsforums.net/files/file/1164-sharteel-npc-mod-for-sod/",
+            "https://forums.beamdog.com/discussion/62941/",
             "https://github.com/yellow-hat-elminster/Sharteel-NPC-SoD"
         ],
         "categories": [
@@ -29268,9 +29288,10 @@
     },
     {
         "name": "Sirene NPC for BG:EE",
-        "description": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr (mais le joueur peut choisir un autre kit de paladin) qu'il est possible de rencontrer au temple de Lathandre à Bérégost. Le mod est compatible avec Siege of Dragonspear et permet de recruter le personnage pour la campagne. Il comporte du contenu en rapport avec les mods [[White NPC]] et [[Verr’Sza (BG1EE)]] de Lava.",
+        "description": "Sirene est une tiefeline paladin d'Illmater ayant son propre kit de Martyr (mais le joueur peut choisir un autre kit de paladin) qu'il est possible de rencontrer au temple de Lathandre à Bérégost. Le mod est compatible avec Siege of Dragonspear et permet de recruter le personnage pour la campagne. Il comporte du contenu en rapport avec les mods [[White NPC]] et [[Verr’Sza (BG1EE)]] de Lava.|FOR 15, DEX 17, CON 15, INT 10, SAG 13, CHA 17.",
         "urls": [
             "https://artisans-corner.com/sirene-npc-for-bgee-and-bgsod/",
+            "https://forums.beamdog.com/discussion/42721/",
             "https://github.com/ArtemiusI/Sirene-NPC"
         ],
         "categories": [
@@ -29727,7 +29748,7 @@
             "EET"
         ],
         "authors": [
-            "Daeros_Trollkiller"
+            "Daeros Trollkiller"
         ],
         "team": [],
         "notes": [],
@@ -30488,6 +30509,7 @@
         "description": "Ce mod ajoute l'arsenal du mage dispersé dans l'inventaire de plusieurs créatures. Si vous possédez tous les objets, celui qui les porte tous obtient un bonus exceptionnel, et vous rencontrerez quelqu'un qui voudra vous parler dans l'antichambre...",
         "urls": [
             "http://www.shsforums.net/files/file/643-stuff-of-the-magi-weidu/",
+            "https://forums.beamdog.com/discussion/46481/",
             "https://github.com/Spellhold-Studios/Stuff-of-the-Magi"
         ],
         "categories": [
@@ -32268,7 +32290,7 @@
             "https://github.com/Gibberlings3/The_Boareskyr_Bridge_Scene"
         ],
         "categories": [
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "SoD",
@@ -32561,6 +32583,7 @@
         "description": "Drizzt est sur le chemin du retour depuis la Côte des Épées en direction du Val de Bise. Ce qu'il ne sait pas, c'est que des temps sombres se profilent sur le Val et ses compagnons l'entraîneront, lui comme vous, dans une aventure aux dimensions épiques.|Ce mod vous propose une quête majeure, aux côtés du célèbre personnage de R.A. Salvatore, qui débute au moment où vous le rencontrez dans le jeu. Cette aventure prend place dans de nouvelles zones inspirées d'Icewind Dale et englobe de nombreuses quêtes secondaires, des monstres inédits, de nouveaux sorts et équipements...|Il existe deux versions : l'une pour ToSC qui ne comprend pas le français, l'autre pour BG1tutu, BGT et BG:EE, disponible en français.",
         "urls": [
             "http://www.blackwyrmlair.net/Mods/drizztsaga.php",
+            "https://forums.beamdog.com/discussion/29969/",
             "https://github.com/Black-Wyrm-Lair/Drizzt-Saga/"
         ],
         "categories": [
@@ -33336,6 +33359,7 @@
         "description": "The Stone of Askavar `La pierre d'Askavar` est un mod pour Baldur's Gate I : Tales of the Sword Coast qui comprend une quête principale et plusieurs quêtes secondaires, apporte de nouvelles zones, de nouveaux objets et sorts et aussi de nombreuses nouvelles créatures à combattre. Il vous envoie à la recherche d'une gemme puissante située dans une ancienne communauté elfique d'Askavar. Il ressemble à la quête de la gemme Cœur de pierre d'Icewind Dale, mais ici il s'agit de trouver la gemme avant les membres du Gantelet Noir. Après avoir inondé les mines de Bois-Manteau, votre aventure commence juste au nord de Nashkel, où vous serez attaqués par des chevaliers du Gantelet Noir.|Depuis la version 1.9, il est désormais réuni dans un seul package pour BG1, BG1Tutu, BGT, BG:EE avec ou sans SoD.",
         "urls": [
             "http://www.users.totalise.co.uk/~bluerift/",
+            "https://forums.beamdog.com/discussion/42168/",
             "https://github.com/red-carnelian/The-Stone-of-Askavar"
         ],
         "categories": [
@@ -33719,7 +33743,7 @@
             "https://github.com/lzenner/themed_tweaks"
         ],
         "categories": [
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BGEE",
@@ -36218,6 +36242,7 @@
         "name": "Verr’Sza (BG1EE)",
         "description": "Verr’Sza est un chasseur rakshasa d'alignement mauvais que l'on peut recruter à l'auberge de Brasamical. Le mod est compatible avec Siege of Dragonspear et dispose de contenu propre à cette extension, ainsi qu'en rapport avec le mod [[Sirene NPC for BG:EE]].|Il comprend quelques quêtes, ainsi qu'une romance pour les personnages masculins et féminins (la seule condition est de ne pas être d'alignement loyal bon). Bien qu'il s'agisse techniquement d'une romance, Verr’Sza n'est pas un personnage très romantique. Il s'agit plutôt de le faire vous respecter et de ne pas essayer de le lier de quelque façon que ce soit. Il peut être protecteur à sa manière tordue et brutale.|Notez qu'en raison de l'attitude et du langage des PNJ, le contenu du mod peut être considéré comme explicite. Le mod a été écrit en pensant aux joueurs adultes.",
         "urls": [
+            "https://forums.beamdog.com/discussion/60614/",
             "https://downloads.weaselmods.net/download/verrsza-bg1ee/"
         ],
         "categories": [
@@ -38646,7 +38671,7 @@
             "IWDEE"
         ],
         "authors": [
-            "Daeros_Trollkiller"
+            "Daeros Trollkiller"
         ],
         "team": [],
         "notes": [],
@@ -39266,7 +39291,7 @@
             "https://github.com/Spellhold-Studios/Lucy-the-Wyvern"
         ],
         "categories": [
-            "PNJ (autre)"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -39303,6 +39328,7 @@
         "description": "Ce mod permet d'avoir une relation beaucoup plus privilégiée avec sa petite sœur. Il peut s'agir aussi bien d'amitié que de romance, quel que soit le sexe du PJ. Les dialogues sont particulièrement nombreux, et le mod comprend un grand nombre de nouvelles musiques. Il exige ToB.",
         "urls": [
             "http://www.blindmonkey.org/imoen/",
+            "https://forums.beamdog.com/discussion/36101/",
             "https://github.com/mleduque/ImoenRomance/"
         ],
         "categories": [
@@ -39886,6 +39912,7 @@
         "description": "Version améliorée du mod original de Coutelier, ce mod ajoute du contenu pour Aerie :|- quelques rencontres sans prétention avec des PNJ.|- Aerie peut obtenir son propre familier.|- une voie de l'amitié alternative à la romance, aussi disponible pour les joueurs non éligibles pour la romance.|- de nouvelles interactions avec les autres PNJ, notamment avec Imoen.|- un nouveau portrait et une nouvelle coloration de sa peau et de ses cheveux.|- une quête spécifique pour Aerie et une mini quête pour Minsc.|La quête principale commence après que vous ayez libéré Hendak et qu'il ait repris la gestion de la Couronne de Cuivre.",
         "urls": [
             "https://skitias-stories.com/mods-view.php?name=Wings",
+            "https://forums.beamdog.com/discussion/83120/",
             "https://github.com/Skitia/Wings"
         ],
         "categories": [
@@ -39945,7 +39972,7 @@
         "name": "Yoshimo's Remorse",
         "description": "Était-ce vraiment la fin des aventures de Yoshimo avec l'Enfant de Bhaal ? N'a-t-il tout simplement aucun moyen de se racheter ou d'expliquer ses actions au PJ ?|Ce mod fait de Yoshimo un personnage jouable dans Throne of Bhaal. Cependant, il n'est pas ce que vous attendez de lui... Alors préparez-vous pour d'autres aventures et discussions avec le tristement célèbre chasseur de primes, une âme tourmentée qui n'a laissé que des regrets. Écoutez-le, car c'est peut-être sa dernière chance de trouver la paix.|Yoshimo's Remorse est compatible avec [[Yoshimo Romance]], mais si une telle relation a eu lieu dans SoA, il n'apparaîtra pas dans ToB, et le contenu du mod [[Yoshimo Romance]] se produira à la place.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/1012-yoshimos-remorse/"
+            "https://www.gibberlings3.net/mods/npcs/yoshimos-remorse"
         ],
         "categories": [
             "PNJ (autre)"
@@ -48129,7 +48156,7 @@
             "EET"
         ],
         "authors": [
-            "Daeros_Trollkiller"
+            "Daeros Trollkiller"
         ],
         "team": [],
         "notes": [],

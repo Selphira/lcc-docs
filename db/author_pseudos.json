@@ -1,4 +1,7 @@
 {
+    "Acifer": [
+        "acifer"
+    ],
     "Adul": [
         "adul"
     ],
@@ -15,7 +18,8 @@
         "TheArtisan",
         "The Artisan",
         "AionZ (formerly Artemius_I)",
-        "Artemius_I"
+        "Artemius_I",
+        "ArtemiusI"
     ],
     "Alexander12": [
         "Alexander12-creator"
@@ -27,11 +31,20 @@
     "aquadrizzt": [
         "Aquadrizzt"
     ],
+    "Aurelinus": [
+        "Auerlinus"
+    ],
     "AWizardDidIt": [
         "A-Wizard-Did-It"
     ],
+    "berelinde": [
+        "Berelinde"
+    ],
     "Bubb": [
         "Bubb13"
+    ],
+    "CBisson": [
+        "Charles Bisson"
     ],
     "Cirerrek": [
         "cirerrek"
@@ -39,11 +52,17 @@
     "Cliffette": [
         "cliffette"
     ],
+    "cmorgan": [
+        "CMorganbg"
+    ],
     "Colossus": [
         "ColossusChang"
     ],
     "CoM_Solaufein": [
         "CoM Solaufein"
+    ],
+    "Corsymyr": [
+        "Corsomyr"
     ],
     "Coyote": [
         "COYOTE"
@@ -52,8 +71,12 @@
         "CrevsDaak",
         "crevs.daak"
     ],
-    "Daeros_Trollkiller": [
-        "DaerosTrollkiller"
+    "Daniel Valle": [
+        "danielvalle"
+    ],
+    "Daeros Trollkiller": [
+        "DaerosTrollkiller",
+        "Daeros_Trollkiller"
     ],
     "Daulmakan": [
         "Dau1makan"
@@ -77,14 +100,17 @@
         "flamewing",
         "Flamewing"
     ],
-    "flysoup": [
-        "Flysoup"
+    "Flysoup": [
+        "flysoup"
     ],
     "Freche": [
         "freche"
     ],
     "Freddy_Gwendo": [
-        "GwendolyneFreddy"
+        "GwendolyneFreddy",
+        "Gwendolyne",
+        "GwendolyneFredy",
+        "gwendolynefreddy"
     ],
     "Glam Vrock": [
         "GlamVrock"
@@ -111,6 +137,12 @@
     "Jochen Gehring": [
         "jo.ge"
     ],
+    "Kai": [
+        "Kai of Candlekeep"
+    ],
+    "K4thos": [
+        "k4thos"
+    ],
     "K'aeloree": [
         "Kaeloree"
     ],
@@ -120,6 +152,12 @@
     "Lava Del'Vortel": [
         "Lava Del’Vortel"
     ],
+    "lefreut": [
+        "Lefreut"
+    ],
+    "Lumurous": [
+        "Lumorous"
+    ],
     "Horred the Plague": [
         "horred the plague"
     ],
@@ -128,6 +166,9 @@
     ],
     "MajorTomSawyer": [
         "majortomsawyer"
+    ],
+    "Meira": [
+        "Meira Erviälä"
     ],
     "mirandir": [
         "Mirandir"
@@ -161,6 +202,9 @@
     ],
     "RoyalProtector": [
         "szaumoor"
+    ],
+    "Sam": [
+        "Sam."
     ],
     "Sarevok57": [
         "sarevok57"
@@ -212,13 +256,16 @@
     ],
     "Wes Weimer": [
         "Westley Weimer",
-        "weimer"
+        "weimer",
+        "Westley Weimar"
     ],
     "Within Amnesia": [
-        "WithinAmnesia"
+        "WithinAmnesia",
+        "withinamnesia"
     ],
     "White Agnus": [
-        "whiteagnus"
+        "whiteagnus",
+        "WhiteAgnus"
     ],
     "Wu Min": [
         "wumin0706"
