@@ -689,7 +689,7 @@
             "EET"
         ],
         "authors": [
-            "Coutelier"
+            "Insomniator"
         ],
         "team": [
             "Spartan117"
@@ -2896,6 +2896,7 @@
         "description": "Si vous avez toujours rêvé d'acheter des bottes roses à Imoen, de connaître les derniers potins auprès des marchands d'Athkatla, d'en apprendre davantage sur la vie quotidienne dans cette ville, ce module est fait pour vous. Aurora's Shoes and Boots ajoute plus de 2 douzaines de paires de bottes, aussi utiles que stylées. Ajoutez à cela la présence d'Aurora, guerrière à la retraite de son état, qui piquera votre curiosité avec les derniers potins des nobles et autres gens du commun. Vous ferez également la connaissance de Tomthal, un gnome atteint d'un mystérieux mal, et de Karaea, sa sœur bien-aimée, tous deux vendeurs également. Plusieurs objets sont également disséminés à travers le jeu de façon aléatoire.",
         "urls": [
             "http://www.shsforums.net/files/file/831-auroras-shoes-and-boots/",
+            "https://github.com/Sampsca/Auroras-Shoes-and-Boots",
             "https://github.com/Endarire/Aurora-s-Shoes-and-Boots-for-BG2"
         ],
         "categories": [
@@ -2917,7 +2918,7 @@
             "Aldiemus"
         ],
         "notes": [
-            "Choisissez le lien github pour la version EE."
+            "Choisissez le dernier lien github pour la version EE."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -5033,7 +5034,8 @@
         "name": "Barbed Club of Pain",
         "description": "Ce mod ajoute un nouveau gourdin magique à acheter à Gullykin (Soins et articles divers d'Alvahendar).",
         "urls": [
-            "http://www.shsforums.net/files/file/1105-barbed-club-of-pain/"
+            "http://www.shsforums.net/files/file/1105-barbed-club-of-pain/",
+            "https://forums.beamdog.com/discussion/33701/"
         ],
         "categories": [
             "Sort et objet"
@@ -5049,9 +5051,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "it",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "2022-09",
+        "last_update": "2019-07",
         "tp2": "ClubOfPain"
     },
     {
@@ -7816,6 +7822,7 @@
         "description": "Ce petit mod ajoute des sacs de contenance dans le jeu : un carquois, un étui, un sac d'abondance, et une ceinture de munitions dans la Forge de Grondemarteau à Bérégost.",
         "urls": [
             "http://www.shsforums.net/files/file/1046-convinient-ammunition/",
+            "https://forums.beamdog.com/discussion/15944/",
             "https://github.com/MattyGroove/ConvinientAmmunition"
         ],
         "categories": [
@@ -9078,6 +9085,7 @@
         "description": "Ce petit mod ajoute environ 45 objets inspirés des séries Icewind Dale et de Planescape: Torment, disséminés dans les magasins et sur le corps de vos ennemis. Il modifie également quelques objets existants (amélioration graphique pour les rendre plus distinguable...), ajoute un nouveau marchand dans votre antichambre, fait apparaître Deirdre et Joluv dans l'auberge d'Amkethran, permet à Cromwell et Cespenar de forger de nouveaux objets... ToB est requis.|Dans Baldur's Gate, il ajoute 13 objets, un sac de contenance dans la boutique de Winthrop; un anneau de l'Académie d'Ulcaster...|Installez-le de préférence après tous les sorts qui ajoutent ou modifient des sorts.",
         "urls": [
             "http://www.shsforums.net/files/file/824-item-pack-v18/",
+            "https://www.gibberlings3.net/forums/topic/37067-item-pack-v19/",
             "https://github.com/Dau1makan/Item-Pack/"
         ],
         "categories": [
@@ -9756,7 +9764,8 @@
         "name": "Distinguishable clubs",
         "description": "Ce mini-mod dote certains gourdins d'icônes différenciées : Gourdin +1, Puissant Chêne, La Batte de Nuit.",
         "urls": [
-            "http://www.shsforums.net/files/file/1096-distinguishable-clubs-weidu/"
+            "http://www.shsforums.net/files/file/1096-distinguishable-clubs-weidu/",
+            "https://forums.beamdog.com/discussion/34524/"
         ],
         "categories": [
             "Cosmétique"
@@ -13027,6 +13036,7 @@
         "name": "Freedom's Reign & Reign of Virtue",
         "description": "Créés par la même personne (Deano), ces deux mods ont été regroupés en un seul : le premier ajoute 80-90 nouveaux objets et 2 nouveaux magasins ; le second 3 nouveaux magasins avec de nouveaux objets et 5 nouvelles rencontres (combats) avec des nouveaux scripts, objets, etc.",
         "urls": [
+            "https://forums.beamdog.com/discussion/34075/",
             "https://america.iegmc.com/fr-rov/FreedomsReign_ROV_V8.rar"
         ],
         "categories": [
@@ -14760,7 +14770,8 @@
         "name": "Hephernaan BG2",
         "description": "Ce mod ramène un personnage SoD dans BG2:EE: le diable Hephernaan. Parce que le vrai mal ne meurt jamais. Êtes-vous prêt à prendre un grand risque et à laisser le marionnettiste maléfique entrer dans votre groupe ? Pouvez-vous vraiment avoir confiance en ses motivations et ses plans ? Peut-être devenir encore plus fort... mais pouvez-vous apprendre à voir à travers ses mensonges et ses promesses ? Ou pensez-vous qu'il veut vraiment aider ou se sent-il amusé par tous les événements que vous traversez chaque jour ? C'est votre choix.|Le mod comprend des discussions \"d'amitié\", de nouvelles zones, des objets et des rencontres qui peuvent être rafraîchissantes pour les joueurs qui en ont déjà marre du contenu original de BG2. Comme ce mod utilise les références de Siege of Dragonspear, il peut être utile de jouer la trilogie.",
         "urls": [
-            "https://downloads.weaselmods.net/download/hephernaan-bg2/"
+            "https://downloads.weaselmods.net/download/hephernaan-bg2/",
+            "https://forums.beamdog.com/discussion/comment/1126680"
         ],
         "categories": [
             "PNJ recrutable"
@@ -14950,6 +14961,7 @@
         "description": "Ce mod ajoute de petites quêtes et quelques composants optionnels dans BG2.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/hidden-adventures.51/",
+            "https://www.gibberlings3.net/forums/topic/31799-hidden-adventures-questtweak-mod-for-bg2-kerzenburgforum",
             "https://github.com/Gitjas/hiddenadventure"
         ],
         "categories": [
@@ -18953,6 +18965,7 @@
         "description": "Ce petit module français vous fera rencontrer deux protagonistes inhabituels : l'un est un ogre PNJ que vous pourrez enrôler (pour l'instant il est muet s'il est engagé) et l'autre un marchand gnome. Pour trouvez l'un et l'autre, posez vous les questions : où pourrait se cacher un ogre qui ne souhaite pas être vu et où pourrait se trouver un marchand ?",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=28812",
+            "https://forums.beamdog.com/discussion/85149/",
             "https://github.com/Deratiseur/Ogre",
             "https://app.mediafire.com/depaqus3ma8bt"
         ],
@@ -22503,10 +22516,10 @@
         "name": "NPC Strongholds",
         "description": "Ce mod permet à certains PNJ d'acquérir un bastion, tout comme le PJ dans sa quête de classe (guerrier, moine et barbare). La limitation à certains PNJ se fait donc en fonction de leur classe et de leur présence dans le groupe aux moments clés leur permettant d'acquérir ledit bastion.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/959-npc-strongholds/"
+            "https://www.gibberlings3.net/mods/quests/npcstrongholds"
         ],
         "categories": [
-            "Gameplay"
+            "Quête"
         ],
         "games": [
             "BG2",
@@ -28434,10 +28447,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": "sentrizeal_aa_pack"
+        "last_update": "2024-07",
+        "tp2": "Sentrizeal_AA_Pack"
     },
     {
         "name": "Sequencer ColoredText",
@@ -30630,7 +30645,7 @@
         "name": "Subraces pack",
         "description": "Ce mod ajoute deux nouvelles sous-races, les \"sun and wood\" elfes (elfes de soleil et elfes des bois), aux 6 sous-races déjà présentes (humain, aasimar, tiefelin, elfe de la lune, drow, elfe sauvage).",
         "urls": [
-            "https://sorcerers.net/Games/IWD2/index_mods.php"
+            "https://sorcerers.net/Games/dl/eyJpdiI6IjJNajdMVW9iRVFtNVh1OWpHNFJLRmc9PSIsInZhbHVlIjoiNHROXC9CTDJ1ZVk2aGU5Z2cxQkJwdnZKSktybGJQckZrbGdESjlSN1I2K3M9IiwibWFjIjoiZGRjZDZiOWUwM2Q0MDQ2ZTg4MDU1NzE3MGE3NmFhZGUyYjgzYTZjZjQxNDkwOTE4YmI1M2EyNzQ3YzRkM2YxMSJ9"
         ],
         "categories": [
             "Gameplay"
@@ -30645,10 +30660,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2002-11",
+        "tp2": "IWD2-subraces-beta1"
     },
     {
         "name": "Subtledoc's Random Tweaks",
@@ -31766,6 +31783,7 @@
         "description": "Ce mod installe le marchand nain Kurtz Goldenaxe à l'extérieur de Brasamical. Il vend des armures colorées et de nouvelles armures magiques et très chères.",
         "urls": [
             "https://forums.beamdog.com/discussion/13314/",
+            "https://www.gibberlings3.net/forums/topic/28534-team-bg-armor-and-weapons-pack-support",
             "https://america.iegmc.com/com/BGeeARv105.rar"
         ],
         "categories": [
@@ -31796,6 +31814,8 @@
         "name": "TeamBG BG:EE Weapon Pack",
         "description": "Ce mod installe le marchand nain Maltz à l'extérieur de Brasamical. Il vend des armes colorées, dont certaines de BG2, et de nouvelles armures magiques et très chères.",
         "urls": [
+            "https://forums.beamdog.com/discussion/14154/",
+            "https://www.gibberlings3.net/forums/topic/28534-team-bg-armor-and-weapons-pack-support",
             "https://america.iegmc.com/com/BGeeWv105.rar"
         ],
         "categories": [
@@ -31930,7 +31950,7 @@
             "EET"
         ],
         "authors": [
-            "Coutelier"
+            "Insomniator"
         ],
         "team": [],
         "notes": [
@@ -33150,7 +33170,7 @@
         "description": "Ce mod installe plus de 500 portraits en haute résolution pour les PNJ recrutables ou non de BG:EE et BG2:EE, dont certains pour des personnages de mods comme [[The BG1NPC Project]], [[Rogue Rebalancing]], [[The White Queen]], [[Tales of the Deep Gardens]], [[Innershade]]... Parce que certains portraits ne sont pas fidèles à l'histoire, une collection de portraits alternatifs peut les remplacer.",
         "urls": [
             "http://www.shsforums.net/topic/57927-mod-the-picture-standard-for-bgee-1-2/",
-            "https://www.nexusmods.com/baldursgate2ee/mods/9/?"
+            "https://www.nexusmods.com/baldursgate2ee/mods/9"
         ],
         "categories": [
             "Portrait et son"
@@ -34512,6 +34532,7 @@
         "description": "Ce mod adoucit les transitions entre les campagnes dans EET. Il permet de rester dans le \"monde\" de BG1 après la défaite de Sarevok et dans le \"monde\" BG2 après la défaite d'Irenicus. La progression vers les zones SoD ou BGII du jeu est accomplie en utilisant un objet fourni par le duc Belt après avoir terminé ou sauté les quêtes de nettoyage. La progression vers ToB est accomplie en utilisant l'amulette de la Seldarine donnée par la reine Ellesime.|Dans EET, vous avez la possibilité d'avoir votre propre logement personnel qui contient un coffre qui vous suit jusqu'à ToB : après avoir vaincu Sarevok, vous pourrez vous installer dans le Palais Ducal (nécessite SoD) grâce au duc Belt ; si vous avez sauvé le duc Eltan dans EET, il vous remettra les clés d'une maison.|Un certain nombre de nouvelles quêtes de nettoyage seront disponibles en fonction des disciples de Sarevok que vous aurez précédemment éliminés. Les quêtes de BG et de TotSC peuvent être terminées après la mort de Sarevok ; ce qui vous permet de contrôler l'ordre des événements.|Vous pourrez également choisir d'équiper Sarevok de son équipement (dont son épée) ou de le laisser dans son inventaire.|Enfin, après avoir vaincu Sarevok, vous recevrez une nouvelle capacité d'Enfant de Bhaal, différente selon votre alignement.",
         "urls": [
             "https://www.gibberlings3.net/files/file/1021-transitions/",
+            "https://www.gibberlings3.net/forums/topic/31868-transitions-mod-for-bg1-sod-bg2-and-eet",
             "https://github.com/Gibberlings3/transitions"
         ],
         "categories": [
@@ -35913,7 +35934,7 @@
             "https://forums.beamdog.com/discussion/29328/"
         ],
         "categories": [
-            "Quête"
+            "Sort et objet"
         ],
         "games": [
             "BG2EE"
@@ -36582,7 +36603,7 @@
         "name": "W_PackMule",
         "description": "Ce mod ajout une mule de bât qui vous accompagnera partout, transportant vos objets sans jamais défaillir.",
         "urls": [
-            "http://www.shsforums.net/topic/47668-w-packmule/",
+            "http://www.shsforums.net/files/file/954-w-packmule/",
             "https://github.com/Endarire/W_Packmule/"
         ],
         "categories": [
@@ -39973,7 +39994,7 @@
         ],
         "authors": [
             "Skitia",
-            "Coutelier"
+            "Insomniator"
         ],
         "team": [],
         "notes": [],
@@ -40730,6 +40751,7 @@
         "name": "EE Fixpack",
         "description": "Le EE Fixpack est une compilation WeiDU de corrections pour les éditions améliorées de Baldur's Gate, Baldur's Gate II, Icewind Dale, et Planescape : Torment. Cet effort de collaboration, qui comprend le travail de moddeurs de plusieurs communautés différentes, est destiné à résoudre les problèmes qui subsistent dans ces jeux après le patch officiel actuel.",
         "urls": [
+            "https://www.gibberlings3.net/forums/forum/232-ee-fixpack",
             "https://github.com/Gibberlings3/EE_Fixpack"
         ],
         "categories": [
@@ -48632,7 +48654,8 @@
         "name": "Extension de la quête de Jan",
         "description": "Vous ne manquez jamais d'inclure Jan Jansen dans votre groupe. Vous vous délectez de ses répliques abracadabrantes, mais sa quête personnelle vous laisse sur votre faim. Vous avez envie de connaître la fin de l'histoire concernant l'ancienne compagne du voleur illusionniste le plus loufoque d'Athkatla, et de Vaelag, le mari violent de cette dernière ?|L'Extension de la quête de Jan (et oui, c'est un mod français, développé sur La Couronne de Cuivre) propose une suite à cette quête originale sous la forme de deux très courtes missions agrémentées de dialogues typiques et de rencontres inopinées avec de nouveaux personnages secondaires. En trame de fond, le mod tente modestement de jeter un éclairage nouveau sur certaines des organisations les plus influentes de la cité.|Découvrez la fin de l'histoire sans avoir besoin de recommencer une partie. La difficulté du mod étant adaptée à des personnages de faible niveau, nous vous conseillons malgré tout d'en profiter sur une partie pas trop avancée.|Le mod comporte entre autres 2 nouvelles missions qui peuvent être faite dans l'ordre de votre choix et 2 nouvelles histoires de Jan.",
         "urls": [
-            "https://akadis.baldursgateworld.fr/Jan/JansQuestFr.html"
+            "https://akadis.baldursgateworld.fr/Jan/JansQuestFr.html",
+            "https://forums.beamdog.com/discussion/76673/"
         ],
         "categories": [
             "Quête"
