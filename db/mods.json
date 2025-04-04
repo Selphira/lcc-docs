@@ -31202,7 +31202,7 @@
         "tp2": ""
     },
     {
-        "name": "kara-tur",
+        "name": "T'was a Slow Boat from Kara-Tur",
         "description": "Ce mod apporte environ 30 nouveaux objets et un magasin, accessibles au travers de la réalisation d'une quête commençant au Brasamical.",
         "urls": [
             "https://forums.beamdog.com/discussion/15959/",
@@ -53126,7 +53126,9 @@
     {
         "name": "Squaremod hits",
         "description": "Ce mod permet de jouer plus de 6 personnages avec le moteur GemRB.",
-        "urls": [],
+        "urls": [
+            "http://www.shsforums.net/topic/20939-squaremod-hits-v3/"
+        ],
         "categories": [
             "Gameplay"
         ],
@@ -53203,7 +53205,9 @@
     {
         "name": "Solo with a Party!",
         "description": "Ce mod permet de jouer \"en solo\" avec tout de même 5 compagnons : chaque fois qu'un combat commence, tous les compagnons sont envoyés dans un labyrinthe. Ils sont libérés quand le combat est fini. Hors combat vous avez accès aux dialogues, quêtes de compagnons et romances.",
-        "urls": [],
+        "urls": [
+            "https://www.gibberlings3.net/forums/topic/3447-solo-with-a-party-v20-released/"
+        ],
         "categories": [
             "Gameplay"
         ],
