@@ -178,7 +178,7 @@
         "name": "6 Pre-Made Characters",
         "description": "Il s'agit d'une collection de six personnages pré-tirés pour IWD, de niveau assez haut (10 à 11), sauf un de niveau 1, et plutôt bien équipés.",
         "urls": [
-            "https://sorcerers.net/Games/IWD/index_mods.php"
+            "https://sorcerers.net/Games/dl/eyJpdiI6InJicTM5M0NtSVhDbnVPK1loQkd4aEE9PSIsInZhbHVlIjoibElcL2hlekE1YnRHODFiWDB5VnBSelpJREtjMm0yT2JuRDZtUU9SSWYxXC9pOVgrQUx1SnpkNms4VEFNanJ0VUo0IiwibWFjIjoiOWQ2OTk5MjBmYzE1N2M0M2ZlYWFhZmQxY2NmYTc3NTNiZDJmOTE5YWYxYmJmNjZmNjlmMmRjNzlhYzFjZWJiMiJ9"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -192,11 +192,11 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2001-03",
+        "tp2": "non-weidu"
     },
     {
         "name": "A Few Less Master Areas and Something for Traps",
@@ -222,10 +222,12 @@
         ],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-09",
-        "tp2": ""
+        "tp2": "A Few Less Master Areas and Something for Traps"
     },
     {
         "name": "A Frosty Journey: The IWDEE Kitpack",
@@ -446,7 +448,7 @@
         ],
         "status": "active",
         "last_update": "2002-01",
-        "tp2": ""
+        "tp2": "aceidelem_beta1"
     },
     {
         "name": "Adalon's Blood",
@@ -576,10 +578,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-07",
-        "tp2": ""
+        "tp2": "Adventurer's Miscellany"
     },
     {
         "name": "Adventures in Papperland",
@@ -636,10 +640,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "archived",
-        "last_update": "2020-07",
-        "tp2": ""
+        "last_update": "2011-08",
+        "tp2": "Aeon"
     },
     {
         "name": "Aerie Portrait Pack",
@@ -768,10 +774,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2020-05",
-        "tp2": ""
+        "tp2": "Aftermotions"
     },
     {
         "name": "Ajantis BG1 Expansion Modification",
@@ -1151,17 +1159,21 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-01",
-        "tp2": ""
+        "tp2": "iwd2fixpack"
     },
     {
         "name": "Almateria's Quest 2",
         "description": "Une grande aventure vous attend ! Tuez des limons, assassinez des dragons, pillez d'anciens sanctuaires, gagnez des femmes... Ou finissez le jeu proprement dit. Que choisirez-vous ? Le messager qui initie la quête se trouve dans le quartier du gouvernement, près de la porte en bas de la carte (uniquement dans le chapitre 3).|De l'avis même de son auteur, ce n'est pas un mod sérieux. Sans doute la raison pour laquelle elle l'a retiré du net...",
-        "urls": [],
+        "urls": [
+            "http://almrep.blogspot.com/p/almaquest-2.html"
+        ],
         "categories": [
             "Quête",
             "Gameplay"
@@ -1174,14 +1186,16 @@
             "Almateria"
         ],
         "team": [],
-        "notes": [
-            "Ce mod a disparu de http://almrep.blogspot.com/p/almaquest-2.html"
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
-        "status": "active",
-        "last_update": "",
+        "languages": [
+            "en",
+            "de",
+            "es"
+        ],
+        "status": "missing",
+        "last_update": "2012-01",
         "tp2": ""
     },
     {
@@ -1294,7 +1308,7 @@
         "description": "Ce mini mod modifie le portrait de [[Goo the Disembodied Floating Eyeball]], qui ressemble plus à un homme-lézard qu'à un gauth, par un portrait alternatif tiré de NWN.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=370",
-            "http://america.iegmc.net/moongaze/"
+            "http://america.iegmc.net/moongaze/altgooportrait.rar"
         ],
         "categories": [
             "Portrait et son"
@@ -1316,7 +1330,7 @@
         "languages": [],
         "status": "embed",
         "last_update": "2008-01",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Alternatives",
@@ -1481,10 +1495,16 @@
             "Ville Marttila"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "À installer avant [[The Tweaks Anthology]]."
+        ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "es"
+        ],
         "status": "active",
         "last_update": "2024-11",
         "tp2": "amber"
@@ -1508,12 +1528,12 @@
         "notes": [
             "Malheureusement, les derniers composants qui les installent dans des magasins écrasent les fichiers .sto et rendent donc ce mod incompatible avec d'autres. À installer à vos risques et périls."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2002-11",
+        "tp2": "IWD2-ammo-v1"
     },
     {
         "name": "Angelo NPC for BGII",
@@ -1570,10 +1590,12 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2010-04",
-        "tp2": ""
+        "tp2": "LeopardKit"
     },
     {
         "name": "Animal Companions",
@@ -1639,10 +1661,12 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-07",
-        "tp2": ""
+        "tp2": "Animate Dead Now"
     },
     {
         "name": "Animus",
@@ -1804,7 +1828,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2002-01",
         "tp2": "non-weidu"
     },
     {
@@ -1953,7 +1977,7 @@
         "safe": 0,
         "languages": [],
         "status": "embed",
-        "last_update": "",
+        "last_update": "2000-12",
         "tp2": "non-weidu"
     },
     {
@@ -1992,7 +2016,7 @@
         "description": "Conçu à l'origine pour rendre les sorts conformes à leurs descriptions (durée, portée, dégâts...), ce mod a peu à peu évolué pour les modifier afin de les rendre plus intéressants à jouer.|Il a été rendu obsolète par de nombreux mods plus récents, dont [[Spell Revisions]].",
         "urls": [
             "https://sorcerers.net/Games/BG2/index_mods_hosted_items_spells.php",
-            "https://america.iegmc.com/azenmod/adpack/"
+            "https://america.iegmc.com/azenmod/adpack/ADPack_v11.rar"
         ],
         "categories": [
             "Sort et objet"
@@ -2008,10 +2032,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2006-03",
-        "tp2": ""
+        "tp2": "ADPack"
     },
     {
         "name": "Archive of Icendoan",
@@ -2032,14 +2058,16 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
-        "languages": [],
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2009-04",
-        "tp2": ""
+        "tp2": "#!ICEN-ARCHIVE"
     },
     {
-        "name": "Arena",
+        "name": "The Arena Project",
         "description": "Ce mod ajoute un peu de piment à votre Antichambre. Son concept est simple : une fois que vous aurez gagné la possibilité d'aller dans votre Antichambre, vous remarquerez deux nouveaux PNJ à l'intérieur près de la porte de sortie, le maître de l'arène et le donneur de récompenses. Vous devrez accomplir plusieurs défis à l'intérieur de l'arène et gagner quelques récompenses.",
         "urls": [
             "http://www.shsforums.net/files/file/943-arena-v1/"
@@ -2058,10 +2086,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2010-12",
-        "tp2": ""
+        "tp2": "Arena"
     },
     {
         "name": "Ariena the Half Orc",
@@ -2141,10 +2171,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "cz",
+            "en",
+            "pl"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2008-07",
+        "tp2": "ArmorsRobes"
     },
     {
         "name": "Arnel Nalia Romance Revision",
@@ -2400,17 +2434,18 @@
             "Pustak Stropowy"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Compatibilité EET à tester."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
             "en",
-            "it",
-            "ru"
+            "pl"
         ],
         "status": "active",
         "last_update": "2021-08",
-        "tp2": ""
+        "tp2": "AsharNPC"
     },
     {
         "name": "Ashes of Embers",
@@ -2637,16 +2672,18 @@
             "BGT"
         ],
         "authors": [
-            "Pop"
+            "Danzig"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2011-08",
-        "tp2": ""
+        "tp2": "Auden"
     },
     {
         "name": "Aura NPC for BG:EE and EET",
@@ -2828,7 +2865,7 @@
         "tp2": "AurorKit"
     },
     {
-        "name": "Aurora ToB NPC",
+        "name": "Aurora NPC for BG2:TOB",
         "description": "La célèbre Aurora du mod [[Aurora's Shoes and Boots]] peut désormais vous rejoindre dans votre quête dans ToB ! Dans ToB, vous pourrez désormais la convoquer dans l'Antichambre afin qu'elle combatte à vos côtés. Aurora est une guerrière éclairée qui joutera avec passion les enfants de Bhaal. Elle ne semble pas regretter d'avoir été rappelée à sa « retraite » pour jouer un rôle plus actif. De nombreuses interjections, des banters et des dialogues avec le PJ sont au programme de la version ToB de ce mod.",
         "urls": [
             "http://www.shsforums.net/files/file/1039-aurora-tob-npc/"
@@ -2844,15 +2881,15 @@
             "Bookwyrme"
         ],
         "team": [],
-        "notes": [
-            "Officiellement, ce mod est en bêta."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2013-01",
-        "tp2": ""
+        "tp2": "tobaurora"
     },
     {
         "name": "Aurora's Shoes and Boots",
@@ -2954,10 +2991,14 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "fr",
+            "en",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2018-10",
-        "tp2": ""
+        "tp2": "detect_traps_for_pstee"
     },
     {
         "name": "AutoDescription",
@@ -3056,7 +3097,7 @@
     },
     {
         "name": "Ayden Project",
-        "description": "Ayden est avant tout un mod PNJ, mais il est livré avec un ensemble de composants supplémentaires :|- Profil de Warlock pour la classe des voleurs, basée sur la classe Warlock de la troisième édition de D&D. |- Ayden NPC : un PNJ recrutable avec ses propres dialogues, badinages et quêtes.|- Marche dans l'ombre : une capacité permettant de réduire la vitesse de déplacement.|- L'abri d'Ayden : un plan de poche où le groupe peut se reposer et stocker des objets.|- Création d'objets : un système simple de création d'objets, sous forme de dialogue avec le PNJ.|- Baguettes pour les voleurs : permet l'utilisation des baguettes pour tous les profils de voleur.|- Compétences des voleurs : tous les profils de voleurs peuvent utiliser des masses et des lances.|Le projet Ayden est toujours en cours de développement. N'oubliez pas de vérifier le site pour télécharger sa dernière version.",
+        "description": "Ayden est avant tout un mod PNJ, mais il est livré avec un ensemble de composants supplémentaires :|- Profil de Warlock pour la classe des voleurs, basée sur la classe Warlock de la troisième édition de D&D. |- Ayden NPC : un PNJ recrutable avec ses propres dialogues, badinages et quêtes.|- Marche dans l'ombre : une capacité permettant de réduire la vitesse de déplacement.|- L'abri d'Ayden : un plan de poche où le groupe peut se reposer et stocker des objets.|- Création d'objets : un système simple de création d'objets, sous forme de dialogue avec le PNJ.|- Baguettes pour les voleurs : permet l'utilisation des baguettes pour tous les profils de voleur.|- Compétences des voleurs : tous les profils de voleurs peuvent utiliser des masses et des lances.",
         "urls": [
             "https://keneth-dev.github.io/bgee-ayden/",
             "https://forums.beamdog.com/discussion/82847/"
@@ -3075,10 +3116,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-09",
-        "tp2": ""
+        "tp2": "Ayden"
     },
     {
         "name": "Azengaard Tactical Encounter",
@@ -3165,10 +3208,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-01",
-        "tp2": ""
+        "tp2": "b!tweak_lite"
     },
     {
         "name": "HD GUI",
@@ -3315,7 +3360,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2010-02",
-        "tp2": ""
+        "tp2": "BLCR"
     },
     {
         "name": "BG1 NPC Portrait Pack",
@@ -3677,7 +3722,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2013-01",
-        "tp2": ""
+        "tp2": "BG1varFIX"
     },
     {
         "name": "BGII Alternate Soundtrack",
@@ -3787,7 +3832,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2004-08",
         "tp2": "non-weidu"
     },
     {
@@ -3844,10 +3889,14 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "es"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2009-06",
+        "tp2": "vic"
     },
     {
         "name": "BG2 Tweaks Pack",
