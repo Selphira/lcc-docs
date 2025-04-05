@@ -7224,7 +7224,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-02",
         "tp2": "seqmem-v2"
@@ -27844,7 +27846,7 @@
         ],
         "status": "embed",
         "last_update": "2017-08",
-        "tp2": ""
+        "tp2": "Sacred_Fist;DragonDisciple"
     },
     {
         "name": "Sacrificer",
@@ -28095,10 +28097,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2015-04",
-        "tp2": ""
+        "tp2": "Saradas_Revisioned_Shapeshifter"
     },
     {
         "name": "Sarah NPC Romance Mod for BG2: ToB",
@@ -28159,7 +28163,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2017-08",
-        "tp2": ""
+        "tp2": "usaranim"
     },
     {
         "name": "Sarevok related tweaks",
@@ -28212,10 +28216,14 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2010-05",
-        "tp2": ""
+        "tp2": "TIGER"
     },
     {
         "name": "Save Nordom Tweak from Qwinn's Tweakpack updated for PST:EE",
@@ -28317,10 +28325,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "obsolete",
         "last_update": "2012-12",
-        "tp2": ""
+        "tp2": "ScionMod"
     },
     {
         "name": "Selphira Tweaks",
@@ -28646,10 +28656,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-03",
-        "tp2": ""
+        "tp2": "The_Arena_Project"
     },
     {
         "name": "ShadowKeeper",
@@ -29403,9 +29415,11 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2008-01",
         "tp2": "kitpack"
     },
     {
@@ -29610,10 +29624,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-02",
-        "tp2": ""
+        "tp2": "SlayerRevisions"
     },
     {
         "name": "Sleep Fix",
@@ -29874,10 +29890,12 @@
         ],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-02",
-        "tp2": ""
+        "tp2": "Some Individuals"
     },
     {
         "name": "Song and Silence: A Mod for Bards and Thieves",
@@ -29970,7 +29988,7 @@
     },
     {
         "name": "Sorcerer's Place Item Collection",
-        "description": "Ce vieux mod ajoute de nombreux objets dans l'inventaire de Joluv.",
+        "description": "Ce vieux mod ajoute de nombreux objets dans le magasin de Joluv.",
         "urls": [
             "http://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=28057"
         ],
@@ -29988,10 +30006,13 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2004-01",
+        "tp2": "spitems"
     },
     {
         "name": "Sorts infinis",
@@ -30422,10 +30443,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2020-03",
-        "tp2": ""
+        "tp2": "Start to Finish"
     },
     {
         "name": "Stivan the Hunter",
@@ -30566,7 +30589,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2015-03",
-        "tp2": ""
+        "tp2": "StrongerCreatures"
     },
     {
         "name": "Stuff of the Magi",
@@ -30752,16 +30775,18 @@
             "EET"
         ],
         "authors": [
-            "Jkeion"
+            "Everyone'sFailGeek"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2013-02",
-        "tp2": ""
+        "tp2": "SunSoulMonk"
     },
     {
         "name": "Super Firkraag",
@@ -30854,10 +30879,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2020-04",
-        "tp2": ""
+        "tp2": "Surprise"
     },
     {
         "name": "Sweet Pillows",
@@ -30884,10 +30911,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-03",
-        "tp2": ""
+        "tp2": "Sweet Pillows"
     },
     {
         "name": "Sword Coast Customs",
@@ -30942,7 +30971,7 @@
         "languages": [],
         "status": "obsolete",
         "last_update": "2008-01",
-        "tp2": ""
+        "tp2": "n/a"
     },
     {
         "name": "Sword Coast Map Labels",
@@ -31262,7 +31291,7 @@
     },
     {
         "name": "TWM_GUI",
-        "description": "Un moddeur polonais expert de Baldur's Gate, Zed Nocear, s'est lancé dans l'amélioration de l'interface graphique de Baldur's Gate une fois [[Widescreen]] installé. TWM est un mod en cours de développement, appelé MotSC ([[Mysteries of the Sword Coast]]) en anglais, et dont l'auteur a extrait cette partie.|mod GUI supporte désormais 7 résolutions, propose également un choix entre trois fonds d'écran (une carte de la Côte des Épées, un mur de pierre ou un fond noir) qui s'afficheront autour des écrans du jeu qui restent en 640x480 (tous sauf la vue de la zone). Depuis la version 0.992, Une option permet d'installer une police de caractères de plus grande taille.",
+        "description": "Un moddeur polonais expert de Baldur's Gate, Zed Nocear, s'est lancé dans l'amélioration de l'interface graphique de Baldur's Gate une fois [[Widescreen]] installé. TWM est un mod en cours de développement, appelé MotSC ([[Mysteries of the Sword Coast]]) en anglais, et dont l'auteur a extrait cette partie.|mod GUI supporte désormais 7 résolutions, propose également un choix entre trois fonds d'écran (une carte de la Côte des Épées, un mur de pierre ou un fond noir) qui s'afficheront autour des écrans du jeu qui restent en 640x480 (tous sauf la vue de la zone). Depuis la version 0.992, une option permet d'installer une police de caractères de plus grande taille.",
         "urls": [
             "https://athkatla.cob-bg.pl/viewtopic.php?t=3257"
         ],
@@ -31284,7 +31313,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2011-10",
         "tp2": ""
     },
     {
@@ -31367,7 +31396,7 @@
         "tp2": "tactics-remix"
     },
     {
-        "name": "Tactics4IWD2 par Wu Min",
+        "name": "Tactics4IWD2",
         "description": "Ce mod tactique est destiné à ceux qui aiment les défis. Le but est de rendre plus difficiles et plus excitants les combats du jeu originel, sans pour autant dégoûter les joueurs ; tous les adversaires peuvent être vaincus sans code de triche. Environ 90 % des créatures ont été améliorées (statistiques, sorts disponibles, intelligence artificielle...). Le mod corrige aussi quelques bugs et déséquilibres du jeu originel.",
         "urls": [
             "https://www.sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/Tactics4IWD2.rar"
@@ -31378,15 +31407,17 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Wu Min"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2011-02",
+        "tp2": "Tactics4IWD2"
     },
     {
         "name": "Taim NPC",
@@ -31624,8 +31655,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-07",
+        "tp2": "non-weidu"
     },
     {
         "name": "Tashia NPC",
@@ -31690,10 +31721,12 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-10",
-        "tp2": ""
+        "tp2": "Taunt Spell"
     },
     {
         "name": "Tchos' Planescape: Torment portrait replacement mod",
@@ -31716,8 +31749,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2011-04",
+        "tp2": "Tchos-PST-portrait"
     },
     {
         "name": "TeamBG BG2:EE Armor Pack",
@@ -31856,16 +31889,21 @@
             "BGT"
         ],
         "authors": [
-            "Headbanger"
+            "don_schmelling"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de",
+            "en",
+            "it",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2009-04",
-        "tp2": ""
+        "tp2": "Teddy"
     },
     {
         "name": "Teleport Spell",
@@ -31930,10 +31968,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2009-12",
-        "tp2": ""
+        "tp2": "Tempest"
     },
     {
         "name": "Tenya Thermidor",
@@ -32289,7 +32329,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2015-09",
-        "tp2": ""
+        "tp2": "tb#characters"
     },
     {
         "name": "The Bigg Kit Pack",
@@ -32470,10 +32510,12 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2009-03",
-        "tp2": ""
+        "tp2": "ButterKnife"
     },
     {
         "name": "The Calling",
@@ -32536,11 +32578,11 @@
         "notes": [
             "Cette quête a été ajoutée à [[PS:T Unfinished Business - Reloaded]] et PSTEE."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "obsolete",
-        "last_update": "",
+        "last_update": "2002-09",
         "tp2": "non-weidu"
     },
     {
@@ -32714,10 +32756,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2007-01",
-        "tp2": ""
+        "tp2": "elven_pack"
     },
     {
         "name": "The Fields of the Dead",
@@ -32844,10 +32888,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "es"
+        ],
         "status": "active",
         "last_update": "2010-03",
-        "tp2": ""
+        "tp2": "hf_hhg"
     },
     {
         "name": "The Horde",
@@ -32878,7 +32926,7 @@
         "languages": [],
         "status": "wip",
         "last_update": "2016-12",
-        "tp2": ""
+        "tp2": "THE_HORDE"
     },
     {
         "name": "The Improved Volcano! Pack",
@@ -33062,16 +33110,22 @@
             "BGT"
         ],
         "authors": [
-            "Leomar"
+            "Tapio Kivikkola"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "pl",
+            "ru",
+            "it"
+        ],
         "status": "active",
         "last_update": "2009-10",
-        "tp2": ""
+        "tp2": "tzshop01"
     },
     {
         "name": "The Minotaur and Lilacor",
@@ -33134,10 +33188,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-02",
-        "tp2": ""
+        "tp2": "The_Old_Gold"
     },
     {
         "name": "The One Ring",
@@ -33163,7 +33219,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2009-03",
-        "tp2": ""
+        "tp2": "1ring"
     },
     {
         "name": "The Picture Standard",
@@ -33215,10 +33271,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2010-06",
-        "tp2": ""
+        "tp2": "portable-hole"
     },
     {
         "name": "The Rediscovery of Kuldahar",
