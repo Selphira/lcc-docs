@@ -2593,7 +2593,7 @@
         "name": "Au bonheur du tireur",
         "description": "C'est un marchand sur la promenade de Waukyne qui vend tout ce qui sert à tuer à distance (arc, arbalète, fronde, fléchettes, dagues de jet, haches de jet, et un bon paquet de munitions variées venant de BG2 et IWD)",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?t=33754",
+            "https://www.baldursgateworld.fr/viewtopic.php?f=749&p=506162",
             "https://github.com/Deratiseur/Archery",
             "https://app.mediafire.com/depaqus3ma8bt"
         ],
@@ -6119,7 +6119,7 @@
         "name": "Branwen NPC for BGII",
         "description": "Ce mod se veut être un tutoriel pour les moddeurs en herbe désirant créer un PNJ, et de ce fait inclut un PNJ complet avec du contenu pour SoA et ToB, des banters, des interjections, une voie de l'amitié, etc...",
         "urls": [
-            "http://forums.pocketplane.net/index.php/topic,28623.0.html",
+            "https://forums.pocketplane.net/index.php/topic,28623.0.html",
             "https://github.com/Pocket-Plane-Group/Branwen_for_BGII"
         ],
         "categories": [
@@ -6629,8 +6629,9 @@
     },
     {
         "name": "Cassius",
-        "description": "Cassius est un barde scalde humain et mystérieux qui ne dit pas grand-chose sur son passé. Ce que l'on sait, c'est qu'il a beaucoup voyagé depuis La Porte de Baldur, Eauprofonde, le Calimshan et d'autres endroits sans jamais rester trop longtemps. Il est toujours à la recherche d'aventures pour pouvoir raconter les grandes histoires qu'ils ont rencontrées. Il s'est récemment arrêté en Amn pour recueillir des informations sur les grandes histoires des aventuriers qui y passent. La rumeur veut qu'il soit un agent des Ménestrels.",
+        "description": "Cassius est un barde scalde humain et mystérieux qui ne dit pas grand-chose sur son passé. Ce que l'on sait, c'est qu'il a beaucoup voyagé depuis La Porte de Baldur, Eauprofonde, le Calimshan et d'autres endroits sans jamais rester trop longtemps. Il est toujours à la recherche d'aventures pour pouvoir raconter les grandes histoires qu'ils ont rencontrées. Il s'est récemment arrêté en Amn pour recueillir des informations sur les grandes histoires des aventuriers qui y passent. La rumeur veut qu'il soit un agent des Ménestrels.|FOR 16, DEX 17, CON 13, INT 16, SAG 9, CHA 15",
         "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?p=231482",
             "https://america.iegmc.com/com/Cassius_v105.rar",
             "https://github.com/Plutonium-X/1D_NPC_Cassius"
         ],
@@ -6882,6 +6883,7 @@
         "name": "The Chaos Sorcerer: A Wild Magic Kit for Sorcerers",
         "description": "Ce mod ajoute le nouveau profil \"Ensorceleur du Chaos\", l'équivalent de l'entropiste pour les ensorceleurs.",
         "urls": [
+            "http://www.shsforums.net/topic/59482-mod-the-chaos-sorcerer-a-wild-magic-kit-for-sorcerers/",
             "https://github.com/Argent77/A7-ChaosSorcerer"
         ],
         "categories": [
@@ -13701,7 +13703,7 @@
         "name": "Geomantic Sorcerer Kit",
         "description": "Ce mod s'inspire largement du [[Druidic Sorcerer Kit]], réalisé par Constant Gaw, et est librement adapté de la classe de prestige de la 3ème édition D&D : le Géomancien. Le profil combine les sorts et méthodes d'incantation du sorcier, avec des sorts, capacités et caractéristiques druidiques. De plus, il utilise ses propres sorts et HLA. Le mod dispose également d'options permettant de sélectionner des portraits spécifiques pour le Géomancien, comme pour les métamorphoses dont il se servira : ours, chat, chien, léopard, orignal, panthère, rat, serpent et loup.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/716-geomantic-sorcerer-kit/",
+            "https://www.gibberlings3.net/mods/kits/geomantic",
             "https://github.com/Gibberlings3/Geomantic_Sorcerer"
         ],
         "categories": [
@@ -15218,6 +15220,7 @@
         "name": "Homeward Bound",
         "description": "Ce mod permet de renvoyer vos compagnons chez eux ou de les faire revenir dans l'Antichambre de Throne of Bhaal, et d'avoir accès à l'épilogue de tous vos compagnons, même ceux qui ne font plus partie de votre groupe... Il permet aussi de les renvoyer sur le continent à partir de l'île de Brynnlaw, juste avant ou après l'étape de Spellhold. Un magasin est inclus (à Brynnlaw).",
         "urls": [
+            "http://www.shsforums.net/topic/30937-homeward-bound/",
             "https://america.iegmc.com/com/homewardbound-v7.rar",
             "https://github.com/Plutonium-X/MISC_Homeward"
         ],
@@ -16614,7 +16617,7 @@
         "name": "Improved Horns of Valhalla",
         "description": "Ce mini mod améliore les berserkers invoqués par les trois cors du Valhalla. Seules les créatures et leurs objets sont modifiés. Les cornes elles-mêmes restent inchangées. Les berserkers ont des armes et des compétences améliorées, et sont constamment dans un état de rage (comme le kit Berserker).",
         "urls": [
-            "https://www.gibberlings3.net/files/file/903-improved-horns-of-valhalla/",
+            "https://www.gibberlings3.net/mods/items/horns",
             "https://github.com/Gibberlings3/Improved_Horns_of_Valhalla"
         ],
         "categories": [
@@ -16814,6 +16817,7 @@
         "description": "Ce mod ajoute un nouveau PNJ, une demi-elfe guerrier-mage, loyale bonne, que l'on peut trouver dans les ruines du Pont de Flammevin. Elle a des interactions piquantes avec la plupart des autres personnages.",
         "urls": [
             "https://www.pocketplane.net/bg1tutu-enhancements/",
+            "https://forums.pocketplane.net/index.php/topic,29214.0.html",
             "https://github.com/Pocket-Plane-Group/Indira_NPC"
         ],
         "categories": [
@@ -20587,8 +20591,9 @@
     },
     {
         "name": "Malthis",
-        "description": "Malthis est un bretteur chaotique bon que vous pouvez trouver près de Cromwell. Il n'est pas comme les autres et porte un lourd secret. Ses caractéristiques et son alignement vont dépendre de vous. Saurez-vous l'adopter et l'aider dans sa guerre contre une sombre organisation ?|Comme le site hébergeant le mod a disparu (rosenranken.org), le lien renvoie à un compte GitHub d'hébergement temporaire.",
+        "description": "Malthis est un bretteur chaotique bon que vous pouvez trouver près de Cromwell. Il n'est pas comme les autres et porte un lourd secret. Ses caractéristiques et son alignement vont dépendre de vous. Saurez-vous l'adopter et l'aider dans sa guerre contre une sombre organisation ?|Comme le site hébergeant le mod a disparu (rosenranken.org), le lien renvoie à un compte GitHub d'hébergement temporaire.|FOR 17, DEX 18, CON 17, INT 10, SAG 11, CHA 10",
         "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?p=140073",
             "https://github.com/Plutonium-X/1D_NPC_Malthis"
         ],
         "categories": [
@@ -27156,6 +27161,7 @@
         "name": "Ribald's Genie",
         "description": "Fatigués de devoir se taper la moitié de la carte aventure et de mettre une heure pour retourner au Marché de l'Aventurier pour dépenser vos deniers chèrement gagnés ? Désormais, une fois que vous lui aurez parlé cinq fois, Ribald vous donnera une flûte qui vous permettra de convoquer un génie. Celui-ci pourra vous téléporter directement au Marché de l'Aventurier (ou convoquer Ribald) pour commercer, et vous ramener à votre destination d'origine si vous le souhaitez. Si vous le lui demandez, il pourra aussi faire venir d'autres marchands.|Le génie ne peut malheureusement pas être invoqué durant le chapitre 5 (ni à Suldanessalar ou en Enfer). Il ne peut pas non plus être invoqué dans la prison planaire d'Haer'Dalis ou dans le plan démoniaque vers lequel la Sphère planaire vous mène.",
         "urls": [
+            "http://forums.blackwyrmlair.net/index.php?showtopic=1629",
             "http://dragonshoard.blackwyrmlair.net/download/RGenie/Ribalds%20Genie%20V2.7.exe",
             "https://github.com/Plutonium-X/MISC_Genie"
         ],
@@ -31007,7 +31013,7 @@
         "name": "Sword Coast Stratagems",
         "description": "Ce mod ajoute de nombreuses difficultés dans le jeu en rendant les adversaires plus intelligents, aussi bien les boss de fin de chapitre que le simple grouilleux, notamment par la gestion de l'intelligence de groupe. Il modifie également le comportement de certains sortilèges et comprend quelques ajustements cosmétiques ou de confort. Ce mod rend le jeu réellement plus difficile, soyez donc prêts... Ses environ 130 composants sont tous optionnels.|Depuis la version 22, les mods SCS et SCSII sont regroupés au sein du même mod, compatible avec BGII, BGT, BG1Tutu, ainsi que BG:EE et BG2:EE.",
         "urls": [
-            "https://www.gibberlings3.net/files/file/914-sword-coast-stratagems/",
+            "https://www.gibberlings3.net/mods/tweaks/scs/",
             "https://github.com/Gibberlings3/SwordCoastStratagems"
         ],
         "categories": [
@@ -33987,6 +33993,7 @@
         "name": "Thrown Hammers",
         "description": "Ce mod ajoute des animations aux marteaux lancés (qui apparaissaient auparavant comme des haches). Il ajoute également une modification au sort marteau spirituel, ainsi que des marteaux de jet normaux, magiques et certains uniques.",
         "urls": [
+            "http://www.shsforums.net/topic/34099-thrown-hammers/",
             "https://github.com/Sampsca/ThrownHammers"
         ],
         "categories": [
@@ -34033,6 +34040,7 @@
         "name": "Tiax NPC MOD for Baldur's Gate II",
         "description": "Vous vous souvenez certainement de ce prêtre/voleur dément et mégalomane ? L'occasion de (re)faire sa connaissance.",
         "urls": [
+            "https://forums.pocketplane.net/index.php/topic,23660.0.html",
             "https://www.pocketplane.net/one-day-npcs/",
             "https://github.com/Pocket-Plane-Group/Tiax_for_BGII"
         ],
@@ -34452,7 +34460,7 @@
         "description": "« Les Âmes Torturées » est un terme générique pour englober tous les PNJ qui sont troublés. Ce mod ajoute de nombreux banters, 4 nouvelles romances dont une entre Yoshimo et Kachiko, et une énorme nouvelle quête. Plus précisément :|- 5 nouveaux PNJ recrutables dont Sime (la fille d'Aran Linvail, aux côtés de son père si vous avez travaillé pour sa guilde au chapitre 3), Kachiko (dans le donjon d'Irenicus), Dynahéir (Sime et Minsc doivent être dans le groupe), Coran (disponible dans la forêt du Téthyr) et Bodhi (si vous avez choisi de travailler pour sa guilde au chapitre 3).|Une romance avec Valygar pour un PJ féminin, qui débute dans SoA et se poursuit dans ToB.|- Une nouvelle quête assez vaste sur la route de Spellhold, dont les protagonistes seront Yoshimo et Kachiko.|- Une romance avec Sime pour les PJ des 2 sexes.|- Plusieurs quêtes spécifiques à Sime, dont l'une vous amènera à affronter par 2 fois un ennemi (indestructible dans la 1ère rencontre) lors de la quête principale du mod.|- Le composant `Quêtes de classe multiples` pour les PJ multi-classés, leur autorisant à effectuer les quêtes de toutes leur sous-classes.|- Une légère amélioration du combat de la Rune Tordue.|- Une multitude de nouveaux objets (provenant en grande partie d'IWD1).|Yoshimo doit faire partie de votre groupe pour pouvoir recruter Kachiko. De même, le recrutement de Coran ne pourra se faire qu'en déclenchant une mini-quête dans le Marché de l'Aventurier (vous devez y pénétrer sans que Jaheira fasse partie de votre groupe).|Cette version est compatible avec [[The Big Picture]] et la plupart des mods WeiDU.",
         "urls": [
             "http://www.shsforums.net/files/file/324-tortured-souls-bp-compatible-version-v610/",
-            "https://america.iegmc.com/ts-bp/"
+            "https://america.iegmc.com/ts-bp/TS-BPv6.10.rar"
         ],
         "categories": [
             "Quête",
@@ -34469,9 +34477,7 @@
             "King Diamond"
         ],
         "team": [],
-        "notes": [
-            "Fichier TS-BPv6.10.rar."
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 1,
         "languages": [
@@ -34909,8 +34915,9 @@
     },
     {
         "name": "Tsujatha Melalor",
-        "description": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux. FOR: 17, DEX: 12, CON: 12, INT: 19, SAG: 16 et CHA: 14.",
+        "description": "Ce mod ajoute un personnage romançable, Tsujatha Melalor, nécromancien elfe du royaume de Gilalion, situé sur un autre plan que Toril. Sa psychologie est particulièrement étoffée, cela entre autres de par sa quête personnelle (son ambition et la trahison de son père en ont fait un paria dans son royaume). La romance est longue et les interactions fort nombreuses, de quoi ravir ceux qui souhaitent une alternative au sempiternel Anomen. Attention, même si Tsujatha est un personnage d'alignement mauvais (mais pouvant obtenir une rédemption), il ne romancera que les personnages féminins humains, elfes et demi-elfes d'alignement bon. Vous le trouverez dans la Sphère planaire. Allez-y dès que possible car les banters sont nombreux.|FOR 17, DEX 12, CON 12, INT 19, SAG 16, CHA 14",
         "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=20092",
             "https://america.iegmc.com/tsujatha/Tsujatha-17.1.zip",
             "https://github.com/Plutonium-X/NPC_Tsujatha"
         ],
@@ -38901,7 +38908,7 @@
         "name": "Follower_It",
         "description": "Ce mod permet de transformer n'importe quel compagnon en suiveur (qui ne compte pas la limite de groupe). Il perd toute possibilité de dialogues, discutions, quête. Plusieurs options permettent de rendre les suiveurs immortels, pour que vous n'ayez pas à gérer leur résurrection et le lot d'inconvénients qui vont avec.",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?f=749&t=34651&p=518215#p518215",
+            "https://www.baldursgateworld.fr/viewtopic.php?p=518215",
             "https://github.com/Deratiseur/Follower_It",
             "https://app.mediafire.com/depaqus3ma8bt"
         ],
@@ -40594,6 +40601,7 @@
         "name": "Illo le tatoueur",
         "description": "Un marchand qui vend près d'une centaine de tatouages à usage unique qui fonctionnent comme des tomes, mais en version ++.|Vous vous rappelez des tatouages de PST ? Il y a les mêmes, et plein d'autres.",
         "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?f=749&p=511191",
             "https://forums.beamdog.com/discussion/88006/",
             "https://github.com/Deratiseur/Tatoos",
             "https://app.mediafire.com/depaqus3ma8bt"
@@ -40627,6 +40635,7 @@
         "name": "Illumisfhityroc",
         "description": "Une extra-terrestre qui loue des objets temporaires +4 pour 200 pos et 1000 xps.",
         "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=33955",
             "https://forums.beamdog.com/discussion/88141/",
             "https://github.com/Deratiseur/Illumisfhityroc",
             "https://app.mediafire.com/depaqus3ma8bt"
@@ -41151,6 +41160,7 @@
         "name": "Xan's French Soundset for BG2",
         "description": "Profitez du jeu de Xan BG2 NPC avec un soundset français original.",
         "urls": [
+            "https://www.pocketplane.net/diversions-and-soundsets/",
             "https://github.com/The-Gate-Project/Xan-BG2_French-Soundset"
         ],
         "categories": [
@@ -48667,6 +48677,7 @@
         "name": "The Darkest Day (EE-compatible)",
         "description": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque. Vous devez disposer d'une installation avec Throne of Bhaal.",
         "urls": [
+            "https://baldursgate.fandom.com/wiki/The_Darkest_Day",
             "https://github.com/InfinityMods/TDDz"
         ],
         "categories": [
