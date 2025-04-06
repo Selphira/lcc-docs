@@ -6,6 +6,7 @@
             <p></p>
             <p>Compatibilités</p>
             <p>Auteurs</p>
+            <p>Traducteurs</p>
             <img src="{{ static }}img/download.png" title="Téléchargement" alt="Image de téléchargement" width="42" height="42">
         </div>
         {% for mod in mods %}
@@ -28,6 +29,16 @@
                         <summary>Équipe</summary>
                         <div class="content">{% for user in mod.authors %}<p>{{ user }}</p>{% endfor %}</div>
                     </details>
+                {% endif %}
+                {% if mod.team|length <= 2 %}
+                <div class="column team translator">
+                    {% for user in mod.team %}<p>{{ user }}</p>{% endfor %}
+                </div>
+                {% else %}
+                <details class="column team translator">
+                    <summary>Équipe</summary>
+                    <div class="content">{% for user in mod.team %}<p>{{ user }}</p>{% endfor %}</div>
+                </details>
                 {% endif %}
                 <div class="column url">
                     {% for url in mod.get_urls() %}
