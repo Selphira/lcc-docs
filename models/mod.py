@@ -182,10 +182,10 @@ class Mod:
             else:
                 note = "Ce mod a disparu."
             auto_notes.append(note)
-        if self.team:
-            auto_notes.append(
-                f"Traducteur{'s' * (len(self.team) > 1)} 🇲🇫 : {self.get_team_str()}"
-            )
+        # if self.team:
+        #     auto_notes.append(
+        #         f"Traducteur{'s' * (len(self.team) > 1)} 🇲🇫 : {self.get_team_str()}"
+        #     )
 
         return auto_notes
 
