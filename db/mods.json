@@ -36480,10 +36480,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2009-07",
-        "tp2": ""
+        "tp2": "Vildra"
     },
     {
         "name": "Virtue",
@@ -36508,10 +36510,18 @@
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "es",
+            "pl",
+            "cz",
+            "it",
+            "cn"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2007-09",
+        "tp2": "virtue"
     },
     {
         "name": "Voices of Faerun",
@@ -36660,10 +36670,17 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "pl",
+            "en",
+            "es",
+            "ru",
+            "it",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2012-01",
-        "tp2": ""
+        "tp2": "W_GUI"
     },
     {
         "name": "W_PackMule",
@@ -36893,10 +36910,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2018-02",
-        "tp2": ""
+        "tp2": "zkwarlock"
     },
     {
         "name": "Warrior Monk",
@@ -36918,10 +36937,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2017-01",
-        "tp2": ""
+        "tp2": "warriormonkmod"
     },
     {
         "name": "Warrior Kit Pack",
@@ -37013,8 +37034,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2004-01",
+        "tp2": "non-weidu"
     },
     {
         "name": "Way of the Assassin",
@@ -37071,10 +37092,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-12",
-        "tp2": ""
+        "tp2": "WayOfTheFist"
     },
     {
         "name": "Weasels!",
@@ -37125,10 +37148,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2017-12",
-        "tp2": ""
+        "tp2": "zkwsalarin"
     },
     {
         "name": "Wedge's BGT Adventure Pack",
@@ -37168,17 +37193,23 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Wes Weimer"
+        ],
         "team": [
             "Graoumf"
         ],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "es"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2003-11",
+        "tp2": "Targos"
     },
     {
         "name": "Welverin's Subrace Mod",
@@ -37207,7 +37238,7 @@
         ],
         "status": "active",
         "last_update": "2012-07",
-        "tp2": ""
+        "tp2": "Subrace"
     },
     {
         "name": "Werewarrior",
@@ -37229,16 +37260,18 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2009-09",
-        "tp2": ""
+        "tp2": "werewarrior"
     },
     {
         "name": "Werewolf & Dragon Characters",
         "description": "Il s'agit de deux personnages très puissants pré-tirés pour IWD, avec leur portrait.",
         "urls": [
-            "https://sorcerers.net/Games/IWD/index_mods.php"
+            "https://sorcerers.net/Games/dl/eyJpdiI6ImFUa0pUWGFvbmRmUnlxUkNiM2RhK2c9PSIsInZhbHVlIjoiMTVRYm1KT0k3eEQ2UTBnMCtMTVlkVWpsTk5EVVJUWk80TXdZM2ZCNUNSST0iLCJtYWMiOiJjM2M4ODI0OTIzYzliMmI4NDFhZWFkMzM4OWE5ZWRkOGFlMGQ0ZTA3YzJjNzgzZDQzZmIyYzExMGQ5Y2EwOGRkIn0="
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -37255,8 +37288,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2004-05",
+        "tp2": "non-weidu"
     },
     {
         "name": "Wheels of Prophecy",
@@ -37295,7 +37328,7 @@
         "name": "Whispering Wind Party + Installer & Portrait",
         "description": "Ce mod ajoute un nouveau groupe préfabriqué lorsqu'on lance une nouvelle partie. Il est composé uniquement de roublards, que vous pouvez multi-classer toutefois.",
         "urls": [
-            "https://sorcerers.net/Games/IWD2/index_mods2.php"
+            "https://sorcerers.net/Games/dl/eyJpdiI6ImRBVEkwWjlUOEo1UXJZVnNOMm1HS1E9PSIsInZhbHVlIjoiakpzK3ZyQ3RzcUxVZUtwcE9lN05IT0VmZEhNMDI0dFEzeHl3QVF3aHI4Yz0iLCJtYWMiOiIwNmYyM2E4MmY0YzY3MzI1ZjFkNTc1YWZhNmE0ZmQ3OTQwZjY2MTJmMGFmODBkNGE0ZDRhOTJhODFmMzA4NzE0In0="
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -37312,8 +37345,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2003-11",
+        "tp2": "non-weidu"
     },
     {
         "name": "White NPC",
@@ -37477,10 +37510,12 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "obsolete",
         "last_update": "2015-08",
-        "tp2": ""
+        "tp2": "wildsorc"
     },
     {
         "name": "Will of the Wisps",
@@ -37566,10 +37601,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2018-04",
-        "tp2": ""
+        "tp2": "WitcherKits"
     },
     {
         "name": "Wizard Slayer Overhaul",
@@ -37678,7 +37715,7 @@
             "https://www.mediafire.com/file/mv1nc146l23uguq/WolfLordV2.rar/file"
         ],
         "categories": [
-            "Gameplay"
+            "Kit"
         ],
         "games": [
             "BG2",
@@ -37691,10 +37728,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-12",
+        "tp2": "WolfLord"
     },
     {
         "name": "Worgas NPC",
@@ -37814,12 +37853,15 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "todo",
+        "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es"
+        ],
         "status": "active",
         "last_update": "2007-04",
-        "tp2": ""
+        "tp2": "WtUE"
     },
     {
         "name": "Wrist Scribers",
@@ -37845,10 +37887,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-05",
-        "tp2": ""
+        "tp2": "Wrist Scribers"
     },
     {
         "name": "Xan's friendship path for BG1",
@@ -37944,10 +37988,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2018-12",
-        "tp2": ""
+        "tp2": "XansNewGroove"
     },
     {
         "name": "iiXando",
@@ -38221,10 +38267,15 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "fr",
+            "de"
+        ],
         "status": "active",
         "last_update": "2011-11",
-        "tp2": ""
+        "tp2": "Zalnoya"
     },
     {
         "name": "Zelink (Zelda & Link)",
@@ -38272,10 +38323,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-10",
+        "tp2": "Z#Misc"
     },
     {
         "name": "aTweaks",
@@ -39776,7 +39829,7 @@
         "team": [],
         "notes": [
             "Téléchargez la version GitHub qui est plus récente.",
-            "Ce mod est inclu dans [[Crossmod Banter Pack for Baldur's Gate II]]."
+            "Ce mod est inclus dans [[Crossmod Banter Pack for Baldur's Gate II]]."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -48042,7 +48095,7 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod est inclu dans [[Ahungry Tweaks]] du même auteur."
+            "Ce mod est inclus dans [[Ahungry Tweaks]] du même auteur."
         ],
         "translation_state": "n/a",
         "safe": 0,
@@ -53281,20 +53334,24 @@
         "categories": [
             "Gameplay"
         ],
-        "games": [],
+        "games": [
+            "BG2",
+            "BGT"
+        ],
         "authors": [
             "Zyraen"
         ],
         "team": [],
         "notes": [
-            "Vous DEVEZ avoir 5 compagnons pour que le script du mod fonctionne."
+            "Vous DEVEZ avoir 5 compagnons pour que le script du mod fonctionne.",
+            "Ce mod est inclus dans [[Zyraen's Miscellany]], du même auteur."
         ],
-        "translation_state": "no",
-        "safe": 2,
+        "translation_state": "n/a",
+        "safe": 0,
         "languages": [
             "en"
         ],
-        "status": "missing",
+        "status": "embed",
         "last_update": "2005-09",
         "tp2": ""
     },
@@ -53323,5 +53380,35 @@
         "status": "wip",
         "last_update": "2023-10",
         "tp2": ""
+    },
+    {
+        "name": "Oops le magicien",
+        "description": "Oops est un personnage très particulier : il possède la capacité de changer un parchemin de sort en capacité spéciale.  Concrètement, amenez à Oops le parchemin du sort que vous voudriez avoir en capacité spécial 1x/jour, payez le 10000 po par niveau du sort désiré, ça vous coute aussi 1000xp par niveau du sort désiré, vous perdez le parchemin mais vous gagnez une nouvelle capacité. Vous trouverez Oops à coté de la Tour de Garde, au sud ouest. Il est là pour être accessible aussi bien dans SOA que dans TOB.",
+        "urls": [
+            "https://www.baldursgateworld.fr/viewtopic.php?t=34841",
+            "https://github.com/Deratiseur/Oops/"
+        ],
+        "categories": [
+            "Forgeron et marchand"
+        ],
+        "games": [
+            "BG2",
+            "BG2EE",
+            "EET"
+        ],
+        "authors": [
+            "Deratiseur"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "yes",
+        "safe": 2,
+        "languages": [
+            "fr",
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2025-04",
+        "tp2": "Derats_Oops"
     }
 ]
