@@ -34673,16 +34673,18 @@
             "BGT"
         ],
         "authors": [
-            "GeN1e"
+            "Ardanis"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2010-06",
-        "tp2": ""
+        "tp2": "trap_rev"
     },
     {
         "name": "Travellers In Faerun",
@@ -35024,10 +35026,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "it",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2011-10",
-        "tp2": ""
+        "tp2": "Turambar_fixes_tweaks"
     },
     {
         "name": "Turnabout",
@@ -35083,10 +35089,15 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "it",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2010-05",
+        "tp2": "TurnipGolem"
     },
     {
         "name": "Tutu AI Pack",
@@ -35100,7 +35111,9 @@
         "games": [
             "Tutu"
         ],
-        "authors": [],
+        "authors": [
+            "SimDing0"
+        ],
         "team": [],
         "notes": [
             "Ce mod a été rendu complètement obsolète par [[Sword Coast Stratagems]]."
@@ -35109,8 +35122,8 @@
         "safe": 0,
         "languages": [],
         "status": "obsolete",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-04",
+        "tp2": "TutuAI"
     },
     {
         "name": "Tutu Tweak Pack",
@@ -35361,12 +35374,12 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
-        "safe": 2,
+        "translation_state": "n/a",
+        "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "wip",
         "last_update": "2009-02",
-        "tp2": ""
+        "tp2": "USARF"
     },
     {
         "name": "Ultimate portrait pack",
@@ -35394,7 +35407,7 @@
         "safe": 0,
         "languages": [],
         "status": "embed",
-        "last_update": "",
+        "last_update": "2019-06",
         "tp2": ""
     },
     {
@@ -35422,10 +35435,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2020-05",
-        "tp2": ""
+        "tp2": "Ultravision"
     },
     {
         "name": "Umbra of T.R.O.W.",
@@ -35488,7 +35503,7 @@
         "languages": [],
         "status": "obsolete",
         "last_update": "2009-04",
-        "tp2": ""
+        "tp2": "UnarmedAdjustments"
     },
     {
         "name": "Unbiased Ir'revrykal",
@@ -35541,10 +35556,12 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2017-07",
-        "tp2": ""
+        "tp2": "UndeadHunterRevision"
     },
     {
         "name": "Undead Warrior",
@@ -53389,7 +53406,8 @@
             "https://github.com/Deratiseur/Oops/"
         ],
         "categories": [
-            "Forgeron et marchand"
+            "Forgeron et marchand",
+            "Gameplay"
         ],
         "games": [
             "BG2",
