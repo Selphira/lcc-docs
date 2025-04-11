@@ -178,7 +178,7 @@
         "name": "6 Pre-Made Characters",
         "description": "Il s'agit d'une collection de six personnages pré-tirés pour IWD, de niveau assez haut (10 à 11), sauf un de niveau 1, et plutôt bien équipés.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6InJicTM5M0NtSVhDbnVPK1loQkd4aEE9PSIsInZhbHVlIjoibElcL2hlekE1YnRHODFiWDB5VnBSelpJREtjMm0yT2JuRDZtUU9SSWYxXC9pOVgrQUx1SnpkNms4VEFNanJ0VUo0IiwibWFjIjoiOWQ2OTk5MjBmYzE1N2M0M2ZlYWFhZmQxY2NmYTc3NTNiZDJmOTE5YWYxYmJmNjZmNjlmMmRjNzlhYzFjZWJiMiJ9"
+            "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/custom_characters.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -2015,7 +2015,7 @@
         "name": "Arcane-Divine Spell Pack",
         "description": "Conçu à l'origine pour rendre les sorts conformes à leurs descriptions (durée, portée, dégâts...), ce mod a peu à peu évolué pour les modifier afin de les rendre plus intéressants à jouer.|Il a été rendu obsolète par de nombreux mods plus récents, dont [[Spell Revisions]].",
         "urls": [
-            "https://sorcerers.net/Games/BG2/index_mods_hosted_items_spells.php",
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/ADPack.rar",
             "https://america.iegmc.com/azenmod/adpack/ADPack_v11.rar"
         ],
         "categories": [
@@ -2793,11 +2793,10 @@
         "tp2": "aurenaseph"
     },
     {
-        "name": "Auril's Bane (version TotL)",
-        "description": "Cet énorme mod combine les deux anciens mods Project Auril et Winter's Bane. Il ajoute un tas d'objets, de sorts et de créatures, quelques quêtes et de nouvelles fonctionnalités et correctifs.|Évitez son composant `Correction d'IWD par Grog` en faveur de [[Icewind Dale Fixpack]]. Par ailleurs, le composant principal possède également sa propre version de la quête \"la Voix de Durdel Anatha\", ce qui le rend incompatible avec le composant du même nom du mod [[Unfinished Business for Icewind Dale]].|Enfin, ce mod existe en deux versions, l'un pour Heart of Winter, l'autre pour [[Trials of the Luremaster (IWD)]]. Seule la seconde est traduite en français.",
+        "name": "Auril's Bane",
+        "description": "Cet énorme mod combine les deux anciens mods Project Auril et Winter's Bane. Il ajoute un tas d'objets, de sorts et de créatures, quelques quêtes et de nouvelles fonctionnalités et correctifs.|Évitez son composant `Correction d'IWD par Grog` en faveur de [[Icewind Dale Fixpack]]. Par ailleurs, le composant principal possède également sa propre version de la quête `la Voix de Durdel Anatha`, ce qui le rend incompatible avec le composant du même nom du mod [[Unfinished Business for Icewind Dale]].",
         "urls": [
-            "http://downloads.chosenofmystra.net/iwd/AB_TotL.rar",
-            "http://downloads.chosenofmystra.net/iwd/AB_HoW.exe"
+            "https://sorcerers.net/community/resources/aurils-bane.530/"
         ],
         "categories": [
             "Quête",
@@ -2815,7 +2814,7 @@
         ],
         "notes": [
             "Attention : Malheureusement, il écrase plus ou moins tout ce qu'il touche, ce qui signifie qu'il efface de nombreuses modifications de mods installés avant lui. Il faut donc l'installer en tout premier, avant même le fixpack.",
-            "Le premier lien sert pour ToTL. Le second pour HoW."
+            "Nécessite [[Trials of the Luremaster (IWD)]]."
         ],
         "translation_state": "yes",
         "safe": 1,
@@ -2823,7 +2822,7 @@
             "en",
             "fr"
         ],
-        "status": "missing",
+        "status": "active",
         "last_update": "2008-11",
         "tp2": "ab"
     },
@@ -3295,7 +3294,7 @@
         "name": "BG1 & BG2 Portraits",
         "description": "32 portraits de PNJ de Baldur's Gate 1 et 2 à utiliser pour vos personnages dans Icewind Dale, parmi lesquels Aerie, Edwin, Jaheira, Keldorn, Viconia...",
         "urls": [
-            "https://www.sorcerers.net/Games/IWD/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/BG_portraits.zip"
         ],
         "categories": [
             "Portrait et son"
@@ -3312,8 +3311,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2001-12",
+        "tp2": "non-weidu"
     },
     {
         "name": "BG1 CoM Forge - Item Upgrade",
@@ -5273,8 +5272,8 @@
         "name": "Berserker Minsc",
         "description": "Ce mod attribue à Minsc un profil de Berserker fait sur mesure qui l'empêche d'attaquer le groupe quand il est sous furie furieuse.",
         "urls": [
-            "https://sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
-            "http://america.iegmc.net/drew/"
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Berserker_Minsc.zip",
+            "http://america.iegmc.net/drew/Berserker_Minsc.zip"
         ],
         "categories": [
             "PNJ (autre)"
@@ -5848,7 +5847,7 @@
         "name": "Boards O' Magick Item Pack",
         "description": "Ce mod est avant tout un hommage à deux illustres membres du défunt forum Boards o' Magick en les immortalisant dans BG2, mais pas que. Il ajoute deux nouveaux personnages, le diablotin Bion et le marchand Taluntain, qui vous permettront d'accéder à des objets auparavant assez quelconques... Vous les trouverez sur la Promenade de Waukyne dans la partie SoA du jeu, et à Amkethran dans la partie ToB.",
         "urls": [
-            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/BoM_Item_pack.rar#",
+            "https://www.sorcerers.net/Games/dl.php?s=BG2&f=BG2/BoM_Item_pack.rar",
             "https://sorcerers.net/community/resources/boards-o-magick-item-pack.85/download?version=93"
         ],
         "categories": [
@@ -7544,13 +7543,17 @@
             "Tapio Kivikkola"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il écrase la cape d'origine avec sa description en anglais."
+        ],
         "translation_state": "no",
-        "safe": 2,
-        "languages": [],
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2002-12",
+        "tp2": "CLK20FIX"
     },
     {
         "name": "Cloakwood Squares",
@@ -8289,7 +8292,7 @@
         "name": "Creslyn's BG2 Custom Items",
         "description": "Ce mod ajoute de nombreux objets dans le jeu. Certains, un peu trop puissants, seront cependant difficile à obtenir (comme le bâton de la Gorgone dans la Cité illithild) ou hors de prix.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6IlNEbkpUaVVFZnJ0dzhwMHZjRHZTaWc9PSIsInZhbHVlIjoiXC90MnFrUzZUXC9qSENDNW50cnZvRFZ3N3hcL3JnV25kdkJrVm1TejV5cjRuZWR0d1ZUYzBldlgwRkpJS1RMS2Y2TyIsIm1hYyI6Ijc1MTM1MjgzNGIyMmMxYjc5NGNjNGI3M2JlMTY1Mzk2MTRlN2IwNDhiZDQ0ZTFmZTkxZDFmNjEwMWU5MjZkNmIifQ=="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Creslyn_bg2items.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -8761,7 +8764,7 @@
         "name": "Dale Keeper",
         "description": "Cet utilitaire vous permet d'éditer vos sauvegardes de IWD.",
         "urls": [
-            "https://sorcerers.net/Games/IWD/index_editors.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/DaleKeeper.zip"
         ],
         "categories": [
             "Utilitaire"
@@ -8778,7 +8781,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2000-09",
         "tp2": "n/a"
     },
     {
@@ -10034,7 +10037,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2003-06",
         "tp2": "non-weidu"
     },
     {
@@ -10337,7 +10340,7 @@
         "name": "Droquil",
         "description": "Il s'agit d'un personnage pré-tiré pour IWD2. Droquil est un guerrier elfe noir chaotique bon niveau 7 avec ses portraits et ses jeux de son.",
         "urls": [
-            "https://sorcerers.net/Games/IWD/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/Droquil.rar"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -10354,8 +10357,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2007-09",
+        "tp2": "non-weidu"
     },
     {
         "name": "Drows",
@@ -10915,7 +10918,7 @@
         "name": "Ease-of-use Pack for BG1",
         "description": "Ce mod simplifie la vie du joueur en proposant un sac de contenance comme dans Baldur's Gate II, en permettant des piles d'objets plus importantes, en maximisant les points de vie à chaque gain de niveau, en facilitant l'apprentissage des sorts, en empêchant les personnages de partir à cause de la réputation...",
         "urls": [
-            "https://sorcerers.net/Games/BG/index_mods2.php"
+            "https://sorcerers.net/Games/dl.php?s=BG&f=BG/BG1-ease.zip"
         ],
         "categories": [
             "Gameplay"
@@ -10934,8 +10937,8 @@
         "safe": 0,
         "languages": [],
         "status": "obsolete",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2002-11",
+        "tp2": "BG1-ease-v2.1"
     },
     {
         "name": "Ease-of-use pack for IWD2",
@@ -12455,7 +12458,7 @@
         "safe": 0,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2005-11",
         "tp2": "non-weidu"
     },
     {
@@ -12864,7 +12867,7 @@
         "name": "Font Mod",
         "description": "Ce mod modifie la couleur de fond de l'interface ainsi que la police de caractère pour faciliter la lecture des textes affichés :|- fontdlg.bam : polices de caractères.|- WMMOSDP.MOS : fond noir.",
         "urls": [
-            "https://sorcerers.net/Games/Torment/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=PST&f=Torment/font.zip"
         ],
         "categories": [
             "Cosmétique"
@@ -12881,7 +12884,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2006-12",
         "tp2": "non-weidu"
     },
     {
@@ -15804,10 +15807,10 @@
         "tp2": ""
     },
     {
-        "name": "IWD2 Cleric domains (de Tioma)",
+        "name": "IWD2 Cleric domains",
         "description": "Ce mod ajoute six nouveaux cultes cléricaux dans le jeu : Lolth (drow), Yondalla (halfeling), Gruumsh (orc), Garl Glittergold (gnome), Morradin (nain) et Corellon Larethian (elfe).",
         "urls": [
-            "https://sorcerers.net/Games/IWD2/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/IWD2-clerics.zip"
         ],
         "categories": [
             "Kit"
@@ -15815,15 +15818,19 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Tioma"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2003-09",
+        "tp2": "IWD2-clerics-1d3"
     },
     {
         "name": "IWD2 GUI for BG2:EE",
@@ -15921,7 +15928,7 @@
         "name": "IWD2 Unofficial Item/Spell Patch",
         "description": "Créé par Gimble, ce mod modifie certains sorts et objets pour les rendre conformes à leur description. Il s'agit des sorts Symbole de douleur et de désespoir; et des objets Hache d'armes de Pourrissement +5, Dague de Feu boomerang +1, Masse +5, Épée courte Sanglante chargée +5, Bénédiction de Séluné et Destruction ailée.",
         "urls": [
-            "https://sorcerers.net/Games/IWD2/index_editors.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/IWD2Fix.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -15938,7 +15945,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2003-09",
         "tp2": "non-weidu"
     },
     {
@@ -16728,7 +16735,7 @@
         "name": "Improved Summons",
         "description": "Vous êtes du genre à envoyer une armée de chair à canon à l'assaut de vos ennemis ? Vous cherchez des solaires plus puissants ? Vous désirez invoquer des spectateurs à la place de ces ridicules vers charognards ? Vous préférez les vampires aux wivernes et regrettez que vos mort-vivants ne soient pas un peu plus costauds ? Ce mod est fait pour vous !",
         "urls": [
-            "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Improved_Summons.rar",
             "https://github.com/Plutonium-X/SORTS_Summons"
         ],
         "categories": [
@@ -17813,15 +17820,20 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Wu Min"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2008-01",
+        "tp2": "Jedi&Sith"
     },
     {
         "name": "Jester song enhancement",
@@ -18249,7 +18261,7 @@
         "safe": 0,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2001-03",
         "tp2": "non-weidu"
     },
     {
@@ -19408,7 +19420,7 @@
         "name": "Level 40 Extended Tables",
         "description": "Ce mod vous permet de tirer pleinement partie du mod [[Level 40 Rule Set in BG:EE]]. Il étend les tables de progression des capacités des personnages (fichiers 2da).",
         "urls": [
-            "https://sorcerers.net/Games/IWD2/index_editors.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/ExtendedTables40.zip"
         ],
         "categories": [
             "Gameplay"
@@ -19425,7 +19437,7 @@
         "safe": 0,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2005-10",
         "tp2": "non-weidu"
     },
     {
@@ -19476,7 +19488,7 @@
         "name": "Level 40 XP Patcher",
         "description": "Ce mod vous permet de patcher le fichier IWD2.exe pour atteindre le niveau 40 dans IWD2. Une fois installé, vous devrez aussi installer le mod [[Level 40 Extended Tables]] qui étend les tables de progression des capacités des personnages (fichiers 2da).",
         "urls": [
-            "https://sorcerers.net/Games/IWD2/index_editors.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/XPCapper.zip"
         ],
         "categories": [
             "Gameplay"
@@ -19493,14 +19505,14 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2004-02",
+        "tp2": "xpcapper"
     },
     {
         "name": "Level 40 rules for Icewind Dale by TeamBG",
         "description": "Ce mod vous permet d'atteindre le niveau 40 dans IWD.",
         "urls": [
-            "https://sorcerers.net/Games/IWD/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/IWD_lvl40.zip"
         ],
         "categories": [
             "Gameplay"
@@ -19515,14 +19527,14 @@
         "safe": 0,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2000-07",
         "tp2": "non-weidu"
     },
     {
         "name": "Level 8 & 9 Mage Spells by TeamBG",
         "description": "Ce mod modifie cinq parchemins de sort (Esprit impénétrable, Nuage incendiaire, Mot de pouvoir tueur, Convocation de monstres VI et Convocation de monstres VII) afin de vous permettre de les apprendre.",
         "urls": [
-            "https://sorcerers.net/Games/IWD/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/iwd_mage8-9.exe"
         ],
         "categories": [
             "Sort et objet"
@@ -19539,7 +19551,7 @@
         "safe": 0,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2000-07",
         "tp2": "non-weidu"
     },
     {
@@ -19759,7 +19771,7 @@
     },
     {
         "name": "Lol's RezMod",
-        "description": "Réalisé par Lollorian, ce pack regroupe plusieurs anciens mods convertis au format WeiDU et proposés sous forme de composants indépendants :|- <a href=\"https://sorcerers.net/Games/BG2/index_mods_hosted_misc3.php\">Masamune sword mini-mini-quest</a> (de ShadowDaemon) : une petite quête qui s'étend jusqu'au ToB vous permettra de faire forger une épée d'enfer.|- <a href=\"https://sorcerers.net/Games/BG2/index_mods_hosted_misc2.php\">Improved Anarg</a> (de knightlight) : Anarg, le chef des Paladins déchus, possède un casque qui l'immunise à de nombreux effets, et le rend donc plus coriace à neutraliser. Mais la récompense sera à la hauteur des risques pris...|- Animations des pierres ioniques étendues (de WoRm) : les pierres ioniques ajoutés par de nombreux mods bénéficieront des animations de pierre tournant autour de la tête de leur possesseur.|- Plus d'autres composants de confort...",
+        "description": "Réalisé par Lollorian, ce pack regroupe plusieurs anciens mods convertis au format WeiDU et proposés sous forme de composants indépendants :|- <a href=\"https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/masamune.zip\">Masamune sword mini-mini-quest</a> (de ShadowDaemon) : une petite quête qui s'étend jusqu'au ToB vous permettra de faire forger une épée d'enfer.|- <a href=\"https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/anarg.rar\">Improved Anarg</a> (de knightlight) : Anarg, le chef des Paladins déchus, possède un casque qui l'immunise à de nombreux effets, et le rend donc plus coriace à neutraliser. Mais la récompense sera à la hauteur des risques pris...|- Animations des pierres ioniques étendues (de WoRm) : les pierres ioniques ajoutés par de nombreux mods bénéficieront des animations de pierre tournant autour de la tête de leur possesseur.|- Plus d'autres composants de confort...",
         "urls": [
             "https://github.com/omni-axa/RezMod"
         ],
@@ -19820,7 +19832,7 @@
         "name": "Lord Draco Vlasavius",
         "description": "Il s'agit d'un personnage pré-tiré pour IWD. Lord Draco Vlasavius est un guerrier humain loyal neutre de niveau 14 avec un équipement magique de qualité. Ses caractéristiques : 175 PV, CA -11, FOR 21, DEX 19, CON 18, INT 10, WIS 14 et CHA 11.",
         "urls": [
-            "https://sorcerers.net/Games/IWD/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/draco.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -19835,8 +19847,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2000-08",
+        "tp2": "non-weidu"
     },
     {
         "name": "Lord of the Rings Item Pack",
@@ -20077,7 +20089,7 @@
         "name": "Luizmods",
         "description": "Ce mod propose un profil de guerrier, le Blackguard (\"Chevalier noir\") et de nouveaux portraits. Vous pourrez aussi modifier l'apparence de la Robe de Vecna, déplacer le Sac de contenance au début du jeu et utiliser des scripts d'IA pour votre groupe. Tous ses composants peuvent être installés séparément.",
         "urls": [
-            "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php"
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/LuizMods.rar"
         ],
         "categories": [
             "Gameplay"
@@ -20440,7 +20452,7 @@
     },
     {
         "name": "Magic Battles Revised",
-        "description": "Révision du très vieux mod \"<a href=\"http://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php\">Mage Duel</a>\", ce mod s'efforce d'écourter les batailles magiques et de les rendre plus agréables et sensibles. Il s'adresse donc à la fois à tous ceux qui trouvent les combats de [[Sword Coast Stratagems]] bien trop longs et compliqués, et à ceux qui trouvent les combats non moddés trop faciles ou un peu incohérents. Il s'efforce donc de rendre utiles les défenses contre les sorts, préserver l'idée que les utilisateurs de magie peuvent être très puissants, voire temporairement invincibles, tout en donnant aux mages adverses des outils efficaces pour surmonter cette invincibilité et permettre aux batailles de magie d'être résolues de manière assez rapide, décisive et satisfaisante.|Rassurez-vous, l'objectif ne change pas : il faut attaquer les défenses des sorts jusqu'à ce qu'elles disparaissent, puis attaquer le mage.|Ce mod doit être installé après les mods de sorts comme [[Spell Revisions]], [[IWDification]] et [[Sword Coast Stratagems]].",
+        "description": "Révision du très vieux mod \"<a href=\"https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/MageDuel12.zip\">Mage Duel</a>\", ce mod s'efforce d'écourter les batailles magiques et de les rendre plus agréables et sensibles. Il s'adresse donc à la fois à tous ceux qui trouvent les combats de [[Sword Coast Stratagems]] bien trop longs et compliqués, et à ceux qui trouvent les combats non moddés trop faciles ou un peu incohérents. Il s'efforce donc de rendre utiles les défenses contre les sorts, préserver l'idée que les utilisateurs de magie peuvent être très puissants, voire temporairement invincibles, tout en donnant aux mages adverses des outils efficaces pour surmonter cette invincibilité et permettre aux batailles de magie d'être résolues de manière assez rapide, décisive et satisfaisante.|Rassurez-vous, l'objectif ne change pas : il faut attaquer les défenses des sorts jusqu'à ce qu'elles disparaissent, puis attaquer le mage.|Ce mod doit être installé après les mods de sorts comme [[Spell Revisions]], [[IWDification]] et [[Sword Coast Stratagems]].",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/33351-magic-battles-revised-streamlined-rules-for-mage-duels/",
             "https://github.com/UnearthedArcana/magic_battles_revised/"
@@ -21074,7 +21086,7 @@
         "name": "Custom dll Fixes And Tweaks",
         "description": "Ce mod apporte des modifications de règles à IWD2 : les paladins de Mystra peuvent se multi-classer en mage et sorcier, les paladins de Helm en Clerc de Helm, les moines peuvent porter des robes et conserver leur bonus de sagesse à la CA, les codes de triches sont implantés, possibilité de sauvegarder les points de compétence entre plusieurs montées de niveau... Pour plus d'information, lire <a href=\"https://sorcerers.net/community/threads/bug-fixing.26533/\">ceci</a>.|Vous pouvez personnaliser l'installation en modifiant les paramètres du fichier config.txt.",
         "urls": [
-            "https://sorcerers.net/Games/IWD2/index_editors.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/IWD2Custom.rar"
         ],
         "categories": [
             "Gameplay"
@@ -21091,8 +21103,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-07",
+        "tp2": "Ouinja Patcher"
     },
     {
         "name": "Minerva NPC",
@@ -22891,7 +22903,7 @@
         "name": "New Starting Parties",
         "description": "Il s'agit d'un groupe pré-tiré lorsqu'on lance une nouvelle partie. Il est composé uniquement de roublards, que vous pouvez multi-classer toutefois.",
         "urls": [
-            "https://sorcerers.net/Games/IWD2/index_mods2.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/IWD2-parties.rar"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -22908,8 +22920,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-03",
+        "tp2": "non-weidu"
     },
     {
         "name": "New Tales of the Sword Coast (Nowe Opowieści z Wybrzeża Mieczy)",
@@ -23203,7 +23215,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2003-01",
         "tp2": "non-weidu"
     },
     {
@@ -23268,7 +23280,7 @@
         "name": "No Wear Limitations Mod",
         "description": "Ce petit fichier (itemexcl.2da) à placer dans le répertoire override du jeu vous permet de porter tout type d'objet accordant des bonus à la CA.",
         "urls": [
-            "https://www.sorcerers.net/Games/BG/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=BG&f=BG/Itemexcl.zip"
         ],
         "categories": [
             "Gameplay"
@@ -23288,7 +23300,7 @@
         "safe": 0,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2003-07",
         "tp2": "non-weidu"
     },
     {
@@ -24803,7 +24815,7 @@
         "name": "Planescape: Torment Portraits",
         "description": "Il s'agit d'une collection de 33 portraits de personnages de Planescape: Torment (Annah, Dak'kon, Sans Nom, Vhailor etc.) que vous pouvez assigner à votre groupe.",
         "urls": [
-            "https://sorcerers.net/Games/IWD/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/torment_port.zip"
         ],
         "categories": [
             "Portrait et son"
@@ -24823,7 +24835,7 @@
     },
     {
         "name": "Planescape: Torment Ultimate WeiDU Fixpack",
-        "description": "Créé par Paul Escalona (alias Qwinn), ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: \"<a href=\"https://sorcerers.net/Games/Torment/Platter/index.php\">Platter's Fixpack 1.37</a>\", dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses ; \"<a href=\"https://sorcerers.net/Games/Torment/index_mods.php\">Restoration Pack</a>\", par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST) et \"SKARDAVNELNATE'S All-Inclusive Fixpack\", par SKARDAVNELNATE.|Notez que même si ce mod ne contient que des corrections de bogues, plusieurs de ces corrections ont pour résultat de restaurer du contenu non disponible dans le jeu original.|Il comprend trois composants : le premier comporte les principales corrections, le deuxième les corrections d'orthographe et de grammaire anglaise, le troisième rajoute des sous-titres aux dialogues des cinématiques qui étaient auparavant uniquement sous forme de dialogue audio/sonore.",
+        "description": "Créé par Paul Escalona (alias Qwinn), ce mod rassemble les corrections réalisées par de nombreux moddeurs au fil des années, et converties au format WeiDU, plus compatible. Il ajoute également un bon nombre de corrections supplémentaires. En plus des nouvelles corrections faites par Qwinn, les corrections issues de trois mods non-WeiDU ont été intégrées dans ce mod: \"<a href=\"https://sorcerers.net/Games/Torment/Platter/index.php\">Platter's Fixpack 1.37</a>\", dont Platter est l'auteur principal, mais qui contient aussi les travaux de plusieurs autres contributeurs. Les corrections du Fixpack Beta 1.38, toujours de Platter, sont également incluses |[[Restoration Pack]], par Cilantro, alias Kung Fu Man (qui restaure plusieurs sorts, objets et autres, qui avaient été supprimés de la dernière version de PST).|\"SKARDAVNELNATE'S All-Inclusive Fixpack\", par SKARDAVNELNATE.|Notez que même si ce mod ne contient que des corrections de bogues, plusieurs de ces corrections ont pour résultat de restaurer du contenu non disponible dans le jeu original.|Il comprend trois composants : le premier comporte les principales corrections, le deuxième les corrections d'orthographe et de grammaire anglaise, le troisième rajoute des sous-titres aux dialogues des cinématiques qui étaient auparavant uniquement sous forme de dialogue audio/sonore.",
         "urls": [
             "http://www.shsforums.net/files/file/647-PST-ultimate-weidu-fixpack-v413/",
             "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/pstfixpack_v413_correctfr.7z"
@@ -25065,7 +25077,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2003-01",
         "tp2": "non-weidu"
     },
     {
@@ -25171,7 +25183,7 @@
         "name": "PnP Kit Requirements, Half-Orcs, Spells and Charisma",
         "description": "Ce petit mod modifie  les pré-requis de profils, la race de semi-orque, les tables de progression des sorts et de modification de scores de Charisme pour les rendre conformes aux règles papier.",
         "urls": [
-            "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php"
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Fels_PnP.rar"
         ],
         "categories": [
             "Gameplay"
@@ -25188,7 +25200,7 @@
         "safe": 0,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2006-04",
         "tp2": "non-weidu"
     },
     {
@@ -25470,7 +25482,7 @@
         "safe": 0,
         "languages": [],
         "status": "embed",
-        "last_update": "",
+        "last_update": "2000-03",
         "tp2": "n/a"
     },
     {
@@ -25711,7 +25723,7 @@
         "name": "Pseudo 3E Conversion Pack",
         "description": "Ce mod propose une collection d'ajustements permettant d'établir les règles de jeu de D&D 3e édition dans IWD : bonus et pénalités raciales, restriction des alignements pour les rôdeurs, les bardes et les druides, modifications des effets des caractéristiques des personnages sur le TAC0, les dégâts, la CA, le nombre de PV, modification de la table de progression de niveau...",
         "urls": [
-            "https://sorcerers.net/Games/IWD/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/P3ECP.rar"
         ],
         "categories": [
             "Gameplay"
@@ -25719,17 +25731,19 @@
         "games": [
             "IWD"
         ],
-        "authors": [],
+        "authors": [
+            "Grog"
+        ],
         "team": [],
         "notes": [
-            "Ce mod écrase certains fichiers 2da. Préférez-lui d'autres mods."
+            "Ce mod écrase certains fichiers. Préférez-lui d'autres mods."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-04",
+        "tp2": "p3ecp"
     },
     {
         "name": "Psionics Unleashed",
@@ -25888,7 +25902,7 @@
     },
     {
         "name": "Qwinn's Planescape: Torment Tweak Pack",
-        "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[Power Action Leprechaun Annah]], <a href='https://sorcerers.net/Games/Torment/Platter/index.php?page=mods' target='_blank'>Easter Egg Morte</a>, repos quelle que soit la zone (non recommandé), grimoire de triche (non recommandé) et <a href='https://sorcerers.net/Games/Torment/Platter/index.php?page=mods' target='_blank'>Dustman Robe</a>.",
+        "description": "Ce mod ajoute 19 modifications et améliorations qui facilitent l'utilisation de PsT ou corrigent certains problèmes qui ne sont pas considérés comme des bogues : accélérateur de dialogue (FORTEMENT recommandé), affichage du TAC0 comme dans BG2, anneaux, charmes, bracelets et parchemins empilables, sauvegarde rapide/chargement rapide (non recommandé), exploration des zones urbaines, l'Échelle des Âmes, sauvez Nordom !, statistiques minimales désactivées, points de vie gagnés par niveau maximisés pour Sans-Nom et le groupe, effet du sort d'Amitié maximisé, pas de musique de bataille, utilisation généralisée de la police des textes flottants, identification de tous les objets, apparition de Glabrezu en début de jeu, [[Power Action Leprechaun Annah]], [[The Ultimate Easter Egg (Morte)]], repos quelle que soit la zone (non recommandé), [[Tome o' Cheats]] (non recommandé) et <a href='https://sorcerers.net/Games/Torment/Platter/index.php?page=mods' target='_blank'>Dustman Robe</a>.",
         "urls": [
             "http://www.shsforums.net/files/file/649-qwinns-pst-tweak-pack-v412/",
             "https://mirandir.baldursgateworld.fr/pst-guide-installation/files/psttweak_v412_correctfr.7z"
@@ -26735,7 +26749,6 @@
         "name": "Restoration Pack",
         "description": "Ce mod réintroduit des éléments supprimés lors de la sortie de PsT : sorts, objets, entrées de bestiaire...",
         "urls": [
-            "https://sorcerers.net/Games/Torment/index_mods.php",
             "https://sorcerers.net/Games/dl.php?s=PST&f=Torment/restoration.rar"
         ],
         "categories": [
@@ -26749,13 +26762,14 @@
         ],
         "team": [],
         "notes": [
-            "Ce mod écrase les fichiers, dont le fichier dialog.tlk et ne peut pas être désinstallé. Il restaure donc le jeu en langue française. Ne l'installez pas et évitez-le comme la peste !"
+            "Ce mod écrase les fichiers, dont le fichier dialog.tlk et ne peut pas être désinstallé. Il restaure donc le jeu en langue française. Ne l'installez pas et évitez-le comme la peste !",
+            "Ce mod est inclus dans [[Planescape: Torment Ultimate WeiDU Fixpack]]."
         ],
         "translation_state": "no",
         "safe": 0,
         "languages": [],
-        "status": "active",
-        "last_update": "",
+        "status": "embed",
+        "last_update": "2005-11",
         "tp2": "non-weidu"
     },
     {
@@ -27957,7 +27971,7 @@
         "name": "Samurai Kit",
         "description": "Les samouraïs sont des guerriers professionnels, membres de la classe noble, formés aux arts de la guerre. Ils ne sont pas seulement formés pour leur rôle dans la société, ils sont nés dans un système d'allégeance, de loyauté et d'honneur qui influence chaque étape de leur vie. Un samouraï détaché de ce système n'est plus un samouraï ; c'est un combattant ordinaire, un ronin sans honneur et sans statut dans la société.",
         "urls": [
-            "https://www.sorcerers.net/Games/BG2/index_mods_hosted_misc.php",
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Samurai_Kit.rar",
             "https://github.com/Greener-Mods/Samurai-Kit"
         ],
         "categories": [
@@ -29715,7 +29729,7 @@
         "name": "Slowdown Fixes",
         "description": "Ce mod avait pour ambition de résoudre les problèmes de ralentissement du jeu dans certaines zones, comme la jungle ou l'Œil du dragon : les mouvements ne sont pas fluides, semblent s'arrêter toutes les secondes ou presque, ce qui rend le jeu difficile et ennuyeux.|Tout le monde ne rencontre pas ces problèmes. Ils peuvent être liés à des problèmes matériels, tels que le processeur, le chipset, le type de mémoire vive, ou autre. Ils pourraient également être liés à la façon dont l'inventaire des membres de votre groupe est organisé...",
         "urls": [
-            "https://sorcerers.net/Games/IWD2/index_editors.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/IWD2_Slowdown_Fix.zip"
         ],
         "categories": [
             "Patch non officiel"
@@ -29733,7 +29747,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2002-12",
         "tp2": "non-weidu"
     },
     {
@@ -29967,7 +29981,7 @@
         ],
         "authors": [
             "CamDawg",
-            "Polar Bear",
+            "PolarBear",
             "Drizzt1180",
             "Creslyn"
         ],
@@ -30674,7 +30688,7 @@
         "name": "Subraces pack",
         "description": "Ce mod ajoute deux nouvelles sous-races, les \"sun and wood\" elfes (elfes de soleil et elfes des bois), aux 6 sous-races déjà présentes (humain, aasimar, tiefelin, elfe de la lune, drow, elfe sauvage).",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6IjJNajdMVW9iRVFtNVh1OWpHNFJLRmc9PSIsInZhbHVlIjoiNHROXC9CTDJ1ZVk2aGU5Z2cxQkJwdnZKSktybGJQckZrbGdESjlSN1I2K3M9IiwibWFjIjoiZGRjZDZiOWUwM2Q0MDQ2ZTg4MDU1NzE3MGE3NmFhZGUyYjgzYTZjZjQxNDkwOTE4YmI1M2EyNzQ3YzRkM2YxMSJ9"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/IWD2-subraces.zip"
         ],
         "categories": [
             "Gameplay"
@@ -31189,7 +31203,7 @@
         "name": "Sylvan Mystic Kit",
         "description": "Ce mod ajoute le profil de Mystique sylvain, un ancien Ordre de rôdeur elfes et demi-elfes de Féérune, spécialisés dans la lutte contre les mages maléfiques et les flagelleurs mentaux.",
         "urls": [
-            "https://sorcerers.net/Games/BG2/index_mods_hosted_misc3.php"
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/SylvanMystic.zip"
         ],
         "categories": [
             "Kit"
@@ -31199,17 +31213,17 @@
             "BGT"
         ],
         "authors": [
-            "Polar Bear"
+            "PolarBear"
         ],
         "team": [],
         "notes": [
             "Ce mod a été converti en WeiDU et intégré dans [[The Sorcerer's Place Collection]]."
         ],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 0,
         "languages": [],
         "status": "embed",
-        "last_update": "",
+        "last_update": "2001-10",
         "tp2": "non-weidu"
     },
     {
@@ -31644,7 +31658,7 @@
         "name": "Targos-Be-Gone",
         "description": "Pour ceux qui sont fatigués de parcourir le tutorial complet de IWD 2, voici une sauvegarde de jeu qui vous permet de commencer avec un groupe niveau 3, en dehors de la Palissade, avec le maximum d'or et d'expérience possible. Le groupe proposé, La Fraternité des Lames Errantes, n'est composé que de personnages féminins, bien équilibrés. Comme il ne s'agit en réalité que d'une sauvegarde de jeu, cela n'ajoute en revanche aucun banter. Il est toujours possible de modifier les personnages avec [[Dale Keeper]].",
         "urls": [
-            "https://sorcerers.net/Games/IWD2/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/Targos-Be-Gone.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -33626,7 +33640,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2000-04",
         "tp2": "n/a"
     },
     {
@@ -34192,7 +34206,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2001-12",
         "tp2": "non-weidu"
     },
     {
@@ -35991,23 +36005,26 @@
         "name": "Unrestricted Ankheg Plate",
         "description": "Ce mod écrase le fichier ITEMEXCL.2DA pour permettre aux personnages de porter un équipement de protection (anneau, cape ou amulette) en même temps que l'armure d'ankheg.",
         "urls": [
-            "https://sorcerers.net/Games/BG/index_mods2.php"
+            "https://sorcerers.net/Games/dl.php?s=BG&f=BG/unrestricted-ankheg.zip"
         ],
         "categories": [
             "Sort et objet"
         ],
         "games": [
+            "BG",
             "BGEE",
             "SoD"
         ],
-        "authors": [],
+        "authors": [
+            "OtisTDog"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "2007-01",
         "tp2": "non-weidu"
     },
     {
@@ -37034,7 +37051,7 @@
         "name": "Water's Edge Party",
         "description": "Il s'agit groupe pré-composé (la \"compagnie du vent murmurant\"), ayant pour thème NWN. Ajout d'un portrait personnalisé pour le mage.",
         "urls": [
-            "https://sorcerers.net/Games/IWD2/index_mods2.php"
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/waters_edge.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -37288,7 +37305,7 @@
         "name": "Werewolf & Dragon Characters",
         "description": "Il s'agit de deux personnages très puissants pré-tirés pour IWD, avec leur portrait.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6ImFUa0pUWGFvbmRmUnlxUkNiM2RhK2c9PSIsInZhbHVlIjoiMTVRYm1KT0k3eEQ2UTBnMCtMTVlkVWpsTk5EVVJUWk80TXdZM2ZCNUNSST0iLCJtYWMiOiJjM2M4ODI0OTIzYzliMmI4NDFhZWFkMzM4OWE5ZWRkOGFlMGQ0ZTA3YzJjNzgzZDQzZmIyYzExMGQ5Y2EwOGRkIn0="
+            "https://sorcerers.net/Games/dl.php?s=IWD&f=IWD/werev_dragon.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -37345,7 +37362,7 @@
         "name": "Whispering Wind Party + Installer & Portrait",
         "description": "Ce mod ajoute un nouveau groupe préfabriqué lorsqu'on lance une nouvelle partie. Il est composé uniquement de roublards, que vous pouvez multi-classer toutefois.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6ImRBVEkwWjlUOEo1UXJZVnNOMm1HS1E9PSIsInZhbHVlIjoiakpzK3ZyQ3RzcUxVZUtwcE9lN05IT0VmZEhNMDI0dFEzeHl3QVF3aHI4Yz0iLCJtYWMiOiIwNmYyM2E4MmY0YzY3MzI1ZjFkNTc1YWZhNmE0ZmQ3OTQwZjY2MTJmMGFmODBkNGE0ZDRhOTJhODFmMzA4NzE0In0="
+            "https://sorcerers.net/Games/dl.php?s=IWD2&f=IWD2/drowling_party.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -47308,7 +47325,7 @@
         "name": "Felinoid's BG1 NPC Remix Pack",
         "description": "Ce mod propose de modifier les personnages de BG1 pour rendre leurs compétences plus conformes à leur histoire et leur classe.|On y retrouve notamment Alora, Branwen, Coran, Imoen, Quayle, Safana, Skie et Tiax.",
         "urls": [
-            "https://sorcerers.net/Games/BG/index_mods.php"
+            "https://sorcerers.net/Games/dl.php?s=BG&f=BG/BG1_NPC_Remix.zip"
         ],
         "categories": [
             "PNJ (autre)"
@@ -47396,7 +47413,7 @@
         "name": "The Four",
         "description": "Ce mod ajoute 4 objets dans le jeu, chacun protégés par un groupe d'ennemis coriaces. Les objets sont puissants mais imposent également des malus pour les équilibrer.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6Ik9ieVY5eTFOeU4rNzhVeENwcHhqSWc9PSIsInZhbHVlIjoiVkMwNkxrSkxkdU1SXC9Id2ZobVNTR0lFbXNHRnFDTDc5RStWZk0xT1JVSWc9IiwibWFjIjoiZWUzZDQ0YjAwNDI4MmY5OTBlNWRhMzFjYzJlZmI4MThmYTBhMmIzY2E5ZTg3NTI0ODY0MzU1Mjc0NDQzZDdmNyJ9"
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/TheFour.rar"
         ],
         "categories": [
             "Sort et objet"
@@ -47931,7 +47948,7 @@
         "name": "Custom Items Collection",
         "description": "Ce mod ajoute de nombreux objets au magasin de Joluv et Deidre.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6IlorRWxTa1ZNb3NYalJMblFLenhISVE9PSIsInZhbHVlIjoiUUpjNnp6dDRjSnJWZEdZNkN5MTg3UHN5bnZoYnJPbk01WjBJYTBmVFYrST0iLCJtYWMiOiI3NjA3YmY0MTIyMzYzOWY2MTU0YTg0ZmQxZDU1NzVmODQxNzdjODEzZGEwZTBiYWJlMTRiOTM3MDY0ZjdlZjJmIn0="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/custom_items.zip"
         ],
         "categories": [
             "Sort et objet"
@@ -47959,7 +47976,7 @@
         "name": "Stardust's Swords",
         "description": "Ce mod ajoute deux épées très puissantes à créer via la console : `S!swD` (Drain Blade, une épée longue +5) et `S!swN` (Netheril Blade, un katana +5).",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6IkFHeUh5MmMwSWUrWE9hbkt6MGtjRHc9PSIsInZhbHVlIjoic2ZzYkdFVHExM1BsSmlURVpoSlpxTytHSGxud2FhVnZPSTFtOTdZb29RaW1lSFNNUFo4MXpMT0dXTXZBZDliNCIsIm1hYyI6IjdhNWI4Y2FmYzc2ZDk1M2E5Y2UxZWFkOTAyZWMzOGE4NzlhOTM4ZmVmNzBhNmQxMmY5NjY2NjAwYzZjZGQzOTkifQ=="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Stardusts_Swords.rar"
         ],
         "categories": [
             "Sort et objet"
@@ -47983,7 +48000,7 @@
         "name": "Stinger",
         "description": "Ce mod ajoute une puissante épée longue à acheter à l'Auberge de Brasamical.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6IjlITnk1NGgyZldQTklnV0NZdnZuMlE9PSIsInZhbHVlIjoiaFc0T1RrUXJENDR5eWQrR01HcWFpVWFrNWw3bHN6UmJFUWgwQ2JVVG9cLzQ9IiwibWFjIjoiMGU3ZWZkNzY3MWIxMDU3YjBmOTA0Yzk0MTk4YmFmZjhkMjAwYzI3YTQ2ZDI4YTNmMTdjMDVlNTI3MWRlZmNmMyJ9"
+            "https://sorcerers.net/Games/dl.php?s=BG&f=BG/Stinger.rar"
         ],
         "categories": [
             "Sort et objet"
@@ -49951,7 +49968,7 @@
         "name": "Non-playable NPC Portrait-mod",
         "description": "Des portraits pour tous les personnages importants qu'il est possible de rencontrer dans le jeu.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6IjJsaDZMYURBMXI0MXlHbDFPb1FyZGc9PSIsInZhbHVlIjoiZUgrQ29BN1VTdldcL3lraFJsXC9yNFZEMENSY0FWU1ZWUGNrOGp2SVk5YzBURklIQ29uQzZQRzZUeVFcL3hXWFAwMCIsIm1hYyI6IjI0Y2YzNGRjMTIwZmY0YWI4MThmMjQxODBmNTdjNzUwOGZkM2FkYzYzN2JkZmY4YzJlZTAwZjg1MjIwNjExYzgifQ=="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/NPNPC_Portraits-mod.rar"
         ],
         "categories": [
             "Portrait et son"
@@ -50184,7 +50201,7 @@
         "name": "Reya",
         "description": "Un Kensaï/Mage féminin de niveau 50/50 avec 25 dans toutes les caractéristiques, suréquipée, protégée contre tout et avec \"Utilisation de tous les objets\". Portrait dénudé inclus.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6Induc0hnS1VDbUluK1dXMUhEYlc1bkE9PSIsInZhbHVlIjoiMkRGMzVxbVA5U094TFNwVXEyTW51NjFPNW1HRFZWSTFteUFuMTVNWjJhND0iLCJtYWMiOiI1OWRkZWNiZjQ1NzczNzEzZmViMGFiOTM2OTUwZmJjOGQzYTZlNmJkNzEzYTU0ZDZkMDZjMTYzZDU5ODQ4NDU0In0="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Reya.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50207,13 +50224,13 @@
         "languages": [],
         "status": "active",
         "last_update": "2003-08",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Character Collection",
         "description": "De nombreux personnages originaux comme Chevalier de la mort, Gorion, Korax, Slythe, Ulcaster, Merlin, Dradeel, Aec'Letec, et plein d'autres. À noter que leurs compétences martiales ne sont pas fixées, c'est à vous de les choisir.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6IjdYb0dWRjZVemxDSVpSMUhtRlV4RGc9PSIsInZhbHVlIjoiZ0QzWVwvc3FnaUFqZDZTQnUzMmk4TUlqc202YnRQTW5lN1wvVGdcL2ZVY2FxOD0iLCJtYWMiOiI3NTY1NzMzYTM1YmYyYjJlZTAwYzU1NzBjZTJiNDZhMWI1ZDMwNWNhNjc0ZTgwZjQyMDZkZDg4NDg4MjU1ODczIn0="
+            "https://sorcerers.net/Games/dl.php?s=BG&f=BG/TeamBG2.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50244,7 +50261,7 @@
         "name": "Drizzt Characters",
         "description": "Permet de jouer Drizzt Do'urden, Artemis Entreri et Guenhwyvarb. Attention si vous voulez jouer Drizzt, lisez la note.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6InhuT1JsMEtjY1J0bktTQUw3dmNWT3c9PSIsInZhbHVlIjoiR1hLb2tKaEtuTzdiT3RNMnNTSUhvUG9KTlB4dXJJS1cyQ1JTRVhmZGM2NnhIbDFScnpCejZ4cjVicytxVllwSiIsIm1hYyI6ImEzYTZjNzZiYjllMGJiMTY2NDNlMGViNDk2MTM5ZGExM2EzYWZlZTNlNmY0N2Q1NjZiMmRkMjEyZGQyM2EyNzMifQ=="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Drizzt_Characters.rar"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50305,7 +50322,7 @@
         "name": "Nicolas' Character",
         "description": "Un berserker humain légal de niveau 22. Ses niveaux surnaturels et ses statistiques proviennent des tomes de BG et des tests finaux en Enfer. C'est un personnage ToB et il porte également un certain nombre de bons objets.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6IkVicUVxc1wvUHNZVmtYM1ltYlFUWmh3PT0iLCJ2YWx1ZSI6IllVMmJNblpSVE5iZ1FWSHlpbEVwaVJTa0tKWlpqSFwvSHVyWWlkZ1paOUxBPSIsIm1hYyI6ImNhZmU0N2I1ZTdiMjBlZTM0MzEwNDE0NTYyMjMxMWQ2NjQyNGJjODg4OTA0YWRkNzc1MTBmODNlNGMwNmI3ZDQifQ=="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Aragorn_char.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50326,7 +50343,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2003-05",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Sarevok",
@@ -50349,19 +50366,21 @@
             "Eric"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Url incorrect."
+        ],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2003-04",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Raistlin Majere",
         "description": "Un personnage basé sur le personnage de Dragonlance Raistlin Majere. Il est livré avec une biographie complète, des portraits, une voix et des objets.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6Iml4NW9lTHFQWExpXC8wbzhnR0RjVUR3PT0iLCJ2YWx1ZSI6IjB0aVg1cXVrXC9rZWQzOVZWblBFSzlQbDA3VElybFFZN05QTEgzOEZVZmJZPSIsIm1hYyI6Ijg5NzAzZDA2ZGFjOTlhNmExMzNjM2U2NDk4ODUwNTlmYzBlYzA0M2FkOTA4YTAxMTJiNTVhMGY4ZGIzZjRhOTEifQ=="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Raistlin.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50384,13 +50403,13 @@
         "languages": [],
         "status": "active",
         "last_update": "2003-03",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Twin Blades Character Pack",
         "description": "Ce pack de personnages contient 6 membres de la Compagnie des Lames Jumelles : Shara (Kensaï-mage humain), Garret (Kensaï-voleur humain), Falcon (Rôdeur elfe), Damon Smithson (Clerc de Lathandre humain), Lorna (Ensorceleuse demi-elfe) et Morian (Skalde nain). Tous les personnages disposent d'un certain nombre d'objets et d'armes spéciaux, ainsi que d'une biographie unique.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6ImVScmFPS2FpMUdkb1FrV3VKQTZwUnc9PSIsInZhbHVlIjoiOTR5MlNGSmtDcjJTU3g3RlZzd2diT0tocHhMMFNJMDhZZHliZ3JqazU4cU9hbzgxVVEyS1pJamd1Sjc1R1ZHUyIsIm1hYyI6IjcxNzViY2E4NmQxNDc4ZThmZjViYmMxZTlhZjc3NDhmNTY5YjgyMWMxMWU5NzMyZTVkZDJjMTdiYmI1YmQwNTQifQ=="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/TwinBladesCharPack.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50413,13 +50432,13 @@
         "languages": [],
         "status": "active",
         "last_update": "2003-03",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Irenicus",
         "description": "Un mage de niveau 30 avec l'animation d'Irenicus. Inclus son portait et son set de voix.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6IlhBT2lwYzI5Y3dBNlJjZ25UNG8yY3c9PSIsInZhbHVlIjoiejI2bDNpbldYb0dtVkZFVEZsUXRqakJPTjJYMTd1NFA2REZwY0pPUmpIQT0iLCJtYWMiOiIxMmIzMmJjMWE0MDk5ZGYyZjFjOTk2MzkwNWUxNzZiN2JjYWRiMjIzMTc5YWUwNjQxYWZhODZjNmNhYWY5OGQzIn0="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/irenicus.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50442,14 +50461,14 @@
         "languages": [],
         "status": "active",
         "last_update": "2002-04",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Dragon Ball Z Characters",
         "description": "Deux packs de 6 personnages venus de Dragon Ball Z avec leurs propres portraits et (quelques) sons.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6InhqbE4wUTZEN3J1b0xxWklsanFcL1lBPT0iLCJ2YWx1ZSI6InRVXC9cLzZyUVFJbHhYSjFpckVidWh5YUpYM0F3QlExcUlRdUdoaVBVZjVDMD0iLCJtYWMiOiIwMzNiYjhiN2ZkY2VjZjViZjBlMGVjOTdlNjg1MGEyM2FjZjM2MjQyZDhkZmI2YWI4M2Y0NjBlN2IxYjQxMzg0In0=",
-            "https://sorcerers.net/Games/dl/eyJpdiI6IjN4WkZLcnBsZzlPSVR5V3RuekFWWmc9PSIsInZhbHVlIjoidGF3ZlJpUzRCSitaUWdUUVg1cE9XOGhtZ1NONjdpZUcxUnRWVjN4ZHBRMD0iLCJtYWMiOiI1YjVmMTVkYzZlMTQ0ZjZlNzkxOWU3ZDRiODVkODZhNzY3NDBiMzFkYWUxOGJmZWJmYjQ1NDRmNWQwODc3ODE1In0="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/DBZChar.zip",
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/DBZChar2.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50472,13 +50491,13 @@
         "languages": [],
         "status": "active",
         "last_update": "2002-05",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Artemis",
         "description": "Un combattant demi-elfe LN (niveau 27) de Throne of Bhaal, entièrement équipé d'armes et d'objets de qualité. Le zip contient également un portrait et une biographie pour ce personnage.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6InRTelNXVkI1SWtNdlNyRVBxRlE0OWc9PSIsInZhbHVlIjoiVDg4OXRGZk1yR3BwZTM1MFpTVmdEckFHTDVKUXJNcHU3dHJXZWFNcTN5az0iLCJtYWMiOiIzZmI1NGYyYmQ0M2ZhZGYzMDgyZDVlZjNjMjViMDU0NGYwMjcwYjYzOTViODBlNjZkYzc5ZjdiYzAyM2ExZDQ4In0="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/Artemis.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50501,7 +50520,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2001-05",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Darren & Monkey",
@@ -50524,19 +50543,21 @@
             "Darren Sanderson"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Url incorrect."
+        ],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2001-04",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "The Rock Voice Pack & Char",
         "description": "Un fichier pour les fans de la WWF qui souhaiteraient jouer le champion de la WWF The Rock en tant que barbare dans BG2, afin d'apprendre aux vilains d'Amn à \"sentir ce que The Rock prépare\" tout en leur mettant la pâtée.|Malheureusement, la qualité de l'enregistrement est assez mauvaise, et le soundset ne contient que la moitié des wavs utilisés par le jeu.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6InlyT2FtSVg3a1wvTzNMckFSSk9Obld3PT0iLCJ2YWx1ZSI6IjgzeURzKzVhc3lZZW0rTlZiRVIyOUNseklhSHNDWU5GUkNvZDB2Sm9WT2M9IiwibWFjIjoiODEyNTY5NDFkZjllZTI2YTIzNDY5OGExODhiNDIzZjhkZjBkMmQ4YzMxMzViNjg3NTY1YjMzZTFlNzgyM2VlYiJ9"
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/TheRock.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50559,13 +50580,13 @@
         "languages": [],
         "status": "active",
         "last_update": "2001-02",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Ignus & Morte Custom Chars",
         "description": "Ignus et Morte, deux PNJ de Planescape : Torment ont été recréés pour fonctionner avec BG II. Ils sont tous deux accompagnés de leur portrait respectif et de sons personnalisés.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6IlFcLzlFQjE1TncxWFkrS0pSY0NPbjhRPT0iLCJ2YWx1ZSI6IjBuaWpjQmo3T0dUVjVpWWJmbW1iWjZCYklvU0c3VUl5MnkyUDdnTWIwcE09IiwibWFjIjoiZGY3NzIzZmE0NWJjNzc4ZjVhZmEyY2RhMTUxMDQ5N2RmZjk3NDQzMGFhMjgxOTBhZjg3NDk4YTJhMmIxYmM2YSJ9"
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/ptbg2.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50625,7 +50646,7 @@
         "name": "Rutkowski's NPC Conversion",
         "description": "Tous les compagnons de BG1 utilisables en tant que personnages à importer dans BG2.",
         "urls": [
-            "https://sorcerers.net/Games/dl/eyJpdiI6ImxkblBJOEVWMzdxUTJCNENGSmxUMkE9PSIsInZhbHVlIjoiRE1Sa3BrM3J3cFZRTDEwN2UwcjR4T1Y5TTF5clVMWk41NDltamJjUUI5az0iLCJtYWMiOiI0NmU0MzkwOWQ4YzAxMDFjNjI0ODU4OTExYWM2Yzg1NmQ3ZTExMTAzMjBjYjFlYWFhOGQzZmI4MmNkNzE3ZDIxIn0="
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/characters.zip"
         ],
         "categories": [
             "Personnalisation du groupe"
@@ -50648,7 +50669,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2003-06",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Renovation",
