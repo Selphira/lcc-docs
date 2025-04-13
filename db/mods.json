@@ -3886,8 +3886,10 @@
         "team": [
             "Corran001"
         ],
-        "notes": [],
-        "translation_state": "yes",
+        "notes": [
+            "Attention, la traduction française ne fonctionne pas (il manque un `~`) et mériterait d'être relue."
+        ],
+        "translation_state": "todo",
         "safe": 2,
         "languages": [
             "en",
@@ -9397,7 +9399,7 @@
     },
     {
         "name": "Derat's Unused Kits Pack (DUKP)",
-        "description": "Ce mod français regroupe tous les profils créés par Deratiseur. Vous y retrouverez avec plaisir le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Sorcelier (ensorceleur combattant), le Seigneur de guerre (kit pour jumelé guerrier-&gt;mage) et bien d'autres.|Son contenu évolue selon l'humeur de Deratiseur (ajout ou retrait de profils).",
+        "description": "Ce mod regroupe tous les profils créés par Deratiseur. Vous y retrouverez le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Seigneur de guerre (kit pour jumelé guerrier-&gt;mage) et bien d'autres.|Son contenu évolue selon l'humeur de Deratiseur (ajout ou retrait de profils).",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=19490",
             "https://github.com/Deratiseur/DUKP",
@@ -14039,8 +14041,10 @@
         "team": [
             "JohnBob"
         ],
-        "notes": [],
-        "translation_state": "yes",
+        "notes": [
+            "La traduction française n'est pas finie."
+        ],
+        "translation_state": "todo",
         "safe": 2,
         "languages": [
             "de",
@@ -17453,15 +17457,17 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Stephen Mackey"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2003-04",
+        "tp2": "ItmValueTweaks"
     },
     {
         "name": "Item changes for Defender of Easthaven and Blue Dragon Plate",
@@ -18949,7 +18955,7 @@
     },
     {
         "name": "L'interplan",
-        "description": "Ce mod français a été créé par Deratiseur. L'interplan est un magasin qui vend des objets magiques et plus d'une centaine de sorts originaux. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE.|L'installation de ce mod ajoute en tout 65 nouveaux sorts sélectionnables par l'ensorceleur.",
+        "description": "L'interplan est un magasin qui vend des objets magiques et plus d'une centaine de sorts originaux. Il se trouve sur la Promenade de Waukyne dans BG2, et est accessible via un objet à récupérer dans la caverne des yetis dans IWD:EE.|L'installation de ce mod ajoute en tout une centaine de nouveaux sorts sélectionnables par l'ensorceleur.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=31563",
             "https://github.com/Deratiseur/Interplan"
@@ -27672,7 +27678,9 @@
         "name": "Runic Bladesinger Elven Kit",
         "description": "Ce mod installe le profil de Chantelame runique, uniquement pour les guerrier elfes.",
         "urls": [
-            "https://baldur.cob-bg.pl/download/bg2/kits/Runiczny_v2.0.zip"
+            "http://www.shsforums.net/topic/57056-bwpv14/#entry565797",
+            "https://baldur.cob-bg.pl/download/bg2/kits/Runiczny_v2.0.zip",
+            "https://www.mediafire.com/file/gapml3rqa09xmpe/run.zip/file"
         ],
         "categories": [
             "Kit"
@@ -31399,17 +31407,14 @@
             "JohnBob"
         ],
         "notes": [
-            "Incompatible avec [[Spell Revisions]] et [[Made in Heaven - Encounters & Quests]].",
-            "Le premier lien est officiel mais non traduit.",
-            "La version github est non officielle mais la traduction française est présente."
+            "Incompatible avec [[Spell Revisions]] et [[Made in Heaven - Encounters & Quests]]."
         ],
-        "translation_state": "yes",
+        "translation_state": "no",
         "safe": 2,
         "languages": [
             "en",
             "cn",
-            "es",
-            "fr"
+            "es"
         ],
         "status": "active",
         "last_update": "2024-05",
@@ -35479,7 +35484,7 @@
             "Deratiseur"
         ],
         "notes": [
-            "La version officielle est disponible via premier lien mais elle nécessite un enregistrement. La seconde version, compatible EE et avec une traduction anglaise est téléchargeable via le lien github."
+            "La version officielle est disponible via premier lien mais elle nécessite un enregistrement. La seconde version, compatible EE et avec une traduction française est téléchargeable via le lien github."
         ],
         "translation_state": "yes",
         "safe": 2,
@@ -41679,7 +41684,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "yes",
+        "translation_state": "no",
         "safe": 2,
         "languages": [
             "en"
@@ -48501,7 +48506,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "n/a",
+        "translation_state": "no",
         "safe": 2,
         "languages": [
             "en"
@@ -50139,36 +50144,6 @@
         "status": "active",
         "last_update": "",
         "tp2": "DeaKn"
-    },
-    {
-        "name": "Runiczny Piesniarz Klingi",
-        "description": "Les Lames chanteuses de runes sont des défenseurs mystiques de la race elfique et de l'ordre éternel de Féérune. Leurs anciens pouvoirs sont capables d'empêcher la mort et la destruction, les guerres et les catastrophes naturelles.",
-        "urls": [
-            "http://www.shsforums.net/topic/57056-bwpv14/#entry565797",
-            "https://www.mediafire.com/file/gapml3rqa09xmpe/run.zip/file"
-        ],
-        "categories": [
-            "Kit"
-        ],
-        "games": [
-            "BG2",
-            "BGT"
-        ],
-        "authors": [
-            "Riklaunim"
-        ],
-        "team": [],
-        "notes": [
-            "Fichier `Runiczny_v2.0.zip `."
-        ],
-        "translation_state": "no",
-        "safe": 2,
-        "languages": [
-            "pl"
-        ],
-        "status": "active",
-        "last_update": "2003-11",
-        "tp2": "run"
     },
     {
         "name": "Archimage",
@@ -52100,10 +52075,10 @@
         ],
         "team": [],
         "notes": [
-            "Attention pour utiliser ce mod, vous devez renommer son répertoire et son weidu.exe en \"Uzilnpc\".|Ce mod est bugué, les nouveaux sorts n'ont ni noms ni descriptions."
+            "Attention pour utiliser ce mod, vous devez renommer son répertoire et son weidu.exe en \"Uzilnpc\".|Ce mod installe un fichier TLK en anglais."
         ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
