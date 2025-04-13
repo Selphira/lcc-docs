@@ -103,11 +103,12 @@ def main():
 
         # check tp2
         if mod["tp2"] not in ("", "n/a", "non-weidu"):
-            if mod["tp2"] in tp2s:
+            tp2_lower = mod["tp2"].lower()
+            if tp2_lower in tp2s:
                 print("🟡 TP2 doublon →", mod["tp2"])
                 nb_warnings += 1
             else:
-                tp2s.add(mod["tp2"])
+                tp2s.add(tp2_lower)
 
         # check languages
         for lang in set(mod["languages"]) - language_flags.keys():
