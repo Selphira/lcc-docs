@@ -2262,7 +2262,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -2295,7 +2294,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -2951,7 +2949,8 @@
             "IWDEE"
         ],
         "authors": [
-            "Jog"
+            "Jog",
+            "Badgert"
         ],
         "team": [
             "Le Marquis"
@@ -3243,7 +3242,7 @@
         "tp2": ""
     },
     {
-        "name": "Baldur's Gate Romantic Encounters Modification (BG1RE)",
+        "name": "Baldur's Gate Romantic Encounters Modification",
         "description": "Si vous êtes peu satisfait par les interactions disponibles dans BG1, si le [[The BG1NPC Project]] vous laisse parfois sur votre faim, ce mod devrait vous combler. C'est le pendant de son homonyme [[Romantic Encounters MOD for Baldur's Gate II]].|Il ajoute de nombreuses possibilités de romance passagère ou plus intense avec des personnages non recrutables du jeu, aussi bien pour les hommes que pour les femmes, avec parfois des mini-quêtes à la clé. Attention : une partie de ce mod est à contenu \"adulte\".",
         "urls": [
             "https://www.gibberlings3.net/mods/npcs/bg-romantic-encounters/",
@@ -3972,7 +3971,7 @@
             "se"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2024-12",
         "tp2": "tnt"
     },
     {
@@ -4663,7 +4662,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "bggo"
     },
     {
@@ -5160,7 +5159,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2025-04",
         "tp2": "BardicWonders"
     },
     {
@@ -5358,7 +5357,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "d2-script"
     },
     {
@@ -5392,7 +5391,7 @@
         "name": "Better Spell visual",
         "description": "Ce petit mod rend les effets visuels de divers sorts (en particulier les sorts d'abjuration comme Déviation des sorts et Renvoi des sorts, etc.) plus uniformes, moins vrillant pour les yeux, et plus facilement identifiables.",
         "urls": [
-            "https://github.com/Gibberlings3/Better-Spell-Visuals"
+            "https://github.com/subtledoctor/Better-Spell-Visuals"
         ],
         "categories": [
             "Cosmétique"
@@ -5568,7 +5567,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-04",
         "tp2": "n/a"
     },
     {
@@ -8015,7 +8014,7 @@
         "tp2": "coranbgfriend"
     },
     {
-        "name": "Corrected Calendar (mod for BG1 and SoA)",
+        "name": "Corrected Calendar",
         "description": "Selon l'auteur, dans le premier Baldur's Gate, nous sommes clairement au début de l'automne, mais le jeu commence le 2 Myrtul (l'équivalent du mois de mai). La suite se déroule à une saison indéterminée mais verdoyante, très probablement au printemps ou à l'été de l'année suivante. La campagne SoD doit donc se dérouler pendant l'hiver dans le Nord. Techniquement, le deuxième jeu commence aussi le 2 de Myrtul, mais c'est clairement un oubli, simplement une date non corrigée.|Ce mod modifie donc le calendrier des deux jeux pour mieux rendre compte de la cohérence de l'enchaînement des événements. CHARNAME quittera Château-Suif le 10 de Marpenoth (septembre) et se retrouvera dans le donjon d'Irenicus le 25 de Flamerule (juillet) l'année suivante.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/32894-corrected-calendar-mod-for-bg1-and-soa/"
@@ -8910,7 +8909,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2025-02",
         "tp2": "DarkHorizons"
     },
     {
@@ -8985,7 +8984,6 @@
             "es",
             "en",
             "fr",
-            "de",
             "it",
             "pl",
             "ru",
@@ -8997,10 +8995,11 @@
     },
     {
         "name": "Dark Tidings",
-        "description": "Depuis des milliers d'années, la flamme magique du phare de l'île d'Irphong guide les marins qui empruntent le canal d'Asavir... Jusqu'à aujourd'hui... La lueur du phare s'est subitement évanouie.|Depuis longtemps, des légendes circulent, l'île serait un repaire de pirates, ses alentours serviraient  de refuge aux terribles tortues-dragons et ses hauts fonds abriteraient des krakens.||Et bien ! Il n'y a qu'un seul moyen de découvrir les secrets du phare d'Irphong et l'origine de l'obscurité qui règne à présent que sa balise s'est éteinte, prendre la mer et mettre le cap vers l'île d'Irphong.|Dark Tidings est un mod de quête pour Baldur's Gate II.  L'aventure commence sur les quais d'Athkatla (à la taverne de la Bonté Marine) dès le début du jeu SoA.",
+        "description": "Depuis des milliers d'années, la flamme magique du phare de l'île d'Irphong guide les marins qui empruntent le canal d'Asavir... Jusqu'à aujourd'hui... La lueur du phare s'est subitement évanouie.|Depuis longtemps, des légendes circulent, l'île serait un repaire de pirates, ses alentours serviraient  de refuge aux terribles tortues-dragons et ses hauts fonds abriteraient des krakens.||Et bien ! Il n'y a qu'un seul moyen de découvrir les secrets du phare d'Irphong et l'origine de l'obscurité qui règne à présent que sa balise s'est éteinte, prendre la mer et mettre le cap vers l'île d'Irphong.|Dark Tidings est un mod de quête pour Baldur's Gate II. L'aventure commence sur les quais d'Athkatla (à la taverne de la Bonté Marine) dès le début du jeu SoA.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/36739-mod-dark-tidings-a-quest-mod-for-bg2",
-            "https://baldurs-gate.de/index.php?resources/dark-tidings.65/"
+            "https://baldurs-gate.de/index.php?resources/dark-tidings.65/",
+            "https://github.com/AciferBG/Dark-Tidings"
         ],
         "categories": [
             "Quête"
@@ -9015,15 +9014,22 @@
             "Acifer"
         ],
         "team": [
-            "JohnBob"
+            "JohnBob",
+            "Deratiseur"
         ],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de",
+            "en",
+            "fr",
+            "pl",
+            "cn"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": "tidings"
+        "last_update": "2025-04",
+        "tp2": "Ti`dings"
     },
     {
         "name": "Darkest Dungeon Soundset",
@@ -9122,7 +9128,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "Item_Pack"
     },
     {
@@ -9398,7 +9404,7 @@
         "tp2": "dendjelion"
     },
     {
-        "name": "Derat's Unused Kits Pack (DUKP)",
+        "name": "Derat's Unused Kits Pack",
         "description": "Ce mod regroupe tous les profils créés par Deratiseur. Vous y retrouverez le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Seigneur de guerre (kit pour jumelé guerrier-&gt;mage) et bien d'autres.|Son contenu évolue selon l'humeur de Deratiseur (ajout ou retrait de profils).",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=19490",
@@ -9432,7 +9438,7 @@
         "tp2": "Derats_kits"
     },
     {
-        "name": "Derat's Absolute Wacky Arcanists Pack",
+        "name": "Derat's Absolute Wacky Adventurers Pack",
         "description": "Au menu, uniquement pour les jeux EE, des dizaines d'arcanistes qui vous feront changer votre façon de jouer.||Le détail des kits est disponible en suivant le lien de téléchargement.",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=33790",
@@ -9460,7 +9466,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "Derats_dawap"
     },
     {
@@ -9855,13 +9861,11 @@
         "translation_state": "yes",
         "safe": 2,
         "languages": [
-            "cz",
             "en",
-            "fr",
-            "pl"
+            "fr"
         ],
         "status": "active",
-        "last_update": "2019-02",
+        "last_update": "2025-02",
         "tp2": "divine_remix"
     },
     {
@@ -10140,8 +10144,8 @@
         "description": "Anciennement SoD GUI Overhaul, ce mod réalisé par Pecca réarrange complètement l'interface de jeu de Siege of Dragonspear. Il intègre également (avec permission) des modifications d'interface d'autres contributeurs du forum de modification d'interface du forum officiel. Nécessite de jouer sans mise à l'échelle, avec un écran Full HD. Des effets inattendus sont à redouter autrement. Interface partiellement en anglais.||- La <a href=\"https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit\">version d'Anongit</a>, basée sur celle de Pecca / Renegade, elle se concentre sur la compatibilité avec EET et d'autres corrections.",
         "urls": [
             "https://forums.beamdog.com/discussion/50357/",
-            "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Anongit/releases/tag/Anongit",
-            "https://github.com/11jo/French-Translation_For_Dragonspear-UI_Artifox/releases/tag/Artifox"
+            "https://github.com/The-Gate-Project/French-Translation_For_Dragonspear-UI_Anongit/releases/tag/Anongit",
+            "https://github.com/The-Gate-Project/French-Translation_For_Dragonspear-UI_Artifox/releases/tag/Artifox"
         ],
         "categories": [
             "Interface"
@@ -10779,7 +10783,7 @@
         "tp2": "n/a"
     },
     {
-        "name": "Baldur's Gate: Enhanced Edition Trilogy Tweaks (EET Tweaks)",
+        "name": "Baldur's Gate: Enhanced Edition Trilogy Tweaks",
         "description": "Ce mod propose une collection d'ajustements pour les jeux IE. Bien que conçus à l'origine pour EET, certains de ces composants sont universels et peuvent fonctionner avec BG1, BG2, IWD, IWD2, Tutu, BGT, CA, IWD-in-BG2, BG:EE, BG2:EE et IWD:EE.|Il permet entre autres d'harmoniser l'apparence des PNJ recrutables pendant la trilogie ou de modifier la limitation d'XP. Lisez bien le <a href=\"http://htmlpreview.github.io/?https://github.com/K4thos/EET_Tweaks/blob/master/EET_Tweaks/readme-EET_Tweaks.html\">readme</a> pour plus de détails.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/27754-eet-tweaks-overview",
@@ -10804,12 +10808,13 @@
         "authors": [
             "K4thos"
         ],
-        "team": [],
-        "notes": [
-            "Certains composants sont repris du [[BGT Tweak Pack]] et donc redondants si vous souhaitez installer le mod...",
-            "La traduction française a été proposée par mickabouille mais n'est pas encore acceptée."
+        "team": [
+            "mickabouille"
         ],
-        "translation_state": "wip",
+        "notes": [
+            "Certains composants sont repris du [[BGT Tweak Pack]] et donc redondants si vous souhaitez installer le mod..."
+        ],
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "cz",
@@ -10817,7 +10822,8 @@
             "en",
             "pl",
             "ru",
-            "cn"
+            "cn",
+            "fr"
         ],
         "status": "active",
         "last_update": "2019-08",
@@ -11074,8 +11080,8 @@
         "tp2": ""
     },
     {
-        "name": "Edvin's Fixed items Mod",
-        "description": "Ce mini mod modifie 6 objets du jeu.",
+        "name": "Edvin's Fixed Items",
+        "description": "Ce mini mod modifie 6 objets du jeu : la Cape de déplacement, la Griffe de Kazgaroth, la Masse de Disruption, Boo, Chair Humaine +5 et le Ninja-to Violet.",
         "urls": [
             "https://forums.beamdog.com/discussion/46023/"
         ],
@@ -11600,7 +11606,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "EET;EET_end;EET_gui"
     },
     {
@@ -13436,7 +13442,6 @@
             "Tutu",
             "BGT",
             "BGEE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -13472,7 +13477,8 @@
             "BG2",
             "BGT",
             "BG2EE",
-            "EET"
+            "EET",
+            "Tutu"
         ],
         "authors": [
             "berelinde",
@@ -13743,7 +13749,7 @@
     },
     {
         "name": "Gerri's NPC Portraits Pack",
-        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalon's Questpack]], [[Assassinations]], [[Baldur's Gate Mini Quests and Encounters Modification]], [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[Baldur's Gate Romantic Encounters Modification (BG1RE)]], [[Romantic Encounters MOD for Baldur's Gate II]], [[Secret of Bone Hill]], [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
+        "description": "Fini les dialogues engagés avec des personnages sans visage ! Ce mod ajoute des portraits à de nombreux PNJ du jeu, ainsi qu'à ceux des principaux autres mods s'ils sont détectés : [[Ascalon's Questpack]], [[Assassinations]], [[Baldur's Gate Mini Quests and Encounters Modification]], [[The Big Picture]], [[Dark Side of the Sword Coast]], [[Dungeon Crawl]], Jan's Quest, [[Northern Tales of the Sword Coast]], [[Region of Terror]], [[Baldur's Gate Romantic Encounters Modification]], [[Romantic Encounters MOD for Baldur's Gate II]], [[Secret of Bone Hill]], [[The Stone of Askavar]], [[Tales of Anegh]], [[Tales of the Deep Gardens]], [[The Darkest Day]], et bien d'autres.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?threads/gerris-nsc-portraits.44541/",
             "https://github.com/gboeck/NSC-Portraits"
@@ -15502,7 +15508,6 @@
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -15787,10 +15792,12 @@
         "tp2": ""
     },
     {
-        "name": "IWD2 Bonus Merchant",
+        "name": "Icewind Dale II Bonus Merchant",
         "description": "Ce mod ajoute un nouveau marchand dans IWD2. Il s'agit de Ribald Barterman qui vend plusieurs objets extraits de BG2. Vous le trouverez à Targos (poste de commerce Galaway) et à Kuldahar (forgeron Conway).|Vous pourrez ainsi vous procurer des armes très bourrines, à des prix très élevés : Le fléau de l'éternité, la lame de lune de Solaufein, l'Égaliseur, l'armure de Jan, celle de Keldorn, celle de Valygar, le katana de Valygar, l'arc court de Gesen, l'épée courte d'Arvoreen, etc. Tout ça disponible dans IWD2, adapté aux règles D&D3.",
         "urls": [
-            "https://weidu.org/iwd2.html"
+            "https://weidu.org/iwd2.html",
+            "https://forums.pocketplane.net/index.php?board=43.0",
+            "https://github.com/Pocket-Plane-Group/iwd2_bonus_merchant"
         ],
         "categories": [
             "Forgeron et marchand"
@@ -15798,17 +15805,24 @@
         "games": [
             "IWD2"
         ],
-        "authors": [],
+        "authors": [
+            "Wes Weimer"
+        ],
         "team": [
-            "JRR Tolkien"
+            "J.R.R. Tolkien"
         ],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "es",
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-10",
+        "tp2": "merchant"
     },
     {
         "name": "IWD2 Cleric domains",
@@ -16116,7 +16130,7 @@
     },
     {
         "name": "Icewind Gate II",
-        "description": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc. Il nécessite Icewind Dale II et Baldur's Gate II - Throne of Bhaal.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce reste une version bêta.|Vous trouverez sa procédure d'installation sur <a href=\"https://weidu.org/iwg2/beta.html\">ce lien</a>.",
+        "description": "Initié par Weimer, ce projet permet de jouer à Baldur's Gate II avec le moteur d'Icewind Dale 2. En fait, il s'agissait d'adapter BG2 à la sauce Icewind Dale 2, avec les règles de la 3ème édition, l'interface, les sorts, d'Icewind Dale II etc. Il nécessite Icewind Dale II et Baldur's Gate II - Throne of Bhaal.|De nombreux screens sont déjà disponibles. La version bêta a été ouverte au public suite au retrait de son concepteur de la communauté. Il y a de grande chances pour que ce mod reste une version bêta.|Vous trouverez sa procédure d'installation sur <a href=\"https://weidu.org/iwg2/beta.html\">ce lien</a>.",
         "urls": [
             "https://weidu.org/iwg2/index.html"
         ],
@@ -16126,13 +16140,15 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "Wes Weimer"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 1,
         "languages": [],
-        "status": "active",
+        "status": "wip",
         "last_update": "",
         "tp2": ""
     },
@@ -16228,7 +16244,7 @@
         "tp2": "ImoenCanDie"
     },
     {
-        "name": "Imoen is Stone",
+        "name": "Imoen Is Stone",
         "description": "Ce mini mod pétrifie Imoen lors du combat sur la Promenade de Waukyne. L'idée est de soulager la conscience du PJ pour effectuer toutes les quêtes du chapitre 2, sachant qu'Imoen ne souffre pas - et peut être ramenée à la vie comme Branwen dans BG1 - une fois dans Spellhold. Elle sera toujours capturée par les mages cagoulés, et Irenicus l'aura dépétrifiée pour ses expériences jusqu'à ce que le PC arrive dans l'asile. Aucun contenu du scénario original n'a été modifié.",
         "urls": [
             "https://www.gibberlings3.net/mods/other/imoenisstone"
@@ -16249,7 +16265,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-02",
         "tp2": "imoenisstone"
@@ -17239,8 +17257,7 @@
         "description": "Suivante de Sunie Cheveux-de-flamme, déité chaotique, Isra est une paladine atypique dans le sens où elle fréquente de nombreuses maisons empruntes d'une certaine gaieté et manque de ce fait de la gravité classique propre à cette classe de personnage. Comme tous les paladins, elle tient en haute estime tout ce qui touche à l'honneur, à la discipline et à l'ordre, mais elle tend à estimer davantage le code de conduite de sa classe que les exigences de sa déesse. De ce fait, elle sera plus laxiste envers certains comportements chaotiques. Une voie de l'amitié est possible et quelques flirts sont également disponibles. Sa romance est prévue, mais dans BG2. Isra dispose de contenu supplémentaire si BG:EE est installé (banters).|FOR 16, DEX 12, CON 16, INT 13, SAG 14, CHA 17.",
         "urls": [
             "http://www.shsforums.net/files/file/1042-isra/",
-            "https://github.com/Spellhold-Studios/Isra-NPC",
-            "https://github.com/11jo/Isra_NPC/"
+            "https://github.com/Spellhold-Studios/Isra-NPC"
         ],
         "categories": [
             "PNJ recrutable"
@@ -17258,16 +17275,13 @@
         "team": [
             "Streen"
         ],
-        "notes": [
-            "Pour les pressés, le dernier lien propose la version française. Elle est encore en cours de relecture."
-        ],
-        "translation_state": "yes",
+        "notes": [],
+        "translation_state": "wip",
         "safe": 2,
         "languages": [
             "en",
             "ru",
-            "it",
-            "fr"
+            "it"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -19104,7 +19118,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-04",
         "tp2": "Larsha"
     },
     {
@@ -23770,7 +23784,6 @@
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -23786,7 +23799,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-04",
         "tp2": "ooze"
     },
     {
@@ -25146,7 +25159,8 @@
             "de",
             "it",
             "pl",
-            "ru"
+            "ru",
+            "es"
         ],
         "status": "active",
         "last_update": "2023-10",
@@ -25242,7 +25256,6 @@
             "es",
             "cn",
             "ru",
-            "pl",
             "pl",
             "jp",
             "hu",
@@ -29483,7 +29496,6 @@
         "name": "Skie BG2 NPC Redone",
         "description": "Il s'agit du tout premier mod du prolifique Lava, Skie BG2, totalement réécrit et traduit en anglais. Vous souvenez-vous de Skie, la fille riche et gâtée d'Entar Écudargent ? Cette voleuse humaine neutre est désormais disponible en tant que PNJ recrutable dans BG2.|Le mod propose de nouvelles interactions et conversations avec Charname, son jeu de sons original de la première partie de la saga, ainsi que des portraits alternatifs en option. Skie peut commencer une romance avec le personnage principal - il doit s'agir d'un elfe, d'un humain, d'un demi-elfe ou d'un tieffelin. De nouveaux objets ont été ajoutés, des anciens modifiés, tous les scripts ont été réécrits et un troisième épilogue a été ajouté. La recherche d'objets a été facilitée et est désormais liée à une petite quête romantique.",
         "urls": [
-            "http://www.shsforums.net/files/file/1005-skie-npc/",
             "https://baldur.cob-bg.pl/download/bg2/npc/SKIEv.5.1.zip"
         ],
         "categories": [
@@ -31071,7 +31083,6 @@
             "fr",
             "de",
             "it",
-            "kr",
             "pl",
             "ru",
             "cn",
@@ -31573,7 +31584,7 @@
         "tp2": "totdg"
     },
     {
-        "name": "Talon of Malar Kit",
+        "name": "Talon of Malar",
         "description": "Ce mod ajoute un profil de prêtre, servant du dieu des chasseurs et des lycanthropes.",
         "urls": [
             "https://github.com/thisisulb/TalonOfMalarKit"
@@ -33118,7 +33129,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-04",
         "tp2": "luxleysoa"
     },
     {
@@ -33800,7 +33811,6 @@
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -34437,7 +34447,7 @@
         "tp2": "DNT"
     },
     {
-        "name": "Tortured Soul Lite",
+        "name": "Tortured Souls Lite",
         "description": "Le concepteur d'origine a poursuivi le développement du mod dans une version stand-alone, avec moults remaniements de textes. Cependant, bien que compatible avec [[Baldurdash-WeiDU]] 1.75 (obligatoire) et avec les autres mods de Vlad que sont Keldorn's Romance (fortement recommandé) et [[Never Ending Journey]]3 (obligatoire), elle est incompatible avec la plupart des mods WeiDU y compris le [[BG2 FixPack]] !",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394",
@@ -34478,7 +34488,6 @@
         "name": "Tortured Souls-BP",
         "description": "« Les Âmes Torturées » est un terme générique pour englober tous les PNJ qui sont troublés. Ce mod ajoute de nombreux banters, 4 nouvelles romances dont une entre Yoshimo et Kachiko, et une énorme nouvelle quête. Plus précisément :|- 5 nouveaux PNJ recrutables dont Sime (la fille d'Aran Linvail, aux côtés de son père si vous avez travaillé pour sa guilde au chapitre 3), Kachiko (dans le donjon d'Irenicus), Dynahéir (Sime et Minsc doivent être dans le groupe), Coran (disponible dans la forêt du Téthyr) et Bodhi (si vous avez choisi de travailler pour sa guilde au chapitre 3).|Une romance avec Valygar pour un PJ féminin, qui débute dans SoA et se poursuit dans ToB.|- Une nouvelle quête assez vaste sur la route de Spellhold, dont les protagonistes seront Yoshimo et Kachiko.|- Une romance avec Sime pour les PJ des 2 sexes.|- Plusieurs quêtes spécifiques à Sime, dont l'une vous amènera à affronter par 2 fois un ennemi (indestructible dans la 1ère rencontre) lors de la quête principale du mod.|- Le composant `Quêtes de classe multiples` pour les PJ multi-classés, leur autorisant à effectuer les quêtes de toutes leur sous-classes.|- Une légère amélioration du combat de la Rune Tordue.|- Une multitude de nouveaux objets (provenant en grande partie d'IWD1).|Yoshimo doit faire partie de votre groupe pour pouvoir recruter Kachiko. De même, le recrutement de Coran ne pourra se faire qu'en déclenchant une mini-quête dans le Marché de l'Aventurier (vous devez y pénétrer sans que Jaheira fasse partie de votre groupe).|Cette version est compatible avec [[The Big Picture]] et la plupart des mods WeiDU.",
         "urls": [
-            "http://www.shsforums.net/files/file/324-tortured-souls-bp-compatible-version-v610/",
             "https://america.iegmc.com/ts-bp/TS-BPv6.10.rar"
         ],
         "categories": [
@@ -34706,7 +34715,7 @@
         "tp2": "trap_rev"
     },
     {
-        "name": "Travellers In Faerun",
+        "name": "Travellers in Faerun",
         "description": "Selon son auteure, ce mod vise à faire de EET une histoire plus cohérente :|- il déplace certains PNJ non-recrutables et la préfiguration de leur histoire de BG2/ToB vers des parties plus anciennes du jeu.|- vous pouvez influencer certains événements des chapitres suivants en prenant des décisions plus tôt dans l'histoire (continuité dans EET).|- vous pouvez revenir avec des objets que vous trouverez plus tard dans le jeu pour accomplir des quêtes dans BG1 ou SoD.|- vous obtiendrez des quêtes qui vous obligeront à retourner dans des zones de BG/SoD plus tard dans le jeu pour les accomplir.|Le mod se compose de nombreuses petites rencontres, de quêtes plus ou moins importantes, et d'événements/décisions qui ont des conséquences durables.",
         "urls": [
             "https://github.com/RoxanneSHS/Travellers"
@@ -36468,7 +36477,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2022-11",
+        "last_update": "2025-04",
         "tp2": "ViconiaRevamped"
     },
     {
@@ -37581,7 +37590,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-03",
         "tp2": "willowisp"
     },
     {
@@ -38393,14 +38402,15 @@
         ],
         "authors": [
             "aVENGER",
-            "Wisp"
+            "Wisp",
+            "TotoR115"
         ],
         "team": [
             "Mornagest"
         ],
         "notes": [],
         "translation_state": "yes",
-        "safe": 1,
+        "safe": 2,
         "languages": [
             "en",
             "fr",
@@ -38412,7 +38422,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2018-05",
+        "last_update": "2025-03",
         "tp2": "atweaks"
     },
     {
@@ -38938,7 +38948,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-04",
         "tp2": "ZS_WeaponOils"
     },
     {
@@ -39341,7 +39351,7 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-04",
         "tp2": "Combat_Skill_Proficiencies"
     },
     {
@@ -40293,7 +40303,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-04",
         "tp2": "Autumns_Twilight"
     },
     {
@@ -40380,7 +40390,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-03",
         "tp2": "XzarAndMontaron"
     },
     {
@@ -40493,7 +40503,8 @@
         "name": "Loretakers",
         "description": "L'intrigue se déroule dans la ville de Baldur's Gate. Il ajoute de nouvelles zones (dont un donjon à deux niveaux), de nouveaux ennemis et de nouvelles quêtes et quelques objets. Le contenu dure approximativement entre 1 à 2 heures de jeu.",
         "urls": [
-            "https://www.gibberlings3.net/forums/topic/38310-mod-loretakers-a-quest-mod-for-bg1ee/"
+            "https://www.gibberlings3.net/forums/topic/38310-mod-loretakers-a-quest-mod-for-bg1ee/",
+            "https://github.com/AciferBG/Loretakers"
         ],
         "categories": [
             "Quête"
@@ -40511,11 +40522,14 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "de",
+            "cn",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2024-06",
-        "tp2": ""
+        "last_update": "2025-04",
+        "tp2": "Loretakers"
     },
     {
         "name": "Crucible",
@@ -40956,7 +40970,7 @@
             "cn"
         ],
         "status": "wip",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "eefixpack"
     },
     {
@@ -41816,7 +41830,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "zbpod"
     },
     {
@@ -41981,10 +41995,11 @@
         "languages": [
             "en",
             "de",
-            "cn"
+            "cn",
+            "ru"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "Godcall"
     },
     {
@@ -42043,7 +42058,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "valkrana"
     },
     {
@@ -42457,7 +42472,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "juniperandthestoneleech"
     },
     {
@@ -43067,7 +43082,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "ZSTweaks"
     },
     {
@@ -43631,7 +43646,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "mih_metamod"
     },
     {
@@ -45329,7 +45344,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-04",
         "tp2": "SCI-Dualadins"
     },
     {
@@ -45866,7 +45881,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2015-03",
+        "last_update": "2025-03",
         "tp2": "candlekeep_revisited"
     },
     {
@@ -46399,7 +46414,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-04",
         "tp2": "OnPathsAndWays"
     },
     {
@@ -46755,7 +46770,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-02",
+        "last_update": "2025-03",
         "tp2": "iwd1_eet;iwd2_eet;iwd_eet_end"
     },
     {
@@ -47018,7 +47033,7 @@
     },
     {
         "name": "Vlad's Sime NPC",
-        "description": "Voici la version stand-alone de Sime issue de [[Tortured Soul Lite]].",
+        "description": "Voici la version stand-alone de Sime issue de [[Tortured Souls Lite]].",
         "urls": [
             "https://github.com/Black-Wyrm-Lair/TS_Sime"
         ],
@@ -48083,7 +48098,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2021-11",
+        "last_update": "2025-03",
         "tp2": "A7-TextureConvert"
     },
     {
@@ -48168,7 +48183,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-04",
         "tp2": "NirikNPC"
     },
     {
@@ -48194,7 +48209,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-04",
         "tp2": "GuldrukNPC"
     },
     {
@@ -48220,7 +48235,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-04",
         "tp2": "AthanasiosNPC"
     },
     {
@@ -48310,7 +48325,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-04",
         "tp2": "SearchGuild"
     },
     {
@@ -49058,7 +49073,7 @@
         "tp2": "EET;EET_end;EET_gui"
     },
     {
-        "name": "Premade Party Adder (for IWD2)",
+        "name": "Premade Party Adder for IWD2",
         "description": "Permet au joueur d'ajouter des parties personnalisées à l'écran de la nouvelle partie.",
         "urls": [
             "https://forums.beamdog.com/discussion/83709/",
@@ -49081,7 +49096,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-12",
+        "last_update": "2025-04",
         "tp2": "d2-party-adder-iwd2"
     },
     {
@@ -49235,7 +49250,8 @@
         "description": "Icewind Dale 2 : Enhanced Edition est une compilation d'améliorations et de corrections pour Icewind Dale 2, améliorant le jeu de diverses manières. Les classes, les sorts, les objets, les créatures et les rencontres sont rendus plus intéressants. IWD2EE modifie plus de 300 sorts et plus de 1 000 objets, et ajoute plus de 90 nouveaux sorts, près de 200 nouveaux objets, plus de 30 nouvelles prouesses et plusieurs PNJ qui peuvent rejoindre le groupe. Le mod corrige la plupart des gros problèmes du jeu Icewind Dale 2 original : il n'est plus nécessaire de revenir en arrière pour terminer certaines zones, les ennemis du mode Heart of Fury sont dotés de pouvoirs intéressants et ne se contentent pas d'avoir beaucoup de HP, et vous pouvez réviser le système d'expérience afin de ne pas obtenir zéro expérience en tuant des ennemis tard dans le jeu.",
         "urls": [
             "https://forums.beamdog.com/discussion/87952/",
-            "https://github.com/RedChimera/IWD2EE/"
+            "https://github.com/RedChimera/IWD2EE/",
+            "https://github.com/WillScarlettOhara/IWD2EE/"
         ],
         "categories": [
             "Conversion"
@@ -49255,7 +49271,7 @@
             "Leilu"
         ],
         "notes": [],
-        "translation_state": "yes",
+        "translation_state": "todo",
         "safe": 2,
         "languages": [
             "en",
@@ -49264,7 +49280,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-04",
         "tp2": "iwd2ee"
     },
     {
@@ -49605,7 +49621,7 @@
             "IWDEE"
         ],
         "authors": [
-            "Temnix"
+            "temnix"
         ],
         "team": [],
         "notes": [],
@@ -49636,7 +49652,7 @@
             "IWDEE"
         ],
         "authors": [
-            "Temnix"
+            "temnix"
         ],
         "team": [],
         "notes": [
@@ -49664,7 +49680,7 @@
             "BG2EE"
         ],
         "authors": [
-            "Temnix"
+            "temnix"
         ],
         "team": [],
         "notes": [],
@@ -49695,7 +49711,7 @@
             "BG2EE"
         ],
         "authors": [
-            "Temnix"
+            "temnix"
         ],
         "team": [],
         "notes": [],
@@ -49703,7 +49719,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2022-06",
+        "last_update": "2022-04",
         "tp2": "non-weidu"
     },
     {
@@ -49723,7 +49739,7 @@
             "BG2EE"
         ],
         "authors": [
-            "Temnix"
+            "temnix"
         ],
         "team": [],
         "notes": [],
@@ -49753,7 +49769,7 @@
             "BG2EE"
         ],
         "authors": [
-            "Temnix"
+            "temnix"
         ],
         "team": [],
         "notes": [
@@ -49812,7 +49828,7 @@
             "EET"
         ],
         "authors": [
-            "Artemius_I"
+            "AionZ"
         ],
         "team": [],
         "notes": [
@@ -49954,7 +49970,7 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "yes",
         "safe": 1,
         "languages": [
             "cz",
@@ -51213,7 +51229,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2019-10",
+        "last_update": "2019-11",
         "tp2": "Musicforiwd"
     },
     {
@@ -52602,7 +52618,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2020-04",
+        "last_update": "2020-05",
         "tp2": "non-weidu"
     },
     {
@@ -52909,10 +52925,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "de"
+            "de",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "ThroneoftheMadGod"
     },
     {
@@ -53365,7 +53382,7 @@
             "en"
         ],
         "status": "embed",
-        "last_update": "2005-09",
+        "last_update": "2005-04",
         "tp2": ""
     },
     {
@@ -53408,6 +53425,7 @@
         "games": [
             "BG2",
             "BG2EE",
+            "BGT",
             "EET"
         ],
         "authors": [
@@ -53424,5 +53442,32 @@
         "status": "active",
         "last_update": "2025-04",
         "tp2": "Derats_Oops"
+    },
+    {
+        "name": "Icewind Dale II Ease of Use Mod",
+        "description": "Il s'agit d'une collection de mods utiles dans IWD2 assemblés par Wes Weimer.",
+        "urls": [
+            "https://github.com/Pocket-Plane-Group/iwd2_ease_of_use/"
+        ],
+        "categories": [
+            "Gameplay"
+        ],
+        "games": [
+            "IWD2"
+        ],
+        "authors": [
+            "Wes Weimer"
+        ],
+        "team": [],
+        "notes": [],
+        "translation_state": "no",
+        "safe": 2,
+        "languages": [
+            "es",
+            "en"
+        ],
+        "status": "active",
+        "last_update": "2023-12",
+        "tp2": "iwd2-ease"
     }
 ]
