@@ -52180,7 +52180,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
@@ -52528,19 +52528,21 @@
             "Sort et objet"
         ],
         "games": [
-            "BG2EE"
+            "BGEE"
         ],
         "authors": [
             "Corsymyr"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod est inclus dans [[T'was a Slow Boat from Kara-Tur]] du même auteur."
+        ],
         "translation_state": "no",
-        "safe": 1,
+        "safe": 0,
         "languages": [
             "en"
         ],
-        "status": "missing",
+        "status": "embed",
         "last_update": "2013-02",
         "tp2": ""
     },
@@ -52575,7 +52577,7 @@
             "https://forums.beamdog.com/discussion/75309"
         ],
         "categories": [
-            "Sort et objet"
+            "Gameplay"
         ],
         "games": [
             "BG2EE",
@@ -52586,14 +52588,12 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
-        "safe": 2,
-        "languages": [
-            "en"
-        ],
+        "translation_state": "n/a",
+        "safe": 1,
+        "languages": [],
         "status": "active",
         "last_update": "2019-05",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Bard blade kit mini-mod",
