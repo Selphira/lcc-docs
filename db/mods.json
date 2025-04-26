@@ -915,7 +915,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-04",
         "tp2": "akgear"
     },
     {
@@ -2254,6 +2254,7 @@
         "description": "Cette collection de corrections et de modifications est l'œuvre d'ArtemiusI. Elle comporte divers composants offrant une plus grande variété de races ennemis, de possibilité de métamorphose pour les druides, de bonus de race, de constitution, et bien d'autres choses comme la possibilité pour les moines d'utiliser des bâtons, etc.",
         "urls": [
             "https://artisans-corner.com/house-rules/ ",
+            "http://www.shsforums.net/files/file/1232-artemius-house-tweaks-for-ee/",
             "https://github.com/ArtemiusI/House-Rule-Tweaks"
         ],
         "categories": [
@@ -2272,7 +2273,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-01",
         "tp2": "HouseTweaks"
@@ -7197,7 +7200,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-10",
+        "last_update": "2025-04",
         "tp2": "Chloe"
     },
     {
@@ -13244,7 +13247,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2021-07",
+        "last_update": "2025-04",
         "tp2": "gahesh"
     },
     {
@@ -13969,7 +13972,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-04",
         "tp2": "glamnpcpack"
     },
     {
@@ -15681,7 +15684,7 @@
         ],
         "team": [],
         "notes": [
-            "Pour la version EE, des portraits alternatifs sont proposés par le mod [[Custom portraits for Icewind Dale NPC Mod (IWD NPC)]]."
+            "Pour la version EE, des portraits alternatifs sont proposés par le mod [[Custom portraits for Icewind Dale NPC Mod]]."
         ],
         "translation_state": "no",
         "safe": 2,
@@ -20212,7 +20215,7 @@
         "tp2": "MTS-Crappack"
     },
     {
-        "name": "Macholy's Living-Mod (NML)",
+        "name": "Macholy's Living-Mod",
         "description": "Il s'agit de l'un des trois mods de Macholy visant à rendre le jeu plus réaliste. Celui-ci fournit un système de règles permettant aux personnages de se nourrir et de boire. Sans cela, leur constitution diminuera avec le temps. Il nécessite l'installation du composant `Cuisine` du mod [[Macholy's Tweak Pack]].",
         "urls": [
             "https://trow.cc/board/showtopic=20348&hl=Macholy"
@@ -20224,20 +20227,22 @@
             "BGT"
         ],
         "authors": [
-            "macholy"
+            "Macholy"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "cn"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2010-12",
+        "tp2": "NML"
     },
     {
         "name": "Macholy's Nameless Melody Inn",
-        "description": "Ce mod chinois prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise dans le <a href=\"http://www.shsforums.net/files/file/979-big-world-textpack-english/\">BWP Textpack English</a>.",
+        "description": "Ce mod prend place dans BG et se termine dans BG2 et ToB. La quête est initiée par un étrange voyageur rencontré dans la taverne du Jongleur jovial à Bérégost.|Si ce mod vous intéresse, vous trouverez une ébauche de traduction anglaise dans le <a href=\"http://www.shsforums.net/files/file/979-big-world-textpack-english/\">BWP Textpack English</a>.",
         "urls": [
             "http://www.shsforums.net/index.php?app=core&module=attach&section=attach&attach_id=28226",
             "https://trow.cc/board/showtopic=14514&hl=Macholy"
@@ -20249,19 +20254,21 @@
             "BGT"
         ],
         "authors": [
-            "macholy"
+            "Macholy"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "cn"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2012-11",
+        "tp2": "NMT"
     },
     {
-        "name": "Macholy's Teammates fight scripts (NMRF-PC)",
+        "name": "Macholy's Teammates fight scripts",
         "description": "Ce mod revisite des scripts de combat, les agrémentant de quelques touches rapides et modes semi-automatiques.",
         "urls": [
             "http://www.shsforums.net/files/file/742-macholys-teammates-fight-scripts-v31/",
@@ -20275,7 +20282,7 @@
             "BGT"
         ],
         "authors": [
-            "macholy"
+            "Macholy"
         ],
         "team": [
             "Graoumf"
@@ -20283,10 +20290,14 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2011-03",
-        "tp2": ""
+        "tp2": "NMRF-PC"
     },
     {
         "name": "Macholy's Tweak Pack",
@@ -20302,7 +20313,7 @@
             "BGT"
         ],
         "authors": [
-            "macholy"
+            "Macholy"
         ],
         "team": [],
         "notes": [],
@@ -21337,7 +21348,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "d2-randomkits"
     },
     {
@@ -25293,7 +25304,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-08",
+        "last_update": "2025-04",
         "tp2": "d2-iwdee-fixes"
     },
     {
@@ -26565,16 +26576,19 @@
             "BGT"
         ],
         "authors": [
-            "macholy"
+            "Macholy"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2012-11",
-        "tp2": ""
+        "tp2": "NMR"
     },
     {
         "name": "Relieve Wizard Slayer",
@@ -28620,7 +28634,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-04",
         "tp2": "sotsc"
     },
     {
@@ -29489,7 +29503,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-04",
         "tp2": "SkieCost"
     },
     {
@@ -31045,7 +31059,7 @@
     },
     {
         "name": "Sword Coast Stratagems",
-        "description": "Ce mod ajoute de nombreuses difficultés dans le jeu en rendant les adversaires plus intelligents, aussi bien les boss de fin de chapitre que le simple grouilleux, notamment par la gestion de l'intelligence de groupe. Il modifie également le comportement de certains sortilèges et comprend quelques ajustements cosmétiques ou de confort. Ce mod rend le jeu réellement plus difficile, soyez donc prêts... Ses environ 130 composants sont tous optionnels.|Depuis la version 22, les mods SCS et SCSII sont regroupés au sein du même mod, compatible avec BGII, BGT, BG1Tutu, ainsi que BG:EE et BG2:EE.",
+        "description": "Ce mod ajoute de nombreuses difficultés dans le jeu en rendant les adversaires plus intelligents, aussi bien les boss de fin de chapitre que le simple grouilleux, notamment par la gestion de l'intelligence de groupe. Il modifie également le comportement de certains sortilèges et comprend quelques ajustements cosmétiques ou de confort. Ce mod rend le jeu réellement plus difficile, soyez donc prêts... Ses  nombreux composants sont tous optionnels.",
         "urls": [
             "https://www.gibberlings3.net/mods/tweaks/scs/",
             "https://github.com/Gibberlings3/SwordCoastStratagems"
@@ -31059,7 +31073,8 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE"
         ],
         "authors": [
             "DavidW"
@@ -31135,7 +31150,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -31557,7 +31571,6 @@
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -31611,7 +31624,7 @@
         "tp2": "TalonOfMalar"
     },
     {
-        "name": "The Sword of Chaos (Tamoko)",
+        "name": "The Sword of Chaos",
         "description": "Ce mod ajoute Tamoko, l'ancien amour de Sarevok, comme PNJ recrutable à la fin de BG:EE et pendant SoD. Après avoir vaincu Sarevok dans la ville souterraine, et en quittant le palais pour aller pourchasser ses derniers partisans, vous rencontrez Tamoko et pouvez la recruter (à moins que vous ne l'ayez tuée auparavant). Elle a les mêmes statistiques et équipement que le personnage original. C'est une prêtresse neutre mauvaise. Ne voulant plus être victime de son passé, elle espère, en vous rejoignant, avoir peut-être une troisième chance de changer les choses après les deux échecs tragiques qu'elle a subis. Elle restera avec vous pendant la campagne SoD jusqu'à ce qu'elle rencontre son destin...",
         "urls": [
             "https://github.com/RoxanneSHS/Tamoko"
@@ -33865,7 +33878,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-04",
         "tp2": "d2-workshopkits"
     },
     {
@@ -37350,6 +37363,8 @@
             "Quête"
         ],
         "games": [
+            "BG2",
+            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -38248,7 +38263,6 @@
         ],
         "games": [
             "BG2",
-            "BGT",
             "BG2EE",
             "EET"
         ],
@@ -41341,7 +41355,8 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "IWDEE"
+            "IWDEE",
+            "EET"
         ],
         "authors": [
             "DavidW"
@@ -42336,6 +42351,8 @@
             "PNJ recrutable"
         ],
         "games": [
+            "BGEE",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -46693,7 +46710,13 @@
         "safe": 2,
         "languages": [
             "ru",
-            "en"
+            "en",
+            "fr",
+            "es",
+            "de",
+            "it",
+            "pl",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-07",
@@ -46878,16 +46901,19 @@
         "authors": [
             "Shohy"
         ],
-        "team": [],
+        "team": [
+            "Selphira"
+        ],
         "notes": [],
-        "translation_state": "wip",
+        "translation_state": "yes",
         "safe": 2,
         "languages": [
             "en",
-            "cn"
+            "cn",
+            "fr"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-04",
         "tp2": "XPexchange"
     },
     {
@@ -47860,7 +47886,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Custom portraits for Icewind Dale NPC Mod (IWD NPC)",
+        "name": "Custom portraits for Icewind Dale NPC Mod",
         "description": "Ce mod propose des portraits alternatifs pour les 5 pnjs ajoutés par le mod [[IWD NPC Project]].",
         "urls": [
             "https://www.nexusmods.com/baldursgate/mods/38"
@@ -47880,7 +47906,7 @@
         "safe": 1,
         "languages": [],
         "status": "active",
-        "last_update": "2022-07",
+        "last_update": "2022-09",
         "tp2": "non-weidu"
     },
     {
@@ -48582,7 +48608,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-04",
         "tp2": "ZS_ItemPack"
     },
     {
@@ -49029,7 +49055,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-04",
         "tp2": "OphysiaBG1"
     },
     {
@@ -49385,7 +49411,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-03",
         "tp2": "AreenWildMage"
     },
     {
@@ -49781,8 +49807,8 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2022-06",
-        "tp2": "non-weidu"
+        "last_update": "2022-03",
+        "tp2": "Blink Dogs and Phase Spiders"
     },
     {
         "name": "Keldorn NPC",
@@ -49811,37 +49837,6 @@
         "status": "missing",
         "last_update": "2016-03",
         "tp2": ""
-    },
-    {
-        "name": "Artemius' House Tweaks",
-        "description": "Quelques modifications qui facilitent la vie des joueurs, rajoutent des nouvelles possibilités et rendent les pjs légèrement plus puissants",
-        "urls": [
-            "http://www.shsforums.net/files/file/1232-artemius-house-tweaks-for-ee/"
-        ],
-        "categories": [
-            "Gameplay"
-        ],
-        "games": [
-            "BGEE",
-            "BG2EE",
-            "SoD",
-            "EET"
-        ],
-        "authors": [
-            "AionZ"
-        ],
-        "team": [],
-        "notes": [
-            "Remplacé par [[AionZ's House Rules]] du même auteur."
-        ],
-        "translation_state": "no",
-        "safe": 0,
-        "languages": [
-            "en"
-        ],
-        "status": "obsolete",
-        "last_update": "2014-02",
-        "tp2": "non-weidu"
     },
     {
         "name": "Wyvern and tanar'ri crash fix",
@@ -52159,7 +52154,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Priest of Milil",
+        "name": "Priest of Milil kit",
         "description": "Ce mod ajoute le prêtre de Milil. Il dispose de nouveaux sorts basés sur le clerc Pnp et a accès à la forteresse du barde.",
         "urls": [
             "https://forums.beamdog.com/discussion/31820"
@@ -53292,13 +53287,13 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
         "status": "missing",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-06",
+        "tp2": "SQUAREMOD"
     },
     {
         "name": "The circles",
@@ -53437,7 +53432,8 @@
         "safe": 2,
         "languages": [
             "fr",
-            "en"
+            "en",
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-04",

@@ -103,7 +103,8 @@
         "drunktiefling"
     ],
     "elminster": [
-        "Elminster"
+        "Elminster",
+        "yellow-hat-elminster"
     ],
     "Erebusant": [
         "erebusant"
@@ -182,6 +183,9 @@
     ],
     "HybridGame": [
         "hybridgame"
+    ],
+    "Macholy": [
+        "macholy"
     ],
     "MajorTomSawyer": [
         "majortomsawyer"
