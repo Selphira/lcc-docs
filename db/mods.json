@@ -528,7 +528,6 @@
             "PNJ recrutable"
         ],
         "games": [
-            "Tutu",
             "BG2",
             "BGT",
             "BG2EE",
@@ -2297,7 +2296,8 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "EET"
+            "EET",
+            "SoD"
         ],
         "authors": [
             "Ascalon",
@@ -2333,7 +2333,6 @@
             "BGT",
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET"
         ],
         "authors": [
@@ -9028,7 +9027,8 @@
             "en",
             "fr",
             "pl",
-            "cn"
+            "cn",
+            "ru"
         ],
         "status": "active",
         "last_update": "2025-04",
@@ -12105,7 +12105,7 @@
         "tp2": "n/a"
     },
     {
-        "name": "Experience cap remover and new HLA for F/M/C and F/M/T",
+        "name": "Experience cap remover and new High Level Ability pools for F/M/C and F/M/T",
         "description": "Ce mod retire les limites d'expérience et rend les HLA disponibles pour les triclassés.",
         "urls": [
             "https://forums.beamdog.com/discussion/26198/"
@@ -12776,7 +12776,9 @@
             "BG2",
             "BGT",
             "BG2EE",
-            "EET"
+            "EET",
+            "IWDEE",
+            "BGEE"
         ],
         "authors": [
             "FlameWing"
@@ -15824,7 +15826,7 @@
             "de"
         ],
         "status": "active",
-        "last_update": "2023-10",
+        "last_update": "2023-12",
         "tp2": "merchant"
     },
     {
@@ -16441,7 +16443,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2019-02",
+        "last_update": "2004-05",
         "tp2": "ImprovedBAMs"
     },
     {
@@ -20607,9 +20609,10 @@
     },
     {
         "name": "Mal des Vampirismus",
-        "description": "Héritier du \"Vampirmod für Magier\" du même auteur, ce mod en allemand donne au joueur la possibilité de devenir un vampire au cours de la quête principale de Shadows of Amn. Pour ce faire, le joueur doit rejoindre la guilde de Bodhi. Le choix d'être transformé en vampire est volontaire et définitif. Une fois le joueur transformé, il n'y a plus de retour en arrière.",
+        "description": "Héritier du \"Vampirmod für Magier\" du même auteur, ce mod donne au joueur la possibilité de devenir un vampire au cours de la quête principale de Shadows of Amn. Pour ce faire, le joueur doit rejoindre la guilde de Bodhi. Le choix d'être transformé en vampire est volontaire et définitif. Une fois le joueur transformé, il n'y a plus de retour en arrière.",
         "urls": [
-            "http://www.baldursgate-refugium.de/mods/mal-des-vampirismus/"
+            "http://www.baldursgate-refugium.de/mods/mal-des-vampirismus/",
+            "https://drive.google.com/drive/folders/118zqAQJu6atTvaPF_pc_SzPiVLHmBWQ_"
         ],
         "categories": [
             "Gameplay"
@@ -20621,16 +20624,18 @@
             "EET"
         ],
         "authors": [
-            "Nicolas Peters"
+            "NicolasP"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de"
+        ],
         "status": "active",
-        "last_update": "2020-09",
-        "tp2": ""
+        "last_update": "2023-01",
+        "tp2": "pcvamp"
     },
     {
         "name": "Malthis",
@@ -26947,13 +26952,13 @@
             "Ce mod est inclus dans [[Wheels of Prophecy]]."
         ],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2008-05",
-        "tp2": ""
+        "tp2": "tobheads"
     },
     {
         "name": "Retaliator",
@@ -26975,10 +26980,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2010-05",
-        "tp2": ""
+        "tp2": "RetaliatorKit"
     },
     {
         "name": "Return to Trademeet",
@@ -27601,10 +27608,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2018-01",
-        "tp2": ""
+        "tp2": "RoundCounter"
     },
     {
         "name": "Ruad Ro'fhessa Item Upgrade",
@@ -30345,10 +30354,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2009-09",
-        "tp2": ""
+        "tp2": "spgaunt"
     },
     {
         "name": "Spirit Hunter",
@@ -34180,13 +34191,17 @@
             "SConrad"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Ce mod écrase le sort Arrêt du temps ainsi que le parchemin."
+        ],
         "translation_state": "no",
-        "safe": 2,
-        "languages": [],
+        "safe": 1,
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2007-04",
-        "tp2": ""
+        "tp2": "Timestop"
     },
     {
         "name": "Tipps",
@@ -36226,10 +36241,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2014-07",
-        "tp2": ""
+        "tp2": "A4PB"
     },
     {
         "name": "Vampire Tales",
@@ -36647,7 +36664,7 @@
         "name": "Vynd",
         "description": "Vynd est un assassin drow, recrutable à la taverne du Magicien ardent à Bérégost. Bien qu'il soit d'alignement mauvais, il ne quittera pas le groupe en raison de sa réputation (nota : cela ne fonctionne pas avec BG:EE). Il possède des dialogues avec le personnage principal, avec les PNJ de Bioware et ceux propres à l'Enhanced Edition ainsi que de nombreuses interactions hors du groupe et des dialogues à l'initiative du joueur.",
         "urls": [
-            "https://github.com/GlamVrock/Vynd"
+            "https://github.com/GlamVrock/Vynd/"
         ],
         "categories": [
             "PNJ recrutable"
@@ -36662,14 +36679,16 @@
         ],
         "team": [],
         "notes": [
-            "Attention : ce mod est obsolète depuis son intégration dans le [[Glam's NPC Pack]]."
+            "Ce mod est obsolète depuis son intégration dans [[Glam's NPC Pack]] du même auteur."
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "embed",
         "last_update": "2019-08",
-        "tp2": ""
+        "tp2": "vynd"
     },
     {
         "name": "WTP Familiars",
@@ -38459,10 +38478,15 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "ru",
+            "de"
+        ],
         "status": "active",
         "last_update": "2009-06",
-        "tp2": ""
+        "tp2": "FamiliarPack"
     },
     {
         "name": "iiItem",
@@ -38755,10 +38779,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-02",
-        "tp2": ""
+        "tp2": "sapp"
     },
     {
         "name": "wonnimchunha's Portrait Mod",
@@ -38785,7 +38811,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2009-07",
-        "tp2": ""
+        "tp2": "wonnimchunha"
     },
     {
         "name": "xMinion",
@@ -38805,12 +38831,12 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2012-04",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "xParty",
@@ -38835,7 +38861,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2012-04",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "RiskBreaker",
@@ -39689,7 +39715,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2011-03",
-        "tp2": ""
+        "tp2": "nalia_mod"
     },
     {
         "name": "Bioware NPC Flirt Packs",
@@ -39815,7 +39841,7 @@
         "tp2": "SarevokBeGone"
     },
     {
-        "name": "Sarevok Restore (Sarevok Wiederherstellung)",
+        "name": "Sarevok Wiederherstellung",
         "description": "Dans ToB original, Sarevok n'a pas son équipement connu de Baldur's Gate, qui lui donne son apparence démoniaque caractéristique. Ce mod lui restitue son équipement magique dès le début de Trône de Bhaal, c'est-à-dire qu'il le porte déjà lorsque le groupe le rencontre : un casque, une armure et une épée à deux mains.|Deux composants optionnels permettent de lui attribuer des portraits alternatifs, et un dernier d'ajouter trois lignes de son à Sarevok Nécrophage.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?threads/sarevok-wiederherstellung.43425/",
@@ -39831,16 +39857,18 @@
             "EET"
         ],
         "authors": [
-            "Nicolas Peters"
+            "NicolasP"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-05",
+        "tp2": "sarerestore"
     },
     {
         "name": "SimeNPC",
@@ -42216,11 +42244,12 @@
         "languages": [
             "en",
             "ru",
-            "es"
+            "es",
+            "kr"
         ],
         "status": "active",
         "last_update": "2012-04",
-        "tp2": ""
+        "tp2": "THEONEDRIZZT"
     },
     {
         "name": "Project Infinity",
@@ -42610,7 +42639,7 @@
         ],
         "status": "active",
         "last_update": "2024-03",
-        "tp2": ""
+        "tp2": "Romance_Expanded"
     },
     {
         "name": "Edwin Bromance",
@@ -44254,7 +44283,7 @@
         "name": "Show HP on NPC",
         "description": "Par défaut, le fait d'appuyer sur la touche TAB n'affiche les HP que sur les membres du groupe, ce tweak modifie le fichier exécutable principal pour afficher les HP sur les autres PNJ également.",
         "urls": [
-            "http://www.shsforums.net/topic/60653-show-hp-on-npc/"
+            "http://www.shsforums.net/files/file/1255-show-hp-on-npc/"
         ],
         "categories": [
             "Patch non officiel"
@@ -44269,10 +44298,13 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "2020-10",
-        "tp2": ""
+        "last_update": "2019-12",
+        "tp2": "showhp"
     },
     {
         "name": "EEScript",
@@ -44607,10 +44639,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2014-09",
-        "tp2": ""
+        "tp2": "hexy"
     },
     {
         "name": "Laphysique Kit Pack for Baldur's Gate - Enhanced Edition",
@@ -44658,10 +44692,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "Bushi"
     },
     {
         "name": "Battlerager-Kit",
@@ -44683,10 +44719,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "Battlerager"
     },
     {
         "name": "Adventurer-Kit",
@@ -44708,10 +44746,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "Adventurer"
     },
     {
         "name": "Singing Mage",
@@ -44901,10 +44941,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "Dwarven"
     },
     {
         "name": "Ohlo's Miscellany Store",
@@ -44975,10 +45017,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-01",
-        "tp2": ""
+        "tp2": "Lilarcor_NPC"
     },
     {
         "name": "Kerry",
@@ -45103,10 +45147,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "wip",
         "last_update": "2021-04",
-        "tp2": ""
+        "tp2": "sister_of_bhaalspawn"
     },
     {
         "name": "Theil",
@@ -45165,7 +45211,7 @@
         "name": "NPC Opine Again",
         "description": "Ce mod permet d'entendre plus régulièrement les personnages du groupe lorsque la réputation du groupe diffère de leur alignement moral, avant le point de rupture.",
         "urls": [
-            "http://www.shsforums.net/topic/59234-npc-opine-again/"
+            "http://www.shsforums.net/files/file/1178-npc-opine-again/"
         ],
         "categories": [
             "Gameplay"
@@ -45178,12 +45224,12 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2017-04",
-        "tp2": ""
+        "tp2": "NPC Opine Again"
     },
     {
         "name": "The Heart of Baldur's Gate",
@@ -45733,10 +45779,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-08",
-        "tp2": ""
+        "tp2": "SMMOD"
     },
     {
         "name": "M'Khiin NPC",
@@ -47140,7 +47188,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2023-02",
-        "tp2": ""
+        "tp2": "Borjoyzee Soundset"
     },
     {
         "name": "Benny soundset",
@@ -51103,7 +51151,7 @@
     },
     {
         "name": "Sarevok57's Mega Icewind Dale Mod",
-        "description": "Ce mod ajoute des voix pour tous les npcs du jeu, de nouvelles musiques et de nouveaux objets. Il Modifie de nombreuses règles et révise les objets, les sorts et les tactiques utilisées par les monstres. Il rajoute aussi de nombreux combat épicés.",
+        "description": "Ce mod ajoute des voix pour tous les npcs du jeu, de nouvelles musiques et de nouveaux objets. Il modifie de nombreuses règles et révise les objets, les sorts et les tactiques utilisées par les monstres. Il rajoute aussi de nombreux combat épicés.",
         "urls": [
             "https://forums.beamdog.com/discussion/63639"
         ],
@@ -51127,7 +51175,7 @@
         ],
         "status": "active",
         "last_update": "2017-09",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Nonrandom Treasures",
@@ -51171,7 +51219,7 @@
         "team": [],
         "notes": [],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
         "status": "wip",
         "last_update": "2014-11",
@@ -51319,7 +51367,7 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
