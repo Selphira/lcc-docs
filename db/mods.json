@@ -11681,7 +11681,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2024-12",
+        "last_update": "2025-04",
         "tp2": "Enhanced-Powergaming-Scripts"
     },
     {
@@ -12991,7 +12991,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2025-04",
         "tp2": "forgotten-armament"
     },
     {
@@ -13902,7 +13902,7 @@
             "BGT"
         ],
         "authors": [
-            "Leomar"
+            "Badgert"
         ],
         "team": [],
         "notes": [],
@@ -16302,10 +16302,12 @@
         ],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2020-05",
-        "tp2": ""
+        "tp2": "Impish Makeover"
     },
     {
         "name": "Improved Anvil",
@@ -17572,10 +17574,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2019-02",
-        "tp2": ""
+        "last_update": "2018-12",
+        "tp2": "jpspp"
     },
     {
         "name": "Jacob's Ladder",
@@ -17602,10 +17606,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2020-12",
-        "tp2": ""
+        "tp2": "Jacob's Ladder"
     },
     {
         "name": "Jaheira Recast",
@@ -17685,7 +17691,7 @@
             "EET"
         ],
         "authors": [
-            "Leomar"
+            "Badgert"
         ],
         "team": [
             "SkipCool"
@@ -17718,16 +17724,21 @@
             "BGT"
         ],
         "authors": [
-            "Leomar"
+            "Metalfan49",
+            "Badgert"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "it"
+        ],
         "status": "active",
         "last_update": "2009-06",
-        "tp2": ""
+        "tp2": "Jandor"
     },
     {
         "name": "Jarl's BGT Adventure Pack",
@@ -19671,10 +19682,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2015-11",
-        "tp2": ""
+        "tp2": "7#addlevel"
     },
     {
         "name": "Lhannd",
@@ -21779,10 +21792,12 @@
         ],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2020-03",
-        "tp2": ""
+        "tp2": "Monsters Beat Enchantment"
     },
     {
         "name": "Mordan's Christmas Minimod",
@@ -21942,8 +21957,8 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-12",
+        "tp2": "morpheus562-s-kitpack"
     },
     {
         "name": "Morrow Gate",
@@ -23170,10 +23185,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2014-03",
-        "tp2": ""
+        "tp2": "Ninja"
     },
     {
         "name": "Ninja Kit mod",
@@ -23198,10 +23215,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2015-09",
-        "tp2": ""
+        "tp2": "Ninja"
     },
     {
         "name": "Usable Scarlet-Ninja To",
@@ -23523,16 +23542,19 @@
             "BGT"
         ],
         "authors": [
-            "Leomar"
+            "Badgert"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "it"
+        ],
         "status": "active",
         "last_update": "2009-12",
-        "tp2": ""
+        "tp2": "OldModsPack"
     },
     {
         "name": "OlvynSpells",
@@ -23951,17 +23973,19 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-04",
-        "tp2": ""
+        "tp2": "Crossing Paths"
     },
     {
         "name": "Out, Brief Candlekeep!",
         "description": "Ce petit mod limite à 1 heure de jeu le temps que vous pouvez passer à Château-Suif avant de le quitter. Passé ce délai, vous aurez une très mauvaise surprise.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30169-out-brief-candlekeep-mod-mostly-for-bgee/",
-            "https://github.com/Endarire/Out-Brief-Candlekeep-for-BG1EE-EET"
+            "https://github.com/Endarire/Out-Brief-Candlekeep-for-BG1EE-EET/"
         ],
         "categories": [
             "Gameplay"
@@ -23976,14 +24000,16 @@
         ],
         "team": [],
         "notes": [
-            "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer. De plus, il a tendance à affirmer que ces mods sont compatibles avec tous les types de jeu ; ce qui s'avère souvent faux... À installer à vos risques et périls."
+            "Malheureusement, comme souvent avec la production de cet auteur, la qualité de ce mod laisse à désirer."
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-10",
-        "tp2": ""
+        "tp2": "Out, Brief Candlekeep!"
     },
     {
         "name": "Oversight",
@@ -24392,7 +24418,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2012-01",
-        "tp2": ""
+        "tp2": "parting"
     },
     {
         "name": "Patch correctif des erreurs de texte pour BG (et ToSC)",
@@ -24422,7 +24448,7 @@
         ],
         "status": "active",
         "last_update": "2017-12",
-        "tp2": ""
+        "tp2": "correcfrBG1"
     },
     {
         "name": "Patch correctif des textes pour BG2",
@@ -24453,7 +24479,7 @@
         ],
         "status": "active",
         "last_update": "2017-08",
-        "tp2": ""
+        "tp2": "correcfrbg2"
     },
     {
         "name": "Patch de correction des erreurs de la version française de Planescape: Torment",
@@ -24539,10 +24565,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2020-05",
-        "tp2": ""
+        "tp2": "Perillous Streets"
     },
     {
         "name": "Perils of Branwen",
@@ -24960,10 +24988,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
-        "status": "active",
+        "languages": [
+            "en"
+        ],
+        "status": "archived",
         "last_update": "2019-12",
-        "tp2": ""
+        "tp2": "planetouched"
     },
     {
         "name": "Plasmocat's BG NPC Portraits in BG2 Style",
@@ -25614,10 +25644,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-02",
-        "tp2": ""
+        "tp2": "Privet Property"
     },
     {
         "name": "Proficiencies Mod",
@@ -25837,6 +25869,7 @@
         "safe": 2,
         "languages": [
             "en",
+            "de",
             "it",
             "ru",
             "es",
@@ -25844,7 +25877,7 @@
         ],
         "status": "active",
         "last_update": "2010-03",
-        "tp2": ""
+        "tp2": "QualloFix"
     },
     {
         "name": "Quayle BG2",
@@ -26222,7 +26255,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2018-04",
-        "tp2": ""
+        "tp2": "RNDNEC"
     },
     {
         "name": "Raziel NPC",
@@ -26301,10 +26334,14 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "es",
+            "en",
+            "it"
+        ],
         "status": "active",
         "last_update": "2010-03",
-        "tp2": ""
+        "tp2": "Recarga"
     },
     {
         "name": "Recolored character's toolbar buttons for BG:EE and BG2:EE",
@@ -26435,7 +26472,7 @@
     },
     {
         "name": "Redemption",
-        "description": "Ce mod est en fait un complément d'[[Ascension]] et permet de modifier le final de ToB, en rendant possible la rédemption de Jon Irenicus. Pour ce faire, recrutez-le avant de pénétrer dans l'antre de Mélissane, en jouant sur sa fierté blessée.|Une autre facette inattendue du mod se situe dans l'apparition de votre vieil ennemi, Demogorgon, le Prince des Démons. Il vous posera quelques énigmes, avant d'engager un nouveau combat qu'il semble possible d'éviter tout en humiliant sa majesté. Ces énigmes sont largement inspirés des livres de Raymond Smullyan (Satan, Cantor et Les énigmes de Shéhérazade).|Là encore, il faut impérativement Throne of Bhaal, mais également le mod [[Ascension]].",
+        "description": "Ce mod est en fait un complément d'[[Ascension]] et permet de modifier le final de ToB, en rendant possible la rédemption de Jon Irenicus. Pour ce faire, recrutez-le avant de pénétrer dans l'antre de Mélissane, en jouant sur sa fierté blessée.|Une autre facette inattendue du mod se situe dans l'apparition de votre vieil ennemi, Demogorgon, le Prince des Démons. Il vous posera quelques énigmes, avant d'engager un nouveau combat qu'il semble possible d'éviter tout en humiliant sa majesté. Ces énigmes sont largement inspirés des livres de Raymond Smullyan (Satan, Cantor et Les énigmes de Shéhérazade).",
         "urls": [
             "http://www.shsforums.net/files/file/42-redemption/",
             "http://www.onlinefiction.net/Redemption/Redemption.html"
@@ -26453,13 +26490,20 @@
         "team": [
             "Le Marquis"
         ],
-        "notes": [],
+        "notes": [
+            "Throne of Bhaal est requis, mais également le mod [[Ascension]]."
+        ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de"
+        ],
         "status": "active",
-        "last_update": "2007-04",
-        "tp2": ""
+        "last_update": "2004-05",
+        "tp2": "Redemption"
     },
     {
         "name": "Redrake's IWD Fixpack",
@@ -26665,7 +26709,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2020-12",
-        "tp2": ""
+        "tp2": "Remove_Equipment_Colors"
     },
     {
         "name": "Replacement lightmaps for Baldur's Gate city",
@@ -26690,10 +26734,16 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de",
+            "en",
+            "es",
+            "fr",
+            "it"
+        ],
         "status": "active",
         "last_update": "2009-10",
-        "tp2": ""
+        "tp2": "lightmaps"
     },
     {
         "name": "Replacement sounds for the interface",
@@ -26726,7 +26776,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2020-09",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Rest Anywhere",
@@ -26752,8 +26802,8 @@
         "safe": 0,
         "languages": [],
         "status": "embed",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2004-08",
+        "tp2": "restanywhere"
     },
     {
         "name": "RestBeGone",
@@ -26767,7 +26817,6 @@
         "games": [
             "BGEE",
             "BG2EE",
-            "SoD",
             "EET",
             "IWDEE"
         ],
@@ -26778,10 +26827,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-09",
-        "tp2": ""
+        "tp2": "wl_RestBeGone"
     },
     {
         "name": "Restoration Pack",
@@ -27142,6 +27193,7 @@
             "Interface"
         ],
         "games": [
+            "BGEE",
             "SoD",
             "EET"
         ],
@@ -27150,12 +27202,14 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2017-05",
-        "tp2": ""
+        "tp2": "CKUISOD"
     },
     {
         "name": "Revised Forgotten Wars Item Pack",
@@ -27177,10 +27231,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2004-07",
+        "tp2": "RFWIP"
     },
     {
         "name": "Reworked reputation",
@@ -27370,10 +27426,14 @@
         ],
         "translation_state": "no",
         "safe": 0,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2009-04",
-        "tp2": ""
+        "tp2": "Roar"
     },
     {
         "name": "Rod of Refuge",
@@ -27547,10 +27607,13 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2011-07",
-        "tp2": ""
+        "tp2": "rose"
     },
     {
         "name": "Rough World",
@@ -29570,9 +29633,13 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "cn"
+        ],
         "status": "active",
-        "last_update": "",
+        "last_update": "2025-04",
         "tp2": "skills-and-abilities"
     },
     {
@@ -34311,7 +34378,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2013-03",
-        "tp2": ""
+        "tp2": "n/a"
     },
     {
         "name": "TobEx AfterLife",
@@ -36338,8 +36405,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2003-06",
+        "tp2": "Vanim"
     },
     {
         "name": "Varshoon",
@@ -38321,10 +38388,12 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-11",
-        "tp2": ""
+        "tp2": "Zakrion;Zakrion_BG2"
     },
     {
         "name": "Zalnoya and the shadow thieves",
@@ -40597,10 +40666,16 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pt",
+            "ru",
+            "cn",
+            "es"
+        ],
         "status": "active",
-        "last_update": "2024-07",
-        "tp2": ""
+        "last_update": "2025-03",
+        "tp2": "crucible"
     },
     {
         "name": "Fight the Heavens",
@@ -40622,10 +40697,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-07",
-        "tp2": ""
+        "tp2": "fight-the-heavens"
     },
     {
         "name": "B_Kits",
@@ -41985,7 +42062,7 @@
         ],
         "status": "active",
         "last_update": "2024-02",
-        "tp2": ""
+        "tp2": "FowlWish"
     },
     {
         "name": "Gone Nuts",
@@ -42012,7 +42089,7 @@
         ],
         "status": "active",
         "last_update": "2024-02",
-        "tp2": ""
+        "tp2": "GoneNuts"
     },
     {
         "name": "Call of the Lost Goddess",
@@ -43843,7 +43920,7 @@
         ],
         "status": "active",
         "last_update": "2017-12",
-        "tp2": ""
+        "tp2": "Pregnancy"
     },
     {
         "name": "AutoIdentify",
@@ -44182,9 +44259,9 @@
     },
     {
         "name": "BG More Faster Better",
-        "description": "Ce mod augmente la vitesse de déplacement des membres du groupe qui portent des bottes. Des bottes de base peuvent être achetées dans certains magasins pour équiper les membres du groupe. Ce mod ajoute également une centaine de portraits ainsi qu'une centaine de voix.",
+        "description": "Ce mod augmente la vitesse de déplacement des membres du groupe qui portent des bottes. Des bottes de base peuvent être achetées dans certains magasins pour équiper les membres du groupe. Ce mod ajoute également une centaine de portraits et de voix.",
         "urls": [
-            "http://www.shsforums.net/topic/56532-bg-more-faster-better/"
+            "http://www.shsforums.net/files/file/1074-bg-more-faster-better/"
         ],
         "categories": [
             "Gameplay",
@@ -44250,10 +44327,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-09",
-        "tp2": ""
+        "tp2": "wl_SummonsFoW"
     },
     {
         "name": "Lore Friendly Easy Mod",
@@ -45494,7 +45573,7 @@
     },
     {
         "name": "Soundset for the enhanced edition Infinity Engine games",
-        "description": "Tous les packs de sons (en anglais) crées par Boooof. Il y a :|Benny et Garrett du jeu Thief.|Borjoyzee, Delphi et Yan du jeu Giants Citizen Kabuto.|Cassandra du jeu Dragon Age Inquisition.|Une garde de l'Oblivion du jeu Oblivion.|Zapp Brannigan de la série tv Futurama.",
+        "description": "Tous les packs de sons (en anglais) crées par Boooof. Il y a :|[[Benny soundset]] et Garrett du jeu Thief.|[[Borjoyzee soundset]], Delphi et Yan du jeu Giants Citizen Kabuto.|Cassandra du jeu Dragon Age Inquisition.|Une garde de l'Oblivion du jeu Oblivion.|Zapp Brannigan de la série tv Futurama.",
         "urls": [
             "https://drive.google.com/drive/folders/1EzgeRRAoj79BhEsWjUa_7PZrl4QUh4-P",
             "https://github.com/Boooof"
@@ -45513,7 +45592,7 @@
         ],
         "team": [],
         "notes": [
-            "le lien vers Github propose trois soundsets. Le lien vers Drive propose l'intégrale des huit soundsets crées.",
+            "Le lien vers Github propose trois soundsets. Le lien vers Drive propose l'intégrale des huit soundsets créés.",
             "Nécessite BGEE, B2EE ou IWDEE en version 2.6+"
         ],
         "translation_state": "no",
@@ -47182,11 +47261,13 @@
             "Boooof"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Inclus dans [[Soundset for the enhanced edition Infinity Engine games]] du même auteur."
+        ],
         "translation_state": "n/a",
-        "safe": 2,
+        "safe": 0,
         "languages": [],
-        "status": "active",
+        "status": "embed",
         "last_update": "2023-02",
         "tp2": "Borjoyzee Soundset"
     },
@@ -47208,13 +47289,15 @@
             "Boooof"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Inclus dans [[Soundset for the enhanced edition Infinity Engine games]] du même auteur."
+        ],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 0,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "embed",
         "last_update": "2023-07",
         "tp2": "Benny Soundset"
     },
