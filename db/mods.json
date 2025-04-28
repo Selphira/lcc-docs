@@ -24,34 +24,6 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "3.5 Edition / Pathfinder style Tweaks Collection",
-        "description": "Il s'agit d'une collection de mini mods écrits par Reddbane pour appliquer certaines règles de AD&D 3.5e et Pathfinder dans les jeux IE. Elle comprend pour l'instant trois volets :|- Modification de la table de progression des TAC0.|- Harmonisation de la table de progression des bonus de PV selon la Constitution.|- Dés de vie plus élevés pour les mages, sorciers, voleurs et bardes.|- Rééquilibrage des styles d'arme.",
-        "urls": [
-            "http://www.shsforums.net/topic/59169-35-edition-pathfinder-style-tweaks-collection-thac0-constitution",
-            "https://forums.beamdog.com/discussion/63741/"
-        ],
-        "categories": [
-            "Gameplay"
-        ],
-        "games": [
-            "BGEE",
-            "BG2EE",
-            "SoD",
-            "IWDEE"
-        ],
-        "authors": [
-            "Reddbane"
-        ],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
-        "safe": 2,
-        "languages": [],
-        "status": "active",
-        "last_update": "2019-03",
-        "tp2": ""
-    },
-    {
         "name": "3.5e Pathfinder Thac0 Progression",
         "description": "Ce mini mod modifie la table de progression des TAC0 pour correspondre à celles de A&D 3.5e et Pathfinder. Celle des guerriers reste inchangée, mais celles des voleurs et des prêtres avancent d'un point par niveau pendant 3 niveaux, puis restent stables le niveaux suivant, et ainsi de suite, jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 18 - N5 = 17 - N6 = 17 - N7 = 16...). Celle des mages avance maintenant de 1 tous les deux niveaux jusqu'à un plafonnement de 5 au niveau 21 (N1 = 20 - N2 = 20 - N3 = 19 - N4 = 19 - N5 = 18...). La table THAC0.2da s'étend jusqu'au niveau 50. Nouvelle table <a href=\"http://www.shsforums.net/index.php?app=core&amp;module=attach&section=attach&amp;attach_id=29456\">ici</a>.",
         "urls": [
@@ -383,10 +355,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-01",
-        "tp2": ""
+        "tp2": "ace_epp"
     },
     {
         "name": "Achievements!",
@@ -1401,10 +1375,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-02",
-        "tp2": ""
+        "tp2": "amaureasbg1portraits"
     },
     {
         "name": "Amaurea's BG2 Portraits",
@@ -1435,10 +1411,12 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-02",
-        "tp2": ""
+        "tp2": "amaureasbg2portraits"
     },
     {
         "name": "Amazon Fighter kit",
@@ -4089,17 +4067,17 @@
         "name": "BG:EE Chargen Abilities Screen - show stored values and simple auto roller",
         "description": "Ce mod permet de stocker automatiquement le score de caractéristiques lors de la création d'un personnage en appuyant sur le nouveau bouton \"autoroll\". Ce dernier permet de lancer les dés automatiquement jusqu'à ce que vous obteniez le score souhaité.|Son installation nécessite une manipulation du fichier UI.menu décrite sur la page de téléchargement.",
         "urls": [
-            "https://forums.beamdog.com/discussion/63741/"
+            "https://forums.beamdog.com/discussion/51777/"
         ],
         "categories": [
-            "Personnalisation du groupe"
+            "Interface"
         ],
         "games": [
             "BGEE",
             "SoD"
         ],
         "authors": [
-            "Reddbane"
+            "Faydark"
         ],
         "team": [],
         "notes": [],
@@ -4108,7 +4086,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2019-03",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "BG:EE Classic Movies",
@@ -4250,7 +4228,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2012-12",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "BGSpawn System",
@@ -4323,7 +4301,8 @@
         "name": "BGT Tweak Pack",
         "description": "Ce mod spécifique à BGT et compagnon officiel de ce dernier, permet de modifier certains comportements du jeu, notamment dans la partie Baldur's Gate et Légende de l'Île perdue. Vous pouvez notamment explorer automatiquement les villes, rendre aléatoires les pièges dans la caverne des pirates, ajouter des sacs de contenance sur la Côte des Épées, ajouter davantage de scalps de bandits, modifier les effets de la pénurie de fer sur les objets susceptibles de se briser, restaurer l'XP de BG2 pour le crochetage des serrures, le désamorçage des pièges et l'apprentissage des sorts, ajouter des armes exotiques dans la forge de Taerom, importer davantage d'objets depuis Baldur's Gate vers Shadows of Amn...",
         "urls": [
-            "http://www.shsforums.net/files/file/67-baldurs-gate-trilogy-tweak-pack-11/"
+            "http://www.shsforums.net/files/file/67-bgt-tweak-pack/",
+            "https://github.com/Spellhold-Studios/BGT-Tweak-Pack"
         ],
         "categories": [
             "Gameplay"
@@ -4343,10 +4322,20 @@
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "fr",
+            "de",
+            "it",
+            "kr",
+            "pl",
+            "ru",
+            "cn"
+        ],
         "status": "active",
-        "last_update": "2024-10",
-        "tp2": ""
+        "last_update": "2024-09",
+        "tp2": "bgttweak"
     },
     {
         "name": "BP Series Party AI Scripts",
@@ -5751,10 +5740,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2013-05",
-        "tp2": ""
+        "tp2": "x0black"
     },
     {
         "name": "Blackguard paladin kit for BG2",
@@ -5777,10 +5768,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2012-12",
-        "tp2": ""
+        "tp2": "Blackguard"
     },
     {
         "name": "Blonde Imoen",
@@ -5993,7 +5986,7 @@
     },
     {
         "name": "Brage's Penance",
-        "description": "L'auteur de ce mod se vante de l'avoir écrit en 3h47m pour fêter l'anniversaire de BG...|Vous pouvez recruter Brage et accomplir une petite quête.|Il est intégré dans le mod [[Archive of Icendoan]].",
+        "description": "L'auteur de ce mod se vante de l'avoir écrit en 3h47m pour fêter l'anniversaire de BG...|Vous pouvez recruter Brage et accomplir une petite quête.",
         "urls": [
             "http://www.shsforums.net/files/file/704-brages-penance/"
         ],
@@ -6007,13 +6000,17 @@
             "Icendoan"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "Il est intégré dans le mod [[Archive of Icendoan]]."
+        ],
         "translation_state": "no",
-        "safe": 1,
-        "languages": [],
-        "status": "active",
+        "safe": 0,
+        "languages": [
+            "en"
+        ],
+        "status": "embed",
         "last_update": "2008-12",
-        "tp2": ""
+        "tp2": "#!brage"
     },
     {
         "name": "Brage's Redemption - Brage NPC",
@@ -6463,12 +6460,14 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2010-09",
-        "tp2": ""
+        "tp2": "buckreversion"
     },
     {
         "name": "Caina Fighter/Brigand NPC and Zarra Ranger/Archer NPC",
@@ -6579,7 +6578,7 @@
         ],
         "status": "active",
         "last_update": "2014-11",
-        "tp2": ""
+        "tp2": "Card Kit"
     },
     {
         "name": "Casanova",
@@ -6690,10 +6689,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2010-02",
-        "tp2": ""
+        "tp2": "PickyFams"
     },
     {
         "name": "Cerberus",
@@ -6717,10 +6719,17 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "it",
+            "es",
+            "fr",
+            "de"
+        ],
         "status": "active",
         "last_update": "2013-03",
-        "tp2": ""
+        "tp2": "Cerberus"
     },
     {
         "name": "Cernd Friendship",
@@ -9823,10 +9832,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2013-01",
+        "tp2": "DivineIntervention"
     },
     {
         "name": "The Divine Remix",
@@ -10135,12 +10146,14 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2014-05",
-        "tp2": ""
+        "tp2": "ddiscshp"
     },
     {
         "name": "Dragonspear UI++",
@@ -10440,15 +10453,15 @@
             "phordicus"
         ],
         "team": [],
-        "notes": [
-            "Attention : Le lien de téléchargement médiafire est temporaire. Prévenez-nous s'il disparaît !"
-        ],
+        "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2011-04",
+        "tp2": "phord_druidkits"
     },
     {
         "name": "Druidic Sorcerer Kit",
@@ -11229,10 +11242,13 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "de"
+        ],
         "status": "active",
         "last_update": "2008-11",
-        "tp2": ""
+        "tp2": "Eldoth"
     },
     {
         "name": "Eldritch Magic",
@@ -11323,14 +11339,16 @@
         ],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2022-03",
-        "tp2": ""
+        "tp2": "Elements of Destruction"
     },
     {
         "name": "Elvanshalee NPC",
-        "description": "Ce mod allemand ajoute un nouveau PNJ, Elvanshalee, une drow chaotique good, prêtresse d'Elistraée, que vous trouverez dans le quartier du gouvernement. Elle utilise une épée que seules les prêtresses d'Elistraée peuvent manier.",
+        "description": "Ce mod ajoute un nouveau PNJ, Elvanshalee, une drow chaotique bonne, prêtresse d'Elistraée, que vous trouverez dans le quartier du gouvernement. Elle utilise une épée que seules les prêtresses d'Elistraée peuvent manier.",
         "urls": [
             "https://www.baldur.cob-bg.pl/node/1201"
         ],
@@ -11350,10 +11368,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "de"
+        ],
         "status": "active",
         "last_update": "",
-        "tp2": ""
+        "tp2": "Elvan-all"
     },
     {
         "name": "Emily, a Half-Elf Archer",
@@ -12726,10 +12746,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2020-03",
-        "tp2": ""
+        "tp2": "First Aid"
     },
     {
         "name": "Fishing for Trouble",
@@ -12822,7 +12844,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2019-11",
-        "tp2": ""
+        "tp2": "Flanks and Rear"
     },
     {
         "name": "Foebane +3 and +5 improvement mod",
@@ -13934,18 +13956,18 @@
         "authors": [
             "ghostdog"
         ],
-        "team": [
-            "mirandir"
-        ],
+        "team": [],
         "notes": [
             "Attention : si vous avez installé le mod de correction de la traduction française, téléchargez le mod de la Couronne de Cuivre, sinon, utilisez le lien SHS."
         ],
-        "translation_state": "yes",
+        "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2012-01",
-        "tp2": ""
+        "tp2": "GhostDog's-PST-UI"
     },
     {
         "name": "Glam's NPC Pack",
@@ -19909,10 +19931,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "cz",
+            "it"
+        ],
         "status": "active",
         "last_update": "2009-03",
-        "tp2": ""
+        "tp2": "lotritems"
     },
     {
         "name": "Lore From Learning",
@@ -23301,7 +23327,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2020-07",
-        "tp2": ""
+        "tp2": "No Critical Misses"
     },
     {
         "name": "No Race Restrictions Mod",
@@ -24087,10 +24113,15 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "it",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2010-03",
-        "tp2": ""
+        "tp2": "p5tweaks"
     },
     {
         "name": "PC Soundsets",
@@ -25425,7 +25456,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2007-09",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Portrait Picker",
@@ -25452,10 +25483,19 @@
         ],
         "translation_state": "yes",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "fr",
+            "cz",
+            "de",
+            "it",
+            "pl",
+            "br",
+            "pt",
+            "en"
+        ],
         "status": "active",
         "last_update": "2016-07",
-        "tp2": ""
+        "tp2": "ppicker"
     },
     {
         "name": "Portraits Portraits Everywhere",
@@ -26259,12 +26299,12 @@
     },
     {
         "name": "Raziel NPC",
-        "description": "Ce mod ajoute un nouveau personnage recrutable qui, lui-aussi, a été capturé et emprisonné par Irenicus.",
+        "description": "Ce mod ajoute un nouveau voleur recrutable qui, lui-aussi, a été capturé et emprisonné par Irenicus.|FOR 15, DEX 17, CON 14, INT 16, SAG 11, CHA 13",
         "urls": [
             "https://baldur.cob-bg.pl/raziel"
         ],
         "categories": [
-            "PNJ recrutable"
+            "PNJ One Day"
         ],
         "games": [
             "BG2",
@@ -26281,8 +26321,8 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-06",
+        "tp2": "Raziel"
     },
     {
         "name": "Realm of the Bhaalspawn Armor Set",
@@ -32016,7 +32056,7 @@
             "BGT"
         ],
         "authors": [
-            "don_schmelling"
+            "Headbanger"
         ],
         "team": [],
         "notes": [],
@@ -36378,10 +36418,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2017-10",
-        "tp2": ""
+        "tp2": "Vampire_World"
     },
     {
         "name": "Vanim NPC",
@@ -38790,10 +38832,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2009-10",
-        "tp2": ""
+        "tp2": "ktweaks"
     },
     {
         "name": "so Cromwell does NOT take a day?",
@@ -47725,7 +47769,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2022-05",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "BG1 NPC Portrait Pack (2)",
@@ -50757,7 +50801,7 @@
         ],
         "status": "active",
         "last_update": "2005-09",
-        "tp2": ""
+        "tp2": "n/a"
     },
     {
         "name": "Rutkowski's NPC Conversion",
@@ -51168,7 +51212,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2019-01",
-        "tp2": ""
+        "tp2": "WoBG_glosy_NPC"
     },
     {
         "name": "Portrait Grabber",
