@@ -4295,7 +4295,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2009-08",
-        "tp2": ""
+        "tp2": "BGT-NPCSound"
     },
     {
         "name": "BGT Tweak Pack",
@@ -4380,16 +4380,16 @@
             "BGT"
         ],
         "authors": [
-            "Leonardo Watson"
+            "Manduran"
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
         "last_update": "2022-01",
-        "tp2": ""
+        "tp2": "BP-Balancer"
     },
     {
         "name": "Back to Baldur's Gate",
@@ -5589,7 +5589,7 @@
     },
     {
         "name": "BioWARE Forum-Only Items",
-        "description": "Ce mini mod ajoute une potion, une paire de bottes et une épée mystérieuse dans certains magasins du jeu. Pas très intéressant.",
+        "description": "Ce mini mod ajoute une potion, une paire de bottes et une épée mystérieuse dans certains magasins du jeu.",
         "urls": [
             "http://www.shsforums.net/files/file/662-bioware-forum-only-items/"
         ],
@@ -5607,10 +5607,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2008-12",
-        "tp2": ""
+        "tp2": "forum_only"
     },
     {
         "name": "Black Pits in BGEE",
@@ -5834,10 +5836,16 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "de",
+            "it",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2009-12",
-        "tp2": ""
+        "tp2": "BloodMort"
     },
     {
         "name": "Boards O' Magick Item Pack",
@@ -6252,10 +6260,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-09",
-        "tp2": ""
+        "tp2": "Brislelick"
     },
     {
         "name": "Britt, the One-Hour Unjoinable NPC",
@@ -6298,15 +6308,19 @@
         "games": [
             "BG2"
         ],
-        "authors": [],
+        "authors": [
+            "llamababe"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2004-12",
+        "tp2": "BonsBrucev2"
     },
     {
         "name": "BuTcHeRy",
@@ -9975,7 +9989,7 @@
         "languages": [],
         "status": "obsolete",
         "last_update": "2015-10",
-        "tp2": ""
+        "tp2": "UnconsciousRestore"
     },
     {
         "name": "Dorn Friendship",
@@ -10477,16 +10491,18 @@
             "BGT"
         ],
         "authors": [
-            "hlidskialf"
+            "Constant Gaw"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2007-04",
-        "tp2": ""
+        "tp2": "DruidicSorcererKit"
     },
     {
         "name": "Dudleyfix pour BG (et ToSC)",
@@ -10725,10 +10741,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2018-02",
-        "tp2": ""
+        "tp2": "DwarvenDefenderRevision"
     },
     {
         "name": "EE Autoroller",
@@ -10847,7 +10865,7 @@
     },
     {
         "name": "EEUITweaks",
-        "description": "Ce mod permet de modifier la nouvelle interface de jeu de BG:EE et BG2:EE apparue avec la version 2.0 et Siege of Dragonspear. À l'image de BG2 Tweaks, il propose une multitude de petites modifications. Certains composants sont spécifiques à un jeu ou à la présence d'un autre mod GUI. Il doit donc être installé après eux, notamment après les mods précédents.",
+        "description": "Ce mod permet de modifier la nouvelle interface de jeu de BG:EE et BG2:EE apparue avec la version 2.0 et Siege of Dragonspear. À l'image de [[BG2 Tweaks Pack]], il propose une multitude de petites modifications. Certains composants sont spécifiques à un jeu ou à la présence d'un autre mod GUI. Il doit donc être installé après eux, notamment après les mods précédents.",
         "urls": [
             "https://www.gibberlings3.net/forums/topic/30832-ui-eeuitweaks-mod-collection-all-ees/",
             "https://forums.beamdog.com/discussion/60717/",
@@ -11731,7 +11749,7 @@
     },
     {
         "name": "Epic Endeavors",
-        "description": "Cette conversion totale de Shadows of Amn respecte les règles d'AD&D 2 mais mélange les genres en multipliant les clins d'œil à des jeux ou à des films.|L'histoire se déroule dans un monde imaginaire n'ayant aucun rapport avec les Royaumes Oubliés. Vous êtes à la tête d'une petite unité de commandos devant accomplir une série de missions, certaines particulièrement originales, visant à empêcher un fou furieux de régner sur votre monde. Le jeu se déroule au fil des missions qu'on vous confie, avant de partir pour le grand combat final.|Le mod rajoute de nombreuses nouvelles créatures et de nouveaux objets, 60 cartes, 13 grandes quêtes, 20 heures environ de temps de jeu rajouté, et un combat final assez redoutable à ce qu'il parait, avec 200 créatures à combattre... Le jeu a une grande dimension tactique (impossible de foncer dans le tas...).|Il s'agit d'un mod WeiDU, ce qui signifie qu'il est désinstallable/installable facilement et compatible avec Throne of Bhaal ce qui n'était pas le cas dans la version originale. Il faut une installation propre de SoA avec ou sans ToB (sans autre mod, seulement le patch officiel et éventuellement un des patches non officiels). Vous pouvez néanmoins installer, après [[Epic Endeavors]], des mods \"mineurs\" influant sur les règles du jeu comme le BG2 Tweaks, mais tout mod ajoutant du contenu (PNJ, quêtes, ...) sera inutile et incompatible.",
+        "description": "Cette conversion totale de Shadows of Amn respecte les règles d'AD&D 2 mais mélange les genres en multipliant les clins d'œil à des jeux ou à des films.|L'histoire se déroule dans un monde imaginaire n'ayant aucun rapport avec les Royaumes Oubliés. Vous êtes à la tête d'une petite unité de commandos devant accomplir une série de missions, certaines particulièrement originales, visant à empêcher un fou furieux de régner sur votre monde. Le jeu se déroule au fil des missions qu'on vous confie, avant de partir pour le grand combat final.|Le mod rajoute de nombreuses nouvelles créatures et de nouveaux objets, 60 cartes, 13 grandes quêtes, 20 heures environ de temps de jeu rajouté, et un combat final assez redoutable à ce qu'il parait, avec 200 créatures à combattre...",
         "urls": [
             "http://www.shsforums.net/files/file/45-epic-endeavors/"
         ],
@@ -11742,19 +11760,29 @@
             "BG2"
         ],
         "authors": [
+            "Elhoe",
+            "Japheth",
             "Isaya"
         ],
         "team": [
             "Egrevyn",
             "Walar"
         ],
-        "notes": [],
+        "notes": [
+            "Le jeu a une grande dimension tactique (impossible de foncer dans le tas...).|Compatible avec Throne of Bhaal ce qui n'était pas le cas dans la version originale. Il faut une installation propre de SoA avec ou sans ToB (sans autre mod, seulement le patch officiel et éventuellement un des patches non officiels). Vous pouvez néanmoins installer, après [[Epic Endeavors]], des mods \"mineurs\" influant sur les règles du jeu comme le [[BG2 Tweaks Pack]], mais tout mod ajoutant du contenu (PNJ, quêtes, ...) sera inutile et incompatible."
+        ],
         "translation_state": "yes",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "it",
+            "de",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2010-04",
-        "tp2": ""
+        "tp2": "eeconv"
     },
     {
         "name": "Epic Thieving",
@@ -12022,10 +12050,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2007-04",
-        "tp2": ""
+        "tp2": "Exnem"
     },
     {
         "name": "Expanded Classes and Kits",
@@ -12975,10 +13005,16 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr",
+            "ru",
+            "pl",
+            "kr"
+        ],
         "status": "active",
         "last_update": "2024-09",
-        "tp2": ""
+        "tp2": "ForgeIt-IWD"
     },
     {
         "name": "Forgotten Armament",
@@ -15039,7 +15075,7 @@
     },
     {
         "name": "Hidden Kits",
-        "description": "Ce mod ajoute 7 profils que vous pourrez obtenir en vous multi-classant au niveau 12 : Archmage (mage), Eldritch Phantom (voleur), Prelate (clerc), Shadow Blade (voleur), Spell Steel (mage), Sylvan Justiciar (rôdeur) et Sylvan Warden (druide).|L'expérience nécessaire pour les finaliser est considérable, mais leurs avantages sont à la mesure de la chose. Ils requièrent également des compétences pré-requises. Outre les avantages et inconvénients de chacun, leur plus importante caractéristique réside dans la capacité d'augmenter votre classe inactive lorsque vous montez de niveau.|Outre le PJ, 12 PNJ de Bioware pourront bénéficier de ces mystérieux kits : Aerie the Archmage, Anomen the Prelate, Imoen the Eldritch PhantomJaheira the Sylvan Warden, Jan the Eldritch Phantom, Korgan the Shadow Blade, Mazzy the Prelate, Minsc the Sylvan Justiciar, Sarevok the Spell Steel, Valygar the Sylvan Justiciar, Viconia the Prelate, Yoshimo the Shadow Blade.",
+        "description": "Ce mod ajoute 7 profils que vous pourrez obtenir en vous multi-classant au niveau 12 : Archmage (mage), Eldritch Phantom (voleur), Prelate (clerc), Shadow Blade (voleur), Spell Steel (mage), Sylvan Justiciar (rôdeur) et Sylvan Warden (druide).|L'expérience nécessaire pour les finaliser est considérable, mais leurs avantages sont à la mesure de la chose. Ils requièrent également des compétences pré-requises. Outre les avantages et inconvénients de chacun, leur plus importante caractéristique réside dans la capacité d'augmenter votre classe inactive lorsque vous montez de niveau.|Outre le PJ, 12 PNJ de Bioware pourront bénéficier de ces mystérieux kits : Aerie the Archmage, Anomen the Prelate, Imoen the Eldritch, PhantomJaheira the Sylvan Warden, Jan the Eldritch Phantom, Korgan the Shadow Blade, Mazzy the Prelate, Minsc the Sylvan Justiciar, Sarevok the Spell Steel, Valygar the Sylvan Justiciar, Viconia the Prelate, Yoshimo the Shadow Blade.",
         "urls": [
             "http://www.shsforums.net/files/file/623-hidden-kits/"
         ],
@@ -15058,10 +15094,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2008-04",
-        "tp2": ""
+        "tp2": "HideKt"
     },
     {
         "name": "High Level ABILITIES - a ToB mod for casters",
@@ -15223,10 +15261,12 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-02",
-        "tp2": ""
+        "tp2": "Hoarders"
     },
     {
         "name": "Holy Avenger Kit + Extra",
@@ -15373,10 +15413,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2014-12",
-        "tp2": ""
+        "tp2": "S9HouseRules"
     },
     {
         "name": "Houyi - Luan's high-quality archery store",
@@ -15791,7 +15833,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2012-02",
-        "tp2": ""
+        "tp2": "abIWD-HotFix"
     },
     {
         "name": "IWD-in-BG2 Fixpack/Tweaks",
@@ -15813,10 +15855,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2019-02",
-        "tp2": ""
+        "tp2": "ice_tutu_tweaks"
     },
     {
         "name": "Icewind Dale II Bonus Merchant",
@@ -16150,10 +16194,12 @@
         ],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "2019-02",
-        "tp2": ""
+        "last_update": "2013-08",
+        "tp2": "iwd_in_BG2"
     },
     {
         "name": "Icewind Gate II",
@@ -16195,6 +16241,7 @@
             "BGT"
         ],
         "authors": [
+            "Ilmatar",
             "Lava Del'Vortel"
         ],
         "team": [],
@@ -16204,7 +16251,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2011-01",
-        "tp2": ""
+        "tp2": "IlmatarPack"
     },
     {
         "name": "Imoen 4 Ever",
@@ -16520,15 +16567,19 @@
             "EET",
             "IWDEE"
         ],
-        "authors": [],
+        "authors": [
+            "Gamemaster76"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-08",
+        "tp2": "Improved_Beast_Master_Kit"
     },
     {
         "name": "Improved Cloak of Non-Detection",
@@ -16576,10 +16627,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2018-08",
-        "tp2": ""
+        "tp2": "Tresset_Comet;Tresset_Meteors"
     },
     {
         "name": "Improved GUI for BG:EE",
@@ -17691,10 +17744,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": "active",
         "last_update": "2010-01",
-        "tp2": ""
+        "tp2": "d2item"
     },
     {
         "name": "Jan's Alchemy",
@@ -18404,10 +18460,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "hr"
+        ],
         "status": "active",
         "last_update": "2009-05",
-        "tp2": ""
+        "tp2": "kenkat"
     },
     {
         "name": "Kensai Kit Revision Mod",
@@ -18618,10 +18678,12 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2007-10",
-        "tp2": ""
+        "tp2": "Kido"
     },
     {
         "name": "Killing Wolf NPC",
@@ -18643,10 +18705,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru",
+            "it"
+        ],
         "status": "active",
         "last_update": "2009-06",
-        "tp2": ""
+        "tp2": "KWolf"
     },
     {
         "name": "KimNPC",
@@ -18722,16 +18788,19 @@
             "BGT"
         ],
         "authors": [
+            "King Dutka",
             "hlidskialf"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2007-04",
-        "tp2": ""
+        "tp2": "KingDutka"
     },
     {
         "name": "Kit Mule kit",
@@ -18976,10 +19045,13 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "it"
+        ],
         "status": "active",
         "last_update": "2009-11",
-        "tp2": ""
+        "tp2": "KonTwk"
     },
     {
         "name": "L’anna",
@@ -19084,16 +19156,19 @@
             "BGT"
         ],
         "authors": [
-            "Ancalagon el Negro"
+            "Eslizon"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es"
+        ],
         "status": "active",
         "last_update": "2010-03",
-        "tp2": ""
+        "tp2": "musica"
     },
     {
         "name": "LadeJarl's Tutu GUI (Original BG1 GUI)",
@@ -19383,10 +19458,13 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "cn"
+        ],
         "status": "active",
-        "last_update": "2013-01",
-        "tp2": ""
+        "last_update": "2008-11",
+        "tp2": "LOHMod"
     },
     {
         "name": "Lena",
@@ -19759,10 +19837,12 @@
         ],
         "translation_state": "n/a",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-07",
-        "tp2": ""
+        "tp2": "Life in Low Relief"
     },
     {
         "name": "Light of Selune",
@@ -19785,10 +19865,13 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "fr"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2018-05",
+        "tp2": "LOS"
     },
     {
         "name": "Lion Warrior kit",
@@ -22971,10 +23054,12 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "",
-        "tp2": ""
+        "tp2": "NeJ3v71"
     },
     {
         "name": "New Starting Parties",
@@ -24537,7 +24622,7 @@
         ],
         "status": "active",
         "last_update": "2017-05",
-        "tp2": ""
+        "tp2": "correcfr;correcfr_autopatch;correcfr_autopatch2"
     },
     {
         "name": "Pathfinder Hit Dice",
@@ -24952,10 +25037,18 @@
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "es",
+            "it",
+            "pl",
+            "ru",
+            "fr"
+        ],
         "status": "active",
         "last_update": "2012-08",
-        "tp2": ""
+        "tp2": "PST-Fix"
     },
     {
         "name": "PS:T Unfinished Business - Reloaded",
@@ -27097,10 +27190,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "it"
+        ],
         "status": "active",
         "last_update": "2007-04",
-        "tp2": ""
+        "tp2": "RTT"
     },
     {
         "name": "The Reunion",
@@ -31396,10 +31492,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2024-09",
-        "tp2": ""
+        "tp2": "Tviy"
     },
     {
         "name": "T'was a Slow Boat from Kara-Tur",
@@ -31519,10 +31619,19 @@
         ],
         "translation_state": "yes",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "it",
+            "de",
+            "fr",
+            "es",
+            "pl",
+            "cn",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2016-02",
-        "tp2": ""
+        "tp2": "eetact2"
     },
     {
         "name": "Tactics Remix",
@@ -33467,10 +33576,16 @@
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "fr",
+            "ru",
+            "kr"
+        ],
         "status": "active",
         "last_update": "2023-10",
-        "tp2": ""
+        "tp2": "kuldahar"
     },
     {
         "name": "The Rogue Class Switching Mod (Bard to Thief and vice versa)",
@@ -34897,7 +35012,9 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2023-04",
         "tp2": "non-weidu"
@@ -34991,8 +35108,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2001-07",
+        "tp2": "n/a"
     },
     {
         "name": "Trovador REO",
@@ -40648,11 +40765,13 @@
         "translation_state": "no",
         "safe": 2,
         "languages": [
-            "en"
+            "en",
+            "ru",
+            "cn"
         ],
         "status": "active",
         "last_update": "2025-02",
-        "tp2": ""
+        "tp2": "BloodiedStingsOfBarovia"
     },
     {
         "name": "Loretakers",
@@ -42020,10 +42139,12 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2024-05",
-        "tp2": ""
+        "tp2": "DeadGardens"
     },
     {
         "name": "New and Revised Spells",
@@ -42790,7 +42911,7 @@
         ],
         "status": "active",
         "last_update": "2024-10",
-        "tp2": ""
+        "tp2": "EdwinBromance"
     },
     {
         "name": "Baeloth's Deal",
@@ -43109,7 +43230,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2017-02",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "Restricting Specialist's extra Spell Slots to Specialist's School Spells",
@@ -44319,12 +44440,12 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
-        "safe": 2,
+        "translation_state": "n/a",
+        "safe": 1,
         "languages": [],
         "status": "active",
         "last_update": "2013-08",
-        "tp2": ""
+        "tp2": "non-weidu"
     },
     {
         "name": "No Fences",
@@ -50096,7 +50217,7 @@
     },
     {
         "name": "Improved Creatures",
-        "description": "Ce mod rajoute les animations de lancement de sorts manquantes aux Cornugons, Glabrezus, Illithids et Mages yuan-tis",
+        "description": "Ce mod rajoute les animations de lancement de sorts manquantes aux Cornugons, Glabrezus, Illithids et Mages yuan-tis.",
         "urls": [
             "http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=55"
         ],
@@ -52440,7 +52561,7 @@
         "tp2": "non-weidu"
     },
     {
-        "name": "Original Drizzt ",
+        "name": "Original Drizzt",
         "description": "Avant le patch 1.3, Drizzt était beaucoup plus difficile à embrouiller. Ce mod remet en place Drizzt tel qu'il était avant le patch 1.3.",
         "urls": [
             "https://forums.beamdog.com/discussion/39686"
