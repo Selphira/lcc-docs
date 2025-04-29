@@ -3542,8 +3542,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2003-10",
+        "tp2": "n/a"
     },
     {
         "name": "BG1 Tutufixpack",
@@ -6309,7 +6309,7 @@
             "BG2"
         ],
         "authors": [
-            "llamababe"
+            "Bonnie Rutledge"
         ],
         "team": [],
         "notes": [],
@@ -6525,15 +6525,21 @@
             "Japheth"
         ],
         "team": [
-            "Nathiel"
+            "Thot"
         ],
         "notes": [],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "pl",
+            "fr",
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2004-08",
+        "tp2": "cal"
     },
     {
         "name": "Calin",
@@ -13804,10 +13810,11 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "es"
         ],
         "status": "active",
-        "last_update": "2019-02",
+        "last_update": "2025-04",
         "tp2": "druidsor"
     },
     {
@@ -13881,16 +13888,20 @@
             "BGT"
         ],
         "authors": [
-            "GRoA"
+            "kismet"
         ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "es"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2009-06",
+        "tp2": "GRoA"
     },
     {
         "name": "Ggib Eht Tweak Pack",
@@ -13940,10 +13951,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "es",
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2004-04",
+        "tp2": "Gareth"
     },
     {
         "name": "Ghost",
@@ -14186,10 +14201,17 @@
         ],
         "translation_state": "yes",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl",
+            "fr",
+            "de",
+            "it",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2010-04",
+        "tp2": "Goo"
     },
     {
         "name": "Grey Acumen's Kit Improvements",
@@ -15031,10 +15053,12 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2004-02",
+        "tp2": "HessaNPC"
     },
     {
         "name": "Hidden Adventures",
@@ -19195,8 +19219,8 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2008-04",
+        "tp2": "TutuGUI"
     },
     {
         "name": "Larsha NPC",
@@ -38241,7 +38265,7 @@
     },
     {
         "name": "Xan NPC MOD for Baldur's Gate II",
-        "description": "Vous vous souvenez de ce personnage si joyeux et optimiste dans BG (ironie inside pour les connaisseurs) ? Eh bien, le voici de retour dans BG2. Notre magicien dépressif a de nombreuses interactions avec l'ensemble des personnages de BG2, quelques cinématiques et un kit de voix. Il propose même une romance à deux voies si votre personnage est une jolie elfette. Bref, de quoi ravir les fans de cet enchanteur.|Si vous le souhaitez, vous pouvez installer le <a href=\"https://www.pocketplane.net/diversions-and-soundsets/\">soundset d'origine en français de Xan, extrait de BG1</a>. Dans ce cas, vous devez l'installer après Xan BG2.",
+        "description": "Vous vous souvenez de ce personnage si joyeux et optimiste dans BG (ironie inside pour les connaisseurs) ? Eh bien, le voici de retour dans BG2. Notre magicien dépressif a de nombreuses interactions avec l'ensemble des personnages de BG2, quelques cinématiques et un kit de voix. Il propose même une romance à deux voies si votre personnage est une jolie elfette. Bref, de quoi ravir les fans de cet enchanteur.|Si vous le souhaitez, vous pouvez installer [[Xan's French Soundset for BG2]]. Dans ce cas, vous devez l'installer après Xan BG2.",
         "urls": [
             "https://www.pocketplane.net/xan-bg2-npc/",
             "https://github.com/Pocket-Plane-Group/Xan_for_BGII"
