@@ -4864,17 +4864,24 @@
             "Tutu",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Kevin Dorner",
+            "King Diamond",
+            "Vlad"
+        ],
         "team": [],
         "notes": [
             "Vous ne devez installer la version 1.76 que si et seulement si vous avez l'intention d'utiliser [[Never Ending Journey]] et/ou [[Tortured Souls-BP]]. Dans ce cas, téléchargez le mod <a href=\"http://dragonshoard.blackwyrmlair.net/mods_download.php?mod=394\">Vlad's Compilation</a> qui regroupe les dernières versions de [[Baldurdash-WeiDU]], [[Tortured Souls-BP]] et [[berelinde's Keldorn Romance]], ainsi que Third Path, Slavers in Action + Improved Copper Coronet, Semi-Multiple Strongholds, Restored Twisted Rune et d'autres fixes (amélioration de la classe de moine, nouveaux profiles pour les PNJ, nouveaux objets...)."
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de"
+        ],
         "status": "active",
-        "last_update": "2019-02",
-        "tp2": ""
+        "last_update": "2016-04",
+        "tp2": "BDash175"
     },
     {
         "name": "Bank of Baldur's Gate",
@@ -5016,10 +5023,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2021-10",
-        "tp2": ""
+        "tp2": "Barb_comp"
     },
     {
         "name": "Barbed Club of Pain",
@@ -5585,7 +5594,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2013-04",
-        "tp2": ""
+        "tp2": "BG2-Bigger-Fonts"
     },
     {
         "name": "BioWARE Forum-Only Items",
@@ -7453,10 +7462,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
         "last_update": "2010-10",
-        "tp2": ""
+        "tp2": "Classics053"
     },
     {
         "name": "Classic gameplay windows for BG:EE",
@@ -7607,10 +7618,14 @@
         "notes": [],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2004-04",
-        "tp2": ""
+        "tp2": "Cws"
     },
     {
         "name": "Com_encounters",
@@ -11050,9 +11065,9 @@
     },
     {
         "name": "EasyTutu",
-        "description": "Créé par Macready, EasyTutu est une alternative à [[BG1Tutu]] qui s'installe plus facilement et propose une expérience de jeu stable avec les capacités améliorées du moteur de Baldur's Gate 2.",
+        "description": "EasyTutu est une alternative à [[BG1Tutu]] qui s'installe plus facilement et propose une expérience de jeu stable avec les capacités améliorées du moteur de Baldur's Gate 2.",
         "urls": [
-            "http://usoutpost31.com/easytutu/"
+            "https://usoutpost31.com/easytutu/"
         ],
         "categories": [
             "Conversion"
@@ -11070,16 +11085,18 @@
         ],
         "translation_state": "no",
         "safe": 1,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2011-06",
+        "tp2": "non-weidu"
     },
     {
         "name": "EasyTutu Degreenifier",
         "description": "Cet add-on permet d'utiliser l'accélération 3D en supprimant la couleur verte qu'[[EasyTutu]] donne aux étendues d'eau.",
         "urls": [
-            "http://usoutpost31.com/easytutu/"
+            "https://usoutpost31.com/easytutu/"
         ],
         "categories": [
             "Conversion"
@@ -11092,16 +11109,18 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-04",
+        "tp2": "EasyTutuDegreenifier"
     },
     {
         "name": "EasyTutu Spawn Randomizer",
         "description": "Ce mod modifie le système par défaut de l'apparition aléatoire des créatures dans les zones de la Côté des Épées en en faisant évoluer la difficulté en fonction du niveau moyen du groupe. L'utilisateur peut sélectionner l'intervalle de temps entre les apparitions ainsi que la probabilité qu'un déclenchement d'un point de rencontre aléatoire entraîne le peuplement de ce point.",
         "urls": [
-            "http://www.usoutpost31.com/easytutu/"
+            "https://usoutpost31.com/easytutu/"
         ],
         "categories": [
             "Script et tactique"
@@ -11114,10 +11133,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2006-07",
+        "tp2": "EasyTutuSpawnRandomizer"
     },
     {
         "name": "Edvin's Fixed Items",
@@ -13487,14 +13508,16 @@
         "games": [
             "BG"
         ],
-        "authors": [],
+        "authors": [
+            "mud-master"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
+        "last_update": "1999-05",
         "tp2": "n/a"
     },
     {
@@ -13670,12 +13693,12 @@
             "de"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2024-04",
+        "tp2": "DROWPETS"
     },
     {
         "name": "Genwas Händlermod",
-        "description": "Ce mini mod allemand ajoute une \"bouteille du marchand\" que l'on peut récupérer sur les Docks d'Athkatla. Elle permet d'invoquer un marchand djinn qui proposera des articles de meilleure qualité à partir du chapitre 6.",
+        "description": "Ce mini mod ajoute une \"bouteille du marchand\" que l'on peut récupérer sur les Docks d'Athkatla. Elle permet d'invoquer un marchand djinn qui proposera des articles de meilleure qualité à partir du chapitre 6.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/genwas-h%C3%A4ndlermod-bg2.55/",
             "https://www.baldurs-gate.de/index.php?resources/genwas-h%C3%A4ndlermod-bg2ee.54/"
@@ -13696,14 +13719,16 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2022-08",
+        "tp2": "Haendlermod"
     },
     {
         "name": "Genwas Kaufmannsmod BG1 EE",
-        "description": "En allemand, ce mod permet d'invoquer un marchand, aussi souvent que souhaité ou seulement une fois par jour. Ce dernier vous proposeras des quêtes vous permettant d'accéder à son stocks d'objets plus puissants. Un composant optionnel vous permet d'obtenir une clé qui peut vous téléporter trois fois par jour dans une maison extra dimensionnelle.",
+        "description": "Ce mod permet d'invoquer un marchand, aussi souvent que souhaité ou seulement une fois par jour. Ce dernier vous proposeras des quêtes vous permettant d'accéder à son stocks d'objets plus puissants. Un composant optionnel vous permet d'obtenir une clé qui peut vous téléporter trois fois par jour dans une maison extra dimensionnelle.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/genwas-kaufmannsmod-bg1-ee.37/"
         ],
@@ -13721,10 +13746,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2023-05",
+        "tp2": "KMM"
     },
     {
         "name": "Genwas Werwolfmod BG:EE",
@@ -13746,14 +13773,16 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2019-05",
+        "tp2": "WOLFEE"
     },
     {
         "name": "Genwas Zum Freundlichen Arm BG:EE",
-        "description": "Ce mod en allemand permet d'envoyer les PNJ recrutables dans l'auberge de Brasamical, sauf Rasaad qui se rend à Nashkel pour respecter sa quête. Un composant optionnel permet au groupe de se téléporter une fois par jour dans l'auberge grâce à une pierre de téléportation vendue par Bentley Ombremiroir, ainsi que deux autres dans Baldur's Gate et à Nashkel. Un autre composant offre la capacité spéciale de se téléporter à nouveau vers son lieu d'origine. Celle-ci ne dure qu'une heure (temps réel) après avoir utilisé une pierre de téléportation.",
+        "description": "Ce mod permet d'envoyer les PNJ recrutables dans l'auberge de Brasamical, sauf Rasaad qui se rend à Nashkel pour respecter sa quête. Un composant optionnel permet au groupe de se téléporter une fois par jour dans l'auberge grâce à une pierre de téléportation vendue par Bentley Ombremiroir, ainsi que deux autres dans Baldur's Gate et à Nashkel. Un autre composant offre la capacité spéciale de se téléporter à nouveau vers son lieu d'origine. Celle-ci ne dure qu'une heure (temps réel) après avoir utilisé une pierre de téléportation.",
         "urls": [
             "https://www.baldurs-gate.de/index.php?resources/genwas-zum-freundlichen-arm.31/"
         ],
@@ -13774,10 +13803,12 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2025-01",
+        "tp2": "ZFA"
     },
     {
         "name": "Geomantic Sorcerer Kit",
@@ -15826,12 +15857,12 @@
         ],
         "team": [],
         "notes": [],
-        "translation_state": "no",
+        "translation_state": "n/a",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-12",
+        "tp2": "Improvements-IWD"
     },
     {
         "name": "IWD-HotFix",
@@ -17194,16 +17225,19 @@
         "notes": [],
         "translation_state": "n/a",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2021-11",
+        "tp2": "ja#InnsStoresTaverns"
     },
     {
         "name": "Interfaces améliorées pour IWD2",
         "description": "Créé par Luren, ce mod français permet d'optimiser l'interface d'IWD2 modifiée par [[Widescreen]] et calée sur la gauche avec une large bande noire : Les fenêtres sont dorénavant correctement centrées et ne sont plus entourées de bandes noires. Le tout avec plusieurs résolutions d'écran.",
         "urls": [
-            "http://havredest.eklablog.fr/interfaces-pour-widescreen-a42876917"
+            "https://havredest.eklablog.fr/interfaces-pour-widescreen-a42876917"
         ],
         "categories": [
             "Interface"
@@ -17222,8 +17256,8 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2021-10",
+        "tp2": "non-weidu"
     },
     {
         "name": "Iron modder competition packs",
@@ -17238,36 +17272,16 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Multiple"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
-    },
-    {
-        "name": "Iron modder tutu competition packs",
-        "description": "Concours basé le thème \"Une pluie de larmes\" et demandant donc la création de quêtes à ajouter à Tutu, ce pack contient 4 quêtes.",
-        "urls": [
-            "https://www.pocketplane.net/iron-modder-competition/"
-        ],
-        "categories": [
-            "Quête"
-        ],
-        "games": [
-            "Tutu"
-        ],
-        "authors": [],
-        "team": [],
-        "notes": [],
-        "translation_state": "no",
-        "safe": 2,
-        "languages": [],
-        "status": "active",
-        "last_update": "",
+        "last_update": "2004-07",
         "tp2": ""
     },
     {
@@ -17902,10 +17916,14 @@
         ],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "de",
+            "ru"
+        ],
         "status": "active",
         "last_update": "2024-11",
-        "tp2": ""
+        "tp2": "JA#BGT_Tweak"
     },
     {
         "name": "Jastey's Tweaks for SoD and EET (and BGT)",
@@ -18610,10 +18628,13 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "pl"
+        ],
         "status": "active",
         "last_update": "2013-10",
-        "tp2": ""
+        "tp2": "Khalid"
     },
     {
         "name": "Khalid BG2",
@@ -19035,7 +19056,7 @@
         ],
         "team": [],
         "notes": [
-            "En allemand uniquement. De par sa nature, ce mod n'est quasiment pas compatible avec tout autre mod ajoutant ou modifiant des profils, des sorts divins, des armes ou des armures du jeu original."
+            "De par sa nature, ce mod n'est quasiment pas compatible avec tout autre mod ajoutant ou modifiant des profils, des sorts divins, des armes ou des armures du jeu original."
         ],
         "translation_state": "no",
         "safe": 0,
@@ -19044,7 +19065,7 @@
         ],
         "status": "active",
         "last_update": "2018-02",
-        "tp2": ""
+        "tp2": "KKits"
     },
     {
         "name": "Konalan's Tweaks",
@@ -19573,8 +19594,8 @@
             "pl"
         ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2005-04",
+        "tp2": "Lester"
     },
     {
         "name": "Level 40 Extended Tables",
@@ -23824,7 +23845,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2011-07",
-        "tp2": ""
+        "tp2": "1pp_iwd_fixes"
     },
     {
         "name": "One Pixel Productions High-Quality Music for BGT",
@@ -28954,7 +28975,8 @@
         "name": "ShadowKeeper",
         "description": "Cet utilitaire vous permet d'éditer vos sauvegardes de BG2.",
         "urls": [
-            "https://www.baldursgateworld.fr/viewtopic.php?t=24092"
+            "https://www.baldursgateworld.fr/viewtopic.php?t=24092",
+            "https://sorcerers.net/Games/dl.php?s=BG2&f=BG2/ShadowKeeperSource.zip"
         ],
         "categories": [
             "Utilitaire"
@@ -28963,15 +28985,17 @@
             "BG2",
             "BGT"
         ],
-        "authors": [],
+        "authors": [
+            "Aaron O'Neil"
+        ],
         "team": [],
         "notes": [],
         "translation_state": "no",
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2001-04",
+        "tp2": "n/a"
     },
     {
         "name": "Shadows over Soubar",
@@ -34390,10 +34414,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "de"
+        ],
         "status": "active",
-        "last_update": "",
-        "tp2": ""
+        "last_update": "2022-10",
+        "tp2": "COPPER"
     },
     {
         "name": "Tiger Style monk",
@@ -43282,7 +43308,7 @@
         "languages": [],
         "status": "active",
         "last_update": "2018-02",
-        "tp2": ""
+        "tp2": "ITEM_SLOTS;SPECIALIST_BOOK;COLORFUL_SPECIALIST_SLOTS"
     },
     {
         "name": "Disable EE NPCs, EE items available in shops",
@@ -50330,7 +50356,7 @@
         "name": "EasyTutu NPC Kit Selection",
         "description": "Vous rêvez depuis longtemps de faire d'Imoen l'assassin qu'elle a toujours été censée être ?  Voulu que Khalid accomplisse son destin en tant que terrifiant barbare bègue de la Côte des épées ?  Voici votre chance.  L'extension EasyTutu NPC Kit Selection vous permet de sélectionner des kits pour la plupart des PNJ joignables dans Baldur's Gate (vous n'êtes PAS obligé de choisir un kit pour chaque PNJ - on vous demandera de le faire pour chacun d'entre eux).  Cet add-on est destiné à remplacer directement la fonction de sélection de kit qui fait partie du processus d'installation conventionnel de Tutu.",
         "urls": [
-            "http://usoutpost31.com/easytutu/"
+            "https://usoutpost31.com/easytutu/"
         ],
         "categories": [
             "PNJ (autre)"
@@ -50478,7 +50504,7 @@
     },
     {
         "name": "Archimage",
-        "description": "Un kit de prestige pour ensorceleur. Pour y avoir accès il faut être un ensorceleur de niveau 10 minimum et boire une potion (qu'il faut se donner via la console ou ShadowKeeper). Avantages : des sorts de prêtres, des sorts inédits, une incantation accélérée, des hlas en capacités spéciales. Inconvénient : perte de tout l'xp puis réduction de l'xp reçu.",
+        "description": "Un kit de prestige pour ensorceleur. Pour y avoir accès il faut être un ensorceleur de niveau 10 minimum et boire une potion (qu'il faut se donner via la console ou [[ShadowKeeper]]). Avantages : des sorts de prêtres, des sorts inédits, une incantation accélérée, des hlas en capacités spéciales. Inconvénient : perte de tout l'xp puis réduction de l'xp reçu.",
         "urls": [
             "https://cafe.naver.com/nextrealm?iframe_url_utf8=%2FArticleRead.nhn%253Fclubid%3D12857088%2526menuid%3D25%2526boardtype%3DI%2526page%3D3%2526specialmenutype%3D%2526articleid%3D54636%2526referrerAllArticles%3Dfalse"
         ],
@@ -50585,7 +50611,7 @@
         ],
         "team": [],
         "notes": [
-            "Attention, si on joue Drizzt la métamorphose en elfe noir fait planter le jeu. Pour éviter ça il faut changer l'animation de Drizzt en elfe normal avant de parler à Adalon (ShadowKeeper). Il est possible de reprendre l’animation de drizzt après avoir repris forme normale."
+            "Attention, si on joue Drizzt la métamorphose en elfe noir fait planter le jeu. Pour éviter ça il faut changer l'animation de Drizzt en elfe normal avant de parler à Adalon ([[ShadowKeeper]]). Il est possible de reprendre l’animation de Drizzt après avoir repris forme normale."
         ],
         "translation_state": "n/a",
         "safe": 1,
