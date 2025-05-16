@@ -391,7 +391,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "fr"
+            "fr",
+            "cn"
         ],
         "status": "active",
         "last_update": "2023-09",
@@ -1207,7 +1208,8 @@
             "es",
             "cn",
             "cz",
-            "pt"
+            "pt",
+            "nl"
         ],
         "status": "active",
         "last_update": "2024-12",
@@ -2388,10 +2390,11 @@
             "ru",
             "cn",
             "es",
-            "se"
+            "se",
+            "pt"
         ],
         "status": "active",
-        "last_update": "2024-01",
+        "last_update": "2025-05",
         "tp2": "Ascension"
     },
     {
@@ -3945,7 +3948,7 @@
             "en",
             "fr",
             "pl",
-            "br",
+            "pt",
             "ru",
             "es",
             "se"
@@ -5567,7 +5570,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "n/a"
     },
     {
@@ -8670,7 +8673,7 @@
         "tp2": "enemyupgrade"
     },
     {
-        "name": "Duality's Odd Quest Mod",
+        "name": "Imnesvale",
         "description": "Ce mini mod ajoute une rencontre supplémentaire dans les Collines d'Umar au chapitre 6. Ce n'est que le prétexte à un combat assez difficile contre des ennemis de niveaux 15 à 20 et très bien équipés. L'auteur a prévu 3 niveaux de difficulté : facile (déjà bien assez ardu), difficile et carrément démentiel.",
         "urls": [
             "http://www.shsforums.net/files/file/614-ds-odd-quest-mod/",
@@ -8881,7 +8884,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2016-09",
+        "last_update": "2025-05",
         "tp2": "non-weidu"
     },
     {
@@ -9451,7 +9454,7 @@
         "tp2": "dendjelion"
     },
     {
-        "name": "Derat's Unused Kits Pack",
+        "name": "Deratiseur's Unused Kits Pack",
         "description": "Ce mod regroupe tous les profils créés par Deratiseur. Vous y retrouverez le Chasseur de vermine (kit de rôdeur), le Porteur de haine (kit de guerrier pour les demi-orques), le Prêcheur des flammes (kit de clerc offensif), le Seigneur de guerre (kit pour jumelé guerrier-&gt;mage) et bien d'autres.|Son contenu évolue selon l'humeur de Deratiseur (ajout ou retrait de profils).",
         "urls": [
             "https://www.baldursgateworld.fr/viewtopic.php?t=19490",
@@ -9914,7 +9917,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-04",
         "tp2": "divine_remix"
     },
     {
@@ -10945,7 +10948,7 @@
         "safe": 2,
         "languages": [],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-05",
         "tp2": "EEex"
     },
     {
@@ -12815,7 +12818,7 @@
         "description": "Elminster en personne vous charge d'enquêter sur la disparition des habitants d'un village au sud d'Athkatla. Vous partez sur le champ et tombez nez-à-nez avec un démon qui a élu domicile dans le phare du village. Ce dernier vous promet d'éclairer votre lanterne contre une petite faveur. Ainsi débute votre aventure annoncée comme toute sauf linéaire et qui vous mènera au travers d'une 100aine de nouvelles cartes (dont 5 majeures) sur la trace de nouvelles quêtes, dans lesquelles vous croiserez plus de 200 PNJ, 17 magasins, 4 cinématiques... un mod pour renouveler l'expérience BG2.",
         "urls": [
             "http://www.shsforums.net/files/file/1084-fishing-for-trouble/",
-            "https://github.com/InfinityMods/FishingForTrouble"
+            "https://github.com/Spellhold-Studios/FishingForTrouble"
         ],
         "categories": [
             "Quête"
@@ -12836,7 +12839,8 @@
         "safe": 2,
         "languages": [
             "en",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
         "last_update": "2024-01",
@@ -13842,10 +13846,11 @@
         "languages": [
             "en",
             "fr",
-            "es"
+            "es",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "druidsor"
     },
     {
@@ -15655,7 +15660,7 @@
     },
     {
         "name": "IEP Extended Banters",
-        "description": "Ce projet a pour intention de développer le réalisme et l'intérêt des PNJ de Bioware en les dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires. 13 mods sont d'ores et déjà issus de ce projet ambitieux. Il s'agit de : |IEP Extended Banters, [[Cernd Friendship]], [[Dorn Friendship]], [[Haer'dalis Friendship]], [[Hexxat Friendship]], [[Imoen Friendship]], [[Korgan Friendship]], [[Mazzy Friendship]], [[Minsc Friendship]], [[Sarevok Friendship]], [[Valygar Friendship]], [[Viconia Friendship]] et [[Yoshimo Friendship]]. Seuls 5 d'entre eux ont été traduits.",
+        "description": "Ce projet a pour intention de développer le réalisme et l'intérêt des PNJ de Bioware en les dotant d'interjections, de dialogues, de banters et de relations amicales supplémentaires. 13 mods sont d'ores et déjà issus de ce projet ambitieux. Il s'agit de : |[[Cernd Friendship]], [[Dorn Friendship]], [[Haer'dalis Friendship]], [[Hexxat Friendship]], [[Imoen Friendship]], [[Jaheira Friendship]], [[Korgan Friendship]], [[Mazzy Friendship]], [[Minsc Friendship]], [[Sarevok Friendship]], [[Valygar Friendship]], [[Viconia Friendship]] et [[Yoshimo Friendship]].",
         "urls": [
             "https://www.spellholdstudios.net/ie/npciep",
             "https://github.com/Spellhold-Studios/IEP-Extended-Banters"
@@ -20097,10 +20102,11 @@
         "languages": [
             "en",
             "ru",
-            "pl"
+            "pl",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2023-10",
+        "last_update": "2025-05",
         "tp2": "cdlore"
     },
     {
@@ -21520,7 +21526,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "d2-randomkits"
     },
     {
@@ -25667,7 +25673,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2024-05",
+        "last_update": "2025-05",
         "tp2": "PPE"
     },
     {
@@ -28596,17 +28602,11 @@
         "notes": [
             "Obsolète au profit de : [[SubtleD's Item Tweaks]], [[Combat Skills & Proficiencies]] et [[SubtleD's Stat Overhauls]]."
         ],
-        "translation_state": "yes",
+        "translation_state": "no",
         "safe": 0,
         "languages": [
-            "cz",
-            "de",
             "en",
-            "es",
-            "fr",
-            "kr",
-            "pl",
-            "ru"
+            "pl"
         ],
         "status": "obsolete",
         "last_update": "2023-09",
@@ -29118,7 +29118,7 @@
     },
     {
         "name": "Shards of Ice",
-        "description": "Ce mod comprend trois composants, dont deux quêtes inédites et fun. La première quête, intitulée \"The Price of Friendship\" (le prix de l'amitié), se déroule à Franc-Marché. Pour la déclencher, vous devrez vous reposer à l'auberge de la ville avec Imoen dans votre groupe. Votre demi-sœur disparaît au terme de la nuit, et il vous incombe de la retrouver. La deuxième quête, qui s'intitule \"Some of my best friends are Slimes\" (certains de mes meilleurs amis sont des vases), se déroule dans la forêt de Téthyr. Vous ferez là-bas une surprenante rencontre avec une femme qui semble beaucoup apprécier les vases, et qui vous confiera une quête. Le dernier composant s'appelle \"You could restore the Summon Cow spell, but why ?\" (vous pourriez restaurer le sort de Convocation de Vache, mais pour quoi faire ?). Il s'agit de l'ajout dans le jeu d'une version du sort de Convocation de Vache, disponible dans un nouveau magasin à Athkatla.",
+        "description": "Ce mod comprend trois composants, dont deux quêtes inédites et fun. La première quête, intitulée `The Price of Friendship` (le prix de l'amitié), se déroule à Franc-Marché. Pour la déclencher, vous devrez vous reposer à l'auberge de la ville avec Imoen dans votre groupe. Votre demi-sœur disparaît au terme de la nuit, et il vous incombe de la retrouver. La deuxième quête, qui s'intitule `Some of my best friends are Slimes` (certains de mes meilleurs amis sont des vases), se déroule dans la forêt de Téthyr. Vous ferez là-bas une surprenante rencontre avec une femme qui semble beaucoup apprécier les vases, et qui vous confiera une quête. Le dernier composant s'appelle `You could restore the Summon Cow spell, but why ?` (vous pourriez restaurer le sort de Convocation de Vache, mais pour quoi faire ?). Il s'agit de l'ajout dans le jeu d'une version du sort de Convocation de Vache, disponible dans un nouveau magasin à Athkatla.",
         "urls": [
             "https://www.gibberlings3.net/mods/other/shards",
             "https://github.com/Gibberlings3/Shards_of_Ice"
@@ -29150,7 +29150,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2019-05",
+        "last_update": "2025-05",
         "tp2": "shardsofice"
     },
     {
@@ -29977,7 +29977,8 @@
             "it",
             "pl",
             "cn",
-            "jp"
+            "jp",
+            "pt"
         ],
         "status": "active",
         "last_update": "2021-09",
@@ -31437,7 +31438,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-05",
         "tp2": "sword_and_fist"
     },
     {
@@ -34159,7 +34160,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "d2-workshopkits"
     },
     {
@@ -34309,7 +34310,7 @@
             "ru"
         ],
         "status": "wip",
-        "last_update": "2023-03",
+        "last_update": "2025-04",
         "tp2": "tobr"
     },
     {
@@ -34881,7 +34882,7 @@
         "description": "Il s'agit d'une quête d'exploration d'une tour (nouveaux graphiques selon la FAQ) qui attire certains pour les emprisonner (un peu comme l'île de glace de TotSC). Il nécessite ToB et s'adresse à des personnages de niveau 10-13, équipés d'armes assez puissantes (il faut avoir au moins un paire d'armes +3) car il y a quelques monstres assez costauds. Pour lancer l'aventure, il vous suffit d'aller voir le mage Tian à l'auberge du Crâne Tordu (portes de la ville), et lui parler. Il a une mission pour vous : récupérer un livre, caché dans une vieille tour abandonnée, la tour sans retour... Il est prêt à payer une grosse somme pour cela. Relèverez-vous le défi ?",
         "urls": [
             "http://www.blackwyrmlair.net/~valiant/",
-            "https://github.com/InfinityMods/TowerOfDeception",
+            "https://github.com/Black-Wyrm-Lair/TowerOfDeception",
             "https://github.com/The-Gate-Project/TowerOfDeception"
         ],
         "categories": [
@@ -35949,10 +35950,11 @@
             "fr",
             "it",
             "pl",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
-        "last_update": "2022-09",
+        "last_update": "2025-05",
         "tp2": "underrep"
     },
     {
@@ -37039,7 +37041,7 @@
         "tp2": "W_GUI"
     },
     {
-        "name": "W_PackMule",
+        "name": "W_Packmule",
         "description": "Ce mod ajout une mule de bât qui vous accompagnera partout, transportant vos objets sans jamais défaillir.",
         "urls": [
             "http://www.shsforums.net/files/file/954-w-packmule/",
@@ -39289,11 +39291,11 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "2024-12",
         "tp2": "peacespeaker"
     },
@@ -39947,10 +39949,11 @@
         "tp2": ""
     },
     {
-        "name": "MegaMod: Mazzy Romance, Clara NPC...",
+        "name": "All Things Mazzy",
         "description": "Il s'agit d'une collection de mods de PNJ créés par BCaesar et Ratatoskr qui peuvent s'installer indépendamment les uns des autres :| - All Things Mazzy : voie d'amitié, romance, interactions avec les PNJ...| - Keepable Clara NPC : sauver Clara de Hexxat et la recruter.| - Darkside Anomen.| - Minsc| - Neera Romance.| - Flying Aerie.| - Dorn| - HaerDalis Romance| - Jaheira| - Wilson Romance| - For The Evil!| - For The Good!| - Et bien d'autres petits composants...",
         "urls": [
-            "https://forums.beamdog.com/discussion/71473/"
+            "https://forums.beamdog.com/discussion/71473/",
+            "https://github.com/Ratatoskr589/All-Things-Mazzy"
         ],
         "categories": [
             "PNJ (autre)"
@@ -39967,9 +39970,12 @@
         "notes": [],
         "translation_state": "no",
         "safe": 2,
-        "languages": [],
+        "languages": [
+            "en",
+            "ru"
+        ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-05",
         "tp2": "AllThingsMazzy"
     },
     {
@@ -40321,7 +40327,7 @@
         "description": "Enfin, Irenicus devient un personnage recrutable dès le début de ToB ! Ce mod rajoute des quêtes, des dialogues, et un final autrement époustouflant. Attention, vos réponses influent grandement sur vos relations avec Irenicus, et le contrat que vous remplissez avec lui en l'intégrant à votre équipe aura aussi des répercussions négatives.",
         "urls": [
             "http://www.onlinefiction.net/LR/LongerRoad.html",
-            "https://github.com/InfinityMods/LongerRoadEE"
+            "https://github.com/Spellhold-Studios/LongerRoad"
         ],
         "categories": [
             "PNJ recrutable"
@@ -40346,7 +40352,8 @@
             "fr",
             "pl",
             "es",
-            "ru"
+            "ru",
+            "cn"
         ],
         "status": "active",
         "last_update": "2023-12",
@@ -40852,7 +40859,7 @@
             "ru"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "Loretakers"
     },
     {
@@ -41934,6 +41941,7 @@
         ],
         "games": [
             "BGEE",
+            "SoD",
             "BG2EE",
             "EET"
         ],
@@ -41949,7 +41957,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-05",
         "tp2": "Blackhearts"
     },
     {
@@ -42163,7 +42171,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "zbpod"
     },
     {
@@ -42331,10 +42339,11 @@
             "en",
             "de",
             "cn",
-            "ru"
+            "ru",
+            "es"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "Godcall"
     },
     {
@@ -42690,7 +42699,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-05",
         "tp2": "lca"
     },
     {
@@ -42901,7 +42910,7 @@
         "languages": [
             "en"
         ],
-        "status": "wip",
+        "status": "missing",
         "last_update": "2024-11",
         "tp2": "kinfriendship"
     },
@@ -43096,6 +43105,7 @@
         ],
         "games": [
             "BG2EE",
+            "SoD",
             "EET"
         ],
         "authors": [
@@ -43112,7 +43122,7 @@
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-01",
+        "last_update": "2025-05",
         "tp2": "Lichdom_EET"
     },
     {
@@ -43420,7 +43430,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "ZSTweaks"
     },
     {
@@ -44195,7 +44205,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2025-03",
+        "last_update": "2025-05",
         "tp2": "ZS_ShadowdancerOverhaul"
     },
     {
@@ -45184,7 +45194,7 @@
             "en"
         ],
         "status": "active",
-        "last_update": "2024-11",
+        "last_update": "2025-05",
         "tp2": "g3cip"
     },
     {
@@ -46102,7 +46112,7 @@
         "languages": [
             "en"
         ],
-        "status": "wip",
+        "status": "missing",
         "last_update": "2025-01",
         "tp2": "mkhiinbg2"
     },
@@ -46129,7 +46139,7 @@
         "languages": [
             "en"
         ],
-        "status": "wip",
+        "status": "missing",
         "last_update": "2024-11",
         "tp2": "reactivitypack"
     },
@@ -48752,11 +48762,11 @@
         "team": [],
         "notes": [],
         "translation_state": "no",
-        "safe": 2,
+        "safe": 1,
         "languages": [
             "en"
         ],
-        "status": "active",
+        "status": "missing",
         "last_update": "2025-01",
         "tp2": "baldurianbarhop"
     },
@@ -49018,7 +49028,7 @@
     },
     {
         "name": "Detailed Description",
-        "description": "Dans la même veine que [[AutoDescription]] ce mod permet d'afficher les descriptions de tous les objets du jeu. À installer en dernier.",
+        "description": "Dans la même veine que [[AutoDescription]] ce mod permet d'afficher les descriptions de tous les objets du jeu.",
         "urls": [
             "https://github.com/shohysie/DetailedDescription"
         ],
@@ -49034,14 +49044,16 @@
             "Shohy"
         ],
         "team": [],
-        "notes": [],
+        "notes": [
+            "À installer en dernier."
+        ],
         "translation_state": "no",
         "safe": 2,
         "languages": [
             "cn"
         ],
         "status": "active",
-        "last_update": "2025-02",
+        "last_update": "2025-05",
         "tp2": "DetailedDescription"
     },
     {
@@ -49157,7 +49169,7 @@
         "description": "Ce gigantesque add-on ajoute 10 nouveaux PNJ (certains provenant de BG1), 180 nouveaux objets, 170 nouveaux sorts, une 40aine de créatures supplémentaires, 78 nouveaux kits, 5 grandes quêtes et une quête gigantesque. Vous devez disposer d'une installation avec Throne of Bhaal.",
         "urls": [
             "https://baldursgate.fandom.com/wiki/The_Darkest_Day",
-            "https://github.com/InfinityMods/TDDz"
+            "https://github.com/Spellhold-Studios/TDDz"
         ],
         "categories": [
             "Quête",
@@ -49196,7 +49208,7 @@
             "es"
         ],
         "status": "active",
-        "last_update": "2020-08",
+        "last_update": "2025-05",
         "tp2": "TDDz"
     },
     {
@@ -49652,7 +49664,7 @@
             "fr"
         ],
         "status": "active",
-        "last_update": "2025-04",
+        "last_update": "2025-05",
         "tp2": "iwd2ee"
     },
     {
