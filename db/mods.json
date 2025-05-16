@@ -17400,7 +17400,9 @@
         "team": [
             "Streen"
         ],
-        "notes": [],
+        "notes": [
+            "La traduction française est disponible <a href='https://www.baldursgateworld.fr/viewtopic.php?t=34887'>ici</a>."
+        ],
         "translation_state": "wip",
         "safe": 2,
         "languages": [
