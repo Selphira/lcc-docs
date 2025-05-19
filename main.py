@@ -2,7 +2,10 @@
 
 import argparse
 from importlib.util import module_from_spec, spec_from_file_location
+import logging
 import sys
+
+logger = logging.getLogger(__name__)
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Lance un script")
@@ -16,6 +19,8 @@ if __name__ == "__main__":
     spec = spec_from_file_location("module", args.filename)
     module = module_from_spec(spec)
     spec.loader.exec_module(module)
+
+    logging.basicConfig(filename="lccdocs.log", level=logging.INFO)
 
     if hasattr(module, "main"):
         module.main()

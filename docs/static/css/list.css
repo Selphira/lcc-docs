@@ -392,11 +392,10 @@ summary.category_name {
 
 .table .row .icons {
     display: flex;
-    column-gap: 4px;
+    gap: 3px;
+    padding: 2px;
+    min-height: 28px;
     font-size: var(--font-size-medium);
-    line-height: initial;
-    justify-self: center;
-    padding: 3px;
 }
 
 .row.game {
