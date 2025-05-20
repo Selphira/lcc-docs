@@ -398,12 +398,6 @@ summary.category_name {
     font-size: var(--font-size-medium);
 }
 
-.row.game {
-    position: sticky;
-    top: 154px;
-    z-index: 5;
-}
-
 .table .jeu {
     display: flex;
     flex-wrap: wrap;
